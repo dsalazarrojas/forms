@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Window Treatment Selection Survey
+    pages:
+    - id: 1
+      name: window_treatment_survey_form
+      label: Window Treatment Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: room_details
+      label: Room Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: window_dimensions
+      label: Window Dimensions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1x2''}'
+      - '{''value'': ''2x3''}'
+      - '{''value'': ''2x4''}'
+      required: true
+    - id: 6
+      name: drag_and_drop
+      label: Drag and Drop
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1''}'
+      - '{''value'': ''2''}'
+      - '{''value'': ''3''}'
+      - '{''value'': ''4''}'
+      - '{''value'': ''5''}'
+      required: false
+    - id: 7
+      name: organized_form_submissions
+      label: Organized Form Submissions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: false
+    - id: 8
+      name: easy_data_collection
+      label: Easy Data Collection
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: false
+    - id: 9
+      name: drag_and_drop_interface
+      label: Drag and Drop Interface
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: false
+    - id: 10
+      name: organized_form_builder_form_templates
+      label: Organized Form Builder Form Templates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: jotform_form_builder_form_templates
+      label: Jotform Form Builder Form Templates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: collection_client_preferences_room_details_budgets_window_dimensions
+      label: Collection Client Preferences, Room Details, Budgets, Window Dimensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: drag_and_drop
+      label: Drag and Drop
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: false
+    - id: 14
+      name: easy_data_collection_organizer
+      label: Easy Data Collection Organizer
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Yes''}'
+      - '{''value'': ''No''}'
+      required: false

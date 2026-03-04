@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Assistance Request Form
+    pages:
+    - id: 1
+      name: financial_assistance_request_form_data
+      label: Financial Assistance Request Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: applicant_email
+      label: applicant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: household_income
+      label: household income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: financial_aid_needed
+      label: financial aid needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: financial_aid_amount
+      label: financial aid amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employment_status
+      label: employment status
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Self-Employed
+      - Unemployed
+      - Retired
+      required: false

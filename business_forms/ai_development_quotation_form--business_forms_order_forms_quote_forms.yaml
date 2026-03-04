@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Development Quotation Form
+    pages:
+    - id: 1
+      name: section_header_client_info
+      label: '--- Client Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Full name
+      hint: Enter your legal name or company representative name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email address
+      hint: We'll send your quote to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone number
+      hint: Optional, for urgent communications
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_project_details
+      label: '--- Project Requirements ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_title
+      label: Project title
+      hint: Brief name for your AI project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_category
+      label: Type of AI solution needed
+      hint: Select the primary focus area
+      type: select_one
+      options:
+      - Machine Learning Model
+      - Natural Language Processing
+      - Computer Vision
+      - Predictive Analytics
+      - Chatbot/Virtual Assistant
+      - Recommendation System
+      - Other
+      required: true
+    - id: 9
+      name: project_description
+      label: Detailed project description
+      hint: Explain what you want the AI to accomplish
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: timeline_expectation
+      label: Expected project timeline (weeks)
+      hint: How soon do you need this completed?
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: budget_range
+      label: Budget range (USD)
+      hint: Approximate amount you're considering
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000 - $15,000
+      - $15,000 - $30,000
+      - $30,000 - $50,000
+      - Over $50,000
+      required: false
+    - id: 12
+      name: data_availability
+      label: Do you have data available for training?
+      hint: AI models typically require data to train on
+      type: select_one
+      options:
+      - Yes, fully prepared dataset
+      - Yes, raw data needs processing
+      - No, need help collecting data
+      - Not sure
+      required: true
+    - id: 13
+      name: integration_requirements
+      label: Integration requirements
+      hint: Where will the AI solution be deployed?
+      type: select_multiple
+      options:
+      - Web application
+      - Mobile app
+      - Desktop software
+      - Cloud platform
+      - On-premise system
+      - API service
+      - Other
+      required: false
+    - id: 14
+      name: technical_expertise_level
+      label: Your team's technical expertise level
+      hint: Helps us determine the right solution complexity
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 15
+      name: maintenance_preference
+      label: Maintenance preference
+      hint: Who will maintain the AI solution after deployment?
+      type: select_one
+      options:
+      - Our team will maintain
+      - Need ongoing support from developer
+      - Hybrid approach
+      required: false
+    - id: 16
+      name: section_header_additional_info
+      label: '--- Additional Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_requirements
+      label: Special requirements or constraints
+      hint: Any unique technical or business requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reference_examples
+      label: Reference examples
+      hint: Links to similar solutions you admire
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_ai_experience
+      label: Previous experience with AI/ML
+      hint: Any prior AI implementations in your organization
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: quotation_date
+      label: Request date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information that might help us prepare your quote
+      type: text
+      options: []
+      required: false

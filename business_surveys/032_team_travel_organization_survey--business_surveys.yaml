@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Travel Organization Survey
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: traveler_details
+      label: Traveler Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_dates
+      label: travel_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_type
+      label: travel_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_purpose
+      label: travel_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_leaders
+      label: team_leaders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: travel_location
+      label: travel_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_length
+      label: travel_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: travel_cost
+      label: travel_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false

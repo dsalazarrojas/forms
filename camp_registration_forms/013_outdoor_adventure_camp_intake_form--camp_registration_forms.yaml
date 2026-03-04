@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: outdoor-adventure-camp-intake-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_medical_conditions
+      label: Participant Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: participant_medical_conditions_options
+      label: Conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Diabetes''}'
+      - '{''value'': ''Asthma''}'
+      - '{''value'': ''Epilepsy''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 9
+      name: participant_medical_treatment
+      label: Participant Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_medical_treatment_details
+      label: Medical Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_relationshiptype
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Mother''}'
+      - '{''value'': ''Father''}'
+      - '{''value'': ''Sister''}'
+      - '{''value'': ''Brother''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 12
+      name: emergency_contact_relationsship
+      label: Emergency Contact Relationship Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: first_aid_certification
+      label: First Aid Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 14
+      name: first_aid_training
+      label: First Aid Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_activities
+      label: Participant Activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: participant_activities_options
+      label: Activities
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Hiking''}'
+      - '{''value'': ''Rock Climbing''}'
+      - '{''value'': ''Kayaking''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 17
+      name: participant_medical_treatment_conditions
+      label: Participant Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: participant_medical_treatment_details
+      label: Medical Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: first_aid_instruction
+      label: First Aid Instruction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: first_aid_training_instruction_details
+      label: First Aid Training Instruction Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: participant_medical_insurance
+      label: Participant Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: participant_medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_medical_insurance_id
+      label: Medical Insurance ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_medical_insurance_plan
+      label: Medical Insurance Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: participant_previous_injury
+      label: Previous Injury
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transformative Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating_frequency
+      label: rating_frequency
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 7
+      name: rating_improvement
+      label: rating_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - Very Poor
+      - 2 - Poor
+      - 3 - Neutral
+      - 4 - Good
+      - 5 - Very Good
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

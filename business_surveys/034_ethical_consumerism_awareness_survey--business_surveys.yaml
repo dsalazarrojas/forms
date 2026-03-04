@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ethical Consumerism Awareness Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: ethical_purchasing_behaviors
+      label: ethical_purchasing_behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Always consider the environmental impact of my purchasing decisions''}'
+      - '{''label'': ''Often consider the environmental impact of my purchasing decisions''}'
+      - '{''label'': ''Sometimes consider the environmental impact of my purchasing
+        decisions''}'
+      - '{''label'': ''Rarely consider the environmental impact of my purchasing decisions''}'
+      - '{''label'': ''Never consider the environmental impact of my purchasing decisions''}'
+      required: false
+    - id: 4
+      name: purchasing_patterns
+      label: purchasing_patterns
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Buy only from brands I know are sustainable''}'
+      - '{''label'': ''Buy mostly from brands I know are sustainable''}'
+      - '{''label'': ''Buy some from brands I know are sustainable''}'
+      - '{''label'': ''Buy only from non-sustainable brands''}'
+      - '{''label'': ''Buy mostly from non-sustainable brands''}'
+      - '{''label'': ''Buy some from non-sustainable brands''}'
+      required: false
+    - id: 5
+      name: social_awareness
+      label: social_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''I have a very good understanding of where my money goes''}'
+      - '{''label'': ''I have a good understanding of where my money goes''}'
+      - '{''label'': ''I have some understanding of where my money goes''}'
+      - '{''label'': ''I have little understanding of where my money goes''}'
+      - '{''label'': ''I have no idea where my money goes''}'
+      required: false

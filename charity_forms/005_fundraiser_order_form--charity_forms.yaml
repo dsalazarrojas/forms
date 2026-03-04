@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraiser Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: Enter the date of the order
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount_raised
+      label: Amount Raised
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donation_target
+      label: Donation Target
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: donor_email
+      label: Donor Email
+      hint: Enter the Donor Email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message_to_donor
+      label: Message to Donor
+      hint: Enter message to donor
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: donation_amount
+      label: Donation Amount
+      hint: Select donation amount
+      type: select_one
+      options:
+      - '5'
+      - '10'
+      - '20'
+      - '50'
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Square
+      - PayPal
+      required: true
+    - id: 11
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: tips
+      label: Tips
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: Enter notes about the order
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: donor_address
+      label: Donor Address
+      hint: Enter donor address
+      type: text
+      options: []
+      required: false

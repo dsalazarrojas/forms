@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camera Demo Request Survey
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Person requesting the camera demo
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Company or group hosting the demo
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email to confirm demo scheduling
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: preferred_date
+      label: Preferred Demo Date
+      hint: Date or date range for the demo
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time
+      label: Preferred Time
+      hint: Time of day preference
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: camera_models_of_interest
+      label: Camera Models of Interest
+      hint: Specific models you would like to see
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: Size of the demo audience
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: demo_location
+      label: Demo Location
+      hint: Address or virtual platform details
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Technical requirements or special requests
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_preference
+      label: Follow Up Preference
+      hint: Best method to follow up with scheduling
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - No Preference
+      required: true

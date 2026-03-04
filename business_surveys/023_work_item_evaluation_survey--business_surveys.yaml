@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: work_item_evaluation_survey
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: evaluation_item_type
+      label: Evaluation Item Type
+      hint: null
+      type: select_one
+      options:
+      - Project
+      - Work Item
+      - Task
+      - Sub-Task
+      required: false
+    - id: 3
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Fair
+      - Poor
+      - Good
+      - Excellent
+      required: false
+    - id: 4
+      name: evaluation_item
+      label: Evaluation Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_scale_item
+      label: Evaluation Scale Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_scale_item_comment
+      label: Evaluation Scale Item Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_scale_item_comment
+      label: Evaluation Scale Item Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_scale_item_rating
+      label: Evaluation Scale Item Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_scale_item_rating_comment
+      label: Evaluation Scale Item Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_comment
+      label: Evaluation Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: evaluation_time_scale
+      label: Evaluation Time Scale
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: evaluation_time_scale_comment
+      label: Evaluation Time Scale Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: evaluation_project_effectiveness
+      label: Evaluation Project Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: evaluation_project_effectiveness_comment
+      label: Evaluation Project Effectiveness Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: evaluation_project_quality
+      label: Evaluation Project Quality
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 17
+      name: evaluation_project_quality_comment
+      label: Evaluation Project Quality Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: evaluation_project_ease_of_use
+      label: Evaluation Project Ease of Use
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 19
+      name: evaluation_project_ease_of_use_comment
+      label: Evaluation Project Ease of Use Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: evaluation_project_value
+      label: Evaluation Project Value
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 21
+      name: evaluation_project_value_comment
+      label: Evaluation Project Value Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_project_satisfaction
+      label: Evaluation Project Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 23
+      name: evaluation_project_satisfaction_comment
+      label: Evaluation Project Satisfaction Comment
+      hint: null
+      type: text
+      options: []
+      required: false

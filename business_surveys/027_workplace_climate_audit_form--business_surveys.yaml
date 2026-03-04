@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Climate Audit Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Workplace Climate Audit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: rating_1
+      label: Rating 1
+      hint: Rate on a scale of 1 to 10.
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_2
+      label: Rating 2
+      hint: Rate on a scale of 1 to 10.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_3
+      label: Rating 3
+      hint: Rate on a scale of 1 to 10.
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_4
+      label: Rating 4
+      hint: Rate on a scale of 1 to 10.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_5
+      label: Rating 5
+      hint: Rate on a scale of 1 to 10.
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: lease_agreement_records_release_form
+    pages:
+    - id: 1
+      name: tenant_details
+      label: tenant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: permission_date
+      label: permission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: record_access
+      label: access_records
+      hint: Select the records you would like to access
+      type: select_multiple
+      options:
+      - All Records
+      - Specific Record
+      required: true
+    - id: 4
+      name: specific_record_dates
+      label: specific_record_dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: tenant_signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: landlord_info
+      label: landlord
+      hint: Select the landlord who will be accessing the records
+      type: select_one
+      options:
+      - Landlord A
+      - Landlord B
+      - Landlord C
+      required: true
+    - id: 8
+      name: tenant_info
+      label: tenant
+      hint: Select the tenants who will be accessed
+      type: select_multiple
+      options:
+      - Tenant A
+      - Tenant B
+      - Tenant C
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: tenant_email
+      label: tenant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: landlord_email
+      label: landlord_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: tenant_phone
+      label: tenant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: landlord_phone
+      label: landlord_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: tenant_address
+      label: tenant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: landlord_address
+      label: landlord_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: record_type
+      label: record_type
+      hint: Select the type of record you will be accessing
+      type: select_one
+      options:
+      - Lease Agreement
+      - Lease Addendum
+      - Lease Renewal
+      required: true
+    - id: 18
+      name: reason_for_access
+      label: reason_for_access
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tenant_id
+      label: tenant_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: landlord_id
+      label: landlord_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: property_state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: property_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: property_zip
+      label: zip
+      hint: null
+      type: number
+      options: []
+      required: false

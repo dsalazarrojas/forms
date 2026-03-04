@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Recommendation Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Graduation
+      - Retirement
+      - Conference
+      - Holiday Party
+      - Other
+      required: true
+    - id: 8
+      name: guest_count
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_preferences
+      label: -- Preferences & Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: cuisine_preference
+      label: Cuisine Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Asian
+      - Mediterranean
+      - Indian
+      - French
+      - Vegetarian
+      - Other
+      required: true
+    - id: 12
+      name: dietary_restrictions
+      label: Special Dietary Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut-free
+      - Halal
+      - Kosher
+      - None
+      required: false
+    - id: 13
+      name: service_style_preference
+      label: Preferred Service Style
+      hint: null
+      type: select_one
+      options:
+      - Buffet
+      - Plated Service
+      - Family Style
+      - Cocktail Reception
+      - Stations
+      - Combination
+      required: true
+    - id: 14
+      name: budget_range
+      label: Budget Range Per Guest
+      hint: null
+      type: select_one
+      options:
+      - Under 25 dollars
+      - 25 to 50 dollars
+      - 50 to 75 dollars
+      - 75 to 100 dollars
+      - Over 100 dollars
+      - No specific budget
+      required: true
+    - id: 15
+      name: section_service_needs
+      label: -- Service Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: additional_services
+      label: Additional Services Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Bar Service
+      - Beverage Service
+      - Table Setup
+      - Linens and Place Settings
+      - Cleanup Service
+      - Staffing
+      - None
+      required: false
+    - id: 17
+      name: bar_service_type
+      label: Bar Service Type (if needed)
+      hint: null
+      type: select_one
+      options:
+      - Full Bar
+      - Beer and Wine Only
+      - Non-Alcoholic
+      - Not Needed
+      required: false
+    - id: 18
+      name: equipment_rental_needed
+      label: Equipment Rental Services Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: section_priorities
+      label: -- Priorities & Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: top_priority
+      label: Top Priority for This Event
+      hint: null
+      type: select_one
+      options:
+      - Food Quality
+      - Variety of Options
+      - Cost Efficiency
+      - Unique Experience
+      - Professional Service
+      - Quick Setup
+      - Environmental Sustainability
+      required: true
+    - id: 21
+      name: special_themes
+      label: Special Themes or Concepts
+      hint: Elegant, casual, themed, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: setup_timing
+      label: Preferred Setup Timing
+      hint: How early before event to arrive
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_vendor
+      label: Have you used catering services before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_for_recommendations
+      label: I agree to be contacted with catering recommendations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Operations Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      type: note
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional - for follow-up purposes
+      type: text
+      required: false
+    - id: 3
+      name: respondent_department
+      label: Department
+      hint: Which department do you work in
+      type: select_one
+      options:
+      - Operations
+      - Management
+      - Finance
+      - Human Resources
+      - IT
+      - Sales
+      - Marketing
+      - Other
+      required: true
+    - id: 4
+      name: respondent_role
+      label: Your Role
+      hint: Your position in the company
+      type: text
+      required: false
+    - id: 5
+      name: tenure_years
+      label: Years with Company
+      hint: How long have you been employed
+      type: number
+      required: false
+    - id: 6
+      name: section_process_efficiency
+      label: -- Process Efficiency --
+      type: note
+      required: false
+    - id: 7
+      name: process_effectiveness
+      label: How effective are our current business processes
+      hint: Rate overall process effectiveness
+      type: select_one
+      options:
+      - Very Ineffective
+      - Somewhat Ineffective
+      - Neutral
+      - Somewhat Effective
+      - Very Effective
+      required: true
+    - id: 8
+      name: process_bottlenecks
+      label: What are the main process bottlenecks
+      hint: Identify key areas of inefficiency
+      type: select_multiple
+      options:
+      - Unclear Procedures
+      - Outdated Systems
+      - Poor Communication
+      - Lack of Resources
+      - Insufficient Training
+      - Unclear Responsibilities
+      required: false
+    - id: 9
+      name: automation_potential
+      label: Which processes could benefit from automation
+      hint: Select areas for improvement
+      type: select_multiple
+      options:
+      - Data Entry
+      - Report Generation
+      - Approval Workflows
+      - Scheduling
+      - Communications
+      - Inventory Management
+      required: false
+    - id: 10
+      name: section_employee_satisfaction
+      label: -- Employee Satisfaction --
+      type: note
+      required: false
+    - id: 11
+      name: work_environment_satisfaction
+      label: Satisfaction with Work Environment
+      hint: Rate the physical and organizational environment
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 12
+      name: tools_resources_satisfaction
+      label: Satisfaction with Tools and Resources
+      hint: Rate availability and quality of work tools
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 13
+      name: communication_effectiveness
+      label: How Effective Is Internal Communication
+      hint: Rate information flow across departments
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 14
+      name: section_challenges
+      label: -- Operational Challenges --
+      type: note
+      required: false
+    - id: 15
+      name: main_challenges
+      label: What Are Our Main Operational Challenges
+      hint: Identify top 3 areas of concern
+      type: text
+      required: false
+    - id: 16
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: What changes would you recommend
+      type: text
+      required: false
+    - id: 17
+      name: training_needs
+      label: Training or Development Needs
+      hint: What training would help you perform better
+      type: text
+      required: false
+    - id: 18
+      name: section_strategy
+      label: -- Strategic Alignment --
+      type: note
+      required: false
+    - id: 19
+      name: strategy_understanding
+      label: Do You Understand Our Business Strategy
+      hint: How clear is the company strategy to you
+      type: select_one
+      options:
+      - Not at all clear
+      - Somewhat unclear
+      - Neutral
+      - Mostly clear
+      - Very clear
+      required: true
+    - id: 20
+      name: alignment_with_strategy
+      label: Does Your Work Align With Our Strategy
+      hint: How connected is your role to company goals
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Moderately
+      - Very much
+      - Extremely
+      required: true

@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Supply Chain Survey
+    pages:
+    - id: 1
+      name: company_profile_section
+      label: "--- Company Profile ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_industry
+      label: Primary Industry
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Retail & Consumer Goods
+      - Logistics & Transportation
+      - Healthcare & Pharmaceuticals
+      - Food & Beverage
+      - Energy & Utilities
+      required: true
+    - id: 4
+      name: revenue_range
+      label: Annual Revenue Range
+      hint: null
+      type: select_one
+      options:
+      - Under $100 Million
+      - $100 Million - $1 Billion
+      - $1 Billion - $10 Billion
+      - Over $10 Billion
+      required: true
+    - id: 5
+      name: ai_adoption_section
+      label: "--- AI Adoption in Supply Chain ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: ai_functions_used
+      label: Supply Chain functions currently using AI
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Demand Forecasting & Planning
+      - Inventory Management & Optimization
+      - Logistics & Route Optimization
+      - Warehouse Automation & Robotics
+      - Strategic Procurement & Sourcing
+      - Supply Chain Risk Management
+      - Sustainability Tracking
+      required: true
+    - id: 7
+      name: ai_assistance_percentage
+      label: Percentage of supply chain operations currently assisted by AI
+      hint: Estimate the overall footprint of AI in your operations.
+      type: select_one
+      options:
+      - 0% (None)
+      - 1% - 25% (Initial Adoption)
+      - 26% - 50% (Emerging)
+      - 51% - 75% (Substantial)
+      - 76% - 100% (AI-First)
+      required: true
+    - id: 8
+      name: implementation_years
+      label: Years since first AI implementation in supply chain
+      hint: null
+      type: select_one
+      options:
+      - Have not implemented yet
+      - Less than 1 year
+      - 1 to 3 years
+      - Over 3 years
+      required: true
+    - id: 9
+      name: benefits_performance_section
+      label: "--- Benefits & Performance ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: demand_forecasting_impact
+      label: Impact on Demand Forecasting Accuracy
+      hint: null
+      type: select_one
+      options:
+      - Significantly Improved
+      - Improved
+      - No Change / Neutral
+      - Worse / More Volatile
+      required: true
+    - id: 11
+      name: inventory_cost_impact
+      label: Impact on Inventory Carrying Costs
+      hint: null
+      type: select_one
+      options:
+      - Significantly Reduced
+      - Reduced
+      - No Change
+      - Increased
+      required: true
+    - id: 12
+      name: delivery_speed_improvement
+      label: Improvement in Lead Time / Delivery Speed
+      hint: Rate from 1 (No Improvement) to 5 (Transformation).
+      type: select_one
+      options:
+      - "1"
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+      required: true
+    - id: 13
+      name: overall_ai_roi
+      label: Overall ROI observed from AI investments
+      hint: null
+      type: select_one
+      options:
+      - High ROI
+      - Moderate ROI
+      - Low ROI
+      - None or Negative ROI
+      - Too early to tell
+      required: true
+    - id: 14
+      name: barriers_challenges_section
+      label: "--- Barriers & Challenges ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: adoption_barriers
+      label: Main barriers to AI adoption in your supply chain
+      hint: Select top 3 barriers.
+      type: select_multiple
+      options:
+      - Data Quality/Integrity Issues
+      - High Implementation Cost
+      - Lack of Internal AI Talent
+      - Legacy Systems Integration Issues
+      - Security & Privacy Concerns
+      - Lack of Clear Strategy
+      required: true
+    - id: 16
+      name: biggest_implementation_challenge
+      label: Biggest challenge during implementation
+      hint: null
+      type: select_one
+      options:
+      - Technical Integration
+      - Change Management / Company Culture
+      - Breaking down Data Silos
+      - Selecting the Right Vendors
+      required: true
+    - id: 17
+      name: future_outlook_section
+      label: "--- Future Outlook ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: future_investment_plans
+      label: Plans for AI investment in the next 24 months
+      hint: null
+      type: select_one
+      options:
+      - Increase significantly
+      - Increase slightly
+      - Maintain current levels
+      - Decrease investment
+      required: true
+    - id: 19
+      name: future_ai_priorities
+      label: Future AI Strategic Priorities
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Autonomous Vehicles / Drone Delivery
+      - Supply Chain Digital Twins
+      - Generative AI for Contract/Procurement
+      - Real-time Visibility & Tracking
+      - AI-driven Sustainability/ESGs
+      required: false
+    - id: 20
+      name: general_comments
+      label: General comments on the future of AI in supply chain
+      hint: null
+      type: text
+      options: []
+      required: false

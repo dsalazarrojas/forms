@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Power Washing Assessment Form
+    pages:
+    - id: 1
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Exterior
+      - Deck/Patio
+      - Pool
+      - Driveway
+      - Pool Deck
+      - Porch
+      required: true
+    - id: 2
+      name: property_type_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_location
+      label: Property Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Business
+      - Apartment Building
+      - Other (please specify)
+      - School
+      required: true
+    - id: 4
+      name: property_size
+      label: Property Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: property_age
+      label: Property Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: property_features
+      label: Property Features
+      hint: null
+      type: select_multiple
+      options:
+      - Gutters
+      - Downspouts
+      - Decks
+      - Porches
+      - Patios
+      - Fences
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: service_needed
+      label: Service Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Disinfect
+      - Strip
+      - Blow
+      - Pressure
+      - Other (please specify)
+      required: true
+    - id: 8
+      name: service_area
+      label: Service Area
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: estimated_time
+      label: Estimated Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: equipment
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Soft wash system
+      - High pressure wash
+      - Low pressure wash
+      - Other (please specify)
+      required: true
+    - id: 11
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: quote_message
+      label: Quote Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

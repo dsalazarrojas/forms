@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Brand Partnership Review Request Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Retailer''}'
+      - '{''value'': ''Manufacturer''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false

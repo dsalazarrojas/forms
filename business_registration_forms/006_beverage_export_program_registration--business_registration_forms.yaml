@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Export Program Registration
+    pages:
+    - id: 1
+      name: section_header_company
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Legal Name
+      hint: Your official registered business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_registration
+      label: Company Registration Number
+      hint: License or registration ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: establishment_date
+      label: Year Company Was Established
+      hint: When was your company founded?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: headquarters_location
+      label: Headquarters Location
+      hint: City and Country of headquarters
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: number_of_employees
+      label: Number of Employees
+      hint: Approximate total headcount
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Primary Contact Person
+      hint: Name of key contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Person Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Email Address
+      hint: Primary business email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Phone Number
+      hint: International format preferred
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_experience
+      label: -- Export Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: export_experience
+      label: Years of Export Experience
+      hint: How many years have you been exporting?
+      type: select_one
+      options:
+      - No prior export experience
+      - Less than 2 years
+      - 2-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 14
+      name: current_export_countries
+      label: Current Export Countries
+      hint: List countries you currently export to
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: annual_export_revenue
+      label: Annual Export Revenue
+      hint: Approximate annual export sales
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1 million
+      - $1 million - $5 million
+      - Over $5 million
+      required: true
+    - id: 16
+      name: section_header_beverages
+      label: -- Beverage Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: beverage_types
+      label: Types of Beverages You Export (Select all that apply)
+      hint: What beverage categories do you produce?
+      type: select_multiple
+      options:
+      - Soft drinks
+      - Fruit juices
+      - Sports drinks
+      - Energy drinks
+      - Water
+      - Coffee beverages
+      - Tea beverages
+      - Alcoholic beverages
+      - Plant-based drinks
+      - Other
+      required: true
+    - id: 18
+      name: primary_markets
+      label: Target Export Markets
+      hint: Which regions interest you most?
+      type: select_multiple
+      options:
+      - North America
+      - Europe
+      - Asia-Pacific
+      - Middle East
+      - Africa
+      - South America
+      - Central America
+      required: true
+    - id: 19
+      name: production_capacity
+      label: Monthly Production Capacity
+      hint: How much can you produce monthly?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_header_certifications
+      label: -- Certifications & Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: food_safety_cert
+      label: Food Safety Certifications (Select all that apply)
+      hint: What certifications do you hold?
+      type: select_multiple
+      options:
+      - ISO 22000
+      - FSSC 22000
+      - HACCP
+      - FDA approved
+      - Local health department
+      - Other
+      required: true
+    - id: 22
+      name: export_documentation
+      label: Do you have proper export documentation setup
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully prepared
+      - Partially prepared
+      - Need assistance
+      - Not yet started
+      required: true
+    - id: 23
+      name: section_header_program
+      label: -- Program Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: program_objectives
+      label: Primary Objectives for Export Program
+      hint: What do you hope to achieve?
+      type: select_multiple
+      options:
+      - Expand market reach
+      - Increase revenue
+      - Build brand recognition
+      - Access new customer base
+      - Achieve growth targets
+      - Regulatory compliance support
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional Information or Questions
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

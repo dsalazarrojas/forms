@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: veterinary_waste_management_survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: waste_types
+      label: Waste Types
+      hint: null
+      type: select_multiple
+      options:
+      - Animal waste
+      - Human waste
+      - Other waste
+      required: false
+    - id: 3
+      name: waste_disposal_practices
+      label: Waste Disposal Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Landfill
+      - Recycling
+      - Incinerator
+      - Other practices
+      required: false
+    - id: 4
+      name: collection_challenges
+      label: Collection Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: disposal_challenges
+      label: Disposal Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_one
+      options:
+      - Training needed
+      - Training provided
+      - Not sure
+      required: false
+    - id: 7
+      name: training_topics
+      label: Training Topics
+      hint: null
+      type: select_multiple
+      options:
+      - Waste handling
+      - Waste management
+      - Other topics
+      required: false
+    - id: 8
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

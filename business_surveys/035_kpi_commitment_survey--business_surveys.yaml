@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: KPI Commitment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: kpi_commitment_survey_intro
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: performance_indicators
+      label: performance_indicators
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 3
+      name: commitment_level
+      label: commitment_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: current_commitment
+      label: current_commitment
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-5
+      - 6-8
+      required: true
+    - id: 5
+      name: expected_commitment
+      label: expected_commitment
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 6
+      name: performance_improvement
+      label: performance_improvement
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: improvement_action_plan
+      label: improvement_action_plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: improvement_progress
+      label: improvement_progress
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: performance_indicators_awareness
+      label: performance_indicators_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 10
+      name: kpi_commitment_level
+      label: kpi_commitment_level
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-5
+      - 6-8
+      required: true
+    - id: 11
+      name: performance_indicators_rating
+      label: performance_indicators_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: overall_commitment
+      label: overall_commitment
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Performance Consulting Survey
+    pages:
+    - id: 1
+      name: workforce_performance_consulting_survey
+      label: What is your current role?
+      hint: null
+      type: select_one
+      options:
+      - CEO/Founder
+      - Director
+      - Manager
+      - HR
+      - Employee
+      required: false
+    - id: 2
+      name: current_location
+      label: current_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_function
+      label: job_function
+      hint: null
+      type: select_multiple
+      options:
+      - Operations Management
+      - Sales
+      - HR
+      - IT
+      - Marketing
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Operations
+      - Sales
+      - Marketing
+      - HR
+      - IT
+      required: false
+    - id: 5
+      name: job_grade
+      label: job_grade
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 6
+      name: performance_area
+      label: performance_area
+      hint: null
+      type: select_multiple
+      options:
+      - Employee
+      - Project
+      - Process
+      - Quality
+      required: false
+    - id: 7
+      name: job_grade_level_1
+      label: job_grade_level_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_grade_level_2
+      label: job_grade_level_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_job_grade
+      label: manager_job_grade
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 11
+      name: manager_job_grade_level_1
+      label: manager_job_grade_level_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_job_grade_level_2
+      label: manager_job_grade_level_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_last_job_evaluation
+      label: date_last_job_evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: last_job_evaluation_date
+      label: last_job_evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: manager_last_evaluation_comment
+      label: manager_last_evaluation_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: last_job_evaluation_comment
+      label: last_job_evaluation_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_next_job_evaluation
+      label: date_next_job_evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_job_evaluation_date
+      label: next_job_evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: manager_next_job_evaluation_comment
+      label: manager_next_job_evaluation_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_job_evaluation_comment
+      label: next_job_evaluation_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: performance_score
+      label: performance_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: performance_score_last_evaluation
+      label: performance_score_last_evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: performance_score_next_evaluation
+      label: performance_score_next_evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: performance_comment_last_evaluation
+      label: performance_comment_last_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: performance_comment_next_evaluation
+      label: performance_comment_next_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false

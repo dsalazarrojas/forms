@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: port_incident_form
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_what_happened
+      label: What Happened
+      hint: Provide a brief description of the incident.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_effects
+      label: Effects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: true
+    - id: 9
+      name: incident_responded
+      label: Responded
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Services
+      - Logistics Services
+      - Security Services
+      required: false
+    - id: 10
+      name: incident_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      required: true
+    - id: 12
+      name: incident_reported_by_role
+      label: Reported By Role
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Worker
+      required: true

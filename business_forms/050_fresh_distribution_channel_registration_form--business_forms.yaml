@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fresh Distribution Channel Registration Form
+    pages:
+    - id: 1
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: partner_type
+      label: Partner Type
+      hint: null
+      type: select_one
+      options:
+      - Amazon
+      - Walmart
+      - eBay
+      - Etsy
+      - AliExpress
+      - Rakuten
+      - Flipkart
+      - GoogleExpress
+      - Poshmark
+      - Depop
+      - ASOS
+      - ASOS.com
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: partner_since
+      label: Partner Since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: partner_since_date
+      label: Partner Since Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: partner_since_year
+      label: Partner Since Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: partner_since_month
+      label: Partner Since Month
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: partner_since_day
+      label: Partner Since Day
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: partner_since_time
+      label: Partner Since Time
+      hint: null
+      type: time
+      options: []
+      required: false

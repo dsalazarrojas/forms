@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Innovation Adoption Survey
+    pages:
+      - id: 1
+        name: header
+        label: -- Innovation Adoption Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: organization_name
+        label: Organization name
+        hint: Name of company participating
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_role
+        label: Respondent role
+        hint: Job title or department
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: current_innovation_tools
+        label: Current innovation tools
+        hint: Tools or platforms currently used
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: adoption_stage
+        label: Adoption stage
+        hint: Stage of adopting new innovations
+        type: select_one
+        options:
+          - Awareness
+          - Trial
+          - Adoption
+          - Scaling
+        required: true
+      - id: 6
+        name: barriers_to_adoption
+        label: Barriers to adoption
+        hint: Select applicable barriers
+        type: select_multiple
+        options:
+          - Budget constraints
+          - Lack of skills
+          - Cultural resistance
+          - Regulatory concerns
+        required: false
+      - id: 7
+        name: decision_timeframe
+        label: Decision timeframe
+        hint: When do you plan to implement new innovations
+        type: select_one
+        options:
+          - Within 3 months
+          - 3 to 12 months
+          - 1 to 2 years
+          - No plans
+        required: true
+      - id: 8
+        name: expected_benefits
+        label: Expected benefits
+        hint: Expected improvements from adoption
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: contact_for_follow_up
+        label: Contact for follow up
+        hint: Provide email if you consent to be contacted
+        type: email
+        options: []
+        required: false

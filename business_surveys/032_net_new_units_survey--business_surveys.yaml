@@ -1,0 +1,31 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net New Units Survey
+    pages:
+    - id: 1
+      name: new_units
+      label: New Units
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: unit_type
+      label: Unit Type
+      hint: null
+      type: select_multiple
+      options:
+      - Office
+      - Factory
+      - Store
+      - Warehouse
+      - Headquarters
+      required: true
+    - id: 3
+      name: unit_address
+      label: Unit Address
+      hint: null
+      type: note
+      options: []
+      required: false

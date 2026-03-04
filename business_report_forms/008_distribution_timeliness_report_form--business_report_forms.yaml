@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Timeliness Report Form
+    pages:
+    - id: 1
+      name: form_location
+      label: form_location
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: delivery_type
+      label: delivery_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''On-time''}'
+      - '{''id'': 2, ''name'': ''Delayed''}'
+      - '{''id'': 3, ''name'': ''Undeliverable''}'
+      required: true
+    - id: 4
+      name: delay_reason
+      label: delay_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Site_Instance''}'
+      - '{''id'': 2, ''name'': ''Site2_Instance''}'
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Central''}'
+      - '{''id'': 2, ''name'': ''Eastern''}'
+      - '{''id'': 3, ''name'': ''Pacific''}'
+      required: true
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

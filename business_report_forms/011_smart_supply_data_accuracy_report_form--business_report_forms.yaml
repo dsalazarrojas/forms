@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Supply Data Accuracy Report Form
+    pages:
+    - id: 1
+      name: supply_chain
+      label: supply_chain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: inventory
+      label: inventory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: procurement_teams
+      label: procurement_teams
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      - option_4
+      - option_5
+      required: false
+    - id: 4
+      name: data_issues
+      label: data_issues
+      hint: Please describe any data issues encountered during this period
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_correction
+      label: review_correction
+      hint: null
+      type: select_one
+      options:
+      - option_a
+      - option_b
+      - option_c
+      - option_d
+      - option_e
+      required: false
+    - id: 6
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

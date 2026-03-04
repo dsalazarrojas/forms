@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gasoil Usage Survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: gasoils_consumption
+      label: Gasoils Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Diesel''}'
+      - '{''label'': ''Gasoline''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Car''}'
+      - '{''label'': ''Truck''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Office''}'
+      - '{''label'': ''Home''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Night''}'
+      required: false
+    - id: 12
+      name: equipment
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: usage_frequency
+      label: Usage Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 14
+      name: usage_time
+      label: Usage Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: consumption_per_day
+      label: Consumption/Day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: consumption_per_week
+      label: Consumption/Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

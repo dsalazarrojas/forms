@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Macs Catering Order Form
+    pages:
+    - id: 1
+      name: event_organiser
+      label: Event Organiser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: support_requested
+      label: Support Requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: food_requested
+      label: Food Requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: drinks_requested
+      label: Drinks Requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: equipment_required
+      label: Equipment Required
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

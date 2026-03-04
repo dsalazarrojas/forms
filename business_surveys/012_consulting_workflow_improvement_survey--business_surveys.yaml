@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Workflow Improvement Survey
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Consultant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consultant_name
+      label: Consultant Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or Team
+      hint: Select your team
+      type: select_one
+      options:
+      - Strategy
+      - Operations
+      - Technology
+      - Marketing
+      - Finance
+      required: true
+    - id: 4
+      name: tenure_with_firm
+      label: Tenure with Firm (Years)
+      hint: How long have you been with the firm?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: section_current_workflow
+      label: -- Current Workflow Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_workflow_bottleneck
+      label: Primary Workflow Bottleneck
+      hint: Where is the process slowest?
+      type: select_one
+      options:
+      - Client Onboarding
+      - Data Analysis
+      - Report Generation
+      - Internal Approval
+      - Project Management
+      - Other
+      required: true
+    - id: 7
+      name: estimated_time_lost_weekly
+      label: Estimated Time Lost Weekly (Hours)
+      hint: How much time is wasted due to bottlenecks?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_tool_efficiency
+      label: Efficiency of Current Tools
+      hint: How well do our tools help you work?
+      type: select_one
+      options:
+      - 1 - Not Efficient
+      - 2
+      - 3 - Neutral
+      - 4
+      - 5 - Very Efficient
+      required: true
+    - id: 9
+      name: tool_most_in_need_of_update
+      label: Tool Most in Need of Update
+      hint: Which software or tool needs improvement?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_improvement_suggestions
+      label: -- Improvement Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: workflow_improvement_idea
+      label: Workflow Improvement Idea
+      hint: Describe your idea for improving the process
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_impact_on_productivity
+      label: Expected Impact on Productivity
+      hint: How much will this improve efficiency?
+      type: select_one
+      options:
+      - Minimal Impact
+      - Moderate Impact
+      - High Impact
+      - Transformational Impact
+      required: true
+    - id: 13
+      name: interest_in_pilot_program
+      label: Interest in a Pilot Program
+      hint: Would you be willing to test a new workflow?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Zone Company Registration Cost Inquiry
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_type
+      label: company_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Private''}'
+      - '{''name'': ''Public''}'
+      required: false
+    - id: 4
+      name: registration_type
+      label: registration_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Sole-Proprietor''}'
+      - '{''name'': ''Partnership''}'
+      - '{''name'': ''Company''}'
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: registration_date
+      label: registration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: registration_location
+      label: registration_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_description
+      label: business_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_step
+      label: next_step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_contact
+      label: follow_up_contact
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Phone''}'
+      - '{''name'': ''Email''}'
+      - '{''name'': ''In-person''}'
+      required: false
+    - id: 13
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_channel
+      label: follow_up_channel
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Email''}'
+      - '{''name'': ''Phone''}'
+      - '{''name'': ''In-person''}'
+      required: false

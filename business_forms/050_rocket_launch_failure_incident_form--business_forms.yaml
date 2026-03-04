@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: rocket_launch_failure_incident_form
+    pages:
+    - id: 1
+      name: rocket_launch_failure_incident_form
+      label: Rocket Launch Failure Incident Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: launch_time
+      label: Launch Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: rocket_type
+      label: Rocket Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: failure_type
+      label: Failure Type
+      hint: Select the type of failure that occurred
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: cause
+      label: Cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: crew_involved
+      label: Crew Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Cancellations And Rebookings Form
+    pages:
+    - id: 1
+      name: travel_cancellations_and_rebookings_form_data
+      label: Travel Cancellations and Rebookings Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_agent_name
+      label: Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_agent_phone
+      label: Travel Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_agent_email
+      label: Travel Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: select_multiple
+      options:
+      - Cancellation
+      - Rescheduling
+      - Refunding
+      - Other
+      - Unknown
+      required: false
+    - id: 7
+      name: reason_for_rebooking
+      label: Reason for Rebooking
+      hint: null
+      type: select_one
+      options:
+      - Cancellation
+      - Rescheduling
+      - Refunding
+      - Other
+      - Unknown
+      required: false
+    - id: 8
+      name: rebooked_date
+      label: Rebooked Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rebooked_time
+      label: Rebooked Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: rebooked_details
+      label: Rebooked Details
+      hint: null
+      type: text
+      options: []
+      required: false

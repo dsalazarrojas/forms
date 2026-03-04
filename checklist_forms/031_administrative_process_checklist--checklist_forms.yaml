@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Administrative Process Checklist
+    pages:
+    - id: 1
+      name: checklist_header
+      label: -- Administrative Process Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: checklist_date
+      label: Checklist Date
+      hint: Date when this checklist is being completed
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: responsible_person
+      label: Responsible Person
+      hint: Name of the person completing this checklist
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Which department does this checklist apply to?
+      type: select_one
+      options: ["Administration", "Human Resources", "Finance", "Marketing", "Operations", "IT", "Sales", "Customer Service", "Executive", "Other"]
+      required: true
+    - id: 5
+      name: process_name
+      label: Process Name
+      hint: Name of the administrative process being checked
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: daily_tasks_completed
+      label: Daily Tasks Completed
+      hint: Check off all daily tasks that have been completed
+      type: select_multiple
+      options: ["Check and respond to emails", "Update calendar and schedule", "File documents", "Process incoming mail", "Prepare reports", "Schedule meetings", "Order supplies", "Review invoices"]
+      required: false
+    - id: 7
+      name: weekly_tasks_completed
+      label: Weekly Tasks Completed
+      hint: Check off all weekly tasks that have been completed
+      type: select_multiple
+      options: ["Review and update employee records", "Prepare payroll documentation", "Update inventory", "Review and file contracts", "Prepare monthly reports", "Schedule training sessions", "Update contact databases", "Review policy compliance"]
+      required: false
+    - id: 8
+      name: monthly_tasks_completed
+      label: Monthly Tasks Completed
+      hint: Check off all monthly tasks that have been completed
+      type: select_multiple
+      options: ["Prepare financial reports", "Review budget allocations", "Update employee files", "Audit document storage", "Review insurance policies", "Update emergency contacts", "Review safety protocols", "Update organizational charts"]
+      required: false
+    - id: 9
+      name: compliance_check_completed
+      label: Compliance Check Completed
+      hint: Has the compliance check been completed?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 10
+      name: security_protocols_followed
+      label: Security Protocols Followed
+      hint: Have all security protocols been followed?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 11
+      name: document_storage_updated
+      label: Document Storage Updated
+      hint: Have all documents been properly stored?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 12
+      name: backup_completed
+      label: Backup Completed
+      hint: Have all necessary backups been completed?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 13
+      name: equipment_maintenance_completed
+      label: Equipment Maintenance Completed
+      hint: Has equipment maintenance been completed?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 14
+      name: supply_inventory_checked
+      label: Supply Inventory Checked
+      hint: Has the supply inventory been checked and updated?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 15
+      name: issues_identified
+      label: Issues Identified
+      hint: Were any issues identified during this process?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 16
+      name: issues_description
+      label: Description of Issues
+      hint: Describe any issues that were identified
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: corrective_actions_taken
+      label: Corrective Actions Taken
+      hint: What corrective actions were taken?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next_review_date
+      label: Next Review Date
+      hint: When should this checklist be reviewed again?
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_review_required
+      label: Supervisor Review Required
+      hint: Does this checklist require supervisor review?
+      type: select_one
+      options: ["Yes", "No"]
+      required: true
+    - id: 20
+      name: checklist_completed_by
+      label: Checklist Completed By
+      hint: Name of the person who completed this checklist
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: checklist_completed_signature
+      label: Checklist Completed Signature
+      hint: Electronic signature to confirm completion
+      type: text
+      options: []
+      required: true

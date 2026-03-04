@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Training Impact Survey
+    pages:
+    - id: 1
+      name: training_usefulness
+      label: How useful were the training sessions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: satisfaction
+      label: What is your level of satisfaction with the training?
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 3
+      name: skill_gain
+      label: Did you gain any new skills through the training?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: note
+      label: Note
+      hint: Please describe any new skills gained
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: Date of the training
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: Time of the training
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: training_satisfaction_scale
+      label: How would you rate the overall satisfaction with the training?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: skill_level
+      label: Level of skill gained
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: workshop_satisfaction
+      label: How would you rate the workshop organizers?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: workshop_quality
+      label: How would you rate the quality of the workshop?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 13
+      name: workshop_materials
+      label: How good were the workshop materials?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: workshop_duration
+      label: What was the optimal workshop duration?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: workshop_frequency
+      label: How often would you attend workshops?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: workshop_content
+      label: What topics were covered in the workshop?
+      hint: Please provide a comma-separated list of covered topics
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: workshop_venue
+      label: What was the workshop venue?
+      hint: Workshop location
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: workshop_facilitator
+      label: How would you rate the facilitator?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 19
+      name: workshop_facilitator_name
+      label: Facilitator name
+      hint: Facilitator name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: workshop_facilitator_title
+      label: Facilitator title
+      hint: Facilitator title
+      type: text
+      options: []
+      required: false

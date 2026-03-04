@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Offboarding Checklist Form
+    pages:
+    - id: 1
+      name: onboarding_procedures
+      label: Onboarding procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exit_interview
+      label: Exit interview
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: return_company_property
+      label: Return Company Property
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: change_of_address
+      label: Change of address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: return_company_equipment
+      label: Return company equipment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: onboarding_checklist_completed
+      label: Onboarding Checklist Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: return_company_vehicle
+      label: Return Company Vehicle
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: return_keycard
+      label: Return Keycard
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: return_id_card
+      label: Return ID Card
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: employee_return_date
+      label: Employee Return Date
+      hint: null
+      type: date
+      options: []
+      required: false

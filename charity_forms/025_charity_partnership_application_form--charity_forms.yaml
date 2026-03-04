@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Partnership Application Form
+    pages:
+    - id: 1
+      name: section_org_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: org_name
+      label: Organization Name
+      hint: Legal name of your charity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: org_type
+      label: Type of Organization
+      hint: What type of charity are you
+      type: select_one
+      options:
+      - 501c3 Nonprofit
+      - Community Organization
+      - Educational Institution
+      - Healthcare Organization
+      - Social Services
+      - Environmental
+      - Other
+      required: true
+    - id: 4
+      name: org_mission
+      label: Organization Mission Statement
+      hint: Your mission in a sentence
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_in_operation
+      label: Years in Operation
+      hint: How long have you been operating
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: org_website
+      label: Organization Website
+      hint: Your website URL
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Primary Contact Name
+      hint: Who should we contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_title
+      label: Contact Title
+      hint: Executive Director, Program Manager, etc
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_funding_needs
+      label: -- Funding or Partnership Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: funding_amount_sought
+      label: Amount of Funding Sought
+      hint: How much do you need
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: funding_use
+      label: How Will Funds Be Used
+      hint: Describe your needs
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: partnership_type
+      label: Type of Partnership Desired
+      hint: What kind of partnership
+      type: select_multiple
+      options:
+      - Financial Grant
+      - In-Kind Donation
+      - Volunteers
+      - Event Sponsorship
+      - Board Partnership
+      - Technical Assistance
+      required: true
+    - id: 16
+      name: time_frame
+      label: Timeline for Funding
+      hint: When do you need support
+      type: select_one
+      options:
+      - Immediate - Within 30 days
+      - Short-term - 1-3 months
+      - Medium-term - 3-6 months
+      - Long-term - 6+ months
+      required: true
+    - id: 17
+      name: section_impact
+      label: -- Impact and Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: beneficiaries_served
+      label: Number of Beneficiaries Served Annually
+      hint: How many people do you help
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: key_outcomes
+      label: Key Outcomes and Achievements
+      hint: What impact do you have
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_governance
+      label: -- Governance and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: board_members_count
+      label: Number of Board Members
+      hint: Board size
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: 501c3_status
+      label: Current 501c3 Status
+      hint: Do you have 501c3 status
+      type: select_one
+      options:
+      - 'Yes'
+      - Pending
+      - 'No'
+      required: true
+    - id: 23
+      name: audited_financials
+      label: Do You Have Audited Financial Statements
+      hint: Latest financial audit
+      type: select_one
+      options:
+      - Yes, Last 2 Years
+      - Yes, Last Year
+      - No, But Available Upon Request
+      - 'No'
+      required: true
+    - id: 24
+      name: submission_date
+      label: Application Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

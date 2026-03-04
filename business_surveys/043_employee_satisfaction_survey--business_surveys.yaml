@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Employee Satisfaction Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_one
+      label: How do you feel about the work environment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_two
+      label: Rate your manager's performance
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: question_three
+      label: What are your work hours?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_four
+      label: Which department do you belong?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: question_five
+      label: Rate your team’s communication
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: question_six
+      label: Rate your overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 8
+      name: question_seven
+      label: How often do you work on Fridays?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: question_eight
+      label: What time do you usually arrive on Friday?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: question_nine
+      label: What time do you usually leave on Friday?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: question_ten
+      label: What time do you usually leave on Saturday?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: question_eleven
+      label: What time do you usually arrive on Monday?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: question_twelve
+      label: What time do you usually leave on Monday?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: question_thirteen
+      label: What is your role in the company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question_fourteen
+      label: How long have you been working with us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: question_fifteen
+      label: Rate your experience with your current role?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 17
+      name: question_sixteen
+      label: What benefits do we offer that you like?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: question_seventeen
+      label: What are we missing?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: question_eighteen
+      label: Rate your satisfaction with our company?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 20
+      name: question_nineteen
+      label: What would make you happier in your job?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: question_twenty
+      label: Rate your overall company satisfaction?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 22
+      name: question_twenty_one
+      label: Rate your job satisfaction?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 23
+      name: question_twenty_two
+      label: How long would you stay with us if you had a better role?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: question_twenty_three
+      label: What would make you leave your job?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: survey_done
+      label: Thank you for taking the time to complete this survey!
+      hint: null
+      type: note
+      options: []
+      required: false

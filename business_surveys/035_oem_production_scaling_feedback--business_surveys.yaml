@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: oem_production_scaling_feedback
+    pages:
+    - id: 1
+      name: oem_partner
+      label: oem_partner
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: scaling_challenges
+      label: scaling_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: capacity
+      label: capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: support_needs
+      label: support_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false

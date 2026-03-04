@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety And Consent Checklist
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: acknowledgment
+      label: Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''acknowledged''}'
+      - '{''id'': 2, ''name'': ''not_achnowledged''}'
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_acknowledgment
+      label: Safety Acknowledgment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''safety_acknowledged''}'
+      - '{''id'': 2, ''name'': ''not_safety_achnowledged''}'
+      required: false
+    - id: 7
+      name: contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_procedure
+      label: Emergency Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

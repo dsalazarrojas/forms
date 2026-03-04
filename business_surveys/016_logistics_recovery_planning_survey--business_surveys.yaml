@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Recovery Planning Survey
+    pages:
+    - id: 1
+      name: survey_page
+      label: Survey Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_selection
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Logistics Team''}'
+      - '{''value'': ''Operations Team''}'
+      - '{''value'': ''Management Team''}'
+      - '{''value'': ''IT Team''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: recovery_planning_status
+      label: Recovery Planning Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Started''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Not Applicable''}'
+      required: false
+    - id: 4
+      name: recovery_status_date
+      label: Recovery Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: recovery_status_time
+      label: Recovery Status Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Logistics Team''}'
+      - '{''value'': ''Operations Team''}'
+      - '{''value'': ''Management Team''}'
+      - '{''value'': ''IT Team''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: recovery_status_comments
+      label: Recovery Status Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recovery_status_concerns
+      label: Recovery Status Concerns
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Applicable''}'
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 12
+      name: concerns_description
+      label: Recovery Status Concerns Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_leads_response
+      label: Team Leader's Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recovery_date
+      label: Recovery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: recovery_time
+      label: Recovery Time
+      hint: null
+      type: time
+      options: []
+      required: false

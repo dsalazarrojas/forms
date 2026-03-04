@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: silent_auction_check_out_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation
+      label: donation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: bid_amount
+      label: bid_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: bid_time
+      label: bid_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: bid_date
+      label: bid_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: silent_auction_participation
+      label: participation
+      hint: null
+      type: select_multiple
+      options:
+      - Silent Auction
+      - Online Auction
+      - Other
+      required: false
+    - id: 10
+      name: how_did_you_hear
+      label: how_did_you_hear
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Email
+      - Word of Mouth
+      - Other
+      required: false

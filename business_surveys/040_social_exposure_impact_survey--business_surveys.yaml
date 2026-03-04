@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Exposure Impact Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: survey_questions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: survey_comments
+      label: survey_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: social_media_channels
+      label: social_media_channels
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: survey_rating
+      label: survey_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: survey_notes
+      label: survey_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: social_channels_comments
+      label: social_channels_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_awareness
+      label: survey_awareness
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: social_channels_influence
+      label: social_channels_influence
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: social_media_channels_awareness
+      label: social_media_channels_awareness
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: social_media_channels_influence
+      label: social_media_channels_influence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: campaign_name
+      label: campaign_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: campaign_notes
+      label: campaign_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: survey_participants
+      label: survey_participants
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: survey_participants_awareness
+      label: survey_participants_awareness
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: survey_participants_influence
+      label: survey_participants_influence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

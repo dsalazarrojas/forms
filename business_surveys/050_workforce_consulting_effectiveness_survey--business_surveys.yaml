@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Consulting Effectiveness Survey
+    pages:
+    - id: 1
+      name: engagement_experience
+      label: Engagement Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''CEO''}'
+      - Account Manager
+      - Business Analyst
+      required: true
+    - id: 3
+      name: satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''HR''}'
+      - Finance
+      - Operations
+      required: false
+    - id: 6
+      name: department_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: consultant
+      label: Consultant
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''CEO''}'
+      - Manager
+      - Junior Consultant
+      required: true
+    - id: 8
+      name: impact_measurements
+      label: Impact Measurements
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: impact_measurements_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: role_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

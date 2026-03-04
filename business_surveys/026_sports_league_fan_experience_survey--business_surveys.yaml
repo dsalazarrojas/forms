@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: sports_league_fan_experience_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''2-1'', ''label'': ''Male''}'
+      - '{''id'': ''2-2'', ''label'': ''Female''}'
+      - '{''id'': ''2-3'', ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: fan_satisfaction
+      label: fan_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''3-1'', ''label'': ''Very Satisfied''}'
+      - '{''id'': ''3-2'', ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': ''3-3'', ''label'': ''Somewhat Dissatisfied''}'
+      - '{''id'': ''3-4'', ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 4
+      name: attendance
+      label: attendance
+      hint: How many games do you attend per season?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: frequency_of_visit
+      label: frequency_of_visit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''5-1'', ''label'': ''Less than 1/4 of games''}'
+      - '{''id'': ''5-2'', ''label'': ''1/4 to 1/2 of games''}'
+      - '{''id'': ''5-3'', ''label'': ''1/2 to 3/4 of games''}'
+      - '{''id'': ''5-4'', ''label'': ''All games''}'
+      required: false
+    - id: 6
+      name: favorite_team
+      label: favorite_team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''6-1'', ''label'': ''Team A''}'
+      - '{''id'': ''6-2'', ''label'': ''Team B''}'
+      - '{''id'': ''6-3'', ''label'': ''Team C''}'
+      - '{''id'': ''6-4'', ''label'': ''Team D''}'
+      required: false
+    - id: 7
+      name: improvement_feedback
+      label: improvement_feedback
+      hint: What do you feel is the most impactful improvement for your experience?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: engagement
+      label: engagement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''8-1'', ''label'': ''Very Engaged''}'
+      - '{''id'': ''8-2'', ''label'': ''Somewhat Engaged''}'
+      - '{''id'': ''8-3'', ''label'': ''Not Very Engaged''}'
+      required: false
+    - id: 9
+      name: season_ticket_price
+      label: season_ticket_price
+      hint: How much do you expect to pay for a season ticket?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: merchandise_purchases
+      label: merchandise_purchases
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''10-1'', ''label'': ''Frequently''}'
+      - '{''id'': ''10-2'', ''label'': ''Occasionally''}'
+      - '{''id'': ''10-3'', ''label'': ''Rarely''}'
+      required: false
+    - id: 11
+      name: fan_suggestion
+      label: fan_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fan_suggestion_2
+      label: fan_suggestion_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: game_day_experience
+      label: game_day_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''13-1'', ''label'': ''Very Good''}'
+      - '{''id'': ''13-2'', ''label'': ''Good''}'
+      - '{''id'': ''13-3'', ''label'': ''Fair''}'
+      - '{''id'': ''13-4'', ''label'': ''Very Bad''}'
+      required: false
+    - id: 14
+      name: parking_experience
+      label: parking_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''14-1'', ''label'': ''Very Good''}'
+      - '{''id'': ''14-2'', ''label'': ''Good''}'
+      - '{''id'': ''3-3'', ''label'': ''Fair''}'
+      - '{''id'': ''14-4'', ''label'': ''Very Bad''}'
+      required: false
+    - id: 15
+      name: ticket_purchasing
+      label: ticket_purchasing
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''15-1'', ''label'': ''Very Easy''}'
+      - '{''id'': ''15-2'', ''label'': ''Somewhat Easy''}'
+      - '{''id'': ''15-3'', ''label'': ''Somewhat Hard''}'
+      - '{''id'': ''15-4'', ''label'': ''Very Hard''}'
+      required: false
+    - id: 16
+      name: concession_stands
+      label: concession_stands
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''16-1'', ''label'': ''Very Clean''}'
+      - '{''id'': ''16-2'', ''label'': ''Clean''}'
+      - '{''id'': ''16-3'', ''label'': ''Somewhat Clean''}'
+      - '{''id'': ''16-4'', ''label'': ''Not Very Clean''}'
+      required: false
+    - id: 17
+      name: parking_experience_2
+      label: parking_experience_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''17-1'', ''label'': ''Very Good''}'
+      - '{''id'': ''17-2'', ''label'': ''Good''}'
+      - '{''id'': ''17-3'', ''label'': ''Fair''}'
+      - '{''id'': ''17-4'', ''label'': ''Very Bad''}'
+      required: false
+    - id: 18
+      name: food_and_beverage
+      label: food_and_beverage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''18-1'', ''label'': ''Very Good''}'
+      - '{''id'': ''18-2'', ''label'': ''Good''}'
+      - '{''id'': ''18-3'', ''label'': ''Somewhat Good''}'
+      - '{''id'': ''18-4'', ''label'': ''Not Very Good''}'
+      required: false
+    - id: 19
+      name: merchandise_purchases_2
+      label: merchandise_purchases_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''19-1'', ''label'': ''Frequently''}'
+      - '{''id'': ''19-2'', ''label'': ''Occasionally''}'
+      - '{''id'': ''19-3'', ''label'': ''Rarely''}'
+      required: false
+    - id: 20
+      name: merchandise_purchases_3
+      label: merchandise_purchases_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''20-1'', ''label'': ''Frequently''}'
+      - '{''id'': ''20-2'', ''label'': ''Occasionally''}'
+      - '{''id'': ''20-3'', ''label'': ''Rarely''}'
+      required: false
+    - id: 21
+      name: merchandise_purchases_4
+      label: merchandise_purchases_4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''21-1'', ''label'': ''Frequently''}'
+      - '{''id'': ''21-2'', ''label'': ''Occasionally''}'
+      - '{''id'': ''21-3'', ''label'': ''Rarely''}'
+      required: false
+    - id: 22
+      name: merchandise_purchases_5
+      label: merchandise_purchases_5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''22-1'', ''label'': ''Frequently''}'
+      - '{''id'': ''22-2'', ''label'': ''Occasionally''}'
+      - '{''id'': ''22-3'', ''label'': ''Rarely''}'
+      required: false
+    - id: 23
+      name: merchandise_purchases_6
+      label: merchandise_purchases_6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''23-1'', ''label'': ''Frequently''}'
+      - '{''id'': ''23-2'', ''label'': ''Occasionally''}'
+      - '{''id'': ''23-3'', ''label'': ''Rarely''}'
+      required: false
+    - id: 24
+      name: merchandise_purchases_7
+      label: merchandise_purchases_7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''24-1'', ''label'': ''Frequently''}'
+      - '{''id'': ''24-2'', ''label'': ''Occasionally''}'
+      - '{''id'': ''24-3'', ''label'': ''Rarely''}'
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

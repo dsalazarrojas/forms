@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Flight Log Survey
+    pages:
+    - id: 1
+      name: flight_date
+      label: flight_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: flight_time
+      label: flight_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: flight_location
+      label: flight_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: flight_distance
+      label: flight_distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: flight_notes
+      label: flight_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: weather_conditions
+      label: weather_conditions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 8, ''label'': ''clear_sky''}'
+      - '{''id'': 9, ''label'': ''partly_cloudy''}'
+      - '{''id'': 10, ''label'': ''cloudy''}'
+      - '{''id'': 11, ''label'': ''windy''}'
+      - '{''id'': 12, ''label'': ''raining''}'
+      required: true
+    - id: 7
+      name: incident_report
+      label: incident_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_procedure_followed
+      label: emergency_procedure_followed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15, ''label'': False}'
+      - '{''id'': 16, ''label'': True}'
+      required: true
+    - id: 9
+      name: pilot_notes
+      label: pilot_notes
+      hint: null
+      type: text
+      options: []
+      required: false

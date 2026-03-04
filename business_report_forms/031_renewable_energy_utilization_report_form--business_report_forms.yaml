@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renewable Energy Utilization Report Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_start_date
+      label: Report Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: report_end_date
+      label: Report End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: energy_source_type
+      label: Energy Source Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: energy_source_amount
+      label: Energy Source Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: energy_source_unit
+      label: Energy Source Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_notes
+      label: Report Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_form
+      label: Assigned Form
+      hint: null
+      type: text
+      options: []
+      required: false

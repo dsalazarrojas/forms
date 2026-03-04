@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food System Digitalization Registration
+    pages:
+    - id: 1
+      name: program_name
+      label: Food System Digitalization Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Food Innovation Hub
+      - NGO
+      - Innovation Hub
+      - Other
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interests
+      label: Participant Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Digitalization
+      - Food Security
+      - Food Safety
+      - Other
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: other_program_details
+      label: Other Program Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: form_ids
+      label: Form IDs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: form_assigned_tool
+      label: Form Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_output_file
+      label: Form Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: form_last_updated
+      label: Form Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_last_updated_time
+      label: Form Last Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: form_last_updated_by
+      label: Form Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_last_updated_ip
+      label: Form Last Updated IP
+      hint: null
+      type: text
+      options: []
+      required: false

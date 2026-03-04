@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Service Termination Request Form
+    pages:
+    - id: 1
+      name: pet_service_termination_request_form
+      label: pet_service_termination_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_termination
+      label: date_of_termination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: effective_date
+      label: effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Pet
+      - Animal
+      - Cat
+      - Dog
+      required: false
+    - id: 12
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pet_age
+      label: pet_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: termination_status
+      label: termination_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 15
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Follow-up Required
+      - Follow-up Not Required
+      - Follow-up In Progress
+      required: false
+    - id: 16
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_details
+      label: follow_up_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_follow_up_date
+      label: next_follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: next_follow_up_details
+      label: next_follow_up_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_follow_up_status
+      label: next_follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Follow-up Required
+      - Follow-up Not Required
+      - Follow-up In Progress
+      required: false

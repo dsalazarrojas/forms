@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hourly Rate Calculator
+    pages:
+    - id: 1
+      name: hourly_rate_calculator_form
+      label: what_is_your_current_hourly_rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: rate_range
+      label: which_rate_range_do_you_work
+      hint: null
+      type: select_multiple
+      options:
+      - 0 - 50
+      - 50 - 100
+      - 100 - 200
+      - 200 +
+      required: false
+    - id: 3
+      name: hourly_rate_currency
+      label: which_currency_do_you_work_for
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      - JPY
+      - CNY
+      required: false
+    - id: 4
+      name: weekly_hours_worked
+      label: how_many_hours_do_you_work_per_week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weekly_hours_billed
+      label: how_many_hours_do_you_bill_to_your_clients
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: calculated_hourly_rate
+      label: calculated_hourly_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hourly_rate
+      label: what_is_your_hourly_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rate_currency
+      label: which_currency_do_you_work_for
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      - JPY
+      - CNY
+      required: false
+    - id: 9
+      name: total_earned
+      label: total_earned_last_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: weekly_hours_worked_earned
+      label: weekly_hours_worked_earned_last_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: weekly_hours_billed_earned
+      label: weekly_hours_billed_earned_last_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: hourly_rate_currency
+      label: what_is_your_hourly_rate_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      - JPY
+      - CNY
+      required: false
+    - id: 13
+      name: calculated_hourly_rate_currency
+      label: calculated_hourly_rate_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      - JPY
+      - CNY
+      required: false
+    - id: 14
+      name: weekly_rate_earned
+      label: weekly_rate_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: weekly_hours_worked_earned_earned
+      label: weekly_hours_worked_earned_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: weekly_hours_billed_earned_earned
+      label: weekly_hours_billed_earned_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: calculated_hourly_rate_earned
+      label: calculated_hourly_rate_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: weekly_currency_earned
+      label: weekly_currency_earned
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      - JPY
+      - CNY
+      required: false
+    - id: 19
+      name: weekly_currency_earned_earned
+      label: weekly_currency_earned_earned
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CAD
+      - JPY
+      - CNY
+      required: false
+    - id: 20
+      name: weekly_rate_earned_earned
+      label: weekly_rate_earned_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: calculated_hourly_rate_earned_earned
+      label: calculated_hourly_rate_earned_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: weekly_rate_earned_earned_earned
+      label: weekly_rate_earned_earned_earned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: weekly_billed_goals
+      label: weekly_billed_goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: billed_earned_goals
+      label: billed_earned_goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: calculated_hourly_rate_goals
+      label: calculated_hourly_rate_goals
+      hint: null
+      type: number
+      options: []
+      required: false

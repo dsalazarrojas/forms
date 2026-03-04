@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kids Baking Camp Enrollment Form
+    pages:
+    - id: 1
+      name: camp_session
+      label: Select Camp Session
+      hint: 'null'
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: false
+    - id: 2
+      name: camper_name
+      label: Camper Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: birth_date
+      label: Birth Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false

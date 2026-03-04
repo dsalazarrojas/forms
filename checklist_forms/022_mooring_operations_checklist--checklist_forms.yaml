@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mooring Operations Checklist
+    pages:
+    - id: 1
+      name: mooring_operations_checklist_1
+      label: Mooring operations preparation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mooring_operations_checklist_2
+      label: Check mooring equipment
+      hint: null
+      type: select_one
+      options:
+      - Anchor
+      - Winch
+      - Moorings
+      - Other
+      required: false
+    - id: 3
+      name: mooring_operations_checklist_3
+      label: Verify mooring lines
+      hint: null
+      type: select_multiple
+      options:
+      - Forward
+      - Aft
+      - Port
+      - Starboard
+      required: false
+    - id: 4
+      name: mooring_operations_checklist_4
+      label: Check mooring lights
+      hint: null
+      type: select_one
+      options:
+      - Steaming
+      - Mooring
+      - Both
+      required: false
+    - id: 5
+      name: mooring_operations_checklist_5
+      label: Set the anchor
+      hint: null
+      type: select_multiple
+      options:
+      - Manual
+      - Auto
+      required: false
+    - id: 6
+      name: mooring_operations_checklist_6
+      label: Check the mooring lines
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: mooring_operations_checklist_7
+      label: Check the winch
+      hint: null
+      type: select_one
+      options:
+      - Winch
+      - Other
+      required: false
+    - id: 8
+      name: mooring_operations_checklist_8
+      label: Check mooring gear
+      hint: null
+      type: select_multiple
+      options:
+      - Anchor
+      - Winch
+      - Mooring
+      required: false
+    - id: 9
+      name: mooring_operations_checklist_9
+      label: Check for any other issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: mooring_operations_checklist_10
+      label: Record the result
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: mooring_operations_checklist_11
+      label: Mooring operations completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: mooring_operations_checklist_12
+      label: Mooring operations checklist completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Scholarship Application Form
+    pages:
+    - id: 1
+      name: camper_info
+      label: Camper Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: income
+      label: Income Information
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''income_level_0'', ''label'': ''None''}'
+      - '{''name'': ''income_level_1'', ''label'': ''$25,001 - $35,000''}'
+      - '{''name'': ''income_level_2'', ''label'': ''$35,001 - $45,000''}'
+      - '{''name'': ''income_level_3'', ''label'': ''$45,001+''}'
+      - '{''name'': ''income_level_4'', ''label'': ''Undisclosed''}'
+      required: false
+    - id: 4
+      name: reason_for_app
+      label: Reason for Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: camper_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: camper_dob
+      label: Camper's Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: camper_parents
+      label: Camper's Parents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''parent_0'', ''label'': ''Mother''}'
+      - '{''name'': ''parent_1'', ''label'': ''Father''}'
+      - '{''name'': ''parent_2'', ''label'': ''Both''}'
+      - '{''name'': ''parent_3'', ''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: camper_grade
+      label: Camper's Grade
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''grade_1'', ''label'': ''1st Grade''}'
+      - '{''name'': ''grade_2'', ''label'': ''2nd Grade''}'
+      - '{''name'': ''grade_3'', ''label'': ''3rd Grade''}'
+      - '{''name'': ''grade_4'', ''label'': ''4th Grade''}'
+      - '{''name'': ''grade_5'', ''label'': ''5th Grade''}'
+      - '{''name'': ''grade_6'', ''label'': ''6th Grade''}'
+      - '{''name'': ''grade_7'', ''label'': ''7th Grade''}'
+      - '{''name'': ''grade_8'', ''label'': ''8th Grade''}'
+      - '{''name'': ''grade_9'', ''label'': ''9th Grade''}'
+      - '{''name'': ''grade_10'', ''label'': ''10th Grade''}'
+      required: false
+    - id: 10
+      name: camper_gender
+      label: Camper's Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''female'', ''label'': ''Female''}'
+      - '{''name'': ''male'', ''label'': ''Male''}'
+      - '{''name'': ''other'', ''label'': ''Other''}'
+      required: false

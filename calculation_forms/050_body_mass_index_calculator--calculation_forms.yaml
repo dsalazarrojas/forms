@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Mass Index Calculator
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email for results
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select
+      type: select_one
+      options:
+      - Female
+      - Male
+      required: true
+    - id: 6
+      name: height_unit
+      label: Height Unit Preference
+      hint: Which unit do you prefer?
+      type: select_one
+      options:
+      - Feet and Inches
+      - Centimeters
+      required: true
+    - id: 7
+      name: height_feet
+      label: Height in Feet
+      hint: Feet portion
+      type: select_one
+      options:
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      required: false
+    - id: 8
+      name: height_inches
+      label: Height in Inches
+      hint: Inches portion
+      type: select_one
+      options:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      required: false
+    - id: 9
+      name: height_cm
+      label: Height in Centimeters
+      hint: Enter height in cm
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: weight_unit
+      label: Weight Unit Preference
+      hint: Which unit do you prefer?
+      type: select_one
+      options:
+      - Pounds
+      - Kilograms
+      required: true
+    - id: 11
+      name: weight_lbs
+      label: Weight in Pounds
+      hint: Enter weight in lbs
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: weight_kg
+      label: Weight in Kilograms
+      hint: Enter weight in kg
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 14
+      name: activity_level
+      label: Activity Level
+      hint: How active are you?
+      type: select_one
+      options:
+      - Sedentary - Little to no exercise
+      - Lightly Active - 1-3 days/week
+      - Moderately Active - 3-5 days/week
+      - Very Active - 6-7 days/week
+      - Extremely Active - Physical job + exercise
+      required: false
+    - id: 15
+      name: fitness_goals
+      label: Fitness Goals
+      hint: What are your goals?
+      type: select_multiple
+      options:
+      - Weight Loss
+      - Weight Maintenance
+      - Muscle Gain
+      - Improved Health
+      - Better Fitness
+      - None
+      required: false
+    - id: 16
+      name: health_conditions
+      label: Health Conditions
+      hint: Any relevant conditions?
+      type: select_multiple
+      options:
+      - None
+      - High Blood Pressure
+      - Diabetes
+      - Heart Disease
+      - Thyroid Issues
+      - Other
+      required: false
+    - id: 17
+      name: calculated_bmi
+      label: Your BMI Result
+      hint: Calculated value
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: bmi_category
+      label: BMI Category
+      hint: Your classification
+      type: select_one
+      options:
+      - Underweight (BMI less than 18.5)
+      - Normal Weight (BMI 18.5-24.9)
+      - Overweight (BMI 25-29.9)
+      - Obese (BMI 30 or higher)
+      required: false
+    - id: 19
+      name: healthy_weight_range
+      label: Healthy Weight Range
+      hint: For your height
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: bmi_understanding
+      label: BMI Understanding
+      hint: Do you understand what BMI means?
+      type: select_one
+      options:
+      - Yes, Completely
+      - Mostly
+      - Somewhat
+      - No, Need Explanation
+      required: false
+    - id: 21
+      name: consultation_interest
+      label: Consultation Interest
+      hint: Would you like to speak with a professional?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 22
+      name: disclaimer_acknowledgment
+      label: Disclaimer Acknowledgment
+      hint: BMI is a screening tool, not diagnostic
+      type: select_one
+      options:
+      - Yes, I Understand
+      - false
+      required: true
+    - id: 23
+      name: results_delivery
+      label: How to Receive Results
+      hint: Select preference
+      type: select_one
+      options:
+      - Show on Screen Only
+      - Email Results
+      - Both
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any questions or comments
+      type: text
+      options: []
+      required: false

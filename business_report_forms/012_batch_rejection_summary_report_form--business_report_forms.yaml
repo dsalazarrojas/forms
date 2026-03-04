@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Rejection Summary Report Form
+    pages:
+    - id: 1
+      name: report_id
+      label: Report ID
+      hint: Unique report identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: Date report created
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: batch_id
+      label: Batch ID
+      hint: Rejected batch identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_name
+      label: Product Name
+      hint: Product that was rejected
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: production_date
+      label: Production Date
+      hint: When batch was produced
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: rejection_date
+      label: Rejection Date
+      hint: When batch was rejected
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: batch_quantity
+      label: Total Batch Quantity
+      hint: Number of units in batch
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: rejected_quantity
+      label: Rejected Quantity
+      hint: Number of units rejected
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: rejection_category
+      label: Rejection Category
+      hint: Primary reason for rejection
+      type: select_one
+      options:
+      - Quality Defect
+      - Specification Deviation
+      - Contamination
+      - Packaging Issue
+      - Labeling Error
+      - Documentation Issue
+      - Safety Concern
+      - Other
+      required: true
+    - id: 10
+      name: defect_type
+      label: Defect Type
+      hint: Specific defect identified
+      type: select_multiple
+      options:
+      - Dimensional Variance
+      - Color Variation
+      - Surface Defect
+      - Structural Issue
+      - Performance Failure
+      - Material Defect
+      - Assembly Error
+      required: false
+    - id: 11
+      name: root_cause
+      label: Root Cause
+      hint: What caused the rejection
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: discovered_by
+      label: Discovered By
+      hint: Who found the issue
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: discovery_stage
+      label: Discovery Stage
+      hint: When was issue found
+      type: select_one
+      options:
+      - Incoming Inspection
+      - In-Process Inspection
+      - Final Inspection
+      - Customer Return
+      - Quality Audit
+      required: true
+    - id: 14
+      name: financial_impact
+      label: Estimated Financial Impact
+      hint: Cost of rejection
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: disposition
+      label: Batch Disposition
+      hint: What will happen to batch
+      type: select_one
+      options:
+      - Scrap
+      - Rework
+      - Return to Vendor
+      - Hold for Review
+      - Downgrade
+      required: true
+    - id: 16
+      name: corrective_action
+      label: Corrective Action Plan
+      hint: Steps to prevent recurrence
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: responsible_party
+      label: Responsible Party
+      hint: Who is implementing corrective action
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: target_completion
+      label: Target Completion Date
+      hint: When will corrective action be done
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: reported_by
+      label: Reported By
+      hint: Name of person creating report
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

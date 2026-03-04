@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Shelf Audit Order Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Your Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: We will send audit confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: For audit coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: store_name
+      label: Store Name
+      hint: Name of the store to audit
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: store_address
+      label: Store Address
+      hint: Full address of the store
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City where store is located
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State where store is located
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: ZIP Code
+      hint: Postal code for store location
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: store_contact
+      label: Store Contact Name
+      hint: Name of store manager or contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: store_contact_phone
+      label: Store Contact Phone
+      hint: Phone number for store contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: audit_type
+      label: Audit Type
+      hint: What type of audit do you need
+      type: select_one
+      options:
+      - Full Shelf Audit
+      - Partial Audit
+      - Competitor Analysis
+      - Planogram Compliance
+      - Price Check
+      - Stock Level Audit
+      - Promotional Display Audit
+      required: true
+    - id: 13
+      name: beverage_category
+      label: Beverage Category
+      hint: Which beverage category to audit
+      type: select_one
+      options:
+      - Carbonated Soft Drinks
+      - Energy Drinks
+      - Sports Drinks
+      - Juice
+      - Water
+      - Tea
+      - Coffee
+      - Alcoholic Beverages
+      - All Categories
+      required: true
+    - id: 14
+      name: preferred_audit_date
+      label: Preferred Audit Date
+      hint: When would you like the audit performed
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: audit_time
+      label: Preferred Audit Time
+      hint: What time works best
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: specific_requirements
+      label: Specific Audit Requirements
+      hint: What specific data do you need collected
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: photo_requirements
+      label: Photo Requirements
+      hint: What photos need to be taken
+      type: select_multiple
+      options:
+      - Full Shelf View
+      - Product Close-Ups
+      - Price Tags
+      - Promotional Materials
+      - Competitor Products
+      - Store Entrance
+      - End Cap Displays
+      required: true
+    - id: 18
+      name: data_delivery
+      label: How Should Data Be Delivered
+      hint: How would you like to receive audit results
+      type: select_one
+      options:
+      - Email Report
+      - Online Dashboard
+      - PDF Document
+      - Spreadsheet
+      - In-Person Presentation
+      required: true
+    - id: 19
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this audit
+      type: select_one
+      options:
+      - Emergency - Within 24 Hours
+      - High Priority - Within 3 Days
+      - Medium Priority - Within 1 Week
+      - Low Priority - Within 2 Weeks
+      required: true
+    - id: 20
+      name: budget_range
+      label: Budget Range
+      hint: What is your budget for this audit
+      type: select_one
+      options:
+      - Under $500
+      - $500 to $1,000
+      - $1,000 to $2,500
+      - $2,500 to $5,000
+      - Over $5,000
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about this audit request
+      type: text
+      options: []
+      required: false

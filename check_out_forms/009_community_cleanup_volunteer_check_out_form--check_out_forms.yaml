@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Cleanup Volunteer Check-Out Form
+    pages:
+    - id: 1
+      name: volunteer_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_email
+      label: Email Address
+      hint: For follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: volunteer_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: check_in_time
+      label: Check-In Time
+      hint: When did you start volunteering?
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: check_out_time
+      label: Check-Out Time
+      hint: Current time when checking out
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: team_assignment
+      label: Team Assignment
+      hint: Which team were you assigned to?
+      type: select_one
+      options:
+      - Zone A - Downtown
+      - Zone B - Park Area
+      - Zone C - Residential
+      - Zone D - Commercial
+      - Zone E - Waterfront
+      - Floating Team
+      required: true
+    - id: 8
+      name: team_leader
+      label: Team Leader Name
+      hint: Name of your team leader
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: hours_worked
+      label: Total Hours Worked
+      hint: Total volunteer hours
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: equipment_returned
+      label: Equipment Returned
+      hint: Select all items you are returning
+      type: select_multiple
+      options:
+      - Trash Bags
+      - Gloves
+      - Litter Picker
+      - Safety Vest
+      - Broom
+      - Dustpan
+      - First Aid Kit
+      - None
+      required: true
+    - id: 11
+      name: equipment_condition
+      label: Equipment Condition
+      hint: Note any damaged or missing items
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: bags_collected
+      label: Number of Trash Bags Collected
+      hint: Estimate of bags filled
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: area_cleaned
+      label: Specific Area Cleaned
+      hint: Describe the area you worked on
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: notable_findings
+      label: Notable Findings
+      hint: Any unusual items or discoveries?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: safety_incidents
+      label: Were There Any Safety Incidents
+      hint: Report any injuries or hazards encountered
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: incident_description
+      label: Incident Description
+      hint: Describe what happened if yes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: experience_rating
+      label: How Would You Rate Your Experience
+      hint: Overall satisfaction with volunteering
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: would_volunteer_again
+      label: Would You Volunteer Again
+      hint: Are you interested in future events?
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 19
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any suggestions or comments?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: t_shirt_size
+      label: T-Shirt Size for Volunteer Appreciation
+      hint: If you would like a volunteer shirt
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - 2X-Large
+      - Not Interested
+      required: false
+    - id: 21
+      name: supervisor_signature
+      label: Supervisor Initials
+      hint: Team leader or supervisor initials
+      type: text
+      options: []
+      required: true

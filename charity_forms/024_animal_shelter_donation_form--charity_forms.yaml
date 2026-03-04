@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Donation Form
+    pages:
+    - id: 1
+      name: donor_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email Address
+      hint: For donation receipt
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donor_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: donor_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donor_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donor_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_donation_info
+      label: -- Donation Information --
+      hint: Details about your donation
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: donation_amount
+      label: Donation Amount
+      hint: How much you would like to donate
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: donation_frequency
+      label: Donation Frequency
+      hint: One-time or recurring
+      type: select_one
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 12
+      name: donation_focus
+      label: Donation Focus Area
+      hint: What should funds support
+      type: select_one
+      options:
+      - Medical Care
+      - Food and Supplies
+      - Shelter Operations
+      - Animal Rescue
+      - Adoption Programs
+      - Education
+      - Undesignated
+      - Other
+      required: true
+    - id: 13
+      name: donation_in_honor
+      label: Donation in Honor of
+      hint: If honoring someone, their name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: donation_in_memory
+      label: Donation in Memory of
+      hint: If memorial donation, their name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_payment
+      label: -- Payment Information --
+      hint: How you will make your donation
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Transfer
+      - Check
+      - PayPal
+      - Other
+      required: true
+    - id: 17
+      name: employer_match
+      label: Employer Matching Available
+      hint: Does your employer match donations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 18
+      name: employer_name
+      label: Employer Name
+      hint: Your company name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_preferences
+      label: -- Donor Preferences --
+      hint: How your donation is recognized
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: anonymous_donation
+      label: Keep Donation Anonymous
+      hint: Do not list your name
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: recognition_preference
+      label: Recognition Level
+      hint: How you prefer to be recognized
+      type: select_one
+      options:
+      - Public List
+      - Website Donor Roll
+      - Annual Report Only
+      - No Public Recognition
+      required: false
+    - id: 22
+      name: newsletter_signup
+      label: Subscribe to Newsletter
+      hint: Receive shelter updates and stories
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: tax_deductible_confirmation
+      label: Confirm Tax-Deductible Status
+      hint: This donation is tax-deductible
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: donor_message
+      label: Message to the Shelter
+      hint: Any message or dedication
+      type: text
+      options: []
+      required: false

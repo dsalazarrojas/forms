@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concept Feedback Survey
+    pages:
+      - id: 1
+        name: section_concept_overview
+        label: -- Concept Overview --
+        hint: Present a short summary of the concept before feedback
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Respondent name
+        hint: Optional for anonymity
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: industry
+        label: Industry
+        hint: Sector or domain of respondent
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: perceived_value
+        label: Perceived value
+        hint: How valuable is this concept to you
+        type: select_one
+        options: [High, Moderate, Low]
+        required: true
+      - id: 5
+        name: primary_benefit
+        label: Primary benefit
+        hint: Main advantage you see in the concept
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: main_concerns
+        label: Main concerns
+        hint: Risks or limitations you foresee
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: likelihood_to_use
+        label: Likelihood to use
+        hint: Would you adopt or recommend this concept
+        type: select_one
+        options: [Very likely, Likely, Maybe, Unlikely]
+        required: true
+      - id: 8
+        name: suggestions
+        label: Suggestions
+        hint: Ideas to improve the concept or pitch
+        type: text
+        options: []
+        required: false

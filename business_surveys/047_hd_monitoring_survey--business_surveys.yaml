@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: hd_monitoring_survey
+    pages:
+    - id: 1
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Monitoring
+      - Non-Monitoring
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_quality
+      label: Quality of Service
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Satisfactory
+      required: false
+    - id: 6
+      name: comment
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_type_frequency
+      label: How often do you use HD Monitoring Service?
+      hint: null
+      type: select_one
+      options:
+      - Once in a while
+      - Every few months
+      - Frequently
+      - Regularly
+      required: false
+    - id: 8
+      name: email_frequency
+      label: How often do you send emails?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 9
+      name: service_request
+      label: Would you like to request a service?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false

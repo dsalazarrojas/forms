@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Sustainability Awards Feedback
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Full Name
+      hint: Name of respondent
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_organization
+      label: Organization Name
+      hint: Your organization or company
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: participant_type
+      label: Type of Participant
+      hint: Your role in the event
+      type: select_one
+      options:
+      - Nominee
+      - Award Winner
+      - Sponsor
+      - Attendee
+      - Organizer
+      - Media
+      - Other
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Date of the awards event
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: feedback_date
+      label: Feedback Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_organization
+      label: Event Organization and Planning
+      hint: How well was the event organized
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: venue_quality
+      label: Venue Quality
+      hint: Quality of the venue
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: award_selection_process
+      label: Award Selection Process Fairness
+      hint: Was the selection fair
+      type: select_one
+      options:
+      - Very Fair
+      - Fair
+      - Adequate
+      - Questionable
+      - Unfair
+      required: true
+    - id: 10
+      name: sustainability_focus
+      label: Focus on Sustainability Issues
+      hint: How well did the event address sustainability
+      type: select_one
+      options:
+      - Excellent Focus
+      - Good Focus
+      - Adequate Focus
+      - Limited Focus
+      - Poor Focus
+      required: true
+    - id: 11
+      name: content_relevance
+      label: Content Relevance and Value
+      hint: Was the content relevant
+      type: select_one
+      options:
+      - Highly Relevant
+      - Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      required: true
+    - id: 12
+      name: networking_opportunities
+      label: Networking Opportunities
+      hint: Quality of networking at the event
+      type: select_one
+      options:
+      - Excellent Opportunities
+      - Good Opportunities
+      - Adequate
+      - Limited
+      - None
+      required: true
+    - id: 13
+      name: catering_quality
+      label: Catering and Refreshments Quality
+      hint: Quality of food and beverages
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: program_schedule
+      label: Program Schedule
+      hint: Was timing appropriate
+      type: select_one
+      options:
+      - Well Paced
+      - Good Pace
+      - Adequate
+      - Too Slow
+      - Too Fast
+      required: true
+    - id: 15
+      name: recognition_quality
+      label: Quality of Award Recognition
+      hint: Was the recognition meaningful
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Overall experience
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 17
+      name: suggestions_improvement
+      label: Suggestions for Improvement
+      hint: How can we improve
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: future_participation
+      label: Future Event Participation
+      hint: Would you attend future events
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: false

@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Get Arccosine (acos) Form
+    pages:
+    - id: 1
+      name: input_value
+      label: Input Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: result_acos
+      label: Result Acos
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      required: false
+    - id: 3
+      name: input_angle
+      label: Input Angle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: result_acos_angle
+      label: Result Acos Angle
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      required: false

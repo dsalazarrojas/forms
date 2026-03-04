@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Systems Analyst Survey
+    pages:
+    - id: 1
+      name: section_respondent
+      label: -- Professional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: current_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_experience
+      label: Years in Cloud Systems - Analytics
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: organization_type
+      label: Type of Organization
+      hint: null
+      type: select_one
+      options:
+      - Enterprise
+      - Mid-market
+      - Small business
+      - Startup
+      - Consulting firm
+      - Education
+      - Non-profit
+      - Other
+      required: true
+    - id: 7
+      name: section_platforms
+      label: -- Cloud Platform Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_platforms
+      label: Primary cloud platforms you work with
+      hint: null
+      type: select_multiple
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - Alibaba Cloud
+      - Oracle Cloud
+      - IBM Cloud
+      - Other
+      required: true
+    - id: 9
+      name: platform_expertise
+      label: Which platform are you most expert in?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: multi_cloud_experience
+      label: Multi-cloud environment experience?
+      hint: null
+      type: select_one
+      options:
+      - Yes, extensively
+      - Yes, some experience
+      - No experience yet
+      required: true
+    - id: 11
+      name: section_tools
+      label: -- Tools and Technologies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: monitoring_tools
+      label: Monitoring and analytics tools used
+      hint: CloudWatch, Azure Monitor, Stackdriver, etc
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: automation_tools
+      label: Automation and orchestration tools
+      hint: Terraform, Ansible, CloudFormation, etc
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: security_compliance_tools
+      label: Security and compliance tools experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_challenges
+      label: -- Key Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: main_challenges
+      label: Main challenges in your role
+      hint: null
+      type: select_multiple
+      options:
+      - Cost optimization
+      - Security and compliance
+      - Performance tuning
+      - Migration issues
+      - Skill gaps
+      - Tool integration
+      - Vendor lock-in
+      - Data management
+      required: true
+    - id: 17
+      name: biggest_pain_point
+      label: Biggest pain point currently
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_satisfaction
+      label: -- Role Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: job_satisfaction
+      label: Overall job satisfaction
+      hint: Rate from 1 (low) to 5 (high)
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: satisfaction_factors
+      label: Most satisfying aspects of the role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: improvement_areas
+      label: Areas for improvement in your organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_development
+      label: -- Professional Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: training_needs
+      label: Training or certifications you want to pursue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: career_goals
+      label: Career goals in cloud systems
+      hint: Next 2-3 years
+      type: text
+      options: []
+      required: false

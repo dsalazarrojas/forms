@@ -1,0 +1,175 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Booth Rental Readiness Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: company_name
+        label: Company Name
+        hint: Your business name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: response_date
+        label: Survey Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: booth_readiness
+        label: Booth Setup Readiness
+        hint: How ready are you
+        type: select_one
+        options:
+          - Fully ready
+          - Mostly ready
+          - Partially ready
+          - Not ready
+          - Need assistance
+        required: true
+      - id: 5
+        name: display_materials
+        label: Display Materials Status
+        hint: Are materials prepared
+        type: select_one
+        options:
+          - All materials ready
+          - Most materials ready
+          - Some materials ready
+          - Materials in progress
+          - Not started
+        required: true
+      - id: 6
+        name: staffing_plan
+        label: Staffing Plan Complete
+        hint: Is staff assigned
+        type: select_one
+        options:
+          - Yes, fully staffed
+          - Mostly staffed
+          - Partially staffed
+          - Still recruiting
+          - No plan yet
+        required: true
+      - id: 7
+        name: marketing_ready
+        label: Marketing Materials Ready
+        hint: Promotional materials status
+        type: select_one
+        options:
+          - All ready
+          - Mostly ready
+          - Some ready
+          - In progress
+          - Not prepared
+        required: true
+      - id: 8
+        name: technology_setup
+        label: Technology Setup Status
+        hint: Technical equipment ready
+        type: select_one
+        options:
+          - Fully set up
+          - Mostly set up
+          - Partially set up
+          - In progress
+          - Not started
+        required: true
+      - id: 9
+        name: budget_status
+        label: Budget Status
+        hint: Is budget finalized
+        type: select_one
+        options:
+          - Finalized and approved
+          - Mostly finalized
+          - Pending approval
+          - In discussion
+          - Not addressed
+        required: true
+      - id: 10
+        name: main_challenges
+        label: Main Challenges
+        hint: What are your biggest concerns
+        type: select_multiple
+        options:
+          - Budget constraints
+          - Time management
+          - Staffing availability
+          - Technical issues
+          - Shipping delays
+          - Design decisions
+          - Marketing reach
+          - Other
+        required: true
+      - id: 11
+        name: support_needed
+        label: Support Needed
+        hint: What kind of help do you need
+        type: select_multiple
+        options:
+          - Design assistance
+          - Marketing support
+          - Technical help
+          - Setup assistance
+          - Staffing
+          - Budget planning
+          - Logistics
+          - Other
+        required: false
+      - id: 12
+        name: timeline_confidence
+        label: Timeline Confidence
+        hint: Will you meet deadlines
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Somewhat confident
+          - Not confident
+          - Concerned
+        required: true
+      - id: 13
+        name: expectations
+        label: Booth Expectations
+        hint: What are your success metrics
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: How can we better support you
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: follow_up_needed
+        label: Follow-up Contact Needed
+        hint: Would you like us to contact you
+        type: select_one
+        options:
+          - Yes, urgent follow-up
+          - Yes, routine follow-up
+          - No follow-up needed
+        required: false

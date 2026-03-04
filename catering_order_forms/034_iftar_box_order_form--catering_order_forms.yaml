@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Iftar Box Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date_of_iftar
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time_of_iftar
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: total_people
+      label: total_number_of_people
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Ordered
+      - In progress
+      - Delivered
+      - Cancelled
+      required: false
+    - id: 10
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false

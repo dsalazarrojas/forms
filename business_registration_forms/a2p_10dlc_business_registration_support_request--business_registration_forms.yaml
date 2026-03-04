@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: A2P 10DLC Business Registration Support Request
+    pages:
+    - id: 1
+      name: header_request_overview
+      label: "--- Registration Support Request ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business name
+      hint: Legal entity name for registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ein_or_tax_id
+      label: EIN / Tax ID
+      hint: Provide the numeric identifier used for registration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dba_or_brand_name
+      label: DBA or brand name (if different)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact email for registration team
+      hint: Must be a monitored business email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone number
+      hint: Used by carriers for verification if needed
+      type: phone
+      options: []
+      required: true
+    - id: 7
+      name: use_case_description
+      label: Primary messaging use case
+      hint: Describe how messages will be used (1-3 sentences)
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: monthly_message_volume_estimate
+      label: Estimated monthly message volume
+      hint: Whole-number estimate of messages per month
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: campaign_type
+      label: Campaign type
+      hint: Choose the category that best fits use case
+      type: select_one
+      options:
+        - Marketing (promotional)
+        - Transactional (alerts/OTP)
+        - Mixed
+        - Customer care
+      required: true
+    - id: 10
+      name: brand_entity_type
+      label: Brand entity type
+      hint: Select legal entity type for registration
+      type: select_one
+      options:
+        - Corporation
+        - LLC
+        - Sole proprietorship
+        - Non-profit
+      required: true
+    - id: 11
+      name: require_carrier_vetting
+      label: Assistance with carrier vetting required?
+      hint: Support for carrier-level approvals and documentation
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 12
+      name: sample_message
+      label: Sample message content
+      hint: Paste 1-3 typical message examples
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: preferred_timeline
+      label: Preferred timeline for registration support
+      hint: null
+      type: select_one
+      options:
+        - 1-2 weeks
+        - 2-4 weeks
+        - 1-3 months
+      required: false
+    - id: 14
+      name: additional_requirements
+      label: Additional technical or compliance requirements
+      hint: e.g., consent capture, opt-out flow, privacy policy link
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: support_notes
+      label: Internal notes for support team
+      hint: For support staff use only
+      type: note
+      options: []
+      required: false

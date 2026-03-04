@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_vehicle_inspection_form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: true
+    - id: 3
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: make_model_year
+      label: Make Model Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vin_number
+      label: VIN Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_license_number
+      label: Vehicle License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - excellent
+      - good
+      - fair
+      - poor
+      required: false
+    - id: 11
+      name: vehicle_notes
+      label: Vehicle Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_photo
+      label: Vehicle Photo
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_video
+      label: Vehicle Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_audio
+      label: Vehicle Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_status_date
+      label: Vehicle Status Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_status_time
+      label: Vehicle Status Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_inspector
+      label: Vehicle Inspector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_inspector_name
+      label: Vehicle Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false

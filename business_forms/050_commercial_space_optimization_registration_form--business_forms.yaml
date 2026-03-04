@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Space Optimization Registration Form
+    pages:
+    - id: 1
+      name: section_client_org
+      label: -- Organization Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_business_industry
+      label: Primary Business Industry
+      hint: null
+      type: select_one
+      options:
+      - Corporate Office
+      - Healthcare Facility
+      - Education / Campus
+      - Retail / Commercial Center
+      - Industrial / Manufacturing
+      - Hospitality
+      required: true
+    - id: 4
+      name: section_optimization_scope
+      label: -- Optimization Project Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: current_space_challenges
+      label: Primary challenges with current space
+      hint: e.g., Low utilization, poor flow, outdated design, growth constraints
+      type: select_multiple
+      options:
+      - Under-utilized Workspace
+      - Poor Employee/Customer Flow
+      - Insufficient Collaboration Areas
+      - Outdated Technology Integration
+      - High Utility/Operating Costs
+      - Need for Rebranding/Aesthetic Refresh
+      required: true
+    - id: 6
+      name: optimization_goals
+      label: What are your primary goals for this project?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: total_square_footage_optimization
+      label: Estimated Total Square Footage for Optimization
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: number_of_occupants
+      label: Number of Regular Occupants/Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_project_specifics
+      label: -- Project Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: desired_project_start
+      label: Desired Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: optimization_budget_range
+      label: Target Budget Range for Optimization
+      hint: null
+      type: select_one
+      options:
+      - $10k - $50k
+      - $50k - $250k
+      - $250k - $1M
+      - $1M+
+      required: true
+    - id: 12
+      name: section_optimization_contact
+      label: -- Project Lead Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: project_lead_name
+      label: Lead Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_lead_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_lead_email
+      label: Professional Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: project_lead_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_project_info
+      label: Additional Context or Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

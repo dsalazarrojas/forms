@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: percentage_calculator
+    pages:
+    - id: 1
+      name: base_value
+      label: base_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: percentage
+      label: percentage_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: base_amount
+      label: base_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: result
+      label: percentage_result
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: percentage_result_hint
+      label: percentage_result_hint
+      hint: null
+      type: text
+      options: []
+      required: false

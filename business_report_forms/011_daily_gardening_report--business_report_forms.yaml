@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Gardening Report
+    pages:
+    - id: 1
+      name: first_page
+      label: Gardening Tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plant_health
+      label: Plant Health
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: site_details
+      label: Site Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: garden_area
+      label: Garden Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: garden_area_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pest_control
+      label: Pest Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pest_control_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: weather
+      label: Weather
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: weather_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tasks_completed
+      label: Tasks Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

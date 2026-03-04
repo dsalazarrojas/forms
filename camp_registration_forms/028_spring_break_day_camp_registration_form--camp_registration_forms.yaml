@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: spring_break_day_camp_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: fee_payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Bank Transfer
+      - Credit Card
+      required: true
+    - id: 6
+      name: fee_amount
+      label: Payment amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: file_upload
+      label: File upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: camper_info
+      label: Camper info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

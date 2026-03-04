@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Disaster Recovery Attitudes Survey
+    pages:
+    - id: 1
+      name: survey_start_page
+      label: Survey Start Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How often do you think disasters occur in your local area?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: question_2
+      label: In the event of a disaster, what role do you think local governments
+        should play?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question_3
+      label: What is your biggest concern when it comes to disaster preparedness?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: question_4
+      label: What is your biggest concern when it comes to disaster recovery?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: question_5
+      label: How do you think local government can best support disaster recovery
+        in your community?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: survey_end_page
+      label: Survey End Page
+      hint: null
+      type: note
+      options: []
+      required: false

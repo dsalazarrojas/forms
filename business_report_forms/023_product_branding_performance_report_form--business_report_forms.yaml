@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Branding Performance Report Form
+    pages:
+    - id: 1
+      name: brand_name
+      label: Brand Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: brand_category
+      label: Brand Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: strengths
+      label: What are the strengths?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: weaknesses
+      label: What are the weaknesses?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: strengths_list
+      label: Strengths List
+      hint: List of strengths
+      type: select_multiple
+      options:
+      - Good
+      - Strong
+      - Effective
+      - Positive
+      - Excellent
+      - Well-liked
+      - Good-looking
+      - Successful
+      - Strongly Liked
+      - Well-respected
+      required: false
+    - id: 6
+      name: weaknesses_list
+      label: Weaknesses List
+      hint: List of weaknesses
+      type: select_multiple
+      options:
+      - Bad
+      - Poor
+      - Weak
+      - Negative
+      - Unwell-liked
+      - Unsuccessful
+      - Strongly Disliked
+      - Poor-looking
+      required: false
+    - id: 7
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: Any suggestions?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Tool Used
+      hint: null
+      type: select_one
+      options:
+      - Adobe Creative Cloud
+      - Brandlytics
+      - ChatJIMMY
+      - Other
+      required: false
+    - id: 9
+      name: output_filename
+      label: Output Filename
+      hint: Filename for report output
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output_format
+      label: Output Format
+      hint: null
+      type: select_one
+      options:
+      - CSV
+      - Excel
+      - PDF
+      - Word Document
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Additional Notes
+      hint: Additional information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,328 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canopy Selection Survey
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Canopy Selection Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Help us find the perfect canopy solution for your needs. Please answer
+        the following questions about your requirements.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_type_header
+      label: -- Project Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_type
+      label: What type of project are you planning?
+      hint: Select one
+      type: select_one
+      options:
+      - Residential backyard
+      - Residential deck
+      - Commercial space
+      - Event/temporary use
+      - Parking area
+      - Outdoor dining
+      - Sports facility
+      - Other
+      required: true
+    - id: 9
+      name: use_case
+      label: Primary use of the canopy
+      hint: Select one
+      type: select_one
+      options:
+      - Shade and sun protection
+      - Rain protection
+      - Storage area
+      - Outdoor entertaining
+      - Business/commercial use
+      - Event venue
+      - Multiple purposes
+      required: true
+    - id: 10
+      name: size_header
+      label: -- Size Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: coverage_area
+      label: Estimated Coverage Area Needed
+      hint: Approximate square footage
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: size_flexibility
+      label: How flexible is the size?
+      hint: Select one
+      type: select_one
+      options:
+      - Must be exact size
+      - Can be slightly larger
+      - Can be slightly smaller
+      - Flexible within range
+      - Unsure
+      required: false
+    - id: 13
+      name: shape_preference
+      label: Shape Preference
+      hint: Select one
+      type: select_one
+      options:
+      - Square
+      - Rectangular
+      - Hexagonal
+      - Octagonal
+      - Circular
+      - Custom shape
+      - No preference
+      required: true
+    - id: 14
+      name: canopy_type_header
+      label: -- Canopy Type Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: canopy_type_preference
+      label: What type of canopy interests you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fixed permanent structure
+      - Retractable canopy
+      - Portable tent
+      - Shade sail
+      - Pergola
+      - Marquee
+      - Pop-up tent
+      - Custom design
+      required: true
+    - id: 16
+      name: installation_type
+      label: Installation Preference
+      hint: Select one
+      type: select_one
+      options:
+      - Ground mounted
+      - Wall mounted
+      - Post mounted
+      - Freestanding
+      - Mobile/on wheels
+      - Flexible
+      required: true
+    - id: 17
+      name: material_header
+      label: -- Material Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: fabric_preference
+      label: Fabric Type Preference
+      hint: Select one
+      type: select_one
+      options:
+      - Canvas
+      - Polyester
+      - Vinyl
+      - Acrylic
+      - Mesh
+      - Polycarbonate
+      - Metal
+      - Other
+      required: true
+    - id: 19
+      name: uv_protection
+      label: UV Protection Level Needed
+      hint: Select one
+      type: select_one
+      options:
+      - Basic protection
+      - Standard protection
+      - Maximum UV protection
+      - Not important
+      required: false
+    - id: 20
+      name: water_resistance
+      label: Water Resistance Needed
+      hint: Select one
+      type: select_one
+      options:
+      - None - sun only
+      - Water resistant
+      - Waterproof
+      - Extremely durable
+      required: true
+    - id: 21
+      name: durability_header
+      label: -- Durability and Features --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: wind_resistance
+      label: Wind Resistance Capability
+      hint: Select one
+      type: select_one
+      options:
+      - Light winds only
+      - Moderate winds
+      - Strong winds
+      - Extreme weather
+      - Unsure of needs
+      required: true
+    - id: 23
+      name: special_features
+      label: Desired Special Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Motorized/automated
+      - Lighting included
+      - Heating capability
+      - Sound system
+      - Removable panels
+      - Easy maintenance
+      - Eco-friendly materials
+      - No special features
+      required: false
+    - id: 24
+      name: maintenance_header
+      label: -- Maintenance Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: maintenance_level
+      label: Maintenance Level Acceptable
+      hint: Select one
+      type: select_one
+      options:
+      - Very low maintenance
+      - Low maintenance
+      - Moderate maintenance
+      - High maintenance acceptable
+      - No preference
+      required: false
+    - id: 26
+      name: lifespan_expectation
+      label: Expected Lifespan
+      hint: Select one
+      type: select_one
+      options:
+      - Temporary - less than 1 year
+      - Short term - 1-3 years
+      - Medium term - 3-5 years
+      - Long term - 5-10 years
+      - Very long term - 10 plus years
+      required: true
+    - id: 27
+      name: budget_header
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: budget_range
+      label: Approximate Budget Range
+      hint: Select range
+      type: select_one
+      options:
+      - Under 500
+      - 500-1500
+      - 1500-5000
+      - 5000-15000
+      - 15000 plus
+      - Flexible budget
+      required: false
+    - id: 29
+      name: climate_considerations_header
+      label: -- Climate and Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: climate_type
+      label: Local Climate Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Tropical/humid
+      - Arid/desert
+      - Temperate
+      - Cold/snowy
+      - Coastal/salt air
+      - High altitude
+      - Other
+      required: false
+    - id: 31
+      name: additional_notes
+      label: Any Additional Notes or Requirements?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When do you need to decide?
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 1 month
+      - Within 3 months
+      - No rush
+      required: false

@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Publishing Barriers Survey
+    pages:
+    - id: 1
+      name: respondent_profile
+      label: -- Respondent Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role in the research lifecycle
+      hint: Choose the option that best describes you
+      type: select_one
+      options:
+        - Early career researcher
+        - Senior researcher
+        - Librarian
+        - Editor
+        - Administrator
+      required: true
+    - id: 3
+      name: discipline
+      label: Academic discipline
+      hint: Primary field of study
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: main_barriers
+      label: Main barriers experienced when publishing
+      hint: Select up to three options
+      type: select_multiple
+      options:
+        - High publication costs
+        - Long review times
+        - Access to reviewers
+        - Language barriers
+        - Lack of institutional support
+      required: true
+    - id: 5
+      name: impact_of_barriers
+      label: How have these barriers affected your career
+      hint: Describe specific impacts or missed opportunities
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: solutions_suggested
+      label: Suggested solutions to reduce barriers
+      hint: Practical policy or operational recommendations
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: support_needed
+      label: Support needed from institutions or funders
+      hint: Select types of support that would help
+      type: select_multiple
+      options:
+        - Funding for APCs
+        - Reviewer training
+        - Editorial support
+        - Language editing
+      required: false
+    - id: 8
+      name: willingness_to_participate
+      label: Willingness to join follow up discussions
+      hint: Indicate if you are open to further engagement
+      type: select_one
+      options:
+        - Yes
+        - Maybe
+        - No
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact email for follow up
+      hint: Leave email if you agree to be contacted
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other relevant feedback
+      type: text
+      options: []
+      required: false

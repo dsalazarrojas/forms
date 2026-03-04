@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Feed Optimization Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: farm_name
+      label: Farm Name
+      hint: Enter your farm name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: farm_type
+      label: Farm Type
+      hint: null
+      type: select_one
+      options:
+      - Beef
+      - Dairy
+      - Other
+      required: false
+    - id: 4
+      name: feed_source
+      label: Feed Source
+      hint: null
+      type: select_multiple
+      options:
+      - Corn
+      - Soybeans
+      - Other
+      required: false
+    - id: 5
+      name: feed_source_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feed_challenge
+      label: Feed Challenge
+      hint: null
+      type: select_one
+      options:
+      - Nutrient imbalance
+      - Cost
+      - Other
+      required: false
+    - id: 7
+      name: feed_nutrient_balance
+      label: Nutrient Balance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feed_cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feed_nutrient_balance_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feed_frequency
+      label: Feed Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 11
+      name: feed_frequency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feed_amount
+      label: Feed Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: feed_amount_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feed_nutrition
+      label: Feed Nutrition
+      hint: null
+      type: select_one
+      options:
+      - High Quality
+      - Medium Quality
+      - Low Quality
+      required: false
+    - id: 15
+      name: feed_nutrition_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: feed_nutrition_frequency
+      label: Frequency of Nutriton
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: feed_nutrition_frequency_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: feed_frequency_of_nutrition
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 19
+      name: feed_frequency_of_nutrition_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: nutrition
+      label: Nutrition
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 21
+      name: nutrition_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: select_one
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: false
+    - id: 23
+      name: farm_location_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: survey_time
+      label: Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false

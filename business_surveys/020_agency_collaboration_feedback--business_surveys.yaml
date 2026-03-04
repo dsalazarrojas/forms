@@ -1,0 +1,143 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agency Collaboration Feedback
+    pages:
+    - id: 1
+      name: header
+      label: -- External Agency Collaboration Review --
+      hint: evaluating performance and partnership quality
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Internal Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: agency_name
+      label: Name of the External Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_id
+      label: Project Name or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: completion_date
+      label: Project Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: quality_deliverables
+      label: Quality of deliverables provided by the agency
+      hint: select the level of quality
+      type: select_one
+      options:
+      - Exceptional
+      - Above Standard
+      - Meets Standard
+      - Below Standard
+      - Unacceptable
+      required: true
+    - id: 7
+      name: timeline_adherence
+      label: Adherence to project timelines and deadlines
+      hint: were deadlines met consistently
+      type: select_one
+      options:
+      - Always on time
+      - Mostly on time
+      - Occasional delays
+      - Frequently late
+      required: true
+    - id: 8
+      name: communication_clarity
+      label: Communication frequency and clarity
+      hint: how well did the agency communicate
+      type: select_one
+      options:
+      - Clear and frequent
+      - Clear but infrequent
+      - Unclear but frequent
+      - Poor communication
+      required: true
+    - id: 9
+      name: budget_management
+      label: Budget management and transparency
+      hint: null
+      type: select_one
+      options:
+      - Very transparent
+      - Transparent
+      - Somewhat transparent
+      - Lacks transparency
+      required: true
+    - id: 10
+      name: problem_solving
+      label: Proactivity in problem-solving
+      hint: did they identify and fix issues early
+      type: select_one
+      options:
+      - Highly proactive
+      - Somewhat proactive
+      - Reactive
+      - Passive
+      required: true
+    - id: 11
+      name: value_money
+      label: Overall value for money
+      hint: null
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Overpriced
+      required: true
+    - id: 12
+      name: agency_strengths
+      label: What did the agency do particularly well?
+      hint: specify key successes
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: improvement_areas
+      label: What areas should the agency focus on for improvement?
+      hint: be specific about shortcomings
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: future_collaboration
+      label: Likelihood of collaborating with this agency again
+      hint: null
+      type: select_one
+      options:
+      - Definitely would
+      - Likely would
+      - Unsure
+      - Not likely
+      required: true

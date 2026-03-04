@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Planning Checklist
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assignment_title
+      label: Assignment Title
+      hint: Name of the assignment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_name
+      label: Course or Class Name
+      hint: Which class is this for?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of course instructor
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: due_date
+      label: Assignment Due Date
+      hint: When is it due?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: planning_date
+      label: Planning Date
+      hint: When are you planning this?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: assignment_description
+      label: Assignment Description
+      hint: What are the requirements?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_objectives
+      label: Learning Objectives
+      hint: What should you learn?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: estimated_hours
+      label: Estimated Time Required (hours)
+      hint: How long will it take?
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 11
+      name: research_needed
+      label: Research Required
+      hint: Do you need to research?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: sources_identified
+      label: Sources to Consult
+      hint: List potential sources
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: required_materials
+      label: Required Materials or Resources
+      hint: What do you need?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: have_all_materials
+      label: Do You Have All Materials?
+      hint: Checklist complete?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 15
+      name: clarifications_needed
+      label: Clarifications Needed from Instructor
+      hint: Any questions to ask?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: collaboration_needed
+      label: Collaboration or Help Needed
+      hint: Will you work with others?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: collaborators
+      label: Collaborators or Group Members
+      hint: Who will you work with?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: start_date_planned
+      label: Planned Start Date
+      hint: When will you begin?
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: first_draft_date
+      label: Target Date for First Draft
+      hint: When should draft be done?
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: revision_date
+      label: Revision and Review Date
+      hint: When to revise?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: final_check_date
+      label: Final Review and Submission Date
+      hint: Last day for final check
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: task_one
+      label: Task One - What is the first step?
+      hint: Initial task
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: task_two
+      label: Task Two - What is the next step?
+      hint: Second task
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: task_three
+      label: Task Three - Additional steps
+      hint: Third task
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes_concerns
+      label: Notes or Concerns
+      hint: Any worries or notes?
+      type: text
+      options: []
+      required: false

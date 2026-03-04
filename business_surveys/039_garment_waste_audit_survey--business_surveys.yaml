@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garment Waste Audit Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility
+      label: facility_information
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: production
+      label: production_process
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: waste_quantities
+      label: waste_quantities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: disposal_methods
+      label: disposal_methods
+      hint: null
+      type: select_multiple
+      options:
+      - Landfill
+      - Recycling
+      - Energy recovery
+      - Incineration
+      - Other
+      - Not applicable
+      required: false
+    - id: 6
+      name: challenges
+      label: common_challenges
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: improvement_ideas
+      label: common_improvement_ideas
+      hint: null
+      type: select_multiple
+      options:
+      - Improved supply chain collaboration
+      - Improved production processes
+      - Reduced material usage
+      - Other
+      - Not applicable
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_contact
+      label: facility_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false

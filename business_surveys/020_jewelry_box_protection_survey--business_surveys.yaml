@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jewelry Box Protection Survey
+    pages:
+    - id: 1
+      name: jewelry_box_protection_survey
+      label: Jewelry Box Protection Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storage_habits
+      label: Storage Habits
+      hint: null
+      type: select_one
+      options:
+      - Jewelry Box Storage 1
+      - Jewelry Box Storage 2
+      - Jewelry Box Storage 3
+      required: false
+    - id: 3
+      name: protection_features
+      label: Protection Features
+      hint: null
+      type: select_multiple
+      options:
+      - Protection Feature 1
+      - Protection Feature 2
+      - Protection Feature 3
+      required: false
+    - id: 4
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_satisfaction_rating
+      label: Customer Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_satisfaction_comments
+      label: Customer Satisfaction Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_team_feedback
+      label: Product Team Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_team_feedback_comments
+      label: Product Team Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false

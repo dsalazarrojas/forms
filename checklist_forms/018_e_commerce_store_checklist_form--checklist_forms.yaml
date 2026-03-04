@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_store_checklist_form
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: store_setup
+      label: store_setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_setup
+      label: product_setup
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: pricing
+      label: pricing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payments
+      label: payments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shipping
+      label: shipping
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: taxes
+      label: taxes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: returns
+      label: returns
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_support
+      label: contact_support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_support
+      label: customer_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

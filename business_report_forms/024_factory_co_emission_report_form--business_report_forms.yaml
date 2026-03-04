@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory CO₂ Emission Report Form
+    pages:
+    - id: 1
+      name: factory_details
+      label: FactoryDetails
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_periods
+      label: ReportingPeriods
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Q1''}'
+      - '{''id'': 2, ''name'': ''Q2''}'
+      - '{''id'': 3, ''name'': ''Q3''}'
+      required: false
+    - id: 3
+      name: emission_totals
+      label: EmissionTotals
+      hint: Please specify emission totals in tons of CO2 per year
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reporting_years
+      label: ReportingYears
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': 2018}'
+      - '{''id'': 2, ''name'': 2019}'
+      - '{''id'': 3, ''name'': 2020}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

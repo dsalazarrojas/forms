@@ -1,0 +1,120 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Report Generation Request Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Report request details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Name of person or team requesting the report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: Email for delivery and clarifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: report_type
+      label: Report type
+      hint: Select the report to be generated
+      type: select_one
+      options:
+        - Trial balance
+        - Profit and loss
+        - Balance sheet
+        - Cash flow
+      required: true
+    - id: 5
+      name: report_period
+      label: Report period
+      hint: Date range for the report
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: data_filters
+      label: Data filters
+      hint: Any filters or account ranges to apply
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: output_format
+      label: Output format
+      hint: Preferred file format for the report
+      type: select_one
+      options:
+        - PDF
+        - Excel
+        - CSV
+      required: true
+    - id: 8
+      name: delivery_method
+      label: Delivery method
+      hint: How the report should be delivered
+      type: select_one
+      options:
+        - Email
+        - Shared drive link
+        - Internal portal
+      required: true
+    - id: 9
+      name: priority_level
+      label: Priority level
+      hint: Urgency for this report
+      type: select_one
+      options:
+        - Routine
+        - Urgent
+        - Immediate
+      required: true
+    - id: 10
+      name: expected_completion_date
+      label: Expected completion date
+      hint: Target date for report delivery
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: cc_recipients
+      label: CC recipients
+      hint: Additional emails to receive the report
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_instructions
+      label: Additional instructions
+      hint: Any special calculations or presentation details
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_signature
+      label: Approval signature
+      hint: Sign by typing full name for authorization
+      type: text
+      options: []
+      required: true

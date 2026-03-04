@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Agreement Form
+    pages:
+    - id: 1
+      name: party_a_info
+      label: Party A Information
+      hint: First party details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: party_a_name
+      label: Party A Name
+      hint: Legal name of first party
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: party_a_type
+      label: Party A Type
+      hint: Type of entity
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Other
+      required: true
+    - id: 4
+      name: party_a_email
+      label: Party A Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: party_a_phone
+      label: Party A Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: party_a_address
+      label: Party A Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: party_b_info
+      label: Party B Information
+      hint: Second party details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: party_b_name
+      label: Party B Name
+      hint: Legal name of second party
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: party_b_type
+      label: Party B Type
+      hint: Type of entity
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Other
+      required: true
+    - id: 10
+      name: party_b_email
+      label: Party B Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: party_b_phone
+      label: Party B Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: party_b_address
+      label: Party B Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agreement_details
+      label: Agreement Details
+      hint: Terms of agreement
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agreement_type
+      label: Agreement Type
+      hint: Type of business agreement
+      type: select_one
+      options:
+      - Service Agreement
+      - Partnership Agreement
+      - Vendor Agreement
+      - Client Agreement
+      - Licensing Agreement
+      - Non-Disclosure Agreement
+      - Employment Agreement
+      - Other
+      required: true
+    - id: 15
+      name: agreement_description
+      label: Agreement Description
+      hint: Brief description of the agreement
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: scope_of_work
+      label: Scope of Work
+      hint: What work or services will be provided
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: payment_terms
+      label: Payment Terms
+      hint: How will payments be made
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: agreement_value
+      label: Agreement Value
+      hint: Total value of agreement
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: start_date
+      label: Start Date
+      hint: When does agreement begin
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: end_date
+      label: End Date
+      hint: When does agreement end
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: renewal_terms
+      label: Renewal Terms
+      hint: How can agreement be renewed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: termination_clause
+      label: Termination Clause
+      hint: Conditions for termination
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: confidentiality
+      label: Confidentiality Required
+      hint: Is confidentiality required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: governing_law
+      label: Governing Law
+      hint: Which jurisdiction governs this agreement
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_terms
+      label: Additional Terms
+      hint: Any other terms or conditions
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: party_a_signature
+      label: Party A Signature
+      hint: Name of authorized signatory for Party A
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: party_a_signature_date
+      label: Party A Signature Date
+      hint: Date signed by Party A
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: party_b_signature
+      label: Party B Signature
+      hint: Name of authorized signatory for Party B
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: party_b_signature_date
+      label: Party B Signature Date
+      hint: Date signed by Party B
+      type: date
+      options: []
+      required: true

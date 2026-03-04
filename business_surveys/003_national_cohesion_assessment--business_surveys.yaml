@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: national_cohesion_assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: government
+      label: What is your level of trust in government institutions?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 3
+      name: regional_authorities
+      label: What is your level of trust in regional authorities?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 4
+      name: institutions
+      label: What is your level of trust in local institutions?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 5
+      name: civil_society
+      label: What is your level of trust in civil society?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 6
+      name: regional_identity
+      label: Which region do you feel most connected to?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Region 1''}'
+      - '{''label'': ''Region 2''}'
+      - '{''label'': ''Region 3''}'
+      - '{''label'': ''None of the above''}'
+      required: false
+    - id: 7
+      name: national_identity
+      label: Which region do you consider yourself to be part of?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Region 1''}'
+      - '{''label'': ''Region 2''}'
+      - '{''label'': ''Region 3''}'
+      - '{''label'': ''None of the above''}'
+      required: false
+    - id: 8
+      name: sense_of_belonging
+      label: How strong is your sense of belonging to your region?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 9
+      name: sense_of_unity
+      label: How much do you feel that your region is united?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 10
+      name: social_support
+      label: What level of social support do you feel in your community?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 11
+      name: political_cohesion
+      label: How satisfied are you with the degree of national political cohesion
+        in your country?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 12
+      name: economic_cohesion
+      label: How satisfied are you with the current economic situation in your region?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 13
+      name: social_cohesion
+      label: How satisfied are you with the social cohesion in your region?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 14
+      name: political_cohesion_country
+      label: How satisfied are you with the current national political cohesion?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 15
+      name: economic_cohesion_country
+      label: How satisfied are you with the current economic situation in your country?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 16
+      name: social_cohesion_country
+      label: How satisfied are you with the current social situation in your country?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very high''}'
+      - '{''label'': ''Somewhat high''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat low''}'
+      - '{''label'': ''Very low''}'
+      required: false
+    - id: 17
+      name: overall_feeling
+      label: What is your overall feeling about your region?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very positive''}'
+      - '{''label'': ''Somewhat positive''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat negative''}'
+      - '{''label'': ''Very negative''}'
+      required: false
+    - id: 18
+      name: overall_feeling_country
+      label: What is your overall feeling about your country?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very positive''}'
+      - '{''label'': ''Somewhat positive''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat negative''}'
+      - '{''label'': ''Very negative''}'
+      required: false
+    - id: 19
+      name: final_comment
+      label: Do you have any comments about your overall feelings?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact
+      label: Would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 21
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: region
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false

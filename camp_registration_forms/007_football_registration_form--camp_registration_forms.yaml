@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Football Registration Form
+    pages:
+    - id: 1
+      name: new_player_info
+      label: New Player Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_details
+      label: Player Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_position
+      label: Player Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: team_info
+      label: Team Information
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: player_info
+      label: Player Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: player_name
+      label: Player Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_email
+      label: Player Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: player_phone
+      label: Player Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_experience
+      label: Team Experience
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: player_skills
+      label: Player Skills
+      hint: 'null'
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: team_affiliations
+      label: Team Affiliations
+      hint: 'null'
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: Emergency Contact
+      hint: 'null'
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: player_diet
+      label: Player Diet
+      hint: 'null'
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: emergency_phone
+      label: Emergency Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false

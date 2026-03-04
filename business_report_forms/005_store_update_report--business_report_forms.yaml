@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Update Report
+    pages:
+    - id: 1
+      name: store_update_form_1
+      label: Store Update Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - '---'
+      - Clothing
+      - Electronics
+      - Furniture
+      required: false
+    - id: 4
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_update
+      label: Date of Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_update
+      label: Time of Update
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: update_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '---'
+      - Sales Person
+      - Manager
+      - Owner
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

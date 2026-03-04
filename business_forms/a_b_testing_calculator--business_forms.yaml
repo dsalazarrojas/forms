@@ -1,0 +1,144 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: A/B Testing Calculator
+    pages:
+    - id: 1
+      name: experiment_overview_header
+      label: "--- Experiment Overview ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experiment_name
+      label: Experiment name
+      hint: Short identifier for this test (e.g., hero_cta_color)
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: hypothesis
+      label: Hypothesis
+      hint: One-sentence hypothesis describing expected impact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_metric
+      label: Primary metric to measure (choose one)
+      hint: Select the single metric used to declare success
+      type: select_one
+      options:
+        - Conversion rate (purchase)
+        - Click-through rate (CTR)
+        - Lead form completion
+        - Sign-up rate
+        - Revenue per visitor
+      required: true
+    - id: 5
+      name: variant_a_name
+      label: Variant A name
+      hint: e.g., Control or current experience
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: variant_b_name
+      label: Variant B name
+      hint: e.g., Treatment or new variation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: visitors_variant_a
+      label: Visitors shown Variant A
+      hint: Whole number of unique visitors exposed to A
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: conversions_variant_a
+      label: Conversions on Variant A
+      hint: Number of conversions (use whole number)
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: visitors_variant_b
+      label: Visitors shown Variant B
+      hint: Whole number of unique visitors exposed to B
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: conversions_variant_b
+      label: Conversions on Variant B
+      hint: Number of conversions (use whole number)
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: significance_level
+      label: Desired significance level
+      hint: Choose threshold for statistical significance
+      type: select_one
+      options:
+        - 90%
+        - 95%
+        - 99%
+      required: true
+    - id: 12
+      name: calculation_notes
+      label: Calculation notes / assumptions
+      hint: Note sampling, segmentation or any caveats
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recommended_action
+      label: Recommended action after analysis
+      hint: Choose recommended next step based on result
+      type: select_one
+      options:
+        - Declare winner and roll out
+        - Run longer for more data
+        - Segment and analyze further
+        - Revert to control
+      required: true
+    - id: 14
+      name: experiment_start_date
+      label: Experiment start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: experiment_end_date
+      label: Experiment end date
+      hint: Leave blank if still running
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: analyst_notes
+      label: Analyst notes and interpretation
+      hint: Free-form commentary on statistical test and context
+      type: text
+      options: []
+      required: false

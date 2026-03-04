@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Assembly Checklist
+    pages:
+    - id: 1
+      name: attendance
+      label: attendance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: incidents
+      label: incidents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: roll_call_number
+      label: roll call number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: emergency contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: emergency_phone
+      label: emergency phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_address
+      label: emergency address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incidents_description
+      label: incidents description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: incidents_type
+      label: incidents type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fire''}'
+      - '{''id'': 2, ''label'': ''Medical''}'
+      - '{''id'': 3, ''label'': ''Injury''}'
+      required: true
+    - id: 10
+      name: incidents_location
+      label: incidents location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Inside''}'
+      - '{''id'': 2, ''label'': ''Outside''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: incidents_description
+      label: incidents description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incidents_status
+      label: incidents status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Resolved''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      - '{''id'': 4, ''label'': ''In Progress''}'
+      required: true

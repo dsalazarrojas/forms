@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: scale_inspection_and_production_form
+    pages:
+    - id: 1
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_plan
+      label: Production Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: production_status
+      label: Production Status
+      hint: Select production status
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Complete''}'
+      required: false
+    - id: 4
+      name: issues
+      label: Issues
+      hint: Select any issues
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Complete''}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

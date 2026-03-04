@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Contract Service Inquiry Form
+    pages:
+    - id: 1
+      name: smart_contract_service
+      label: Smart Contract Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contract_type
+      label: contract_type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: business_type
+      label: business_type
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: service_request
+      label: service_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 9
+      name: subcategory
+      label: subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: service_request_date
+      label: service_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: service_request_time
+      label: service_request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 13
+      name: notes2
+      label: notes2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submit_time
+      label: submit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_title
+      label: submitted_by_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_organization
+      label: submitted_by_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to_title
+      label: assigned_to_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to_organization
+      label: assigned_to_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_organization
+      label: submitter_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_email
+      label: submitted_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to_email
+      label: assigned_to_email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arbitration Checklist Form
+    pages:
+    - id: 1
+      name: section_case_info
+      label: -- Case Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: case_number
+      label: Case Number
+      hint: Reference number for tracking
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: case_title
+      label: Case Title
+      hint: Name of the arbitration case
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: arbitrator_name
+      label: Assigned Arbitrator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hearing_date
+      label: Scheduled Hearing Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_documentation
+      label: -- Required Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: initial_claim_filed
+      label: Initial claim filed and served
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - In Progress
+      required: true
+    - id: 8
+      name: response_filed
+      label: Response to claim filed
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Pending
+      required: true
+    - id: 9
+      name: evidence_submitted
+      label: Evidence documentation submitted
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 10
+      name: witness_statements
+      label: Witness statements prepared
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not Required
+      required: false
+    - id: 11
+      name: exhibits_organized
+      label: All exhibits properly organized and indexed
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - In Progress
+      required: true
+    - id: 12
+      name: section_party_prep
+      label: -- Party Preparation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: parties_notified
+      label: All parties notified of hearing date
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 14
+      name: representation_confirmed
+      label: Legal representation confirmed
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Self-represented
+      required: true
+    - id: 15
+      name: prehearing_conference
+      label: Pre-hearing conference completed
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Scheduled
+      required: false
+    - id: 16
+      name: disclosures_exchanged
+      label: All required disclosures exchanged
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Partial
+      required: true
+    - id: 17
+      name: section_logistics
+      label: -- Hearing Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: venue_confirmed
+      label: Hearing venue confirmed and accessible
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Virtual/Remote
+      required: true
+    - id: 19
+      name: technology_setup
+      label: Technology setup tested (if virtual)
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not Applicable
+      required: false
+    - id: 20
+      name: checklist_completion_date
+      label: Checklist Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: prepared_by
+      label: Prepared By Name
+      hint: null
+      type: text
+      options: []
+      required: true

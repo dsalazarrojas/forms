@@ -1,0 +1,165 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Sculpture Agreement Form
+    pages:
+    - id: 1
+      name: section_header_parties
+      label: "--- Client & Artist Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Client email address
+      hint: For contract and invoice delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Client phone number
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: artist_name
+      label: Artist / sculptor name
+      hint: Legal or business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_title
+      label: Commission title / short description
+      hint: e.g., "Memorial Bust for Park"
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_scope
+      label: Detailed project description and scope
+      hint: Describe concept, finish, and any included services
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_material
+      label: Primary material
+      hint: Choose the main material for the sculpture
+      type: select_one
+      options:
+        - Bronze
+        - Marble
+        - Wood
+        - Resin
+        - Mixed media
+      required: true
+    - id: 9
+      name: dimensions_estimate
+      label: Estimated finished dimensions (H x W x D)
+      hint: Use cm or inches, e.g., 120 x 60 x 50 cm
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: approximate_weight
+      label: Approximate weight (kg/lb)
+      hint: Provide best estimate for shipping/installation planning
+      type: decimal
+      options: []
+      required: false
+    - id: 11
+      name: timeline_start_date
+      label: Estimated start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: timeline_completion_date
+      label: Estimated completion date
+      hint: Include lead time for curing/finishing
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: payment_terms
+      label: Payment terms
+      hint: Select the agreed billing schedule
+      type: select_one
+      options:
+        - 50% deposit, 50% on completion
+        - Three instalments
+        - Full payment on completion
+        - Custom schedule (attach terms)
+      required: true
+    - id: 14
+      name: total_fee
+      label: Agreed total fee (numeric)
+      hint: Enter currency amount (no symbol)
+      type: decimal
+      options: []
+      required: true
+    - id: 15
+      name: delivery_and_installation
+      label: Delivery & installation responsibility
+      hint: Who arranges delivery and covers costs?
+      type: select_one
+      options:
+        - Artist arranges and invoices
+        - Client arranges
+        - Shared / negotiable
+      required: true
+    - id: 16
+      name: additional_terms
+      label: Additional contract terms or conditions
+      hint: Include rights to images, reproduction, or storage
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_signature_name
+      label: Client printed name (contract signature)
+      hint: Typing your name represents agreement to terms
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: client_signature_date
+      label: Client signature date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: artist_notes
+      label: Artist notes / special considerations
+      hint: "For internal use: tooling, foundry, or subcontractors"
+      type: text
+      options: []
+      required: false

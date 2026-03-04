@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Delivery Preferences Survey
+    pages:
+    - id: 1
+      name: delivery_preferences_survey_1
+      label: Delivery Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_windows_1
+      label: Time Windows
+      hint: null
+      type: select_multiple
+      options:
+      - 7:00 AM - 8:00 AM
+      - 8:00 AM - 9:00 AM
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      - 5:00 PM - 6:00 PM
+      - 6:00 PM - 7:00 PM
+      - 7:00 PM - 8:00 PM
+      - 8:00 PM - 9:00 PM
+      - 9:00 PM - 10:00 PM
+      - 10:00 PM - 11:00 PM
+      required: false
+    - id: 3
+      name: delivery_instructions_1
+      label: Delivery Instructions
+      hint: null
+      type: select_one
+      options:
+      - No special instructions
+      - Pickup available in store front
+      - Self service at designated pick-up area
+      - Self service at designated pick-up time
+      - Call customer for instructions
+      - Other ( specify below )
+      - Pickup available on designated pick-up day
+      - Other ( specify below )
+      required: false
+    - id: 4
+      name: satisfaction_feedback_1
+      label: Satisfaction Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: phone_1
+      label: Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: delivery_preferences_survey_2
+      label: Delivery Preferences 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_windows_2
+      label: Time Windows 2
+      hint: null
+      type: select_multiple
+      options:
+      - 7:00 AM - 8:00 AM
+      - 8:00 AM - 9:00 AM
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      - 5:00 PM - 6:00 PM
+      - 6:00 PM - 7:00 PM
+      - 7:00 PM - 8:00 PM
+      - 8:00 PM - 9:00 PM
+      - 9:00 PM - 10:00 PM
+      - 10:00 PM - 11:00 PM
+      required: false

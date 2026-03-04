@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridge Construction Quotation Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client or Project Owner Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Business or organization name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: Name or identifier for project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_location
+      label: Project Location
+      hint: Where the bridge will be built
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: bridge_type
+      label: Bridge Type
+      hint: Type of bridge needed
+      type: select_one
+      options:
+      - Beam bridge
+      - Arch bridge
+      - Suspension bridge
+      - Cable-stayed bridge
+      - Truss bridge
+      - Pedestrian bridge
+      - Vehicular bridge
+      - Other type
+      required: true
+    - id: 8
+      name: bridge_span_length
+      label: Bridge Span Length
+      hint: Length in feet or meters
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: bridge_width
+      label: Bridge Width
+      hint: Width required in feet or meters
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: span_unit
+      label: Measurement Unit
+      hint: Feet or meters
+      type: select_one
+      options:
+      - Feet
+      - Meters
+      required: true
+    - id: 11
+      name: main_clearance_needed
+      label: Main Clearance Required
+      hint: Vertical clearance in feet or meters
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: traffic_volume_expected
+      label: Expected Traffic Volume
+      hint: Estimated daily traffic
+      type: select_one
+      options:
+      - Light traffic (under 1000 vehicles/day)
+      - Moderate traffic (1000-5000 vehicles/day)
+      - Heavy traffic (5000-20000 vehicles/day)
+      - Very heavy traffic (over 20000 vehicles/day)
+      - Pedestrian only
+      - Mixed use
+      required: true
+    - id: 13
+      name: bridge_purpose
+      label: Bridge Purpose
+      hint: What will the bridge be used for
+      type: select_one
+      options:
+      - Road bridge
+      - Railway bridge
+      - Pedestrian bridge
+      - Bike path
+      - Pipeline bridge
+      - Combined use
+      - Other purpose
+      required: true
+    - id: 14
+      name: foundation_soil_type
+      label: Foundation Soil Type
+      hint: Type of soil at site
+      type: select_one
+      options:
+      - Rock
+      - Sand
+      - Clay
+      - Silt
+      - Mixed soil
+      - Water (over water)
+      - Unknown
+      required: false
+    - id: 15
+      name: water_crossing
+      label: Water or Obstacle Crossing
+      hint: What does bridge cross
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: load_requirements
+      label: Load Requirements
+      hint: Maximum load capacity needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: material_preference
+      label: Preferred Material
+      hint: Select preferred construction material
+      type: select_one
+      options:
+      - Steel
+      - Concrete
+      - Wood
+      - Composite
+      - Mixed materials
+      - No preference
+      required: false
+    - id: 18
+      name: environmental_considerations
+      label: Environmental Considerations
+      hint: Any environmental constraints
+      type: select_multiple
+      options:
+      - Wetlands protection
+      - Wildlife habitat
+      - Historical significance
+      - Scenic views
+      - Seismic zone
+      - Flood zone
+      - None
+      required: false
+    - id: 19
+      name: project_timeline
+      label: Project Timeline
+      hint: When does construction need to start
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: completion_deadline
+      label: Desired Completion Date
+      hint: When should project be finished
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: estimated_budget
+      label: Estimated Project Budget
+      hint: Your budget range in USD
+      type: select_one
+      options:
+      - Under 100000
+      - 100000 - 500000
+      - 500000 - 1000000
+      - 1000000 - 5000000
+      - 5000000 - 10000000
+      - Over 10000000
+      - TBD
+      required: false
+    - id: 22
+      name: design_phase_status
+      label: Design Phase Status
+      hint: Current status of design
+      type: select_one
+      options:
+      - Conceptual stage
+      - Preliminary design
+      - Final design
+      - Design complete
+      - Design not started
+      required: true
+    - id: 23
+      name: permits_status
+      label: Permits and Approvals Status
+      hint: Status of necessary approvals
+      type: select_one
+      options:
+      - Permits approved
+      - Permits in progress
+      - Not yet applied
+      - Not required
+      required: false
+    - id: 24
+      name: special_requirements
+      label: Special Requirements or Constraints
+      hint: Any unusual requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reference_projects
+      label: Reference or Similar Projects
+      hint: Any similar projects for reference
+      type: text
+      options: []
+      required: false

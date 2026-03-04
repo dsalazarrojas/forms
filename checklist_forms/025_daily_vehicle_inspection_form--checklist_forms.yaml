@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Daily Vehicle Inspection Form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_items
+      label: Inspection Items
+      hint: Select the issues found during the inspection.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Needs Maintenance
+      - Do Not Operate
+      required: false
+    - id: 5
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Needs Maintenance
+      - Completed Maintenance
+      - No Maintenance Needed
+      required: false
+    - id: 6
+      name: driver_details
+      label: Driver Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: Select the condition of the vehicle.
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Repair
+      required: false
+    - id: 8
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: driver_signature
+      label: Driver Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_image
+      label: Vehicle Image
+      hint: null
+      type: text
+      options: []
+      required: false

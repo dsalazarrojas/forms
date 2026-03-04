@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Food Export Survey
+    pages:
+    - id: 1
+      name: export_market
+      label: Export Markets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_info
+      label: Product Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: export_channels
+      label: Export Channels
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: logistics_costs
+      label: Logistics Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: export_terms
+      label: Export Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_info
+      label: Company Info
+      hint: null
+      type: text
+      options: []
+      required: false

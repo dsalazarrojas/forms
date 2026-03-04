@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: deal_evaluation_form
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: deal_overview
+      label: deal_overview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deal_details
+      label: deal_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: risk_assessment
+      label: risk_assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: financials
+      label: financials
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: deal_value
+      label: deal_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: deal_strategy
+      label: deal_strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: deal_outcome
+      label: deal_outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: deal_review
+      label: deal_review
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: deal_rating
+      label: deal_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: text
+      options: []
+      required: false

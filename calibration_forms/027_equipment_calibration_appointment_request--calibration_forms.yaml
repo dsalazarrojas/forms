@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Calibration Appointment Request
+    pages:
+    - id: 1
+      name: equipment_info
+      label: Equipment Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_dates
+      label: Preferred Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: locations
+      label: Locations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_dates2
+      label: Preferred Dates2
+      hint: This is not a real field
+      type: select_multiple
+      options:
+      - '{''name'': ''Monday'', ''value'': 0}'
+      - '{''name'': ''Tuesday'', ''value'': 1}'
+      - '{''name'': ''Wednesday'', ''value'': 2}'
+      - '{''name'': ''Thursday'', ''value'': 3}'
+      - '{''name'': ''Friday'', ''value'': 4}'
+      required: true
+    - id: 7
+      name: preferred_dates3
+      label: Preferred Dates3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: preferred_times
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: locations2
+      label: Locations2
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''On Site'', ''value'': ''on-site''}'
+      - '{''name'': ''Off Site'', ''value'': ''off-site''}'
+      required: true
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: location_details
+      label: Location Details
+      hint: Enter the location details here
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Service 1'', ''value'': ''service1''}'
+      - '{''name'': ''Service 2'', ''value'': ''service2''}'
+      - '{''name'': ''Service 3'', ''value'': ''service3''}'
+      required: true
+    - id: 16
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': 12345, ''value'': 12345}'
+      - '{''name'': 67890, ''value'': 67890}'
+      required: true
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: equipment_subtype
+      label: Equipment Subtype
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false

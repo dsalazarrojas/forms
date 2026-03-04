@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Opinion Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Administration
+      - Engineering
+      - IT
+      - Marketing
+      required: false
+    - id: 5
+      name: opinion
+      label: Opinion
+      hint: Share your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestion
+      label: Suggestion
+      hint: Do you have any suggestions?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: name_of_manager
+      label: Name of Manager
+      hint: null
+      type: text
+      options: []
+      required: false

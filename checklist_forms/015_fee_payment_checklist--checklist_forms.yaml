@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fee Payment Checklist
+    pages:
+    - id: 1
+      name: payment_methods
+      label: payment methods
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Bank transfer
+      - Card
+      required: false
+    - id: 2
+      name: payment_dates
+      label: payment dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: fee_amounts
+      label: fee amounts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: payment_notes
+      label: payment notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: paid_by
+      label: paid by
+      hint: null
+      type: select_multiple
+      options:
+      - School
+      - Club
+      - Business
+      required: false
+    - id: 6
+      name: paid_dates
+      label: paid dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_status
+      label: payment status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially paid
+      required: false
+    - id: 8
+      name: payment_method_notes
+      label: payment method notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payment_status_notes
+      label: payment status notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Card
+      - Bank transfer
+      required: false
+    - id: 11
+      name: fee_amount
+      label: fee amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: method
+      label: method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Card
+      - Bank transfer
+      required: false
+    - id: 16
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially paid
+      required: false
+    - id: 17
+      name: fee
+      label: fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: method2
+      label: method2
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Card
+      - Bank transfer
+      required: false
+    - id: 20
+      name: amount2
+      label: amount2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: status2
+      label: status2
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially paid
+      required: false
+    - id: 22
+      name: fee2
+      label: fee2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: payment_date
+      label: payment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: fee_date
+      label: fee date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially paid
+      required: false

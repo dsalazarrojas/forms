@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Supervisor Performance Survey
+    pages:
+    - id: 1
+      name: warehouse_supervisor_performance_survey
+      label: warehouse_supervisor_performance_survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: leadership_rating
+      label: leadership_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_rating
+      label: communication_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: safety_compliance_rating
+      label: safety_compliance_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: leadership_notes
+      label: leadership_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: communication_comments
+      label: communication_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: safety_comments
+      label: safety_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: leadership_rating_2
+      label: leadership_rating_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: communication_rating_2
+      label: communication_rating_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: safety_compliance_rating_2
+      label: safety_compliance_rating_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments_2
+      label: additional_comments_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

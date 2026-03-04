@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: franchise_satisfaction_survey
+    pages:
+    - id: 1
+      name: page_1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: franchise_name
+      label: franchise_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_2
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: questions_1_1
+      label: question1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very satisfied''}'
+      - '{''value'': ''Somewhat satisfied''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat dissatisfied''}'
+      - '{''value'': ''Very dissatisfied''}'
+      required: false
+    - id: 7
+      name: questions_1_2
+      label: question2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 8
+      name: questions_1_3
+      label: question3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 9
+      name: questions_1_4
+      label: question4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 10
+      name: page_3
+      label: conclusion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

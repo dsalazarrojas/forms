@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Change Order Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: change_description
+      label: Change Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: change_type
+      label: Change Type
+      hint: null
+      type: select_one
+      options:
+      - new
+      - modify
+      - cancel
+      - delete
+      required: false
+    - id: 4
+      name: change_date
+      label: Change Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: change_by
+      label: Change By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: change_description_details
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: change_order_number
+      label: Change Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: original_estimate
+      label: Original Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: change_estimate
+      label: Change Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: change_reason
+      label: Change Reason
+      hint: null
+      type: text
+      options: []
+      required: false

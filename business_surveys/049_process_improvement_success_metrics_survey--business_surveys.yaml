@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Improvement Success Metrics Survey
+    pages:
+    - id: 1
+      name: page_one_first_field
+      label: What is your role?
+      hint: Select a role
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Leader'', ''label'': ''Leader''}'
+      - '{''id'': 2, ''name'': ''Team Member'', ''label'': ''Team Member''}'
+      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: first_field
+      label: First Field
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: second_field
+      label: second field
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: third_field
+      label: third field
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: fourth_field
+      label: fourth field
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Select One Option 1'', ''label'': ''Select One Option
+        1''}'
+      - '{''id'': 2, ''name'': ''Select One Option 2'', ''label'': ''Select One Option
+        2''}'
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Hospitality Cluster Registration Form
+    pages:
+    - id: 1
+      name: smart_hospitality_cluster_registration_form_business_registration_forms
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: smart_hospitality_cluster_registration_form_business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''hospitality''}'
+      - '{''id'': 2, ''name'': ''tech_provider''}'
+      - '{''id'': 3, ''name'': ''tourism_organization''}'
+      required: false
+    - id: 3
+      name: smart_hospitality_cluster_registration_form_company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: smart_hospitality_cluster_registration_form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: smart_hospitality_cluster_registration_form_website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: smart_hospitality_cluster_registration_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: smart_hospitality_cluster_registration_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: smart_hospitality_cluster_registration_form_interest_areas
+      label: Interest Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''hospitality''}'
+      - '{''id'': 2, ''name'': ''tech_providers''}'
+      - '{''id'': 3, ''name'': ''tourism''}'
+      required: false
+    - id: 9
+      name: smart_hospitality_cluster_registration_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: smart_hospitality_cluster_registration_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

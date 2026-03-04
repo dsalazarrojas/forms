@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitter Application Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For notifications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: Provide name and phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: experience_summary
+      label: Summary of babysitting experience
+      hint: Past families duties and duration
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: available_start_date
+      label: Available start date
+      hint: When you can begin work
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: hourly_rate_expected
+      label: Expected hourly rate
+      hint: Numeric value in local currency
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: can_provide_references
+      label: Can provide references
+      hint: Select yes if references available
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: additional_certifications
+      label: Additional certifications
+      hint: CPR first aid other training
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of application
+      type: date
+      options: []
+      required: true

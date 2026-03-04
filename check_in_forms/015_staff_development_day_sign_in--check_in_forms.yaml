@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Development Day Sign In
+    pages:
+    - id: 1
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Any additional comments or feedback?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Support
+      required: false
+    - id: 9
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Staff
+      - Admin
+      required: false
+    - id: 10
+      name: learning_areas
+      label: Learning Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Teamwork
+      required: false
+    - id: 11
+      name: goals_and_outcomes
+      label: Goals and Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_attended
+      label: Session Attended
+      hint: null
+      type: select_multiple
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: true

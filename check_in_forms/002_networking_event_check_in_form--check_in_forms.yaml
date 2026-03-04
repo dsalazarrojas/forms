@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Networking Event Check In Form
+    pages:
+    - id: 1
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Manager
+      - Team Member
+      - Other
+      required: true
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Operations
+      - Finance
+      - Other
+      required: false
+    - id: 8
+      name: team_size
+      label: team_size
+      hint: 1-100
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: time_spent_event
+      label: time_spent_at_event
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

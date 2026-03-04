@@ -1,0 +1,235 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Travel Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_email
+      label: Email Address
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: travel_frequency
+      label: How Often Do You Travel for Business?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - 2-3 times per month
+      - Monthly
+      - Quarterly
+      - Once or twice per year
+      - Rarely
+      required: true
+    - id: 5
+      name: recent_trip
+      label: Are You Responding About a Recent Trip?
+      hint: null
+      type: select_one
+      options:
+      - Yes, within last week
+      - Yes, within last month
+      - Yes, several months ago
+      - No, general feedback
+      required: true
+    - id: 6
+      name: trip_duration
+      label: Typical Trip Duration
+      hint: Average length of business trips
+      type: select_one
+      options:
+      - Same day
+      - 1-2 days
+      - 3-5 days
+      - One week
+      - 2+ weeks
+      - Varies widely
+      required: true
+    - id: 7
+      name: primary_destinations
+      label: Primary Travel Destinations
+      hint: Where do you typically travel?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transportation_satisfaction
+      label: Satisfaction With Transportation Booking
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: accommodation_satisfaction
+      label: Satisfaction With Hotel Accommodations
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: expense_process_ease
+      label: Ease of Expense Reporting Process
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 11
+      name: policy_clarity
+      label: Travel Policy Clarity and Accessibility
+      hint: null
+      type: select_one
+      options:
+      - Very clear and accessible
+      - Clear and accessible
+      - Adequate
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 12
+      name: travel_support_tools
+      label: Usefulness of Travel Support Tools or Apps
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - Useful
+      - Neutral
+      - Not very useful
+      - Not useful at all
+      required: true
+    - id: 13
+      name: booking_system
+      label: How Do You Currently Book Travel?
+      hint: null
+      type: select_multiple
+      options:
+      - Corporate travel management system
+      - Direct with airlines or hotels
+      - Third-party booking sites
+      - Travel agency
+      - Company assistant or admin
+      - Personal preference
+      required: true
+    - id: 14
+      name: cost_concerns
+      label: Cost Management Concerns
+      hint: null
+      type: select_one
+      options:
+      - Well managed within budget
+      - Generally on budget
+      - Sometimes exceeds budget
+      - Often exceeds budget
+      - No cost oversight
+      required: true
+    - id: 15
+      name: travel_fatigue
+      label: Impact on Work and Wellbeing
+      hint: How does travel affect you?
+      type: select_one
+      options:
+      - Energizing, boosts productivity
+      - Manageable impact
+      - Neutral
+      - Tiring and disruptive
+      - Significantly impacts wellbeing
+      required: true
+    - id: 16
+      name: improvements_needed
+      label: What Improvements Are Needed?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Better booking tools
+      - Simpler expense reporting
+      - Higher hotel standards
+      - Direct flights only
+      - Travel account management
+      - More flexible policies
+      - Clearer guidelines
+      - Better support from admin
+      required: true
+    - id: 17
+      name: remote_alternative
+      label: Would Remote Meetings Be an Alternative?
+      hint: null
+      type: select_one
+      options:
+      - Yes, frequently
+      - Sometimes
+      - Rarely
+      - No, travel is necessary
+      required: true
+    - id: 18
+      name: health_safety_concerns
+      label: Health and Safety During Travel
+      hint: How do you feel about these aspects?
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Neutral
+      - Some concerns
+      - Significant concerns
+      required: true
+    - id: 19
+      name: policy_suggestions
+      label: Suggestions for Travel Policy Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overall_satisfaction
+      label: Overall Satisfaction With Business Travel
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true

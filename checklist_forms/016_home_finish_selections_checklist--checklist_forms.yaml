@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_finish_selections_checklist
+    pages:
+    - id: 1
+      name: home_finish_selections_checklist_page_1
+      label: home_finish_selections_checklist_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: flooring_selections
+      label: flooring selections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: paint_selections
+      label: paint_selections
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: cabinetry_selections
+      label: cabinetry_selections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: other_finish_selections
+      label: other finish selections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: other_finish_selections_hint
+      label: other finish selections hint
+      hint: Enter details about other finish selections
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: finish_selections_notes
+      label: finish selections notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: finish_selections_email
+      label: finish selections email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: finish_selections_phone
+      label: finish selections phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: finish_selections_time
+      label: finish selections time
+      hint: null
+      type: time
+      options: []
+      required: false

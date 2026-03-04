@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Operations Inquiry Contact Form
+    pages:
+    - id: 1
+      name: store_operations_inquiry_contact_form_page_1
+      label: store_operations_inquiry
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: store_address
+      label: store_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_hours
+      label: store_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false

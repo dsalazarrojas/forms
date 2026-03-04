@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tip Payment Form
+    pages:
+    - id: 1
+      name: bill_subtotal
+      label: Bill subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tip_amount
+      label: Tip Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tip_calculator
+      label: Tip
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: calculate_tip
+      label: Calculate Tip
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: QuickBooks Implementation Survey
+    pages:
+    - id: 1
+      name: quick_books_implementation_survey
+      label: What is QuickBooks?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: quick_books_version
+      label: QuickBooks Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: implementation_date
+      label: Implementation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-200
+      - 201-500
+      - 501+
+      required: false
+    - id: 6
+      name: implementation_phase
+      label: Implementation Phase
+      hint: null
+      type: select_multiple
+      options:
+      - Planning
+      - Design
+      - Development
+      - Testing
+      - Deployment
+      - Maintenance
+      required: true
+    - id: 7
+      name: quick_books_training
+      label: QuickBooks Training
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: benefits_realized
+      label: Benefits Realized
+      hint: null
+      type: select_multiple
+      options:
+      - Cost Savings
+      - Productivity Increase
+      - Improved Communication
+      - Enhanced Reporting
+      - Other (please describe)
+      required: false
+    - id: 9
+      name: challenges_faced
+      label: Challenges Faced
+      hint: null
+      type: select_multiple
+      options:
+      - Difficulty in getting team members on board
+      - Data loss
+      - Integration issues
+      - Training and Support
+      - Technical difficulties
+      - Other (please describe)
+      required: false
+    - id: 10
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: note
+      options: []
+      required: false

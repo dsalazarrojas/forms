@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Workflow Efficiency Survey
+    pages:
+    - id: 1
+      name: expense_workflow_efficiency_survey
+      label: What is your role at the company?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 2
+      name: company_size
+      label: How big is your company?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: expense_process
+      label: How do you currently handle expenses?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: expense_process_2
+      label: Do you think your expense process has improved since the new system was
+        implemented?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expense_process_3
+      label: What time of month do you submit your expenses?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 6
+      name: expense_process_4
+      label: How many days are you able to process an expense report?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: expense_process_5
+      label: How much time do you spend on expense processing per day?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: expense_process_6
+      label: On a scale of 1-5, how would you rate the overall efficiency of your
+        expense process?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: expense_process_7
+      label: On a scale of 1-5, how would you rate the overall satisfaction of your
+        expense process?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: expense_process_8
+      label: Do you have any suggestions on how to improve the expense process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expense_process_9
+      label: Do you have any feedback on the current expense process?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: expense_process_10
+      label: Are there any issues with submitting or processing expenses?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false

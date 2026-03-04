@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Sustainability Maturity Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: strategy
+      label: what-is-your-sustainability-strategy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: domain_maturity_levels
+      label: which-sustainability-domain-are-you-most-interested-in
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Energy and Climate Change''}'
+      - '{''label'': ''Biodiversity''}'
+      - '{''label'': ''Human Rights and Labour''}'
+      - '{''label'': ''Supply Chain''}'
+      required: false
+    - id: 4
+      name: challenges
+      label: what-are-you-currently-facing-in-your-sustainability
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submission
+      label: submission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Upload File''}'
+      - '{''label'': ''Send Email''}'
+      - '{''label'': ''Save''}'
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_terms_and_conditions
+      label: submission-terms-and-conditions
+      hint: null
+      type: text
+      options: []
+      required: true

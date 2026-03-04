@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Cancellation Offboarding Form
+    pages:
+    - id: 1
+      name: cancellation_reason
+      label: why are you canceling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cancellation_date
+      label: when are you canceling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: cancellation_time
+      label: at what time are you canceling
+      hint: 12 hour clock format
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_cancellation
+      label: what reason is this cancellation due to
+      hint: null
+      type: select_one
+      options:
+      - Insufficient funds
+      - Lost interest
+      - Unresolved issues
+      required: false
+    - id: 5
+      name: how_can_improve
+      label: how can we improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: improved_features
+      label: are there any features youd like to see improved
+      hint: null
+      type: select_multiple
+      options:
+      - Fees
+      - User interface
+      - User experience
+      required: false
+    - id: 7
+      name: contact_info
+      label: what is your best contact information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: agreed_terms
+      label: have you agreed to the terms
+      hint: null
+      type: text
+      options: []
+      required: false

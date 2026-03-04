@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alcohol Sales Summary Report
+    pages:
+    - id: 1
+      name: report_id
+      label: Report ID
+      hint: Unique report identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Name of establishment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_license_number
+      label: Business License Number
+      hint: Alcohol license number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_address
+      label: Business Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_period_start
+      label: Report Period Start Date
+      hint: Beginning of reporting period
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: report_period_end
+      label: Report Period End Date
+      hint: End of reporting period
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: business_type
+      label: Business Type
+      hint: Type of establishment
+      type: select_one
+      options:
+      - Restaurant
+      - Bar/Pub
+      - Liquor Store
+      - Grocery Store
+      - Convenience Store
+      - Hotel/Resort
+      - Club/Nightclub
+      - Brewery
+      - Winery
+      - Distillery
+      required: true
+    - id: 8
+      name: beer_sales_total
+      label: Total Beer Sales
+      hint: Total beer sales amount
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: beer_units_sold
+      label: Beer Units Sold
+      hint: Number of beer units
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: wine_sales_total
+      label: Total Wine Sales
+      hint: Total wine sales amount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: wine_units_sold
+      label: Wine Units Sold
+      hint: Number of wine units
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: spirits_sales_total
+      label: Total Spirits Sales
+      hint: Total spirits sales amount
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: spirits_units_sold
+      label: Spirits Units Sold
+      hint: Number of spirits units
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: other_alcohol_sales
+      label: Other Alcohol Sales
+      hint: Sales of other alcoholic products
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_alcohol_sales
+      label: Total Alcohol Sales
+      hint: Sum of all alcohol sales
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: total_transactions
+      label: Total Alcohol Transactions
+      hint: Number of alcohol transactions
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: tax_collected
+      label: Alcohol Tax Collected
+      hint: Total tax collected on alcohol
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: peak_sales_day
+      label: Peak Sales Day
+      hint: Day with highest sales
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 19
+      name: peak_sales_hour
+      label: Peak Sales Hour
+      hint: Hour with highest sales
+      type: select_one
+      options:
+      - 10 AM - 12 PM
+      - 12 PM - 2 PM
+      - 2 PM - 4 PM
+      - 4 PM - 6 PM
+      - 6 PM - 8 PM
+      - 8 PM - 10 PM
+      - 10 PM - 12 AM
+      - 12 AM - 2 AM
+      required: false
+    - id: 20
+      name: inventory_discrepancies
+      label: Inventory Discrepancies
+      hint: Any discrepancies found?
+      type: select_one
+      options:
+      - None
+      - Minor (under 1%)
+      - Moderate (1-3%)
+      - Significant (over 3%)
+      required: true
+    - id: 21
+      name: incidents_reported
+      label: Alcohol-Related Incidents
+      hint: Any incidents during period?
+      type: select_one
+      options:
+      - None
+      - 1-2 minor incidents
+      - 3-5 incidents
+      - More than 5
+      required: true
+    - id: 22
+      name: incident_details
+      label: Incident Details
+      hint: Describe any incidents
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: compliance_issues
+      label: Compliance Issues
+      hint: Any regulatory compliance issues?
+      type: select_one
+      options:
+      - None
+      - Minor issues resolved
+      - Issues pending resolution
+      - Major compliance concerns
+      required: true
+    - id: 24
+      name: staff_training_completed
+      label: Staff Training Completed
+      hint: Alcohol service training status
+      type: select_one
+      options:
+      - All staff trained
+      - Most staff trained
+      - Some staff trained
+      - No training completed
+      required: true
+    - id: 25
+      name: prepared_by
+      label: Report Prepared By
+      hint: Name of person preparing report
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: preparation_date
+      label: Preparation Date
+      hint: Date report was prepared
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

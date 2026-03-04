@@ -1,0 +1,336 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Operations Transparency Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: -- Building Operations Transparency Survey --
+        hint: Help us improve our communication and transparency
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: occupant_type
+        label: Type of occupancy
+        hint: null
+        type: select_one
+        options:
+          - Tenant - commercial
+          - Tenant - residential
+          - Owner-occupant
+          - Property manager
+          - Facility manager
+          - Employee
+          - Other
+        required: true
+      - id: 5
+        name: time_in_building
+        label: How long have you been in the building?
+        hint: null
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months - 1 year
+          - 1-2 years
+          - 2-5 years
+          - More than 5 years
+        required: true
+      - id: 6
+        name: awareness_section
+        label: -- Operations Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: overall_awareness
+        label: Overall awareness of building operations
+        hint: null
+        type: select_one
+        options:
+          - Very aware - well informed
+          - Aware - generally informed
+          - Somewhat aware - basic information
+          - Unaware - little information
+          - Very unaware - no information
+        required: true
+      - id: 8
+        name: management_transparency
+        label: Management transparency level
+        hint: null
+        type: select_one
+        options:
+          - Excellent - very transparent
+          - Good - mostly transparent
+          - Fair - adequate transparency
+          - Poor - limited transparency
+          - Very poor - not transparent
+        required: true
+      - id: 9
+        name: information_access
+        label: Easy access to operations information
+        hint: null
+        type: select_one
+        options:
+          - Very easy - readily available
+          - Easy - accessible with effort
+          - Somewhat difficult - requires asking
+          - Difficult - hard to find
+          - Very difficult - unavailable
+        required: true
+      - id: 10
+        name: communication_effectiveness
+        label: -- Communication Effectiveness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: communication_quality
+        label: Quality of management communication
+        hint: null
+        type: select_one
+        options:
+          - Excellent - clear and helpful
+          - Good - generally good
+          - Adequate - acceptable
+          - Poor - often unclear
+          - Very poor - confusing
+        required: true
+      - id: 12
+        name: update_frequency
+        label: Frequency of operational updates
+        hint: null
+        type: select_one
+        options:
+          - Very frequent - daily or more
+          - Frequent - several times weekly
+          - Regular - weekly
+          - Periodic - monthly
+          - Infrequent - rarely
+          - Never - no updates
+        required: true
+      - id: 13
+        name: update_timeliness
+        label: Timeliness of important notifications
+        hint: null
+        type: select_one
+        options:
+          - Immediate - advance notice
+          - Timely - reasonable notice
+          - Acceptable - notice given
+          - Delayed - late notice
+          - None - no advance notice
+        required: true
+      - id: 14
+        name: communication_channels
+        label: Communication methods used
+        hint: null
+        type: select_multiple
+        options:
+          - Email
+          - Phone/voicemail
+          - In-person notices
+          - Building bulletin board
+          - Online portal
+          - Text message
+          - Social media
+          - Monthly newsletter
+          - Meetings/town halls
+          - Other
+        required: true
+      - id: 15
+        name: preferred_communication
+        label: Your preferred communication method
+        hint: null
+        type: select_one
+        options:
+          - Email
+          - Phone
+          - In-person
+          - Online portal
+          - Written notice
+          - Multiple methods
+          - No preference
+        required: false
+      - id: 16
+        name: transparency_areas
+        label: -- Areas of Operations Transparency --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: maintenance_transparency
+        label: Maintenance and repair transparency
+        hint: null
+        type: select_one
+        options:
+          - Very transparent - full disclosure
+          - Transparent - good information
+          - Somewhat transparent - basic info
+          - Unclear - minimal info
+          - Not transparent - no info
+        required: true
+      - id: 18
+        name: financial_transparency
+        label: Financial operations transparency
+        hint: Budgets, fees, costs
+        type: select_one
+        options:
+          - Very transparent
+          - Transparent
+          - Somewhat transparent
+          - Unclear
+          - Not transparent
+        required: true
+      - id: 19
+        name: planning_transparency
+        label: Future planning transparency
+        hint: Improvements, changes, projects
+        type: select_one
+        options:
+          - Very transparent
+          - Transparent
+          - Somewhat transparent
+          - Unclear
+          - Not transparent
+        required: true
+      - id: 20
+        name: decision_transparency
+        label: Decision-making process transparency
+        hint: How decisions are made
+        type: select_one
+        options:
+          - Very transparent
+          - Transparent
+          - Somewhat transparent
+          - Unclear
+          - Not transparent
+        required: true
+      - id: 21
+        name: information_topics
+        label: What information is most important to you?
+        hint: null
+        type: select_multiple
+        options:
+          - Maintenance schedules
+          - Safety and security
+          - Building improvements
+          - Budget and finances
+          - Management changes
+          - Policy updates
+          - Emergency procedures
+          - Vendor/contractor work
+          - Community events
+          - Other
+        required: true
+      - id: 22
+        name: transparency_gaps
+        label: -- Transparency Gaps --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: missing_information
+        label: Information you need but don't have
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: unclear_areas
+        label: Areas where communication is unclear
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: suggestions_improvement
+        label: Suggestions for improving transparency
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: communication_improvements
+        label: How could communication be improved?
+        hint: null
+        type: select_multiple
+        options:
+          - More frequent updates
+          - Clearer communication
+          - Better access to information
+          - Online portal or dashboard
+          - Regular meetings/town halls
+          - Better written materials
+          - Email notifications
+          - Proactive communication
+          - More transparency on decisions
+          - Other
+        required: false
+      - id: 27
+        name: trust_section
+        label: -- Trust and Confidence --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: trust_level
+        label: Trust level in management
+        hint: null
+        type: select_one
+        options:
+          - Very high - complete trust
+          - High - good trust
+          - Moderate - some trust
+          - Low - limited trust
+          - Very low - no trust
+        required: true
+      - id: 29
+        name: confidence_operations
+        label: Confidence that operations are managed well
+        hint: null
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Neutral
+          - Not confident
+          - Very not confident
+        required: true
+      - id: 30
+        name: additional_feedback
+        label: Additional comments or feedback
+        hint: null
+        type: text
+        options: []
+        required: false

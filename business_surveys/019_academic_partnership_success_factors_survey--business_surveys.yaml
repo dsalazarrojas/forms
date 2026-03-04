@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Partnership Success Factors Survey
+    pages:
+    - id: 1
+      name: partnership_survey_intro
+      label: Academic Partnership Success Factors Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role in the Partnership
+      hint: What is your role in the academic partnership?
+      type: select_one
+      options:
+      - University administrator
+      - Industry partner representative
+      - Faculty member
+      - Researcher
+      - Student
+      - Project coordinator
+      - Other
+      required: true
+    - id: 3
+      name: partnership_duration
+      label: Partnership Duration
+      hint: How long has this partnership been in existence?
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 4
+      name: partnership_type
+      label: Type of Partnership
+      hint: What type of partnership is this?
+      type: select_one
+      options:
+      - Research collaboration
+      - Internship program
+      - Curriculum development
+      - Technology transfer
+      - Joint degree program
+      - Facility sharing
+      - Other
+      required: true
+    - id: 5
+      name: communication_effectiveness_rating
+      label: Communication Effectiveness Rating
+      hint: How effective is the communication between partners? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: goal_alignment_rating
+      label: Goal Alignment Rating
+      hint: How well do the partnership goals align between partners? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: resource_sharing_rating
+      label: Resource Sharing Rating
+      hint: How effectively are resources shared between partners? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: decision_making_process_rating
+      label: Decision Making Process Rating
+      hint: How fair and effective is the decision-making process? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: outcome_quality_rating
+      label: Outcome Quality Rating
+      hint: How satisfied are you with the outcomes achieved? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: mutual_benefits_rating
+      label: Mutual Benefits Rating
+      hint: How well does the partnership benefit all parties involved? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: trust_level_rating
+      label: Trust Level Rating
+      hint: How much do you trust your partnership counterparts? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: conflict_resolution_rating
+      label: Conflict Resolution Rating
+      hint: How effectively are conflicts resolved when they arise? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: partnership_success_factors
+      label: Key Success Factors
+      hint: What do you consider the most important success factors for this partnership?
+        (Select top 3)
+      type: select_multiple
+      options:
+      - Clear objectives
+      - Regular communication
+      - Shared resources
+      - Mutual respect
+      - Defined roles
+      - Flexibility
+      - Leadership support
+      - Measurable outcomes
+      required: false
+    - id: 14
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What are the main challenges in this partnership? (Select all that apply)
+      type: select_multiple
+      options:
+      - Communication barriers
+      - Different priorities
+      - Resource limitations
+      - Cultural differences
+      - Timeline conflicts
+      - Intellectual property issues
+      - Budget constraints
+      - None
+      required: false
+    - id: 15
+      name: sustainability_confidence
+      label: Sustainability Confidence
+      hint: How confident are you in the long-term sustainability of this partnership?
+        (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: recommendation_likelihood
+      label: Recommendation Likelihood
+      hint: How likely are you to recommend this partnership model to others? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: What would improve this partnership?
+      type: text
+      options: []
+      required: false

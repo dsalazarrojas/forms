@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: wardrobe_design_preferences_survey
+    pages:
+    - id: 1
+      name: style_preferences
+      label: style_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: space_constraints
+      label: space_constraints
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: budget
+      label: budget
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: custom_furniture
+      label: custom_furniture
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beach Camping Checklist Form
+    pages:
+    - id: 1
+      name: trip_leader_name
+      label: Trip Leader Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: trip_start_date
+      label: Trip Start Date
+      hint: When does trip begin
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: trip_end_date
+      label: Trip End Date
+      hint: When does trip end
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: number_of_campers
+      label: Number of Campers
+      hint: Total people
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: number_of_adults
+      label: Number of Adults
+      hint: Adults 18 and over
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: number_of_children
+      label: Number of Children
+      hint: Under 18
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: campsite_location
+      label: Campsite Location
+      hint: Beach or campground name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shelter_items
+      label: Shelter Items
+      hint: Select what you are bringing
+      type: select_multiple
+      options:
+      - Tent
+      - Beach Umbrella
+      - Canopy or Gazebo
+      - Tarp
+      - Hammock
+      - Beach Cabana
+      required: true
+    - id: 11
+      name: sleeping_gear
+      label: Sleeping Gear
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Sleeping Bags
+      - Air Mattresses
+      - Camping Cots
+      - Pillows
+      - Blankets
+      - Sleeping Pads
+      required: true
+    - id: 12
+      name: cooking_equipment
+      label: Cooking Equipment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Camp Stove
+      - Cooler
+      - Grill
+      - Cookware Set
+      - Utensils
+      - Plates and Cups
+      - Fire Pit Grate
+      - None
+      required: true
+    - id: 13
+      name: beach_gear
+      label: Beach Gear
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Beach Chairs
+      - Beach Towels
+      - Swimwear
+      - Surfboards
+      - Boogie Boards
+      - Snorkel Gear
+      - Beach Toys
+      - Floaties
+      required: true
+    - id: 14
+      name: safety_items
+      label: Safety Items
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - First Aid Kit
+      - Sunscreen
+      - Insect Repellent
+      - Life Jackets
+      - Flashlights
+      - Whistle
+      - Emergency Radio
+      - Fire Extinguisher
+      required: true
+    - id: 15
+      name: food_water
+      label: Food and Water Plan
+      hint: How will you handle meals
+      type: select_one
+      options:
+      - Bring All Food and Water
+      - Bring Food - Buy Water There
+      - Buy Food and Water There
+      - Mix of Both
+      required: true
+    - id: 16
+      name: transportation
+      label: Transportation Method
+      hint: How will you get there
+      type: select_one
+      options:
+      - Personal Vehicle
+      - RV or Camper
+      - Boat
+      - Public Transportation
+      - Multiple Vehicles
+      required: true
+    - id: 17
+      name: permits_needed
+      label: Permits Required
+      hint: Do you need permits
+      type: select_one
+      options:
+      - Yes - Already Obtained
+      - Yes - Need to Obtain
+      - No - Not Required
+      - Not Sure
+      required: true
+    - id: 18
+      name: weather_check
+      label: Weather Forecast Checked
+      hint: Have you checked weather
+      type: select_one
+      options:
+      - Yes - Looks Good
+      - Yes - Monitoring Closely
+      - No - Will Check Soon
+      required: true
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Who to call in emergency
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Their phone number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: special_needs
+      label: Special Needs or Considerations
+      hint: Any medical or accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: checklist_complete
+      label: Checklist Review Complete
+      hint: Have you reviewed everything
+      type: select_one
+      options:
+      - Yes - Ready to Go
+      - Almost - Few Items Left
+      - No - Still Planning
+      required: true

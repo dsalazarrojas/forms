@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Series Creation Survey
+    pages:
+    - id: 1
+      name: series_name
+      label: Series Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: show_id
+      label: Show ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: concept
+      label: Concept
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Young Adults''}'
+      - '{''value'': ''Adults''}'
+      - '{''value'': ''Old Adults''}'
+      required: false
+    - id: 5
+      name: idea_description
+      label: Idea Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: idea_location
+      label: Idea Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: idea_tags
+      label: Idea Tags
+      hint: Comma separated list
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: idea_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''In Development''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 12
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Development''}'
+      - '{''value'': ''Production''}'
+      - '{''value'': ''Design''}'
+      - '{''value'': ''Research''}'
+      required: false
+    - id: 13
+      name: series_status
+      label: Series Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''In Development''}'
+      - '{''value'': ''Cancelled''}'
+      required: false
+    - id: 14
+      name: idea_submission_date
+      label: Idea Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: idea_revision_date
+      label: Idea Revision Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Chat Jimmy''}'
+      - '{''value'': ''John Doe''}'
+      required: false
+    - id: 18
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: series_creation_date
+      label: Series Creation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tags
+      label: Tags
+      hint: Comma separated list
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_comment
+      label: Submitter Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: idea_type
+      label: Idea Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Series''}'
+      - '{''value'': ''Show''}'
+      - '{''value'': ''Product''}'
+      - '{''value'': ''Book''}'
+      - '{''value'': ''Movie''}'
+      required: false
+    - id: 25
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false

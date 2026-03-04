@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auction Item Registration Form
+    pages:
+    - id: 1
+      name: consignor_information
+      label: -- Consignor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: consignor_name
+      label: Consignor name
+      hint: Full name of the person donating the item
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consignor_email
+      label: Consignor email
+      hint: For pickup coordination and receipts
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: item_title
+      label: Item title
+      hint: Name or title for the auction listing
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: item_description
+      label: Item description
+      hint: Include condition and notable details
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: estimated_value
+      label: Estimated value
+      hint: Estimated fair market value
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pickup_required
+      label: Pickup required
+      hint: Indicate if consignor needs pickup assistance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: pickup_location
+      label: Pickup location details
+      hint: Provide address if pickup is needed
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: restrictions_or_notes
+      label: Restrictions or notes
+      hint: Any conditions of sale or special instructions
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Kind Donation Form
+    pages:
+    - id: 1
+      name: in_kind_donation_form
+      label: in_kind_donation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: charity_name
+      label: charity_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_value
+      label: item_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_type
+      label: donation_type
+      hint: null
+      type: select_one
+      options:
+      - goods
+      - services
+      - volunteer_time
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: in_kind_donation_form_submit
+      label: in_kind_donation_form_submit
+      hint: null
+      type: text
+      options: []
+      required: false

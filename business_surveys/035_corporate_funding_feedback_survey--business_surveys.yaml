@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Funding Feedback Survey
+    pages:
+    - id: 1
+      name: funder_type
+      label: Funding Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Direct Grant''}'
+      - '{''id'': 2, ''name'': ''Indirect Grant''}'
+      - '{''id'': 3, ''name'': ''Loan''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: impact
+      label: Impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Increased Revenue''}'
+      - '{''id'': 2, ''name'': ''Job Creation''}'
+      - '{''id'': 3, ''name'': ''Increased Efficiency''}'
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

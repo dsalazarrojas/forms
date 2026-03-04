@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Registration Invoice
+    pages:
+    - id: 1
+      name: invoice_number
+      label: Invoice Number
+      hint: Unique invoice identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registrant_name
+      label: Registrant Name
+      hint: Name on the registration
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: billing_address
+      label: Billing Address
+      hint: Address for invoicing
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: items_description
+      label: Items Description
+      hint: Description of charges included on invoice
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: subtotal
+      label: Subtotal Amount
+      hint: Amount before taxes and fees
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: taxes
+      label: Taxes
+      hint: Tax amount applied
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_due
+      label: Total Due
+      hint: Final amount due
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: Payment due date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: payment_status
+      label: Payment Status
+      hint: Current payment state
+      type: select_one
+      options:
+      - Unpaid
+      - Paid
+      - Partially Paid
+      required: true
+    - id: 10
+      name: notes
+      label: Invoice Notes
+      hint: Any additional billing instructions
+      type: text
+      options: []
+      required: false

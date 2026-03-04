@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airtight Quality Assurance Survey
+    pages:
+    - id: 1
+      name: surveyor_name
+      label: Surveyor/Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: project_reference
+      label: Project/Batch Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_test_info
+      label: -- Testing Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: test_location
+      label: Test Location/Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: test_method
+      label: Airtightness Testing Method
+      hint: null
+      type: select_one
+      options:
+      - Blower Door Test
+      - Tracer Gas Method
+      - Visual Seal Inspection
+      - Pressure Decay Test
+      required: true
+    - id: 7
+      name: product_type
+      label: Product/Area being Tested
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_results
+      label: -- Quality Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: achieved_air_exchange_rate
+      label: Achieved Air Exchange Rate (ACH)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: target_air_exchange_rate
+      label: Target/Required Air Exchange Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pass_fail_status
+      label: Pass/Fail Status
+      hint: null
+      type: select_one
+      options:
+      - PASS
+      - FAIL
+      - PASS (with minor remedial work)
+      required: true
+    - id: 12
+      name: primary_leakage_points
+      label: Primary Leakage Points Identified
+      hint: null
+      type: select_multiple
+      options:
+      - Window Frames
+      - Door Thresholds
+      - Service Penetrations
+      - Structural Joints
+      - Roof-to-Wall Junctions
+      - None
+      required: true
+    - id: 13
+      name: remediation_details
+      label: Remediation Plan (if failed)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspector_satisfaction
+      label: Inspector Satisfaction with Sealing Work
+      hint: 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: additional_technical_notes
+      label: Additional Technical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_inspection_required
+      label: Re-inspection Required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

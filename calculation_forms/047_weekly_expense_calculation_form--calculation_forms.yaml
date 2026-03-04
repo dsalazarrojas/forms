@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Expense Calculation Form
+    pages:
+    - id: 1
+      name: week_start_date
+      label: Weekly start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Food
+      - Transportation
+      - Rent
+      - Entertainment
+      - Miscellaneous
+      required: true
+    - id: 3
+      name: expense
+      label: Expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weekly_budget
+      label: Weekly budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_expenses
+      label: Total Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: weekly_summary
+      label: Weekly summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: email
+      options: []
+      required: false

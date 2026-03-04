@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partnership Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_website
+      label: Company Website
+      hint: URL of website
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: years_established
+      label: Years in Business
+      hint: How long established?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: business_structure
+      label: Business Structure
+      hint: Type of entity
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Other
+      required: true
+    - id: 9
+      name: industry_sector
+      label: Industry Sector
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Retail
+      - Services
+      - Manufacturing
+      - Finance
+      - Healthcare
+      - Other
+      required: true
+    - id: 10
+      name: business_description
+      label: Business Description
+      hint: What does your company do?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: mission_statement
+      label: Company Mission Statement
+      hint: Your mission or values
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current workforce
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1,000,000
+      - $1,000,000 - $5,000,000
+      - Over $5,000,000
+      required: false
+    - id: 14
+      name: partnership_type
+      label: Type of Partnership Sought
+      hint: What partnership interests you?
+      type: select_one
+      options:
+      - Strategic Alliance
+      - Joint Venture
+      - Supplier Partnership
+      - Distributor Agreement
+      - Reseller Partnership
+      - Franchise
+      - Other
+      required: true
+    - id: 15
+      name: partnership_goals
+      label: Partnership Goals
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: target_market
+      label: Target Market
+      hint: Geographic or demographic focus
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: What makes you unique?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: financial_stability
+      label: Financial Stability
+      hint: How stable is your business?
+      type: select_one
+      options:
+      - Very Strong
+      - Strong
+      - Stable
+      - Developing
+      - Other
+      required: false
+    - id: 19
+      name: references
+      label: Business References
+      hint: 2-3 professional references
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_information
+      label: Additional Information
+      hint: Anything else relevant?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: commitment_acknowledgment
+      label: I understand partnership requirements
+      hint: Acknowledge understanding
+      type: select_one
+      options:
+      - Yes, I Understand
+      - false
+      required: true

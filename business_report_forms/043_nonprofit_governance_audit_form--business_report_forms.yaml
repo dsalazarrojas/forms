@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Governance Audit Form
+    pages:
+    - id: 1
+      name: organization_info
+      label: Organization Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: governance_practices
+      label: Governance Practices
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: committee_info
+      label: Committee Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: audit_finding
+      label: Audit Finding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: improvement_opportunities
+      label: Improvement Opportunities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommended_actions
+      label: Recommended Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: non_profit_info
+      label: Non Profit Information
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 12
+      name: non_profit_name
+      label: Non Profit Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: non_profit_type
+      label: Non Profit Type
+      hint: null
+      type: select_one
+      options:
+      - Nonprofit
+      - For Profit
+      required: false
+    - id: 16
+      name: non_profit_status
+      label: Non Profit Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Dissolved
+      required: false
+    - id: 17
+      name: board_of_directors
+      label: Board Of Directors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: board_size
+      label: Board Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: board_meeting
+      label: Board Meeting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: board_meeting_frequency
+      label: Board Meeting Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: board_meeting_location
+      label: Board Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: board_meeting_minutes
+      label: Board Meeting Minutes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: board_meeting_attendance
+      label: Board Meeting Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: executive_director
+      label: Executive Director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: executive_director_title
+      label: Executive Director Title
+      hint: null
+      type: text
+      options: []
+      required: false

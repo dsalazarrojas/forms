@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mineral Expenditure Reporting Form
+    pages:
+    - id: 1
+      name: base_information
+      label: base_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_information
+      label: Project
+      hint: This project belongs to the client
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reporting_period
+      label: Reporting Period
+      hint: This is the period of the project report
+      type: select_one
+      options:
+      - January-February
+      - March-April
+      - May-June
+      - July-August
+      - September-October
+      - November-December
+      required: true
+    - id: 4
+      name: mineral_type
+      label: Mineral Type
+      hint: Please select the type of mineral being reported
+      type: select_one
+      options:
+      - gold
+      - silver
+      - copper
+      required: true
+    - id: 5
+      name: expenditure
+      label: Expenditure
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_expenditure
+      label: Total Expenditure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: Any additional comments or explanations
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_cost
+      label: Project Cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: submission_user
+      label: Submission User
+      hint: The user who submitted this form
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submission_ip
+      label: Submission IP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submission_country
+      label: Submission Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_city
+      label: Submission City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submission_browser
+      label: Submission Browser
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submission_os
+      label: Submission OS
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submission_device
+      label: Submission Device
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submission_screen_resolution
+      label: Submission Screen Resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_browser_version
+      label: Submission Browser Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submission_language
+      label: Submission Language
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submission_timezone_offset
+      label: Submission Timezone Offset
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submission_utc
+      label: Submission UTC
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submission_timezone
+      label: Submission Timezone
+      hint: null
+      type: text
+      options: []
+      required: true

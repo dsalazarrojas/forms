@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Communication Flow Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pay_channels
+      label: What pay channels do we use
+      hint: null
+      type: select_multiple
+      options:
+      - payroll_email
+      - payroll_portal
+      - manager
+      required: true
+    - id: 3
+      name: pay_channel_clarity
+      label: How clear are our current pay channels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pay_channel_satisfaction
+      label: How satisfied are you with our current pay channels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: improvements_needed
+      label: What improvements do you want
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_communication
+      label: How often do managers communicate with you
+      hint: null
+      type: select_one
+      options:
+      - often
+      - occasionally
+      - rarely
+      required: true
+    - id: 7
+      name: manager_satisfaction
+      label: How satisfied are you with your manager
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neither_satisfied_nor_dissatisfied
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: true
+    - id: 8
+      name: team_communication
+      label: How often do you feel you get information about team changes
+      hint: null
+      type: select_one
+      options:
+      - often
+      - occasionally
+      - rarely
+      required: true
+    - id: 9
+      name: team_satisfaction
+      label: How satisfied are you with your team communication
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neither_satisfied_nor_dissatisfied
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: true
+    - id: 10
+      name: feedback
+      label: Do you have any feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

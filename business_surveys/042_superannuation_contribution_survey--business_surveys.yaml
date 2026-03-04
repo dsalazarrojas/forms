@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Superannuation Contribution Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: employer_id
+      label: employer_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: contribution_frequency
+      label: contribution_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contribution_amount
+      label: contribution_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: employer_contributions
+      label: employer_contributions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employee_contributions
+      label: employee_contributions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_contribution
+      label: total_contribution
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - Signature
+      - Signed
+      required: true
+    - id: 15
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: employer_name
+      label: employer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: branch
+      label: branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

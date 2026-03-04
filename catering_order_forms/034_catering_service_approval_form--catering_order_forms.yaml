@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Approval Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Event Planning
+      - Human Resources
+      - Administration
+      - Marketing
+      - Operations
+      - Other
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: order_number
+      label: Order Number
+      hint: Catering order reference
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of your event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Meeting
+      - Conference
+      - Training
+      - Corporate Event
+      - Private Party
+      - Wedding
+      - Other
+      required: true
+    - id: 9
+      name: event_date
+      label: Event Date
+      hint: Date of event
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_time
+      label: Event Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: Event Location
+      hint: Where will it be held
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: attendee_count
+      label: Number of Attendees
+      hint: Expected count
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: catering_provider
+      label: Catering Provider
+      hint: Name of caterer
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: menu_description
+      label: Menu Description
+      hint: What will be served
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: total_cost
+      label: Total Cost
+      hint: Total catering cost
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: budget_code
+      label: Budget Code
+      hint: Cost center or account
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: business_justification
+      label: Business Justification
+      hint: Why is this catering needed
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: dietary_accommodations
+      label: Dietary Accommodations
+      hint: Any special dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approval_level
+      label: Approval Level Required
+      hint: Who needs to approve
+      type: select_one
+      options:
+      - Manager
+      - Director
+      - VP
+      - Executive
+      required: true
+    - id: 20
+      name: manager_name
+      label: Manager Name
+      hint: Approving manager
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_approval
+      label: Manager Approval
+      hint: Has manager approved
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 22
+      name: manager_approval_date
+      label: Manager Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: director_name
+      label: Director Name
+      hint: Approving director
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: director_approval
+      label: Director Approval
+      hint: Has director approved
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      - Not Required
+      required: false
+    - id: 25
+      name: final_status
+      label: Final Approval Status
+      hint: Overall status
+      type: select_one
+      options:
+      - Fully Approved
+      - Partially Approved
+      - Rejected
+      - Pending Review
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

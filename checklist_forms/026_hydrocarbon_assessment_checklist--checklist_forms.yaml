@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydrocarbon Assessment Checklist
+    pages:
+    - id: 1
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hydrocarbon_present
+      label: Hydrocarbon Present
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 3
+      name: storage_facility
+      label: Storage Facility
+      hint: null
+      type: select_multiple
+      options:
+      - Facility A
+      - Facility B
+      - Facility C
+      required: false
+    - id: 4
+      name: spill_response_plan
+      label: Spill Response Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_records
+      label: Training Records
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: spill_response_equipment
+      label: Spill Response Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment 1
+      - Equipment 2
+      - Equipment 3
+      required: false
+    - id: 7
+      name: spill_response_plan_review
+      label: Spill Response Plan Review
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hydrocarbon_assessment
+      label: Hydrocarbon Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: site_inspection
+      label: Site Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: spill_response_plan_approval
+      label: Spill Response Plan Approval
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: staff_training
+      label: Staff Training
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: site_visit
+      label: Site Visit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: spill_response_equipment_maintenance
+      label: Spill Response Equipment Maintenance
+      hint: null
+      type: text
+      options: []
+      required: false

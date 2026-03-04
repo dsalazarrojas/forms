@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Evolution Feedback Survey
+    pages:
+    - id: 1
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: change_initiative
+      label: Change Initiative
+      hint: null
+      type: select_one
+      options:
+      - New product launch
+      - Merger or acquisition
+      - Restructuring
+      required: false
+    - id: 3
+      name: positive_impacts
+      label: Positive Impacts
+      hint: null
+      type: select_multiple
+      options:
+      - Increased revenue
+      - Improved efficiency
+      - Enhanced customer satisfaction
+      required: false
+    - id: 4
+      name: negative_impacts
+      label: Negative Impacts
+      hint: null
+      type: select_multiple
+      options:
+      - Loss of jobs
+      - Increased competition
+      - Regulatory challenges
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: Please provide suggestions for future change initiatives.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Management
+      - Both
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

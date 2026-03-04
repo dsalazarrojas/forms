@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Website Evaluation Checklist
+    pages:
+    - id: 1
+      name: site_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: homepage_layout
+      label: Homepage Layout
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      - '{''id'': 3, ''name'': ''neutral''}'
+      required: false
+    - id: 3
+      name: navigation_menu
+      label: Navigation Menu
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: search_box
+      label: Search Box
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''present''}'
+      - '{''id'': 2, ''name'': ''not_present''}'
+      required: false
+    - id: 5
+      name: footer
+      label: Footer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 6
+      name: site_performance
+      label: Site Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: content_quality
+      label: Content Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_gateway
+      label: Payment Gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 10
+      name: security
+      label: Security
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 11
+      name: accessibility
+      label: Accessibility
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 12
+      name: search
+      label: Search
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 13
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 14
+      name: overall_impact
+      label: Overall Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 15
+      name: mobile_friendly
+      label: Mobile Friendly
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 16
+      name: content
+      label: Content
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 17
+      name: user_experience_2
+      label: User Experience 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 18
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: ease_of_purchasing
+      label: Ease of Purchasing
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 20
+      name: checkout_experience
+      label: Checkout Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 21
+      name: customer_support
+      label: Customer Support
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 22
+      name: return_policy
+      label: Return Policy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 23
+      name: shipping_speed
+      label: Shipping Speed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 24
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false
+    - id: 25
+      name: website_usability
+      label: Website Usability
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''good''}'
+      - '{''id'': 2, ''name'': ''bad''}'
+      required: false

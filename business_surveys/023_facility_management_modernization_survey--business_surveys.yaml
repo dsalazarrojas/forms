@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Management Modernization Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: What is the current state of your facilities?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: current_challenges
+      label: Current Challenges
+      hint: Please describe the challenges you are facing with your current facilities.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: prioritization
+      label: Prioritization
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 4
+      name: page_2
+      label: What types of facilities do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Manufacturing''}'
+      - '{''id'': 2, ''name'': ''Office''}'
+      required: false
+    - id: 5
+      name: facilities_size
+      label: Facilities Size
+      hint: What is the size of your facilities?
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Small''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Large''}'
+      required: false
+    - id: 6
+      name: facilities_type
+      label: Facilities Type
+      hint: What type of facilities do you have?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Office Building''}'
+      - '{''id'': 2, ''name'': ''Warehouse''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: facilities_equipment
+      label: Facilities Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_3
+      label: What is your current modernization level?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Basic''}'
+      - '{''id'': 2, ''name'': ''Standard''}'
+      - '{''id'': 3, ''name'': ''Advanced''}'
+      required: false
+    - id: 9
+      name: facilities_budget
+      label: Facilities Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: current_budget
+      label: Current Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: facilities_sustainability
+      label: Facilities Sustainability
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 12
+      name: facilities_environmental_impact
+      label: Facilities Environmental Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 13
+      name: facilities_security
+      label: Facilities Security
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 14
+      name: facilities_sustainability_goals
+      label: Facilities Sustainability Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facilities_maintenance
+      label: Facilities Maintenance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 16
+      name: facilities_training_and_professional_development
+      label: Facilities Training and Professional Development
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 17
+      name: facilities_waste_and_recycling
+      label: Facilities Waste and Recycling
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 18
+      name: page_4
+      label: What initiatives would you like to modernize?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Asset Management''}'
+      - '{''id'': 2, ''name'': ''Energy Management''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 19
+      name: page_5
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: facility_administrator
+      label: Facility Administrator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: facility_supervisor
+      label: Facility Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: page_6
+      label: What are the major concerns of your facility operations team?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Budget Constraints''}'
+      - '{''id'': 2, ''name'': ''Limited Resources''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 24
+      name: page_7
+      label: Which of the following best describes the role of your facilities team?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Strategic''}'
+      - '{''id'': 2, ''name'': ''Tactical''}'
+      - '{''id'': 3, ''name'': ''Operational''}'
+      required: false
+    - id: 25
+      name: page_8
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

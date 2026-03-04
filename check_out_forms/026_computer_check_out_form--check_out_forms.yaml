@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Computer Check Out Form
+    pages:
+      - id: 1
+        name: section_equipment_info
+        label: -- Equipment Check Out --
+        hint: Track loaned equipment and borrower details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: borrower_name
+        label: Borrower name
+        hint: Full name of borrower
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: borrower_id
+        label: Borrower id
+        hint: Employee or student id
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: equipment_type
+        label: Equipment type
+        hint: Laptop, Charger, Monitor, Other
+        type: select_one
+        options: [Laptop, Charger, Monitor, Mouse, Keyboard, Other]
+        required: true
+      - id: 5
+        name: equipment_serial
+        label: Equipment serial
+        hint: Asset tag or serial number
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: checkout_date
+        label: Checkout date
+        hint: Date equipment was checked out
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: expected_return_date
+        label: Expected return date
+        hint: Date borrower will return the item
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: condition_at_checkout
+        label: Condition at checkout
+        hint: Note any existing damage or issues
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: borrower_signature
+        label: Borrower signature
+        hint: Typed name for acknowledgement
+        type: text
+        options: []
+        required: true

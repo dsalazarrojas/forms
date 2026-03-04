@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Statistical Analysis Report Form
+    pages:
+    - id: 1
+      name: statistical_analysis_report_form_input
+      label: Statistical Analysis Report Form Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Surveys
+      - Marketing Research
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_source
+      label: Data Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: data_source_other
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Other
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: number
+      options: []
+      required: false

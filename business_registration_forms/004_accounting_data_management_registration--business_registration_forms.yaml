@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Data Management Registration
+    pages:
+    - id: 1
+      name: client_information_header
+      label: -- Client information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Legal or trading name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person name
+      hint: Primary contact for account setup
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for invoices and correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Best phone number for business contact
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_address
+      label: Business address
+      hint: Headquarters or primary mailing address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: industry_sector
+      label: Industry sector
+      hint: Primary industry served or product category
+      type: select_one
+      options:
+      - Retail
+      - Professional services
+      - Manufacturing
+      - Nonprofit
+      - Technology
+      - Other
+      required: true
+    - id: 8
+      name: number_of_employees
+      label: Number of employees
+      hint: Approximate headcount
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: accounting_software_used
+      label: Accounting software used
+      hint: Software name and version if known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: data_migration_required
+      label: Data migration required
+      hint: If migrating data from another system
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: expected_data_volume
+      label: Expected data volume
+      hint: Number of years of records and file types
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_start_date
+      label: Preferred start date
+      hint: When would you like onboarding to begin
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: security_and_compliance_notes
+      label: Security and compliance notes
+      hint: Any regulatory or compliance requirements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_preference
+      label: Billing preference
+      hint: Invoicing frequency and payment method
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else we should know to prepare
+      type: text
+      options: []
+      required: false

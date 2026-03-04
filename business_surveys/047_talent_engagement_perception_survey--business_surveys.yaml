@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Engagement Perception Survey
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sales''}'
+      - '{''id'': 2, ''name'': ''Marketing''}'
+      - '{''id'': 3, ''name'': ''Support''}'
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question1
+      label: question1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Neutral''}'
+      - '{''id'': 4, ''name'': ''Bad''}'
+      - '{''id'': 5, ''name'': ''Very Bad''}'
+      required: false
+    - id: 5
+      name: question2
+      label: question2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Neutral''}'
+      - '{''id'': 4, ''name'': ''Bad''}'
+      - '{''id'': 5, ''name'': ''Very Bad''}'
+      required: false
+    - id: 6
+      name: question3
+      label: question3
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: question4
+      label: question4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question5
+      label: question5
+      hint: null
+      type: number
+      options: []
+      required: true

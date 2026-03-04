@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Factory KPI Summary Report Form
+    pages:
+    - id: 1
+      name: factory_kpi_form_1
+      label: Production Data
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: manufacturing_site
+      label: Manufacturing Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: kpi_category_1
+      label: Category 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: kpi_01
+      label: KPI 01
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: kpi_02
+      label: KPI 02
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: kpi_03
+      label: KPI 03
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: kpi_04
+      label: KPI 04
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: kpi_05
+      label: KPI 05
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: kpi_06
+      label: KPI 06
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: kpi_07
+      label: KPI 07
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: kpi_08
+      label: KPI 08
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: kpi_category_2
+      label: Category 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Option 2'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Option 3'', ''value'': 3}'
+      required: false
+    - id: 14
+      name: kpi_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: kpi_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

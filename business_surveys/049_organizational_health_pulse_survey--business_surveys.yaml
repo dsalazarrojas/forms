@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Health Pulse Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_satisfaction
+      label: What's your general satisfaction with the organization
+      hint: null
+      type: select_multiple
+      options:
+      - Very High
+      - High
+      - Low
+      - Very Low
+      required: true
+    - id: 3
+      name: communication
+      label: How would you describe the quality of communication within the organization
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 4
+      name: leadership_support
+      label: How would you rate the level of support from our leaders
+      hint: null
+      type: select_multiple
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 5
+      name: team_wellness
+      label: What's your well-being and resilience at work
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 6
+      name: team_satisfaction
+      label: What's your overall satisfaction with your team
+      hint: null
+      type: select_multiple
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: true
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

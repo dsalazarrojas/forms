@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Student Entry Check In Form
+    pages:
+    - id: 1
+      name: library_student_entry_check_in_form_1
+      label: student_library_visit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: library_student_entry_check_in_form_2
+      label: library_student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: library_student_entry_check_in_form_3
+      label: library_student_grade
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Grade 1''}'
+      - '{''option'': ''Grade 2''}'
+      - '{''option'': ''Grade 3''}'
+      - '{''option'': ''Grade 4''}'
+      - '{''option'': ''Grade 5''}'
+      - '{''option'': ''Grade 6''}'
+      - '{''option'': ''Grade 7''}'
+      - '{''option'': ''Grade 8''}'
+      - '{''option'': ''Grade 9''}'
+      - '{''option'': ''Grade 10''}'
+      - '{''option'': ''Other''}'
+      required: true
+    - id: 4
+      name: library_student_entry_check_in_form_4
+      label: library_student_subjects_visited
+      hint: List the subjects visited
+      type: select_multiple
+      options:
+      - '{''option'': ''English''}'
+      - '{''option'': ''Mathematics''}'
+      - '{''option'': ''Science''}'
+      - '{''option'': ''History''}'
+      - '{''option'': ''Geography''}'
+      - '{''option'': ''Other''}'
+      required: true
+    - id: 5
+      name: library_student_entry_check_in_form_5
+      label: library_student_time_in
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: library_student_entry_check_in_form_6
+      label: library_student_time_out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: library_student_entry_check_in_form_7
+      label: library_student_student_id
+      hint: Student ID number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: library_student_entry_check_in_form_8
+      label: library_student_grade_level
+      hint: Grade level (e.g. 2-12)
+      type: number
+      options: []
+      required: false

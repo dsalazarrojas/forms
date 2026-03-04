@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: donation_request_form
+    pages:
+    - id: 1
+      name: general_info
+      label: General info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donation_details
+      label: Donation details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''donation_type'', ''label'': ''Donation Type'', ''type'': ''select_one'',
+        ''options'': [{''option'': 1, ''label'': ''One-time'', ''value'': ''one_time''},
+        {''option'': 2, ''label'': ''Recurring'', ''value'': ''recurring''}, {''option'':
+        3, ''label'': ''Event-specific'', ''value'': ''event_specific''}]}'
+      - Other
+      required: true
+    - id: 4
+      name: donation_amount
+      label: Donation amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

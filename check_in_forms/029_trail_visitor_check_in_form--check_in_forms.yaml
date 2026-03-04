@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trail Visitor Check In Form
+    pages:
+    - id: 1
+      name: trail_visitor_check_in_form
+      label: Trail Visitor Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: trailhead_name
+      label: Trailhead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_member
+      label: Team Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trail_number
+      label: Trail Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: check_in_note
+      label: Check In Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: select_one_arrival_type
+      label: Arrivals Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: select_multiple_arrival_types
+      label: Select Multiple Arrivals Types
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 13
+      name: check_out_note
+      label: Check Out Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: check_in_count
+      label: Check In Count
+      hint: null
+      type: number
+      options: []
+      required: false

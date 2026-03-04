@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Resilience Readiness Survey
+    pages:
+      - id: 1
+        name: resilience_intro
+        label: -- Resilience Readiness Survey --
+        hint: Help us assess our community - s ability to bounce back from challenges.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Name of Respondent
+        hint: Optional.
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: residency_neighborhood
+        label: Your Neighborhood or Community
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: emergency_preparedness_level
+        label: Rate your personal level of emergency preparedness
+        hint: 1 being Not Prepared - 5 being Fully Prepared.
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 5
+        name: household_emergency_kit_check
+        label: Does your household have a 3-day emergency kit?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 6
+        name: emergency_communication_plan_check
+        label: Does your family have an emergency communication plan?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 7
+        name: primary_resilience_concern
+        label: What is your primary concern regarding community resilience?
+        hint: Select up to 2.
+        type: select_multiple
+        options: [Natural Disasters, Economic Downturn, Public Health Crisis, Infrastructure Failure, Social Unrest, Climate Change]
+        required: true
+      - id: 8
+        name: resilience_concern_other
+        label: Other concern - please specify
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: neighborhood_support_network_rating
+        label: Rate the strength of your neighborhood support network
+        hint: 1 being Weak - 5 being Very Strong.
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 10
+        name: resilience_resources_awareness
+        label: Are you aware of local resilience resources?
+        hint: e.g. Community Center - Food Banks - Emergency Shelters.
+        type: select_one
+        options: [Yes - Aware of most, Yes - Aware of some, No - Not aware]
+        required: true
+      - id: 11
+        name: community_readiness_perception
+        label: How ready is our community for a major crisis?
+        hint: Scale of 1 to 5.
+        type: select_one
+        options: [5 - Very Ready, 4, 3, 2, 1 - Not Ready]
+        required: true
+      - id: 12
+        name: resilience_training_interest
+        label: Would you be interested in community resilience training?
+        hint: e.g. CPR - Disaster Prep - CERT.
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 13
+        name: resilience_improvement_suggestions
+        label: What is one thing that would make you feel more resilient?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: follow_up_email
+        label: Contact Email Address
+        hint: For survey results and updates.
+        type: email
+        options: []
+        required: false
+      - id: 15
+        name: readiness_date
+        label: Today - s Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 16
+        name: survey_footer
+        label: -- Thank You for Your Input --
+        hint: We value your contribution to our community planning.
+        type: note
+        options: []
+        required: false

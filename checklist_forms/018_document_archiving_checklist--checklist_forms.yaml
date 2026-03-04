@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: document_archiving_checklist
+    pages:
+    - id: 1
+      name: archived_documents
+      label: Archived Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Archived
+      - Unarchived
+      - Not Started
+      - In Progress
+      - Complete
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Paper
+      - Digital
+      - Electronic
+      required: false
+    - id: 3
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_multiple
+      options:
+      - Onsite
+      - Offsite
+      - Cloud Storage
+      required: false
+    - id: 4
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 5
+      name: retention_period
+      label: Retention Period
+      hint: In months
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_archived
+      label: Date Archived
+      hint: In the format YYYY-MM prophets-YYYY prophets-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: last_updated
+      label: Last Updated
+      hint: In the format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: archived_by
+      label: Archived By
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 10
+      name: document_name
+      label: Document Name
+      hint: Document title or name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: document_number
+      label: Document Number
+      hint: Document identification number
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: document_version
+      label: Document Version
+      hint: Document version number or identifier
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: document_category
+      label: Document Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 14
+      name: document_subcategory
+      label: Document Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Subcategory 1
+      - Subcategory 2
+      - Subcategory 3
+      required: false
+    - id: 15
+      name: document_description
+      label: Document Description
+      hint: Brief summary of the document
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: archived_at
+      label: Archived At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: date_due
+      label: Date Due
+      hint: In the format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: document_size
+      label: Document Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: document_version_date
+      label: Document Version Date
+      hint: In the format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: document_tags
+      label: Document Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 22
+      name: document_status_date
+      label: Document Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_last_archived
+      label: Date Last Archived
+      hint: In the format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: retention_period_days
+      label: Retention Period
+      hint: In days
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: archive_status
+      label: Archive Status
+      hint: null
+      type: select_multiple
+      options:
+      - Archive
+      - Not Archived
+      required: false

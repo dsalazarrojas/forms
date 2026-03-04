@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Polish Purchase Behavior Survey
+    pages:
+    - id: 1
+      name: purchase_frequency
+      label: Purchase Frequency
+      hint: null
+      type: select_one
+      options:
+      - Nail Polish
+      - Nail care
+      - Nail art
+      - Other
+      required: false
+    - id: 2
+      name: shopping_channels
+      label: Shopping Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In store
+      - Mobile app
+      - Other
+      required: false
+    - id: 3
+      name: purchase_preferences
+      label: Purchase Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: brand_preferred
+      label: Brand Preferred
+      hint: null
+      type: select_one
+      options:
+      - OPI
+      - Sally
+      - Sally Beauty
+      - Other
+      required: false
+    - id: 5
+      name: purchase_influenced
+      label: Purchase Influenced
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Online ads
+      - In store promotion
+      - Other
+      required: false
+    - id: 6
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Nail care
+      - Nail art
+      - Nail polish remover
+      required: false
+    - id: 7
+      name: shopping_frequency_in_store
+      label: Shopping Frequency In Store
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shopping_frequency_online
+      label: Shopping Frequency Online
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tester Accountability Survey
+    pages:
+    - id: 1
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Blocked
+      - In Progress
+      required: false
+    - id: 2
+      name: blocker_reason
+      label: Blocker Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: blocker_description
+      label: Blocker Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: self_assessed_accountability
+      label: Self-Assessed Accountability
+      hint: null
+      type: select_multiple
+      options:
+      - On Track
+      - Behind Schedule
+      - Blocked
+      - Unknown
+      required: false
+    - id: 5
+      name: test_cycle
+      label: Test Cycle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: blocker_priority
+      label: Blocker Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: blockers
+      label: Blockers
+      hint: null
+      type: select_multiple
+      options:
+      - Technical
+      - Non-Technical
+      required: false

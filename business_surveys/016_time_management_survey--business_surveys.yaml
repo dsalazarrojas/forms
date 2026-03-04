@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Management Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: employee email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: work_hours_per_week
+      label: working hours per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: breaks
+      label: breaks per day
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: daily_breaks
+      label: daily breaks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: focus
+      label: focus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_wasters
+      label: time wasters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_management_goals
+      label: time management goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tools
+      label: time management tools
+      hint: null
+      type: select_one
+      options:
+      - Time Management Survey
+      - Online Survey
+      - Offline Survey
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 11
+      name: assigned_tool_other
+      label: other tools used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: survey_type
+      label: survey type
+      hint: null
+      type: select_one
+      options:
+      - free
+      - paid
+      required: false
+    - id: 14
+      name: survey_type_other
+      label: survey type other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

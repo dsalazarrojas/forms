@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: global_drumming_community_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Global Drumming Community Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: What's your drumming experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: styles
+      label: What drumming styles do you typically play?
+      hint: Jazz, Rock, etc.
+      type: select_multiple
+      options:
+      - Jazz
+      - Rock
+      - Classical
+      required: false
+    - id: 4
+      name: involvement
+      label: How involved are you with the global drumming community?
+      hint: null
+      type: select_one
+      options:
+      - Slightly involved
+      - Moderately involved
+      - Highly involved
+      required: false
+    - id: 5
+      name: programs
+      label: What types of drumming programs would you like to see more of?
+      hint: null
+      type: select_multiple
+      options:
+      - Workshops
+      - Lessons
+      - Meetups
+      required: false
+    - id: 6
+      name: styles_programs
+      label: Which of the following drumming styles would you like to see more?
+      hint: null
+      type: select_multiple
+      options:
+      - Jazz
+      - Rock
+      - Classical
+      - Other
+      required: false
+    - id: 7
+      name: community
+      label: How would you describe your relationship with the drumming community?
+      hint: null
+      type: select_multiple
+      options:
+      - Very close
+      - Somewhat close
+      - Not very close
+      required: false
+    - id: 8
+      name: feedback
+      label: Do you have any other feedback for the drumming community?
+      hint: null
+      type: note
+      options: []
+      required: false

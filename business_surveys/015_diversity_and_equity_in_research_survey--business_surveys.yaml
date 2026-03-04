@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Diversity And Equity In Research Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Survey Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: What is your demographic information?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inclusion_questions
+      label: inclusion_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submission
+      label: submission
+      hint: Please provide any additional comments or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_institution
+      label: contact_institution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submission_confirmation
+      label: submission_confirmation
+      hint: null
+      type: text
+      options: []
+      required: true

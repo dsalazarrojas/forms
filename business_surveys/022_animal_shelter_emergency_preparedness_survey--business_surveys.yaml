@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Emergency Preparedness Survey
+    pages:
+    - id: 1
+      name: shelter_name
+      label: Shelter Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Your Role
+      hint: Position title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shelter_capacity
+      label: Typical Animal Capacity
+      hint: Number of animals
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: emergency_plan_status
+      label: Do You Have a Written Emergency Plan
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete and Current
+      - Yes - Needs Updating
+      - In Progress
+      - No Plan
+      required: true
+    - id: 8
+      name: plan_last_updated
+      label: When Was Your Emergency Plan Last Updated
+      hint: null
+      type: select_one
+      options:
+      - Within 6 Months
+      - 6-12 Months Ago
+      - 1-2 Years Ago
+      - Over 2 Years Ago
+      - Never
+      - Not Applicable
+      required: false
+    - id: 9
+      name: emergency_types
+      label: Which Emergencies Does Your Plan Cover
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fire
+      - Natural Disaster - Earthquake
+      - Natural Disaster - Flood
+      - Natural Disaster - Hurricane
+      - Natural Disaster - Tornado
+      - Severe Weather
+      - Power Outage
+      - Disease Outbreak
+      - Evacuation
+      - Active Shooter
+      - Hazardous Material Spill
+      - Other
+      required: true
+    - id: 10
+      name: evacuation_plan
+      label: Do You Have an Evacuation Plan
+      hint: null
+      type: select_one
+      options:
+      - Yes - Detailed Plan
+      - Yes - Basic Plan
+      - In Progress
+      - No Plan
+      required: true
+    - id: 11
+      name: evacuation_capacity
+      label: Can You Evacuate All Animals Within 2 Hours
+      hint: null
+      type: select_one
+      options:
+      - Yes - Fully Prepared
+      - Yes - With Challenges
+      - Partially
+      - false
+      - Unsure
+      required: true
+    - id: 12
+      name: transport_resources
+      label: Do You Have Access to Emergency Transport
+      hint: Vehicles for evacuation
+      type: select_one
+      options:
+      - Yes - Own Vehicles
+      - Yes - Partner Agreements
+      - Yes - Volunteer Network
+      - No Arrangements
+      required: true
+    - id: 13
+      name: emergency_supplies
+      label: Emergency Supplies Status
+      hint: Food water medical supplies
+      type: select_one
+      options:
+      - 7+ Days Supply
+      - 3-7 Days Supply
+      - 1-3 Days Supply
+      - Less than 1 Day
+      - No Stockpile
+      required: true
+    - id: 14
+      name: backup_power
+      label: Backup Power Availability
+      hint: Generator or alternative power
+      type: select_one
+      options:
+      - Yes - Full Backup
+      - Yes - Partial Backup
+      - Planned
+      - No Backup
+      required: true
+    - id: 15
+      name: staff_training
+      label: Staff Emergency Training Status
+      hint: null
+      type: select_one
+      options:
+      - All Staff Trained
+      - Most Staff Trained
+      - Some Staff Trained
+      - No Training Conducted
+      required: true
+    - id: 16
+      name: training_frequency
+      label: How Often Do You Conduct Emergency Drills
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      - Rarely
+      - Never
+      required: true
+    - id: 17
+      name: partner_agreements
+      label: Do You Have Agreements with Other Shelters
+      hint: For mutual aid
+      type: select_one
+      options:
+      - Yes - Multiple Agreements
+      - Yes - One or Two
+      - In Progress
+      - No Agreements
+      required: true
+    - id: 18
+      name: emergency_contacts
+      label: Emergency Contact List Status
+      hint: Staff volunteers vets etc
+      type: select_one
+      options:
+      - Current and Complete
+      - Current but Incomplete
+      - Needs Updating
+      - Does Not Exist
+      required: true
+    - id: 19
+      name: communication_plan
+      label: Emergency Communication Plan
+      hint: How will you communicate during crisis
+      type: select_one
+      options:
+      - Yes - Multiple Methods
+      - Yes - Basic Plan
+      - In Progress
+      - No Plan
+      required: true
+    - id: 20
+      name: animal_identification
+      label: Animal Identification System
+      hint: For tracking during emergencies
+      type: select_one
+      options:
+      - Microchips and Collars
+      - Collars and Tags Only
+      - Photos and Records
+      - Minimal Identification
+      - No System
+      required: true
+    - id: 21
+      name: medical_records
+      label: Medical Records Accessibility
+      hint: During emergencies
+      type: select_one
+      options:
+      - Digital - Accessible Anywhere
+      - Digital - Office Access Only
+      - Paper Copies Ready to Go
+      - Paper - Office Only
+      - No Plan
+      required: true
+    - id: 22
+      name: funding_available
+      label: Emergency Fund Availability
+      hint: Dedicated emergency funds
+      type: select_one
+      options:
+      - Yes - Adequate Funds
+      - Yes - Limited Funds
+      - Some Funds
+      - No Dedicated Funds
+      required: true
+    - id: 23
+      name: biggest_challenges
+      label: What Are Your Biggest Emergency Preparedness Challenges
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Limited Budget
+      - Limited Staff
+      - Limited Space
+      - Lack of Training
+      - Outdated Plans
+      - No Partnerships
+      - Geographic Location
+      - Facility Limitations
+      - Other
+      required: true
+    - id: 24
+      name: support_needed
+      label: What Support Would Help Most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Training Resources
+      - Template Documents
+      - Funding
+      - Equipment
+      - Partnership Connections
+      - Consulting
+      - Other
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Share your thoughts
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Satisfaction Benchmark Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions
+      label: questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: What is your current role in the treasury operations?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cash Management''}'
+      - '{''label'': ''Accounting''}'
+      - '{''label'': ''Risk Management''}'
+      required: false
+    - id: 4
+      name: question_2
+      label: How satisfied are you with the current treasury operations?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      required: false
+    - id: 5
+      name: question_3
+      label: What is the primary reason for your level of satisfaction?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: What do you think is the biggest challenge facing the treasury operations
+        today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_5
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Is this feedback anonymous?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Yes''}'
+      - '{''label'': ''No''}'
+      required: false

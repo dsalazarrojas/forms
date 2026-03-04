@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Income And Expense Organizer
+    pages:
+    - id: 1
+      name: business_section
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_name
+      label: Owner Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: reporting_period_start
+      label: Reporting Period Start Date
+      hint: Start date for this period
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reporting_period_end
+      label: Reporting Period End Date
+      hint: End date for this period
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: income_section
+      label: -- Income Sources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_sales_income
+      label: Product Sales Income
+      hint: Revenue from product sales
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: service_income
+      label: Service Income
+      hint: Revenue from services
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rental_income
+      label: Rental or Lease Income
+      hint: Income from rentals
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: investment_income
+      label: Investment Income
+      hint: Interest, dividends, etc.
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: other_income
+      label: Other Income
+      hint: Any other revenue sources
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_income
+      label: Total Income
+      hint: Sum of all income sources
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: expense_section
+      label: -- Operating Expenses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: salaries_wages
+      label: Salaries and Wages
+      hint: Employee compensation
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: rent_lease
+      label: Rent or Lease
+      hint: Facility rental costs
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: utilities
+      label: Utilities
+      hint: Electric, water, gas, etc.
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: insurance
+      label: Insurance Premiums
+      hint: Business insurance costs
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: office_supplies
+      label: Office Supplies
+      hint: Supplies and materials
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: equipment_purchase
+      label: Equipment and Furniture
+      hint: Capital equipment costs
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: marketing_advertising
+      label: Marketing and Advertising
+      hint: Promotional expenses
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: professional_services
+      label: Professional Services
+      hint: Accounting, legal, consulting
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: travel_expenses
+      label: Travel Expenses
+      hint: Business travel costs
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: other_expenses
+      label: Other Operating Expenses
+      hint: Any other business expenses
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_expenses
+      label: Total Operating Expenses
+      hint: Sum of all expenses
+      type: number
+      options: []
+      required: false

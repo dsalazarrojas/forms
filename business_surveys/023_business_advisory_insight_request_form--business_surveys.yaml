@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Advisory Insight Request Form
+    pages:
+    - id: 1
+      name: requestor_info
+      label: Requestor Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional Services
+      - Education
+      - Government
+      - Non-Profit
+      - Other
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - More than 1000 employees
+      required: true
+    - id: 9
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under $1M
+      - $1M-$5M
+      - $5M-$10M
+      - $10M-$50M
+      - $50M-$100M
+      - More than $100M
+      required: false
+    - id: 10
+      name: advisory_needs
+      label: Advisory Needs
+      hint: What type of guidance do you need
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: advisory_area
+      label: Primary Advisory Area
+      hint: Main area where you need guidance
+      type: select_one
+      options:
+      - Strategic Planning
+      - Financial Management
+      - Operations
+      - Marketing
+      - Human Resources
+      - Technology
+      - Risk Management
+      - Business Development
+      - Change Management
+      - Other
+      required: true
+    - id: 12
+      name: specific_challenge
+      label: Specific Challenge
+      hint: Describe your specific challenge
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: challenge_duration
+      label: How Long Has This Been a Challenge
+      hint: Duration of the issue
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - More than 1 year
+      required: true
+    - id: 14
+      name: previous_attempts
+      label: Previous Attempts to Address
+      hint: Have you tried to solve this before
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What results are you hoping for
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: urgency
+      label: Urgency Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Low - No Rush
+      - Medium - Within 2 Weeks
+      - High - Within 1 Week
+      - Urgent - Within 48 Hours
+      - Critical - Immediate
+      required: true
+    - id: 17
+      name: engagement_type
+      label: Preferred Engagement Type
+      hint: How would you like to work with advisors
+      type: select_one
+      options:
+      - One-Time Consultation
+      - Short-Term Project
+      - Ongoing Advisory
+      - Workshop or Training
+      - Assessment Only
+      - Other
+      required: true
+    - id: 18
+      name: budget_range
+      label: Budget Range
+      hint: Expected budget for advisory services
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000-$15,000
+      - $15,000-$50,000
+      - $50,000-$100,000
+      - More than $100,000
+      - To Be Determined
+      required: false
+    - id: 19
+      name: timeline
+      label: Preferred Timeline
+      hint: When would you like to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 Weeks
+      - Within 1 Month
+      - Within 3 Months
+      - Flexible
+      required: true
+    - id: 20
+      name: stakeholders
+      label: Key Stakeholders
+      hint: Who else should be involved
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: decision_maker
+      label: Are You the Decision Maker
+      hint: Can you approve advisory engagement
+      type: select_one
+      options:
+      - true
+      - false
+      - Part of Decision Committee
+      required: true
+    - id: 22
+      name: additional_info
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

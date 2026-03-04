@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Insights Survey
+    pages:
+      - id: 1
+        name: survey_header
+        label: -- Community Insights --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_type
+        label: Respondent type
+        hint: Resident, business owner, or other
+        type: select_one
+        options:
+          - Resident
+          - Business owner
+          - Community leader
+          - Other
+        required: true
+      - id: 3
+        name: satisfaction_with_services
+        label: Satisfaction with local services
+        hint: Rate overall satisfaction
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 4
+        name: top_priorities
+        label: Top priorities for the community
+        hint: Select up to three items
+        type: select_multiple
+        options:
+          - Economic development
+          - Public safety
+          - Parks and recreation
+          - Transportation
+          - Education
+        required: false
+      - id: 5
+        name: business_needs
+        label: Business needs in the community
+        hint: For business owners only
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: engagement_preference
+        label: How do you prefer to engage with officials
+        hint: Select preferred communication channels
+        type: select_multiple
+        options:
+          - Public meetings
+          - Email updates
+          - Social media
+          - Surveys
+        required: false
+      - id: 7
+        name: likelihood_to_participate
+        label: Likelihood to participate in initiatives
+        hint: Indicate your willingness
+        type: select_one
+        options:
+          - Very likely
+          - Somewhat likely
+          - Unlikely
+        required: false
+      - id: 8
+        name: suggestions_for_improvement
+        label: Suggestions for improvement
+        hint: Open ended suggestions
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: contact_for_follow_up
+        label: Contact email for follow up
+        hint: Optional
+        type: email
+        options: []
+        required: false
+      - id: 10
+        name: consent_to_share
+        label: Consent to share anonymized responses
+        hint: Agree to allow use for reporting
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

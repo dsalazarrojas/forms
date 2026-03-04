@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Dispute Resolution Survey
+    pages:
+    - id: 1
+      name: vendor_dispute_resolution_page
+      label: Vendor Dispute Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: dispute_description
+      label: Dispute Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dispute_date
+      label: Dispute Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resolution_status
+      label: Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - No Resolution
+      - Pending
+      - Completed
+      required: true
+    - id: 7
+      name: satisfaction_feedback
+      label: Satisfaction Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resolution_outcome
+      label: Resolution Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: resolution_notes
+      label: Resolution Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supporting_document_uploads
+      label: Supporting Documents Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

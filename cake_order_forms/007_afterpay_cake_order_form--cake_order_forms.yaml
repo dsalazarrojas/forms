@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afterpay Cake Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: Full name for the order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact number
+      hint: Phone number for coordinating pickup or delivery
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cake_type
+      label: Cake type
+      hint: Choose the cake style
+      type: select_one
+      options:
+      - Layer cake
+      - Sheet cake
+      - Cupcakes
+      - Custom sculpted
+      required: true
+    - id: 5
+      name: flavor
+      label: Flavor
+      hint: Preferred cake flavor
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red velvet
+      - Lemon
+      - Other
+      required: true
+    - id: 6
+      name: size
+      label: Size or servings
+      hint: Approximate number of servings
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: pickup_or_delivery
+      label: Pickup or delivery
+      hint: Delivery may incur fees
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 8
+      name: event_date
+      label: Event date
+      hint: Date cake is needed
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: personalization_text
+      label: Personalization text for cake
+      hint: Short message to write on cake
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: afterpay_option
+      label: Pay with Afterpay
+      hint: Choose payment with Afterpay
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

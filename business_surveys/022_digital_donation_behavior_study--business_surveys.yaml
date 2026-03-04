@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Donation Behavior Study
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction_questions
+      label: What motivates you to donate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: frequency_of_donation
+      label: Frequency of Giving
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: amount_of_donation
+      label: Amount of Donation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: online_giving_preference
+      label: Online Giving Preference
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 6
+      name: social_media_influence
+      label: Social Media Influence
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 7
+      name: email_inquiry
+      label: Email Inquiry
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_inquiry
+      label: Phone Inquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_of_donation
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_donation
+      label: Time of Donation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: frequency_of_donation_time
+      label: Frequency of Donation Time
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 12
+      name: amount_of_donation_amount
+      label: Amount of Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: amount_of_donation_converted
+      label: Amount of Donation Converted
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: amount_of_donation_currency
+      label: Amount of Donation Currency
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 15
+      name: amount_of_donation_time
+      label: Amount of Donation Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Software License Termination Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: software_name
+      label: Software Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_cancellation
+      label: Date of Cancellation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true

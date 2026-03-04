@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Plan Overview Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Type of Business
+      hint: Select the primary business category
+      type: select_one
+      options:
+      - Retail
+      - Services
+      - Manufacturing
+      - Technology
+      - Consulting
+      - Other
+      required: true
+    - id: 3
+      name: startup_date
+      label: Startup or Transition Date
+      hint: When did or will the business start
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: business_owner
+      label: Owner or Principal
+      hint: Full name of primary business owner
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: owner_email
+      label: Owner Email
+      hint: Primary contact email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: owner_phone
+      label: Owner Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_vision
+      label: Business Vision Statement
+      hint: Describe your long-term vision
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mission_statement
+      label: Mission Statement
+      hint: What is the core purpose of your business
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_market
+      label: Target Market Description
+      hint: Who are your primary customers
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: key_products_services
+      label: Key Products or Services
+      hint: List your main offerings
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: What sets you apart from competitors
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: startup_capital_needed
+      label: Startup Capital Needed
+      hint: Total funds required to launch
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: funding_sources
+      label: Planned Funding Sources
+      hint: How will you fund the business
+      type: select_multiple
+      options:
+      - Personal Savings
+      - Bank Loan
+      - Investor Funding
+      - Government Grants
+      - Family Loans
+      required: true
+    - id: 14
+      name: break_even_timeline
+      label: Break-even Timeline (months)
+      hint: Expected months to profitability
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: first_year_revenue_projection
+      label: First Year Revenue Projection
+      hint: Estimated first-year revenue
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: num_employees_planned
+      label: Number of Employees Planned
+      hint: How many employees will you hire initially
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: business_location
+      label: Business Location
+      hint: Where will the business operate
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: major_challenges
+      label: Major Challenges Anticipated
+      hint: What challenges do you foresee
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: plan_submission_date
+      label: Plan Submission Date
+      hint: Date this plan is being submitted
+      type: date
+      options: []
+      required: true

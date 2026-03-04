@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Avocado Consumption Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Personal Information and Demographics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: Choose the most accurate range
+      type: select_one
+      options:
+      - Under 18
+      - 18 - 24
+      - 25 - 34
+      - 35 - 44
+      - 45 - 54
+      - 55 or older
+      required: true
+    - id: 5
+      name: gender_id
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: section_eating_habits
+      label: -- Avocado Eating Habits --
+      hint: How and when do you consume avocados?
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: consumption_frequency
+      label: How often do you eat avocados?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times per week
+      - Once per week
+      - 2-3 times per month
+      - Rarely or Never
+      required: true
+    - id: 8
+      name: primary_usage
+      label: Primary Way of Eating
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Avocado Toast
+      - Guacamole or Dips
+      - Salads and Toppings
+      - Smoothies and Beverages
+      - Plain with salt/pepper
+      - Sushi or Asian Cuisine
+      required: true
+    - id: 9
+      name: section_purchasing_habits
+      label: -- Purchasing Habits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: purchase_location
+      label: Where do you usually buy avocados?
+      hint: Primary source
+      type: select_one
+      options:
+      - Supermarket/Grocery Store
+      - Farmers Market
+      - Organic or Specialty Store
+      - Online/Delivery Service
+      - Membership Club (e.g. Costco)
+      required: true
+    - id: 11
+      name: purchase_count_weekly
+      label: Average Number Bought Per Week
+      hint: Units per week
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: ripeness_preference
+      label: Preferred Ripeness at Purchase
+      hint: How ripe do you want them to be?
+      type: select_one
+      options:
+      - Hard (Green/Unripe)
+      - Ready in 1-2 days
+      - Ripe (Ready to eat now)
+      - No preference
+      required: true
+    - id: 13
+      name: purchase_factors
+      label: Factors Influencing Your Purchase
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Price and Value
+      - Ripeness and Texture
+      - Specific Brand
+      - Organic Certification
+      - Country of Origin
+      - Size of Fruit
+      required: true
+    - id: 14
+      name: max_unit_price
+      label: Maximum Price You Would Pay (One Avocado)
+      hint: In your local currency
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: health_perception
+      label: Health Perception of Avocados
+      hint: Rate from 1 (Unhealthy) to 5 (Extremely Healthy)
+      type: select_one
+      options:
+      - 1 - Unhealthy
+      - 2 - Slightly Healthy
+      - 3 - Moderate
+      - 4 - Healthy
+      - 5 - Extremely Healthy
+      required: true
+    - id: 16
+      name: availability_feedback
+      label: Any specific feedback on avocado availability?
+      hint: Store quality, seasonal issues, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: survey_participation_consent
+      label: Consent to share anonymous data for market research
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Process Checklist
+    pages:
+    - id: 1
+      name: applicant_submission
+      label: Apply For This Opportunity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resume_submission
+      label: Resume Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: interview_scheduling
+      label: Interview Scheduling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: candidate_screening
+      label: Candidate Screening
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: job_offer
+      label: Job Offer Made
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hire_decision
+      label: Hire Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: onboarding
+      label: onboarding
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: communication_channels
+      label: communication_channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: outcome
+      label: outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

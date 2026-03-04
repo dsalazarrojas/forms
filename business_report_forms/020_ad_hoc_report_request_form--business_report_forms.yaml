@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ad Hoc Report Request Form
+    pages:
+    - id: 1
+      name: requester_header
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department / Business Unit
+      hint: null
+      type: select_one
+      options:
+      - Executive / Management
+      - Marketing / Sales
+      - Finance / Accounting
+      - Operations / Supply Chain
+      - Human Resources
+      - IT / Technical
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: report_details_header
+      label: -- Report Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: report_purpose
+      label: Purpose of the Report
+      hint: How will this data be used? (e.g. Budgeting, Performance Review)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: data_sources
+      label: Requested Data Sources / Systems
+      hint: e.g. ERP, CRM, Google Analytics
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: time_period_start
+      label: Data Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_period_end
+      label: Data Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: key_metrics
+      label: Key Metrics / KPIs to Include
+      hint: List specific data points required
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: data_filters
+      label: Specific Filters or Segmentations
+      hint: e.g. Filter by region, product category, or customer type
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_header
+      label: -- Delivery and Urgency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: output_format
+      label: Preferred Output Format
+      hint: null
+      type: select_one
+      options:
+      - Excel / CSV
+      - PDF Document
+      - Interactive Dashboard (Tableau / PowerBI)
+      - Presentation Slides
+      required: true
+    - id: 14
+      name: delivery_deadline
+      label: Requested Delivery Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Low - Next Reporting Cycle
+      - Medium - Within 1 Week
+      - High - Critical Business Decision Needed (24-48 hours)
+      required: true
+    - id: 16
+      name: security_clearance_ack
+      label: I certify that I have the necessary clearance to access this data
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 17
+      name: additional_instructions
+      label: Additional Instructions or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Reconciliation Experience Survey
+    pages:
+    - id: 1
+      name: vendor_reconciliation_experience
+      label: What is your experience with vendor reconciliation processes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: procurement_team
+      label: Who is your point of contact for procurements and vendor communications?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: communication_quality
+      label: How would you rate the quality of communication from our team?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 4
+      name: improvement_ideas
+      label: What are some ideas for improvement for our reconciliation process?
+      hint: Please be as specific as possible
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: When did you last have a reconciliation meeting with our team?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: What time of day did you last have a reconciliation meeting with our
+        team?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: What email address do you typically use to communicate with us?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: What is your preferred phone number to contact you at?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Do you have any additional comments or feedback for us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vendor_reconciliation
+      label: How often do you have vendor reconciliation meetings?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

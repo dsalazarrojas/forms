@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Cancellation Form
+    pages:
+    - id: 1
+      name: teacher_info_header
+      label: -- Teacher Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: teacher_id
+      label: Teacher ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: teacher_phone
+      label: Teacher Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_info_header
+      label: -- Class Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: class_name
+      label: Class Name or Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: class_date
+      label: Originally Scheduled Class Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: class_time
+      label: Originally Scheduled Class Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: number_of_students
+      label: Number of Students Affected
+      hint: Approximate count
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: cancellation_header
+      label: -- Cancellation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: null
+      type: select_one
+      options:
+      - Teacher illness or emergency
+      - Family emergency
+      - Building closure or emergency
+      - Insufficient enrollment
+      - Facility issue or maintenance
+      - Weather conditions
+      - Other unforeseen circumstances
+      - Administrative reason
+      required: true
+    - id: 13
+      name: reason_details
+      label: Detailed Explanation
+      hint: Provide context and details
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: cancellation_date_submitted
+      label: Date Cancellation is Being Submitted
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: notice_provided
+      label: Notice Given to Students
+      hint: How much advance notice
+      type: select_one
+      options:
+      - Less than 24 hours
+      - 24-48 hours
+      - 2-7 days
+      - More than 1 week
+      - No prior notice
+      required: true
+    - id: 16
+      name: reschedule_header
+      label: -- Rescheduling Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reschedule_status
+      label: Will this class be rescheduled
+      hint: null
+      type: select_one
+      options:
+      - Yes, already scheduled
+      - Yes, will schedule
+      - No, permanent cancellation
+      - Undecided
+      required: true
+    - id: 18
+      name: new_class_date
+      label: New Scheduled Date - if rescheduling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: new_class_time
+      label: New Scheduled Time - if rescheduling
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: communication_header
+      label: -- Communication Plan --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: student_notification
+      label: How will students be notified
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email notification
+      - SMS text message
+      - Phone call
+      - Posted on system
+      - Parent notification
+      - In-class announcement
+      required: true
+    - id: 22
+      name: additional_information
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

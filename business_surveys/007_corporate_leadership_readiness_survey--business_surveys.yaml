@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_leadership_readiness_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: executive_sponsorship
+      label: Executive Sponsorship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Strongly Disagree'', ''value'': ''strongly_disagree''}'
+      - '{''id'': 5, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 3
+      name: leadership_potential
+      label: Leadership Potential
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: strengths_development_needs
+      label: Strengths Development Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Leadership'', ''value'': ''leadership''}'
+      - '{''id'': 2, ''label'': ''Communication'', ''value'': ''communication''}'
+      - '{''id'': 3, ''label'': ''Collaboration'', ''value'': ''collaboration''}'
+      - '{''id'': 4, ''label'': ''Problem Solving'', ''value'': ''problem_solving''}'
+      - '{''id'': 5, ''label'': ''Adaptability'', ''value'': ''adaptability''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: executive_sponsorship
+      label: Executive Sponsorship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Strongly Disagree'', ''value'': ''strongly_disagree''}'
+      - '{''id'': 5, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 7
+      name: coaching
+      label: Coaching
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_2
+      label: Feedback
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: development_needs
+      label: Development Needs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: strengths
+      label: Strengths
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 11
+      name: weaknesses
+      label: Weaknesses
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 12
+      name: development_needs_2
+      label: Development Needs 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 13
+      name: strengths_2
+      label: Strengths 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 14
+      name: coaching_2
+      label: Coaching 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_3
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: executive_sponsorship_2
+      label: Executive Sponsorship 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Strongly Disagree'', ''value'': ''strongly_disagree''}'
+      - '{''id'': 5, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 17
+      name: coaching_3
+      label: Coaching 3
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: development_needs_3
+      label: Development Needs 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: strengths_3
+      label: Strengths 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 20
+      name: weaknesses_2
+      label: Weaknesses 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 21
+      name: development_needs_4
+      label: Development Needs 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 22
+      name: coaching_4
+      label: Coaching 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: feedback_4
+      label: Feedback
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: executive_sponsorship_3
+      label: Executive Sponsorship 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
+      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
+      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
+      - '{''id'': 4, ''label'': ''Strongly Disagree'', ''value'': ''strongly_disagree''}'
+      - '{''id'': 5, ''label'': ''Unsure'', ''value'': ''unsure''}'
+      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      required: false
+    - id: 25
+      name: coaching_5
+      label: Coaching 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: feedback_5
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: development_needs
+      label: Development Needs 5
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: ethanol_production_process_survey
+    pages:
+    - id: 1
+      name: page_1
+      label: production_site
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: page_2
+      label: production_capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: page_3
+      label: production_capacity_units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: page_4
+      label: report_period
+      hint: null
+      type: select_one
+      options:
+      - month
+      - quarter
+      - six_months
+      required: true
+    - id: 5
+      name: page_5
+      label: ethanol_yield
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - moderate
+      - low
+      required: true
+    - id: 6
+      name: page_6
+      label: ethanol_yield_deviation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: yield_deviation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: page_8
+      label: yield_deviation_units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: page_9
+      label: production_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: page_10
+      label: production_cost_units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: page_11
+      label: production_cost_currency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: page_12
+      label: energy_efficiency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: page_13
+      label: energy_efficiency_units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: page_14
+      label: energy_consumption
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: page_15
+      label: energy_consumption_units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: page_16
+      label: water_efficiency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: page_17
+      label: water_efficiency_units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: page_18
+      label: water_consumption
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: page_19
+      label: waste_efficiency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: page_20
+      label: waste_efficiency_units
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: page_21
+      label: waste_consumption
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: page_22
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true

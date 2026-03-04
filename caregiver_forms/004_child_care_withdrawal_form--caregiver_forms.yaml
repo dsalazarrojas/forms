@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Care Withdrawal Form
+    pages:
+      - id: 1
+        name: section_student_info
+        label: -- Student Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: child_name
+        label: Child Full Name
+        hint: Enter name as registered
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: section_withdrawal_details
+        label: -- Withdrawal Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: last_day
+        label: Last Day of Attendance
+        hint: Effective date of withdrawal
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: reason_for_withdrawal
+        label: Primary Reason for Withdrawal
+        hint: Helps us improve our service
+        type: select_one
+        options:
+          - label: Moving out of area
+            value: moving
+          - label: Financial reasons
+            value: financial
+          - label: Dissatisfaction with service
+            value: dissatisfaction
+          - label: Transition to school
+            value: school
+          - label: Other
+            value: other
+        required: true
+      - id: 6
+        name: section_feedback
+        label: -- Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: improvement_feedback
+        label: What could we have done better?
+        hint: We value your honest input
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: would_recommend
+        label: Would you recommend us to others?
+        hint: Select one
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+        required: true
+      - id: 9
+        name: section_final_steps
+        label: -- Final Steps --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: submission_date
+        label: Today Date
+        hint: Date of form submission
+        type: date
+        options: []
+        required: true

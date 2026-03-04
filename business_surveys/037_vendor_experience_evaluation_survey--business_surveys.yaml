@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Experience Evaluation Survey
+    pages:
+    - id: 1
+      name: vendor_experience_evaluation
+      label: vendor_experience_evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_with_vendor
+      label: satisfaction_with_vendor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_areas
+      label: improvement_areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Communication''}'
+      - '{''value'': ''Quality''}'
+      - '{''value'': ''Cost''}'
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_contact_person
+      label: vendor_contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''In Person''}'
+      required: false
+    - id: 10
+      name: vendor_rating
+      label: vendor_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vendor_recommendation
+      label: vendor_recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Highly''}'
+      - '{''value'': ''Not''}'
+      - '{''value'': ''Neither''}'
+      required: false
+    - id: 12
+      name: comments2
+      label: comments2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Average''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 14
+      name: comments3
+      label: comments3
+      hint: null
+      type: note
+      options: []
+      required: false

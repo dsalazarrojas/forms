@@ -1,0 +1,29 @@
+inputSchema:
+  type: object
+  properties:
+    title: Find Sine
+    pages:
+    - id: 1
+      name: opposite_and_hypotenuse
+      label: enter the opposite and hypotenuse angle values
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sine_value
+      label: sine angle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: calculate_button
+      label: calculate
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Sine'', ''value'': ''sin''}'
+      - '{''label'': ''Cosine'', ''value'': ''cos''}'
+      - '{''label'': ''Tangent'', ''value'': ''tan''}'
+      required: true

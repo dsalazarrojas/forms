@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agency Mid Year Financial Report
+    pages:
+    - id: 1
+      name: report_summary
+      label: -- Financial Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agency_name
+      label: Agency name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_period_start
+      label: Reporting period start
+      hint: Start date for the mid year report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reporting_period_end
+      label: Reporting period end
+      hint: End date for the mid year report
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: total_revenue
+      label: Total revenue
+      hint: Revenue to date for reporting period
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_expenses
+      label: Total expenses
+      hint: Expenses to date for reporting period
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: net_income
+      label: Net income
+      hint: Revenue minus expenses
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: budget_variances
+      label: Budget variances summary
+      hint: Explain any significant variances
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cash_position
+      label: Current cash position
+      hint: Available cash or liquidity
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: notes_and_recommendations
+      label: Notes and recommendations
+      hint: Management commentary and next steps
+      type: text
+      options: []
+      required: false

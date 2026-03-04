@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Room Check In Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: select_one
+      options:
+      - Headache
+      - Fever
+      - Broken Bone
+      - Other
+      required: false
+    - id: 6
+      name: emergency_room_number
+      label: Emergency Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: nurse_name
+      label: Nurse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_staff_name
+      label: Medical Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

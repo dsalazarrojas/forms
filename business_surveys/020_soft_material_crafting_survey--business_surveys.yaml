@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soft Material Crafting Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: project type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Yarn''}'
+      - '{''id'': 2, ''name'': ''Fiber''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 3
+      name: project_type_other
+      label: project type other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: material_type
+      label: material type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Yarn''}'
+      - '{''id'': 2, ''name'': ''Fiber''}'
+      - '{''id'': 3, ''name'': ''Felt''}'
+      - '{''id'': 4, ''name'': ''Thread''}'
+      required: true
+    - id: 5
+      name: material_color
+      label: material color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Red''}'
+      - '{''id'': 2, ''name'': ''Blue''}'
+      - '{''id'': 3, ''name'': ''Yellow''}'
+      - '{''id'': 4, ''name'': ''Green''}'
+      required: true
+    - id: 6
+      name: pattern
+      label: pattern
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Stripe''}'
+      - '{''id'': 2, ''name'': ''Dot''}'
+      - '{''id'': 3, ''name'': ''Zigzag''}'
+      - '{''id'': 4, ''name'': ''Solid''}'
+      required: false
+    - id: 7
+      name: pattern_other
+      label: pattern other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: craft_skill
+      label: craft skill
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Basic''}'
+      - '{''id'': 2, ''name'': ''Intermediate''}'
+      - '{''id'': 3, ''name'': ''Advanced''}'
+      required: false
+    - id: 9
+      name: craft_experience
+      label: craft experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Less than 1 year''}'
+      - '{''id'': 2, ''name'': ''1-2 years''}'
+      - '{''id'': 3, ''name'': ''2-5 years''}'
+      - '{''id'': 4, ''name'': ''More than 5 years''}'
+      required: true
+    - id: 10
+      name: project_name
+      label: project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_description
+      label: project description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_image
+      label: project image
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Unknown''}'
+      required: true
+    - id: 13
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review
+      label: review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_info
+      label: additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reported_value
+      label: reported value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: reported_value_other
+      label: reported value other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: price_range
+      label: price range
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Below $10''}'
+      - '{''id'': 2, ''name'': ''$10-50''}'
+      - '{''id'': 3, ''name'': ''Above 50''}'
+      required: true
+    - id: 22
+      name: price_range_other
+      label: price range other
+      hint: null
+      type: text
+      options: []
+      required: false

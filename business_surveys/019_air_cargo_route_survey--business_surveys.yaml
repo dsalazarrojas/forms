@@ -1,0 +1,263 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Air Cargo Route Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: industry_sector
+      label: Industry Sector
+      hint: Your industry
+      type: select_one
+      options:
+      - Freight forwarding
+      - Logistics
+      - Manufacturing
+      - Retail
+      - E-commerce
+      - Healthcare
+      - Automotive
+      - Perishables
+      - Other
+      required: true
+    - id: 6
+      name: cargo_volume
+      label: Monthly Air Cargo Volume
+      hint: Approximate volume shipped monthly
+      type: select_one
+      options:
+      - Under 1 ton
+      - 1-10 tons
+      - 10-50 tons
+      - 50-100 tons
+      - Over 100 tons
+      required: true
+    - id: 7
+      name: primary_routes
+      label: Primary Shipping Routes
+      hint: Select your main routes
+      type: select_multiple
+      options:
+      - North America domestic
+      - Transatlantic
+      - Transpacific
+      - Asia-Europe
+      - Middle East
+      - Africa
+      - South America
+      - Intra-Asia
+      required: true
+    - id: 8
+      name: route_satisfaction
+      label: Current Route Satisfaction
+      hint: How satisfied with current routes
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: transit_time_importance
+      label: Transit Time Importance
+      hint: How important is fast transit
+      type: select_one
+      options:
+      - Critical
+      - Very important
+      - Important
+      - Somewhat important
+      - Not important
+      required: true
+    - id: 10
+      name: cost_importance
+      label: Cost Importance
+      hint: How important is cost
+      type: select_one
+      options:
+      - Critical
+      - Very important
+      - Important
+      - Somewhat important
+      - Not important
+      required: true
+    - id: 11
+      name: reliability_importance
+      label: Reliability Importance
+      hint: How important is reliability
+      type: select_one
+      options:
+      - Critical
+      - Very important
+      - Important
+      - Somewhat important
+      - Not important
+      required: true
+    - id: 12
+      name: current_challenges
+      label: Current Challenges
+      hint: Select all challenges faced
+      type: select_multiple
+      options:
+      - Limited route options
+      - High costs
+      - Long transit times
+      - Capacity constraints
+      - Customs delays
+      - Poor tracking
+      - Damage or loss
+      - Communication issues
+      required: true
+    - id: 13
+      name: new_route_demand
+      label: New Route Demand
+      hint: Are there routes you wish existed
+      type: select_one
+      options:
+      - Yes, multiple
+      - Yes, one or two
+      - No, current routes sufficient
+      required: true
+    - id: 14
+      name: desired_new_routes
+      label: Desired New Routes
+      hint: Describe routes you need
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: frequency_needs
+      label: Flight Frequency Needs
+      hint: How often do you need flights
+      type: select_one
+      options:
+      - Daily
+      - Multiple times per week
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - On-demand
+      required: true
+    - id: 16
+      name: capacity_requirements
+      label: Capacity Requirements
+      hint: Typical shipment size
+      type: select_one
+      options:
+      - Small parcels
+      - Palletized cargo
+      - Full containers
+      - Oversized cargo
+      - Mixed
+      required: true
+    - id: 17
+      name: special_handling
+      label: Special Handling Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Temperature controlled
+      - Hazardous materials
+      - Live animals
+      - Pharmaceuticals
+      - High value goods
+      - Perishables
+      - None
+      required: true
+    - id: 18
+      name: carrier_preference
+      label: Carrier Preference
+      hint: Do you have preferred carriers
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: technology_needs
+      label: Technology Needs
+      hint: What tracking or tech features do you need
+      type: select_multiple
+      options:
+      - Real-time tracking
+      - Automated notifications
+      - Digital documentation
+      - API integration
+      - Analytics dashboard
+      - Mobile app
+      required: true
+    - id: 20
+      name: budget_range
+      label: Monthly Air Cargo Budget
+      hint: Approximate monthly spend
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000-$50,000
+      - $50,000-$100,000
+      - $100,000-$500,000
+      - Over $500,000
+      required: false
+    - id: 21
+      name: partnership_interest
+      label: Long-term Partnership Interest
+      hint: Interested in contract rates
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not interested
+      required: true
+    - id: 22
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: survey_date
+      label: Survey Date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true

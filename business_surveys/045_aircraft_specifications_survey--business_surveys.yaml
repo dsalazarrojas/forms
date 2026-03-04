@@ -1,0 +1,372 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft Specifications Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: aircraft_registration
+      label: Aircraft Registration
+      hint: Tail number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: aircraft_make
+      label: Aircraft Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: aircraft_model
+      label: Aircraft Model
+      hint: Model designation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: aircraft_year
+      label: Aircraft Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: serial_number
+      label: Serial Number
+      hint: Manufacturer serial
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: aircraft_category
+      label: Aircraft Category
+      hint: Type of aircraft
+      type: select_one
+      options:
+      - Single engine piston
+      - Multi-engine piston
+      - Turboprop
+      - Light jet
+      - Mid-size jet
+      - Heavy jet
+      - Ultra-long range jet
+      - Helicopter
+      - Other
+      required: true
+    - id: 12
+      name: primary_use
+      label: Primary Use
+      hint: Main purpose
+      type: select_one
+      options:
+      - Corporate transport
+      - Charter operations
+      - Private use
+      - Cargo
+      - Medical transport
+      - Government
+      - Training
+      - Other
+      required: true
+    - id: 13
+      name: total_airframe_hours
+      label: Total Airframe Hours
+      hint: Total time in service
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: max_seating
+      label: Maximum Seating Capacity
+      hint: Number of seats
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: typical_seating
+      label: Typical Seating Configuration
+      hint: Usual passenger count
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: engine_make
+      label: Engine Make
+      hint: Engine manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: engine_model
+      label: Engine Model
+      hint: Engine model
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: number_of_engines
+      label: Number of Engines
+      hint: Total engines
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: engine_hours
+      label: Engine Hours Since New
+      hint: Total engine time
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: engine_hours_since_overhaul
+      label: Hours Since Overhaul
+      hint: TSO
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: max_range
+      label: Maximum Range (nautical miles)
+      hint: Ferry range
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: typical_range
+      label: Typical Range with Passengers
+      hint: Operational range
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: cruise_speed
+      label: Typical Cruise Speed (knots)
+      hint: Normal cruise
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: max_altitude
+      label: Maximum Operating Altitude
+      hint: Service ceiling in feet
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: fuel_capacity
+      label: Fuel Capacity (gallons)
+      hint: Total usable fuel
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: baggage_capacity
+      label: Baggage Capacity (cubic feet)
+      hint: Cargo volume
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: mtow
+      label: Maximum Takeoff Weight (lbs)
+      hint: MTOW
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: avionics_package
+      label: Avionics Package
+      hint: Installed avionics
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: autopilot
+      label: Autopilot System
+      hint: Type installed
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: weather_radar
+      label: Weather Radar
+      hint: Is radar installed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: tcas
+      label: TCAS (Traffic Collision Avoidance)
+      hint: Is TCAS installed
+      type: select_one
+      options:
+      - Yes, TCAS I
+      - Yes, TCAS II
+      - false
+      required: true
+    - id: 32
+      name: egpws
+      label: EGPWS (Terrain Awareness)
+      hint: Is system installed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: ads_b_out
+      label: ADS-B Out
+      hint: Is equipped
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 34
+      name: wifi_installed
+      label: WiFi Installed
+      hint: Is cabin WiFi available
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: cabin_type
+      label: Cabin Type
+      hint: Cabin configuration
+      type: select_one
+      options:
+      - Standard
+      - Club seating
+      - Divan
+      - Berth
+      - Custom
+      required: true
+    - id: 36
+      name: interior_condition
+      label: Interior Condition
+      hint: Overall assessment
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 37
+      name: exterior_condition
+      label: Exterior Condition
+      hint: Paint condition
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 38
+      name: last_paint_year
+      label: Last Paint Year
+      hint: When painted
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: maintenance_program
+      label: Maintenance Program
+      hint: Current program
+      type: select_one
+      options:
+      - Manufacturer program
+      - Independent program
+      - On-condition
+      - Other
+      required: true
+    - id: 40
+      name: hangar_location
+      label: Primary Hangar Location
+      hint: Where based
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: additional_equipment
+      label: Additional Equipment
+      hint: Notable additions
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: known_deficiencies
+      label: Known Deficiencies
+      hint: Any squawks
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: market_value_estimate
+      label: Estimated Market Value (USD)
+      hint: If known
+      type: select_one
+      options:
+      - Under $500,000
+      - $500K-$1M
+      - $1M-$5M
+      - $5M-$10M
+      - $10M-$25M
+      - Over $25M
+      required: false
+    - id: 44
+      name: survey_purpose
+      label: Purpose of Survey
+      hint: Why completing this
+      type: select_one
+      options:
+      - Insurance
+      - Sale preparation
+      - Fleet planning
+      - Market research
+      - Financing
+      - Other
+      required: true

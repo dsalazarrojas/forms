@@ -1,0 +1,125 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: A.L.P Services Application
+    pages:
+    - id: 1
+      name: section_header_applicant
+      label: "--- Applicant Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Applicant full name
+      hint: Enter the primary contact's legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Contact email address
+      hint: Provide a business email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Contact phone number
+      hint: Include country code if outside local area
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: organization_name
+      label: Organization / Company name
+      hint: Registered business name or DBA
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_website
+      label: Organization website
+      hint: Provide full URL or leave blank
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: services_requested
+      label: Services requested (select all that apply)
+      hint: Choose any A.L.P services you are applying for
+      type: select_multiple
+      options:
+        - Account setup & onboarding
+        - Ongoing managed services
+        - One-time consulting
+        - Data migration
+        - Training & workshops
+      required: true
+    - id: 8
+      name: preferred_start_date
+      label: Preferred project start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approximate_annual_budget
+      label: Approximate annual budget (USD)
+      hint: Enter best estimate to help scope proposal
+      type: decimal
+      options: []
+      required: false
+    - id: 10
+      name: team_size
+      label: Number of users / team members for service
+      hint: Whole number of users that will access services
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: primary_goal
+      label: Primary goal for engaging A.L.P services
+      hint: Briefly describe expected outcome (one sentence)
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: references_or_case_studies
+      label: References or related case studies (optional)
+      hint: Provide links or short notes that demonstrate fit
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: acceptance_terms
+      label: Do you agree to be contacted regarding this application?
+      hint: Required for processing
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 14
+      name: additional_notes
+      label: Additional notes or supporting information
+      hint: Include any constraints, deadlines, or special requests
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Base 2 Logarithm Of E (LOG2E) Calculation Form
+    pages:
+    - id: 1
+      name: intro_note
+      label: -- LOG2E Calculation Utility --
+      hint: This tool returns the base-2 logarithm of E for the entered number.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: calculator_user_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: input_value_x
+      label: Input Value (x)
+      hint: The number to be processed
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: precision_required
+      label: Required Decimal Precision
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: constant_log2e_value
+      label: LOG2E Constant Reference
+      hint: Approximately 1.442695
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: output_format
+      label: Desired Output Format
+      hint: null
+      type: select_one
+      options:
+      - Scientific Notation
+      - Fixed Decimal
+      - Fraction
+      required: true
+    - id: 7
+      name: timestamp
+      label: Timestamp
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: user_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: export_results
+      label: Would you like the results emailed to you?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: feedback_text
+      label: Feedback on tool accuracy
+      hint: null
+      type: text
+      options: []
+      required: false

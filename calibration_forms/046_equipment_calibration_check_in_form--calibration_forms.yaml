@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_calibration_check_in_form
+    pages:
+    - id: 1
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: calibration_date
+      label: Calibration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: technician
+      label: Technician
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

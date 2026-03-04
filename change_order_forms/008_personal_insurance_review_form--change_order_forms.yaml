@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Insurance Review Form
+    pages:
+    - id: 1
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_name
+      label: Policy Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_type
+      label: Policy Type
+      hint: null
+      type: select_one
+      options:
+      - Automobile
+      - Home
+      - Life
+      - Health
+      - Other
+      required: false
+    - id: 4
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: policy_status
+      label: Policy Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 7
+      name: premium_frequency
+      label: Premium Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      required: false
+    - id: 8
+      name: premium_amount
+      label: Premium Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      - Credit
+      required: false
+    - id: 10
+      name: policy_holder_name
+      label: Policy Holder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_holder_contact_number
+      label: Policy Holder Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: policy_holder_email
+      label: Policy Holder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: policy_holder_address
+      label: Policy Holder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: policy_holder_city
+      label: Policy Holder City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: policy_holder_state
+      label: Policy Holder State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: policy_holder_postal_code
+      label: Policy Holder Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: policy_holder_country
+      label: Policy Holder Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: policy_holder_notes
+      label: Policy Holder Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: policy_holder_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Spouse
+      - Business
+      required: false
+    - id: 20
+      name: policy_holder_ownership
+      label: Policy Holder Ownership
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Joint
+      - Co-owners
+      required: false
+    - id: 21
+      name: policy_holder_employment
+      label: Employment
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Retired
+      - Disabled
+      - Unemployed
+      required: false
+    - id: 22
+      name: policy_holder_employment_status
+      label: Employment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: policy_holder_annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: policy_holder_net_worth
+      label: Net Worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: policy_holder_insurances
+      label: Insurances
+      hint: null
+      type: select_one
+      options:
+      - Health Insurance
+      - Life Insurance
+      - Auto Insurance
+      - Home Insurance
+      - Business Insurance
+      required: true

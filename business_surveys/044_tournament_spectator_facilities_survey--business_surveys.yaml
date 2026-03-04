@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tournament Spectator Facilities Survey
+    pages:
+    - id: 1
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - Stadium
+      - Arena
+      - Arena with Stadium
+      - Outdoor
+      - Outdoor with covered area
+      - Other
+      required: true
+    - id: 2
+      name: seating
+      label: Seating
+      hint: null
+      type: select_multiple
+      options:
+      - Seating is not available
+      - Seating is available but not accessible
+      - Seating is available and accessible
+      - Other
+      required: true
+    - id: 3
+      name: food_beverage
+      label: Food and Beverage
+      hint: null
+      type: select_multiple
+      options:
+      - No options available
+      - Snacks
+      - Food
+      - Food and Beverage
+      - Other
+      required: true
+    - id: 4
+      name: merchandise
+      label: Merchandise
+      hint: null
+      type: select_multiple
+      options:
+      - No options available
+      - Concessions
+      - Gift shop on site
+      - Other
+      required: true
+    - id: 5
+      name: parking
+      label: Parking
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: accessibility
+      label: Accessibility
+      hint: null
+      type: select_one
+      options:
+      - Wheelchair access only
+      - Wheelchair access available
+      - No wheelchair access
+      - Other
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_id
+      label: Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: facility_id
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - Washington D.C.
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: true
+    - id: 21
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - Other
+      required: false
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

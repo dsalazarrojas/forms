@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Migration Form
+    pages:
+    - id: 1
+      name: business_migration_process
+      label: Business Migration Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_migration_approvals
+      label: Business Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: business_migration_data_sources
+      label: Business Data Sources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: business_migration_destinations
+      label: Business Destinations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: business_migration_frequency
+      label: Business Migration Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: business_migration_status
+      label: Business Migration Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: business_migration_notes
+      label: Business Migration Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_migration_approving_officer
+      label: Business Approving Officer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: business_migration_approving_officer_email
+      label: Business Approving Officer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: business_migration_approving_officer_phone
+      label: Business Approving Officer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

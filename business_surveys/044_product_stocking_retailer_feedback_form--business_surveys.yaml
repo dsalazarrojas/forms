@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Stocking Retailer Feedback Form
+    pages:
+    - id: 1
+      name: retailer_info
+      label: Retailer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: retailer_stocking
+      label: Stocking Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: ordering_info
+      label: Ordering Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_issues
+      label: Delivery Issues
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: promotional_needs
+      label: Promotional Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,211 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Brand Trust Perception Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Your gender
+        type: select_one
+        options:
+          - Female
+          - Male
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: true
+      - id: 5
+        name: beauty_brand_used
+        label: Beauty Brands You Currently Use
+        hint: List brands
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: brand_switching
+        label: How Often Do You Switch Brands
+        hint: Switching frequency
+        type: select_one
+        options:
+          - Rarely - Stick to Favorites
+          - Occasionally
+          - Frequently - Like to Try New
+          - Very Frequently - Always Switching
+        required: true
+      - id: 7
+        name: trust_factors
+        label: What Makes You Trust a Beauty Brand
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Product Quality
+          - Transparent Ingredients
+          - Positive Reviews
+          - Brand Reputation
+          - Recommendations
+          - Clinical Testing
+          - Money-Back Guarantee
+          - Social Responsibility
+        required: true
+      - id: 8
+        name: quality_importance
+        label: How Important Is Product Quality
+        hint: Quality priority
+        type: select_one
+        options:
+          - Most Important
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 9
+        name: price_vs_trust
+        label: Does Higher Price Mean More Trust
+        hint: Price trust correlation
+        type: select_one
+        options:
+          - Yes - Always
+          - Sometimes
+          - Neutral
+          - Rarely
+          - No - Never
+        required: true
+      - id: 10
+        name: ingredient_transparency
+        label: How Important Is Ingredient Transparency
+        hint: Transparency priority
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Neutral
+          - Not Very Important
+          - Not Important
+        required: true
+      - id: 11
+        name: social_responsibility
+        label: Does Social Responsibility Affect Trust
+        hint: CSR impact
+        type: select_one
+        options:
+          - Yes - Significantly
+          - Yes - Somewhat
+          - Neutral
+          - No - Not Really
+          - No - Not At All
+        required: true
+      - id: 12
+        name: cruelty_free_importance
+        label: How Important Is Cruelty-Free Status
+        hint: Cruelty-free priority
+        type: select_one
+        options:
+          - Must Be Cruelty-Free
+          - Very Important
+          - Important
+          - Nice to Have
+          - Not Important
+        required: true
+      - id: 13
+        name: influencer_recommendations
+        label: Do You Trust Influencer Recommendations
+        hint: Influencer trust
+        type: select_one
+        options:
+          - Yes - Completely
+          - Yes - Somewhat
+          - Neutral
+          - No - Not Really
+          - No - Not At All
+        required: true
+      - id: 14
+        name: online_reviews
+        label: Do You Trust Online Reviews
+        hint: Review trust
+        type: select_one
+        options:
+          - Yes - Completely
+          - Yes - Somewhat
+          - Neutral
+          - No - Not Really
+          - No - Not At All
+        required: true
+      - id: 15
+        name: brand_loyalty_reason
+        label: What Makes You Loyal to a Brand
+        hint: Loyalty drivers
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: trust_breakers
+        label: What Would Make You Lose Trust
+        hint: Trust breakers
+        type: select_multiple
+        options:
+          - Poor Product Quality
+          - Misleading Claims
+          - Negative Reviews
+          - Safety Concerns
+          - Poor Customer Service
+          - Unethical Practices
+          - Price Increases
+        required: true
+      - id: 17
+        name: overall_trust_trend
+        label: Is Your Trust in Beauty Brands Increasing or Decreasing
+        hint: Trust trend
+        type: select_one
+        options:
+          - Increasing
+          - Staying the Same
+          - Decreasing
+        required: true
+      - id: 18
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

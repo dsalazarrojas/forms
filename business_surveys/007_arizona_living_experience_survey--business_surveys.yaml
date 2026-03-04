@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arizona Living Experience Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      required: true
+    - id: 3
+      name: county_living
+      label: Arizona County You Live In
+      hint: null
+      type: select_one
+      options:
+      - Maricopa
+      - Pima
+      - Coconino
+      - Yavapai
+      - Gila
+      - Graham
+      - Yuma
+      - La Paz
+      - Other
+      required: true
+    - id: 4
+      name: years_in_arizona
+      label: Years You Have Lived in Arizona
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: housing_type
+      label: Type of Housing
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Apartment
+      - Condo
+      - Mobile home
+      - Other
+      required: true
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Retired
+      - Student
+      - Unemployed
+      required: true
+    - id: 7
+      name: section_satisfaction
+      label: -- Quality of Life Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall satisfaction with living in Arizona
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: climate_satisfaction
+      label: Satisfaction with Arizona climate
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: cost_of_living
+      label: Satisfaction with cost of living
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 11
+      name: job_opportunities
+      label: Rating of job opportunities in your area
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 12
+      name: education_quality
+      label: Quality of schools and education
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Not applicable
+      required: false
+    - id: 13
+      name: healthcare_access
+      label: Access to quality healthcare
+      hint: null
+      type: select_one
+      options:
+      - Very accessible
+      - Accessible
+      - Somewhat accessible
+      - Difficult to access
+      - Very difficult
+      required: true
+    - id: 14
+      name: community_feel
+      label: Sense of community in your neighborhood
+      hint: null
+      type: select_one
+      options:
+      - Very strong
+      - Strong
+      - Neutral
+      - Weak
+      - Very weak
+      required: true
+    - id: 15
+      name: section_challenges
+      label: -- Challenges and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: main_concerns
+      label: Main concerns about living in Arizona
+      hint: null
+      type: select_multiple
+      options:
+      - Heat and temperature
+      - Water availability
+      - Housing affordability
+      - Air quality
+      - Traffic and commute
+      - Safety and crime
+      - Job market
+      required: false
+    - id: 17
+      name: environmental_concerns
+      label: Environmental concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: improvement_suggestions
+      label: What could improve your experience in Arizona
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: likely_to_stay
+      label: Likelihood of staying in Arizona long-term
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Uncertain
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 20
+      name: contact_email
+      label: Email for future surveys
+      hint: null
+      type: email
+      options: []
+      required: false

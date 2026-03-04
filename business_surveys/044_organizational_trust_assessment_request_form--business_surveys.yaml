@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Trust Assessment Request Form
+    pages:
+    - id: 1
+      name: request_trust_assessment
+      label: Request Trust Assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: define_focus_areas
+      label: Define Focus Areas
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: propose_start_date
+      label: Propose Start Date
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assign_assessor
+      label: Assign Assessor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - '{''id'': 3, ''label'': ''Bob Smith''}'
+      required: false
+    - id: 5
+      name: focus_areas
+      label: Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Area 1''}'
+      - '{''id'': 2, ''label'': ''Area 2''}'
+      required: false
+    - id: 6
+      name: trust_level
+      label: Trust Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: assessor
+      label: Assessor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: assessor_phone
+      label: Assessor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: assessor_email
+      label: Assessor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: requestor_title
+      label: Requestor Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: report_to
+      label: Report to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Rejected''}'
+      - '{''id'': 3, ''label'': ''Pending Review''}'
+      required: false

@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Arrival Check In Form
+    pages:
+    - id: 1
+      name: artist_name
+      label: Artist or Performer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: band_name
+      label: Band or Group Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: check_in_time
+      label: Check-In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: performance_time
+      label: Scheduled Performance Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: venue_name
+      label: Venue Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person at Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artist_phone
+      label: Artist Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: artist_email
+      label: Artist Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: team_members
+      label: Number of Team Members Arriving
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: equipment_arriving
+      label: Equipment Arriving
+      hint: null
+      type: select_multiple
+      options:
+      - Instruments
+      - Sound Equipment
+      - Lighting Gear
+      - Props
+      - Merchandise
+      - Other
+      required: false
+    - id: 12
+      name: load_in_needed
+      label: Load-In Assistance Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: rider_submitted
+      label: Technical Rider Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: accommodation_needed
+      label: Accommodation or Hospitality Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: parking_info
+      label: Parking Location and Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: stage_manager_assigned
+      label: Stage Manager or Contact Assigned
+      hint: null
+      type: text
+      options: []
+      required: false

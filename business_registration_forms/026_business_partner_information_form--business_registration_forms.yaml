@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Information Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_registration_date
+      label: Company Registration Date
+      hint: When was the company established?
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: company_website
+      label: Company Website
+      hint: URL of company website
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name of contact person
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_title
+      label: Contact Title
+      hint: Job position or role
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: primary_contact_email
+      label: Email Address
+      hint: Primary business email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: primary_contact_phone
+      label: Phone Number
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: secondary_contact_name
+      label: Secondary Contact Name
+      hint: Backup contact person
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: secondary_contact_email
+      label: Secondary Contact Email
+      hint: Backup contact email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: secondary_contact_phone
+      label: Secondary Contact Phone
+      hint: Backup phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_address
+      label: Business Address
+      hint: Physical location
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: mailing_address
+      label: Mailing Address
+      hint: If different from above
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: industry_sector
+      label: Industry Sector
+      hint: Primary business sector
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Manufacturing
+      - Services
+      - Other
+      required: true
+    - id: 14
+      name: business_description
+      label: Business Description
+      hint: What your company does
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current workforce
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate yearly revenue
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1,000,000
+      - $1,000,000 - $5,000,000
+      - Over $5,000,000
+      required: false
+    - id: 17
+      name: tax_id
+      label: Tax ID or EIN
+      hint: Federal tax identification
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: bank_information
+      label: Banking Information
+      hint: For payment purposes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insurance_details
+      label: Insurance Details
+      hint: Coverage information
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: business_references
+      label: Business References
+      hint: 2-3 professional references
+      type: text
+      options: []
+      required: false

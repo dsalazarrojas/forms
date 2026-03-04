@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: interior_design_checklist_form
+    pages:
+    - id: 1
+      name: project_preferences
+      label: Project Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: design_goals
+      label: Design Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: design_style
+      label: Design Style
+      hint: null
+      type: select_one
+      options:
+      - Modern
+      - Contemporary
+      - Traditional
+      - Art Deco
+      - Industrial
+      - Rustic
+      required: false
+    - id: 5
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Warm
+      - Cool
+      - Neutral
+      required: false
+    - id: 6
+      name: room_layout
+      label: Room Layout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: material_preferences
+      label: Material Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: space_planning
+      label: Space Planning
+      hint: null
+      type: select_one
+      options:
+      - Open Plan
+      - Closed Plan
+      - Semi-Open
+      required: false
+    - id: 9
+      name: design_process
+      label: Design Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: timeline
+      label: Timeline
+      hint: null
+      type: date
+      options: []
+      required: false

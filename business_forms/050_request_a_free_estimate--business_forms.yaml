@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request A Free Estimate
+    pages:
+    - id: 1
+      name: service_type
+      label: What service type do you need?
+      hint: null
+      type: select_one
+      options:
+      - Plumbing
+      - Electrical
+      - Carpentry
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false

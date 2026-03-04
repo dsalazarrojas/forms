@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Management Survey
+    pages:
+    - id: 1
+      name: uniform_usage
+      label: Uniform usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: uniform_inventory
+      label: Uniform inventory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: select_one
+      label: What do you want to do with a uniform?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Buy''}'
+      - '{''id'': 2, ''label'': ''Rent''}'
+      - '{''id'': 3, ''label'': ''Return''}'
+      required: false
+    - id: 5
+      name: select_multiple
+      label: Which of the following do you want to do?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Buy''}'
+      - '{''id'': 2, ''label'': ''Rent''}'
+      - '{''id'': 3, ''label'': ''Return''}'
+      required: false
+    - id: 6
+      name: date
+      label: Date of purchase/rental
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time of purchase/rental
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false

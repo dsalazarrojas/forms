@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guardian Task Management Form
+    pages:
+    - id: 1
+      name: guardian_task_form
+      label: guardian_task_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Pending
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assignee
+      label: assignee
+      hint: null
+      type: select_one
+      options:
+      - Caregiver
+      - Coordinator
+      - Guardian
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: task_due_date
+      label: task_due_date
+      hint: null
+      type: date
+      options: []
+      required: false

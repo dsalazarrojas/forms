@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Productivity Barriers Survey
+    pages:
+    - id: 1
+      name: team_performance
+      label: Team Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: obstacles_to_performance
+      label: Obstacles to Performance
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_dynamics
+      label: Team Dynamics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication_barriers
+      label: Communication Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 8
+      name: resource_availability
+      label: Resource Availability
+      hint: null
+      type: date
+      options: []
+      required: false

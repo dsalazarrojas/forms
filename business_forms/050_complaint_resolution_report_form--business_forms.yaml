@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Report Form
+    pages:
+    - id: 1
+      name: final_report_header
+      label: -- Final Complaint Resolution Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: final_report_id_unique
+      label: Report ID
+      hint: Unique ID for the final report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complainant_full_name_report
+      label: Customer Name
+      hint: Person who filed the initial complaint
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complaint_received_date_report
+      label: Date Complaint Received
+      hint: Original intake date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: complaint_resolved_date_report
+      label: Date Resolved
+      hint: When the final resolution was accepted
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: total_resolution_time_days
+      label: Total Resolution Time (Days)
+      hint: Number of calendar days from intake to closure
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: final_resolution_description_report
+      label: Final Resolution Description
+      hint: Briefly describe the final outcome for the customer
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_satisfaction_rating_report
+      label: Final Customer Satisfaction Level
+      hint: Based on final feedback from the customer
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Satisfied
+      - Dissatisfied
+      - Very Dissatisfied
+      - No feedback provided
+      required: true
+    - id: 9
+      name: root_cause_analysis_report
+      label: Root Cause Analysis
+      hint: What was the underlying cause of this complaint?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preventive_measures_implemented
+      label: Preventive Measures Implemented
+      hint: What steps were taken to prevent recurrence?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reporting_officer_name_report
+      label: Reporting Officer Name
+      hint: Person who finalized this report
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: final_report_approval_date
+      label: Final Approval Date
+      hint: Date this report was reviewed and closed by leadership
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: report_status_indicator
+      label: Case Status - FINAL REPORT COMPLETED
+      hint: No further action required
+      type: note
+      options: []
+      required: false

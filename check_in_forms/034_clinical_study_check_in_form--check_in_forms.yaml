@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Study Check In Form
+    pages:
+    - id: 1
+      name: participant_id
+      label: Participant ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visit_number
+      label: Study Visit Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_health_update
+      label: -- Participant Health Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: new_health_issues
+      label: Have you experienced any new health issues since your last visit?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: symptom_description
+      label: If yes, please describe any new symptoms or health changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: new_medications
+      label: Have you started any new medications or supplements since the last visit?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: current_weight
+      label: Current Participant Weight (lbs)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: current_bp
+      label: Current Blood Pressure Reading
+      hint: e.g. 120-80
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_compliance
+      label: -- Study Protocol Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: protocol_compliance
+      label: Have you followed the study protocol as instructed since last visit?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 12
+      name: non_compliance_explanation
+      label: If partially or no, please explain any deviations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_logistics
+      label: -- Logistics and Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: next_visit_date
+      label: Scheduled date for next study visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: reminder_preference
+      label: Preferred method for upcoming visit reminders
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Email
+      - Phone Call
+      required: false
+    - id: 16
+      name: check_in_staff
+      label: Check-in Staff Member Name
+      hint: null
+      type: text
+      options: []
+      required: true

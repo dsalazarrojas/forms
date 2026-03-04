@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Risk Management Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: What are your top 3 priorities for risk management?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: risk_areas
+      label: What risk areas does your clinic currently address?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: staff_awareness
+      label: What staff training and support do you currently provide for risk management?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: protocols_and_procedures
+      label: What protocols and procedures do you currently have in place for risk
+        management?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: staff_awareness_procedures
+      label: What procedures do your staff follow to address risk areas?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: quality_improvement
+      label: What changes do you propose for quality improvement?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: safety_program
+      label: Does your clinic have a safety program in place?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: risk_management_focus
+      label: What is your risk management focus this year?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: safety_equipment
+      label: What safety equipment do you use to support risk management?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: emergency_preparedness
+      label: Is your emergency.reporting process effective?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

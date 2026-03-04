@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Application Form
+    pages:
+    - id: 1
+      name: business_info
+      label: Business Information
+      hint: Basic business details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal name of business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dba_name
+      label: DBA or Trade Name
+      hint: Doing business as name if different
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_type
+      label: Business Type
+      hint: Legal structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - S-Corporation
+      - Non-Profit
+      - Other
+      required: true
+    - id: 5
+      name: industry
+      label: Industry
+      hint: Primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Food Service
+      - Professional Services
+      - Construction
+      - Real Estate
+      - Education
+      - Other
+      required: true
+    - id: 6
+      name: year_established
+      label: Year Established
+      hint: When was business founded
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: ein
+      label: Employer Identification Number
+      hint: Federal tax ID
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_number
+      label: Business License Number
+      hint: Your business license number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Contact Information
+      hint: How to reach you
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: business_address
+      label: Business Address
+      hint: Physical address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_zip
+      label: ZIP Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: business_phone
+      label: Business Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: business_email
+      label: Business Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: business_website
+      label: Business Website
+      hint: Website URL
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: owner_info
+      label: Owner Information
+      hint: Primary owner details
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: owner_name
+      label: Owner Full Name
+      hint: Legal name of primary owner
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: owner_title
+      label: Owner Title
+      hint: Position or title
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: owner_email
+      label: Owner Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: owner_phone
+      label: Owner Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: ownership_percentage
+      label: Ownership Percentage
+      hint: Percentage of business owned
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: business_details
+      label: Business Details
+      hint: Additional information
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current employee count
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-20
+      - 21-50
+      - 51-100
+      - More than 100
+      required: true
+    - id: 25
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000-$100,000
+      - $100,000-$500,000
+      - $500,000-$1,000,000
+      - $1,000,000-$5,000,000
+      - More than $5,000,000
+      required: true
+    - id: 26
+      name: business_description
+      label: Business Description
+      hint: Describe your business
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: products_services
+      label: Products or Services
+      hint: What do you offer
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: target_market
+      label: Target Market
+      hint: Who are your customers
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: competitors
+      label: Main Competitors
+      hint: Who are your competitors
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: business_goals
+      label: Business Goals
+      hint: What are your short-term goals
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: banking_info
+      label: Banking Information
+      hint: For payment purposes
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: bank_name
+      label: Bank Name
+      hint: Name of your bank
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Money Market
+      - Other
+      required: false
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

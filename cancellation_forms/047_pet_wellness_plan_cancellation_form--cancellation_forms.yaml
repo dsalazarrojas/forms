@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Wellness Plan Cancellation Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_species
+      label: pet_species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 4
+      name: veterinarian
+      label: veterinarian
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cancellation_date
+      label: cancellation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: cancellation_reason
+      label: cancellation_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cancellation_note
+      label: cancellation_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: confirmation
+      label: confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

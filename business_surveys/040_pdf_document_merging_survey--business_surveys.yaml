@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: pdf_document_merging_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to our PDF Merging Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pdf_merging_workflows
+      label: How do you currently merge PDFs?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: merging_method
+      label: What method do you use to merge PDFs?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: comments
+      label: Additional comments
+      hint: Is there anything else you'd like to tell us about your experience with
+        our PDF Merging Survey?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Your email
+      hint: A valid email address, please
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Your phone number
+      hint: A valid phone number, please
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: time_spent
+      label: How much time do you spend on PDF merging per week?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction
+      label: How satisfied are you with our PDF Merging Survey?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

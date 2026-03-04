@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: operator_orientation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: operator_experience
+      label: Operator Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: onboarding_quality
+      label: Onboarding Quality
+      hint: On a scale of 0-10
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: training_quality
+      label: Training Quality
+      hint: On a scale of 0-10
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: operator_satisfaction
+      label: Operator Satisfaction
+      hint: On a scale of 0-10
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_operator
+      label: Assigned Operator
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

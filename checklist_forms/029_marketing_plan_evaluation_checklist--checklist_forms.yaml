@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Plan Evaluation Checklist
+    pages:
+    - id: 1
+      name: strategy_quality_score
+      label: Strategy Quality Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: marketing_objectives
+      label: Marketing Objectives
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 3
+      name: target_market
+      label: Target Market
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: marketing_mix
+      label: Marketing Mix
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Marketing Mix''}'
+      - '{''id'': 2, ''label'': ''Marketing Mix''}'
+      - '{''id'': 3, ''label'': ''Marketing Mix''}'
+      required: false
+    - id: 5
+      name: marketing_budget
+      label: Marketing Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: marketing_budget_allocation
+      label: Marketing Budget Allocation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 7
+      name: marketing_plan_suggestions
+      label: Marketing Plan Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: score
+      label: Score
+      hint: 1-5
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluator_name
+      label: Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: evaluator_title
+      label: Evaluator Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: evaluator_company
+      label: Evaluator Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_summary
+      label: Evaluation Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Completed''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''On Hold''}'
+      required: false
+    - id: 19
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: evaluation_date2
+      label: Evaluation Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: marketing_budget_comment
+      label: Marketing Budget Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: strategy_quality_comment
+      label: Strategy Quality Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: evaluation_status_comment
+      label: Evaluation Status Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: evaluation_summary_comment
+      label: Evaluation Summary Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: evaluator_name_comment
+      label: Evaluator Name Comment
+      hint: null
+      type: text
+      options: []
+      required: false

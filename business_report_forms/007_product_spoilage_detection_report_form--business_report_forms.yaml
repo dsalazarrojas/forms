@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Spoilage Detection Report Form
+    pages:
+    - id: 1
+      name: product_spoilage_detection_report_form
+      label: product_spoilage_detection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: product_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: spoilage_type
+      label: spoilage_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type A''}'
+      - '{''id'': 2, ''label'': ''Type B''}'
+      - '{''id'': 3, ''label'': ''Type C''}'
+      required: false
+    - id: 4
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evidence_capture
+      label: evidence_capture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: spoilage_loss
+      label: spoilage_loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: spoilage_value
+      label: spoilage_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted_by
+      label: form_submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Bob''}'
+      required: false
+    - id: 12
+      name: form_submitted_date
+      label: form_submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: spoilage_rate
+      label: spoilage_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: spoilage_reason
+      label: spoilage_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Resolved''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      required: false
+    - id: 19
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_by
+      label: follow_up_by
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Bob''}'
+      required: false
+    - id: 21
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pending''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      required: false
+    - id: 23
+      name: follow_up_comment
+      label: follow_up_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_by_comment
+      label: follow_up_by_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_by_comment
+      label: form_submitted_by_comment
+      hint: null
+      type: text
+      options: []
+      required: false

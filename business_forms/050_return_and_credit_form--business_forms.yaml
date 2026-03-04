@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: return_and_credit_form
+    pages:
+    - id: 1
+      name: return_and_credit_form_page
+      label: return_and_credit_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: return_page
+      label: return_page
+      hint: null
+      type: select_multiple
+      options:
+      - Refund
+      - Partial Refund
+      - Store Credit
+      required: false
+    - id: 3
+      name: return_reason
+      label: return_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: credit_amount
+      label: credit_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: credit_method
+      label: credit_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit Card
+      required: false
+    - id: 7
+      name: return_comment
+      label: return_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seller_comment
+      label: seller_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: buyer_response
+      label: buyer_response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: return_status
+      label: return_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 11
+      name: status_comment
+      label: status_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_at
+      label: created_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: deleted_at
+      label: deleted_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: deleted_by
+      label: deleted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: updated_user_id
+      label: updated_user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: deleted_user_id
+      label: deleted_user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: created_user_id
+      label: created_user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: deleted_at_included
+      label: deleted_at_included
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: updated_at_included
+      label: updated_at_included
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: created_at_included
+      label: created_at_included
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

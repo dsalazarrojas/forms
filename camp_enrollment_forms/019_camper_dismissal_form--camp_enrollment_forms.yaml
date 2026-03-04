@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Dismissal Form
+    pages:
+    - id: 1
+      name: section_camper_info
+      label: -- Camper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_name
+      label: Camper Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_id
+      label: Camper ID or Registration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: camper_cabin
+      label: Cabin Assignment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_session
+      label: Current Camp Session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_parent_info
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: guardian_phone
+      label: Guardian Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: guardian_email
+      label: Guardian Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: section_dismissal_details
+      label: -- Dismissal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dismissal_reason
+      label: Reason for Dismissal
+      hint: null
+      type: select_one
+      options:
+      - Early departure by request
+      - Medical emergency
+      - Family emergency
+      - Disciplinary action
+      - End of session
+      - Other
+      required: true
+    - id: 12
+      name: dismissal_reason_details
+      label: Details about dismissal reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dismissal_date_time
+      label: Dismissal Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: pickup_person_name
+      label: Person Picking Up Camper
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: pickup_person_relationship
+      label: Relationship to Camper
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: pickup_person_id
+      label: Photo ID Presented
+      hint: null
+      type: select_one
+      options:
+      - Driver License
+      - State ID
+      - Passport
+      - Other
+      required: true
+    - id: 17
+      name: section_checkout
+      label: -- Checkout Procedures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: belongings_returned
+      label: All camper belongings accounted for
+      hint: null
+      type: select_one
+      options:
+      - Yes, all items returned
+      - No, items missing
+      - Not applicable
+      required: true
+    - id: 19
+      name: missing_items_description
+      label: Description of missing items if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: financial_settlement
+      label: Financial settlement status
+      hint: null
+      type: select_one
+      options:
+      - Paid in full
+      - Refund issued
+      - Payment plan arranged
+      - Pending
+      required: true
+    - id: 21
+      name: section_health_info
+      label: -- Health and Safety Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: health_clearance
+      label: Health clearance confirmed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending medical review
+      required: true
+    - id: 23
+      name: outstanding_fees
+      label: Any outstanding fees or charges
+      hint: null
+      type: select_one
+      options:
+      - No outstanding fees
+      - Yes, fees owed
+      - Disputed fees
+      required: true
+    - id: 24
+      name: staff_notes
+      label: Staff Notes and Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: authorized_staff
+      label: Authorized Staff Signature Name
+      hint: null
+      type: text
+      options: []
+      required: true

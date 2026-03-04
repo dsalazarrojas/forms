@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: webinar_feedback_form
+    pages:
+    - id: 1
+      name: webinar_feedback
+      label: Webinar Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: content_rating
+      label: Content Rating
+      hint: Rate how good was the content.
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 3
+      name: presentation_rating
+      label: Presentation Rating
+      hint: Rate how good was the presentation.
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 4
+      name: facilitator_rating
+      label: Facilitator Rating
+      hint: Rate how good was the facilitator.
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: Rate your overall experience.
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

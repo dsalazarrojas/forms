@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Camp Registration Form
+    pages:
+    - id: 1
+      name: registrant_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: registrant_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: registrant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: registrant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: college_name
+      label: College or University
+      hint: Current or prospective college
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: field_of_study
+      label: Field of Study or Major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: year_in_school
+      label: Year in School
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      required: true
+    - id: 9
+      name: gpa
+      label: Current GPA
+      hint: On 4.0 scale if applicable
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_relation
+      label: Relationship to Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medical_conditions
+      label: Known Medical Conditions
+      hint: Any allergies or health issues to be aware of
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medications
+      label: Current Medications
+      hint: Any medications you are taking
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Vegetarian, vegan, allergies, etc.
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 16
+      name: events_to_attend
+      label: Events or Workshops to Attend
+      hint: Select all sessions you plan to attend
+      type: select_multiple
+      options:
+      - Opening Ceremony
+      - Keynote Speech
+      - Networking Mixer
+      - Team Building Activities
+      - Professional Development Workshop
+      - Social Events
+      - Closing Ceremony
+      required: true
+    - id: 17
+      name: tshirt_size
+      label: Camp T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: true
+    - id: 18
+      name: camp_expectations
+      label: What are your expectations from this camp
+      hint: What do you hope to gain or learn
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: previous_camp_attendance
+      label: Have you attended this camp before
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: referred_by
+      label: How did you hear about this camp
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Email
+      - Word of Mouth
+      - School
+      - Other
+      required: true
+    - id: 21
+      name: accessibility_needs
+      label: Accessibility or Accommodation Needs
+      hint: Any special accommodations required
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: liability_agreement
+      label: I agree to the liability waiver and camp policies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

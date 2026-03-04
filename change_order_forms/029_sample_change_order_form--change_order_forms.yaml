@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sample Change Order Form
+    pages:
+    - id: 1
+      name: change_order_form_1
+      label: first_page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: client_change_request_1
+      label: client_change_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description_of_change_1
+      label: description_of_change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: agreed_change_request_1
+      label: agreed_change_request
+      hint: null
+      type: select_multiple
+      options:
+      - agreed
+      - not_agreed
+      required: true
+    - id: 5
+      name: change_request_date_1
+      label: change_request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: requested_by_1
+      label: requested_by
+      hint: null
+      type: select_one
+      options:
+      - customer
+      - contractor
+      required: true
+    - id: 7
+      name: change_order_form_2
+      label: change_order_form_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes_1
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_1
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_1
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: change_order_form_3
+      label: change_order_form_3
+      hint: null
+      type: text
+      options: []
+      required: false

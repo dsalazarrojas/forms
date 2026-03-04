@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Climate Resilience Survey
+    pages:
+    - id: 1
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High-rise building''}'
+      - '{''value'': ''Low-rise building''}'
+      - '{''value'': ''Mixed-use building''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: building_age
+      label: Building Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: climate_risk
+      label: Climate Risk
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Severe weather''}'
+      - '{''value'': ''Coastal flooding''}'
+      - '{''value'': ''Drought''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 5
+      name: resilience_measures
+      label: Resilience Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: existing_measures
+      label: Existing Measures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Green infrastructure''}'
+      - '{''value'': ''Grey infrastructure''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: climate_impacts
+      label: Climate Impacts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Storm surges''}'
+      - '{''value'': ''Sea level rise''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 8
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consultant
+      label: Consultant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - '{''value'': ''Not Submit''}'
+      required: true
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: followup
+      label: Followup
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 19
+      name: followup_date
+      label: Followup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: followup_time
+      label: Followup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: followup_comments
+      label: Followup Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: property_value
+      label: Property Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: climate_change
+      label: Climate Change
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 24
+      name: climate_mitigation
+      label: Climate Mitigation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 25
+      name: climate_adaptation
+      label: Climate Adaptation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

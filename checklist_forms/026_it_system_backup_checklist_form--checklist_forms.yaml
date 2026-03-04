@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT System Backup Checklist Form
+    pages:
+    - id: 1
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: backup_status
+      label: backup_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: system_backup_status
+      label: system_backup_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: system_backup_location
+      label: system_backup_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: backup_frequency
+      label: backup_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: last_backup_date
+      label: last_backup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: next_backup_date
+      label: next_backup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

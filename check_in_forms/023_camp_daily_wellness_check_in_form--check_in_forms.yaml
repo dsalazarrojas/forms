@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Daily Wellness Check In Form
+    pages:
+    - id: 1
+      name: wellness_check_header
+      label: -- Daily Wellness Log --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: check_in_date
+      label: Date of Check-in
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: camper_name_check_in
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cabin_group_assignment
+      label: Cabin - Group Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: health_assessment_header
+      label: -- Physical Health Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_body_temp
+      label: Body Temperature (F)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: physical_symptoms_observed
+      label: Observed Physical Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - None - Healthy
+      - Cough
+      - Sore Throat
+      - Headache
+      - Runny Nose
+      - Stomach Pain
+      - Skin Rash
+      - Fatigue - Lethargy
+      required: true
+    - id: 8
+      name: energy_level_rating
+      label: Energy Level Rating
+      hint: 1 (Very Low) to 5 (Full Energy)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: wellness_emotional_status
+      label: Emotional Well-being Status
+      hint: How is the camper feeling today?
+      type: select_one
+      options:
+      - Happy and Engaged
+      - Content
+      - A Bit Homesick
+      - Anxious or Upset
+      - Socially Withdrawn
+      required: true
+    - id: 10
+      name: last_meal_appetite
+      label: Last Meal Appetite
+      hint: How much did the camper eat at the last meal?
+      type: select_one
+      options:
+      - Ate well
+      - Ate some
+      - Hardly ate
+      - No appetite
+      required: true
+    - id: 11
+      name: physical_activity_clearance
+      label: Clearance for Physical Activities
+      hint: Is the camper cleared for all activities today?
+      type: select_one
+      options:
+      - Cleared for all
+      - Restricted activity (See notes)
+      - No physical activity (Infirmary)
+      required: true
+    - id: 12
+      name: wellness_staff_notes
+      label: Staff Observations and Notes
+      hint: Describe any concerns or follow-ups needed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medication_administered_today
+      label: Was medication administered today?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 14
+      name: check_in_conducted_by
+      label: Staff Member Name (Conducting Check)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: wellness_submission_timestamp
+      label: Time of Check-in
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: infirmary_referral_needed
+      label: Referral to Infirmary Needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

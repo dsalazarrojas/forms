@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: GTF Weekly Check In
+    pages:
+    - id: 1
+      name: submitter_feedback
+      label: Submitter feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coach_rating
+      label: Coach rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_health
+      label: Overall health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coach_feedback
+      label: Coach feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: health_progress
+      label: Health progress
+      hint: null
+      type: select_multiple
+      options:
+      - Progress 0 - 25%
+      - Progress 26 - 50%
+      - Progress 51 - 75%
+      - Progress 76 - 100%
+      required: false
+    - id: 6
+      name: overall_progress
+      label: Overall progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rotary Membership Form
+    pages:
+    - id: 1
+      name: rotary_membership_form
+      label: Rotary Membership Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rotary_club
+      label: Rotary Club
+      hint: null
+      type: select_one
+      options:
+      - Rotary Club 1
+      - Rotary Club 2
+      required: true
+    - id: 7
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      required: true
+    - id: 8
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: application_fee
+      label: Application Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool_user
+      label: Assigned Tool User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submitted_user
+      label: Submitted User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      required: true
+    - id: 22
+      name: assigned_to_id
+      label: Assigned To ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to_user
+      label: Assigned To User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_status
+      label: Submitted Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      required: true
+    - id: 25
+      name: submitted_status_id
+      label: Submitted Status ID
+      hint: null
+      type: text
+      options: []
+      required: false

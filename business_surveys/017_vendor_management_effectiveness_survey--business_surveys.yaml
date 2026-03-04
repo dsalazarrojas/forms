@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Management Effectiveness Survey
+    pages:
+    - id: 1
+      name: vendor_management_effectiveness_survey
+      label: vendor_management_effectiveness_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_rating
+      label: vendor_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: vendor_performance
+      label: vendor_performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: contract_start_date
+      label: contract_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contract_end_date
+      label: contract_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: vendor_category
+      label: vendor_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vendor_status
+      label: vendor_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: vendor_rating_1
+      label: vendor_rating_1
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: vendor_management_effectiveness_score
+      label: vendor_management_effectiveness_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vendor_management_effectiveness_1
+      label: vendor_management_effectiveness_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: vendor_comments
+      label: vendor_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: vendor_recommended
+      label: vendor_recommended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: vendor_rating_2
+      label: vendor_rating_2
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 15
+      name: vendor_management_effectiveness_score_1
+      label: vendor_management_effectiveness_score_1
+      hint: null
+      type: number
+      options: []
+      required: false

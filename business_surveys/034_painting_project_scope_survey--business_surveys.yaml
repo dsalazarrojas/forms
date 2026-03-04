@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Painting Project Scope Survey
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Painting
+      - Renovation
+      - Repainting
+      - Other
+      required: false
+    - id: 3
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Planned
+      - Completed
+      required: false
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: project_date
+      label: Project Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: project_scope_items
+      label: Project Scope Items
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      - Item 4
+      - Item 5
+      - Item 6
+      - Item 7
+      - Item 8
+      - Item 9
+      - Item 10
+      required: false
+    - id: 12
+      name: project_scope_notes
+      label: Project Scope Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contract_type
+      label: Contract Type
+      hint: null
+      type: select_one
+      options:
+      - Lump Sum
+      - Hourly
+      - Unit Price
+      required: false
+    - id: 14
+      name: contract_duration
+      label: Contract Duration
+      hint: null
+      type: select_one
+      options:
+      - 1-30 days
+      - 31-90 days
+      - More than 90 days
+      required: false
+    - id: 15
+      name: contract_status
+      label: Contract Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: false
+    - id: 16
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: contract_end_date
+      label: Contract End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contractor_email
+      label: Contractor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: contractor_phone
+      label: Contractor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contract_price
+      label: Contract Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false

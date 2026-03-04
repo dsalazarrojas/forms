@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Retention Post Campaign Report
+    pages:
+    - id: 1
+      name: customer_retention_post_campaign_report_form
+      label: Customer Retention Post Campaign Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_retention_campaign_id
+      label: Campaign ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_segment
+      label: customer_segment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_segment
+      label: customer_segment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: customer_segment_id
+      label: customer_segment_id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: customer_segment_id
+      label: customer_segment_id
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 7
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: campaign_outcomes
+      label: campaign_outcomes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_retention_rate
+      label: customer_retention_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: customer_acquisition_cost
+      label: customer_acquisition_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: customer_engagement_rate
+      label: customer_engagement_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: customer_satisfaction_rate_goals
+      label: customer_satisfaction_rate_goals
+      hint: null
+      type: number
+      options: []
+      required: false

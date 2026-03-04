@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Office Cleaning Checklist
+    pages:
+    - id: 1
+      name: office_cleaning_checklist
+      label: office_cleaning_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cleaning_items
+      label: cleaning_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: cleaning_frequency
+      label: cleaning_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: office_hours
+      label: office_hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: completed_at
+      label: completed_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - Chatbot 1
+      - Chatbot 2
+      - Chatbot 3
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: office_location
+      label: office_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: office_name
+      label: office_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: office_type
+      label: office_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: office_hours_start
+      label: office_hours_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: office_hours_end
+      label: office_hours_end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: office_hours
+      label: office_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: assigned_date
+      label: assigned_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: assigned_time
+      label: assigned_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: assigned_day
+      label: assigned_day
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_shift
+      label: assigned_shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_team
+      label: assigned_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_user_name
+      label: assigned_user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

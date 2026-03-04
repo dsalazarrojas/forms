@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Governance Checklist Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''CEO/President'', ''label'': ''CEO/President''}'
+      - '{''id'': 2, ''name'': ''CFO'', ''label'': ''CFO''}'
+      - '{''id'': 3, ''name'': ''COO'', ''label'': ''COO''}'
+      required: false
+    - id: 8
+      name: date_founded
+      label: Date Founded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: number_of_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_facebook
+      label: Company Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: page_2
+      label: Governance and Compliance Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: code_of_conduct
+      label: Code of Conduct
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 15
+      name: whistleblower_policy
+      label: Whistleblower Policy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 16
+      name: data_privacy_policy
+      label: Data Privacy Policy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 17
+      name: page_3
+      label: Governance and Compliance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: risk_management
+      label: Risk Management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Regular'', ''label'': ''Regular''}'
+      - '{''id'': 2, ''name'': ''Periodic'', ''label'': ''Periodic''}'
+      - '{''id'': 3, ''name'': ''Event-Driven'', ''label'': ''Event-Driven''}'
+      required: false
+    - id: 19
+      name: audit_committee
+      label: Audit Committee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 20
+      name: compliance_committee
+      label: Compliance Committee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 21
+      name: compliance_program
+      label: Compliance Program
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 22
+      name: ethics_committee
+      label: Ethics Committee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: false
+    - id: 23
+      name: page_4
+      label: Compliance and Reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: whistleblower_procedure
+      label: Whistleblower Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reporting_procedure
+      label: Reporting Procedure
+      hint: null
+      type: text
+      options: []
+      required: false

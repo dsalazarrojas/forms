@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Health Data Collection Survey
+    pages:
+    - id: 1
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_size
+      label: farm_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: total_cattle
+      label: total_cattle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: herd_health
+      label: Herd Health
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: farm_practices
+      label: Farm Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: veterinary_care
+      label: Veterinary Care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: data_collection_method
+      label: Data Collection Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: animal_count
+      label: Animal Count
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Circle Area Calculator 2
+    pages:
+    - id: 1
+      name: user_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: To send results
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: calculation_purpose
+      label: What Is This Calculation For
+      hint: null
+      type: select_one
+      options:
+      - Homework
+      - Construction project
+      - Land measurement
+      - Engineering
+      - Personal interest
+      - Other
+      required: true
+    - id: 4
+      name: radius_value
+      label: Enter the Radius Value
+      hint: The radius of the circle
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: radius_unit
+      label: Radius Unit of Measurement
+      hint: null
+      type: select_one
+      options:
+      - Millimeters
+      - Centimeters
+      - Meters
+      - Kilometers
+      - Inches
+      - Feet
+      - Yards
+      - Miles
+      required: true
+    - id: 6
+      name: diameter_value
+      label: Or Enter Diameter Instead
+      hint: Alternative to radius
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: circumference_value
+      label: Or Enter Circumference Instead
+      hint: Alternative to radius
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: precision
+      label: Decimal Places for Result
+      hint: How many decimal places
+      type: select_one
+      options:
+      - 0 (whole number)
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 9
+      name: show_work
+      label: Show Calculation Steps
+      hint: Display the formula and steps
+      type: select_one
+      options:
+      - Yes, show steps
+      - No, just result
+      required: true
+    - id: 10
+      name: additional_calculations
+      label: Calculate Additional Properties
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diameter
+      - Circumference
+      - Sphere volume (if 3D)
+      - Sphere surface area
+      - None
+      required: true
+    - id: 11
+      name: result_format
+      label: Result Format
+      hint: How should result be displayed
+      type: select_one
+      options:
+      - Decimal number
+      - Fraction
+      - In terms of pi
+      - Scientific notation
+      required: true
+    - id: 12
+      name: save_calculation
+      label: Save This Calculation
+      hint: For future reference
+      type: select_one
+      options:
+      - Yes, save to my account
+      - No, one-time calculation
+      required: true
+    - id: 13
+      name: notes
+      label: Any Notes for This Calculation
+      hint: Optional notes
+      type: text
+      options: []
+      required: false

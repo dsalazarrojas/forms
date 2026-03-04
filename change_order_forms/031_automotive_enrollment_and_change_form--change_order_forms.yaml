@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Enrollment And Change Form
+    pages:
+    - id: 1
+      name: section_header_request
+      label: -- Request Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Type of Request
+      hint: null
+      type: select_one
+      options:
+      - New Enrollment
+      - Update Information
+      - Change Coverage
+      - Add Vehicle
+      - Remove Vehicle
+      - Transfer Ownership
+      required: true
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_header_customer
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_id
+      label: Customer or Account ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_vehicle
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: license_plate
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_changes
+      label: -- Changes Requested --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: change_details
+      label: Describe Changes Requested
+      hint: What needs to be changed or updated?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: effective_date
+      label: Change Effective Date
+      hint: When should this change take effect?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: section_header_coverage
+      label: -- Coverage or Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: coverage_type
+      label: Coverage or Program Type
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Comprehensive
+      - Fleet Program
+      - Warranty
+      - Extended Coverage
+      required: true
+    - id: 20
+      name: coverage_level
+      label: Coverage Level
+      hint: null
+      type: select_one
+      options:
+      - Single Vehicle
+      - Multi-Vehicle
+      - Fleet
+      - Family
+      required: true
+    - id: 21
+      name: section_header_documentation
+      label: -- Documentation and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: documents_attached
+      label: Supporting Documents Attached
+      hint: Registration, title, proof of ownership, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: authorization
+      label: I authorize these changes to my account
+      hint: null
+      type: select_one
+      options:
+      - Yes, I authorize
+      - No, I do not authorize
+      required: true
+    - id: 24
+      name: contact_preference
+      label: Preferred Contact Method for Confirmation
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Mail
+      required: true
+    - id: 25
+      name: submission_date
+      label: Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Registration Certificate Amendment Form
+    pages:
+    - id: 1
+      name: current_registration_number
+      label: Current Registration Number
+      hint: Existing business registration number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: certificate_issue_date
+      label: Certificate Issue Date
+      hint: When was the original certificate issued
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: business_current_name
+      label: Current Business Name
+      hint: Business name as shown on registration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: amendment_type
+      label: Type of Amendment
+      hint: What is being changed
+      type: select_one
+      options:
+      - Business Name Change
+      - Address Change
+      - Owner Change
+      - Partnership Structure Change
+      - Business Type Change
+      - Contact Information Update
+      - Multiple Changes
+      required: true
+    - id: 5
+      name: new_business_name
+      label: New Business Name
+      hint: If changing name, enter new name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_address
+      label: Current Business Address
+      hint: Present address on file
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: new_address
+      label: New Business Address
+      hint: If relocating, enter new address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: new_city
+      label: New City
+      hint: City of new address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: new_state
+      label: New State or Province
+      hint: State of new address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: new_postal_code
+      label: New Postal Code
+      hint: Postal code of new address
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_owner_name
+      label: Current Owner Name
+      hint: Present owner on file
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: new_owner_name
+      label: New Owner Name
+      hint: If changing ownership, enter new owner name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_id_number
+      label: Owner Identification Number
+      hint: Government ID or license number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: Updated email address
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Updated phone number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: amendment_justification
+      label: Reason for Amendment
+      hint: Explain why the change is needed
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: effective_date
+      label: Effective Date of Amendment
+      hint: When should the change take effect
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: List any documents included
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorized_signatory
+      label: Authorized Signatory Name
+      hint: Name of person authorized to sign
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submission_date
+      label: Amendment Submission Date
+      hint: Date this form is being submitted
+      type: date
+      options: []
+      required: true

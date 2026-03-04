@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Market Research Form
+    pages:
+    - id: 1
+      name: respondent_age_group
+      label: Respondent age group
+      hint: Select age bracket
+      type: select_one
+      options:
+      - Under 18
+      - 18 to 24
+      - 25 to 34
+      - 35 to 54
+      - 55+
+      required: true
+    - id: 2
+      name: visit_frequency
+      label: Visit frequency
+      hint: How often do you visit the cafe
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 3
+      name: main_purchase
+      label: Main purchase type
+      hint: Coffee tea pastry or meal
+      type: select_one
+      options:
+      - Coffee
+      - Tea
+      - Pastry
+      - Meal
+      required: true
+    - id: 4
+      name: spending_per_visit
+      label: Average spending per visit
+      hint: Approximate amount
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: preferred_features
+      label: Preferred cafe features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Free wifi
+      - Outdoor seating
+      - Vegan options
+      - Quick service
+      required: true
+    - id: 6
+      name: brand_awareness
+      label: How did you hear about us
+      hint: Referral social media or walk in
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: likelihood_to_recommend
+      label: Likelihood to recommend
+      hint: 0 not at all to 10 definitely
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_feedback
+      label: Additional feedback
+      hint: Comments and suggestions
+      type: text
+      options: []
+      required: false

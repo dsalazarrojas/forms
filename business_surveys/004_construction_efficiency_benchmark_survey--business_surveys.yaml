@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Efficiency Benchmark Survey
+    pages:
+    - id: 1
+      name: section_company_information
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Legal company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Respondent role
+      hint: Job title of the person completing this survey
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_size_average
+      label: Average project size value
+      hint: Typical contract value in local currency
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: typical_schedule_adherence
+      label: Typical schedule adherence rate
+      hint: Percentage estimate of projects completed on schedule
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cost_variance_average
+      label: Average cost variance percentage
+      hint: Typical percent deviation from budget
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: primary_bottlenecks
+      label: Primary bottlenecks
+      hint: Select the top issues affecting efficiency
+      type: select_multiple
+      options:
+      - Material delays
+      - Labor shortages
+      - Design changes
+      - Equipment downtime
+      - Permitting
+      required: true
+    - id: 8
+      name: use_of_technology
+      label: Use of technology
+      hint: How would you describe your firm adoption of technology
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: true
+    - id: 9
+      name: training_frequency
+      label: Training frequency for staff
+      hint: How often staff receive skills training
+      type: select_one
+      options:
+      - Quarterly
+      - Semi annually
+      - Annually
+      - Ad hoc
+      required: false
+    - id: 10
+      name: improvement_priorities
+      label: Improvement priorities
+      hint: Short list of priority improvement areas
+      type: text
+      options: []
+      required: false

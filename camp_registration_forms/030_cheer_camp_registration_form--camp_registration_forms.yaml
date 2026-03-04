@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheer Camp Registration Form
+    pages:
+    - id: 1
+      name: section_participant_info
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_full_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_age_years
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: camper_grade_upcoming
+      label: Grade (Upcoming School Year)
+      hint: null
+      type: select_one
+      options:
+      - 1st - 3rd Grade
+      - 4th - 6th Grade
+      - 7th - 9th Grade
+      - 10th - 12th Grade
+      required: true
+    - id: 5
+      name: camper_tshirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      required: true
+    - id: 6
+      name: section_parent_contact
+      label: -- Parent / Guardian Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_parent_name
+      label: Parent / Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: primary_contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact (Secondary)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_medical_experience
+      label: -- Medical and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: previous_cheer_experience
+      label: Years of Previous Cheer Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: medical_conditions_allergies
+      label: Medical Conditions or Allergies
+      hint: List any dietary restrictions or medical needs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_registration_waiver
+      label: -- Registration and Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: camp_session_selection
+      label: Camp Session Date
+      hint: null
+      type: select_one
+      options:
+      - June 15-19 (Summer Kickoff)
+      - July 13-17 (Skills Intensive)
+      - August 3-7 (Tryout Prep)
+      required: true
+    - id: 17
+      name: registration_type_fee
+      label: Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Early Bird ($150)
+      - Regular ($185)
+      - Walk-in / Late ($210)
+      required: true
+    - id: 18
+      name: photo_release_consent
+      label: Photo and Video Release
+      hint: I allow photos of my child for camp promotion
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, I Decline
+      required: true
+    - id: 19
+      name: liability_waiver_agreement
+      label: Liability Waiver and Release
+      hint: I agree to the terms and conditions of participation
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 20
+      name: parent_sig_digital_ack
+      label: Digital Signature Acknowledgment
+      hint: Type full name to sign
+      type: text
+      options: []
+      required: true

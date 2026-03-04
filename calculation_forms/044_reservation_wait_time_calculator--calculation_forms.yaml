@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reservation Wait Time Calculator
+    pages:
+    - id: 1
+      name: guest_arrival_time
+      label: Guest Arrival Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: wait_time
+      label: Wait Time
+      hint: Minutes
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: seats_available
+      label: Seats Available
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: seats_arrival_rate
+      label: Arrival Rate
+      hint: Number of Guests per Minute
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: guest_wait_time
+      label: Guest Wait Time
+      hint: null
+      type: number
+      options: []
+      required: false

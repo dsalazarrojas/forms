@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Empowerment Perception Survey
+    pages:
+    - id: 1
+      name: tenant_empowerment
+      label: tenant_empowerment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: renter_ideas
+      label: renter_ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_satisfaction
+      label: communication_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: renter_empowerment
+      label: empowerment
+      hint: null
+      type: select_one
+      options:
+      - Renters have full knowledge about the building's maintenance schedule.
+      - Landlords provide a 24-hour contact phone number.
+      - Renters are able to communicate with landlords through multiple channels.
+      - None of the above
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: improvement_ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: housing_provider
+      label: housing_provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tenant_satisfaction
+      label: tenant_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tenant_communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: false
+    - id: 9
+      name: tenant_suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tenant_ideas
+      label: ideas
+      hint: null
+      type: text
+      options: []
+      required: false

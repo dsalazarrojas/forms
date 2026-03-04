@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: TM Registration Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Trademark Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_2_data
+      label: Trademark Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_address
+      label: Company Address
+      hint: Street, state and zip
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_email
+      label: Company Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: trademark_name
+      label: Trademark Name
+      hint: Trademark name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: trademark_description
+      label: Trademark Description
+      hint: Describe the trademark
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: trademark_type
+      label: Trademark Type
+      hint: null
+      type: select_one
+      options:
+      - wordmark
+      - logomark
+      - combination_mark
+      - certification_mark
+      required: false
+    - id: 11
+      name: trademark_class
+      label: Trademark Class
+      hint: null
+      type: select_one
+      options:
+      - class_1
+      - class_2
+      - class_3
+      - class_4
+      - class_5
+      required: false
+    - id: 12
+      name: trademark_country
+      label: Trademark Country
+      hint: null
+      type: select_one
+      options:
+      - usa
+      - china
+      - japan
+      - germany
+      - france
+      required: false
+    - id: 13
+      name: trademark_date
+      label: Trademark Date
+      hint: Date of trademark
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: trademark_status
+      label: Trademark Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - cancelled
+      required: false
+    - id: 15
+      name: trademark_image
+      label: Trademark Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: trademark_image_file
+      label: Upload Image
+      hint: Upload image
+      type: text
+      options: []
+      required: false

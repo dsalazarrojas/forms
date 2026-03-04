@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: voluntary_resignation_form.report
+    pages:
+    - id: 1
+      name: start
+      label: Start of the form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Enter the employee's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select the department
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_of_last_visit
+      label: Date of last visit
+      hint: Enter the date of last visit
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_leaving
+      label: Reason for leaving
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: effective_date
+      label: Effective date
+      hint: Enter the effective date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: last_day_of_work
+      label: Last day of work
+      hint: Enter the last day of work
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: Manager's name
+      hint: Enter theistency manager's name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company
+      label: Company
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: manager_sign_date
+      label: Manager sign date
+      hint: Enter the manager's sign date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: employee_signature
+      label: Employee signature
+      hint: Enter the employee's signature
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: manager_signature
+      label: Manager signature
+      hint: Enter the manager's signature
+      type: text
+      options: []
+      required: true

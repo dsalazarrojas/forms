@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Program Purchase Survey
+    pages:
+    - id: 1
+      name: program_title
+      label: Program Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_provider
+      label: Program Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: purchase_time
+      label: Purchase Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: purchase_channel
+      label: Purchase Channel
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''online''}'
+      - '{''value'': ''offline''}'
+      - '{''value'': ''social''}'
+      required: true
+    - id: 6
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: buyer_phone
+      label: Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_rating
+      label: Program Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: program_value
+      label: Program Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: buyer_comment
+      label: Buyer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suggestion_for_improvement
+      label: Suggestion for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: buyer_satisfaction
+      label: Buyer Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false

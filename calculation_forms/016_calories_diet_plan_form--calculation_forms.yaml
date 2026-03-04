@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calories Diet Plan Form
+    pages:
+    - id: 1
+      name: client_profile_header
+      label: -- Client Diet Plan Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coach_assigned
+      label: Assigned Health Coach
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name_full
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email_diet
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: dietary_preferences_header
+      label: -- Goals and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: daily_calorie_target
+      label: Target Daily Calorie Intake
+      hint: kcal per day
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: protein_target_percentage
+      label: Protein Target %
+      hint: Percentage of total calories
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: carbs_target_percentage
+      label: Carbohydrates Target %
+      hint: Percentage of total calories
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: fats_target_percentage
+      label: Fats Target %
+      hint: Percentage of total calories
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: meal_frequency
+      label: Preferred Number of Meals per Day
+      hint: null
+      type: select_one
+      options:
+      - 2 (Intermittent Fasting)
+      - 3 (Standard)
+      - 4 (Small meals + snack)
+      - 5 (High frequency)
+      - 6 (Bodybuilding style)
+      required: true
+    - id: 11
+      name: dietary_lifestyle
+      label: Dietary Lifestyle - Restriction
+      hint: null
+      type: select_one
+      options:
+      - No Restrictions
+      - Vegetarian
+      - Vegan
+      - Paleo
+      - Keto / Low Carb
+      - Pescatarian
+      - Gluten-Free
+      required: true
+    - id: 12
+      name: known_food_allergies
+      label: Known Food Allergies
+      hint: List all ingredients to avoid
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: disliked_foods
+      label: Foods to Avoid (Preferences)
+      hint: Ingredients the client dislikes
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supplement_plan
+      label: Recommended Supplements
+      hint: e.g., Whey protein, Vitamin D, Omega-3
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hydration_goal_liters
+      label: Daily Hydration Goal (Liters)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: weight_check_in_day
+      label: Weekly Check-in Day
+      hint: Preferred day to record weight
+      type: select_one
+      options:
+      - Monday
+      - Wednesday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 17
+      name: plan_start_date
+      label: Plan Implementation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: coach_notes_plan
+      label: Coach Additional Instructions
+      hint: Specific tips for the client
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: rescue_dog_adoption_application
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: how_many_people
+      label: How many people in the household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: household_members
+      label: Other Household Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pets_owned
+      label: Pets Owned
+      hint: null
+      type: select_multiple
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 8
+      name: pet_type
+      label: Type of pet owned
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: true
+    - id: 9
+      name: pet_age
+      label: Age of pet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: pet_gender
+      label: Gender of pet
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 11
+      name: desired_pet
+      label: Desired Pet
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: true
+    - id: 12
+      name: conditions
+      label: Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

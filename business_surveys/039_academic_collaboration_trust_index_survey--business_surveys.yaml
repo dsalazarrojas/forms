@@ -1,0 +1,206 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Academic Collaboration Trust Index Survey"
+    pages:
+    - id: 1
+      name: section_header_respondent
+      label: "-- Respondent Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: "Email address"
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: institution
+      label: "Institution or organization"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: "Your role"
+      hint: null
+      type: select_one
+      options:
+        - "Principal Investigator"
+        - "Co-Investigator"
+        - "Research Associate"
+        - "Post-doctoral researcher"
+        - "Graduate student"
+        - "Administrator"
+        - "Other"
+      required: true
+    - id: 5
+      name: collaboration_context
+      label: "Context of your primary collaboration"
+      hint: null
+      type: select_one
+      options:
+        - "Within my department"
+        - "Across departments at the same institution"
+        - "With another institution domestically"
+        - "International collaboration"
+        - "Industry-academia partnership"
+      required: true
+    - id: 6
+      name: section_header_trust_dimensions
+      label: "-- Trust Dimensions --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: trust_competence
+      label: "I trust that my collaborators have the expertise and skills needed for the project"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+      required: true
+    - id: 8
+      name: trust_integrity
+      label: "I trust that my collaborators act with honesty and integrity"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+      required: true
+    - id: 9
+      name: trust_reliability
+      label: "I trust that my collaborators deliver on their commitments and deadlines"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+      required: true
+    - id: 10
+      name: trust_openness
+      label: "I feel comfortable sharing ideas and preliminary findings with my collaborators"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+      required: true
+    - id: 11
+      name: trust_fairness
+      label: "I believe credit and authorship are distributed fairly among collaborators"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+      required: true
+    - id: 12
+      name: trust_communication
+      label: "Communication with my collaborators is open, timely, and effective"
+      hint: null
+      type: select_one
+      options:
+        - "Strongly agree"
+        - "Agree"
+        - "Neutral"
+        - "Disagree"
+        - "Strongly disagree"
+      required: true
+    - id: 13
+      name: section_header_overall
+      label: "-- Overall Trust Assessment --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: overall_trust_level
+      label: "Overall, how would you rate the level of trust in your current collaboration"
+      hint: null
+      type: select_one
+      options:
+        - "Very high"
+        - "High"
+        - "Moderate"
+        - "Low"
+        - "Very low"
+      required: true
+    - id: 15
+      name: trust_changed_over_time
+      label: "Has trust in your collaboration changed over time"
+      hint: null
+      type: select_one
+      options:
+        - "Increased significantly"
+        - "Increased somewhat"
+        - "Stayed the same"
+        - "Decreased somewhat"
+        - "Decreased significantly"
+      required: true
+    - id: 16
+      name: trust_building_factors
+      label: "What factors most contribute to building trust in academic collaborations"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Clear expectations and agreements"
+        - "Regular communication"
+        - "Shared values and goals"
+        - "Track record of reliability"
+        - "Transparent decision-making"
+        - "Fair credit and recognition"
+      required: true
+    - id: 17
+      name: trust_erosion_factors
+      label: "What factors most erode trust in collaborations"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Missed deadlines"
+        - "Unfair credit distribution"
+        - "Poor communication"
+        - "Withholding information"
+        - "Conflicting agendas"
+        - "Lack of transparency"
+      required: true
+    - id: 18
+      name: suggestions
+      label: "What suggestions do you have for improving trust in academic collaborations"
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resolution Time Feedback Survey
+    pages:
+    - id: 1
+      name: resolution_time_feedback_survey
+      label: Resolution Time Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How quickly did the team respond to your issue?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Immediately'', ''value'': ''Immediately''}'
+      - '{''label'': ''Within 1 day'', ''value'': ''Within 1 day''}'
+      - '{''label'': ''Within 3 days'', ''value'': ''Within 3 days''}'
+      - '{''label'': ''Within 1 week'', ''value'': ''Within 1 week''}'
+      - '{''label'': ''Never'', ''value'': ''Never''}'
+      required: true
+    - id: 3
+      name: question_2
+      label: How quickly was the issue resolved?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Immediately'', ''value'': ''Immediately''}'
+      - '{''label'': ''Within 1 day'', ''value'': ''Within 1 day''}'
+      - '{''label'': ''Within 3 days'', ''value'': ''Within 3 days''}'
+      - '{''label'': ''Within 1 week'', ''value'': ''Within 1 week''}'
+      - '{''label'': ''Never'', ''value'': ''Never''}'
+      required: true
+    - id: 4
+      name: question_3
+      label: How often do you usually contact support teams?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Rarely'', ''value'': ''Rarely''}'
+      - '{''label'': ''Occasionally'', ''value'': ''Occasionally''}'
+      - '{''label'': ''Frequently'', ''value'': ''Frequently''}'
+      - '{''label'': ''Almost always'', ''value'': ''Almost always''}'
+      required: false
+    - id: 5
+      name: question_4
+      label: How quickly do you usually get a response from the support team?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Immediately'', ''value'': ''Immediately''}'
+      - '{''label'': ''Within 1 hour'', ''value'': ''Within 1 hour''}'
+      - '{''label'': ''Within 1-2 hours'', ''value'': ''Within 1-2 hours''}'
+      - '{''label'': ''Within 6-12 hours'', ''value'': ''Within 6-12 hours''}'
+      - '{''label'': ''Never'', ''value'': ''Never''}'
+      required: true
+    - id: 6
+      name: feedback
+      label: Any additional feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

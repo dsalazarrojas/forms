@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Working Declaration Form
+    pages:
+    - id: 1
+      name: work_declaration_form
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: work_location
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: true
+    - id: 3
+      name: work_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: work_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: work_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: work_address
+      label: Work Address
+      hint: null
+      type: text
+      options: []
+      required: false

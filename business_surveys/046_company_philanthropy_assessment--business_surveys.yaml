@@ -1,0 +1,51 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Philanthropy Assessment
+    pages:
+      - id: 1
+        name: respondent_role
+        label: Respondent role
+        hint: Executive, HR, CSR, Employee
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: giving_priorities
+        label: Giving priorities
+        hint: Which causes are prioritized
+        type: select_multiple
+        options: [Education, Health, Environment, Social services, Arts]
+        required: false
+      - id: 3
+        name: employee_engagement
+        label: Employee engagement in giving
+        hint: Level of employee participation
+        type: select_one
+        options: [High, Moderate, Low]
+        required: false
+      - id: 4
+        name: measurement_of_impact
+        label: Measurement of impact
+        hint: How does the company measure philanthropic impact
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: budget_allocation
+        label: Annual budget allocation for philanthropy
+        hint: Approximate percentage or amount
+        type: text
+        options: []
+        required: false

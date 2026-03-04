@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Blood Pressure Calculator
+    pages:
+    - id: 1
+      name: calculator_header
+      label: Blood Pressure Calculator
+      hint: Calculate and assess your blood pressure readings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: For assessment
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
+      required: false
+    - id: 5
+      name: measurement_date
+      label: Measurement Date
+      hint: When was reading taken
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: measurement_time
+      label: Measurement Time
+      hint: Time of reading
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: systolic_pressure
+      label: Systolic Pressure
+      hint: Top number in mmHg
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: diastolic_pressure
+      label: Diastolic Pressure
+      hint: Bottom number in mmHg
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: heart_rate
+      label: Heart Rate
+      hint: Pulse in BPM
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: which_arm
+      label: Which Arm
+      hint: Where was measurement taken
+      type: select_one
+      options:
+      - Right Arm
+      - Left Arm
+      - Both Arms
+      required: true
+    - id: 11
+      name: body_position
+      label: Body Position
+      hint: Position during measurement
+      type: select_one
+      options:
+      - Sitting
+      - Standing
+      - Lying Down
+      required: true
+    - id: 12
+      name: activity_before
+      label: Activity Before Measurement
+      hint: What were you doing before
+      type: select_one
+      options:
+      - Resting
+      - Walking
+      - Exercise
+      - Eating
+      - Stressed
+      required: false
+    - id: 13
+      name: caffeine_intake
+      label: Caffeine Intake
+      hint: Did you have caffeine
+      type: select_one
+      options:
+      - Yes Within 30 Minutes
+      - Yes Within 2 Hours
+      - false
+      required: false
+    - id: 14
+      name: bp_category
+      label: Blood Pressure Category
+      hint: Calculated result
+      type: select_one
+      options:
+      - Normal
+      - Elevated
+      - High Stage 1
+      - High Stage 2
+      - Hypertensive Crisis
+      required: true
+    - id: 15
+      name: pulse_pressure
+      label: Pulse Pressure
+      hint: Difference between systolic and diastolic
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: map_calculation
+      label: Mean Arterial Pressure
+      hint: MAP value
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: symptoms
+      label: Current Symptoms
+      hint: Any symptoms experienced
+      type: select_multiple
+      options:
+      - None
+      - Headache
+      - Dizziness
+      - Chest Pain
+      - Shortness of Breath
+      - Blurred Vision
+      - Nausea
+      required: false
+    - id: 18
+      name: medications
+      label: Blood Pressure Medications
+      hint: Are you on BP medication
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: medication_list
+      label: Medication List
+      hint: List medications if yes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any related conditions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: doctor_notification
+      label: Notify Doctor
+      hint: Should your doctor be notified
+      type: select_one
+      options:
+      - Yes Please Notify
+      - No I Will Contact
+      - Not Needed
+      required: false
+    - id: 22
+      name: follow_up_recommended
+      label: Follow-Up Recommended
+      hint: Based on reading
+      type: select_one
+      options:
+      - Routine Follow-Up
+      - Soon Within Week
+      - Urgent Same Day
+      - Emergency Care
+      required: true
+    - id: 23
+      name: notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Marketing Leadership Survey
+    pages:
+    - id: 1
+      name: survey_strategy
+      label: Marketing strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: best_practices
+      label: Best practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: challenges_faced
+      label: Challenges faced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organizational_growth
+      label: Organizational growth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: marketing_leadership_style
+      label: Marketing leadership style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''Transformational'', ''label'': ''Transformational''}'
+      - '{''id'': 11, ''name'': ''Transactional'', ''label'': ''Transactional''}'
+      - '{''id'': 12, ''name'': ''None of the above'', ''label'': ''None of the above''}'
+      required: false
+    - id: 6
+      name: marketing_leadership_role
+      label: Marketing leadership role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_length
+      label: Survey length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: marketing_leadership_survey_length
+      label: How long have you been in a marketing leadership role?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 20, ''name'': ''1-5 years'', ''label'': ''1-5 years''}'
+      - '{''id'': 21, ''name'': ''5-10 years'', ''label'': ''5-10 years''}'
+      - '{''id'': 22, ''name'': ''10+ years'', ''label'': ''10+ years''}'
+      - '{''id'': 23, ''name'': ''None of the above'', ''label'': ''None of the above''}'
+      required: false
+    - id: 9
+      name: marketing_leadership_survey_frequency
+      label: How often do you complete these surveys?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 24, ''name'': ''Always'', ''label'': ''Always''}'
+      - '{''id'': 25, ''name'': ''Rarely'', ''label'': ''Rarely''}'
+      - '{''id'': 26, ''name'': ''Sometimes'', ''label'': ''Sometimes''}'
+      required: false

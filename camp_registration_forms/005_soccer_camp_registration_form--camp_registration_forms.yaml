@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Camp Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: Phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: registration_date
+      label: registration date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: camp_type
+      label: camp type
+      hint: null
+      type: select_one
+      options:
+      - Soccer Camp
+      - Summer Camp
+      - Sports Camp
+      required: true
+    - id: 8
+      name: player_details
+      label: player details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: parent_permission
+      label: parent permission
+      hint: Parent permission
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: player_name
+      label: player name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: birth_date
+      label: birth date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact
+      label: emergency contact
+      hint: Emergency contact
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open Educational Policy Implementation Survey
+    pages:
+    - id: 1
+      name: policy_awareness
+      label: Policy awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: policy_effectiveness
+      label: Policy effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: challenges
+      label: Challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: key_stakeholders
+      label: Key stakeholders
+      hint: null
+      type: select_one
+      options:
+      - stakeholders
+      - institutions
+      required: false
+    - id: 5
+      name: stakeholder_relationships
+      label: Stakeholder relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: awareness_and_challenges
+      label: Awareness and challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

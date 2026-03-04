@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Exhibition Volunteer Attendance Form
+    pages:
+    - id: 1
+      name: exhibition_date
+      label: Exhibition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: exhibition_time
+      label: Exhibition Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_email
+      label: Volunteer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_phone
+      label: Volunteer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''08:00-12:00''}'
+      - '{''value'': ''12:00-16:00''}'
+      - '{''value'': ''16:00-20:00''}'
+      required: false
+    - id: 7
+      name: confirmed
+      label: Confirmed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_at
+      label: Form Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false

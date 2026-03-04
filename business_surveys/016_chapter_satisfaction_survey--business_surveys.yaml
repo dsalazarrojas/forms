@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Satisfaction Survey
+    pages:
+    - id: 1
+      name: section_membership_profile
+      label: -- Membership Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: chapter_membership_years
+      label: Years of Membership
+      hint: How long have you been a member of this chapter?
+      type: select_one
+      options:
+      - Less than 1 Year
+      - 1-3 Years
+      - 4-6 Years
+      - 7-10 Years
+      - More than 10 Years
+      required: true
+    - id: 3
+      name: member_participation_level
+      label: Level of Participation
+      hint: Select the most accurate description of your activity
+      type: select_one
+      options:
+      - Very Active (Attend most events/meetings)
+      - Active (Attend about half of events/meetings)
+      - Occasionally Active (Attend few events/meetings)
+      - Inactive (Rarely attend events/meetings)
+      required: true
+    - id: 4
+      name: section_overall_satisfaction
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: chapter_experience_satisfaction
+      label: Overall Chapter Experience Satisfaction
+      hint: Rate from 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: value_of_membership_rating
+      label: Value of Membership vs. Dues
+      hint: Do you feel the value justifies the membership cost?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_leadership_and_events
+      label: -- Leadership and Events --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: chapter_leadership_effectiveness
+      label: Chapter Leadership Effectiveness
+      hint: Rate how well the chapter is being led
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: event_quality_and_relevance
+      label: Quality and Relevance of Chapter Events
+      hint: Rate the meetings, socials, and service projects
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: communication_from_leadership
+      label: Quality of Communication from Leadership
+      hint: Is the information shared clear and timely?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: section_member_engagement
+      label: -- Member Engagement and Inclusion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: welcome_inclusion_for_members
+      label: Feeling of Welcome and Inclusion
+      hint: Do you feel included in the chapter community?
+      type: select_one
+      options:
+      - Always Welcome
+      - Mostly Welcome
+      - Sometimes Welcome
+      - Rarely Welcome
+      - Not Welcome
+      required: true
+    - id: 13
+      name: opportunity_for_leadership_roles
+      label: Opportunity for Leadership Roles
+      hint: Are there clear pathways to serve in leadership?
+      type: select_one
+      options:
+      - Yes - Clear Pathways
+      - Somewhat - Some Pathways
+      - No - Unclear Pathways
+      - I am Not Interested in Leadership
+      required: true
+    - id: 14
+      name: section_feedback_and_improvement
+      label: -- Feedback and Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: primary_benefit_of_membership
+      label: What is the primary benefit of your membership?
+      hint: Select the most important factor
+      type: select_one
+      options:
+      - Networking and Professional Growth
+      - Social Connections and Friendships
+      - Community Service and Philanthropy
+      - Personal Development and Skills
+      - Mentorship
+      - Other
+      required: true
+    - id: 16
+      name: suggestions_for_new_events
+      label: Suggestions for New Events or Programs
+      hint: What would you like to see the chapter do next?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: areas_needing_most_improvement
+      label: Areas Needing the Most Improvement
+      hint: Please be specific and constructive
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: likelihood_of_renewal_membership
+      label: Likelihood of Membership Renewal
+      hint: How likely are you to renew your membership?
+      type: select_one
+      options:
+      - Definitely Will Renew
+      - Probably Will Renew
+      - Undecided
+      - Probably Will Not Renew
+      - Definitely Will Not Renew
+      required: true
+    - id: 19
+      name: recommendation_to_others_rating
+      label: Likelihood of Recommending the Chapter
+      hint: Would you recommend this chapter to a friend or colleague?
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: section_final_thoughts
+      label: -- Final Thoughts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments_satisfaction
+      label: Additional Comments or Feedback
+      hint: Any other thoughts you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_of_survey_completion
+      label: Date of Completion
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: accuracy_confirmation_member
+      label: Confirmation of Feedback
+      hint: I confirm that I am providing my honest and fair feedback
+      type: select_one
+      options:
+      - I Confirm and Submit
+      - Other
+      required: true

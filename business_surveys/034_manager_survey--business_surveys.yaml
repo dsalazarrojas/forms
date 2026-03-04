@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager Survey
+    pages:
+    - id: 1
+      name: page_title
+      label: Page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: questions_1
+      label: Questions 1
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 3
+      name: questions_2
+      label: Questions 2
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 4
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_title_2
+      label: Page 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: questions_3
+      label: Questions 3
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 10
+      name: questions_4
+      label: Questions 4
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: page_title_3
+      label: Page 3
+      hint: null
+      type: note
+      options: []
+      required: false

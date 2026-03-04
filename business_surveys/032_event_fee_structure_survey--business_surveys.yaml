@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Fee Structure Survey
+    pages:
+    - id: 1
+      name: event_organizer
+      label: Event Organiser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_organizer_email
+      label: Event Organiser Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_fee
+      label: Event Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: event_fee_structure
+      label: Event Fee Structure
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 8
+      name: event_fees
+      label: Event Fees
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      required: true
+    - id: 9
+      name: event_organizer_note
+      label: Event Organiser Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_organizer_phone
+      label: Event Organiser Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_other_comments
+      label: Submitter Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 22
+      name: event_type_other
+      label: Event Type Other
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: event_fees_structure_other
+      label: Event Fee Structure Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: note
+      options: []
+      required: false

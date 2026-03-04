@@ -1,0 +1,118 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Support Office Check In Form
+    pages:
+      - id: 1
+        name: section_visitor_info
+        label: -- Visitor Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: visitor_name
+        label: Visitor Full Name
+        hint: Name of person checking in
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: case_number_inquiry
+        label: Case Number - if known
+        hint: For faster processing
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: section_visit_purpose
+        label: -- Visit Purpose --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: visit_reason
+        label: Reason for Visit
+        hint: Select the primary purpose
+        type: select_one
+        options:
+          - label: Scheduled Appointment
+            value: appointment
+          - label: Walk-in Inquiry
+            value: walkin
+          - label: Dropping off Documents
+            value: documents
+          - label: Payment Assistance
+            value: payment
+        required: true
+      - id: 6
+        name: section_appointment_details
+        label: -- Appointment Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: has_scheduled_appt
+        label: Do you have a scheduled appointment today?
+        hint: Verification of scheduling
+        type: select_one
+        options:
+          - label: Yes
+            value: yes
+          - label: No
+            value: no
+        required: true
+      - id: 8
+        name: case_worker_name
+        label: Name of Case Worker - if known
+        hint: Person you are meeting with
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: section_comm_pref
+        label: -- Communication Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: contact_method_pref
+        label: Preferred contact method for follow-up
+        hint: How should we reach you?
+        type: select_one
+        options:
+          - label: Phone Call
+            value: phone
+          - label: Email Update
+            value: email
+          - label: Standard Mail
+            value: mail
+        required: true
+      - id: 11
+        name: visitor_email
+        label: Email Address
+        hint: For digital notifications
+        type: email
+        options: []
+        required: true
+      - id: 12
+        name: check_in_time
+        label: Check-in Time
+        hint: Time of arrival
+        type: time
+        options: []
+        required: true

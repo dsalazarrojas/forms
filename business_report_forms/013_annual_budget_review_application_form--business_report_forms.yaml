@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Budget Review Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Name
+      hint: Person submitting the budget review
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or division
+      type: select_one
+      options:
+      - Finance
+      - Operations
+      - Marketing
+      - Sales
+      - Human Resources
+      - IT
+      - Research and Development
+      - Customer Service
+      - Executive
+      - Other
+      required: true
+    - id: 5
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: review_period
+      label: Budget Review Period
+      hint: Which period is this review for?
+      type: select_one
+      options:
+      - Fiscal Year 2026
+      - Fiscal Year 2025
+      - Fiscal Year 2024
+      - Q4 2026
+      - Q3 2026
+      - Other
+      required: true
+    - id: 7
+      name: budget_category
+      label: Budget Category
+      hint: What category is this review for?
+      type: select_one
+      options:
+      - Operating Budget
+      - Capital Budget
+      - Project Budget
+      - Department Budget
+      - Company-Wide Budget
+      - Other
+      required: true
+    - id: 8
+      name: previous_budget_allocated
+      label: Previous Budget Allocated
+      hint: Amount from previous period
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: previous_budget_spent
+      label: Previous Budget Spent
+      hint: Actual amount spent
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: budget_variance
+      label: Budget Variance
+      hint: Difference between allocated and spent
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: variance_explanation
+      label: Variance Explanation
+      hint: Explain any significant variances
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requested_budget
+      label: Requested Budget Amount
+      hint: Amount requested for next period
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: budget_increase_percentage
+      label: Budget Increase Percentage
+      hint: Percentage change from previous
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: budget_justification
+      label: Budget Justification
+      hint: Explain why this budget is needed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: key_initiatives
+      label: Key Initiatives
+      hint: What will this budget support?
+      type: select_multiple
+      options:
+      - Staff Expansion
+      - Technology Upgrades
+      - Marketing Campaigns
+      - Equipment Purchase
+      - Training and Development
+      - Research Projects
+      - Facility Improvements
+      - Cost Reduction
+      - Revenue Growth
+      - Other
+      required: true
+    - id: 16
+      name: expected_roi
+      label: Expected Return on Investment
+      hint: Expected benefits or ROI
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: risk_factors
+      label: Risk Factors
+      hint: Potential risks to budget execution
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cost_saving_measures
+      label: Cost Saving Measures
+      hint: Planned cost reductions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: staffing_changes
+      label: Staffing Changes
+      hint: Planned hiring or reductions
+      type: select_one
+      options:
+      - No Changes
+      - Adding Positions
+      - Reducing Positions
+      - Restructuring
+      - Other
+      required: true
+    - id: 20
+      name: staffing_details
+      label: Staffing Details
+      hint: Describe planned changes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: capital_expenditures
+      label: Capital Expenditures
+      hint: Planned capital purchases
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: approval_status
+      label: Current Approval Status
+      hint: Where is this in the approval process?
+      type: select_one
+      options:
+      - Draft
+      - Submitted for Review
+      - Under Review
+      - Approved
+      - Rejected
+      - Needs Revision
+      required: true
+    - id: 23
+      name: approver_name
+      label: Approver Name
+      hint: Who is reviewing this budget?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List attached documentation
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

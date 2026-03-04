@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: unclaimed_property_verification_checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: verification_teams
+      label: Verification Teams
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: claimant_info
+      label: Claimant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_reviewed
+      label: Time Reviewed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: verified_on
+      label: Verified On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: verified_by_name
+      label: Verified By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: verification_status
+      label: Verification Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: review_type
+      label: Review Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: uploaded_documents
+      label: Uploaded Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: uploaded_documents_2
+      label: More Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: uploaded_documents_3
+      label: Additional Documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: uploaded_documents_4
+      label: Further Documents
+      hint: null
+      type: text
+      options: []
+      required: true

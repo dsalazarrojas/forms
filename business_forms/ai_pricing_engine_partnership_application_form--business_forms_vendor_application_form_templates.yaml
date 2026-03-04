@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Pricing Engine Partnership Application Form
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Partnership Application Overview ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Enter your organization's legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_name
+      label: Contact person full name
+      hint: The primary contact for this partnership inquiry
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Contact email address
+      hint: We'll use this for all partnership communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Contact phone number
+      hint: Include country code if international
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: company_size
+      label: Company size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - 1000+ employees
+      required: true
+    - id: 7
+      name: industry_sector
+      label: Industry sector
+      hint: Select the primary industry your company operates in
+      type: select_one
+      options:
+      - SaaS/Software
+      - E-commerce/Retail
+      - Healthcare
+      - Finance/Banking
+      - Manufacturing
+      - Education
+      - Media/Entertainment
+      - Other
+      required: true
+    - id: 8
+      name: current_pricing_solution
+      label: Current pricing solution used
+      hint: What pricing engine or system do you currently use?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: partnership_type
+      label: Type of partnership interested in
+      hint: Select the most relevant partnership model
+      type: select_multiple
+      options:
+      - Reseller
+      - Technology integration
+      - Joint marketing
+      - Referral program
+      - Custom solution development
+      required: true
+    - id: 10
+      name: expected_annual_volume
+      label: Expected annual transaction volume
+      hint: Estimated number of transactions per year
+      type: integer
+      options: []
+      required: false
+    - id: 11
+      name: estimated_monthly_revenue
+      label: Estimated monthly revenue from pricing engine
+      hint: In USD (thousands)
+      type: decimal
+      options: []
+      required: false
+    - id: 12
+      name: implementation_timeline
+      label: Desired implementation timeline
+      hint: When would you like to start using our solution?
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: technical_integration_complexity
+      label: Technical integration complexity
+      hint: How complex do you anticipate the integration will be?
+      type: select_one
+      options:
+      - Very simple (API integration)
+      - Moderate (custom connector needed)
+      - Complex (deep system integration)
+      - Unknown
+      required: false
+    - id: 14
+      name: integration_requirements
+      label: Specific integration requirements
+      hint: Any special technical requirements or constraints?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: compliance_requirements
+      label: Compliance requirements
+      hint: Any regulatory or compliance standards we should be aware of?
+      type: select_multiple
+      options:
+      - GDPR
+      - HIPAA
+      - PCI DSS
+      - SOX
+      - CCPA
+      - ISO 27001
+      - None
+      required: false
+    - id: 16
+      name: partnership_expectations
+      label: What are your expectations from this partnership?
+      hint: Describe your goals and what you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: previous_partnership_experience
+      label: Previous partnership experience
+      hint: Have you partnered with similar technology providers before?
+      type: select_one
+      options:
+      - Yes, extensive experience
+      - Yes, limited experience
+      - No, this would be our first
+      required: false
+    - id: 18
+      name: decision_maker
+      label: Are you the primary decision maker?
+      hint: For partnership approval and contract signing
+      type: select_one
+      options:
+      - true
+      - No, I'll connect you with the decision maker
+      - Part of decision committee
+      required: false
+    - id: 19
+      name: additional_contacts
+      label: Additional contacts for this partnership
+      hint: Names and roles of other stakeholders involved
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: application_submission_date
+      label: Application submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you'd like us to know
+      type: text
+      options: []
+      required: false

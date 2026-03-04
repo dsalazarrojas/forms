@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Check In Form
+    pages:
+    - id: 1
+      name: check_in_form
+      label: Check In Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: office_location
+      label: office_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_visit
+      label: Reason For Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''chatjimmy''}'
+      - '{''name'': ''johndoe''}'
+      - '{''name'': ''janedoe''}'
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''google_forms''}'
+      - '{''name'': ''google_sheets''}'
+      - '{''name'': ''jupyter''}'
+      required: false
+    - id: 14
+      name: check_in_status
+      label: Check In Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''checked in''}'
+      - '{''name'': ''checked out''}'
+      - '{''name'': ''unknown''}'
+      required: false
+    - id: 15
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''user1''}'
+      - '{''name'': ''user2''}'
+      - '{''name'': ''user3''}'
+      required: false
+    - id: 16
+      name: form_submitted_from
+      label: Form Submitted From
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''desktop''}'
+      - '{''name'': ''mobile''}'
+      required: false
+    - id: 17
+      name: check_in_time_duration
+      label: Check In Time Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: check_in_frequency
+      label: Check In Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''once''}'
+      - '{''name'': ''multiple''}'
+      - '{''name'': ''daily''}'
+      required: false
+    - id: 19
+      name: check_in_type
+      label: Check In Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''checkin''}'
+      - '{''name'': ''visit''}'
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: office_address
+      label: Office Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: office_location_map
+      label: Office Location Map
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: office_notes
+      label: Office Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: office_status
+      label: Office Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''active''}'
+      - '{''name'': ''inactive''}'
+      required: false
+    - id: 26
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

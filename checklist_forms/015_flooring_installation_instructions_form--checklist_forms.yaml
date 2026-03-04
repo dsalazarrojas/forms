@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flooring Installation Instructions Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: flooring_type
+      label: flooring type
+      hint: null
+      type: select_one
+      options:
+      - laminate
+      - hardwood
+      - carpet
+      - tile
+      - luxury vinyl
+      required: false
+    - id: 3
+      name: flooring_area
+      label: flooring area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: room
+      label: room
+      hint: null
+      type: select_multiple
+      options:
+      - living room
+      - kitchen
+      - bathroom
+      - bedroom
+      - hallway
+      required: false
+    - id: 5
+      name: room_count
+      label: room count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: flooring_length
+      label: flooring length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: installation_type
+      label: installation type
+      hint: null
+      type: select_one
+      options:
+      - in-place
+      - drop-in
+      - glue-down
+      required: false
+    - id: 8
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: installer_name
+      label: installer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: installer_phone
+      label: installer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_lead
+      label: project lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: site_contact
+      label: site contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: site_phone
+      label: site phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: site_email
+      label: site email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: installation_notes
+      label: installation notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: completion_notes
+      label: completion notes
+      hint: null
+      type: note
+      options: []
+      required: false

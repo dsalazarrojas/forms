@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Workforce Optimization Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Software Engineer''}'
+      - '{''id'': 2, ''value'': ''Data Scientist''}'
+      - '{''id'': 3, ''value'': ''Operations Manager''}'
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Engineering''}'
+      - '{''id'': 2, ''value'': ''Finance''}'
+      - '{''id'': 3, ''value'': ''Sales''}'
+      required: false
+    - id: 7
+      name: start_date
+      label: Start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: Manager email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_phone
+      label: Manager phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reporting_line
+      label: Reporting line
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Direct''}'
+      - '{''id'': 2, ''value'': ''Indirect''}'
+      required: false
+    - id: 14
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Marketing''}'
+      - '{''id'': 2, ''value'': ''Sales''}'
+      - '{''id'': 3, ''value'': ''Support''}'
+      required: false
+    - id: 15
+      name: job_type
+      label: Job type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Full time''}'
+      - '{''id'': 2, ''value'': ''Part time''}'
+      - '{''id'': 3, ''value'': ''Contract''}'
+      required: false
+    - id: 16
+      name: salary_range
+      label: Salary range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: manager_salary_range
+      label: Manager salary range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: work_location
+      label: Work location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''On site''}'
+      - '{''id'': 2, ''value'': ''Remote''}'
+      - '{''id'': 3, ''value'': ''Hybrid''}'
+      required: false
+    - id: 19
+      name: work_hours
+      label: Work hours
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''8 am - 5 pm''}'
+      - '{''id'': 2, ''value'': ''10 am - 7 pm''}'
+      required: false
+    - id: 20
+      name: vacation_days
+      label: Vacation days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: sick_leave_days
+      label: Sick leave days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: paid_holidays
+      label: Paid holidays
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: performance_reviews
+      label: Performance reviews
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Quarterly''}'
+      - '{''id'': 2, ''value'': ''Bi-annually''}'
+      - '{''id'': 3, ''value'': ''Annually''}'
+      required: false
+    - id: 24
+      name: performance_review_comments
+      label: Performance review comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: time
+      options: []
+      required: false

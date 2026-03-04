@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Distribution Partner Report
+    pages:
+    - id: 1
+      name: monthly_distributions
+      label: monthly_distributions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: partner_name
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: partner_address
+      label: partner_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sales
+      label: sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sales_target
+      label: sales_target
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: inventory
+      label: inventory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: partner_comments
+      label: partner_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 9
+      name: form_completed
+      label: form_completed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false

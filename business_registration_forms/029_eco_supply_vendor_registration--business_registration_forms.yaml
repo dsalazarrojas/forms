@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Supply Vendor Registration
+    pages:
+    - id: 1
+      name: basic_details
+      label: Basic Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: eco_offerings
+      label: Eco-Friendly Offerings
+      hint: Please list your eco-friendly offerings.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_one
+      options:
+      - certified
+      - not_certified
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

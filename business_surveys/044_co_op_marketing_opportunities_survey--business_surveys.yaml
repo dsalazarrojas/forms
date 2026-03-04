@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Co-Op Marketing Opportunities Survey
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Primary Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_type
+      label: Business Type or Industry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_interests
+      label: -- Marketing Collaboration Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: marketing_initiatives
+      label: Which co-op marketing initiatives are you interested in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Shared Social Media Campaigns
+      - Co-Branded Events
+      - Joint Email Newsletters
+      - Shared Advertising Space
+      - Referral Programs
+      required: false
+    - id: 6
+      name: marketing_goal
+      label: What is your primary goal for participating in co-op marketing?
+      hint: null
+      type: select_one
+      options:
+      - Reach New Audiences
+      - Reduce Marketing Costs
+      - Brand Alignment
+      - Increased Sales
+      required: true
+    - id: 7
+      name: section_contribution
+      label: -- Resource Contribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contributed_resources
+      label: What resources can your business contribute to a partnership?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Graphic Design
+      - Social Media Reach
+      - Physical Event Space
+      - Budget
+      - Customer Mailing List
+      required: false
+    - id: 9
+      name: monthly_budget_estimate
+      label: What is your estimated monthly budget for collaborative marketing?
+      hint: Enter amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_alignment
+      label: -- Strategic Alignment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: target_demographic
+      label: Please describe your target customer demographic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dream_partnerships
+      label: List up to 3 brands you would ideally like to collaborate with
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_next_steps
+      label: -- Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: discovery_call_interest
+      label: Would you like to schedule a discovery call for potential partnerships?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: meeting_time_pref
+      label: Preferred time for an initial partnership meeting
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false

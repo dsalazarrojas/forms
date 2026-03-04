@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: r2ise_peer_check_in_report
+    pages:
+    - id: 1
+      name: sign_in
+      label: Sign In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: peer_check_in
+      label: Peer Check In
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: check_in_type
+      label: Check In Type
+      hint: null
+      type: select_one
+      options:
+      - peer
+      - peer_sign_in
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: check_in
+      label: Check In
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: check_in_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: check_in_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: check_in_date_range
+      label: Date Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: check_in_time_range
+      label: Time Range
+      hint: null
+      type: text
+      options: []
+      required: false

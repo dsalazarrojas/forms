@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Reporting Checklist
+    pages:
+    - id: 1
+      name: reporting_period_info
+      label: -- Reporting Period Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_month
+      label: Reporting Month and Year
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_manager
+      label: Account Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: executive_summary_section
+      label: -- Executive Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: summary_highlights
+      label: Key highlights and accomplishments this period
+      hint: Brief summary of major achievements
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: overall_status
+      label: Overall Project Status
+      hint: null
+      type: select_one
+      options:
+      - On Track
+      - Slightly Behind
+      - Behind Schedule
+      - At Risk
+      - Completed
+      required: true
+    - id: 9
+      name: milestones_completed
+      label: Milestones Completed This Period
+      hint: List key milestones achieved
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: metrics_section
+      label: -- Key Performance Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: kpi_one_name
+      label: KPI 1 - Name
+      hint: What metric are you tracking?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: kpi_one_value
+      label: KPI 1 - Current Value
+      hint: Numeric value
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: kpi_one_target
+      label: KPI 1 - Target
+      hint: Target or goal value
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: kpi_two_name
+      label: KPI 2 - Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: kpi_two_value
+      label: KPI 2 - Current Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: kpi_two_target
+      label: KPI 2 - Target
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: deliverables_section
+      label: -- Deliverables and Outputs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: deliverables_completed
+      label: Deliverables Completed
+      hint: List all completed deliverables
+      type: select_multiple
+      options:
+      - Reports
+      - Recommendations
+      - Strategy Document
+      - Training Materials
+      - Implementation Plan
+      - Analytics Dashboard
+      - Other
+      required: true
+    - id: 19
+      name: deliverables_pending
+      label: Pending or In-Progress Deliverables
+      hint: Describe what is still in progress
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: challenges_section
+      label: -- Challenges and Solutions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: challenges_faced
+      label: Any challenges or obstacles encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: solutions_implemented
+      label: Solutions or mitigation steps taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_steps_section
+      label: -- Next Steps and Outlook --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: planned_activities
+      label: Planned activities for next reporting period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: upcoming_milestones
+      label: Upcoming milestones or deadlines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: client_feedback_section
+      label: -- Client Feedback and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: feedback_needed
+      label: Type of feedback or client input needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: any_concerns
+      label: Any concerns or issues to address with client?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

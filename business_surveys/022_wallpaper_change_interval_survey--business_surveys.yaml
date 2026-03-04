@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wallpaper Change Interval Survey
+    pages:
+    - id: 1
+      name: wallpaper_change_frequency
+      label: How often do you change your wallpaper?
+      hint: null
+      type: select_one
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 2
+      name: reason_for_change
+      label: Why do you typically change your wallpaper?
+      hint: null
+      type: select_one
+      options:
+      - Aesthetics
+      - Practicality
+      - Maintenance
+      - Others
+      - None of the above
+      required: false
+    - id: 3
+      name: influences_decisions
+      label: What influences your wallpaper decisions?
+      hint: null
+      type: select_multiple
+      options:
+      - Interior designer/consultant
+      - Brand advertising
+      - Social media
+      - Word of mouth
+      - Friends/family
+      - Online research
+      - Others
+      - None of the above
+      required: false
+    - id: 4
+      name: design_style
+      label: What style of wallpaper design do you typically choose?
+      hint: null
+      type: select_multiple
+      options:
+      - Traditional
+      - Modern
+      - Contemporary
+      - Bohemian
+      - Others
+      - None of the above
+      required: false
+    - id: 5
+      name: brand_preference
+      label: Which brand do you usually choose for your wallpaper?
+      hint: null
+      type: select_one
+      options:
+      - Brand A
+      - Brand B
+      - Brand C
+      - Brand D
+      - Others
+      - None of the above
+      required: false
+    - id: 6
+      name: wall_size
+      label: What is your typical wall size for a room?
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra large
+      - Others
+      - None of the above
+      required: false
+    - id: 7
+      name: room_type
+      label: What type of room do you usually wallpaper?
+      hint: null
+      type: select_multiple
+      options:
+      - Living room
+      - Bedroom
+      - Kitchen
+      - Others
+      - None of the above
+      required: false
+    - id: 8
+      name: wallpaper_color
+      label: What color of wallpaper do you usually choose?
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Colorful
+      - Dark/neutral
+      - Pastel/soft
+      - Others
+      - None of the above
+      required: false
+    - id: 9
+      name: change_interval
+      label: How often do you change your wallpaper?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Never
+      required: false
+    - id: 10
+      name: budget
+      label: What is your typical budget for wallpaper?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: income
+      label: What is your monthly income?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: household_members
+      label: How many people live in your household?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: Which region do you live in?
+      hint: null
+      type: select_one
+      options:
+      - Asia
+      - Europe
+      - America
+      - Others
+      - None of the above
+      required: false
+    - id: 15
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Others
+      - None of the above
+      required: false
+    - id: 16
+      name: education_level
+      label: What is your education level?
+      hint: null
+      type: select_multiple
+      options:
+      - Primary school
+      - High school
+      - Tertiary
+      - Others
+      - None of the above
+      required: false
+    - id: 17
+      name: occupation
+      label: What do you do for work?
+      hint: null
+      type: select_multiple
+      options:
+      - Student
+      - Working
+      - Retired
+      - Others
+      - None of the above
+      required: false
+    - id: 18
+      name: annual_income
+      label: What is your annual income?
+      hint: null
+      type: number
+      options: []
+      required: false

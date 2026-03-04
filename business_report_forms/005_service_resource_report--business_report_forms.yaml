@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Resource Report
+    pages:
+    - id: 1
+      name: service_resource_report
+      label: Service Resource Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_resources
+      label: Service Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: resource_ids
+      label: Resource IDs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: resource_status
+      label: Resource Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: resource_availability
+      label: Resource Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: resource_utilization
+      label: Resource Utilization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: resource_utilization_percentage
+      label: Resource Utilization Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: resource_availability_percentage
+      label: Resource Availability Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: resource_tags
+      label: Resource Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

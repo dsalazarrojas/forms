@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Simulation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: simulation_type
+      label: simulation_type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 3
+      name: investment_amount
+      label: investment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: investment_frequency
+      label: investment_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 5
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: investment_horizon
+      label: investment_horizon
+      hint: null
+      type: select_one
+      options:
+      - Short-term
+      - Medium-term
+      - Long-term
+      required: true
+    - id: 7
+      name: investment_goal
+      label: investment_goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: investment_sector
+      label: investment_sector
+      hint: null
+      type: select_multiple
+      options:
+      - Financial services
+      - Real estate
+      - Technology
+      - Other
+      required: false
+    - id: 9
+      name: investment_size
+      label: investment_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: confidence_level
+      label: confidence_level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: investment_return
+      label: investment_return
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - High
+      - Medium
+      required: true

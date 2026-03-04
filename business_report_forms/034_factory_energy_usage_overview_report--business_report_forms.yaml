@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Energy Usage Overview Report
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plant_id
+      label: Plant ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: plant_name
+      label: Plant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_from
+      label: Date From
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_to
+      label: Date To
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: energy_source
+      label: Energy Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: energy_type
+      label: Energy Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: energy_usage
+      label: Energy Usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: efficiency_measures
+      label: Efficiency Measures
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

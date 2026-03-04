@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipal Sludge Disposal Survey
+    pages:
+    - id: 1
+      name: municipal_sludge_disposal_survey
+      label: What is your current sludge treatment process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: municipal_sludge_storage_capacity
+      label: What is the capacity of your sludge storage tanks?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: municipal_treatment_facility_type
+      label: What type of treatment facility do you have?
+      hint: null
+      type: select_one
+      options:
+      - Raw
+      - Stabilized
+      - Anaerobic
+      - Aerobic
+      - Other
+      required: false
+    - id: 4
+      name: municipal_treatment_facility_age
+      label: How long ago was your treatment facility built?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: municipal_treatment_facility_capacity
+      label: What is the capacity of your treatment facility?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: municipal_sludge_disposal_method
+      label: What is your primary sludge disposal method?
+      hint: null
+      type: select_one
+      options:
+      - Landfill
+      - Landfill and Land Application
+      - Ocean Disposal
+      - Other
+      required: false
+    - id: 7
+      name: municipal_sludge_disposal_frequency
+      label: How often is sludge disposed of?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 8
+      name: municipal_sludge_disposal_capacity
+      label: What is the volume of sludge disposed of per year?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: municipal_public_education
+      label: Do you provide regular public education on sludge disposal practices?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: municipal_community_involvement
+      label: Do you involve your community in sludge disposal practices?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: municipal_regulations
+      label: Are there local regulations on sludge disposal?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: municipal_regulations_enforcement
+      label: Are local regulations on sludge disposal enforced?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: municipal_regulations_fines
+      label: Are there fines for non-compliance with local sludge disposal regulations?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: municipal_regulations_fines_frequencies
+      label: How often are fines levied for non-compliance with local sludge disposal
+        regulations?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 15
+      name: other_regulations
+      label: Are there other local regulations or permits required for sludge disposal?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: public_works_department
+      label: Which department handles sludge disposal in your municipality?
+      hint: null
+      type: select_multiple
+      options:
+      - Public Works
+      - Health
+      - Environmental
+      - Other
+      required: false
+    - id: 17
+      name: other_departments_involved
+      label: Which other departments are involved in sludge disposal decision making?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: municipal_sludge_disposal_survey_results
+      label: Do you review form submission results for sludge disposal practices?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: municipal_sludge_disposal_survey_frequency
+      label: How often do you review form submission results for sludge disposal practices?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 20
+      name: municipal_sludge_disposal_survey_feedback
+      label: Do you receive feedback from the public on sludge disposal practices?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: municipal_sludge_disposal_survey_feedback_frequencies
+      label: How often do you receive feedback from the public on sludge disposal
+        practices?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false

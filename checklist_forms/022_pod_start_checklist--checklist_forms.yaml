@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pod Start Checklist
+    pages:
+    - id: 1
+      name: pod_start_checklist_form
+      label: Pod Start Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_launch_team_members
+      label: Project Launch Team
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 3
+      name: project_launch_date
+      label: Project Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: project_launch_time
+      label: Project Launch Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: project_launch_location
+      label: Project Launch Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_launch_budget
+      label: Project Launch Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pod_start_checklist_items
+      label: Pod Start Checklist Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pod_start_checklist_status
+      label: Pod Start Checklist Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: false

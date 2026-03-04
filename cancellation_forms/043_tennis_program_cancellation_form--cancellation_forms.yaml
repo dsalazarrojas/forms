@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tennis Program Cancellation Form
+    pages:
+    - id: 1
+      name: program_cancellation_info
+      label: Program Cancellation Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: tennis_program_id
+      label: Tennis Program Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: reason_for_cancellation
+      label: Reason For Cancellation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: cancellation_time
+      label: Cancellation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: cancellation_message
+      label: Cancellation Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_message
+      label: User Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: staff_message
+      label: Staff Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: staff_response
+      label: Staff Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: deleted_at
+      label: Deleted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: file_attachments
+      label: File Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: staff_notes
+      label: Staff Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: staff_attachments
+      label: Staff Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: attachment_files
+      label: Attachment Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: staff_response
+      label: Staff Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cancellation_status
+      label: Cancellation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

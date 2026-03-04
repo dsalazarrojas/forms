@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Helpdesk Experience Survey
+    pages:
+    - id: 1
+      name: response_time
+      label: Response Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: professionalism
+      label: Professionalism
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: issue_resolution
+      label: Issue Resolution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: support_service
+      label: Support Service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      required: false
+    - id: 6
+      name: email_support
+      label: Email Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 7
+      name: phone_support
+      label: Phone Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false

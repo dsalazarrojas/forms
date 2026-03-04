@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nth Largest Number Calculation Form
+    pages:
+    - id: 1
+      name: nth_largest_number
+      label: nth_largest_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: select_n
+      label: select_n
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: calculate_nth_largest
+      label: calculate_nth_largest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: results
+      label: results
+      hint: null
+      type: text
+      options: []
+      required: false

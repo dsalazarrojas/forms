@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: pax_load_management_survey
+    pages:
+    - id: 1
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flight_date
+      label: Flight Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: flight_time
+      label: Flight Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: flight_type
+      label: Flight Type
+      hint: null
+      type: select_one
+      options:
+      - Flight
+      - Charter
+      - Ferry
+      required: false
+    - id: 5
+      name: flight_status
+      label: Flight Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Departed
+      - Arrived
+      - Canceled
+      required: false
+    - id: 6
+      name: flight_number2
+      label: Flight Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: passenger_type
+      label: Passenger Type
+      hint: null
+      type: select_multiple
+      options:
+      - Adult
+      - Senior
+      - Child
+      required: false
+    - id: 8
+      name: aircraft_type
+      label: Aircraft Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cargo_weight
+      label: Cargo Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

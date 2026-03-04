@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cartographic Production Requirements Survey
+    pages:
+      - id: 1
+        name: section_project_contact
+        label: -- Project Contact Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: project_title
+        label: Map Project Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requestor_name
+        label: Requestor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: requestor_email
+        label: Requestor Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: department_agency
+        label: Department or Agency Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_general_reqs
+        label: -- General Map Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: map_purpose
+        label: Primary Purpose of the Map
+        hint: select the best description
+        type: select_one
+        options:
+          - Strategic Planning
+          - Public Display
+          - Technical Analysis
+          - Navigation
+          - Educational
+          - Legal or Property
+        required: true
+      - id: 8
+        name: target_audience
+        label: Target Audience
+        hint: who will be using the map?
+        type: select_one
+        options:
+          - Internal Staff
+          - General Public
+          - Executive Leadership
+          - Technical Experts
+        required: true
+      - id: 9
+        name: section_spatial_data
+        label: -- Spatial and Data Specifications --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: geographic_scope
+        label: Geographic Area of Coverage
+        hint: describe boundaries or extent
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: coordinate_system
+        label: Preferred Coordinate System or Projection
+        hint: if known, e.g. WGS84, State Plane
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: data_sources
+        label: Provided Data Sources
+        hint: select all that apply
+        type: select_multiple
+        options:
+          - Shapefiles
+          - Excel or CSV
+          - Imagery
+          - Paper Maps
+          - Database Access
+          - GPS Points
+        required: true
+      - id: 13
+        name: required_data_layers
+        label: Layers to be included
+        hint: select essential features
+        type: select_multiple
+        options:
+          - Parcels
+          - Roads
+          - Hydrography
+          - Elevation or Contours
+          - Land Use
+          - Zoning
+          - Demographics
+        required: true
+      - id: 14
+        name: section_cartographic_design
+        label: -- Cartographic Design --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: map_scale
+        label: Preferred Scale
+        hint: e.g. 1 to 24,000
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: output_format
+        label: Final Output Format
+        hint: select one
+        type: select_one
+        options:
+          - Digital (PDF or JPG)
+          - Print (Large Format)
+          - Interactive Web Map
+          - GIS Data Only
+        required: true
+      - id: 17
+        name: color_palette_needs
+        label: Specific color requirements or branding
+        hint: specify colors or style guides
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: section_timeline_priority
+        label: -- Timeline and Priority --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: priority_level
+        label: Priority Level
+        hint: null
+        type: select_one
+        options:
+          - Critical
+          - High
+          - Medium
+          - Low
+        required: true
+      - id: 20
+        name: desired_delivery_date
+        label: Desired Delivery Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 21
+        name: section_additional_reqs
+        label: -- Additional Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: map_elements
+        label: Required Map Elements
+        hint: select essential elements
+        type: select_multiple
+        options:
+          - Legend
+          - Scale Bar
+          - North Arrow
+          - Data Citations
+          - Disclaimer
+          - Title Block
+        required: true
+      - id: 23
+        name: project_limitations
+        label: Known limitations or constraints
+        hint: budget, data gaps, or accessibility
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: section_approval
+        label: -- Approval --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: supervisor_approval
+        label: I confirm I have authorized this production request
+        hint: Type name as digital signature
+        type: text
+        options: []
+        required: true

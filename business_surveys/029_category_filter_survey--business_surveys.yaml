@@ -1,0 +1,157 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Category Filter Survey
+    pages:
+      - id: 1
+        name: intro_header
+        label: -- Filter Usability Feedback --
+        hint: Help us improve how you find products and content
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: device_used
+        label: What device are you using today
+        hint: null
+        type: select_one
+        options:
+          - "Mobile (iPhone/Android)"
+          - "Tablet"
+          - "Desktop/Laptop"
+        required: true
+      - id: 3
+        name: browser_type
+        label: Browser Used
+        hint: e.g. Chrome, Safari, Firefox
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: section_usability
+        label: -- Filter Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: filter_finding_ease
+        label: How easy was it to find the category filters
+        hint: null
+        type: select_one
+        options:
+          - "Very Easy"
+          - "Somewhat Easy"
+          - "Difficult"
+          - "I could not find them"
+        required: true
+      - id: 6
+        name: filter_naming_clarity
+        label: Are the filter category names clear and understandable
+        hint: null
+        type: select_one
+        options:
+          - "Yes, very clear"
+          - "Mostly clear"
+          - "Somewhat confusing"
+          - "No, very confusing"
+        required: true
+      - id: 7
+        name: filter_usefulness_rating
+        label: How useful were the current filter options
+        hint: null
+        type: select_one
+        options:
+          - "5 - Extremely Useful"
+          - "4"
+          - "3"
+          - "2"
+          - "1 - Not Useful"
+        required: true
+      - id: 8
+        name: missing_filters
+        label: Are there any filters you expected to see but did not
+        hint: Please describe
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: section_technical
+        label: -- Technical Performance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: filter_speed_rating
+        label: Rate the speed of results updating when a filter is applied
+        hint: null
+        type: select_one
+        options:
+          - "Instant"
+          - "Acceptable"
+          - "Slow"
+          - "Extremely Slow/Crashed"
+        required: true
+      - id: 11
+        name: visual_design_rating
+        label: Rate the visual design of the filter menu
+        hint: null
+        type: select_one
+        options:
+          - "Professional and Clean"
+          - "Functional but Boring"
+          - "Cluttered/Hard to read"
+        required: false
+      - id: 12
+        name: overall_filtering_satisfaction
+        label: Overall, how satisfied are you with the filtering experience
+        hint: null
+        type: select_one
+        options:
+          - "Highly Satisfied"
+          - "Satisfied"
+          - "Neutral"
+          - "Dissatisfied"
+        required: true
+      - id: 13
+        name: improvement_suggestions
+        label: How can we make our filters better for you
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: future_testing_interest
+        label: Would you like to be part of our Beta Testing group
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 15
+        name: contact_email
+        label: Your Email (if interested in testing)
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 16
+        name: submission_date
+        label: Submission Date
+        hint: null
+        type: date
+        options: []
+        required: true

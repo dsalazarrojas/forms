@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Communications Transparency Survey
+    pages:
+    - id: 1
+      name: business_surveys
+      label: Business Surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_surveys
+      label: Employee Surveys
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Business
+      required: false
+    - id: 3
+      name: survey_effectiveness
+      label: Survey Effectiveness
+      hint: How would you rate the effectiveness of our internal surveys?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - intranet
+      required: false
+    - id: 5
+      name: trust_level
+      label: Trust Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: transparency_level
+      label: Transparency Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: internal_communications
+      label: Internal Communications
+      hint: How would you rate the quality of our internal communications?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: survey_frequency
+      label: Survey Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 10
+      name: feedback_channel
+      label: Feedback Channel
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - chat
+      required: false
+    - id: 11
+      name: communication_style
+      label: Communication Style
+      hint: How would you rate our communication style?
+      type: number
+      options: []
+      required: false

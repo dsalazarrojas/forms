@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Conservation Awareness Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: section-1-label
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option-1-label''}'
+      - '{''label'': ''option-2-label''}'
+      required: false
+    - id: 3
+      name: section_2
+      label: section-2-label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''option-1-label''}'
+      - '{''label'': ''option-2-label''}'
+      - '{''label'': ''option-3-label''}'
+      required: false
+    - id: 4
+      name: section_3
+      label: section-3-label
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option-1-label''}'
+      - '{''label'': ''option-2-label''}'
+      required: false
+    - id: 5
+      name: section_4
+      label: section-4-label
+      hint: null
+      type: number
+      options: []
+      required: false

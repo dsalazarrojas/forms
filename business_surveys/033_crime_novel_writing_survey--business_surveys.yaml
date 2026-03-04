@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crime Novel Writing Survey
+    pages:
+    - id: 1
+      name: crime_novel_writing_survey_form
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crime_novel_writer_experience
+      label: How long have you been writing crime fiction?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: crime_novel_writer_habits
+      label: How often do you write?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 4
+      name: crime_novel_writer_insights
+      label: What inspires your writing?
+      hint: null
+      type: select_multiple
+      options:
+      - Personal experience
+      - Research
+      - Conversations
+      - Reading
+      - Other
+      required: false
+    - id: 5
+      name: crime_novel_writing_challenges
+      label: What challenges have you faced as a writer?
+      hint: null
+      type: select_multiple
+      options:
+      - Self-doubt
+      - Time management
+      - Character development
+      - Plotting
+      - Other
+      required: false
+    - id: 6
+      name: crime_novel_writing_style
+      label: What style of crime writing do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Police procedural
+      - Psychological
+      - Thriller
+      - Other
+      required: false
+    - id: 7
+      name: crime_novel_reading_list
+      label: What books do you read?
+      hint: null
+      type: select_multiple
+      options:
+      - Police procedurals
+      - Thrillers
+      - Mysteries
+      - Romance
+      - Other
+      required: false
+    - id: 8
+      name: crime_novel_writing_group
+      label: Do you belong to a writing group?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: crime_novel_writing_instructor
+      label: Are you an instructor?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: crime_novel_publisher
+      label: Do you work with a publisher?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

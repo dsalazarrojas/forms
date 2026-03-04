@@ -1,0 +1,295 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building And Space Generation Survey
+    pages:
+      - id: 1
+        name: respondent_section
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department or team
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: role
+        label: Your role
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: building_usage
+        label: -- Building and Space Usage --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: building_name
+        label: Which building do you primarily use?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: frequency_usage
+        label: How often do you use this building?
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Weekly
+          - Monthly
+          - Occasionally
+        required: true
+      - id: 9
+        name: space_types_used
+        label: Types of spaces you use
+        hint: null
+        type: select_multiple
+        options:
+          - Office/workspace
+          - Conference rooms
+          - Collaboration areas
+          - Break rooms
+          - Cafeteria
+          - Parking
+          - Common areas
+          - Meeting spaces
+          - Private offices
+        required: true
+      - id: 10
+        name: current_satisfaction
+        label: Current satisfaction with workspace
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 11
+        name: space_adequacy
+        label: -- Space Adequacy --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: office_space_adequate
+        label: Is your office space adequate for your needs?
+        hint: null
+        type: select_one
+        options:
+          - More than adequate
+          - Adequate
+          - Somewhat adequate
+          - Inadequate
+          - Very inadequate
+        required: true
+      - id: 13
+        name: meeting_space_adequate
+        label: Are meeting/collaboration spaces adequate?
+        hint: null
+        type: select_one
+        options:
+          - More than adequate
+          - Adequate
+          - Somewhat adequate
+          - Inadequate
+          - Very inadequate
+        required: true
+      - id: 14
+        name: storage_space
+        label: Storage space availability
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Adequate
+          - Limited
+          - None
+        required: true
+      - id: 15
+        name: natural_light
+        label: Access to natural light
+        hint: null
+        type: select_one
+        options:
+          - Abundant
+          - Good
+          - Adequate
+          - Limited
+          - None
+        required: true
+      - id: 16
+        name: temperature_control
+        label: Temperature control and comfort
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Adequate
+          - Poor
+          - Very poor
+        required: true
+      - id: 17
+        name: noise_levels
+        label: Noise level control
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Quiet
+          - Good - Minimal noise
+          - Adequate
+          - Poor - Distracting
+          - Very poor - Excessive noise
+        required: true
+      - id: 18
+        name: design_features
+        label: -- Design and Features --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: aesthetic_appeal
+        label: Overall aesthetic appeal of the building
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Adequate
+          - Poor
+          - Very poor
+        required: true
+      - id: 20
+        name: flexibility
+        label: Flexibility of space layouts
+        hint: null
+        type: select_one
+        options:
+          - Very flexible
+          - Flexible
+          - Somewhat flexible
+          - Inflexible
+          - Very inflexible
+        required: true
+      - id: 21
+        name: technology_ready
+        label: Technology-ready spaces available
+        hint: null
+        type: select_one
+        options:
+          - Yes, many
+          - Yes, some
+          - Limited
+          - None
+        required: true
+      - id: 22
+        name: accessibility_features
+        label: Accessibility features present
+        hint: null
+        type: select_one
+        options:
+          - Comprehensive
+          - Good
+          - Adequate
+          - Limited
+          - None
+        required: true
+      - id: 23
+        name: improvements_needed
+        label: -- Space Improvements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: improvement_priorities
+        label: Top improvement priorities
+        hint: null
+        type: select_multiple
+        options:
+          - More collaboration spaces
+          - Better acoustics
+          - Improved lighting
+          - More natural light
+          - Better temperature control
+          - Enhanced technology
+          - Improved design
+          - More storage
+          - Better accessibility
+          - Expanded break areas
+        required: true
+      - id: 25
+        name: additional_suggestions
+        label: Additional suggestions for space design
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: future_needs
+        label: How do you see your space needs changing?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: flex_work
+        label: How often do you work remotely or flex work?
+        hint: null
+        type: select_one
+        options:
+          - Never - Always in office
+          - Rarely
+          - Sometimes
+          - Often
+          - Primarily remote
+        required: true
+      - id: 28
+        name: space_recommendations
+        label: Recommendations for future space generation
+        hint: null
+        type: text
+        options: []
+        required: false

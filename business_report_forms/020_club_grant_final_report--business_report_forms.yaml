@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Grant Final Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grant_id
+      label: Grant ID or Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grant_amount
+      label: Original Grant Amount
+      hint: Total amount awarded
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: grant_period_start
+      label: Grant Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: grant_period_end
+      label: Grant Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_title
+      label: Project Title
+      hint: Name of funded project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_summary
+      label: Project Summary
+      hint: Brief overview of what was accomplished
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: objectives_met
+      label: Original Objectives Met
+      hint: Did you meet the stated goals
+      type: select_one
+      options:
+      - All Objectives Met
+      - Most Objectives Met
+      - Some Objectives Met
+      - Few Objectives Met
+      - Objectives Not Met
+      required: true
+    - id: 10
+      name: objectives_detail
+      label: Objective Details
+      hint: Explain what was achieved
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: participants_reached
+      label: Number of Participants Reached
+      hint: Total number of people impacted
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: amount_spent
+      label: Total Amount Spent
+      hint: Actual funds expended
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: expenditure_breakdown
+      label: Expenditure Breakdown by Category
+      hint: Detail how money was spent
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: supporting_documentation
+      label: Supporting Documentation Attached
+      hint: Receipts, photos, reports
+      type: select_one
+      options:
+      - Yes, All Attached
+      - Partially Attached
+      - Will Be Submitted
+      - Not Available
+      required: true
+    - id: 15
+      name: challenges_encountered
+      label: Challenges Encountered
+      hint: Any obstacles or issues faced
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: lessons_learned
+      label: Lessons Learned
+      hint: Key takeaways from the project
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: future_plans
+      label: Future Plans or Recommendations
+      hint: Next steps or recommendations
+      type: text
+      options: []
+      required: false

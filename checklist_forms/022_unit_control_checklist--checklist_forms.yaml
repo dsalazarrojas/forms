@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unit Control Checklist
+    pages:
+    - id: 1
+      name: checklists
+      label: Checklists
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: unit_control_checklist
+      label: Unit Control Checklist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: unit_name
+      label: Unit Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: checklist_items
+      label: Checklist Items
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: checklist_date
+      label: Checklist Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: checklist_time
+      label: Checklist Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: checklist_status
+      label: Checklist Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: checklist_completed
+      label: Checklist Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: unit_completed
+      label: Unit Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: checklist_notes
+      label: Checklist Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: checklist_comments
+      label: Checklist Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: checklist_attachments
+      label: Checklist Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

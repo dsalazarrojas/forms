@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: COTH Outdoor Fellowship and Family Fun Day
+    pages:
+    - id: 1
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For event updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: family_name
+      label: Family Name
+      hint: Last name for registration
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: church_affiliation
+      label: Church Affiliation
+      hint: Your church or organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Which date are you attending
+      type: select_one
+      options:
+      - Saturday June 15 2026
+      - Sunday June 16 2026
+      - Both Days
+      required: true
+    - id: 7
+      name: total_attendees
+      label: Total Number of Attendees
+      hint: Including all family members
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: adults_count
+      label: Number of Adults
+      hint: Ages 18 and above
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: youth_count
+      label: Number of Youth
+      hint: Ages 13-17
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: children_count
+      label: Number of Children
+      hint: Ages 5-12
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: toddlers_count
+      label: Number of Toddlers
+      hint: Under 5 years
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: participant_details
+      label: Participant Names and Ages
+      hint: List all attendees with ages
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: tshirt_sizes
+      label: T-Shirt Sizes
+      hint: List sizes for each person
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: meal_preference
+      label: Meal Preference
+      hint: For catering
+      type: select_one
+      options:
+      - Standard BBQ Plate
+      - Vegetarian Option
+      - Kids Meal
+      - Will bring own food
+      required: true
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Allergies or special needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: activities_interested
+      label: Activities Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Outdoor games
+      - Team sports
+      - Arts and crafts
+      - Nature hike
+      - Bible study
+      - Worship session
+      - Kids activities
+      - Bonfire
+      - All activities
+      required: true
+    - id: 17
+      name: volunteering_interest
+      label: Volunteering Interest
+      hint: Would you like to help
+      type: select_one
+      options:
+      - Yes - Setup crew
+      - Yes - Activity leader
+      - Yes - Food service
+      - Yes - Cleanup crew
+      - Maybe
+      - No - Just attending
+      required: true
+    - id: 18
+      name: volunteering_skills
+      label: Skills You Can Offer
+      hint: What can you contribute
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need a ride
+      type: select_one
+      options:
+      - No - We have transportation
+      - Yes - Need pickup
+      - Yes - Can carpool
+      - Maybe
+      required: true
+    - id: 20
+      name: transportation_location
+      label: Pickup Location
+      hint: If transportation needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Do you need lodging
+      type: select_one
+      options:
+      - false
+      - Yes - Camping
+      - Yes - Indoor lodging
+      - Maybe
+      required: true
+    - id: 22
+      name: medical_conditions
+      label: Medical Conditions to Note
+      hint: For safety purposes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: liability_waiver
+      label: Liability Waiver
+      hint: I accept risks and release organizers
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 25
+      name: photo_permission
+      label: Photo Permission
+      hint: OK to use photos for promotion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: registration_fee
+      label: Registration Fee
+      hint: Suggested donation per family
+      type: select_one
+      options:
+      - $25 Family donation
+      - $50 Supporting donation
+      - $100 Patron donation
+      - Unable to contribute
+      required: false
+    - id: 27
+      name: payment_method
+      label: Payment Method
+      hint: How will you contribute
+      type: select_one
+      options:
+      - Cash at event
+      - Check
+      - Online payment
+      - Not contributing
+      required: false
+    - id: 28
+      name: how_did_you_hear
+      label: How Did You Hear About Event
+      hint: Referral source
+      type: select_one
+      options:
+      - Church announcement
+      - Friend or family
+      - Social media
+      - Church website
+      - Flyer or poster
+      - Other
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or notes
+      type: text
+      options: []
+      required: false

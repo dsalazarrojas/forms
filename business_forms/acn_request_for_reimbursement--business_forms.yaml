@@ -1,0 +1,167 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ACN Request For Reimbursement
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Must be a valid corporate email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code (e.g., +1 555 123 4567)
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: Your internal employee identifier
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: Select the department you belong to
+      type: select_one
+      options:
+      - Finance
+      - HR
+      - IT
+      - Operations
+      - Marketing
+      - Sales
+      required: false
+    - id: 7
+      name: section_header_reimbursement
+      label: '--- Reimbursement Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reimbursement_date
+      label: Date of Expense
+      hint: The date the expense was incurred
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: expense_type
+      label: Type of Expense
+      hint: Choose the primary category
+      type: select_one
+      options:
+      - Travel
+      - Meals
+      - Supplies
+      - Accommodation
+      - Training
+      - Other
+      required: true
+    - id: 10
+      name: expense_amount
+      label: Expense Amount (USD)
+      hint: Total amount in U.S. dollars
+      type: decimal
+      options: []
+      required: true
+    - id: 11
+      name: currency
+      label: Currency
+      hint: Currency of the expense
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      - AUD
+      required: true
+    - id: 12
+      name: section_header_satisfaction
+      label: '--- Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: satisfaction
+      label: How satisfied are you with ACN Request For Reimbursement?
+      hint: Select the option that best reflects your experience
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 14
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: experience_aspects
+      label: Which aspects applied to your experience? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 16
+      name: open_feedback
+      label: What would you improve or change about ACN Request For Reimbursement?
+      hint: Provide specific suggestions
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information you wish to share
+      type: text
+      options: []
+      required: false

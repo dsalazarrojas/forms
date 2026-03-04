@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Energy Interview Questions
+    pages:
+      - id: 1
+        name: interviewee_name
+        label: Interviewee name
+        hint: Optional for confidentiality
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: organization
+        label: Organization or affiliation
+        hint: Employer or group represented
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: main_energy_concerns
+        label: Main energy concerns in the community
+        hint: Describe issues such as cost reliability or access
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: readiness_for_renewables
+        label: Readiness for renewable energy adoption
+        hint: Rate from high to low readiness
+        type: select_one
+        options:
+          - High
+          - Moderate
+          - Low
+        required: true
+      - id: 5
+        name: barriers_to_adoption
+        label: Barriers to energy project adoption
+        hint: Cost regulatory or technical hurdles
+        type: select_multiple
+        options:
+          - Cost
+          - Lack of information
+          - Technical limitations
+          - Regulatory barriers
+        required: false
+      - id: 6
+        name: recommended_interventions
+        label: Recommended interventions
+        hint: Suggest policy programs or investments
+        type: text
+        options: []
+        required: false

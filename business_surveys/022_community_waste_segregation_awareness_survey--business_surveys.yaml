@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Waste Segregation Awareness Survey
+    pages:
+    - id: 1
+      name: resident_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resident_email
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: household_address
+      label: Household Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: household_size
+      label: How many people live in your household?
+      hint: Number of residents
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: housing_type
+      label: What type of housing do you live in?
+      hint: Housing type
+      type: select_one
+      options:
+      - Single-family home
+      - Apartment/Condo
+      - Townhouse
+      - Duplex/Triplex
+      - Mobile home
+      - Other
+      required: true
+    - id: 6
+      name: current_practice
+      label: Do you currently separate your waste?
+      hint: Waste segregation practice
+      type: select_one
+      options:
+      - Yes, always
+      - Yes, sometimes
+      - Rarely
+      - No, never
+      required: true
+    - id: 7
+      name: separation_method
+      label: If yes, how do you separate waste?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Recyclables from trash
+      - Compost/organic waste
+      - Hazardous materials
+      - Electronics
+      - Glass
+      - Paper and cardboard
+      - Plastics
+      - Metals
+      - Not applicable
+      required: false
+    - id: 8
+      name: knowledge_level
+      label: How knowledgeable are you about waste segregation?
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Very knowledgeable
+      - Somewhat knowledgeable
+      - Not very knowledgeable
+      - No knowledge at all
+      required: true
+    - id: 9
+      name: recyclable_materials
+      label: Which materials do you know are recyclable?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Paper
+      - Cardboard
+      - Plastic bottles
+      - Plastic bags
+      - Glass bottles
+      - Aluminum cans
+      - Steel cans
+      - Food containers
+      - Electronics
+      - Batteries
+      - Not sure
+      required: true
+    - id: 10
+      name: composting_practice
+      label: Do you compost organic waste?
+      hint: Food scraps, yard waste
+      type: select_one
+      options:
+      - Yes, at home
+      - Yes, through community program
+      - No, but interested
+      - No, not interested
+      required: true
+    - id: 11
+      name: disposal_challenges
+      label: What challenges do you face with waste segregation?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of space for multiple bins
+      - Confusion about what goes where
+      - Lack of time
+      - No pickup service for recyclables
+      - No pickup service for compost
+      - Cost concerns
+      - Lack of information
+      - No challenges
+      - Other
+      required: true
+    - id: 12
+      name: challenge_details
+      label: Please describe your challenges
+      hint: Specific issues
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: education_source
+      label: Where have you learned about waste segregation?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - School
+      - Local government
+      - Waste management company
+      - Social media
+      - Family and friends
+      - News articles
+      - Community workshops
+      - Never learned about it
+      - Other
+      required: true
+    - id: 14
+      name: education_effectiveness
+      label: How effective was the education you received?
+      hint: Quality of information
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Not very effective
+      - Not effective at all
+      - Did not receive education
+      required: false
+    - id: 15
+      name: interest_in_learning
+      label: Would you be interested in learning more about waste segregation?
+      hint: Educational interest
+      type: select_one
+      options:
+      - Yes, very interested
+      - Yes, somewhat interested
+      - Neutral
+      - No, not interested
+      required: true
+    - id: 16
+      name: preferred_education_format
+      label: How would you prefer to receive education?
+      hint: Learning format
+      type: select_multiple
+      options:
+      - Printed guides
+      - Online resources
+      - Workshops or classes
+      - Door-to-door outreach
+      - Community events
+      - Social media
+      - Email newsletters
+      - Not interested
+      required: false
+    - id: 17
+      name: bin_availability
+      label: Do you have separate bins for different waste types?
+      hint: Infrastructure
+      type: select_one
+      options:
+      - Yes, for all types
+      - Yes, for some types
+      - No, but planning to get
+      - No, not planning to get
+      required: true
+    - id: 18
+      name: pickup_service
+      label: Do you have regular pickup for recyclables?
+      hint: Service availability
+      type: select_one
+      options:
+      - Yes, weekly
+      - Yes, bi-weekly
+      - Yes, monthly
+      - No, but available
+      - No, not available in my area
+      required: true
+    - id: 19
+      name: willingness_to_improve
+      label: How willing are you to improve your waste segregation habits?
+      hint: Motivation level
+      type: select_one
+      options:
+      - Very willing
+      - Somewhat willing
+      - Neutral
+      - Not very willing
+      - Not willing at all
+      required: true
+    - id: 20
+      name: incentive_interest
+      label: Would incentives encourage you to segregate waste?
+      hint: Motivation factors
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - No, I do it anyway
+      - No, not interested
+      required: false
+    - id: 21
+      name: incentive_type
+      label: What type of incentive would motivate you?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Tax reduction
+      - Utility bill discount
+      - Cash rewards
+      - Community recognition
+      - Free compost bins
+      - Free recycling bins
+      - Vouchers or coupons
+      - Not interested in incentives
+      required: false
+    - id: 22
+      name: community_program_interest
+      label: Would you participate in a community waste program?
+      hint: Community involvement
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - false
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Any additional comments or suggestions?
+      hint: Your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: survey_date
+      label: Survey Completion Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

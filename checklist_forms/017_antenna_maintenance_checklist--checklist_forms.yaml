@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antenna Maintenance Checklist
+    pages:
+    - id: 1
+      name: site_info_header
+      label: -- Site Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_id
+      label: Site ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: antenna_type
+      label: Antenna Type
+      hint: e.g. Yagi, Omni, Panel
+      type: select_one
+      options:
+      - Yagi-Uda
+      - Omnidirectional
+      - Sector Panel
+      - Parabolic Dish
+      - Other
+      required: true
+    - id: 6
+      name: mast_condition
+      label: Visual Inspection of Mast and Mounts
+      hint: Check for rust, loose bolts, or structural damage
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Requires Attention
+      required: true
+    - id: 7
+      name: cable_integrity
+      label: Coaxial Cable Condition
+      hint: Check for cracks, fraying, or UV damage
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Requires Attention
+      required: true
+    - id: 8
+      name: connector_seal
+      label: Connector Weatherproofing Status
+      hint: Verify sealant or tape is intact
+      type: select_one
+      options:
+      - Good
+      - Degraded
+      - Missing
+      required: true
+    - id: 9
+      name: signal_strength
+      label: Measured Signal Strength (dBm)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: swr_reading
+      label: Standing Wave Ratio (SWR) Reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: grounding_status
+      label: Lightning Protection and Grounding Check
+      hint: null
+      type: select_one
+      options:
+      - Properly Grounded
+      - Grounding Faulty
+      - No Grounding Found
+      required: true
+    - id: 12
+      name: weather_at_time
+      label: Weather Conditions During Inspection
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Overcast
+      - Rain
+      - High Winds
+      required: false
+    - id: 13
+      name: recommendations
+      label: Maintenance Recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: next_inspection
+      label: Recommended Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false

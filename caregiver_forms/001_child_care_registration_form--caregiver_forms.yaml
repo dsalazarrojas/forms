@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Care Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of registration submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: preferred_care_schedule
+      label: Preferred Care Schedule
+      hint: Select your preferred care schedule
+      type: select_one
+      options:
+      - Full-time (Monday to Friday)
+      - Part-time (3 days per week)
+      - Part-time (2 days per week)
+      - Drop-in as needed
+      - Other
+      required: true
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions or Allergies
+      hint: List any medical conditions or allergies the child has
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Describe any special needs or required accommodations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorized_pickup_persons
+      label: Authorized Pickup Persons
+      hint: List names of people authorized to pick up the child
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: how_did_you_hear_about_us
+      label: How Did You Hear About Us
+      hint: How did you learn about our child care facility
+      type: select_one
+      options:
+      - Friend or family referral
+      - Online search
+      - Social media
+      - Community event
+      - Previous client
+      - Other
+      required: false

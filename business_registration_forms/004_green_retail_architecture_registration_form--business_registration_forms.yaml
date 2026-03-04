@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Retail Architecture Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_type
+      label: Store Type
+      hint: null
+      type: select_one
+      options:
+      - Green Store
+      - Online Store
+      - Brick and Mortar Store
+      - Other
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: store_description
+      label: Store Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_interests
+      label: Participant Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Sustainability
+      - Retail
+      - Community
+      - Education
+      - Other
+      required: false
+    - id: 10
+      name: sustainability_commitment
+      label: Sustainability Commitment
+      hint: null
+      type: text
+      options: []
+      required: false

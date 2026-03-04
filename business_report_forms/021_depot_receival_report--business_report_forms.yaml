@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Depot Receival Report
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_id
+      label: Delivery ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: driver_id
+      label: Driver ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_multiple
+      options:
+      - Delivered
+      - Delayed
+      - Lost
+      required: false
+    - id: 5
+      name: discrepancies
+      label: Discrepancies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: warehouse_id
+      label: Warehouse ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: signature_id
+      label: Signature ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_person_id
+      label: Delivery Person ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: remarks_2
+      label: Remarks 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: warehouse_location
+      label: Warehouse Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: remarks_3
+      label: Remarks 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: remarks_4
+      label: Remarks 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: remarks_5
+      label: Remarks 5
+      hint: null
+      type: text
+      options: []
+      required: false

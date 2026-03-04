@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Technician Skill Gap Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nail_technician_title
+      label: Nail Technician Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: Years Of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      - Expert
+      required: false
+    - id: 6
+      name: skills_assessed
+      label: Skills Assessed
+      hint: null
+      type: select_one
+      options:
+      - Nail Art
+      - Nail Care
+      - Nail Correction
+      - Nail Enhancement
+      - Nail Repair
+      required: false
+    - id: 7
+      name: experience_areas
+      label: Experience Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Nail Acrylic
+      - Nail Gel
+      - Nail OPI
+      - Nail Shellac
+      - Nail Art
+      - Nail Care
+      - Nail Enhancement
+      - Nail Repair
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

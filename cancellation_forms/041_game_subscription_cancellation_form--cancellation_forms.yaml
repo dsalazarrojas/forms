@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Subscription Cancellation Form
+    pages:
+    - id: 1
+      name: game_subscription_cancellation_form
+      label: Game Subscription Cancellation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_cancellation
+      label: Reason For Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: subscription_start_date
+      label: Subscription Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: subscription_end_date
+      label: Subscription End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: subscription_type
+      label: Subscription Type
+      hint: null
+      type: select_one
+      options:
+      - Game Subscription
+      - Other Subscription
+      required: false
+    - id: 11
+      name: reason_for_cancellation_reason
+      label: Reason For Cancellation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: game_id
+      label: Game ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

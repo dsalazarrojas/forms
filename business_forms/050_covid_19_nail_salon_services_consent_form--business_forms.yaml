@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: covid 19 nail salon services consent form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_info
+      label: Services
+      hint: Select all services
+      type: select_multiple
+      options:
+      - Nail Shaping
+      - Nail Coloring
+      - Nail Engraving
+      - Nail Art
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: terms
+      label: Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: terms_read
+      label: Have you read the terms and conditions
+      hint: Yes or No
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

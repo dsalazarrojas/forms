@@ -1,0 +1,125 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: A/R Cleanup Quote Request
+    pages:
+    - id: 1
+      name: requester_info_header
+      label: "--- Requester & Company Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Legal entity requesting the quote
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Primary contact name
+      hint: Person responsible for onboarding
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Best email for proposal and questions
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Optional direct phone for urgency
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: total_ar_balance
+      label: Total accounts receivable balance (USD)
+      hint: Provide current total outstanding balance
+      type: decimal
+      options: []
+      required: true
+    - id: 7
+      name: number_of_open_invoices
+      label: Number of open invoices
+      hint: Whole number across all customers
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: aging_profile
+      label: Aging profile (select all that apply)
+      hint: Indicate which aging buckets are relevant
+      type: select_multiple
+      options:
+        - 0-30 days
+        - 31-60 days
+        - 61-90 days
+        - 91-180 days
+        - over 180 days
+      required: true
+    - id: 9
+      name: services_required
+      label: Services required (select all that apply)
+      hint: Choose every service you want quoted
+      type: select_multiple
+      options:
+        - Data cleansing & validation
+        - Customer outreach & collections
+        - Reconciliation & dispute resolution
+        - Reporting & dashboarding
+        - Ongoing AR management
+      required: true
+    - id: 10
+      name: desired_completion_date
+      label: Desired completion date
+      hint: Target date for cleanup completion
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: budget_range
+      label: Budget range estimate (USD)
+      hint: Helps vendors scope proposal
+      type: select_one
+      options:
+        - <$5,000
+        - $5,000-$15,000
+        - $15,000-$50,000
+        - >$50,000
+      required: false
+    - id: 12
+      name: access_requirements
+      label: Expected access requirements
+      hint: e.g., ERP credentials, export formats
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: Additional information for vendors
+      hint: Include special constraints, timezone, or SLAs
+      type: text
+      options: []
+      required: false

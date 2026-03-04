@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wastewater Treatment Output Report Form
+    pages:
+    - id: 1
+      name: plant_performance
+      label: Plant Performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: plant_capacity
+      label: Plant Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: flow_rate
+      label: Flow Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: treatment_plant_performance
+      label: Treatment Plant Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: wastewater_production
+      label: Wastewater Production
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: wastewater_removal_efficiency
+      label: Wastewater Removal Efficiency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: total_treatment_capacity
+      label: Total Treatment Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: plant_location
+      label: Plant Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: treatment_system_description
+      label: Treatment System Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false

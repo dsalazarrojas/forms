@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Center Client Check In Form
+    pages:
+    - id: 1
+      name: client_check_in_form
+      label: Client Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Enter client name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: session_context
+      label: Session Context
+      hint: Describe the reason for the session
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: provider_phone
+      label: Provider Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information about this session
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: session_length_hours
+      label: Session Length (hours)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: counselor
+      label: Counselor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: session_comments
+      label: Session Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: reschedule_date
+      label: Reschedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: cancellation_note
+      label: Cancellation Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,288 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Communication Models Assessment
+    pages:
+      - id: 1
+        name: assessment_introduction
+        label: Assessment Introduction
+        hint: Evaluate your understanding of communication models
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: participant_email
+        label: Participant Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Which department do you work in
+        type: select_one
+        options:
+          - Executive
+          - Sales
+          - Marketing
+          - Human Resources
+          - Operations
+          - Finance
+          - IT
+          - Customer Service
+          - Other
+        required: true
+      - id: 5
+        name: position_level
+        label: Position Level
+        hint: Your level in the organization
+        type: select_one
+        options:
+          - Entry Level
+          - Individual Contributor
+          - Team Lead
+          - Manager
+          - Senior Manager
+          - Director
+          - Executive
+        required: true
+      - id: 6
+        name: years_experience
+        label: Years of Experience
+        hint: How many years of work experience do you have
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 3-5 years
+          - 5-10 years
+          - 10+ years
+        required: true
+      - id: 7
+        name: models_knowledge
+        label: Models Knowledge
+        hint: Questions about communication models knowledge
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: familiarity_with_models
+        label: Familiarity with Communication Models
+        hint: How familiar are you with formal communication models
+        type: select_one
+        options:
+          - Very Familiar
+          - Somewhat Familiar
+          - Heard of Them
+          - Not Familiar
+        required: true
+      - id: 9
+        name: shannon_weaver_model
+        label: Shannon-Weaver Model
+        hint: Are you familiar with the Shannon-Weaver model
+        type: select_one
+        options:
+          - Very Familiar
+          - Somewhat Familiar
+          - Heard of It
+          - Not Familiar
+        required: true
+      - id: 10
+        name: berlos_smcr_model
+        label: Berlos S-M-C-R Model
+        hint: Are you familiar with Berlos S-M-C-R model
+        type: select_one
+        options:
+          - Very Familiar
+          - Somewhat Familiar
+          - Heard of It
+          - Not Familiar
+        required: true
+      - id: 11
+        name: transactional_model
+        label: Transactional Model
+        hint: Are you familiar with the Transactional model
+        type: select_one
+        options:
+          - Very Familiar
+          - Somewhat Familiar
+          - Heard of It
+          - Not Familiar
+        required: true
+      - id: 12
+        name: communication_preferences
+        label: Communication Preferences
+        hint: Questions about your communication preferences
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: preferred_channel
+        label: Preferred Communication Channel
+        hint: Which channel do you prefer most
+        type: select_one
+        options:
+          - Face-to-Face
+          - Video Calls
+          - Phone Calls
+          - Email
+          - Instant Messaging
+          - Written Reports
+          - Presentations
+        required: true
+      - id: 14
+        name: channel_effectiveness
+        label: Most Effective Channel
+        hint: Which channel is most effective for important messages
+        type: select_one
+        options:
+          - Face-to-Face
+          - Video Calls
+          - Phone Calls
+          - Email
+          - Instant Messaging
+          - Written Reports
+          - Presentations
+        required: true
+      - id: 15
+        name: feedback_importance
+        label: Feedback Importance
+        hint: How important is feedback in your communication
+        type: select_one
+        options:
+          - Extremely Important
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 16
+        name: noise_barriers
+        label: Noise Barriers
+        hint: How often do barriers affect your communication
+        type: select_one
+        options:
+          - Very Often
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 17
+        name: common_barriers
+        label: Common Barriers
+        hint: What barriers do you most often encounter
+        type: select_multiple
+        options:
+          - Physical Noise
+          - Language Differences
+          - Cultural Differences
+          - Technical Issues
+          - Emotional State
+          - Information Overload
+          - Time Pressure
+          - Hierarchy Issues
+        required: true
+      - id: 18
+        name: context_awareness
+        label: Context Awareness
+        hint: How aware are you of communication context
+        type: select_one
+        options:
+          - Very Aware
+          - Aware
+          - Somewhat Aware
+          - Not Very Aware
+          - Not Aware
+        required: true
+      - id: 19
+        name: application_scenarios
+        label: Application Scenarios
+        hint: How do you apply communication models
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: model_application
+        label: Do You Apply Communication Models
+        hint: Do you consciously apply communication models
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 21
+        name: training_received
+        label: Training Received
+        hint: Have you received formal communication training
+        type: select_one
+        options:
+          - "Yes - Extensive"
+          - "Yes - Some"
+          - "Yes - Minimal"
+          - "No"
+        required: true
+      - id: 22
+        name: training_effectiveness
+        label: Training Effectiveness
+        hint: How effective was the training
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+          - Not Applicable
+        required: false
+      - id: 23
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: What areas would you like to improve
+        type: select_multiple
+        options:
+          - Active Listening
+          - Message Clarity
+          - Feedback Delivery
+          - Nonverbal Communication
+          - Cross-Cultural Communication
+          - Digital Communication
+          - Presentation Skills
+          - Conflict Resolution
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any additional thoughts on communication models
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: assessment_date
+        label: Assessment Date
+        hint: Date you completed this assessment
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tier And Interval Survey
+    pages:
+    - id: 1
+      name: tier_and_interval_survey_form
+      label: Pricing Tiers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: billing_interval_form
+      label: Billing Intervals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_satisfaction_form
+      label: Customer Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: preferred_pricing_tier
+      label: Preferred Pricing Tier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: billing_interval
+      label: Billing Interval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: tier_pricing_satisfaction
+      label: Tier Pricing Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: tier_pricing_satisfaction_scale
+      label: Tier Pricing Satisfaction Scale
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 8
+      name: tier_pricing_satisfaction_scale_other
+      label: Tier Pricing Satisfaction Scale Other
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: preferred_pricing_tier_comments
+      label: Preferred Pricing Tier Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_interval_comments
+      label: Billing Interval Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tier_pricing_satisfaction_comments
+      label: Tier Pricing Satisfaction Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tier_pricing_satisfaction_scale_comments
+      label: Tier Pricing Satisfaction Scale Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tier_pricing_satisfaction_scale_other_comments
+      label: Tier Pricing Satisfaction Scale Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false

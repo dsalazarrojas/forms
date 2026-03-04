@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_waste_management_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: waste_management_policies
+      label: Waste Management Policies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 4
+      name: management_challenges
+      label: Management Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Waste management is a top priority
+      - Waste management is a low priority
+      - N/A
+      required: true
+    - id: 5
+      name: satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: operations_manager
+      label: Operations Manager
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: facilities_manager
+      label: Facilities Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 8
+      name: ehs_manager
+      label: EHS Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 9
+      name: other_contacts
+      label: Other Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

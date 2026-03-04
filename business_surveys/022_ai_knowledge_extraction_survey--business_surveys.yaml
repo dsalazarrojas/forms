@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Knowledge Extraction Survey
+    pages:
+    - id: 1
+      name: respondent_details_header
+      label: '--- Respondent Information ---'
+      hint: Help us understand your role and context.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_role
+      label: Job Role / Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - label: Engineering / IT
+        value: eng_it
+      - label: Legal & Compliance
+        value: legal
+      - label: Human Resources
+        value: hr
+      - label: Sales & Marketing
+        value: sales_marketing
+      - label: Operations
+        value: operations
+      - label: Customer Support
+        value: support
+      required: true
+    - id: 5
+      name: knowledge_sources_header
+      label: '--- Current Knowledge Landscape ---'
+      hint: Where is information currently stored in your team?
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_knowledge_sources
+      label: Primary Knowledge Sources
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Internal Wiki (Notion, Confluence, SharePoint)
+        value: wiki
+      - label: Unstructured Documents (PDFs, Word, PPT)
+        value: docs
+      - label: Email Communications
+        value: email
+      - label: Chat History (Slack, Teams)
+        value: chat
+      - label: Databases (SQL, NoSQL)
+        value: databases
+      - label: Tacit Knowledge (Subject Matter Experts)
+        value: experts
+      required: true
+    - id: 7
+      name: info_retrieval_challenges
+      label: What are your biggest challenges in finding information?
+      hint: null
+      type: select_multiple
+      options:
+      - label: Too many different platforms
+        value: too_many_platforms
+      - label: Search results are irrelevant
+        value: irrelevant_results
+      - label: Information is outdated
+        value: outdated_info
+      - label: Information is siloed (no access)
+        value: siloed
+      - label: Lack of a centralized index
+        value: no_index
+      required: true
+    - id: 8
+      name: time_spent_searching
+      label: Average hours per week spent searching for internal information
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: ai_interest_header
+      label: '--- AI Extraction Potential ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: ai_tool_interest_rating
+      label: Interest in an AI-powered 'Knowledge Extraction' tool
+      hint: 1 = Not interested, 5 = Highly interested
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: desired_ai_features
+      label: Which AI features would be most valuable to you?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - label: Automatic Summarization of long documents
+        value: summarization
+      - label: Natural Language Q&A (Chat with your data)
+        value: qa
+      - label: Automatic Citation of source documents
+        value: citation
+      - label: Anomaly/Conflict Detection in info
+        value: anomaly_detection
+      - label: Sentiment Analysis across knowledge base
+        value: sentiment
+      required: true
+    - id: 12
+      name: data_sensitivity_level
+      label: Typical sensitivity of the data you handle
+      hint: null
+      type: select_one
+      options:
+      - label: Public / Low Sensitivity
+        value: low
+      - label: Internal / Proprietary
+        value: internal
+      - label: Confidential / PII Included
+        value: confidential
+      - label: Highly Restricted / Regulated (e.g., HIPAA/GDPR)
+        value: restricted
+      required: true
+    - id: 13
+      name: potential_risks_concerns
+      label: What are your primary concerns regarding AI knowledge extraction?
+      hint: null
+      type: select_multiple
+      options:
+      - label: Accuracy / 'Hallucinations'
+        value: accuracy
+      - label: Data Security / Leaks
+        value: security
+      - label: Loss of Context
+        value: context_loss
+      - label: Complexity of setup
+        value: complexity
+      required: false
+    - id: 14
+      name: use_case_description
+      label: Describe a specific scenario where AI extraction would help you.
+      hint: e.g., "Summarizing all past legal rulings on topic X"
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pilot_participation_intent
+      label: Are you interested in participating in a pilot program for this technology?
+      hint: null
+      type: select_one
+      options:
+      - label: true
+        value: true
+      - label: false
+        value: false
+      - label: Maybe (Send more info)
+        value: maybe
+      required: true
+    - id: 16
+      name: contact_email
+      label: Email for follow-up
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

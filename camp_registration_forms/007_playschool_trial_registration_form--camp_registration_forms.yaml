@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: playschool_trial_registration_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_info
+      label: Child Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: parent_phone
+      label: Parent Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: parent_email
+      label: Parent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true

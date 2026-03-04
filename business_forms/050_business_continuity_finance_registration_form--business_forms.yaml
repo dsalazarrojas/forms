@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Finance Registration Form
+    pages:
+    - id: 1
+      name: business_info
+      label: Business Information
+      hint: Your business details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal name of business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Legal structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - S-Corporation
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Food Service
+      - Hospitality
+      - Professional Services
+      - Other
+      required: true
+    - id: 5
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 6
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current team size
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-20
+      - 21-50
+      - 51-100
+      - More than 100
+      required: true
+    - id: 7
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate revenue
+      type: select_one
+      options:
+      - Under $100K
+      - $100K-$500K
+      - $500K-$1M
+      - $1M-$5M
+      - $5M-$10M
+      - More than $10M
+      required: true
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_address
+      label: Business Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: continuity_impact
+      label: Continuity Impact
+      hint: How has business been affected
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: disruption_type
+      label: Type of Disruption
+      hint: What affected your business
+      type: select_one
+      options:
+      - Natural Disaster
+      - Pandemic
+      - Economic Downturn
+      - Supply Chain Disruption
+      - Cyber Attack
+      - Fire or Damage
+      - Regulatory Change
+      - Other
+      required: true
+    - id: 16
+      name: disruption_date
+      label: Disruption Date
+      hint: When did disruption occur
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: revenue_impact
+      label: Revenue Impact
+      hint: How much revenue was lost
+      type: select_one
+      options:
+      - Less than 10%
+      - 10-25%
+      - 26-50%
+      - 51-75%
+      - More than 75%
+      required: true
+    - id: 18
+      name: operational_status
+      label: Current Operational Status
+      hint: What is your current status
+      type: select_one
+      options:
+      - Fully Operational
+      - Partially Operational
+      - Temporarily Closed
+      - Permanently Closed
+      - Considering Closure
+      required: true
+    - id: 19
+      name: finance_request
+      label: Finance Request
+      hint: What funding do you need
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: funding_type
+      label: Funding Type
+      hint: What type of financing
+      type: select_one
+      options:
+      - Emergency Grant
+      - Low-Interest Loan
+      - Line of Credit
+      - Debt Relief
+      - Tax Deferral
+      - Other
+      required: true
+    - id: 21
+      name: funding_amount
+      label: Funding Amount Needed
+      hint: How much do you need
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000-$50,000
+      - $50,000-$100,000
+      - $100,000-$500,000
+      - $500,000-$1,000,000
+      - More than $1,000,000
+      required: true
+    - id: 22
+      name: funding_purpose
+      label: Funding Purpose
+      hint: How will you use the funds
+      type: select_multiple
+      options:
+      - Payroll
+      - Rent or Mortgage
+      - Utilities
+      - Inventory
+      - Equipment
+      - Debt Repayment
+      - Operating Expenses
+      - Recovery Costs
+      - Other
+      required: true
+    - id: 23
+      name: existing_debt
+      label: Existing Debt
+      hint: Do you have outstanding debt
+      type: select_one
+      options:
+      - No Debt
+      - Minimal Debt
+      - Moderate Debt
+      - High Debt
+      required: true
+    - id: 24
+      name: other_assistance
+      label: Other Assistance Received
+      hint: Have you received other help
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recovery_plan
+      label: Recovery Plan
+      hint: Do you have a recovery plan
+      type: select_one
+      options:
+      - Yes - Comprehensive
+      - Yes - Basic
+      - In Progress
+      - No - Need Help
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

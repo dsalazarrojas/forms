@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Downgrade Request Form
+    pages:
+    - id: 1
+      name: service_downgrade_request_form
+      label: Service Downgrade Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: approval
+      label: Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: approved_at
+      label: Approved At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: service_status
+      label: Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: service_status_reason
+      label: Service Status Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: customer_service_status
+      label: Customer Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: customer_service_status_reason
+      label: Customer Service Status Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: admin_name
+      label: Admin Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: admin_email
+      label: Admin Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: admin_phone
+      label: Admin Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: admin_comments
+      label: Admin Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: admin_service_status
+      label: Admin Service Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: admin_service_status_reason
+      label: Admin Service Status Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: requested_date
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: service_id
+      label: Service ID
+      hint: null
+      type: number
+      options: []
+      required: true

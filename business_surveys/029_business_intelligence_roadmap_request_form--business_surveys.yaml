@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Intelligence Roadmap Request Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Roadmap Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Name of the requesting organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_capabilities
+      label: Current capabilities
+      hint: Brief overview of current BI capabilities
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: strategic_priorities
+      label: Strategic priorities
+      hint: Top priorities to support with BI roadmap
+      type: select_multiple
+      options:
+      - Reporting
+      - Advanced analytics
+      - Data governance
+      - Self service
+      required: true
+    - id: 5
+      name: timeline
+      label: Timeline
+      hint: Desired timeframe for roadmap delivery
+      type: select_one
+      options:
+      - 3 months
+      - 6 months
+      - 12 months
+      - 18 months
+      required: true
+    - id: 6
+      name: budget_estimate
+      label: Budget estimate
+      hint: Approximate budget for roadmap implementation
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stakeholders
+      label: Stakeholders
+      hint: Key stakeholders to involve
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expected_benefits
+      label: Expected benefits
+      hint: Business outcomes expected from roadmap
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: For follow up on the request
+      type: email
+      options: []
+      required: true

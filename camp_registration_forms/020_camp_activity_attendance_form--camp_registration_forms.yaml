@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Activity Attendance Form
+    pages:
+    - id: 1
+      name: camp_session_header
+      label: -- Activity Attendance Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camp_counselor_name
+      label: Counselor - Facilitator Name
+      hint: Person leading the activity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camp_group_name
+      label: Camp Group - Cabin Name
+      hint: e.g., Blue Jays, Cabin 4
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: activity_name_attendance
+      label: Name of Activity
+      hint: null
+      type: select_one
+      options:
+      - Swimming / Lake
+      - Archery
+      - Arts and Crafts
+      - Hiking / Nature Trail
+      - Team Sports (Soccer/Basketball)
+      - Campfire / S-mores
+      - Ropes Course
+      required: true
+    - id: 5
+      name: attendance_date
+      label: Date of Activity
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: activity_time_slot
+      label: Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning Session 1
+      - Morning Session 2
+      - Afternoon Session 1
+      - Afternoon Session 2
+      - Evening / Night
+      required: true
+    - id: 7
+      name: total_expected_participants
+      label: Total Expected Participants
+      hint: Total count in the group
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: attendance_list_section
+      label: -- Attendee List --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attendees_present_count
+      label: Number of Participants Present
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: attendees_absent_count
+      label: Number of Participants Absent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: names_of_absentees
+      label: Names of Absent Participants
+      hint: List those who did not attend
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: activity_incidents
+      label: Incidents or First Aid Required?
+      hint: null
+      type: select_one
+      options:
+      - No Incidents
+      - Minor Scrape / Band-aid
+      - Behavioral Issue
+      - Serious Injury (Medical report filed)
+      required: true
+    - id: 13
+      name: incident_description_camp
+      label: Incident Description
+      hint: If any incidents occurred, provide details
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: camper_engagement_level
+      label: Overall Group Engagement Level
+      hint: How well did the campers participate?
+      type: select_one
+      options:
+      - Very Engaged
+      - Mostly Engaged
+      - Neutral
+      - Disengaged
+      required: false
+    - id: 15
+      name: activity_supplies_replenishment
+      label: Supplies Needing Replenishment
+      hint: e.g., More paint, broken arrows
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: counselor_initials_verification
+      label: Counselor Initials
+      hint: Verify the accuracy of this record
+      type: text
+      options: []
+      required: true

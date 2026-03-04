@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Vision Assessment
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_role
+      label: Your Role or Title
+      hint: Position in the organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenure_years
+      label: How Long Have You Been With This Organization?
+      hint: In years
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: organizational_level
+      label: Organizational Level
+      hint: null
+      type: select_one
+      options:
+      - Executive or C-suite
+      - Senior management
+      - Middle management
+      - Team lead or supervisor
+      - Individual contributor
+      - Other
+      required: true
+    - id: 7
+      name: vision_clarity
+      label: How clear is the organization vision?
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 8
+      name: vision_communication
+      label: Is the vision effectively communicated?
+      hint: null
+      type: select_one
+      options:
+      - Excellent communication
+      - Good communication
+      - Fair communication
+      - Poor communication
+      - No communication
+      required: true
+    - id: 9
+      name: mission_understanding
+      label: Do you understand the organization mission?
+      hint: null
+      type: select_one
+      options:
+      - Complete understanding
+      - Good understanding
+      - Fair understanding
+      - Poor understanding
+      - No understanding
+      required: true
+    - id: 10
+      name: values_alignment
+      label: How well do you align with organizational values?
+      hint: null
+      type: select_one
+      options:
+      - Highly aligned
+      - Aligned
+      - Somewhat aligned
+      - Poorly aligned
+      - Not aligned
+      required: true
+    - id: 11
+      name: strategic_goals_clarity
+      label: Clarity of Strategic Goals
+      hint: Do you understand the strategic direction?
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 12
+      name: short_term_priorities
+      label: Do You Know Short-Term Priorities?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Mostly yes
+      - Somewhat
+      - Not really
+      - Not at all
+      required: true
+    - id: 13
+      name: vision_inspiration
+      label: Does the vision inspire you to do your best?
+      hint: null
+      type: select_one
+      options:
+      - Highly inspiring
+      - Inspiring
+      - Somewhat inspiring
+      - Not inspiring
+      - Demotivating
+      required: true
+    - id: 14
+      name: vision_believability
+      label: Do You Believe the Vision is Achievable?
+      hint: null
+      type: select_one
+      options:
+      - Very believable
+      - Believable
+      - Somewhat believable
+      - Questionable
+      - Not believable
+      required: true
+    - id: 15
+      name: strategy_effectiveness
+      label: Effectiveness of the Strategy to Achieve Vision
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Not very effective
+      - Not effective
+      required: true
+    - id: 16
+      name: vision_gaps
+      label: Gaps Between Vision and Current Reality
+      hint: What needs to change?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vision_improvements
+      label: How Could the Vision Be Improved?
+      hint: Suggestions for refinement
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: alignment_challenges
+      label: Challenges to Vision Alignment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Unclear communication
+      - Lack of buy-in
+      - Resource constraints
+      - Misaligned incentives
+      - Conflicting priorities
+      - Leadership inconsistency
+      - Market changes
+      - No significant challenges
+      required: true
+    - id: 19
+      name: support_commitment
+      label: Your Commitment to the Vision
+      hint: null
+      type: select_one
+      options:
+      - Fully committed
+      - Committed
+      - Somewhat committed
+      - Not very committed
+      - Not committed
+      required: true
+    - id: 20
+      name: additional_feedback
+      label: Additional Vision-Related Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

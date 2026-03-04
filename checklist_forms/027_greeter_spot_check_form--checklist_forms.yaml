@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Greeter Spot Check Form
+    pages:
+    - id: 1
+      name: greeting
+      label: greeting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: smile
+      label: smile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: eye_contact
+      label: eye_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: greet_time
+      label: greet_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: greeting_type
+      label: greeting_type
+      hint: null
+      type: select_multiple
+      options:
+      - Greeting
+      - Introduction
+      - Hello
+      - Good morning
+      - Good afternoon
+      - Good evening
+      required: false
+    - id: 6
+      name: greet_location
+      label: greet_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: smile_score
+      label: smile_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_time
+      label: contact_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

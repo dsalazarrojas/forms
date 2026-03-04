@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Site Survey Template
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services_performed
+      label: Services Performed
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: quality_rating
+      label: Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_rating
+      label: Communication Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false

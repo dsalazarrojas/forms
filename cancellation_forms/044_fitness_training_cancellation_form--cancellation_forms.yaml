@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Training Cancellation Form
+    pages:
+    - id: 1
+      name: cancellation_session_id
+      label: Cancellation ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_of_cancellation
+      label: Date of Cancellation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason for Cancellation
+      hint: Enter your reason for cancellation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: member_feedback
+      label: Member Feedback
+      hint: Please provide feedback for further improvement
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: staff_feedback
+      label: Staff Feedback
+      hint: Please provide feedback for staff
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_information
+      label: Additional Information
+      hint: If you have any further information, please enter it here
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestion
+      label: Suggestion
+      hint: Do you have any suggestions?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: select_one_reason
+      label: Reason for Cancellation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Illness/Injury''}'
+      - '{''value'': ''No interest''}'
+      - '{''value'': ''Work/School commitment''}'
+      - '{''value'': ''Personal reasons''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 11
+      name: select_multiple_additional_services
+      label: Select Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Personalized coaching''}'
+      - '{''value'': ''Nutrition''}'
+      - '{''value'': ''Mindfulness''}'
+      - '{''value'': ''Yoga''}'
+      - '{''value'': ''Pilates''}'
+      required: false
+    - id: 12
+      name: date_of_training
+      label: Date of Training
+      hint: null
+      type: date
+      options: []
+      required: false

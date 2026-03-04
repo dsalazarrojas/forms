@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quiz Form With A Calculated Number Of Correct Answers
+    pages:
+    - id: 1
+      name: question1
+      label: first_question
+      hint: null
+      type: select_one
+      options:
+      - correct_answer1
+      - incorrect_answer2
+      - incorrect_answer3
+      required: true
+    - id: 2
+      name: question2
+      label: second_question
+      hint: null
+      type: select_one
+      options:
+      - correct_answer2
+      - incorrect_answer1
+      required: true
+    - id: 3
+      name: question3
+      label: third_question
+      hint: null
+      type: select_one
+      options:
+      - correct_answer3
+      - incorrect_answer4
+      required: true
+    - id: 4
+      name: calculated_number
+      label: number_correct_answers
+      hint: This field will display a calculated number of correct answers
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: thankyou
+      label: thankyou
+      hint: null
+      type: note
+      options: []
+      required: true

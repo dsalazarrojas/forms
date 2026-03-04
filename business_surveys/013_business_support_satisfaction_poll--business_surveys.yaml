@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Support Satisfaction Poll
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Your company or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Person Name
+      hint: Your name or representative name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Your contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_size
+      label: Business Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Solo entrepreneur
+      - 2-5 employees
+      - 6-10 employees
+      - 11-50 employees
+      - 51-100 employees
+      - 100+ employees
+      required: true
+    - id: 6
+      name: services_used
+      label: What support services have you used?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Business consulting
+      - Financing or loans
+      - Marketing assistance
+      - Training programs
+      - Mentoring
+      - Technology support
+      - Networking events
+      - Legal services
+      required: true
+    - id: 7
+      name: service_quality
+      label: Overall quality of support services
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Very Poor
+      required: true
+    - id: 8
+      name: responsiveness
+      label: How responsive is the support team?
+      hint: null
+      type: select_one
+      options:
+      - Very responsive
+      - Responsive
+      - Neutral
+      - Unresponsive
+      - Very unresponsive
+      required: true
+    - id: 9
+      name: staff_knowledge
+      label: Staff knowledge and expertise
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Very Poor
+      required: true
+    - id: 10
+      name: service_accessibility
+      label: Ease of accessing services
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 11
+      name: value_for_cost
+      label: Value received for cost
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 12
+      name: expectations_met
+      label: Were your expectations met?
+      hint: null
+      type: select_one
+      options:
+      - Exceeded expectations
+      - Met expectations
+      - Partially met
+      - Below expectations
+      - Did not meet expectations
+      required: true
+    - id: 13
+      name: business_impact
+      label: Impact on your business
+      hint: How has the support helped your business?
+      type: select_one
+      options:
+      - Significant positive impact
+      - Positive impact
+      - Minimal impact
+      - No impact
+      - Negative impact
+      required: true
+    - id: 14
+      name: improvement_outcomes
+      label: Have you seen improvement in these areas?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Revenue growth
+      - Cost reduction
+      - Operational efficiency
+      - Staff development
+      - Customer satisfaction
+      - Market reach
+      - Technology adoption
+      - No improvements yet
+      required: true
+    - id: 15
+      name: recommend_services
+      label: Would you recommend these services?
+      hint: null
+      type: select_one
+      options:
+      - Definitely would recommend
+      - Probably would recommend
+      - Unsure
+      - Probably would not recommend
+      - Definitely would not recommend
+      required: true
+    - id: 16
+      name: future_needs
+      label: What support do you need in the future?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_gaps
+      label: What services are missing or needed?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: improvement_suggestions
+      label: How can the support improve?
+      hint: Your suggestions and feedback
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: staff_courtesy
+      label: Staff courtesy and professionalism
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Very Poor
+      required: true
+    - id: 20
+      name: satisfaction_overall
+      label: Overall satisfaction with support
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true

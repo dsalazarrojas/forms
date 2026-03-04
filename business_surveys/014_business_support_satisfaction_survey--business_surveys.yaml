@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Support Satisfaction Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: support_contact
+      label: Support Contact or Account Manager Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relationship_duration
+      label: How long have you been with us?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - 5+ years
+      required: true
+    - id: 6
+      name: support_type_frequency
+      label: How frequently do you use support services?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - As needed
+      - Rarely
+      required: true
+    - id: 7
+      name: responsiveness_rating
+      label: How quickly does support respond to your inquiries?
+      hint: null
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 hour
+      - Within 4 hours
+      - Within 1 day
+      - Within several days
+      - Very slow
+      required: true
+    - id: 8
+      name: resolution_effectiveness
+      label: How effectively are issues resolved?
+      hint: null
+      type: select_one
+      options:
+      - Completely resolved
+      - Usually resolved
+      - Partially resolved
+      - Rarely resolved
+      - Not resolved
+      required: true
+    - id: 9
+      name: staff_knowledge
+      label: Support staff knowledge and expertise
+      hint: null
+      type: select_one
+      options:
+      - Expert knowledge
+      - Knowledgeable
+      - Adequate knowledge
+      - Limited knowledge
+      - Lack of knowledge
+      required: true
+    - id: 10
+      name: communication_clarity
+      label: Clarity of communication from support
+      hint: null
+      type: select_one
+      options:
+      - Excellent clarity
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 11
+      name: professionalism
+      label: Staff professionalism and courtesy
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Professional
+      - Acceptable
+      - Unprofessional
+      - Very unprofessional
+      required: true
+    - id: 12
+      name: documentation_quality
+      label: Quality of documentation and resources
+      hint: FAQs, guides, knowledge base, etc.
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: support_channels
+      label: Availability of support channels
+      hint: Phone, email, chat, etc.
+      type: select_one
+      options:
+      - Excellent - many options
+      - Good - several options
+      - Adequate - few options
+      - Limited options
+      - Not available
+      required: true
+    - id: 14
+      name: price_value
+      label: Value for the price paid
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 15
+      name: issue_frequency
+      label: How often do you encounter issues?
+      hint: null
+      type: select_one
+      options:
+      - Rarely have issues
+      - Few issues
+      - Some issues
+      - Frequent issues
+      - Constant issues
+      required: true
+    - id: 16
+      name: improvement_suggestions
+      label: What improvements would you suggest?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_effectiveness
+      label: Effectiveness of training or onboarding
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - Very Poor
+      required: false
+    - id: 18
+      name: recommendation_likelihood
+      label: Would you recommend our support to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely would
+      - Probably would
+      - Unsure
+      - Probably would not
+      - Definitely would not
+      required: true
+    - id: 19
+      name: additional_services_needed
+      label: What additional support services would help?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overall_satisfaction
+      label: Overall satisfaction with support
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true

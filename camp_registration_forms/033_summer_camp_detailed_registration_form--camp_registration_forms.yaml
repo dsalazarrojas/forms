@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Detailed Registration Form
+    pages:
+    - id: 1
+      name: camp_name
+      label: Enter camp name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Enter participant name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Participant email
+      hint: Enter participant email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: end_time
+      label: End time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: registration_date
+      label: Registration date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false

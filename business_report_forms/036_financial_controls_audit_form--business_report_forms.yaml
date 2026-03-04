@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Controls Audit Form
+    pages:
+    - id: 1
+      name: financial_controls_audit_form
+      label: Financial Controls Audit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: risk_notes
+      label: Risk Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: follow_up_planning
+      label: Follow-up Planning
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: control_id
+      label: Control ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: control_description
+      label: Control Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: control_location
+      label: Control Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: control_owner
+      label: Control Owner
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: control_status
+      label: Control Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: audit_time
+      label: Audit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Semi-annual
+      - Annual
+      required: false
+    - id: 12
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 13
+      name: risk_rating
+      label: Risk Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: follow_up_due_date
+      label: Follow-up Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Semi-annual
+      - Annual
+      required: false
+    - id: 20
+      name: follow_up_last_date
+      label: Follow-up Last Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_next_date
+      label: Follow-up Next Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false

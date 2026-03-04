@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Morning Arrival Check In
+    pages:
+    - id: 1
+      name: morning_arrival_check_in_form
+      label: Morning Arrivals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: health_status
+      label: Health Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: morning_arrival_notes
+      label: Morning Arrival Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: attendance_status
+      label: Attendance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: morning_arrival_check_in_form_1
+      label: Morning Arrival Check In Form 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: market_research_checklist_form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_location
+      label: Research Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: research_date
+      label: Research Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: research_methodology
+      label: Research Methodology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: research_objectives
+      label: Research Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: data_collection_method
+      label: Data Collection Method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 8
+      name: research_scope
+      label: Research Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: research_limitations
+      label: Research Limitations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: research_conclusion
+      label: Research Conclusion
+      hint: null
+      type: text
+      options: []
+      required: false

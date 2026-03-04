@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Digital Culture Assessment
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions_section
+      label: Questions Section
+      hint: null
+      type: select_multiple
+      options:
+      - What is your role in the organization?
+      - What is your job title?
+      - How long have you been with the organization?
+      - What are your primary work hours?
+      - Which technology platforms do you use most frequently?
+      - How often do you use email?
+      - How often do you use instant messaging or chat apps?
+      - Do you access the organization's intranet or internal communication platform?
+      - Do you have a work computer or laptop?
+      - Do you use a virtual private network (VPN)?
+      required: false
+    - id: 3
+      name: questions
+      label: Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: engagement_section
+      label: Employee Engagement
+      hint: null
+      type: select_one
+      options:
+      - Highly engaged
+      - Moderately engaged
+      - Not engaged
+      required: false
+    - id: 5
+      name: technology_section
+      label: Technology Adoption
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 6
+      name: technology_section_2
+      label: Technology Adoption 2
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false

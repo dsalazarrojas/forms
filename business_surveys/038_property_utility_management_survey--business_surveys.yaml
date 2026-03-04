@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Utility Management Survey
+    pages:
+    - id: 1
+      name: tenant_name
+      label: tenant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_type
+      label: property type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: property_address
+      label: property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_type
+      label: service type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: service_frequency
+      label: service frequency
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 13
+      name: created_by
+      label: created by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: updated_by
+      label: updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: created at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: updated at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: output_file
+      label: output file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 20
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 22
+      name: assigned_date
+      label: assigned date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: submitted_at
+      label: submitted at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

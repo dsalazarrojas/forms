@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yoga Studio Client Check In Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_details
+      label: Class Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: checkin_status
+      label: Check-in Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_note
+      label: Client Note
+      hint: null
+      type: note
+      options: []
+      required: false

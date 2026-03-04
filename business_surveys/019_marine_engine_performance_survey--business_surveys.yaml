@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marine Engine Performance Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: engine_type
+      label: engine_type
+      hint: null
+      type: select_one
+      options:
+      - gasoline
+      - diesel
+      required: false
+    - id: 3
+      name: fuel_efficiency
+      label: fuel_efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: engine_capacity
+      label: engine_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: horsepower
+      label: horsepower
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fuel_consumption
+      label: fuel_consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: transmission_type
+      label: transmission_type
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      required: false
+    - id: 8
+      name: engine_condition
+      label: engine_condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: maintenance
+      label: maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - Oil Level
+      - Tire Pressure
+      - Fluid Level
+      required: false
+    - id: 10
+      name: engine_year
+      label: engine_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: engine_mileage
+      label: engine_mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: engine_repair
+      label: engine_repair
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

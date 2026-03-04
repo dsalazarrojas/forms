@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clearinghouse Enrollment Change Form
+    pages:
+    - id: 1
+      name: section_header_request
+      label: -- Enrollment Change Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: change_date
+      label: Date of Change Request
+      hint: Date this change is being requested
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: request_id
+      label: Request ID Number
+      hint: Internal reference number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: change_type
+      label: Type of Change Requested
+      hint: What change are you making?
+      type: select_one
+      options:
+      - New Enrollment
+      - Enrollment Modification
+      - Enrollment Termination
+      - Plan Change
+      - Coverage Change
+      - Provider Change
+      - Address Change
+      required: true
+    - id: 5
+      name: section_header_member
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: member_name
+      label: Member Full Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: member_id
+      label: Member ID Number
+      hint: Clearinghouse member ID
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: Member's birth date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: member_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: member_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_enrollment
+      label: -- Current Enrollment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_plan
+      label: Current Plan Name
+      hint: Name of current enrollment plan
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_plan_effective_date
+      label: Current Plan Effective Date
+      hint: When did current enrollment start?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: current_coverage_type
+      label: Current Coverage Type
+      hint: Type of coverage enrolled
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Group
+      - Government Program
+      - Other
+      required: true
+    - id: 15
+      name: section_header_new
+      label: -- New Enrollment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: new_plan
+      label: New Plan Name
+      hint: Name of new plan if changing
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: new_plan_effective_date
+      label: New Plan Effective Date
+      hint: When should new enrollment start?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: new_coverage_type
+      label: New Coverage Type
+      hint: Type of new coverage
+      type: select_one
+      options:
+      - Individual
+      - Family
+      - Group
+      - Government Program
+      - Other
+      - Not Applicable
+      required: false
+    - id: 19
+      name: section_header_reason
+      label: -- Reason for Change --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: change_reason
+      label: Reason for Enrollment Change
+      hint: Why is this change being made?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: qualifying_event
+      label: Qualifying Event
+      hint: Life event that triggers change
+      type: select_one
+      options:
+      - Employment Change
+      - Marriage
+      - Divorce
+      - Birth of Child
+      - Loss of Coverage
+      - Annual Enrollment Period
+      - Open Enrollment
+      - Other
+      required: false
+    - id: 22
+      name: section_header_provider
+      label: -- Provider Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: provider_name
+      label: Provider or Employer Name
+      hint: Name of provider or employer
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: provider_id
+      label: Provider/Employer ID
+      hint: Internal provider ID
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: provider_contact_name
+      label: Provider Contact Person
+      hint: Name of contact at provider
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: provider_contact_email
+      label: Provider Contact Email
+      hint: Email for provider contact
+      type: email
+      options: []
+      required: false
+    - id: 27
+      name: section_header_effective
+      label: -- Effective Date and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: termination_date
+      label: Termination Date
+      hint: If ending enrollment
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: urgency_level
+      label: Urgency of Change
+      hint: How quickly is this needed?
+      type: select_one
+      options:
+      - Immediate
+      - Within 30 Days
+      - Within 60 Days
+      - Non-Urgent
+      required: true
+    - id: 30
+      name: section_header_confirmation
+      label: -- Confirmation and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: confirm_accuracy
+      label: I confirm the information above is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 32
+      name: authorize_change
+      label: I authorize this enrollment change
+      hint: null
+      type: select_one
+      options:
+      - I Authorize
+      - I Do Not Authorize
+      required: true

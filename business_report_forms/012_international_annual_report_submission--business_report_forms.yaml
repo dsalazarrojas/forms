@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_year
+      label: Report Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Report
+      - Financial
+      - Operations
+      required: false
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: report_url
+      label: Report URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false

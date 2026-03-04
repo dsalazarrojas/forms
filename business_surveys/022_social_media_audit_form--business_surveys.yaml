@@ -1,0 +1,319 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Audit Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: social_media_platforms
+      label: social_media_platforms
+      hint: null
+      type: select_one
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - LinkedIn
+      required: false
+    - id: 3
+      name: current_posts
+      label: current_posts
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: post_engagement
+      label: post_engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: post_engagement_percentage
+      label: post_engagement_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: audience_demographics
+      label: audience_demographics
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 7
+      name: audience_age_range
+      label: audience_age_range
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: false
+    - id: 8
+      name: audience_location
+      label: audience_location
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Canada
+      - Mexico
+      - Other
+      required: false
+    - id: 9
+      name: audience_language
+      label: audience_language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 10
+      name: current_followers
+      label: current_followers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: current_followers_growth
+      label: current_followers_growth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: current_posts_per_month
+      label: current_posts_per_month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: current_posts_per_month_growth
+      label: current_posts_per_month_growth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: followers_growth_rate
+      label: followers_growth_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: engagement_rate
+      label: engagement_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: engagement_rate_percentage
+      label: engagement_rate_percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: follower_acquisition_cost
+      label: follower_acquisition_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: average_engagement_rate
+      label: average_engagement_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: engagement_cost
+      label: engagement_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: engagement_boosting
+      label: engagement_boosting
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: average_followers_per_post
+      label: average_followers_per_post
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: engagement_boosting_cost
+      label: engagement_boosting_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: average_engagement_boosting
+      label: average_engagement_boosting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: average_engagement_boosting_rate
+      label: average_engagement_boosting_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: average_engagement_boosting_cost
+      label: average_engagement_boosting_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: average_engagement_cost
+      label: average_engagement_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: average_posts
+      label: average_posts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: average_posts_growth
+      label: average_posts_growth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: average_boosting_rate
+      label: average_boosting_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: boosting_cost
+      label: boosting_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: average_followers_growth_rate
+      label: average_followers_growth_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: boosting_rate
+      label: boosting_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: average_engagement_boosting_rate
+      label: average_engagement_boosting_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 34
+      name: follower_acquisition_cost
+      label: follower_acquisition_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: average_boosting_cost
+      label: average_boosting_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: engagement_boosting_growth
+      label: engagement_boosting_growth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 37
+      name: boosting
+      label: boosting
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 38
+      name: average_engagement_boosting_cost
+      label: average_engagement_boosting_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: follower_acquisition_boosting_rate
+      label: follower_acquisition_boosting_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: follower_acquisition_boosting_cost
+      label: follower_acquisition_boosting_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 41
+      name: engagement_boosting_boosting
+      label: engagement_boosting_boosting
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

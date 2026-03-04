@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Equipment Checklist
+    pages:
+    - id: 1
+      name: general_check
+      label: General Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fire_extinguisher_locations
+      label: fire_extinguisher_locations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: fire_extinguisher_types
+      label: fire_extinguisher_types
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: fire_extinguisher_condition
+      label: fire_extinguisher_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: fire_hydrant_locations
+      label: fire_hydrant_locations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: fire_hydrant_types
+      label: fire_hydrant_types
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: fire_hydrant_condition
+      label: fire_hydrant_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: alarm_system
+      label: alarm_system
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_extinguisher_pressure_test
+      label: fire_extinguisher_pressure_test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fire_hydrant_pressure_test
+      label: fire_hydrant_pressure_test
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: fire_extinguisher_inspection_frequency
+      label: fire_extinguisher_inspection_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: fire_hydrant_inspection_frequency
+      label: fire_hydrant_inspection_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: fire_extinguisher_last_inspection
+      label: fire_extinguisher_last_inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: fire_hydrant_last_inspection
+      label: fire_hydrant_last_inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: fire_extinguisher_next_inspection
+      label: fire_extinguisher_next_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: fire_hydrant_next_inspection
+      label: fire_hydrant_next_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: fire_extinguisher_notes
+      label: fire_extinguisher_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: fire_hydrant_notes
+      label: fire_hydrant_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: fire_extinguisher_comments
+      label: fire_extinguisher_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fire_hydrant_comments
+      label: fire_hydrant_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: fire_extinguisher_review
+      label: fire_extinguisher_review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: fire_hydrant_review
+      label: fire_hydrant_review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: fire_extinguisher_approvals
+      label: fire_extinguisher_approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: fire_extinguisher_revisions
+      label: fire_extinguisher_revisions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: fire_extinguisher_signature
+      label: fire_extinguisher_signature
+      hint: null
+      type: note
+      options: []
+      required: true

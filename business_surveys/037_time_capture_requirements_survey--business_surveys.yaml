@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Capture Requirements Survey
+    pages:
+    - id: 1
+      name: page1
+      label: time_capture_requirements_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Business Surveys
+      - Other
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

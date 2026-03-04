@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Commitment Survey
+    pages:
+    - id: 1
+      name: header
+      label: -- Agent Engagement and Commitment Survey --
+      hint: gathering feedback to enhance workplace culture
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent Name - Optional
+      hint: you may remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: years_service
+      label: Years of service with the organization
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: pride_representation
+      label: How proud are you to represent this organization?
+      hint: scale of satisfaction
+      type: select_one
+      options:
+      - Very Proud
+      - Proud
+      - Neutral
+      - Not very proud
+      required: true
+    - id: 5
+      name: retention_likelihood
+      label: Likelihood of staying with the company for the next 12 months
+      hint: null
+      type: select_one
+      options:
+      - Extremely Likely
+      - Likely
+      - Unsure
+      - Unlikely
+      required: true
+    - id: 6
+      name: professional_dev_satisfaction
+      label: Satisfaction with professional development opportunities
+      hint: coaching, training, and growth
+      type: select_one
+      options:
+      - Highly Satisfied
+      - Satisfied
+      - Dissatisfied
+      - Highly Dissatisfied
+      required: true
+    - id: 7
+      name: goal_clarity
+      label: Clarity of organizational goals and values
+      hint: do you know what we are aiming for
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Not Clear at all
+      required: true
+    - id: 8
+      name: support_received
+      label: Support received from leadership and peers
+      hint: teamwork and management support
+      type: select_one
+      options:
+      - Excellent Support
+      - Good Support
+      - Fair Support
+      - Poor Support
+      required: true
+    - id: 9
+      name: work_life_balance
+      label: Balance between workload and compensation
+      hint: null
+      type: select_one
+      options:
+      - Perfectly Balanced
+      - Acceptable
+      - Unbalanced
+      - Extremely Stressful
+      required: true
+    - id: 10
+      name: motivation_factors
+      label: What motivates you most in your daily work?
+      hint: describe your primary drivers
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: improvement_feedback
+      label: One thing the company could do to improve your commitment
+      hint: be honest and specific
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: culture_descriptors
+      label: Words that describe the current company culture
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Innovative
+      - Collaborative
+      - Competitive
+      - Supportive
+      - Bureaucratic
+      - Fast-paced
+      required: false

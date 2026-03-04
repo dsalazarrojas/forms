@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Day Camp Registration Form
+    pages:
+    - id: 1
+      name: camper_details
+      label: Camper Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Mother''}'
+      - '{''value'': ''Father''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Grandparent''}'
+      - '{''value'': ''Guardian''}'
+      - '{''value'': ''Stepparent''}'
+      required: true
+    - id: 4
+      name: camper_name
+      label: Camper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Camper Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: camp_days
+      label: Days Attending
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Monday''}'
+      - '{''value'': ''Tuesday''}'
+      - '{''value'': ''Wednesday''}'
+      - '{''value'': ''Thursday''}'
+      - '{''value'': ''Friday''}'
+      - '{''value'': ''Saturday''}'
+      - '{''value'': ''Sunday''}'
+      required: true
+    - id: 7
+      name: prophets
+      label: Prophets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: note
+      options: []
+      required: false

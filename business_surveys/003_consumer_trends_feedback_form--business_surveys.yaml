@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Trends Feedback Form
+    pages:
+      - id: 1
+        name: form_introduction
+        label: Welcome to Our Consumer Trends Survey
+        hint: Help us understand your preferences and shopping behaviors
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional - for follow-up questions
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: For survey results and updates
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: Select your age range
+        type: select_one
+        options:
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 5
+        name: gender
+        label: Gender
+        hint: Optional demographic information
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer not to say
+        required: false
+      - id: 6
+        name: location
+        label: Geographic Location
+        hint: City and State or Country
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: shopping_preferences
+        label: Primary Shopping Method
+        hint: How do you prefer to shop
+        type: select_one
+        options:
+          - Online Only
+          - In-Store Only
+          - Mostly Online
+          - Mostly In-Store
+          - Equal Mix of Both
+        required: true
+      - id: 8
+        name: purchase_frequency
+        label: Purchase Frequency
+        hint: How often do you make purchases
+        type: select_one
+        options:
+          - Daily
+          - Several times a week
+          - Weekly
+          - 2-3 times a month
+          - Monthly
+          - Less than monthly
+        required: true
+      - id: 9
+        name: product_categories
+        label: Product Categories You Purchase
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Clothing and Apparel
+          - Electronics
+          - Home and Garden
+          - Beauty and Personal Care
+          - Food and Beverages
+          - Sports and Outdoors
+          - Books and Media
+          - Toys and Games
+        required: true
+      - id: 10
+        name: brand_influence
+        label: Factors Influencing Brand Choice
+        hint: Select your top 3 influences
+        type: select_multiple
+        options:
+          - Price
+          - Quality
+          - Brand Reputation
+          - Customer Reviews
+          - Sustainability
+          - Recommendations from Friends
+          - Social Media
+          - Advertising
+        required: true
+      - id: 11
+        name: sustainability_importance
+        label: Importance of Sustainability
+        hint: How important is environmental sustainability
+        type: select_one
+        options:
+          - Extremely Important
+          - Very Important
+          - Moderately Important
+          - Slightly Important
+          - Not Important
+        required: true
+      - id: 12
+        name: technology_adoption
+        label: Technology Adoption
+        hint: How quickly do you try new products or services
+        type: select_one
+        options:
+          - Early Adopter
+          - Before Average
+          - Average
+          - After Average
+          - Late Adopter
+        required: true
+      - id: 13
+        name: social_media_usage
+        label: Social Media Platforms Used
+        hint: Select platforms you use regularly
+        type: select_multiple
+        options:
+          - Facebook
+          - Instagram
+          - Twitter
+          - TikTok
+          - LinkedIn
+          - Pinterest
+          - YouTube
+          - None
+        required: true
+      - id: 14
+        name: subscription_services
+        label: Active Subscription Services
+        hint: Number of subscription services you use
+        type: select_one
+        options:
+          - None
+          - 1-2
+          - 3-5
+          - 6-10
+          - More than 10
+        required: true
+      - id: 15
+        name: customer_service_expectations
+        label: Customer Service Expectations
+        hint: What matters most in customer service
+        type: select_one
+        options:
+          - Fast Response Time
+          - Knowledgeable Staff
+          - Multiple Contact Channels
+          - Self-Service Options
+          - Personalized Support
+        required: true
+      - id: 16
+        name: loyalty_programs
+        label: Loyalty Program Participation
+        hint: Do you participate in loyalty programs
+        type: select_one
+        options:
+          - Yes - Multiple Programs
+          - Yes - One or Two
+          - No but Interested
+          - No - Not Interested
+        required: true
+      - id: 17
+        name: future_trends
+        label: Trends You Expect to Grow
+        hint: Select trends you think will increase
+        type: select_multiple
+        options:
+          - Online Shopping
+          - Sustainable Products
+          - Health and Wellness
+          - Smart Home Technology
+          - Experience-Based Purchases
+          - Local Products
+          - Personalized Products
+        required: false
+      - id: 18
+        name: additional_feedback
+        label: Additional Comments
+        hint: Any other insights you would like to share
+        type: text
+        options: []
+        required: false

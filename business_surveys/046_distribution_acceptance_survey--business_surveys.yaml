@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Acceptance Survey
+    pages:
+    - id: 1
+      name: distribution_acceptance_survey
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: what_is_your_role
+      label: Your Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: what_is_your_department
+      label: Your Department
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - CFO
+      - CIO
+      - HR
+      - Other
+      required: false
+    - id: 4
+      name: what_is_your_location
+      label: Your Location
+      hint: null
+      type: select_multiple
+      options:
+      - North America
+      - South America
+      - Europe
+      - Asia
+      - Africa
+      - Australia
+      required: false
+    - id: 5
+      name: what_is_your_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: what_is_your_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: distribution_performance_rating
+      label: Distribution Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: distribution_performance_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

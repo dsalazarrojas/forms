@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Forecasting Accuracy Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: What methods do you currently use for forecasting?
+      hint: null
+      type: select_multiple
+      options:
+      - Automated tools
+      - Manual processes
+      - Hybrid methods
+      required: false
+    - id: 2
+      name: accuracy_first_page_forecasting
+      label: What is your forecast accuracy for the following period?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: first_page_accuracy
+      label: What is the challenge in achieving the forecast accuracy you desire?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_page_roadmap
+      label: What is your current forecasting roadmap for the next 3-6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - Short-term planning
+      - Medium-term planning
+      - Long-term planning
+      required: false
+    - id: 5
+      name: second_page
+      label: What do you use to validate your forecast?
+      hint: null
+      type: select_multiple
+      options:
+      - Financial statements
+      - Budgeting software
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: validation_method
+      label: Which method do you usually use for validation?
+      hint: null
+      type: select_one
+      options:
+      - Historical sales data
+      - Industry trends
+      - Market research
+      required: false
+    - id: 7
+      name: second_page_roadmap
+      label: What is your current validation roadmap for the next 3-6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - Short-term validation
+      - Medium-term validation
+      - Long-term validation
+      required: false
+    - id: 8
+      name: challenges
+      label: What are some challenges you face while validating your forecasts?
+      hint: null
+      type: select_multiple
+      options:
+      - Data quality
+      - Lack of resources
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: second_page_roadmap_1
+      label: What is your current validation roadmap for the next 3-6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - Short-term validation
+      - Medium-term validation
+      - Long-term validation
+      required: false
+    - id: 10
+      name: third_page
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: third_page_comments
+      label: What are some additional comments about your forecast?
+      hint: null
+      type: text
+      options: []
+      required: false

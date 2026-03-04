@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Entity Compliance Declaration Form
+    pages:
+    - id: 1
+      name: entity_information
+      label: -- Entity Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: entity_type
+      label: Entity Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietor
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: federal_tax_id
+      label: Federal Tax ID (EIN)
+      hint: Employer Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: principal_address
+      label: Principal Place of Business
+      hint: Main business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_phone
+      label: Business Phone
+      hint: Main contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: authorized_officer
+      label: -- Authorized Officer --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: officer_name
+      label: Authorized Officer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: officer_title
+      label: Officer Title
+      hint: Position or role
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: officer_email
+      label: Officer Email
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: compliance_areas
+      label: -- Compliance Declarations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: tax_compliance
+      label: Tax Compliance
+      hint: All taxes paid and filed
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - In Compliance Plan
+      - Non-Compliant
+      required: true
+    - id: 13
+      name: labor_compliance
+      label: Labor and Employment Laws
+      hint: Compliance with labor standards
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - In Compliance Plan
+      - Non-Compliant
+      required: true
+    - id: 14
+      name: environmental_compliance
+      label: Environmental Regulations
+      hint: Compliance with environmental laws
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - In Compliance Plan
+      - Non-Applicable
+      - Non-Compliant
+      required: true
+    - id: 15
+      name: health_safety
+      label: Health and Safety Standards
+      hint: Compliance with H and S regulations
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - In Compliance Plan
+      - Non-Compliant
+      required: true
+    - id: 16
+      name: data_privacy
+      label: Data Privacy and Protection Laws
+      hint: Compliance with privacy regulations
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - In Compliance Plan
+      - Non-Applicable
+      - Non-Compliant
+      required: true
+    - id: 17
+      name: industry_specific
+      label: Industry-Specific Regulations
+      hint: Compliance with industry standards
+      type: select_one
+      options:
+      - Fully Compliant
+      - Substantially Compliant
+      - In Compliance Plan
+      - Non-Applicable
+      - Non-Compliant
+      required: true
+    - id: 18
+      name: licensing
+      label: Licenses and Permits
+      hint: All required licenses and permits
+      type: select_one
+      options:
+      - Current and Valid
+      - In Renewal Process
+      - Expired or Lapsed
+      - Not Applicable
+      required: true
+    - id: 19
+      name: compliance_measures
+      label: -- Compliance Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: audits_completed
+      label: Compliance Audits Completed
+      hint: Have audits been conducted
+      type: select_one
+      options:
+      - Yes, recently
+      - Yes, over 1 year ago
+      - No audits
+      - Not Applicable
+      required: true
+    - id: 21
+      name: corrective_actions
+      label: Corrective Actions Implemented
+      hint: Actions taken to address issues
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: ongoing_compliance
+      label: Ongoing Compliance Program
+      hint: Do you have an ongoing program
+      type: select_one
+      options:
+      - Yes, documented
+      - Yes, informal
+      - In Development
+      - false
+      required: true
+    - id: 23
+      name: certification
+      label: -- Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: confirm_declaration
+      label: I Declare That the Above Information is True and Accurate
+      hint: Certification of accuracy
+      type: select_one
+      options:
+      - Yes, I certify
+      - No, I do not certify
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date of Declaration
+      hint: Date of this declaration
+      type: date
+      options: []
+      required: true

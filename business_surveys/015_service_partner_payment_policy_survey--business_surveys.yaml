@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Partner Payment Policy Survey
+    pages:
+    - id: 1
+      name: service_partner_payment_policy_survey
+      label: Service Partner Payment Policy Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''biweekly''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''quarterly''}'
+      - '{''value'': ''yearly''}'
+      required: false
+    - id: 3
+      name: payment_methods
+      label: Payment Methods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''online''}'
+      - '{''value'': ''offline''}'
+      - '{''value'': ''bank_transfer''}'
+      required: false
+    - id: 4
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''paid''}'
+      - '{''value'': ''pending''}'
+      - '{''value'': ''rejected''}'
+      - '{''value'': ''unknown''}'
+      required: false
+    - id: 6
+      name: payment_issues
+      label: Payment Issues
+      hint: Please describe any issues you encountered with payment
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: finance_team_contact
+      label: Finance Team Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: operations_team_contact
+      label: Operations Team Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: communication_channel
+      label: Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''email''}'
+      - '{''value'': ''phone''}'
+      - '{''value'': ''chat''}'
+      required: false
+    - id: 10
+      name: payment_policy_update_frequency
+      label: Update Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''quarterly''}'
+      - '{''value'': ''yearly''}'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_partner
+      label: Service Partner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms_and_conditions
+      label: Payment Terms And Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

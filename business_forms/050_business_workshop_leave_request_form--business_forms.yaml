@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Workshop Leave Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: Direct Manager Name
+      hint: Your immediate supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: workshop_name
+      label: Workshop Name
+      hint: Title of the workshop
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: workshop_provider
+      label: Workshop Provider or Organization
+      hint: Organization conducting the workshop
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workshop_start_date
+      label: Workshop Start Date
+      hint: First day of the workshop
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: workshop_end_date
+      label: Workshop End Date
+      hint: Last day of the workshop
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_days_requested
+      label: Total Days of Leave Requested
+      hint: Number of business days
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: workshop_location
+      label: Workshop Location
+      hint: Where the workshop is held
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: workshop_purpose
+      label: Workshop Purpose and Relevance
+      hint: How does this benefit your role
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: skill_areas
+      label: Skill Areas Being Developed
+      hint: What skills will you gain
+      type: select_multiple
+      options:
+      - Leadership
+      - Technical Skills
+      - Sales and Marketing
+      - Customer Service
+      - Project Management
+      - Financial Management
+      - Communication
+      - Other
+      required: true
+    - id: 14
+      name: anticipated_benefits
+      label: Anticipated Benefits to Organization
+      hint: How will you apply this
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: workshop_cost
+      label: Workshop Cost
+      hint: Total cost of attendance
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: cost_responsibility
+      label: Cost Responsibility
+      hint: Who will cover the cost
+      type: select_one
+      options:
+      - Company Covers
+      - Employee Covers
+      - Shared Cost
+      - Other
+      required: true
+    - id: 17
+      name: work_coverage_plan
+      label: Work Coverage Plan
+      hint: How will your duties be covered
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: outstanding_projects
+      label: Outstanding Projects or Deadlines
+      hint: Any critical work during this period
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_approval_status
+      label: Manager Approval Status
+      hint: Manager's position on the request
+      type: select_one
+      options:
+      - Approved
+      - Pending Review
+      - Conditional Approval
+      - Not Approved
+      required: false
+    - id: 20
+      name: request_submission_date
+      label: Request Submission Date
+      hint: When is this being requested
+      type: date
+      options: []
+      required: true

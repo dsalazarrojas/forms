@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jurisdiction And Limitation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page1_section1
+      label: Jurisdiction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page1_section1_question1
+      label: What is the primary jurisdiction that affects this decision?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page1_section1_question1_option1
+      label: Option 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: page1_section1_question1_option2
+      label: Option 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: page1_section2
+      label: Limitation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page1_section2_question1
+      label: What is the primary limitation that affects this decision?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page1_section2_question1_option1
+      label: Option 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: page1_section2_question1_option2
+      label: Option 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

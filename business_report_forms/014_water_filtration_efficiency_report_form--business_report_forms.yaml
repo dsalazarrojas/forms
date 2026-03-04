@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Filtration Efficiency Report Form
+    pages:
+    - id: 1
+      name: water_filtration_efficiency_report_form
+      label: Water Filtration Efficiency Report Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: filtration_system_details
+      label: Filtration System Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: filter_type
+      label: Filter Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Activated Carbon''}'
+      - '{''label'': ''Microfiltration''}'
+      - '{''label'': ''Ultrafiltration''}'
+      - '{''label'': ''Reverse Osmosis''}'
+      required: false
+    - id: 4
+      name: filtration_efficiency_rating
+      label: Filtration Efficiency Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: water_flow_rate
+      label: Water Flow Rate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: water_pressure
+      label: Water Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: filter_media_capacity
+      label: Filter Media Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: filter_cleaning_time
+      label: Filter Cleaning Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: water_treatment_system_capacity
+      label: Water Treatment System Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: water_source
+      label: Water Source
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Well''}'
+      - '{''label'': ''River''}'
+      - '{''label'': ''Reservoir''}'
+      - '{''label'': ''Aquifer''}'
+      required: false
+    - id: 11
+      name: water_distribution_system
+      label: Water Distribution System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: operational_status
+      label: Operational Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Idle''}'
+      - '{''label'': ''Offline''}'
+      required: false
+    - id: 13
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Scheduled''}'
+      required: false
+    - id: 14
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Quarterly''}'
+      required: false
+    - id: 15
+      name: last_maintenance_date
+      label: Last Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: filter_replacement_cost
+      label: Filter Replacement Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: filter_replacement_frequency
+      label: Filter Replacement Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Every 1st Replacement''}'
+      - '{''label'': ''Every 2nd Replacement''}'
+      - '{''label'': ''Every 3rd Replacement''}'
+      - '{''label'': ''Every 4th Replacement''}'
+      - '{''label'': ''No Replacement''}'
+      required: false
+    - id: 19
+      name: total_filters
+      label: Total Filters
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: average_filter_life
+      label: Average Filter Life
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: filter_leakage_rate
+      label: Filter Leakage Rate
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 22
+      name: filter_redundancy_rate
+      label: Filter Redundancy Rate
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 23
+      name: filter_pressure_drop
+      label: Filter Pressure Drop
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: filter_flow_rate
+      label: Filter Flow Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

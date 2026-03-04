@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Challenges In Manufacturing Survey
+    pages:
+    - id: 1
+      name: section_header_company
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Operations
+      - Manufacturing
+      - Engineering
+      - Management
+      - IT
+      - Other
+      required: true
+    - id: 7
+      name: section_header_facility
+      label: -- Facility Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: years_in_operation
+      label: Years of Operation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: facility_size
+      label: Facility Size
+      hint: null
+      type: select_one
+      options:
+      - Small (1-50 employees)
+      - Medium (51-250 employees)
+      - Large (251-1000 employees)
+      - Enterprise (1000+ employees)
+      required: true
+    - id: 10
+      name: industry_type
+      label: Industry Type
+      hint: null
+      type: select_one
+      options:
+      - Automotive
+      - Electronics
+      - Pharmaceuticals
+      - Food and Beverage
+      - Consumer Goods
+      - Chemicals
+      - Metals and Mining
+      - Other
+      required: true
+    - id: 11
+      name: production_volume
+      label: Annual Production Volume
+      hint: Units or items produced annually
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_automation
+      label: -- Current Automation Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: automation_percentage
+      label: What percentage of your production is automated?
+      hint: null
+      type: select_one
+      options:
+      - Less than 10%
+      - 10-25%
+      - 25-50%
+      - 50-75%
+      - More than 75%
+      required: true
+    - id: 14
+      name: automation_technologies
+      label: Current Automation Technologies Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Robotics
+      - PLC/CNC Systems
+      - Industrial IoT
+      - AI/Machine Learning
+      - SCADA Systems
+      - ERP Systems
+      - MES Systems
+      - Vision Systems
+      - Other
+      required: true
+    - id: 15
+      name: automation_timeline
+      label: Automation Implementation Timeline
+      hint: null
+      type: select_one
+      options:
+      - Within Last 2 Years
+      - 2-5 Years Ago
+      - 5-10 Years Ago
+      - More than 10 Years Ago
+      - Not Yet Implemented
+      required: true
+    - id: 16
+      name: section_header_challenges
+      label: -- Key Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: major_challenges
+      label: What are your major automation challenges?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High Capital Investment
+      - Lack of Skilled Workforce
+      - Integration Complexity
+      - Maintenance and Support
+      - Outdated Legacy Systems
+      - ROI Uncertainty
+      - Supply Chain Issues
+      - Regulatory Compliance
+      - Data Security
+      required: true
+    - id: 18
+      name: biggest_challenge
+      label: Single Biggest Challenge
+      hint: What is the most critical barrier?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_header_investment
+      label: -- Investment and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: current_investment
+      label: Annual Automation Investment
+      hint: null
+      type: select_one
+      options:
+      - Less than 50000
+      - 50000-100000
+      - 100000-500000
+      - 500000-1000000
+      - More than 1000000
+      required: false
+    - id: 21
+      name: future_investment_plans
+      label: Do you plan to increase automation investment?
+      hint: null
+      type: select_one
+      options:
+      - Yes, significantly
+      - Yes, moderately
+      - Unsure
+      - No plans
+      required: true
+    - id: 22
+      name: skilled_workforce
+      label: Do you have a skilled workforce for automation?
+      hint: null
+      type: select_one
+      options:
+      - Fully Skilled
+      - Partially Skilled
+      - Limited Skills
+      - No Technical Expertise
+      required: true
+    - id: 23
+      name: section_header_priorities
+      label: -- Future Priorities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: automation_priorities
+      label: Top Automation Priorities
+      hint: Select up to 3
+      type: select_multiple
+      options:
+      - Increase Production Capacity
+      - Reduce Labor Costs
+      - Improve Quality
+      - Reduce Downtime
+      - Improve Worker Safety
+      - Reduce Energy Consumption
+      - Enable Customization
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other insights or concerns?
+      type: text
+      options: []
+      required: false

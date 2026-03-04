@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Worker Health Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: health_issues
+      label: Health Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_practices
+      label: Safety Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: access_to_care
+      label: Access to Care
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: farm_characteristics
+      label: Farm Characteristics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: farm_characteristics_2
+      label: Farm Characteristics 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: farm_characteristics_3
+      label: Farm Characteristics 3
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false

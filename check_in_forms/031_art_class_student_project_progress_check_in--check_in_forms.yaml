@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Class Student Project Progress Check In
+    pages:
+    - id: 1
+      name: section_student
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: class_name
+      label: Class Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_project
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_type
+      label: Project Type or Medium
+      hint: Drawing, painting, sculpture, digital, etc.
+      type: select_one
+      options:
+      - Drawing
+      - Painting
+      - Sculpture
+      - Digital art
+      - Printmaking
+      - Photography
+      - Mixed media
+      - Other
+      required: true
+    - id: 9
+      name: project_description
+      label: Brief Project Description
+      hint: What are you working on
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_progress
+      label: -- Progress Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: completion_percentage
+      label: Project Completion Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: progress_status
+      label: Overall Progress Status
+      hint: null
+      type: select_one
+      options:
+      - On track
+      - Slightly behind
+      - Significantly behind
+      - Ahead of schedule
+      required: true
+    - id: 13
+      name: current_work
+      label: Current Work in Progress
+      hint: What are you actively working on
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: recent_accomplishments
+      label: Recent Accomplishments or Milestones
+      hint: What have you completed since last check-in
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_challenges
+      label: -- Challenges and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: challenges_faced
+      label: Challenges or Obstacles Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: challenges_resolved
+      label: How have you addressed these challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assistance_needed
+      label: Do you need assistance or feedback
+      hint: null
+      type: select_one
+      options:
+      - Yes, technical assistance
+      - Yes, conceptual feedback
+      - Yes, other
+      - No, on track
+      required: true
+    - id: 19
+      name: assistance_details
+      label: Details on Assistance Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_next_steps
+      label: -- Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: next_steps
+      label: Next Steps or Goals for This Project
+      hint: What will you work on next
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: timeline_completion
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: section_reflection
+      label: -- Reflection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: self_assessment
+      label: Self-Assessment of Your Work
+      hint: null
+      type: select_one
+      options:
+      - Excellent progress
+      - Good progress
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

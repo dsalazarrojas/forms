@@ -1,0 +1,776 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Main Kit Checklist
+    pages:
+    - id: 1
+      name: section_general_info
+      label: -- General Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: checklist_date
+      label: Checklist Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: ambulance_unit
+      label: Ambulance Unit Number
+      hint: Vehicle identification
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: checked_by
+      label: Checked By
+      hint: Name of person completing checklist
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Day Shift
+      - Evening Shift
+      - Night Shift
+      required: true
+    - id: 6
+      name: section_airway_management
+      label: -- Airway Management Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bag_valve_masks
+      label: Bag-Valve Masks (BVM)
+      hint: Adult, pediatric, infant sizes
+      type: select_one
+      options:
+      - Complete - All sizes present
+      - Partially complete
+      - Incomplete - Missing sizes
+      required: true
+    - id: 8
+      name: oropharyngeal_airways
+      label: Oropharyngeal Airways (OPA)
+      hint: Various sizes
+      type: select_one
+      options:
+      - Complete - All sizes
+      - Partially complete
+      - Incomplete
+      required: true
+    - id: 9
+      name: nasopharyngeal_airways
+      label: Nasopharyngeal Airways (NPA)
+      hint: Various sizes
+      type: select_one
+      options:
+      - Complete - All sizes
+      - Partially complete
+      - Incomplete
+      required: true
+    - id: 10
+      name: endotracheal_tubes
+      label: Endotracheal Tubes (ETT)
+      hint: Various sizes
+      type: select_one
+      options:
+      - Complete - All sizes
+      - Partially complete
+      - Incomplete
+      required: true
+    - id: 11
+      name: laryngoscope_handles
+      label: Laryngoscope Handles
+      hint: With batteries
+      type: select_one
+      options:
+      - Functional with spare batteries
+      - Functional - No spares
+      - Not functional
+      required: true
+    - id: 12
+      name: laryngoscope_blades
+      label: Laryngoscope Blades
+      hint: Mac and Miller blades
+      type: select_one
+      options:
+      - Complete - All sizes
+      - Partially complete
+      - Incomplete
+      required: true
+    - id: 13
+      name: stylets
+      label: Stylets
+      hint: For intubation
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 14
+      name: bougie
+      label: Bougie/Intubating Stylet
+      hint: null
+      type: select_one
+      options:
+      - Present
+      - Missing
+      required: true
+    - id: 15
+      name: section_oxygen_therapy
+      label: -- Oxygen Therapy Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: oxygen_tanks
+      label: Oxygen Tanks
+      hint: D and E cylinders
+      type: select_one
+      options:
+      - Full and secured
+      - Partially full
+      - Needs refill
+      required: true
+    - id: 17
+      name: oxygen_regulators
+      label: Oxygen Regulators
+      hint: Flow meters
+      type: select_one
+      options:
+      - Functional
+      - Needs service
+      - Not functional
+      required: true
+    - id: 18
+      name: nasal_cannulas
+      label: Nasal Cannulas
+      hint: Adult and pediatric
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 19
+      name: oxygen_masks
+      label: Oxygen Masks
+      hint: Simple, non-rebreather, Venturi
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 20
+      name: nebulizer_masks
+      label: Nebulizer Masks/Tubing
+      hint: null
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 21
+      name: section_iv_therapy
+      label: -- IV Therapy Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: iv_catheters
+      label: IV Catheters
+      hint: Various gauges
+      type: select_one
+      options:
+      - Complete - All sizes
+      - Partially complete
+      - Incomplete
+      required: true
+    - id: 23
+      name: iv_tubing
+      label: IV Tubing
+      hint: Primary and secondary
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 24
+      name: iv_fluids
+      label: IV Fluids
+      hint: Normal saline, LR, D5W
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 25
+      name: iv_bags
+      label: IV Fluid Bags
+      hint: Various sizes
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 26
+      name: tourniquets
+      label: Tourniquets
+      hint: null
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 27
+      name: alcohol_prep_pads
+      label: Alcohol Prep Pads
+      hint: null
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 28
+      name: iv_dressings
+      label: IV Dressings/Tegaderm
+      hint: null
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 29
+      name: tape
+      label: Medical Tape
+      hint: Various types
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 30
+      name: section_wound_care
+      label: -- Wound Care Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: gauze_pads
+      label: Gauze Pads
+      hint: Various sizes
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 32
+      name: roller_gauze
+      label: Roller Gauze
+      hint: null
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 33
+      name: trauma_dressings
+      label: Trauma Dressings
+      hint: Large absorbent pads
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 34
+      name: adhesive_bandages
+      label: Adhesive Bandages
+      hint: Various sizes
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 35
+      name: elastic_bandages
+      label: Elastic Bandages
+      hint: ACE wraps
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 36
+      name: triangular_bandages
+      label: Triangular Bandages
+      hint: For slings
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 37
+      name: burn_sheets
+      label: Burn Sheets
+      hint: Sterile
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 38
+      name: occlusive_dressings
+      label: Occlusive Dressings
+      hint: For chest wounds
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 39
+      name: section_immobilization
+      label: -- Immobilization Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: cervical_collars
+      label: Cervical Collars
+      hint: Various sizes
+      type: select_one
+      options:
+      - Complete - All sizes
+      - Partially complete
+      - Incomplete
+      required: true
+    - id: 41
+      name: splints
+      label: Splints
+      hint: SAM, vacuum, air
+      type: select_one
+      options:
+      - Complete - Various types
+      - Partially complete
+      - Incomplete
+      required: true
+    - id: 42
+      name: backboard
+      label: Backboard
+      hint: Long spine board
+      type: select_one
+      options:
+      - Present and clean
+      - Present - Needs cleaning
+      - Missing
+      required: true
+    - id: 43
+      name: backboard_straps
+      label: Backboard Straps
+      hint: At least 5 straps
+      type: select_one
+      options:
+      - Complete - 5 or more
+      - Incomplete - Less than 5
+      - Missing
+      required: true
+    - id: 44
+      name: head_immobilizer
+      label: Head Immobilizer
+      hint: Blocks or tape
+      type: select_one
+      options:
+      - Present
+      - Missing
+      required: true
+    - id: 45
+      name: section_diagnostic
+      label: -- Diagnostic Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 46
+      name: blood_pressure_cuffs
+      label: Blood Pressure Cuffs
+      hint: Various sizes
+      type: select_one
+      options:
+      - Complete - All sizes
+      - Partially complete
+      - Incomplete
+      required: true
+    - id: 47
+      name: stethoscopes
+      label: Stethoscopes
+      hint: null
+      type: select_one
+      options:
+      - Present and functional
+      - Present - Needs replacement
+      - Missing
+      required: true
+    - id: 48
+      name: thermometers
+      label: Thermometers
+      hint: With probe covers
+      type: select_one
+      options:
+      - Present with supplies
+      - Present - No supplies
+      - Missing
+      required: true
+    - id: 49
+      name: pulse_oximeter
+      label: Pulse Oximeter
+      hint: With probe
+      type: select_one
+      options:
+      - Present and functional
+      - Present - Not functional
+      - Missing
+      required: true
+    - id: 50
+      name: glucometer
+      label: Glucometer
+      hint: With test strips and lancets
+      type: select_one
+      options:
+      - Present with supplies
+      - Present - Needs supplies
+      - Missing
+      required: true
+    - id: 51
+      name: section_medications
+      label: -- Medications --
+      hint: Check expiration dates
+      type: note
+      options: []
+      required: false
+    - id: 52
+      name: epinephrine
+      label: Epinephrine
+      hint: "1:1000 and 1:10000"
+      type: select_one
+      options:
+      - Present - Not expired
+      - Present - Expired
+      - Missing
+      required: true
+    - id: 53
+      name: aspirin
+      label: Aspirin
+      hint: Chewable
+      type: select_one
+      options:
+      - Present - Not expired
+      - Present - Expired
+      - Missing
+      required: true
+    - id: 54
+      name: nitroglycerin
+      label: Nitroglycerin
+      hint: Tablets or spray
+      type: select_one
+      options:
+      - Present - Not expired
+      - Present - Expired
+      - Missing
+      required: true
+    - id: 55
+      name: albuterol
+      label: Albuterol
+      hint: For nebulizer
+      type: select_one
+      options:
+      - Present - Not expired
+      - Present - Expired
+      - Missing
+      required: true
+    - id: 56
+      name: dextrose
+      label: Dextrose
+      hint: D50 or gel
+      type: select_one
+      options:
+      - Present - Not expired
+      - Present - Expired
+      - Missing
+      required: true
+    - id: 57
+      name: naloxone
+      label: Naloxone (Narcan)
+      hint: null
+      type: select_one
+      options:
+      - Present - Not expired
+      - Present - Expired
+      - Missing
+      required: true
+    - id: 58
+      name: section_ppe
+      label: -- Personal Protective Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 59
+      name: gloves_nitrile
+      label: Nitrile Gloves
+      hint: Various sizes
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 60
+      name: gloves_latex
+      label: Latex Gloves
+      hint: If used
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      - Not used
+      required: false
+    - id: 61
+      name: face_masks
+      label: Face Masks
+      hint: Surgical masks
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 62
+      name: n95_masks
+      label: N95 Respirators
+      hint: null
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 63
+      name: eye_protection
+      label: Eye Protection
+      hint: Goggles or face shields
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 64
+      name: gowns
+      label: Protective Gowns
+      hint: Disposable
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 65
+      name: hand_sanitizer
+      label: Hand Sanitizer
+      hint: null
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 66
+      name: section_suction
+      label: -- Suction Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 67
+      name: suction_catheters
+      label: Suction Catheters
+      hint: French and Yankauer
+      type: select_one
+      options:
+      - Complete - Various sizes
+      - Partially complete
+      - Incomplete
+      required: true
+    - id: 68
+      name: suction_canisters
+      label: Suction Canisters/Liners
+      hint: null
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 69
+      name: section_miscellaneous
+      label: -- Miscellaneous Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 70
+      name: scissors_shears
+      label: Trauma Shears/Scissors
+      hint: null
+      type: select_one
+      options:
+      - Present and functional
+      - Present - Needs replacement
+      - Missing
+      required: true
+    - id: 71
+      name: blankets
+      label: Blankets
+      hint: Various sizes
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 72
+      name: towels
+      label: Towels
+      hint: For cleaning
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 73
+      name: biohazard_bags
+      label: Biohazard Bags
+      hint: null
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 74
+      name: trash_bags
+      label: Trash Bags
+      hint: null
+      type: select_one
+      options:
+      - Adequate supply
+      - Low supply
+      - Depleted
+      required: true
+    - id: 75
+      name: section_overall
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 76
+      name: kit_status
+      label: Overall Kit Status
+      hint: null
+      type: select_one
+      options:
+      - Complete - Ready for service
+      - Mostly complete - Minor items needed
+      - Incomplete - Restocking needed
+      - Incomplete - Not ready for service
+      required: true
+    - id: 77
+      name: items_needed
+      label: Items Needed for Restocking
+      hint: List all missing or low items
+      type: text
+      options: []
+      required: false
+    - id: 78
+      name: expired_items
+      label: Expired Items Found
+      hint: List items past expiration
+      type: text
+      options: []
+      required: false
+    - id: 79
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 80
+      name: supervisor_notification
+      label: Does Supervisor Need Notification
+      hint: If kit is incomplete
+      type: select_one
+      options:
+      - No - Kit is complete
+      - Yes - Minor issues
+      - Yes - Urgent restocking needed
+      required: true
+    - id: 81
+      name: checklist_completed_by
+      label: Checklist Completed By
+      hint: Signature
+      type: text
+      options: []
+      required: true
+    - id: 82
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Signature if required
+      type: text
+      options: []
+      required: false

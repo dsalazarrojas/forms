@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Modification Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Requester Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_number
+      label: Account Number
+      hint: Your account number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_account_holder_name
+      label: Current Account Holder Name
+      hint: Name currently on the account
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: modification_type
+      label: Modification Type
+      hint: What type of modification are you requesting?
+      type: select_one
+      options:
+      - Update Personal Information
+      - Change Password
+      - Update Contact Information
+      - Modify Account Permissions
+      - Change Account Type
+      - Update Payment Method
+      - Other
+      required: true
+    - id: 7
+      name: specific_changes_requested
+      label: Specific Changes Requested
+      hint: Describe the specific changes you want to make
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reason_for_modification
+      label: Reason for Modification
+      hint: Why do you need to make these changes?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_password
+      label: Current Password
+      hint: Your current account password (for security verification)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: new_information
+      label: New Information
+      hint: What is the new information you want to update?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: effective_date
+      label: Effective Date
+      hint: When should these changes take effect?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this modification?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 13
+      name: business_impact
+      label: Business Impact
+      hint: What is the business impact of this modification?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: authorization_required
+      label: Authorization Required
+      hint: Does this modification require additional authorization?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Depends on type of change
+      required: true
+    - id: 15
+      name: secondary_contact_name
+      label: Secondary Contact Name
+      hint: Name of secondary contact for verification
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: secondary_contact_phone
+      label: Secondary Contact Phone
+      hint: Phone number of secondary contact
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: security_questions_answers
+      label: Security Questions Answers
+      hint: Answer to your security questions for verification
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: compliance_requirements
+      label: Compliance Requirements
+      hint: Are there any compliance requirements for this modification?
+      type: select_multiple
+      options:
+      - GDPR
+      - SOX
+      - HIPAA
+      - PCI DSS
+      - Other
+      - None
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your modification request
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name to sign this modification request
+      type: text
+      options: []
+      required: true

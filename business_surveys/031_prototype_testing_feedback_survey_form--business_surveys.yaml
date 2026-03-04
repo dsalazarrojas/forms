@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prototype Testing Feedback Survey Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Overall Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: usability
+      label: Usability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: performance
+      label: Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: features
+      label: New Features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Feature 1'', ''label'': ''Feature 1''}'
+      - '{''id'': 2, ''name'': ''feature_2'', ''label'': ''Feature 2''}'
+      - '{''id'': 3, ''name'': ''feature_3'', ''label'': ''Feature 3''}'
+      - '{''id'': 4, ''name'': ''feature_4'', ''label'': ''Feature 4''}'
+      - '{''id'': 5, ''name'': ''feature_5'', ''label'': ''Feature 5''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rating_1
+      label: Rating 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 12
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 13
+      name: rating_3
+      label: Rating 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''option_2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Resilience Improvement Application
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Official business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_registration_number
+      label: Business Registration Number
+      hint: Government or registration ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Primary contact for this application
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_industry
+      label: Business Industry
+      hint: Primary industry sector
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_count
+      label: Number of Employees
+      hint: Total workforce size
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: annual_turnover
+      label: Annual Turnover
+      hint: Approximate annual revenue
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: improvement_objectives
+      label: Primary Improvement Objectives
+      hint: What do you want to improve
+      type: select_multiple
+      options:
+      - Risk Management
+      - Business Continuity
+      - Supply Chain
+      - Financial Stability
+      - Leadership Capacity
+      - Technology Systems
+      - Workforce Development
+      required: true
+    - id: 10
+      name: current_challenges
+      label: Current Resilience Challenges
+      hint: Describe your main challenges
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: previous_disruptions
+      label: Previous Disruptions or Crises
+      hint: Have you experienced disruptions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: improvement_urgency
+      label: Urgency of Improvement Needs
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Immediate
+      - Very Urgent
+      - Urgent
+      - Important
+      - Can Wait
+      required: true
+    - id: 13
+      name: budget_available
+      label: Budget Available for Improvements
+      hint: Funds available for resilience improvements
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: improvement_timeline
+      label: Desired Improvement Timeline
+      hint: When do you want to complete improvements
+      type: select_one
+      options:
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 12+ months
+      required: true
+    - id: 15
+      name: support_types
+      label: Types of Support Needed
+      hint: What kind of assistance do you need
+      type: select_multiple
+      options:
+      - Consulting
+      - Training
+      - Financial Assistance
+      - Technical Support
+      - Process Improvement
+      - Mentoring
+      required: true
+    - id: 16
+      name: key_decision_maker
+      label: Key Decision Maker Involved
+      hint: Will senior leadership be involved
+      type: select_one
+      options:
+      - Owner/CEO
+      - Management Team
+      - Department Head
+      - Other
+      required: true
+    - id: 17
+      name: previous_support
+      label: Previous Support or Assessments
+      hint: Have you received external support before
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: success_metrics
+      label: Success Metrics or Goals
+      hint: How will you measure success
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: application_date
+      label: Application Submission Date
+      hint: Date of this application
+      type: date
+      options: []
+      required: true

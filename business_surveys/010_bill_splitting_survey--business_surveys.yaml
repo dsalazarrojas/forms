@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bill Splitting Survey
+    pages:
+      - id: 1
+        name: demographics_header
+        label: -- General Habits --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: dining_frequency
+        label: How often do you dine out with groups?
+        hint: Groups of 3 or more people
+        type: select_one
+        options:
+          - Multiple times a week
+          - Once a week
+          - 2-3 times a month
+          - Rarely
+        required: true
+      - id: 3
+        name: primary_splitting_method
+        label: What is your preferred method for splitting a bill?
+        hint: null
+        type: select_one
+        options:
+          - Split equally among everyone
+          - Each person pays for what they ordered
+          - One person pays and others reimburse
+          - Alternating who pays each time
+        required: true
+      - id: 4
+        name: split_logic_header
+        label: -- Splitting Preferences --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: shared_items_handling
+        label: How should shared appetizers or drinks be handled?
+        hint: null
+        type: select_one
+        options:
+          - Split equally among everyone
+          - Paid by the person who ordered them
+          - Absorbed by the highest earners in the group
+        required: true
+      - id: 6
+        name: tip_calculation
+        label: How do you usually handle the tip when splitting?
+        hint: null
+        type: select_one
+        options:
+          - Fixed percentage of the total split equally
+          - Everyone adds a percentage to their own portion
+          - Rounding up to the nearest convenient number
+        required: true
+      - id: 7
+        name: pain_points_header
+        label: -- Challenges --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: biggest_frustration
+        label: What is your biggest frustration when splitting a bill?
+        hint: null
+        type: select_multiple
+        options:
+          - Doing the math
+          - People who order more but want to split equally
+          - Dealing with multiple cards
+          - Forgetting who owes what
+          - Awkwardness of asking for money
+        required: true
+      - id: 9
+        name: tool_usage
+        label: Do you use apps to help split bills?
+        hint: e.g., Splitwise, Venmo, Cash App
+        type: select_one
+        options:
+          - Yes, always
+          - Sometimes
+          - Never, I prefer mental math or calculators
+        required: true
+      - id: 10
+        name: cash_handling
+        label: How often do you use cash to settle group bills?
+        hint: null
+        type: select_one
+        options:
+          - Frequently
+          - Occasionally
+          - Almost Never
+        required: true
+      - id: 11
+        name: social_comfort_header
+        label: -- Social Dynamics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: discussing_split_comfort
+        label: How comfortable are you discussing the split before ordering?
+        hint: 1 being very uncomfortable, 5 being very comfortable
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: income_disparity_impact
+        label: Does income disparity in the group affect how you split?
+        hint: null
+        type: select_one
+        options:
+          - Yes, significantly
+          - A little bit
+          - Not at all
+        required: true
+      - id: 14
+        name: app_feature_suggestion
+        label: What feature would make a bill-splitting app perfect for you?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: survey_consent
+        label: I consent to my anonymous data being used for research purposes
+        hint: null
+        type: select_one
+        options:
+          - I Consent
+          - I Do Not Consent
+        required: true

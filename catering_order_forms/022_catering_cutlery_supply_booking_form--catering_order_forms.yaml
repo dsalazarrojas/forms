@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Cutlery Supply Booking Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: booking_date
+      label: Booking Date
+      hint: Date of this booking
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Date cutlery is needed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: When will cutlery be returned
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Conference
+      - Private Party
+      - Other
+      required: true
+    - id: 9
+      name: guest_count
+      label: Number of Guests
+      hint: Expected guest count
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: forks_needed
+      label: Forks Needed
+      hint: Number of forks
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: knives_needed
+      label: Knives Needed
+      hint: Number of knives
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: spoons_needed
+      label: Spoons Needed
+      hint: Number of spoons
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: dessert_forks
+      label: Dessert Forks
+      hint: Number of dessert forks
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: serving_spoons
+      label: Serving Spoons
+      hint: Number of serving spoons
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: serving_forks
+      label: Serving Forks
+      hint: Number of serving forks
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: specialty_cutlery
+      label: Specialty Cutlery
+      hint: Any specialty items needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: cutlery_style
+      label: Cutlery Style
+      hint: Preferred style or finish
+      type: select_one
+      options:
+      - Standard Silver
+      - Gold Plated
+      - Rose Gold
+      - Matte Black
+      - Vintage
+      - No Preference
+      required: true
+    - id: 18
+      name: delivery_needed
+      label: Delivery Needed
+      hint: Do you need delivery
+      type: select_one
+      options:
+      - true
+      - No - Will Pickup
+      - No - Will Drop Off
+      required: true
+    - id: 19
+      name: delivery_address
+      label: Delivery Address
+      hint: Where to deliver
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: pickup_time
+      label: Preferred Pickup Time
+      hint: When to pick up
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: deposit_paid
+      label: Deposit Paid
+      hint: Have you paid the deposit
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

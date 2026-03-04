@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Access Control Experience Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_type
+      label: what_type_of_facility
+      hint: null
+      type: select_multiple
+      options:
+      - Facilities
+      - Office Buildings
+      - Warehouses
+      - Other
+      required: false
+    - id: 3
+      name: facility_size
+      label: what_is_size_of_facility
+      hint: null
+      type: select_one
+      options:
+      - 10 or less
+      - 11-50
+      - 51-100
+      - 101 or more
+      required: false
+    - id: 4
+      name: how_many_people
+      label: how_many_people_visit_facility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: visit_frequency
+      label: how_frequent_do_you_visit
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Regularly
+      - Almost Daily
+      required: false
+    - id: 6
+      name: last_visit_duration
+      label: how_long_does_last_visit_last
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: facility_access_control_experience
+      label: how_would_you_rate_your_experience
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Average
+      - Bad
+      required: false
+    - id: 8
+      name: overall_experience
+      label: overall_experience_of_facility_access_control
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Average
+      - Bad
+      required: false
+    - id: 9
+      name: comments
+      label: comments_about_facility_access_control
+      hint: Please tell us any additional comments you would like to share.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false

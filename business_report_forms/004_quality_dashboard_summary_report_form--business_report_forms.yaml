@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Dashboard Summary Report Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: summary_section
+      label: Quality Dashboard Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quality_issues
+      label: Quality Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quality_kpis
+      label: Quality KPIs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quality_issues_list
+      label: Quality Issues List
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 8
+      name: quality_kpi1
+      label: Quality KPI 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: quality_kpi2
+      label: Quality KPI 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Jim Smith
+      required: false
+    - id: 15
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Customer Service
+      required: false
+    - id: 18
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Employee
+      - Contractor
+      required: false

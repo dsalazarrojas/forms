@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: election_contexts_survey
+    pages:
+    - id: 1
+      name: election_context
+      label: Election Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Option 1''}'
+      - '{''id'': 2, ''text'': ''Option 2''}'
+      - '{''id'': 3, ''text'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: participation
+      label: Participation
+      hint: How often do you participate in elections?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Always''}'
+      - '{''id'': 2, ''text'': ''Sometimes''}'
+      - '{''id'': 3, ''text'': ''Rarely''}'
+      - '{''id'': 4, ''text'': ''Never''}'
+      required: false
+    - id: 4
+      name: info_sources
+      label: Info Sources
+      hint: Where do you usually get election-related information?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Social Media''}'
+      - '{''id'': 2, ''text'': ''Friends''}'
+      - '{''id'': 3, ''text'': ''Family''}'
+      - '{''id'': 4, ''text'': ''News''}'
+      - '{''id'': 5, ''text'': ''Online''}'
+      - '{''id'': 6, ''text'': ''Offline''}'
+      required: false
+    - id: 5
+      name: fairness_perception
+      label: Fairness Perceptions
+      hint: How fair do you perceive the election process to be?
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Fair''}'
+      - '{''id'': 2, ''text'': ''Not Fair''}'
+      - '{''id'': 3, ''text'': ''Neutral''}'
+      required: false
+    - id: 6
+      name: other_info
+      label: Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: researcher_notes
+      label: Researcher Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: researcher_comments
+      label: Researcher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: researcher_id
+      label: Researcher ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: researcher_email
+      label: Researcher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: researcher_phone
+      label: Researcher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: researcher_comments
+      label: Researcher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: research_group
+      label: Research Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: research_group_id
+      label: Research Group ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: research_notes
+      label: Research Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: research_group_comments
+      label: Research Group Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: research_group_email
+      label: Research Group Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: research_group_phone
+      label: Research Group Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false

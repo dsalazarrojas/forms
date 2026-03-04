@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Depreciation Schedule Form
+    pages:
+    - id: 1
+      name: asset_name
+      label: asset_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Asset''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: acquisition_date
+      label: acquisition_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: cost_basis
+      label: cost_basis
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Volunteer Check In
+    pages:
+    - id: 1
+      name: volunteer_name
+      label: Volunteer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: volunteer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: Which event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: check_in_time
+      label: Check-In Time
+      hint: Arrival time
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: assigned_role
+      label: Assigned Role
+      hint: Your position
+      type: select_one
+      options:
+      - Registration desk
+      - Usher
+      - Setup crew
+      - Breakdown crew
+      - Food service
+      - Auction helper
+      - Information booth
+      - Float runner
+      - Other
+      required: true
+    - id: 8
+      name: assigned_location
+      label: Assigned Location
+      hint: Where to work
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shift_time
+      label: Shift Time
+      hint: Scheduled hours
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Who to report to
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: uniform_received
+      label: Uniform Received
+      hint: T-shirt or vest
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 12
+      name: uniform_size
+      label: Uniform Size
+      hint: If received
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Not applicable
+      required: false
+    - id: 13
+      name: materials_received
+      label: Materials Received
+      hint: Clipboard badge etc
+      type: select_multiple
+      options:
+      - Name badge
+      - Clipboard
+      - Pen
+      - Radio
+      - Volunteer handbook
+      - None
+      required: true
+    - id: 14
+      name: training_completed
+      label: Training Completed
+      hint: Prior training
+      type: select_one
+      options:
+      - Yes online
+      - Yes in person
+      - No first time
+      required: true
+    - id: 15
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: health_concerns
+      label: Any Health Concerns
+      hint: Allergies conditions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: check_out_time
+      label: Check-Out Time
+      hint: When leaving
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: hours_worked
+      label: Total Hours Worked
+      hint: Duration
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: volunteer_signature
+      label: I confirm my check-in
+      hint: Agreement
+      type: select_one
+      options:
+      - Yes confirmed
+      - false
+      required: true

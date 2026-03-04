@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Music Camp Registration
+    pages:
+    - id: 1
+      name: registrant_info
+      label: registrant info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: music_experience
+      label: music_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: camp_date
+      label: camp_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: scholarship
+      label: scholarship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment
+      label: payment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: music_instruments
+      label: music_instruments
+      hint: list of instruments you play
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: camp_preferences
+      label: camp_preferences
+      hint: list of preferences
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: emergency_contact
+      hint: Name and phone number of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_expenses
+      label: other expenses
+      hint: null
+      type: number
+      options: []
+      required: false

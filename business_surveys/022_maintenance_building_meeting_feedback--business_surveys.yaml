@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Building Meeting Feedback
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_attendance
+      label: Meeting Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: meeting_topic
+      label: Meeting Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: action_item_1
+      label: Action Item 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: action_item_1_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: maintenance_contact
+      label: Maintenance Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: maintenance_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: maintenance_contact_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meeting_facilitator
+      label: Meeting Facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: meeting_facilitator_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: meeting_facilitator_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: meeting_facilitator_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: meeting_participant_1
+      label: Participant 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: meeting_participant_1_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: meeting_participant_1_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: meeting_participant_1_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: meeting_participant_2
+      label: Participant 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: meeting_participant_2_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: meeting_participant_2_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: meeting_participant_2_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

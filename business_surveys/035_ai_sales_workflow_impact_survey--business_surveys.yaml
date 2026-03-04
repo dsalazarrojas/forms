@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Sales Workflow Impact Survey
+    pages:
+    - id: 1
+      name: --sales_team_information--
+      label: -- Sales Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_size
+      label: Sales team size
+      hint: Number of people in sales team
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ai_tools_in_use
+      label: AI tools currently in use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lead scoring
+      - Automated outreach
+      - Conversational agents
+      - CRM augmentation
+      - Forecasting
+      required: true
+    - id: 5
+      name: observed_benefits
+      label: Observed benefits from AI tools
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Higher conversion
+      - Faster response
+      - Better lead qualification
+      - Time saved on admin tasks
+      required: true
+    - id: 6
+      name: workflow_disruptions
+      label: Workflow disruptions experienced
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Integration issues
+      - Incorrect recommendations
+      - Data syncing problems
+      - User adoption resistance
+      required: false
+    - id: 7
+      name: roi_estimate
+      label: Estimated ROI from AI tools
+      hint: Percentage improvement or dollar value
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_needed
+      label: Training needs for sales team
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Tool usage
+      - Interpreting recommendations
+      - Data hygiene
+      - Change management
+      required: false
+    - id: 9
+      name: implementation_priority
+      label: Priority for further investment in AI
+      hint: Select one
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Optional
+      type: text
+      options: []
+      required: false

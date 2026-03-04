@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inheritance Tax Calculator Form
+    pages:
+    - id: 1
+      name: estate_details
+      label: Estate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: estate_value
+      label: Estate Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: beneficiaries
+      label: Beneficiaries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: executor_incentives
+      label: Executor Incentives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: other_incentives
+      label: Other Incentives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tax_calculation
+      label: Tax Calculation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Round Decimals Downward Calculation Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Round Decimals Downward Calculation Form
+      hint: A form to conduct precise calculations
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: decimal_downward_rounding
+      label: Decimal Downward Rounding
+      hint: null
+      type: select_one
+      options:
+      - Upwards
+      - Downwards
+      required: false
+    - id: 3
+      name: number_of_decimals
+      label: Number of Decimals
+      hint: Please enter
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: form_description
+      label: Form Description
+      hint: A description of the form
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: decimal_points
+      label: Decimal Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: decimal_point_value
+      label: Decimal Point Value
+      hint: Enter decimal point value
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Calculation Forms
+      - Accountant Forms
+      required: false
+    - id: 8
+      name: form_output
+      label: Form Output
+      hint: null
+      type: select_multiple
+      options:
+      - Calculation Result
+      - Form Description
+      required: false
+    - id: 9
+      name: form_assigned_tool
+      label: Form Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - Chatjimmy
+      - Other
+      required: false

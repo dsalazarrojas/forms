@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: 'Form Calculation: Math Function Reference Months()'
+    pages:
+    - id: 1
+      name: input_form_calculation_math_function_reference_months_1
+      label: months
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 2
+      name: input_form_calculation_math_function_reference_months_2
+      label: function_name
+      hint: null
+      type: select_one
+      options:
+      - months
+      - year
+      - week
+      required: false
+    - id: 3
+      name: input_form_calculation_math_function_reference_months_3
+      label: value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: input_form_calculation_math_function_reference_months_4
+      label: milliseconds
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Light Pollution Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nighttime_lighting
+      label: Night Time Lighting
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: skyglow
+      label: Sky Glow
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skyglow_level
+      label: Sky Glow Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''None''}'
+      - '{''id'': 2, ''name'': ''Low''}'
+      - '{''id'': 3, ''name'': ''Moderate''}'
+      - '{''id'': 4, ''name'': ''High''}'
+      required: false
+    - id: 5
+      name: energy_use
+      label: Energy Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: energy_source
+      label: Energy Source
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Electricity''}'
+      - '{''id'': 2, ''name'': ''Gas''}'
+      - '{''id'': 3, ''name'': ''Solar''}'
+      - '{''id'': 4, ''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

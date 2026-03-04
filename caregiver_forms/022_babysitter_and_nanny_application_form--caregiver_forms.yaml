@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitter And Nanny Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For application updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Address
+      hint: City and postal code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: years_experience
+      label: Years of childcare experience
+      hint: Enter whole years
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: certifications
+      label: Certifications and training
+      hint: CPR first aid early childhood
+      type: select_multiple
+      options:
+      - CPR
+      - First aid
+      - Early childhood education
+      - None
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: Weekdays evenings weekends
+      type: select_multiple
+      options:
+      - Weekdays
+      - Evenings
+      - Weekends
+      - Overnight
+      required: true
+    - id: 8
+      name: references
+      label: Professional references
+      hint: Name phone and relationship
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photo_video_upload_instructions
+      label: Photo and video upload instructions
+      hint: Provide clear photo or video as described
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: background_check_consent
+      label: Consent for background check
+      hint: Required for employment consideration
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

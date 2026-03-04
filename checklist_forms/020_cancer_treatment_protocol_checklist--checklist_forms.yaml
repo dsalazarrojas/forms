@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cancer Treatment Protocol Checklist
+    pages:
+    - id: 1
+      name: patient_id_section
+      label: -- Patient Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name for verification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mrn
+      label: Medical Record Number
+      hint: Required for patient safety and record linking
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: protocol_name
+      label: Protocol Name
+      hint: Specify the oncology regimen (e.g. ABVD, FOLFOX)
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: cycle_number
+      label: Cycle Number
+      hint: Which cycle of the treatment is this
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: treatment_date
+      label: Date of Treatment
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: pre_treatment_section
+      label: -- Pre-Treatment Requirements --
+      hint: Checks to be performed before drug administration
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: blood_work_status
+      label: Blood work completed and reviewed
+      hint: Confirm latest lab results are acceptable
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 9
+      name: informed_consent_status
+      label: Informed consent signed and on file
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: patient_weight_confirm
+      label: Patient weight confirmed
+      hint: Recorded in kg today for dosage calculation
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vitals_status
+      label: Vital signs recorded
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal - Physician Notified
+      - Not Yet Recorded
+      required: true
+    - id: 12
+      name: med_verification_section
+      label: -- Medication Verification --
+      hint: Two-nurse verification protocol
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: dosage_calculation_verify
+      label: Drug dosage calculated based on BSA
+      hint: BSA = Body Surface Area
+      type: select_one
+      options:
+      - Verified by Nurse 1
+      - Verified by Nurse 2
+      - Not Verified
+      required: true
+    - id: 14
+      name: pre_meds_administered
+      label: Pre-medications administered
+      hint: Select all given to the patient
+      type: select_multiple
+      options:
+      - Antiemetics
+      - Steroids
+      - Antihistamines
+      - IV Fluids
+      - Other
+      required: true
+    - id: 15
+      name: administration_section
+      label: -- Administration Checklist --
+      hint: During the treatment session
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: iv_access_patency
+      label: IV Access Patency Confirmed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: infusion_start_time
+      label: Infusion Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: infusion_end_time
+      label: Infusion End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: reaction_monitoring
+      label: Patient monitored for adverse reactions
+      hint: Observe for any hypersensitivity
+      type: select_one
+      options:
+      - No reactions
+      - Minor reaction - Managed
+      - Major reaction - Protocol stopped
+      required: true
+    - id: 20
+      name: post_treatment_section
+      label: -- Post-Treatment --
+      hint: Aftercare and scheduling
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: post_treatment_teaching
+      label: Post-treatment teaching provided
+      hint: Instructions on side effects and contact info
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: follow_up_labs_date
+      label: Follow-up labs scheduled
+      hint: Date for the next blood count
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: nurse_signature
+      label: Nurse Signature
+      hint: Full name of the administering nurse
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: completion_timestamp
+      label: Date and Time of Completion
+      hint: null
+      type: date
+      options: []
+      required: true

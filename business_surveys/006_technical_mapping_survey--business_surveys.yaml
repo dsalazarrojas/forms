@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technical Mapping Survey
+    pages:
+    - id: 1
+      name: project_types
+      label: Project Types
+      hint: null
+      type: select_one
+      options:
+      - Software Development
+      - Data Science
+      - IT Project Management
+      - Other
+      required: false
+    - id: 2
+      name: mapping_techniques
+      label: Mapping Techniques
+      hint: null
+      type: select_multiple
+      options:
+      - Entity-Relationship Modeling
+      - Data Model
+      - Business Process Model and Notation
+      - Other
+      required: false
+    - id: 3
+      name: tools_used
+      label: Tools Used
+      hint: null
+      type: select_multiple
+      options:
+      - Microsoft Visio
+      - Lucidchart
+      - Sparx Systems Enterprise Architect
+      - Other
+      required: false
+    - id: 4
+      name: project_challenges
+      label: Project Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Time constraints
+      - Complexity
+      - Limited Resources
+      - Other
+      required: false
+    - id: 5
+      name: current_practices
+      label: Current Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: future_initiatives
+      label: Future Initiatives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

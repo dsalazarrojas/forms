@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Add Days - Date Calculation Form
+    pages:
+    - id: 1
+      name: calc_intro
+      label: -- Date Calculation Tool --
+      hint: This tool helps calculate future dates based on a starting point and a
+        number of days
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Select Start Date
+      hint: The initial date for the calculation
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: days_to_add
+      label: Number of Days to Add
+      hint: Enter a whole number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: calculation_method
+      label: Calculation Logic
+      hint: null
+      type: select_one
+      options:
+      - Calendar Days (Standard)
+      - Business Days Only (Excl. Weekends)
+      - Working Days (Excl. Weekends and Holidays)
+      required: true
+    - id: 5
+      name: result_header
+      label: -- Calculation Result --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: projected_date
+      label: Calculated Target Date
+      hint: This would be the result of addDays(start_date, days_to_add)
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_reference
+      label: Project or Reference Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_confirmation
+      label: I confirm the calculated date is correct for my records
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true

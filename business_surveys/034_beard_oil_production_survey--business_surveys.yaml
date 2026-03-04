@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beard Oil Production Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: company_name
+        label: Company Name
+        hint: Your company
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: role
+        label: Your Role
+        hint: Job title
+        type: select_one
+        options:
+          - Owner
+          - Production Manager
+          - Quality Control
+          - Formulator
+          - Marketing
+          - Other
+        required: true
+      - id: 5
+        name: production_volume
+        label: Monthly Production Volume
+        hint: Bottles per month
+        type: select_one
+        options:
+          - Under 100 bottles
+          - 100-500 bottles
+          - 501-1000 bottles
+          - 1001-5000 bottles
+          - Over 5000 bottles
+        required: true
+      - id: 6
+        name: years_in_business
+        label: Years in Business
+        hint: How long operating
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-2 years
+          - 3-5 years
+          - 6-10 years
+          - Over 10 years
+        required: true
+      - id: 7
+        name: primary_ingredients
+        label: Primary Carrier Oils Used
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Jojoba Oil
+          - Argan Oil
+          - Coconut Oil
+          - Sweet Almond Oil
+          - Grapeseed Oil
+          - Castor Oil
+          - Hemp Seed Oil
+          - Other
+        required: true
+      - id: 8
+        name: essential_oils_used
+        label: Essential Oils Used
+        hint: For fragrance
+        type: select_multiple
+        options:
+          - Cedarwood
+          - Sandalwood
+          - Peppermint
+          - Eucalyptus
+          - Tea Tree
+          - Bergamot
+          - Lavender
+          - Unscented Options
+        required: true
+      - id: 9
+        name: production_method
+        label: Production Method
+        hint: How do you produce
+        type: select_one
+        options:
+          - Hand Mixed Small Batches
+          - Semi-Automated
+          - Fully Automated
+          - Contract Manufacturing
+        required: true
+      - id: 10
+        name: quality_control
+        label: Quality Control Measures
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Ingredient Testing
+          - Batch Testing
+          - Stability Testing
+          - Microbial Testing
+          - Visual Inspection
+          - Customer Feedback
+          - None
+        required: true
+      - id: 11
+        name: packaging_type
+        label: Primary Packaging Type
+        hint: Bottle type
+        type: select_one
+        options:
+          - Amber Glass Dropper
+          - Clear Glass Dropper
+          - Plastic Dropper
+          - Pump Bottle
+          - Other
+        required: true
+      - id: 12
+        name: production_challenges
+        label: Biggest Production Challenges
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Ingredient Sourcing
+          - Cost Management
+          - Quality Consistency
+          - Scaling Production
+          - Regulatory Compliance
+          - Packaging Supply
+          - Storage
+          - Other
+        required: true
+      - id: 13
+        name: certification_status
+        label: Certifications Held
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Organic Certified
+          - GMP Certified
+          - Cruelty Free
+          - Vegan Certified
+          - None
+          - In Process
+        required: true
+      - id: 14
+        name: customer_feedback
+        label: How Do You Collect Feedback
+        hint: Feedback methods
+        type: select_one
+        options:
+          - Product Reviews
+          - Surveys
+          - Social Media
+          - Direct Contact
+          - Multiple Methods
+          - Not Systematically
+        required: true
+      - id: 15
+        name: satisfaction_rating
+        label: Customer Satisfaction Rating
+        hint: Average rating
+        type: select_one
+        options:
+          - 4.5 to 5 stars
+          - 4 to 4.5 stars
+          - 3.5 to 4 stars
+          - Below 3.5 stars
+          - Not Tracked
+        required: true
+      - id: 16
+        name: future_plans
+        label: Future Production Plans
+        hint: What are your plans
+        type: select_one
+        options:
+          - Expand Production
+          - Maintain Current Level
+          - Add New Products
+          - Improve Quality
+          - Reduce Costs
+        required: true
+      - id: 17
+        name: additional_feedback
+        label: Additional Comments
+        hint: Any other information
+        type: text
+        options: []
+        required: false

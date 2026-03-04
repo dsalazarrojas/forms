@@ -1,0 +1,280 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CNA Unit Completion Form
+    pages:
+      - id: 1
+        name: cna_name
+        label: CNA Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Staff ID number
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: shift_date
+        label: Shift Date
+        hint: Date of shift
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: shift_time
+        label: Shift Time
+        hint: Start and end times
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: unit_name
+        label: Unit Name
+        hint: Assigned unit
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: supervisor_name
+        label: Supervisor Name
+        hint: Charge nurse or supervisor
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_header_1
+        label: -- Patient Care Tasks --
+        hint: Check all completed tasks
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: vital_signs_completed
+        label: Vital Signs Completed
+        hint: All assigned patients
+        type: select_one
+        options:
+          - Yes - All Patients
+          - Yes - Some Patients
+          - No - Not Assigned
+          - No - Pending
+        required: true
+      - id: 9
+        name: bathing_hygiene
+        label: Bathing and Hygiene Care
+        hint: Personal care provided
+        type: select_one
+        options:
+          - Yes - All Patients
+          - Yes - Some Patients
+          - No - Not Assigned
+          - No - Pending
+        required: true
+      - id: 10
+        name: feeding_assistance
+        label: Feeding Assistance
+        hint: Meal support provided
+        type: select_one
+        options:
+          - Yes - All Patients
+          - Yes - Some Patients
+          - No - Not Assigned
+          - No - Pending
+        required: true
+      - id: 11
+        name: mobility_assistance
+        label: Mobility and Turning
+        hint: Repositioning completed
+        type: select_one
+        options:
+          - Yes - All Patients
+          - Yes - Some Patients
+          - No - Not Assigned
+          - No - Pending
+        required: true
+      - id: 12
+        name: toileting_assistance
+        label: Toileting Assistance
+        hint: Bathroom support provided
+        type: select_one
+        options:
+          - Yes - All Patients
+          - Yes - Some Patients
+          - No - Not Assigned
+          - No - Pending
+        required: true
+      - id: 13
+        name: linen_changes
+        label: Linen Changes
+        hint: Bed making completed
+        type: select_one
+        options:
+          - Yes - As Needed
+          - Yes - Scheduled
+          - No - Not Needed
+          - No - Pending
+        required: true
+      - id: 14
+        name: section_header_2
+        label: -- Documentation and Reporting --
+        hint: Complete all required documentation
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: intake_output_recorded
+        label: Intake and Output Recorded
+        hint: I and O documented
+        type: select_one
+        options:
+          - Yes - Complete
+          - Yes - Partial
+          - No - Not Required
+          - No - Pending
+        required: true
+      - id: 16
+        name: care_notes_documented
+        label: Care Notes Documented
+        hint: Nursing notes entered
+        type: select_one
+        options:
+          - Yes - Complete
+          - Yes - Partial
+          - No - Not Required
+          - No - Pending
+        required: true
+      - id: 17
+        name: incident_reports
+        label: Incident Reports Filed
+        hint: Any incidents this shift
+        type: select_one
+        options:
+          - Yes - See Attached
+          - No Incidents
+          - Pending Review
+        required: true
+      - id: 18
+        name: incident_details
+        label: Incident Details
+        hint: Describe if applicable
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: section_header_3
+        label: -- End of Shift Checklist --
+        hint: Complete before leaving
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: equipment_stored
+        label: Equipment Properly Stored
+        hint: All supplies put away
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 21
+        name: workstation_cleaned
+        label: Workstation Cleaned
+        hint: Area sanitized
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Partially
+        required: true
+      - id: 22
+        name: handoff_completed
+        label: Handoff Report Completed
+        hint: Report to next shift
+        type: select_one
+        options:
+          - Yes - In Person
+          - Yes - By Phone
+          - Yes - Written Only
+          - No - No Oncoming Shift
+          - No - Pending
+        required: true
+      - id: 23
+        name: pending_tasks
+        label: Pending Tasks for Next Shift
+        hint: What needs follow-up
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: patient_concerns
+        label: Patient Concerns to Report
+        hint: Any issues to communicate
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: supply_needs
+        label: Supply Needs Noted
+        hint: What needs restocking
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: overall_shift_status
+        label: Overall Shift Status
+        hint: How did the shift go
+        type: select_one
+        options:
+          - All Tasks Completed
+          - Most Tasks Completed
+          - Some Tasks Pending
+          - Multiple Issues
+        required: true
+      - id: 27
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other information
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: cna_signature
+        label: CNA Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: true
+      - id: 29
+        name: supervisor_review
+        label: Supervisor Review Status
+        hint: To be completed by supervisor
+        type: select_one
+        options:
+          - Reviewed and Approved
+          - Reviewed with Comments
+          - Pending Review
+          - Not Yet Reviewed
+        required: false
+      - id: 30
+        name: supervisor_signature
+        label: Supervisor Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contingency Plan Checklist
+    pages:
+    - id: 1
+      name: organization_info_header
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_legal_name
+      label: Business/Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: point_of_contact
+      label: Primary Point of Contact (Emergency)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone_emergency
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risk_preparedness_header
+      label: -- Critical Function Checklist --
+      hint: Check each item as it is addressed in your plan
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: essential_staff_identified
+      label: Essential staff roles and backups identified
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 7
+      name: remote_work_ready
+      label: Remote work infrastructure and access verified
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 8
+      name: hygiene_protocols_set
+      label: Sanitization and hygiene protocols documented
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 9
+      name: communication_tree_active
+      label: Emergency communication tree (email/SMS) active
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 10
+      name: supply_chain_backup
+      label: Alternative suppliers for critical items identified
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 11
+      name: logistics_log_header
+      label: -- Resources and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: emergency_fund_status
+      label: Emergency fund availability confirmed
+      hint: null
+      type: select_one
+      options:
+      - Yes - Fully Funded
+      - Yes - Partially Funded
+      - No - Requires Action
+      required: true
+    - id: 13
+      name: personal_protective_equipment_stock
+      label: Current PPE Stock Level (Days)
+      hint: e.g., 30, 60, 90
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: verification_details_header
+      label: -- Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: review_date
+      label: Date Checklist Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: verifier_signature
+      label: Verifier Name/Signature
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Participant Registration Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dob
+      label: Date of Birth
+      hint: Participant date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Primary contact for minor participants
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for updates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: session_selected
+      label: Session Selected
+      hint: Chosen session or program
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Full Day
+      required: true
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions and Allergies
+      hint: List any health concerns
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: swim_ability
+      label: Swim Ability
+      hint: Important for water activities
+      type: select_one
+      options:
+      - Non Swimmer
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 8
+      name: pick_up_persons
+      label: Authorized Pick Up Persons
+      hint: Names and relationship of authorized persons
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: How registration fees will be paid
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: Any additional needs or accommodations
+      type: text
+      options: []
+      required: false

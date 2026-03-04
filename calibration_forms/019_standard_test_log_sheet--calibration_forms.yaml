@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standard Test Log Sheet
+    pages:
+    - id: 1
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: test_type
+      label: Test Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_item
+      label: Test Item
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: test_result2
+      label: Test Result 2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 11
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: review_by
+      label: Review By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attachment_name
+      label: Attachment Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: attachment_type
+      label: Attachment Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachment_url
+      label: Attachment Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attachment_size
+      label: Attachment Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: attachment_comment
+      label: Attachment Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: test_result_3
+      label: Test Result 3
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 21
+      name: test_result_4
+      label: Test Result 4
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: test_result_5
+      label: Test Result 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: test_result_6
+      label: Test Result 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: test_result_7
+      label: Test Result 7
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: test_result_8
+      label: Test Result 8
+      hint: null
+      type: number
+      options: []
+      required: false

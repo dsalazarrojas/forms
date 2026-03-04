@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clergy Candidate Document Checklist
+    pages:
+    - id: 1
+      name: candidate_info_header
+      label: -- Clergy Candidate Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_full_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: candidate_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_affiliation
+      label: Current Church or Denominational Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: documents_header
+      label: -- Document Submission Checklist --
+      hint: Please confirm you have prepared the following documents
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: ministerial_credentials
+      label: Ministerial Credentials / Ordination Certificate
+      hint: null
+      type: select_one
+      options:
+      - Ready to upload
+      - Not applicable
+      - In progress
+      required: true
+    - id: 8
+      name: academic_transcripts
+      label: Academic Transcripts (Seminary or equivalent)
+      hint: null
+      type: select_one
+      options:
+      - Ready to upload
+      - Not applicable
+      - In progress
+      required: true
+    - id: 9
+      name: background_check_consent
+      label: Signed Background Check Consent Form
+      hint: null
+      type: select_one
+      options:
+      - Ready to upload
+      - Not applicable
+      - In progress
+      required: true
+    - id: 10
+      name: letters_of_recommendation
+      label: Three Letters of Recommendation
+      hint: null
+      type: select_one
+      options:
+      - Ready to upload
+      - Not applicable
+      - In progress
+      required: true
+    - id: 11
+      name: personal_statement
+      label: Personal Statement / Faith Journey
+      hint: null
+      type: select_one
+      options:
+      - Ready to upload
+      - Not applicable
+      - In progress
+      required: true
+    - id: 12
+      name: medical_clearance
+      label: Medical Clearance Form (if required)
+      hint: null
+      type: select_one
+      options:
+      - Ready to upload
+      - Not applicable
+      - In progress
+      required: false
+    - id: 13
+      name: file_upload_instruction
+      label: Please upload all documents as a single ZIP file or provide a link to
+        a cloud folder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: checklist_footer
+      label: -- Thank you --
+      hint: The search committee will review your documents and contact you soon.
+      type: note
+      options: []
+      required: false

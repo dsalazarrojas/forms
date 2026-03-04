@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contributor Nomination Survey
+    pages:
+    - id: 1
+      name: nominator_name
+      label: Your Name
+      hint: Name of person making the nomination
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominator_email
+      label: Your Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: nominator_phone
+      label: Your Phone
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Your Organization
+      hint: Company or institution name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_nominee_info
+      label: -- Nominee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: nominee_name
+      label: Nominee Full Name
+      hint: Name of person being nominated
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: nominee_email
+      label: Nominee Email
+      hint: Nominee email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nominee_phone
+      label: Nominee Phone
+      hint: Nominee contact number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nominee_organization
+      label: Nominee Organization
+      hint: Nominee company or institution
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nominee_title
+      label: Nominee Job Title
+      hint: Nominee position or role
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_nomination_details
+      label: -- Nomination Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: award_category
+      label: Award Category
+      hint: Which category are you nominating for
+      type: select_one
+      options:
+      - Outstanding Contribution
+      - Innovation Award
+      - Leadership Excellence
+      - Community Impact
+      - Rising Star
+      - Lifetime Achievement
+      - Team Award
+      - Other
+      required: true
+    - id: 13
+      name: nomination_reason
+      label: Reason for Nomination
+      hint: Why is this person deserving
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: key_contributions
+      label: Key Contributions
+      hint: Describe their main achievements
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: impact_description
+      label: Impact of Their Work
+      hint: How has their work made a difference
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contribution_period
+      label: Period of Contribution
+      hint: Time frame of their achievements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: specific_date
+      label: Specific Date of Achievement
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: section_supporting_materials
+      label: -- Supporting Materials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any documents you are including
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: references_available
+      label: Are references available
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Name of first reference
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reference_1_contact
+      label: Reference 1 Contact
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Name of second reference
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reference_2_contact
+      label: Reference 2 Contact
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_relationship
+      label: -- Your Relationship --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: relationship_to_nominee
+      label: Your Relationship to Nominee
+      hint: How do you know this person
+      type: select_one
+      options:
+      - Colleague
+      - Supervisor
+      - Direct Report
+      - Client
+      - Partner
+      - Community Member
+      - Other
+      required: true
+    - id: 28
+      name: relationship_duration
+      label: How long have you known them
+      hint: Duration of relationship
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - Over 10 years
+      required: true
+    - id: 29
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: previous_nominations
+      label: Has this person been nominated before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 31
+      name: public_recognition_consent
+      label: Has nominee consented to public recognition
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: permission_to_follow_up
+      label: May we contact you for more information
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

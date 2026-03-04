@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Center Vendor Application Form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_info
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_media
+      label: Social Media Accounts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: products
+      label: Type of Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

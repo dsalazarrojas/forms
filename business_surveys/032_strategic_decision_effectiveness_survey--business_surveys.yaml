@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Decision Effectiveness Survey
+    pages:
+    - id: 1
+      name: business_surgeries
+      label: business-surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: execution
+      label: execution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: perception
+      label: perception
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''email'', ''value'': ''Email''}'
+      - '{''id'': 101, ''label'': ''phone'', ''value'': ''Phone''}'
+      - '{''id'': 102, ''label'': ''inperson'', ''value'': ''In-Person''}'
+      - '{''id'': 103, ''label'': ''other'', ''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Business Surveys
+      - Evaluation Surveys
+      required: false
+    - id: 10
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false

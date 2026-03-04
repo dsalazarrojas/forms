@@ -1,0 +1,184 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AD Customer Satisfaction Survey
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Customer & Survey Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Enter a contact email for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone number
+      hint: Include country code (optional)
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: customer_segment
+      label: Customer segment
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Individual consumer
+      - Small business
+      - Enterprise
+      - Non-profit
+      - Government
+      required: true
+    - id: 6
+      name: product_version
+      label: Product / service version
+      hint: e.g., 2.4.1 or "Web app"
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interaction_date
+      label: Date of interaction
+      hint: Date you used the product or service
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: interaction_time
+      label: Approximate time of interaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: usage_frequency
+      label: How often do you use our product/service?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - First time
+      required: true
+    - id: 10
+      name: satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 11
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: best_aspects
+      label: Best aspects of the product/service (select all that apply)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast performance
+      - Reliable
+      - Helpful support
+      - Good value
+      - Feature-rich
+      required: false
+    - id: 13
+      name: areas_to_improve
+      label: Areas to improve (select all that apply)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Usability
+      - Performance
+      - Pricing
+      - Feature set
+      - Documentation
+      - Customer support
+      required: false
+    - id: 14
+      name: problems_encountered
+      label: Problems or issues encountered
+      hint: Describe any errors, crashes, or confusing flows
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: would_recommend
+      label: Would you recommend us to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not sure
+      - Probably not
+      - false
+      required: true
+    - id: 16
+      name: follow_up_permission
+      label: Permission to follow up about your responses
+      hint: If yes, we'll contact you using your preferred method
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: preferred_contact_method
+      label: Preferred contact method (if follow-up permitted)
+      hint: Used only if follow-up permission granted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - None
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: Any other feedback to help us improve
+      type: text
+      options: []
+      required: false

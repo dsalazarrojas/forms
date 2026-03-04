@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freezer Inventory Checklist
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: frozen_stock_checks
+      label: Frozen Stock Checks
+      hint: null
+      type: select_multiple
+      options:
+      - Frozen
+      - Almost Frozen
+      - Not Frozen
+      required: false
+    - id: 3
+      name: restock_needs
+      label: Restock Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 4
+      name: freezer_condition
+      label: Freezer Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: storage_temperature
+      label: Storage Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: storage_humidity
+      label: Storage Humidity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stock_quantity
+      label: Stock Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

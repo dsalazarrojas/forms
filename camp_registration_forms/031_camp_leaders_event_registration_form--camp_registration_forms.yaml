@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Leaders Event Registration Form
+    pages:
+    - id: 1
+      name: leader_event_intro_header
+      label: -- Camp Leader Event Registration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: leader_full_name_event
+      label: Leader Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: leader_email_event
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: leader_position_title_event
+      label: Current Role - Position
+      hint: e.g., Senior Counselor, Unit Head
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_details_header
+      label: -- Event and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_selection
+      label: Select the Event You Are Attending
+      hint: null
+      type: select_one
+      options:
+      - Leadership Summit 2026
+      - Counselor Skills Workshop
+      - Safety and Wilderness Training
+      - Post-Season Review Conference
+      required: true
+    - id: 7
+      name: event_session_dates
+      label: Event Dates
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: dietary_needs_leader_event
+      label: Dietary Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - No Restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut-Free
+      - Halal / Kosher
+      required: true
+    - id: 9
+      name: travel_arrangements_event
+      label: Travel Mode
+      hint: How are you getting to the event?
+      type: select_one
+      options:
+      - Driving personal vehicle
+      - Carpooling with others
+      - Taking camp shuttle
+      - Public Transportation
+      required: true
+    - id: 10
+      name: lodging_preference_event
+      label: Roommate Preference (If applicable)
+      hint: Name of another leader you would like to room with
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: workshop_interests_event
+      label: Workshop Breakout Choices
+      hint: Select up to three topics of interest
+      type: select_multiple
+      options:
+      - Conflict Resolution Techniques
+      - Advanced Outdoor Leadership
+      - Mental Health First Aid
+      - Program Design and Innovation
+      - Social Media for Camps
+      - Budgeting and Logistics
+      required: true
+    - id: 12
+      name: leader_emergency_contact_event
+      label: Emergency Contact Name and Phone
+      hint: Person to reach during the event
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: special_accommodations_event
+      label: Accessibility or Special Accommodations
+      hint: Any specific needs for your participation
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendance_participation_consent
+      label: Participation Agreement
+      hint: I agree to participate fully in all scheduled event activities
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: leader_event_registration_date
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true

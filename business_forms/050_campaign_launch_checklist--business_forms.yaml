@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Launch Checklist
+    pages:
+    - id: 1
+      name: launch_project_info_header
+      label: -- Campaign Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: campaign_project_name_chk
+      label: Campaign Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: campaign_manager_lead_chk
+      label: Lead Campaign Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: target_launch_date_chk
+      label: Targeted Launch Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: campaign_objective_chk
+      label: Primary Campaign Objective
+      hint: e.g., Brand Awareness, Product Launch, Lead Gen
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assets_and_collateral_section
+      label: -- Assets and Collateral Checklist --
+      hint: Check off items as they are finalized
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: check_creative_assets_chk
+      label: Visual Creative Assets (Banners, Videos)
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Finalized and Approved
+      required: true
+    - id: 8
+      name: check_copywriting_messaging_chk
+      label: Copywriting and Messaging
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Finalized and Approved
+      required: true
+    - id: 9
+      name: check_landing_pages_chk
+      label: Landing Pages and Tracking Links
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Finalized and Approved
+      required: true
+    - id: 10
+      name: check_email_templates_chk
+      label: Email Templates and Sequences
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Finalized and Approved
+      required: true
+    - id: 11
+      name: distribution_channels_header
+      label: -- Distribution Channels --
+      hint: Select the channels included in this launch
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: channels_selection_chk
+      label: Active Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Paid Search (SEM)
+      - Social Media Ads (Meta, LinkedIn)
+      - Organic Social Media
+      - Email Marketing
+      - Influencer Outreach
+      - Content Marketing / Blog
+      required: true
+    - id: 13
+      name: budget_allocation_status_chk
+      label: Budget Allocation Status
+      hint: Has the budget been approved and loaded?
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved and Loaded
+      - Adjustments Needed
+      required: true
+    - id: 14
+      name: total_campaign_budget_est_chk
+      label: Total Campaign Budget Estimate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: kpi_tracking_setup_check
+      label: KPI and Tracking Setup Verified?
+      hint: Google Analytics, Pixel setup, etc.
+      type: select_one
+      options:
+      - Yes - Verified
+      - No - Outstanding issues
+      required: true
+    - id: 16
+      name: final_approval_signature_chk
+      label: Final Approval for Launch (Typed Name)
+      hint: Sign-off by Project Lead or Director
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: launch_checklist_completion_date
+      label: Checklist Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: post_launch_review_date_chk
+      label: Scheduled Post-Launch Review
+      hint: null
+      type: date
+      options: []
+      required: false

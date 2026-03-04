@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Ad Performance Report Request Form
+    pages:
+    - id: 1
+      name: campaign_details
+      label: Campaign Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_date_range_start
+      label: Start Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: campaign_date_range_end
+      label: End Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: campaign_id
+      label: Campaign ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: metric_name
+      label: Metric Name
+      hint: null
+      type: select_one
+      options:
+      - Ad Click Rate
+      - Ad Conversion Rate
+      - Ad CTR
+      required: false
+    - id: 7
+      name: ad_type
+      label: Ad Type
+      hint: null
+      type: select_multiple
+      options:
+      - Display Ads
+      - Video Ads
+      - Audio Ads
+      required: false
+    - id: 8
+      name: ad_channel
+      label: Ad Channel
+      hint: null
+      type: select_one
+      options:
+      - Google Ads
+      - Facebook Ads
+      - Twitter Ads
+      required: false
+    - id: 9
+      name: ad_placement
+      label: Ad Placement
+      hint: null
+      type: select_one
+      options:
+      - Mobile Ads
+      - Desktop Ads
+      - Web Ads
+      required: false
+    - id: 10
+      name: ad_size
+      label: Ad Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 11
+      name: ad_budget
+      label: Ad Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 13
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - CSV
+      required: false
+    - id: 14
+      name: date_range_format
+      label: Date Range Format
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 15
+      name: report_format
+      label: Report Format
+      hint: null
+      type: select_one
+      options:
+      - Excel
+      - PDF
+      required: false
+    - id: 16
+      name: report_frequency_2
+      label: Report Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 17
+      name: date_range
+      label: Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: report_comments
+      label: Report Comments
+      hint: null
+      type: text
+      options: []
+      required: false

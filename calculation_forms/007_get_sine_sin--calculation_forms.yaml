@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Get Sine (sin)
+    pages:
+    - id: 1
+      name: input_number
+      label: input-number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: result
+      label: result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: calculation_method
+      label: calculation-method
+      hint: null
+      type: select_one
+      options:
+      - sin(number)
+      - cos(number)
+      - tan(number)
+      - abs(number)
+      - round(number)
+      - sqrt(number)
+      - pow(number)
+      - log(number)
+      - max(number)
+      - min(number)
+      required: false

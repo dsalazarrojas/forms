@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Engagement Metrics Report Form
+    pages:
+    - id: 1
+      name: platform_name
+      label: Social Media Platform
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Facebook''}'
+      - '{''id'': 2, ''name'': ''Instagram''}'
+      - '{''id'': 3, ''name'': ''LinkedIn''}'
+      - '{''id'': 4, ''name'': ''Twitter''}'
+      required: false
+    - id: 2
+      name: time_range_start
+      label: Time Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_range_end
+      label: Time Range End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: frequency
+      label: Metric Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Hourly''}'
+      - '{''id'': 2, ''name'': ''Daily''}'
+      - '{''id'': 3, ''name'': ''Weekly''}'
+      - '{''id'': 4, ''name'': ''Monthly''}'
+      required: false
+    - id: 5
+      name: engagement_platform
+      label: Engagement Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Posts''}'
+      - '{''id'': 2, ''name'': ''Stories''}'
+      - '{''id'': 3, ''name'': ''Live Streaming''}'
+      required: false
+    - id: 6
+      name: metrics
+      label: Engagement Metrics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Post Reach''}'
+      - '{''id'': 2, ''name'': ''Engagement Rate''}'
+      - '{''id'': 3, ''name'': ''Comment Count''}'
+      - '{''id'': 4, ''name'': ''Post Click-Through Rate''}'
+      - '{''id'': 5, ''name'': ''Sentiment Analysis''}'
+      - '{''id'': 6, ''name'': ''Audience Growth Rate''}'
+      - '{''id'': 7, ''name'': ''Top-Engagement Content''}'
+      - '{''id'': 8, ''name'': ''Hashtags Used''}'
+      - '{''id'': 9, ''name'': ''Engagement Index''}'
+      required: false
+    - id: 7
+      name: metric_interval
+      label: Metric Interval
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Week''}'
+      - '{''id'': 2, ''name'': ''Month''}'
+      - '{''id'': 3, ''name'': ''Quarter''}'
+      - '{''id'': 4, ''name'': ''Year''}'
+      - '{''id'': 5, ''name'': ''Total''}'
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments_section
+      label: Comments Section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''PDF''}'
+      - '{''id'': 2, ''name'': ''CSV''}'
+      - '{''id'': 3, ''name'': ''JSON''}'
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output_file_path
+      label: Output File Path
+      hint: null
+      type: text
+      options: []
+      required: false

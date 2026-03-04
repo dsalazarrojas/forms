@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sync Settings Survey
+    pages:
+    - id: 1
+      name: sync_frequency_label
+      label: Sync Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - options1
+      - options2
+      required: false
+    - id: 2
+      name: issue_type_label
+      label: What type of sync issue do you have?
+      hint: null
+      type: select_one
+      options:
+      - options1
+      - options2
+      - options3
+      required: false
+    - id: 3
+      name: sync_behavior_label
+      label: Sync Behavior
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email_label
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_label
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sync_issue_description_label
+      label: Describe the issue you are experiencing with sync behavior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sync_issue_label
+      label: Sync Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sync_frequency_note_label
+      label: Note on sync frequency
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sync_frequency_note_options
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: sync_frequency_note
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false

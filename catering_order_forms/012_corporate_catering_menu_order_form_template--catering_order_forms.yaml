@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Catering Menu Order Form Template
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: catering_details
+      label: Catering Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Food Option 1'', ''label'': ''Food Option 1'', ''value'':
+        ''Food Option 1''}'
+      - '{''id'': 2, ''name'': ''Food Option 2'', ''label'': ''Food Option 2'', ''value'':
+        ''Food Option 2''}'
+      - '{''id'': 3, ''name'': ''Food Option 3'', ''label'': ''Food Option 3'', ''value'':
+        ''Food Option 3''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: order_amount
+      label: Order Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false

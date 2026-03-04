@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flower Inventory Report Form
+    pages:
+    - id: 1
+      name: flower_stock_levels
+      label: Flower Stock Levels
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: flower_condition
+      label: Flower Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: last_replenishment_date
+      label: Last Replenishment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: quantity_replenished
+      label: Quantity Replenished
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: total_value
+      label: Total Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: replenishment_needs
+      label: Replenishment Needs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: flower_type
+      label: Flower Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

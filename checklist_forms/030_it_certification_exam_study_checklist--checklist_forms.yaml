@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Certification Exam Study Checklist
+    pages:
+    - id: 1
+      name: certification_exam_prep
+      label: Certification Exam Prep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topics_to_review
+      label: Topics to Review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: review_materials
+      label: Review Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: time_management
+      label: Time Management
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: exam_questions
+      label: Exam Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: study_schedule
+      label: Study Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_method
+      label: Review Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

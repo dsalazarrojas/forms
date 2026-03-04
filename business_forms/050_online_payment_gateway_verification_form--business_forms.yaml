@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Payment Gateway Verification Form
+    pages:
+    - id: 1
+      name: payment_gateway_info
+      label: Payment Gateway Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online Payment Gateway''}'
+      - '{''id'': 2, ''label'': ''Mobile Payment Gateway''}'
+      - '{''id'': 3, ''label'': ''Point of Sale''}'
+      required: true
+    - id: 3
+      name: merchant_info
+      label: Merchant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: merchant_id
+      label: Merchant ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: gateway_id
+      label: Gateway ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Credit/Debit Card''}'
+      - '{''id'': 2, ''label'': ''Bank Transfer''}'
+      - '{''id'': 3, ''label'': ''Mobile Wallet''}'
+      required: true
+    - id: 8
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: transaction_time
+      label: Transaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''192.168.0.0''}'
+      - '{''id'': 2, ''label'': ''192.168.0.1''}'
+      - '{''id'': 3, ''label'': ''192.168.0.2''}'
+      required: true
+    - id: 11
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mozilla/5.0''}'
+      - '{''id'': 2, ''label'': ''Chrome/83.0''}'
+      - '{''id'': 3, ''label'': ''Safari/12.0''}'
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: merchant_name
+      label: Merchant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: merchant_url
+      label: Merchant URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: gateway_url
+      label: Gateway URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transaction_status
+      label: Transaction Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Success''}'
+      - '{''id'': 2, ''label'': ''Failed''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: true
+    - id: 19
+      name: merchant_status
+      label: Merchant Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      required: false
+    - id: 20
+      name: ip_status
+      label: IP Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      required: false
+    - id: 21
+      name: user_status
+      label: User Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      required: false
+    - id: 22
+      name: user_browser
+      label: User Browser
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Firefox''}'
+      - '{''id'': 2, ''label'': ''Chrome''}'
+      - '{''id'': 3, ''label'': ''Safari''}'
+      required: false
+    - id: 23
+      name: merchant_browser
+      label: Merchant Browser
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Firefox''}'
+      - '{''id'': 2, ''label'': ''Chrome''}'
+      - '{''id'': 3, ''label'': ''Safari''}'
+      required: false
+    - id: 24
+      name: ip_browser
+      label: IP Browser
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Firefox''}'
+      - '{''id'': 2, ''label'': ''Chrome''}'
+      - '{''id'': 3, ''label'': ''Safari''}'
+      required: false
+    - id: 25
+      name: user_os
+      label: User Operating System
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Windows''}'
+      - '{''id'': 2, ''label'': ''Linux''}'
+      - '{''id'': 3, ''label'': ''macOS''}'
+      required: false
+    - id: 26
+      name: ip_os
+      label: IP Operating System
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Windows''}'
+      - '{''id'': 2, ''label'': ''Linux''}'
+      - '{''id'': 3, ''label'': ''macOS''}'
+      required: false

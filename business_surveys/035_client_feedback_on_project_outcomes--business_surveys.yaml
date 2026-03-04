@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Feedback On Project Outcomes
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Official project name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_id
+      label: Project ID or Reference Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_manager
+      label: Project Manager Name
+      hint: Who led the project?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_start_date
+      label: Project Start Date
+      hint: When did it begin?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: project_completion_date
+      label: Project Completion Date
+      hint: When was it delivered?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: project_type
+      label: Project Type
+      hint: Category of project
+      type: select_one
+      options:
+      - Software Development
+      - Website Design
+      - Marketing Campaign
+      - Consulting Project
+      - Construction
+      - Event Planning
+      - Product Development
+      - Research Project
+      - Other
+      required: true
+    - id: 12
+      name: project_scope
+      label: Project Scope
+      hint: Size of project
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Enterprise
+      required: true
+    - id: 13
+      name: delivered_on_time
+      label: Was the Project Delivered On Time?
+      hint: Timeline adherence
+      type: select_one
+      options:
+      - Yes, Ahead of Schedule
+      - Yes, On Schedule
+      - Slightly Delayed
+      - Significantly Delayed
+      - Not Yet Complete
+      required: true
+    - id: 14
+      name: delivered_within_budget
+      label: Was the Project Delivered Within Budget?
+      hint: Budget adherence
+      type: select_one
+      options:
+      - Yes, Under Budget
+      - Yes, On Budget
+      - Slightly Over Budget
+      - Significantly Over Budget
+      - Not Applicable
+      required: true
+    - id: 15
+      name: objectives_met
+      label: Were Project Objectives Met?
+      hint: Goal achievement
+      type: select_one
+      options:
+      - Exceeded All Objectives
+      - Met All Objectives
+      - Met Most Objectives
+      - Met Some Objectives
+      - Did Not Meet Objectives
+      required: true
+    - id: 16
+      name: quality_rating
+      label: Quality of Deliverables
+      hint: Work quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: communication_rating
+      label: Communication During Project
+      hint: How well did we communicate?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: team_expertise
+      label: Team Expertise Level
+      hint: How skilled was the team?
+      type: select_one
+      options:
+      - Expert
+      - Very Knowledgeable
+      - Knowledgeable
+      - Average
+      - Below Average
+      required: true
+    - id: 19
+      name: problem_solving
+      label: Problem-Solving Ability
+      hint: How well did we handle challenges?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: stakeholder_satisfaction
+      label: Overall Stakeholder Satisfaction
+      hint: Your overall assessment
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 21
+      name: roi_expectations
+      label: Will This Project Deliver Expected ROI?
+      hint: Return on investment
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Uncertain
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 22
+      name: project_strengths
+      label: What Were the Project Strengths?
+      hint: What went well?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: project_challenges
+      label: What Challenges Did You Face?
+      hint: Obstacles encountered
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: improvement_areas
+      label: What Could We Improve?
+      hint: Areas for improvement
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: lessons_learned
+      label: Key Lessons Learned
+      hint: Takeaways from project
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: work_with_us_again
+      label: Would You Work With Us Again?
+      hint: Future projects
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Undecided
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 27
+      name: recommend_to_others
+      label: Would You Recommend Us to Others?
+      hint: To colleagues
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Undecided
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Dismissal Form
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_age
+      label: Camper Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: camp_session
+      label: Camp Session
+      hint: Which session
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      - Full summer
+      required: true
+    - id: 5
+      name: cabin_group
+      label: Cabin or Group Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: dismissal_date
+      label: Dismissal Date
+      hint: When is camper leaving
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: dismissal_time
+      label: Dismissal Time
+      hint: What time
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: dismissal_reason
+      label: Reason for Dismissal
+      hint: Select reason
+      type: select_one
+      options:
+      - Camp session completed
+      - Family emergency
+      - Medical reasons
+      - Homesickness
+      - Behavioral issues
+      - Family vacation
+      - Other
+      required: true
+    - id: 12
+      name: dismissal_reason_details
+      label: Dismissal Reason Details
+      hint: Describe if other
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pickup_person_name
+      label: Person Picking Up Camper
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: pickup_person_relationship
+      label: Relationship to Camper
+      hint: How are they related
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: pickup_person_phone
+      label: Pickup Person Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: pickup_person_id
+      label: Pickup Person ID Verification
+      hint: ID type and number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: authorized_for_pickup
+      label: Is This Person Authorized for Pickup
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - on authorized list
+      - Yes - new authorization
+      - false
+      required: true
+    - id: 18
+      name: transportation_method
+      label: Transportation Method
+      hint: How are they leaving
+      type: select_one
+      options:
+      - Personal vehicle
+      - Camp transportation
+      - Public transit
+      - Walking
+      - Other
+      required: true
+    - id: 19
+      name: belongings_checked
+      label: Have All Belongings Been Packed
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - all packed
+      - Yes - but items left behind
+      - No - still packing
+      required: true
+    - id: 20
+      name: items_left_behind
+      label: Items Left Behind
+      hint: List if any
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: camper_health_status
+      label: Camper Health Status
+      hint: Any health concerns
+      type: select_one
+      options:
+      - Good health
+      - Minor illness
+      - Recovering from illness
+      - Injury
+      - Other concerns
+      required: true
+    - id: 22
+      name: health_notes
+      label: Health Notes
+      hint: Describe if needed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medications_returned
+      label: Have All Medications Been Returned
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - all returned
+      - No medications
+      - Some remaining
+      required: true
+    - id: 24
+      name: camp_property_returned
+      label: Has All Camp Property Been Returned
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - all returned
+      - Yes - nothing was borrowed
+      - No - items still out
+      required: true
+    - id: 25
+      name: outstanding_fees
+      label: Are There Any Outstanding Fees
+      hint: Yes or no
+      type: select_one
+      options:
+      - No - all paid
+      - Yes - will be paid
+      - Yes - already paid
+      required: true
+    - id: 26
+      name: counselor_notes
+      label: Counselor Notes
+      hint: Any final notes
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: staff_signature
+      label: Staff Member Signature
+      hint: Releasing staff
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: dismissal_time_actual
+      label: Actual Dismissal Time
+      hint: When camper left
+      type: time
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date
+      hint: Date of dismissal
+      type: date
+      options: []
+      required: true

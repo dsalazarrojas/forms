@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: After School Routine Checklist
+    pages:
+    - id: 1
+      name: header
+      label: -- After School Routine Checklist --
+      hint: Tracking daily progress and consistency
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: checklist_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: homework_status
+      label: Homework completion status
+      hint: Is all assigned homework finished
+      type: select_one
+      options:
+      - All Completed
+      - Partially Completed
+      - None Completed
+      - No Homework Assigned
+      required: true
+    - id: 5
+      name: snack_time
+      label: Snack or meal time
+      hint: Was a healthy snack provided
+      type: select_one
+      options:
+      - Yes - Healthy Snack
+      - Yes - Regular Meal
+      - No Snack
+      required: false
+    - id: 6
+      name: leisure_activity
+      label: Leisure time activity
+      hint: Primary activity during free time
+      type: select_one
+      options:
+      - Outdoor Play
+      - Screen Time (Games/TV)
+      - Arts and Crafts
+      - Socializing with Friends
+      - Other
+      required: false
+    - id: 7
+      name: reading_minutes
+      label: Reading time (minutes)
+      hint: Enter the number of minutes spent reading
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: bedtime
+      label: Bedtime
+      hint: Actual time the student went to sleep
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes_header
+      label: -- Daily Progress Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: achievements
+      label: Notable achievements today
+      hint: Any positive behaviors or accomplishments
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: areas_improvement
+      label: Areas needing improvement
+      hint: Any challenges faced today
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: materials_needed
+      label: Materials needed for tomorrow
+      hint: Select items to prepare
+      type: select_multiple
+      options:
+      - Sports Kit
+      - Musical Instrument
+      - Field Trip Slip
+      - Library Books
+      - Special Project Supplies
+      required: false

@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Updates Survey
+    pages:
+    - id: 1
+      name: section_member_identity
+      label: -- Member Identity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_full_name_identity
+      label: Member Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_current_chapter_title
+      label: Your Current Chapter Title
+      hint: e.g., President, Member, Treasurer, Advisor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email_for_updates
+      label: Contact Email for Updates
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_chapter_progress
+      label: -- Chapter Progress and Success --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: most_recent_chapter_achievement
+      label: Most Recent Chapter Achievement
+      hint: Briefly describe one major success
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: status_of_current_service_project
+      label: Status of Current Service Project
+      hint: Select the most accurate status
+      type: select_one
+      options:
+      - Just Starting
+      - In Progress
+      - Nearing Completion
+      - Completed and Logged
+      - Planning Phase
+      required: true
+    - id: 8
+      name: membership_update_status
+      label: Membership Status Update
+      hint: How is the chapter doing with recruitment and retention?
+      type: select_one
+      options:
+      - Gaining New Members
+      - Stable Membership
+      - Some Loss of Members
+      - Actively Recruiting
+      required: true
+    - id: 9
+      name: section_upcoming_events_updates
+      label: -- Upcoming Events and Deadlines --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: next_major_chapter_event_title
+      label: Next Major Chapter Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: next_event_date_planned
+      label: Next Event Date Planned
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: chapter_meeting_frequency_update
+      label: Meeting Frequency Update
+      hint: Has the meeting schedule changed recently?
+      type: select_one
+      options:
+      - No Change - Remaining Same
+      - Changing to Monthly
+      - Changing to Bi-Monthly
+      - Changing to Quarterly
+      required: true
+    - id: 13
+      name: section_challenges_and_needs
+      label: -- Challenges and Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: primary_chapter_challenge_currently
+      label: Primary Chapter Challenge Currently
+      hint: What is the biggest obstacle the chapter is facing?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: support_needed_from_national_regional
+      label: Support Needed from National or Regional
+      hint: How can the higher-level organization help?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_financial_update
+      label: -- Financial Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: chapter_financial_standing_self_rate
+      label: Chapter Financial Standing Self-Rate
+      hint: How healthy are the chapter finances?
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: dues_collection_status_update
+      label: Dues Collection Status Update
+      hint: Select the current status of dues collection
+      type: select_one
+      options:
+      - 100 percent Collected
+      - Over 75 percent Collected
+      - Over 50 percent Collected
+      - Less than 50 percent Collected
+      required: true
+    - id: 19
+      name: section_survey_confirmation
+      label: -- Survey Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: accuracy_confirmation_member_update
+      label: Confirmation of Update Submission
+      hint: I confirm that this update accurately reflects the chapter's status
+      type: select_one
+      options:
+      - I Confirm and Submit Update
+      - Other
+      required: true
+    - id: 21
+      name: date_of_update_log_submission
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments_update
+      label: Additional Comments or Information
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false

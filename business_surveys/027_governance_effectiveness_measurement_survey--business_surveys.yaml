@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Governance Effectiveness Measurement Survey
+    pages:
+    - id: 1
+      name: organization_name
+      label: Enter Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: decision_making_process
+      label: What is the decision-making process?
+      hint: null
+      type: select_one
+      options:
+      - Direct
+      - Indirect
+      - Mixed
+      required: false
+    - id: 3
+      name: transparency_level
+      label: Level of Transparency
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: board_participation
+      label: Board Participation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: accountability_level
+      label: Level of Accountability
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: communication_level
+      label: Level of Communication
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reporting_method
+      label: Reporting Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 9
+      name: reporting_responsibility
+      label: Reporting Responsibility
+      hint: null
+      type: select_multiple
+      options:
+      - Board
+      - Leadership
+      - Department
+      required: false
+    - id: 10
+      name: reporting_timing
+      label: Reporting Timing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Quarterly
+      - Annually
+      - Semi-annually
+      required: false
+    - id: 12
+      name: reporting_channel
+      label: Reporting Channel
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 13
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Hybrid
+      required: false
+    - id: 14
+      name: board_meeting_frequency
+      label: Board Meeting Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 15
+      name: board_meeting_length
+      label: Board Meeting Length
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 hour
+      - 1-2 hours
+      - More than 2 hours
+      required: false

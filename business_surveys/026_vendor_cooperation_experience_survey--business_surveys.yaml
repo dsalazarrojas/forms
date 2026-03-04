@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Cooperation Experience Survey
+    pages:
+    - id: 1
+      name: supplier_name
+      label: Supplier Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: question_1
+      label: How do you feel about our communication?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: question_2
+      label: How would you rate the timeliness of our payments?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: question_3
+      label: How do you rate the level of support we provide?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 8
+      name: question_4
+      label: How would you rate the level of support we provide?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: question_5
+      label: Have we met our commitments and deadlines?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: question_6
+      label: How would you rate the overall experience?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: question_7
+      label: How would you rate the collaboration?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: question_8
+      label: Have we exceeded your expectations?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: question_9
+      label: What are some areas for improvement?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: question_10
+      label: Is this partnership beneficial?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 15
+      name: question_11
+      label: Have you had any issues with payments or invoices?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 16
+      name: question_12
+      label: What would make this partnership even better?
+      hint: null
+      type: text
+      options: []
+      required: true

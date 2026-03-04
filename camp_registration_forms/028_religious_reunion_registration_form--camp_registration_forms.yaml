@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: religious_reunion_registration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp
+      label: rsvp
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': True}'
+      - '{''id'': 11, ''label'': False}'
+      - '{''id'': 12, ''label'': ''Maybe''}'
+      required: true
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attendees
+      label: attendees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 20, ''label'': ''John''}'
+      - '{''id'': 21, ''label'': ''Mary''}'
+      - '{''id'': 22, ''label'': ''Jane''}'
+      - '{''id'': 23, ''label'': ''Bob''}'
+      - '{''id'': 24, ''label'': ''Alice''}'
+      - '{''id'': 25, ''label'': ''Dave''}'
+      required: false
+    - id: 11
+      name: attendees_additional_info
+      label: additional info about attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rsvp_2
+      label: rsvp 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 26, ''label'': True}'
+      - '{''id'': 27, ''label'': False}'
+      - '{''id'': 28, ''label'': ''Maybe''}'
+      required: false
+    - id: 13
+      name: date_2
+      label: date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_2
+      label: time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: note_2
+      label: note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: attendees_2
+      label: attendees 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 30, ''label'': ''John''}'
+      - '{''id'': 31, ''label'': ''Mary''}'
+      - '{''id'': 32, ''label'': ''Jane''}'
+      - '{''id'': 33, ''label'': ''Bob''}'
+      - '{''id'': 34, ''label'': ''Alice''}'
+      - '{''id'': 35, ''label'': ''Dave''}'
+      required: false
+    - id: 17
+      name: attendees_additional_info_2
+      label: additional info about attendees 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rsvp_3
+      label: rsvp 3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 29, ''label'': True}'
+      - '{''id'': 36, ''label'': False}'
+      - '{''id'': 37, ''label'': ''Maybe''}'
+      required: false
+    - id: 19
+      name: date_3
+      label: date 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_3
+      label: time 3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: note_3
+      label: note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: attendees_3
+      label: attendees 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 40, ''label'': ''John''}'
+      - '{''id'': 41, ''label'': ''Mary''}'
+      - '{''id'': 42, ''label'': ''Jane''}'
+      - '{''id'': 43, ''label'': ''Bob''}'
+      - '{''id'': 44, ''label'': ''Alice''}'
+      - '{''id'': 45, ''label'': ''Dave''}'
+      required: false
+    - id: 23
+      name: attendees_additional_info_3
+      label: additional info about attendees 3
+      hint: null
+      type: text
+      options: []
+      required: false

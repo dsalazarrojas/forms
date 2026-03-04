@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitter Checklist
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Name of parent leaving instructions
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_phone
+      label: Parent Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: alternate_contact
+      label: Alternate Emergency Contact
+      hint: Name and phone of backup contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: babysitter_name
+      label: Babysitter Name
+      hint: Name of caregiver
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: care_date
+      label: Date of Care
+      hint: When is babysitting scheduled
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: start_time
+      label: Start Time
+      hint: When does care begin
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: Expected return time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: children_names
+      label: Children Names and Ages
+      hint: List all children being cared for
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: bedtime_routine
+      label: Bedtime Routine
+      hint: Describe bedtime procedures
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: meal_instructions
+      label: Meal and Snack Instructions
+      hint: What and when to feed children
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: allergies_restrictions
+      label: Allergies or Dietary Restrictions
+      hint: Important health information
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medication_instructions
+      label: Medication Instructions
+      hint: Any medications to administer
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tv_screen_rules
+      label: TV and Screen Time Rules
+      hint: What is allowed for entertainment
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: homework_tasks
+      label: Homework or Chore Tasks
+      hint: What needs to be completed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: house_rules
+      label: Important House Rules
+      hint: Rules children must follow
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: off_limit_areas
+      label: Off-Limit Areas
+      hint: Rooms or areas children cannot access
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pet_instructions
+      label: Pet Care Instructions
+      hint: Any pet-related tasks
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: security_system
+      label: Security System Instructions
+      hint: How to arm or disarm alarm
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_info
+      label: Doctor and Insurance Information
+      hint: Pediatrician contact and insurance
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: expected_behavior
+      label: Expected Behavior Guidelines
+      hint: How to handle discipline issues
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: morning_routine
+      label: Morning Routine if Applicable
+      hint: Instructions for morning care
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

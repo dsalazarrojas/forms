@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Forecast Reliability Survey
+    pages:
+    - id: 1
+      name: form_intro
+      label: Form Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_info
+      label: demographic_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: demographic_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: demographic_gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 41, ''value'': ''Male''}'
+      - '{''id'': 42, ''value'': ''Female''}'
+      - '{''id'': 43, ''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: demographic_income_range
+      label: Income Range
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 53, ''value'': ''$100,000-$200,000''}'
+      - Other
+      required: false
+    - id: 6
+      name: demographic_job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 61, ''value'': ''Employee''}'
+      - '{''id'': 62, ''value'': ''Self-Employed''}'
+      - '{''id'': 63, ''value'': ''Consultant''}'
+      - '{''id'': 64, ''value'': ''Retiree''}'
+      required: false
+    - id: 7
+      name: demographic_job_industry
+      label: Job Industry
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 71, ''value'': ''Finance''}'
+      - '{''id'': 72, ''value'': ''Healthcare''}'
+      - '{''id'': 73, ''value'': ''Technology''}'
+      - '{''id'': 74, ''value'': ''Creative''}'
+      required: false
+    - id: 8
+      name: section_budgeting_accuracy
+      label: section_budgeting_accuracy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: budgeting_accuracy_1
+      label: budgeting_accuracy_1
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 91, ''value'': ''Always accurate''}'
+      - '{''id'': 92, ''value'': ''Sometimes accurate''}'
+      - '{''id'': 93, ''value'': ''Rarely accurate''}'
+      - '{''id'': 94, ''value'': ''Never accurate''}'
+      required: false
+    - id: 10
+      name: budgeting_accuracy_2
+      label: budgeting_accuracy_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 101, ''value'': ''Always accurate''}'
+      - '{''id'': 102, ''value'': ''Sometimes accurate''}'
+      - '{''id'': 102, ''value'': ''Rarely accurate''}'
+      - '{''id'': 103, ''value'': ''Never accurate''}'
+      required: false
+    - id: 11
+      name: budgeting_accuracy_3
+      label: budgeting_accuracy_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 111, ''value'': ''Always accurate''}'
+      - '{''id'': 112, ''value'': ''Sometimes accurate''}'
+      - '{''id'': 112, ''value'': ''Rarely accurate''}'
+      - '{''id'': 113, ''value'': ''Never accurate''}'
+      required: false
+    - id: 12
+      name: section_streamline_submission
+      label: section_streamline_submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_frequency
+      label: submission_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 131, ''value'': ''Never''}'
+      - '{''id'': 132, ''value'': ''Less than 3 times a month''}'
+      - '{''id'': 133, ''value'': ''More than 3 times a month''}'
+      required: false
+    - id: 14
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submission_time_2
+      label: submission_time_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: section_improving_expense_data
+      label: section_improving_expense_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: forecast_accuracy
+      label: forecast_accuracy
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 171, ''value'': ''Highly accurate''}'
+      - '{''id'': 172, ''value'': ''Somewhat accurate''}'
+      - '{''id'': 173, ''value'': ''Not very accurate''}'
+      required: false
+    - id: 18
+      name: forecast_accuracy_2
+      label: forecast_accuracy_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 181, ''value'': ''Highly accurate''}'
+      - '{''id'': 182, ''value'': ''Somewhat accurate''}'
+      - '{''id'': 182, ''value'': ''Not very accurate''}'
+      - '{''id'': 183, ''value'': ''Not at all accurate''}'
+      required: false
+    - id: 19
+      name: forecast_accuracy_3
+      label: forecast_accuracy_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 191, ''value'': ''Highly accurate''}'
+      - '{''id'': 192, ''value'': ''Somewhat accurate''}'
+      - '{''id'': 192, ''value'': ''Not very accurate''}'
+      - '{''id'': 193, ''value'': ''Not at all accurate''}'
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submission_time_3
+      label: submission_time_3
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: submission_time_4
+      label: submission_time_4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submission_time_5
+      label: submission_time_5
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: submission_time_6
+      label: submission_time_6
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submission_time_7
+      label: submission_time_7
+      hint: null
+      type: time
+      options: []
+      required: false

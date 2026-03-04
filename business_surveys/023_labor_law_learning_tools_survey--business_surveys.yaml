@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Labor Law Learning Tools Survey
+    pages:
+    - id: 1
+      name: labor_law_learning_tools_survey_form
+      label: what_is_the_main_use_of_the_labor_law_learning_tools_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: labor_law_learning_tool_resources
+      label: which_labor_law_resources_do_you_currently_use
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: labor_law_learning_tool_resources_satisfaction
+      label: how_satisfied_are_you_with_the_labor_law_learning_tools
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: preferred_learning_formats
+      label: what_is_your_preferred_learning_format
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: feedback
+      label: do_you_have_any_other_feedback_on_labor_law_learning_tools
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_format_1
+      label: text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_format_2
+      label: video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_format_3
+      label: interactive
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool_2
+      label: assigned_tool_2
+      hint: null
+      type: text
+      options: []
+      required: false

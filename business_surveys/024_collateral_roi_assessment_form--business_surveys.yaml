@@ -1,0 +1,312 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collateral ROI Assessment Form
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Your Role
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_period
+      label: Assessment Period
+      hint: Time frame being assessed
+      type: select_one
+      options:
+      - Last Quarter
+      - Last 6 Months
+      - Last Year
+      - Year to Date
+      - Custom Period
+      required: true
+    - id: 6
+      name: collateral_type
+      label: Type of Marketing Collateral
+      hint: What are you assessing
+      type: select_one
+      options:
+      - Brochures
+      - Flyers
+      - Business Cards
+      - Product Catalogs
+      - White Papers
+      - Case Studies
+      - Presentations
+      - Sales Sheets
+      - Email Templates
+      - Social Media Graphics
+      - Video Content
+      - Other
+      required: true
+    - id: 7
+      name: collateral_name
+      label: Collateral Name or Title
+      hint: Specific piece name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: distribution_channels
+      label: Distribution Channels Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email Campaigns
+      - Direct Mail
+      - Trade Shows
+      - Sales Meetings
+      - Website Download
+      - Social Media
+      - In-Store Display
+      - Partner Distribution
+      - Other
+      required: true
+    - id: 9
+      name: quantity_distributed
+      label: Quantity Distributed
+      hint: Total number
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: production_cost
+      label: Total Production Cost
+      hint: Design and printing costs
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: distribution_cost
+      label: Total Distribution Cost
+      hint: Shipping and handling
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: total_investment
+      label: Total Investment
+      hint: All costs combined
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: leads_generated
+      label: Leads Generated
+      hint: Number of leads
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: opportunities_created
+      label: Sales Opportunities Created
+      hint: Number of opportunities
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: deals_closed
+      label: Deals Closed
+      hint: Number of conversions
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: revenue_attributed
+      label: Revenue Attributed
+      hint: Total revenue generated
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: roi_percentage
+      label: Calculated ROI Percentage
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: audience_engagement
+      label: Audience Engagement Level
+      hint: How engaged was audience
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 19
+      name: brand_awareness_impact
+      label: Brand Awareness Impact
+      hint: Effect on brand visibility
+      type: select_one
+      options:
+      - Significant Increase
+      - Moderate Increase
+      - Slight Increase
+      - No Change
+      - Decrease
+      required: true
+    - id: 20
+      name: message_clarity
+      label: Message Clarity Rating
+      hint: How clear was the message
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 21
+      name: design_quality
+      label: Design Quality Rating
+      hint: Visual appeal
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: content_relevance
+      label: Content Relevance
+      hint: How relevant to audience
+      type: select_one
+      options:
+      - Highly Relevant
+      - Relevant
+      - Somewhat Relevant
+      - Not Very Relevant
+      - Irrelevant
+      required: true
+    - id: 23
+      name: call_to_action_effectiveness
+      label: Call to Action Effectiveness
+      hint: Did it drive action
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Not Effective
+      - No Call to Action
+      required: true
+    - id: 24
+      name: sales_team_feedback
+      label: Sales Team Feedback
+      hint: How useful for sales
+      type: select_one
+      options:
+      - Very Useful
+      - Useful
+      - Somewhat Useful
+      - Not Useful
+      - Not Used by Sales
+      required: true
+    - id: 25
+      name: customer_feedback
+      label: Customer Feedback Received
+      hint: What did customers say
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: competitive_advantage
+      label: Competitive Advantage Provided
+      hint: Did it differentiate you
+      type: select_one
+      options:
+      - Significant Advantage
+      - Moderate Advantage
+      - Slight Advantage
+      - No Advantage
+      - Disadvantage
+      required: true
+    - id: 27
+      name: reuse_potential
+      label: Reuse Potential
+      hint: Can it be reused
+      type: select_one
+      options:
+      - High Reuse Value
+      - Moderate Reuse Value
+      - Low Reuse Value
+      - Single Use Only
+      required: true
+    - id: 28
+      name: update_frequency
+      label: Update Frequency Needed
+      hint: How often to update
+      type: select_one
+      options:
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      - As Needed
+      - Never Update
+      required: true
+    - id: 29
+      name: continue_production
+      label: Continue Production
+      hint: Should we keep making this
+      type: select_one
+      options:
+      - Yes Definitely
+      - Yes With Improvements
+      - Unsure
+      - No Discontinue
+      required: true
+    - id: 30
+      name: improvements_needed
+      label: Improvements Needed
+      hint: What should change
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: budget_recommendation
+      label: Budget Recommendation
+      hint: For future production
+      type: select_one
+      options:
+      - Increase Budget
+      - Maintain Budget
+      - Reduce Budget
+      - Eliminate Budget
+      required: true
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

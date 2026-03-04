@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: food_truck_market_research_survey
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: favorite_food_type
+      label: Favorite Food Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Tacos''}'
+      - '{''id'': 2, ''label'': ''Burgers''}'
+      - '{''id'': 3, ''label'': ''Sushi''}'
+      - '{''id'': 4, ''label'': ''Salad''}'
+      required: true
+    - id: 3
+      name: favorite_topping
+      label: Favorite Topping
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Sour cream''}'
+      - '{''id'': 2, ''label'': ''Chives''}'
+      - '{''id'': 3, ''label'': ''Jalapenos''}'
+      - '{''id'': 4, ''label'': ''Olives''}'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: favorite_food_truck
+      label: Favorite Food Truck
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Taco Trek''}'
+      - '{''id'': 2, ''label'': ''Burger Bistro''}'
+      - '{''id'': 3, ''label'': ''Sushi Supreme''}'
+      required: true
+    - id: 7
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

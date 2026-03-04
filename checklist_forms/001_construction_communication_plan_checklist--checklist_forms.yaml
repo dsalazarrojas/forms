@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Communication Plan Checklist
+    pages:
+    - id: 1
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Enter the full official name of the construction project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_manager
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporting_date
+      label: Checklist Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_stakeholder_communication
+      label: -- Stakeholder Communication Strategy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: internal_comm_frequency
+      label: Internal Team Meeting Frequency
+      hint: How often does the core project team meet?
+      type: select_one
+      options:
+      - Daily Stand-up
+      - Twice Weekly
+      - Weekly
+      - Bi-weekly
+      required: true
+    - id: 7
+      name: client_update_method
+      label: Primary Client Communication Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email Reports
+      - Formal Meetings
+      - Phone Calls
+      - Project Portal Access
+      required: true
+    - id: 8
+      name: emergency_contact_protocol
+      label: Emergency Contact Protocol Established
+      hint: Is there a clear procedure for urgent site issues?
+      type: select_one
+      options:
+      - Yes - Fully Documented
+      - In Progress
+      - false
+      required: true
+    - id: 9
+      name: section_reporting_standards
+      label: -- Reporting and Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: daily_log_submission
+      label: Daily Site Log Submission Time
+      hint: What time must daily reports be filed?
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: progress_photo_frequency
+      label: Progress Photo Upload Frequency
+      hint: How often should site photos be added to the project file?
+      type: select_one
+      options:
+      - Daily
+      - Three Times Weekly
+      - Weekly
+      - Monthly
+      required: true
+    - id: 12
+      name: budget_variance_reporting
+      label: Budget Variance Reporting Threshold
+      hint: Percentage variance that triggers immediate notification (%)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: stakeholder_list_verified
+      label: Stakeholder Contact List Verified
+      hint: Has the master contact list been reviewed this month?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: section_additional_notes
+      label: -- Additional Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: additional_remarks
+      label: Additional Communication Notes
+      hint: Any special requirements not covered above
+      type: text
+      options: []
+      required: false

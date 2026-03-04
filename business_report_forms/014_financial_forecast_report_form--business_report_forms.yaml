@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Forecast Report Form
+    pages:
+    - id: 1
+      name: forecast_form
+      label: Financial Forecast
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: forecast_period
+      label: Forecast Period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 3
+      name: forecast_start_date
+      label: Forecast Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: forecast_end_date
+      label: Forecast End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: revenue
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: expenses
+      label: Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: net_income
+      label: Net Income
+      hint: null
+      type: number
+      options: []
+      required: false

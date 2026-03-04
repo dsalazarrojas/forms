@@ -1,0 +1,177 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agreement Specialist Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Enter your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Respondent Email
+      hint: Enter your email address (optional)
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: agreement_specialist_name
+      label: Agreement Specialist Name
+      hint: Enter the name of the agreement specialist you worked with
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Enter the name of your company
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interaction_date
+      label: Interaction Date
+      hint: Enter the date of your interaction with the agreement specialist
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Type of Service
+      hint: What type of agreement service did you receive?
+      type: select_one
+      options: ["Contract Negotiation", "Agreement Review", "Legal Consultation", "Compliance Review", "Drafting Services", "Other"]
+      required: true
+    - id: 7
+      name: overall_satisfaction_header
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: How satisfied are you with the service provided by the agreement specialist?
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 9
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: How would you rate the communication effectiveness of the agreement specialist?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 10
+      name: expertise_knowledge
+      label: Expertise and Knowledge
+      hint: How would you rate the specialist's expertise and knowledge?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 11
+      name: responsiveness
+      label: Responsiveness
+      hint: How would you rate the specialist's responsiveness to your needs?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 12
+      name: professionalism
+      label: Professionalism
+      hint: How would you rate the specialist's professionalism?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 13
+      name: service_quality_header
+      label: -- Service Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: accuracy_of_work
+      label: Accuracy of Work
+      hint: How accurate was the specialist's work?
+      type: select_one
+      options: ["Very Accurate", "Accurate", "Moderately Accurate", "Inaccurate", "Very Inaccurate"]
+      required: true
+    - id: 15
+      name: timeliness_of_delivery
+      label: Timeliness of Delivery
+      hint: Did the specialist meet the agreed-upon deadlines?
+      type: select_one
+      options: ["Well Ahead of Schedule", "On Time", "Slightly Late", "Late", "Very Late"]
+      required: true
+    - id: 16
+      name: value_for_money
+      label: Value for Money
+      hint: Do you feel the service provided was good value for money?
+      type: select_one
+      options: ["Excellent Value", "Good Value", "Fair Value", "Poor Value", "Very Poor Value"]
+      required: true
+    - id: 17
+      name: understanding_of_requirements
+      label: Understanding of Requirements
+      hint: How well did the specialist understand your requirements?
+      type: select_one
+      options: ["Excellent Understanding", "Good Understanding", "Average Understanding", "Poor Understanding", "Very Poor Understanding"]
+      required: true
+    - id: 18
+      name: feedback_suggestions_header
+      label: -- Feedback and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: positive_aspects
+      label: Positive Aspects
+      hint: What did you appreciate most about the service?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What aspects of the service could be improved?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments about your experience
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: recommendation_likelihood
+      label: Recommendation Likelihood
+      hint: How likely are you to recommend this agreement specialist to others?
+      type: select_one
+      options: ["Very Likely", "Likely", "Neutral", "Unlikely", "Very Unlikely"]
+      required: true
+    - id: 23
+      name: future_engagement_interest
+      label: Future Engagement Interest
+      hint: Would you be interested in working with this specialist again?
+      type: select_one
+      options: ["Definitely Yes", "Probably Yes", "Unsure", "Probably No", "Definitely No"]
+      required: true

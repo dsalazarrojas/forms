@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group And Role Information Survey
+    pages:
+    - id: 1
+      name: group_details
+      label: Group Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_list
+      label: Member List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: role_assignments
+      label: Role Assignments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: member_tenure
+      label: Member Tenure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: role_responsibilities
+      label: Role Responsabilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role_tenure
+      label: Role Tenure
+      hint: null
+      type: number
+      options: []
+      required: false

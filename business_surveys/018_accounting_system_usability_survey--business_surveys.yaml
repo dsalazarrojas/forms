@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting System Usability Survey
+    pages:
+    - id: 1
+      name: system_user_info
+      label: -- User information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User name
+      hint: Optional for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: Job title or team
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: system_used
+      label: System used
+      hint: Name of accounting software being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: frequency_of_use
+      label: Frequency of use
+      hint: How often you use the system
+      type: select_one
+      options:
+        - Daily
+        - Weekly
+        - Monthly
+        - Rarely
+      required: true
+    - id: 6
+      name: ease_of_navigation
+      label: Ease of navigation
+      hint: Rate how easy it is to find features
+      type: select_one
+      options:
+        - Very easy
+        - Somewhat easy
+        - Neutral
+        - Somewhat difficult
+        - Very difficult
+      required: true
+    - id: 7
+      name: data_entry_efficiency
+      label: Data entry efficiency
+      hint: How efficient is entering transactions
+      type: select_one
+      options:
+        - Very efficient
+        - Efficient
+        - Neutral
+        - Inefficient
+        - Very inefficient
+      required: true
+    - id: 8
+      name: reporting_capabilities
+      label: Reporting capabilities satisfaction
+      hint: Satisfaction with reporting features
+      type: select_one
+      options:
+        - Very satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very dissatisfied
+      required: true
+    - id: 9
+      name: integration_with_other_tools
+      label: Integration with other tools
+      hint: Is integration sufficient for your needs
+      type: select_one
+      options:
+        - Yes
+        - Partially
+        - No
+      required: false
+    - id: 10
+      name: training_and_support
+      label: Training and support quality
+      hint: Rate available training and support
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: false
+    - id: 11
+      name: top_issues
+      label: Top usability issues
+      hint: List up to three primary usability problems
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suggested_improvements
+      label: Suggested improvements
+      hint: Ideas for enhancing usability
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: willingness_to_participate_in_testing
+      label: Willingness to participate in testing
+      hint: If you can help test improvements
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback about the system
+      type: text
+      options: []
+      required: false

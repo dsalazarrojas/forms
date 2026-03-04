@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Forecast Accuracy Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: accuracy_rate
+      label: Rate
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: confidence_interval
+      label: Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: causes_of_variance
+      label: Causes
+      hint: null
+      type: select_multiple
+      options:
+      - Financial model
+      - Economic factors
+      - Other
+      required: false
+    - id: 6
+      name: ideas_for_improvement
+      label: Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: forecast_accuracy
+      label: Accuracy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: actual_forecast
+      label: Actual
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: forecast_error
+      label: Error
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: forecast_deviation
+      label: Deviation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: actual_deviation
+      label: Actual
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: financial_impact
+      label: Impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: financial_impact_category
+      label: Impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: financial_impact_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: financial_impact_percent
+      label: Percent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: financial_impact_units
+      label: Units
+      hint: null
+      type: text
+      options: []
+      required: false

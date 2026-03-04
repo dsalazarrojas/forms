@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sole Member Borrowing Confirmation
+    pages:
+    - id: 1
+      name: entity_type
+      label: entity_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: entity_type_name
+      label: entity type name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: borrowing_date
+      label: borrowing_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: borrowing_time
+      label: borrowing_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_borrowing
+      label: reason for borrowing
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approval_date
+      label: approval date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: approval_time
+      label: approval time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: signature_date
+      label: signature date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature_time
+      label: signature time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: consent_date
+      label: consent date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: consent_time
+      label: consent time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: consent_status
+      label: consent status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: approval_status
+      label: approval status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: signature_status
+      label: signature status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: reason_for_rejection
+      label: reason for rejection
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rejection_date
+      label: rejection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: rejection_time
+      label: rejection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: rejection_status
+      label: rejection status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

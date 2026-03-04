@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Representative Checklist Form
+    pages:
+    - id: 1
+      name: representative_checklist
+      label: Representative Checklist
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: representative_name
+      label: Representative Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Completed
+      - Deferred
+      - Cancelled
+      required: false
+    - id: 5
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: completed_on
+      label: Completed On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: representative_notes
+      label: Representative Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 10
+      name: checklist_type
+      label: Checklist Type
+      hint: null
+      type: select_one
+      options:
+      - Type A
+      - Type B
+      - Type C
+      - Other
+      - N/A
+      required: false
+    - id: 11
+      name: task_name
+      label: Task Name
+      hint: null
+      type: text
+      options: []
+      required: false

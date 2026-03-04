@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Nonconformance Summary Report
+    pages:
+    - id: 1
+      name: nonconformance_date
+      label: nonconformance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: nonconformance_description
+      label: nonconformance description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nonconformance_location
+      label: nonconformance_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_category
+      label: issue_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: issue_severity
+      label: issue_severity
+      hint: null
+      type: select_one
+      options:
+      - 5 - Critical
+      - 4 - Major
+      - 3 - Minor
+      - 2 - Minor
+      - 1 - Informational
+      required: false
+    - id: 6
+      name: nonconformance_status
+      label: nonconformance_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Resolved
+      required: false
+    - id: 7
+      name: nonconformance_type
+      label: nonconformance_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: root_cause
+      label: root_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_action_description
+      label: corrective_action_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: corrective_actions
+      label: corrective_actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

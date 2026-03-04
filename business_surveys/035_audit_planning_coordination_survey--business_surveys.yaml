@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Planning Coordination Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Name of person completing this survey
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Contact email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department or business unit
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: role_title
+        label: Role Title
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: audit_type_upcoming
+        label: Audit Type Upcoming
+        hint: What type of audit is being planned?
+        type: select_one
+        options:
+          - Financial Audit
+          - Internal Audit
+          - Compliance Audit
+          - IT Audit
+          - Operational Audit
+          - Regulatory Audit
+          - Other
+        required: true
+      - id: 7
+        name: proposed_audit_period
+        label: Proposed Audit Period
+        hint: What period will the audit cover?
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: preferred_audit_dates
+        label: Preferred Audit Dates
+        hint: When would you prefer the audit to occur?
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: blackout_dates
+        label: Blackout Dates
+        hint: Any dates to avoid?
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: key_contacts
+        label: Key Contacts
+        hint: Names of key contacts for the audit
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: contact_availability
+        label: Contact Availability
+        hint: When are key contacts available?
+        type: select_one
+        options:
+          - Full-time during audit
+          - Part-time during audit
+          - As needed
+          - Limited availability
+        required: true
+      - id: 12
+        name: scope_areas
+        label: Scope Areas
+        hint: What areas should be included in scope?
+        type: select_multiple
+        options:
+          - Financial processes
+          - Internal controls
+          - Compliance procedures
+          - IT systems
+          - Operational workflows
+          - Risk management
+          - Vendor management
+          - Human resources
+        required: true
+      - id: 13
+        name: known_risks
+        label: Known Risks
+        hint: What known risks should auditors be aware of?
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: recent_changes
+        label: Recent Changes
+        hint: Any recent significant changes?
+        type: select_multiple
+        options:
+          - System implementations
+          - Process changes
+          - Organizational restructuring
+          - Policy updates
+          - Staff changes
+          - Regulatory changes
+          - None
+        required: true
+      - id: 15
+        name: prior_audit_issues
+        label: Prior Audit Issues
+        hint: Are there unresolved prior audit issues?
+        type: select_one
+        options:
+          - Yes, multiple issues
+          - Yes, one or two issues
+          - No, all resolved
+          - No prior audits
+        required: true
+      - id: 16
+        name: documentation_readiness
+        label: Documentation Readiness
+        hint: How ready is documentation for review?
+        type: select_one
+        options:
+          - Fully ready
+          - Mostly ready
+          - Partially ready
+          - Not ready
+        required: true
+      - id: 17
+        name: resource_requirements
+        label: Resource Requirements
+        hint: What resources will the audit need?
+        type: select_multiple
+        options:
+          - Meeting rooms
+          - System access
+          - Document access
+          - Staff interviews
+          - Data extracts
+          - IT support
+        required: true
+      - id: 18
+        name: special_considerations
+        label: Special Considerations
+        hint: Any special considerations for planning?
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: coordination_preferences
+        label: Coordination Preferences
+        hint: Preferred coordination methods
+        type: select_one
+        options:
+          - Daily check-ins
+          - Weekly meetings
+          - Bi-weekly meetings
+          - As needed
+        required: true
+      - id: 20
+        name: additional_input
+        label: Additional Input
+        hint: Any other input for audit planning
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Networking Quiz
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: networking_experience
+      label: Networking Experience Level
+      hint: How experienced are you at networking?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 5
+      name: networking_frequency
+      label: How Often Do You Network?
+      hint: Frequency of networking activities
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      - Never
+      required: true
+    - id: 6
+      name: networking_comfort_level
+      label: Comfort Level with Networking
+      hint: Rate your comfort (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: networking_confidence
+      label: Confidence in Making New Connections
+      hint: Rate your confidence (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: preferred_networking_format
+      label: Preferred Networking Format
+      hint: How do you prefer to network?
+      type: select_one
+      options:
+      - In-person events
+      - Virtual meetings
+      - Social media
+      - One-on-one calls
+      - Mixed format
+      required: true
+    - id: 9
+      name: networking_goals
+      label: Primary Networking Goals
+      hint: What do you hope to achieve?
+      type: select_multiple
+      options:
+      - Find business partners
+      - Generate leads
+      - Build friendships
+      - Learn from peers
+      - Grow professional community
+      - Career advancement
+      required: true
+    - id: 10
+      name: biggest_networking_challenge
+      label: Biggest Networking Challenge
+      hint: What makes networking difficult?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: past_successful_connections
+      label: Have You Made Successful Business Connections?
+      hint: Success with networking
+      type: select_one
+      options:
+      - Yes, Multiple
+      - Yes, Few
+      - Not Yet
+      - Unsure
+      required: true
+    - id: 12
+      name: conversation_initiation
+      label: Comfort with Starting Conversations
+      hint: Rate comfort level (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: follow_up_consistency
+      label: Do You Follow Up After Meetings?
+      hint: How consistent are you?
+      type: select_one
+      options:
+      - Always
+      - Usually
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 14
+      name: networking_strengths
+      label: Your Networking Strengths
+      hint: What are you good at networking-wise?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: Where could you improve?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: willing_to_help_others
+      label: Willing to Help Other Networkers?
+      hint: Are you open to mentoring?
+      type: select_one
+      options:
+      - Yes, Very Much
+      - Yes, Sometimes
+      - Maybe
+      - Not Really
+      required: false
+    - id: 17
+      name: learning_interests
+      label: Networking Topics You Want to Learn
+      hint: What interests you?
+      type: select_multiple
+      options:
+      - Communication Skills
+      - Building Relationships
+      - Online Networking
+      - Industry Connections
+      - Personal Branding
+      - Confidence Building
+      required: false

@@ -1,0 +1,267 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Calibration And Weight Check Form
+    pages:
+      - id: 1
+        name: technician_name
+        label: Technician Name
+        hint: Name of person performing calibration
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: technician_id
+        label: Technician ID
+        hint: Employee or technician identification
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: calibration_date
+        label: Calibration Date
+        hint: Date of calibration
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: calibration_time
+        label: Calibration Time
+        hint: Time of calibration
+        type: time
+        options: []
+        required: false
+      - id: 5
+        name: location
+        label: Location
+        hint: Where was calibration performed
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: department
+        label: Department
+        hint: Department or area
+        type: select_one
+        options:
+          - Laboratory
+          - Production
+          - Quality Control
+          - Warehouse
+          - Field Operations
+          - Other
+        required: true
+      - id: 7
+        name: equipment_name
+        label: Equipment Name
+        hint: Name of equipment being calibrated
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: equipment_id
+        label: Equipment ID
+        hint: Asset or serial number
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: equipment_type
+        label: Equipment Type
+        hint: Type of equipment
+        type: select_one
+        options:
+          - Scale
+          - Balance
+          - Load cell
+          - Force gauge
+          - Pressure gauge
+          - Temperature sensor
+          - Other measuring device
+          - Other
+        required: true
+      - id: 10
+        name: manufacturer
+        label: Manufacturer
+        hint: Equipment manufacturer
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: model_number
+        label: Model Number
+        hint: Equipment model
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: serial_number
+        label: Serial Number
+        hint: Equipment serial number
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: capacity
+        label: Equipment Capacity
+        hint: Maximum capacity or range
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: calibration_standard_used
+        label: Calibration Standard Used
+        hint: Reference standard for calibration
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: standard_certificate_number
+        label: Standard Certificate Number
+        hint: Certificate number for reference standard
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: standard_due_date
+        label: Standard Due Date
+        hint: When is standard recalibration due
+        type: date
+        options: []
+        required: false
+      - id: 17
+        name: test_weights_used
+        label: Test Weights Used
+        hint: Weights used for testing
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: zero_test
+        label: Zero Test
+        hint: Did equipment read zero correctly
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not applicable
+        required: true
+      - id: 19
+        name: span_test
+        label: Span Test
+        hint: Did equipment read span correctly
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not applicable
+        required: true
+      - id: 20
+        name: linearity_test
+        label: Linearity Test
+        hint: Did equipment pass linearity check
+        type: select_one
+        options:
+          - Pass
+          - Fail
+          - Not performed
+        required: false
+      - id: 21
+        name: readings_taken
+        label: Readings Taken
+        hint: Document test readings
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: tolerance_met
+        label: Tolerance Met
+        hint: Were all readings within tolerance
+        type: select_one
+        options:
+          - Yes, all within tolerance
+          - No, out of tolerance
+          - Marginal
+        required: true
+      - id: 23
+        name: calibration_result
+        label: Calibration Result
+        hint: Overall result
+        type: select_one
+        options:
+          - Pass - calibrated
+          - Pass - as found
+          - Fail - adjusted
+          - Fail - out of tolerance
+          - Fail - damaged
+        required: true
+      - id: 24
+        name: adjustments_made
+        label: Adjustments Made
+        hint: Describe any adjustments
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: next_calibration_date
+        label: Next Calibration Date
+        hint: When is next calibration due
+        type: date
+        options: []
+        required: true
+      - id: 26
+        name: calibration_interval
+        label: Calibration Interval
+        hint: How often should calibration occur
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Semi-annually
+          - Annually
+          - As needed
+        required: false
+      - id: 27
+        name: equipment_condition
+        label: Equipment Condition
+        hint: Overall condition of equipment
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Needs replacement
+        required: true
+      - id: 28
+        name: recommendations
+        label: Recommendations
+        hint: Any recommendations for equipment
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: technician_signature
+        label: Technician Signature
+        hint: Digital signature or initials
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other information
+        type: text
+        options: []
+        required: false

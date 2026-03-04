@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Risk Policy Survey
+    pages:
+    - id: 1
+      name: financial_risk_policy
+      label: financial risk policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_frequency
+      label: review frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 1-6 Months
+      - 6-12 Months
+      - 1-2 Years
+      - 2-5 Years
+      - Never
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: review_comments
+      label: review comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_rating
+      label: risk rating
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tutoring Session Checklist Form
+    pages:
+    - id: 1
+      name: objectives_snippet
+      label: Objectives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: materials_snippet
+      label: Materials Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_goals_snippet
+      label: Session Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: session_notes_snippet
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: session_date_snippet
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_time_snippet
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_duration_snippet
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_outcomes_snippet
+      label: Session Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Window Treatment Cost Calculator
+    pages:
+    - id: 1
+      name: window_treatment_length
+      label: Window Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: window_width
+      label: Window Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: window_height
+      label: Window Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_multiple
+      options:
+      - Bedroom
+      - Living Room
+      - Dining Room
+      - Kitchen
+      - Den
+      required: false
+    - id: 5
+      name: fabric_type
+      label: Fabric Type
+      hint: null
+      type: select_one
+      options:
+      - Roller Blind
+      - Vertical Blind
+      - Curtains
+      - Shades
+      required: false
+    - id: 6
+      name: window_treatment_type
+      label: Window Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - Window Treatment 1
+      - Window Treatment 2
+      - Window Treatment 3
+      required: false
+    - id: 7
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: lead_time
+      label: Lead Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Delivery
+      - Express Delivery
+      - Next Day Delivery
+      required: false
+    - id: 11
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Warehouse
+      required: false
+    - id: 12
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_button_label
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit Form
+      - Cancel Form
+      required: false
+    - id: 16
+      name: email_label
+      label: Email Label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

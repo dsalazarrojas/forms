@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affiliated Business Arrangement Disclosure Statement
+    pages:
+    - id: 1
+      name: disclosure_header
+      label: -- Disclosure Statement --
+      hint: For lenders of Motto Mortgage Reserve.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: borrower_name
+      label: Borrower Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: lender_info_header
+      label: -- Lender Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: lender_name
+      label: Lender Name
+      hint: Motto Mortgage Reserve Representative.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: relationship_disclosure
+      label: Relationship Disclosure
+      hint: Description of the business relationship.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: service_provider_header
+      label: -- Service Provider Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: provider_name
+      label: Service Provider Name
+      hint: The affiliated provider.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_description
+      label: Service Description
+      hint: Nature of the service provided.
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_charge
+      label: Estimated Charge ($)
+      hint: Range of charges for the service.
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: acknowledgement_header
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: borrower_acknowledgement
+      label: Borrower Acknowledgment
+      hint: I have read this disclosure form and understand that I am referring you
+        to purchase the above-described settlement service(s) and may receive a financial
+        or other benefit as the result of this referral.
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 14
+      name: signature
+      label: Borrower Signature
+      hint: null
+      type: select_one
+      options:
+      - Signed
+      - Other
+      required: true
+    - id: 15
+      name: sign_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

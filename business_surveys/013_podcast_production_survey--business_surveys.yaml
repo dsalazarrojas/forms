@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Podcast Production Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Podcast Production Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: podcast_show_title
+      label: Podcast Show Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: producer_email
+      label: Producer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: producer_phone
+      label: Producer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: show_category
+      label: Show Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: show_duration
+      label: Show Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: episode_frequency
+      label: Episode Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: episode_length
+      label: Episode Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: number_of_listeners
+      label: Number of Listeners
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: production_needs
+      label: Production Needs
+      hint: null
+      type: text
+      options: []
+      required: false

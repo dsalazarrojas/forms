@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Player Readiness Check In
+    pages:
+    - id: 1
+      name: athlete_name
+      label: Athlete Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      required: true
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: availability_2
+      label: Availability 2
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Not Available/Available
+      required: true
+    - id: 8
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false

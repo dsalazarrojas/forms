@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Feedback Form
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Training Batch Feedback Survey --
+      hint: Your honest feedback helps us improve future sessions.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: batch_id_reference
+      label: Batch ID or Code
+      hint: e.g. FEB-2026-B1
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_name_optional
+      label: Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_rating
+      label: How would you rate the instructor expertise?
+      hint: 1 - Poor, 5 - Exceptional
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: materials_quality
+      label: Quality of training materials and resources
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Average
+      - High
+      - Very High
+      required: true
+    - id: 6
+      name: session_pace
+      label: The pace of the sessions was
+      hint: null
+      type: select_one
+      options:
+      - Too Slow
+      - Just Right
+      - Too Fast
+      required: true
+    - id: 7
+      name: most_valuable_topic
+      label: Which topic or module did you find most valuable?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: least_valuable_topic
+      label: Which topic or module did you find least valuable?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction_score
+      label: Overall satisfaction with this batch (0-10)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: improvement_suggestions
+      label: What is one thing we could change to improve this batch?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: recommend_to_others
+      label: Would you recommend this training to a colleague?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably
+      - Maybe
+      - false
+      required: true
+    - id: 12
+      name: facility_cleanliness
+      label: Rate the cleanliness and comfort of the facilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: feedback_date
+      label: Date of Feedback
+      hint: null
+      type: date
+      options: []
+      required: true

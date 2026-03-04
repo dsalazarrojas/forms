@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Business Report Filing Intake Form
+    pages:
+    - id: 1
+      name: company_info_header
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Legal name of the company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_number
+      label: Company Registration Number
+      hint: Government registration number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fiscal_year_end
+      label: Fiscal Year End Date
+      hint: When your fiscal year ends
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_title
+      label: Contact Person Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_details_header
+      label: -- Report Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reporting_period
+      label: Reporting Period
+      hint: Which fiscal year is this for
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: report_type
+      label: Type of Report Being Filed
+      hint: What type of report
+      type: select_one
+      options:
+      - Annual Report
+      - Financial Statements
+      - Tax Return
+      - Compliance Report
+      - Audit Report
+      - Combined Report
+      - Other
+      required: true
+    - id: 13
+      name: filing_deadline
+      label: Filing Deadline Date
+      hint: When must this be filed
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: filing_jurisdiction
+      label: Filing Jurisdiction
+      hint: Where will this be filed
+      type: select_one
+      options:
+      - Federal
+      - State
+      - Provincial
+      - Local
+      - Multiple Jurisdictions
+      - International
+      required: true
+    - id: 15
+      name: documents_header
+      label: -- Required Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: financial_statements_ready
+      label: Financial Statements Ready
+      hint: Are your financials prepared
+      type: select_one
+      options:
+      - Yes, completed
+      - In progress
+      - Not yet started
+      - Will be ready by deadline
+      required: true
+    - id: 17
+      name: audit_status
+      label: Audit Status
+      hint: Has an audit been completed
+      type: select_one
+      options:
+      - Audit completed
+      - Audit in progress
+      - No audit required
+      - Audit to be scheduled
+      required: false
+    - id: 18
+      name: supporting_docs_header
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: docs_status
+      label: Supporting Documents Status
+      hint: Are all supporting docs ready
+      type: select_one
+      options:
+      - All documents prepared
+      - Most documents prepared
+      - Some documents prepared
+      - Documents in preparation
+      - Documents not yet started
+      required: true
+    - id: 20
+      name: documentation_checklist
+      label: Required Documentation Checklist
+      hint: Select all that have been prepared
+      type: select_multiple
+      options:
+      - Profit and Loss Statement
+      - Balance Sheet
+      - Cash Flow Statement
+      - Board Minutes
+      - Shareholder Information
+      - Director Information
+      - Tax Compliance Documentation
+      - Insurance Certificates
+      - Legal Certifications
+      required: false
+    - id: 21
+      name: review_approval_header
+      label: -- Review and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: internal_review_status
+      label: Internal Review Status
+      hint: Has internal review been completed
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not yet started
+      - Scheduled for future date
+      required: true
+    - id: 23
+      name: approval_signatory
+      label: Approval Signatory Name
+      hint: Person who will sign off
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_considerations
+      label: Special Considerations or Notes
+      hint: Any issues or special items
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

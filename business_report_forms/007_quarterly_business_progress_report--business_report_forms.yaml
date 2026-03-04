@@ -1,0 +1,39 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quarterly Business Progress Report
+    pages:
+    - id: 1
+      name: quarter
+      label: Quarterly Updates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: team_leads
+      label: Team Leads
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead 1
+      - Team Lead 2
+      - Team Lead 3
+      required: false
+    - id: 3
+      name: outcomes
+      label: Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: next_quarter_priorities
+      label: Next Quarter Priorities
+      hint: null
+      type: select_one
+      options:
+      - High Priority
+      - Medium Priority
+      - Low Priority
+      required: false

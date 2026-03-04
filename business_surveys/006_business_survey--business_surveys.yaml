@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: The official business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: industry_sector
+      label: Industry Sector
+      hint: Select the primary industry
+      type: select_one
+      options:
+      - Technology
+      - Manufacturing
+      - Retail
+      - Healthcare
+      - Finance
+      - Construction
+      - Transportation
+      - Other
+      required: true
+    - id: 3
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-100 employees
+      - 101-500 employees
+      - 501-1000 employees
+      - More than 1000 employees
+      required: true
+    - id: 4
+      name: founded_year
+      label: Year Founded
+      hint: When was the company established
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Select the appropriate range
+      type: select_one
+      options:
+      - Less than 100k
+      - 100k - 500k
+      - 500k - 1M
+      - 1M - 5M
+      - 5M - 10M
+      - More than 10M
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact at the company
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_description
+      label: Brief Business Description
+      hint: What does your company do
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: key_products_services
+      label: Key Products or Services
+      hint: Main offerings
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: target_market
+      label: Target Market
+      hint: Who are your primary customers
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_location
+      label: Primary Business Location
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expansion_plans
+      label: Do You Have Expansion Plans
+      hint: Future growth intentions
+      type: select_one
+      options:
+      - Yes, within next year
+      - Yes, within 2-3 years
+      - Maybe in the future
+      - No plans for expansion
+      - Unsure
+      required: false
+    - id: 14
+      name: main_challenges
+      label: Main Business Challenges
+      hint: What are your biggest obstacles
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Reservation Form With Skrill
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: checkin_date
+      label: checkin_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: checkout_date
+      label: checkout_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: room_number
+      label: room_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Skrill
+      required: false
+    - id: 9
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_reservation
+      label: confirm_reservation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

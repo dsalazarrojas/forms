@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment And Obligation Review
+    pages:
+    - id: 1
+      name: payment_and_obligation_review
+      label: Payment And Obligation Review
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_details
+      label: company_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: date_of_payment
+      label: date_of_payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: amount_of_payment
+      label: amount_of_payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: payment_comments
+      label: payment_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: date_of_obligation
+      label: date_of_obligation
+      hint: null
+      type: date
+      options: []
+      required: false

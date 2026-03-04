@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: operations_advisory_impact_survey
+    pages:
+    - id: 1
+      name: advisory_engagement
+      label: Advisory Engagement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: measured_impact
+      label: Measured Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: perceived_impact
+      label: Perceived Impact
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: operations_leader
+      label: Operations Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: engagement_type
+      label: Engagement Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: engagement_duration
+      label: Engagement Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: team_members_notes
+      label: Team Members Notes
+      hint: null
+      type: note
+      options: []
+      required: false

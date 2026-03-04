@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snowmobile Tour Check In
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_details
+      label: Medical Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: tour_info
+      label: Snowmobile Tour Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: waiver_acceptance
+      label: Waiver Acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_details
+      label: Participant Emergency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tour_operator
+      label: Tour Operator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_treatment
+      label: Medical Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_prescription
+      label: Medical Prescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: participant_height
+      label: Participant Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: participant_weight
+      label: Participant Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: emergency_age
+      label: Emergency Contact Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: emergency_height
+      label: Emergency Contact Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: emergency_weight
+      label: Emergency Contact Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: tour_length
+      label: Tour Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: tour_start
+      label: Tour Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: tour_end
+      label: Tour End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: emergency_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 8th Grade Course Request Registration Form
+    pages:
+    - id: 1
+      name: section_header_student
+      label: "--- Student Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student full name
+      hint: Enter first and last name as shown on school records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID number
+      hint: School-assigned ID (leave blank if unknown)
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_guardian_name
+      label: Parent/guardian name
+      hint: Primary contact for scheduling or changes
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_contact_phone
+      label: Parent/guardian phone
+      hint: Include area code
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: requested_core_courses
+      label: Core course requests (select all that apply)
+      hint: Choose required courses for next year
+      type: select_multiple
+      options:
+        - Math: Pre-Algebra
+        - Math: Algebra I
+        - English: Grade 8 Language Arts
+        - Science: General Science
+        - Social Studies: World History
+        - Spanish I
+      required: true
+    - id: 7
+      name: elective_preferences
+      label: Elective preferences (rank top 3 in notes)
+      hint: Options shown; provide ranked preference in comments
+      type: select_multiple
+      options:
+        - Art
+        - Physical Education
+        - Band/Music
+        - Computer Science
+        - Drama
+        - Yearbook
+      required: false
+    - id: 8
+      name: credit_or_special_requests
+      label: Credit, honors, or special program requests
+      hint: Note honors placement, accelerated math, IEP/504 accommodations
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: counselor_review_date
+      label: Counselor review date
+      hint: Leave blank for counselor to fill
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: parent_signature
+      label: Parent/guardian e-signature
+      hint: Type full name to serve as electronic signature
+      type: text
+      options: []
+      required: true

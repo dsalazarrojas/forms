@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Program Checklist Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_details
+      label: Program Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: target_population
+      label: Target Population
+      hint: null
+      type: select_one
+      options:
+      - Population A
+      - Population B
+      - Population C
+      required: false
+    - id: 4
+      name: program_goals
+      label: Program Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: program_services
+      label: Program Services
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 6
+      name: target_outcomes
+      label: Target Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_methodology
+      label: Evaluation Methodology
+      hint: null
+      type: select_one
+      options:
+      - Methodology 1
+      - Methodology 2
+      - Methodology 3
+      required: false
+    - id: 10
+      name: program_staff
+      label: Program Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: program_budget
+      label: Program Budget
+      hint: null
+      type: number
+      options: []
+      required: false

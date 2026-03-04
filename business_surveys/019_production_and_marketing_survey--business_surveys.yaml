@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production And Marketing Survey
+    pages:
+    - id: 1
+      name: production_survey
+      label: production survey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: marketing_survey
+      label: marketing survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: product_feedback
+      label: product feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_feedback
+      label: customer feedback
+      hint: null
+      type: text
+      options: []
+      required: false

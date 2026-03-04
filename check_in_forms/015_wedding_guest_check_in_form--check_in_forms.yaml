@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Guest Check In Form
+    pages:
+    - id: 1
+      name: wedding_guest_check_in_form_1
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_first_name
+      label: Guest First Name
+      hint: Enter guest first name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_last_name
+      label: Guest Last Name
+      hint: Enter guest last name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guest_email
+      label: Guest Email
+      hint: Enter guest email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: guest_phone
+      label: Guest Phone
+      hint: Enter guest phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_message
+      label: Message for Wedding Party
+      hint: Enter a message for the wedding party
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_attendance
+      label: Guest Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: wedding_guest_check_in_form_8
+      label: Wedding Guest Check In Form 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guest_is_attending
+      label: Is Guest Attending
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: guest_comment
+      label: Guest Comment
+      hint: null
+      type: text
+      options: []
+      required: false

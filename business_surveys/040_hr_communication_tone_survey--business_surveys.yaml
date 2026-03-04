@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: HR Communication Tone Survey
+    pages:
+    - id: 1
+      name: intro_question
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tone_perceived
+      label: Tone Perceived
+      hint: How often do you feel that HR's tone is helpful and supportive?
+      type: select_one
+      options:
+      - Very Often
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Not Satisfied
+      - Very Satisfied
+      required: false
+    - id: 4
+      name: tone_improve
+      label: Tone to Improve
+      hint: What tone would improve HR's communication?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_channels
+      label: How do you usually receive HR's communication?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      - Intranet
+      - Other
+      required: false
+    - id: 7
+      name: time_response
+      label: How long did it take you to respond?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: frequency_response
+      label: frequency_response
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than once a month
+      - Once a month
+      - 2-3 times a month
+      - 1 time in 2 weeks
+      - Weekly or more
+      required: false
+    - id: 9
+      name: satisfaction_why
+      label: Why are you satisfied or dissatisfied?
+      hint: null
+      type: select_multiple
+      options:
+      - Tone
+      - Content
+      - Format
+      - Other
+      required: false
+    - id: 10
+      name: communication_channels_improve
+      label: channels_improve
+      hint: What would you want to see changed in HR's communication channels?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tone_improve_channels
+      label: tone_improve_channels
+      hint: What tone would improve HR's communication channels?
+      type: text
+      options: []
+      required: false

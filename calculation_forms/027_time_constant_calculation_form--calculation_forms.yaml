@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Constant Calculation Form
+    pages:
+    - id: 1
+      name: user_input
+      label: Time Constant Calculation Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: circuit_type
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Capacitive'', ''value'': ''capcitave''}'
+      - '{''id'': 2, ''label'': ''Inductive'', ''value'': ''inductive''}'
+      - '{''id'': 3, ''label'': ''Resistive'', ''value'': ''resistive''}'
+      - '{''id'': 4, ''label'': ''Radiative'', ''value'': ''radiative''}'
+      required: false
+    - id: 3
+      name: frequency
+      label: frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: resistance_ohms
+      label: resistance_ohms
+      hint: null
+      type: number
+      options: []
+      required: false

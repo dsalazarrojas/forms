@@ -1,0 +1,284 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Move In Condition Checklist Form
+    pages:
+      - id: 1
+        name: move_in_date
+        label: Move-in date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: tenant_name
+        label: Tenant name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: property_address
+        label: Property address
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: unit_number
+        label: Unit or apartment number
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: landlord_name
+        label: Landlord or property manager name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: living_room_condition
+        label: Living room overall condition
+        hint: null
+        type: select_one
+        options:
+          - Clean and good condition
+          - Good with minor marks
+          - Fair - some damage or cleanliness issues
+          - Poor - significant issues
+        required: true
+      - id: 7
+        name: living_room_details
+        label: Living room details or issues
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: kitchen_condition
+        label: Kitchen overall condition
+        hint: null
+        type: select_one
+        options:
+          - Clean and good condition
+          - Good with minor marks
+          - Fair - some damage or cleanliness issues
+          - Poor - significant issues
+        required: true
+      - id: 9
+        name: kitchen_appliances
+        label: Kitchen appliances condition
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: bedrooms_condition
+        label: Bedrooms overall condition
+        hint: null
+        type: select_one
+        options:
+          - Clean and good condition
+          - Good with minor marks
+          - Fair - some damage or cleanliness issues
+          - Poor - significant issues
+        required: true
+      - id: 11
+        name: bathrooms_condition
+        label: Bathrooms overall condition
+        hint: null
+        type: select_one
+        options:
+          - Clean and good condition
+          - Good with minor marks
+          - Fair - some damage or cleanliness issues
+          - Poor - significant issues
+        required: true
+      - id: 12
+        name: flooring_condition
+        label: Flooring condition
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: flooring_issues
+        label: Flooring issues if any
+        hint: Stains, damage, wear
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: walls_condition
+        label: Walls and paint condition
+        hint: null
+        type: select_one
+        options:
+          - Excellent - freshly painted
+          - Good
+          - Fair - some marks or damage
+          - Poor - needs repainting
+        required: true
+      - id: 15
+        name: doors_windows_condition
+        label: Doors and windows condition
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair - minor damage
+          - Poor - significant damage
+        required: true
+      - id: 16
+        name: hardware_fixtures
+        label: Hardware and fixtures condition
+        hint: Locks, handles, switches
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: plumbing_condition
+        label: Plumbing condition
+        hint: Sinks, faucets, toilets working
+        type: select_one
+        options:
+          - All working properly
+          - Mostly working
+          - Some issues noted
+          - Multiple problems
+        required: true
+      - id: 18
+        name: plumbing_details
+        label: Plumbing issues if any
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: electrical_condition
+        label: Electrical condition
+        hint: Outlets and switches working
+        type: select_one
+        options:
+          - All working properly
+          - Mostly working
+          - Some issues noted
+          - Multiple problems
+        required: true
+      - id: 20
+        name: hvac_condition
+        label: HVAC condition
+        hint: Heating and cooling working
+        type: select_one
+        options:
+          - Working well
+          - Mostly functional
+          - Some issues
+          - Not functioning
+        required: true
+      - id: 21
+        name: appliances_condition
+        label: Appliances condition
+        hint: If included
+        type: select_one
+        options:
+          - All working well
+          - Mostly functional
+          - Some issues
+          - Not functioning
+          - N/A
+        required: false
+      - id: 22
+        name: cleanliness_overall
+        label: Overall cleanliness
+        hint: null
+        type: select_one
+        options:
+          - Excellent - spotless
+          - Good - minor cleaning
+          - Fair - moderate cleaning needed
+          - Poor - extensive cleaning needed
+        required: true
+      - id: 23
+        name: pest_evidence
+        label: Any evidence of pests or infestations
+        hint: null
+        type: select_one
+        options:
+          - No evidence
+          - Minor evidence
+          - Moderate infestation
+          - Severe infestation
+        required: true
+      - id: 24
+        name: odors
+        label: Any unusual or unpleasant odors
+        hint: null
+        type: select_one
+        options:
+          - No odors
+          - Minor odors
+          - Strong odors
+        required: true
+      - id: 25
+        name: additional_issues
+        label: Additional issues or damage noted
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: photos_taken
+        label: Move-in photos taken
+        hint: null
+        type: select_one
+        options:
+          - Yes, all areas documented
+          - Yes, partial documentation
+          - No
+        required: true
+      - id: 27
+        name: tenant_acknowledgment
+        label: Tenant acknowledges condition as stated
+        hint: null
+        type: select_one
+        options:
+          - Yes, I acknowledge
+          - No, I dispute
+        required: true
+      - id: 28
+        name: landlord_signature_date
+        label: Landlord signature date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 29
+        name: tenant_signature_date
+        label: Tenant signature date
+        hint: null
+        type: date
+        options: []
+        required: true

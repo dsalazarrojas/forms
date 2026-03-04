@@ -1,0 +1,271 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Proposal Form
+    pages:
+    - id: 1
+      name: section_header_company
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Name of cleaning company
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_address
+      label: Company Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_phone
+      label: Company Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_email
+      label: Company Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: Name of the client
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: Client email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: Client phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_address
+      label: Client Address
+      hint: Address of property to be cleaned
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_proposal
+      label: -- Proposal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: proposal_date
+      label: Proposal Date
+      hint: Date this proposal is created
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: proposal_id
+      label: Proposal ID Number
+      hint: Unique identifier for this proposal
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: valid_until
+      label: Proposal Valid Until
+      hint: Date the proposal expires
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: section_header_services
+      label: -- Services Proposed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: service_type
+      label: Primary Service Type
+      hint: Type of cleaning service
+      type: select_one
+      options:
+      - One-Time Cleaning
+      - Recurring Weekly
+      - Recurring Bi-weekly
+      - Recurring Monthly
+      - Deep Cleaning
+      - Post-Move Cleaning
+      - Custom/Special Service
+      required: true
+    - id: 17
+      name: service_frequency
+      label: Service Frequency
+      hint: How often service will be provided
+      type: select_one
+      options:
+      - One-Time
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As Needed
+      required: true
+    - id: 18
+      name: service_start_date
+      label: Proposed Start Date
+      hint: When services will begin
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: property_type
+      label: Property Type
+      hint: Type of property to be cleaned
+      type: select_one
+      options:
+      - Residential (Single Family)
+      - Residential (Apartment)
+      - Office
+      - Commercial
+      - Medical
+      - Industrial
+      - Other
+      required: true
+    - id: 20
+      name: property_size
+      label: Property Size (sq ft)
+      hint: Approximate square footage
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: areas_included
+      label: Areas to be Cleaned
+      hint: Select all areas included
+      type: select_multiple
+      options:
+      - Kitchen
+      - Bathrooms
+      - Bedrooms
+      - Living Areas
+      - Hallways
+      - Floors
+      - Windows
+      - Carpets
+      - Common Areas
+      required: true
+    - id: 22
+      name: section_header_pricing
+      label: -- Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: service_cost
+      label: Service Cost per Cleaning
+      hint: Price per service visit
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: frequency_discount
+      label: Frequency Discount
+      hint: Any discount for recurring service
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: additional_services_cost
+      label: Additional Services Cost
+      hint: Extra services and their cost
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: total_monthly_cost
+      label: Estimated Monthly Cost
+      hint: Based on proposed frequency
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: payment_terms
+      label: Payment Terms
+      hint: When payment is due
+      type: select_one
+      options:
+      - Due upon service completion
+      - Due monthly in advance
+      - Due every 4 weeks
+      - Net 15 days
+      - Net 30 days
+      required: true
+    - id: 28
+      name: payment_methods
+      label: Payment Methods Accepted
+      hint: Select all accepted methods
+      type: select_multiple
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      - Online Payment
+      required: true
+    - id: 29
+      name: section_header_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Terms for canceling service
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: additional_terms
+      label: Additional Terms and Conditions
+      hint: Any special agreements or conditions
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: acceptance
+      label: I accept the terms of this proposal
+      hint: null
+      type: select_one
+      options:
+      - I Accept
+      - I Need to Review
+      - I Decline
+      required: true

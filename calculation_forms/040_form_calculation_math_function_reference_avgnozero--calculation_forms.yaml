@@ -1,0 +1,31 @@
+inputSchema:
+  type: object
+  properties:
+    title: 'Form Calculation: Math Function Reference AvgNoZero()'
+    pages:
+    - id: 1
+      name: math_function_reference_avgnozero
+      label: Enter numbers to calculate average
+      hint: null
+      type: select_multiple
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 2
+      name: math_function_reference_avgnozero
+      label: math_function_reference_avgnozero
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: calculation_result
+      label: result
+      hint: null
+      type: number
+      options: []
+      required: false

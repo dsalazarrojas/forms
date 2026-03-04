@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: shoplifting_incident_form
+    pages:
+    - id: 1
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: suspect_info
+      label: Suspect Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: suspect_address
+      label: Suspect Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: shop_name
+      label: Shop Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: witness_phone
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suspect_age
+      label: Suspect Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: suspect_description
+      label: Suspect Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: suspect_height
+      label: Suspect Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: suspect_weight
+      label: Suspect Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: suspect_eye_color
+      label: Suspect Eye Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Black
+      - Brown
+      - Hazel
+      - Green
+      - Gray
+      - Other
+      required: false
+    - id: 16
+      name: suspect_hair_color
+      label: Suspect Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Blonde
+      - Brown
+      - Gray
+      - Red
+      - Other
+      required: false
+    - id: 17
+      name: witness_gender
+      label: Witness Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 18
+      name: suspect_race
+      label: Suspect Race
+      hint: null
+      type: select_multiple
+      options:
+      - Asian
+      - Black
+      - White
+      - Other
+      required: true
+    - id: 19
+      name: witness_nationality
+      label: Witness Nationality
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: suspect_age_group
+      label: Suspect Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - Teenager
+      - Adult
+      - Elder
+      required: true
+    - id: 21
+      name: suspect_distinguishing_features
+      label: Suspect Distinguishing Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: suspect_distinguishing_features_2
+      label: Suspect Distinguishing Features 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: witness_hair_description
+      label: Witness Hair Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: witness_eye_description
+      label: Witness Eye Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: witness_note
+      label: Witness Note
+      hint: null
+      type: note
+      options: []
+      required: false

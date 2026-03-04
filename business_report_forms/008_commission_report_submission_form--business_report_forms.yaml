@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Report Submission Form
+    pages:
+    - id: 1
+      name: report_information
+      label: Report Information
+      hint: Details about the commission report
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: Date of report submission
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_period
+      label: Report Period
+      hint: Time period this report covers
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: report_type
+      label: Report Type
+      hint: Type of commission report
+      type: select_one
+      options:
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Annual
+      - Special
+      required: true
+    - id: 5
+      name: agent_information
+      label: Agent Information
+      hint: Details about the submitting agent
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: agent_name
+      label: Agent Name
+      hint: Full name of the sales agent
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agent_id
+      label: Agent ID
+      hint: Agent identification number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: agent_email
+      label: Agent Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: region_territory
+      label: Region Territory
+      hint: Assigned sales region or territory
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: sales_summary
+      label: Sales Summary
+      hint: Overview of sales performance
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: total_transactions
+      label: Total Transactions
+      hint: Number of transactions completed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_sales_volume
+      label: Total Sales Volume
+      hint: Total value of all sales in USD
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_commission_earned
+      label: Total Commission Earned
+      hint: Total commission amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: average_deal_size
+      label: Average Deal Size
+      hint: Average value per transaction in USD
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: commission_breakdown
+      label: Commission Breakdown
+      hint: Detailed commission information
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: base_commission
+      label: Base Commission
+      hint: Base commission amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: bonus_commission
+      label: Bonus Commission
+      hint: Bonus commission amount in USD
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: spiff_incentives
+      label: Spiff Incentives
+      hint: SPIFF or incentive amounts in USD
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: deductions_adjustments
+      label: Deductions Adjustments
+      hint: Any deductions or adjustments in USD
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: net_commission
+      label: Net Commission
+      hint: Final net commission in USD
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: top_performing_products
+      label: Top Performing Products
+      hint: Best selling products or services
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: challenges_faced
+      label: Challenges Faced
+      hint: Any obstacles or challenges encountered
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: goals_next_period
+      label: Goals Next Period
+      hint: Sales goals for next reporting period
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Upload any supporting documentation
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: agent_certification
+      label: Agent Certification
+      hint: I certify this report is accurate and complete
+      type: select_one
+      options:
+      - Yes - I Certify
+      - 'No'
+      required: true

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Cargo Check In Form
+    pages:
+    - id: 1
+      name: cargo_details
+      label: freight_cargo_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipper_details
+      label: shipper_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipper_address
+      label: shipper_address
+      hint: Enter shipper address here
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipper_phone
+      label: shipper_phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipper_email
+      label: shipper_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: cargo_weight
+      label: cargo_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: cargo_dimensions
+      label: cargo_dimensions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cargo_notes
+      label: cargo_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: cargo_type
+      label: cargo_type
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 10
+      name: shipper_signature
+      label: shipper_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipper_date
+      label: shipper_date
+      hint: null
+      type: date
+      options: []
+      required: false

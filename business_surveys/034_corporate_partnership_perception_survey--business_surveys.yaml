@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Partnership Perception Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: partner_satisfaction
+      label: partner_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: partner_value
+      label: partner_value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: improvement_ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: long_term_partnership
+      label: long_term_partnership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: partner_relationship
+      label: partner_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: corporate_partnership
+      label: corporate_partnership
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false

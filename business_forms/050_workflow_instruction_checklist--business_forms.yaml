@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workflow Instruction Checklist
+    pages:
+    - id: 1
+      name: workflow_instruction_checklist
+      label: Task List
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 2
+      name: task_completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Doe
+      required: false
+    - id: 4
+      name: task_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Not Started
+      required: false
+    - id: 5
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: select_one
+      options:
+      - Jane
+      - Bob
+      - Alice
+      required: false
+    - id: 6
+      name: task_completion_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: task_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 8
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: task_deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

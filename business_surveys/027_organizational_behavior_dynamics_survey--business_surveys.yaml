@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: organizational_behavior_dynamics_survey
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: team_id
+      label: Team ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_id
+      label: Supervisor ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: work_week
+      label: Work Week
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: work_shift
+      label: Work Shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: org_unit
+      label: Org Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: org_level
+      label: Org Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: work_type_2
+      label: Work Type 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: work_location_2
+      label: Work Location 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: job_title_2
+      label: Job Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_function_2
+      label: Job Function 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: org_name
+      label: Org Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: org_email
+      label: Org Email
+      hint: null
+      type: email
+      options: []
+      required: false

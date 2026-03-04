@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: organizational_trust_and_transparency_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1_title
+      label: Section 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: How many years have you been with the organization?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question_2
+      label: Do you trust your manager?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Trust''}'
+      - '{''label'': ''Somewhat Trust''}'
+      - '{''label'': ''Not Very Trust''}'
+      - '{''label'': ''Not At All''}'
+      required: false
+    - id: 5
+      name: question_3
+      label: Do you feel like you can approach your manager with an open mind?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly Open''}'
+      - '{''label'': ''Somewhat Open''}'
+      - '{''label'': ''Somewhat Closed''}'
+      - '{''label'': ''Closed''}'
+      required: false
+    - id: 6
+      name: question_4
+      label: How likely are you to share your opinions with your manager?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Somewhat Unlikely''}'
+      - '{''label'': ''Not At All Likely''}'
+      required: false
+    - id: 7
+      name: section_2_title
+      label: Section 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_5
+      label: Do you believe in the company's mission?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Disagree''}'
+      required: false
+    - id: 9
+      name: question_6
+      label: Do you think your contributions are valued?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly Value''}'
+      - '{''label'': ''Somewhat Value''}'
+      - '{''label'': ''Somewhat Not Value''}'
+      - '{''label'': ''Not At All Value''}'
+      required: false
+    - id: 10
+      name: question_7
+      label: How likely are you to recommend the company to a friend or acquaintance?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not At All Likely''}'
+      required: false
+    - id: 11
+      name: question_8
+      label: Have you ever had an opportunity to participate in any decision-making
+        processes within the organization?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly Participate''}'
+      - '{''label'': ''Somewhat Participate''}'
+      - '{''label'': ''Somewhat Not Participate''}'
+      - '{''label'': ''Not At All Participate''}'
+      required: false
+    - id: 12
+      name: section_3_title
+      label: Section 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question_9
+      label: What motivates you to stay with this organization?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Career Growth''}'
+      - '{''label'': ''Good Compensation''}'
+      - '{''label'': ''Good Relationships''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: question_10
+      label: How likely are you to stay with this organization if the company offered
+        you more money?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not At All Likely''}'
+      required: false
+    - id: 15
+      name: question_11
+      label: What motivates you to stay or leave this organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: question_12
+      label: How likely are you to stay with this organization if you were to be given
+        more autonomy?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Strongly Likely''}'
+      - '{''label'': ''Somewhat Likely''}'
+      - '{''label'': ''Not Very Likely''}'
+      - '{''label'': ''Not At All Likely''}'
+      required: false
+    - id: 17
+      name: question_13
+      label: What motivates you to stay or leave this organization?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: question_14
+      label: Have you ever felt pressured to do something that you didn't want to
+        do?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 19
+      name: question_15
+      label: Have you ever felt that someone has tried to pressure you into doing
+        something you didn't want to do?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 20
+      name: question_16
+      label: Do you feel like your work environment is a positive place to be?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Disagree''}'
+      required: false
+    - id: 21
+      name: question_17
+      label: Do you feel like your work environment is a place where you can be yourself?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Disagree''}'
+      required: false
+    - id: 22
+      name: question_18
+      label: Have you ever had a good relationship with a manager?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 23
+      name: question_19
+      label: Have you ever had a bad relationship with a manager?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: question_20
+      label: Have you ever felt like you were being micromanaged?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 25
+      name: question_21
+      label: Have you ever felt like you were being given enough feedback?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Agree''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Disagree''}'
+      required: false

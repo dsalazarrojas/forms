@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tennis Summer Camp Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: parents_name
+      label: Parent's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_contact_info
+      label: Parent's Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: player_interests
+      label: Player's Interests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_relationship
+      label: Relationship with Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - Emergency Contact is Parent
+      - Emergency Contact is Grandparent
+      - Emergency Contact is Sibling
+      - Emergency Contact is Guardian
+      required: true
+    - id: 15
+      name: emergency_contact_approval
+      label: Do you give permission for our staff to contact your emergency contact?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: camp_preferences
+      label: Which of the following camps do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - Morning Camp
+      - Afternoon Camp
+      - Full Day Camp
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Any additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

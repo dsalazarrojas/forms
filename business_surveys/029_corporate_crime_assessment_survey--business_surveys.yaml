@@ -1,0 +1,122 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: corporate.report
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to this survey
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: crime_types
+      label: What kind of crimes are we dealing with?
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Crime
+      - Human Trafficking
+      - Cyber Crime
+      - Environmental Crime
+      required: true
+    - id: 3
+      name: crime_finance
+      label: What is your role in corporate finance?
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - CFO
+      - CCO
+      - Compliance Officer
+      - Risk Manager
+      required: false
+    - id: 4
+      name: crime_finance_details
+      label: What is your level of awareness about corporate crime in finance?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 5
+      name: crime_human
+      label: What is your role in corporate human resources?
+      hint: null
+      type: select_one
+      options:
+      - HR Manager
+      - Recruitment Manager
+      - Training Manager
+      - Compliance Officer
+      - Risk Manager
+      required: false
+    - id: 6
+      name: crime_human_details
+      label: What is your level of awareness about corporate crime in human resources?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: crime_it
+      label: What is your role in corporate information technology?
+      hint: null
+      type: select_one
+      options:
+      - IT Manager
+      - Network Administrator
+      - Database Manager
+      - Security Manager
+      - Compliance Officer
+      required: false
+    - id: 8
+      name: crime_it_details
+      label: What is your level of awareness about corporate crime in IT?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: crime_environment
+      label: What is your role in corporate environmental services?
+      hint: null
+      type: select_one
+      options:
+      - EHS Manager
+      - Sustainability Manager
+      - Compliance Officer
+      - Environmental Manager
+      - Risk Manager
+      required: false
+    - id: 10
+      name: crime_environment_details
+      label: What is your level of awareness about corporate crime in the environment?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true

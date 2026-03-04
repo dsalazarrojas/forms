@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Department Report Form
+    pages:
+    - id: 1
+      name: weekly_issues
+      label: weekly_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: actions_taken
+      label: actions_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: actions_description
+      label: actions_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_solved
+      label: date_solved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reported_by
+      label: reported_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: prophets
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reported_by_email
+      label: reported_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: reported_by_phone
+      label: reported_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: prophets_phone
+      label: prophets_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department_phone
+      label: department_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reported_by_date
+      label: reported_by_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: field_14
+      label: Field 14
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: department_name
+      label: department_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reported_by_time
+      label: reported_by_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: department_id
+      label: department_id
+      hint: null
+      type: number
+      options: []
+      required: false

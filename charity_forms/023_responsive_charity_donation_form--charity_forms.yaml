@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Charity Donation Form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donate Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: What Is This Donation For?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: charity_name
+      label: Select Charity Name
+      hint: null
+      type: select_one
+      options:
+      - American Heart Association
+      - American Cancer Society
+      - American Red Cross
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: donation_date
+      label: Date of Donation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: donation_time
+      label: Time of Donation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false

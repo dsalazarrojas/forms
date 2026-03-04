@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Campaign Analysis Request Form
+    pages:
+    - id: 1
+      name: campaign_details
+      label: What is your campaign name?
+      hint: Please provide campaign name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: objective
+      label: What is your campaign objective?
+      hint: Please select one
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: target_audience
+      label: Target audience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: campaign_duration
+      label: Campaign duration
+      hint: Please provide start and end dates
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: total_budget
+      label: Total budget
+      hint: Please provide budget amount
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: marketing_channels
+      label: Marketing channels
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: campaign_status
+      label: Campaign status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: feedback
+      label: Do you want to receive feedback on this campaign?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Please provide comments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned user
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

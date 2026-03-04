@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Utility Efficiency Survey
+    pages:
+    - id: 1
+      name: tenant_survey
+      label: Tenant Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_usage
+      label: Energy Usage
+      hint: null
+      type: select_multiple
+      options:
+      - Electricity
+      - Gas
+      - Solar
+      - Other
+      required: false
+    - id: 3
+      name: water_usage
+      label: Water Usage
+      hint: null
+      type: select_multiple
+      options:
+      - Tap Water
+      - Well Water
+      - Other
+      required: false
+    - id: 4
+      name: heating
+      label: Heating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tenant_survey_2
+      label: Tenant Survey 2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: energy_efficiency
+      label: Energy Efficiency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: energy_consumption
+      label: Energy Consumption
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 12
+      name: water_consumption
+      label: Water Consumption
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 13
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: utility_bills
+      label: Utility Bills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: energy_bills
+      label: Energy Bills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: water_bills
+      label: Water Bills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submitted_at
+      label: Submitted at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

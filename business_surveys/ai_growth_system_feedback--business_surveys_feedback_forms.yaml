@@ -1,0 +1,196 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Growth System Feedback
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Welcome to Our Feedback Survey ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll never share your email with third parties
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_in_company
+      label: Your role in the company
+      hint: null
+      type: select_one
+      options:
+      - Executive
+      - Manager
+      - Employee
+      - Consultant
+      - Other
+      required: false
+    - id: 6
+      name: satisfaction
+      label: How satisfied are you with AI Growth System?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 7
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: usage_frequency
+      label: How often do you use AI Growth System?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - First time
+      required: true
+    - id: 9
+      name: primary_use_case
+      label: Primary use case for AI Growth System
+      hint: null
+      type: select_one
+      options:
+      - Content creation
+      - Data analysis
+      - Customer service
+      - Marketing automation
+      - Product development
+      - Other
+      required: true
+    - id: 10
+      name: best_aspects
+      label: Best aspects of AI Growth System (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast processing
+      - Reliable performance
+      - Great customer support
+      - Good value for money
+      - Feature-rich interface
+      - Accurate results
+      required: false
+    - id: 11
+      name: ease_of_use_rating
+      label: How would you rate the ease of use?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 12
+      name: training_resources_helpful
+      label: Were the training resources helpful?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very helpful
+      - Somewhat helpful
+      - Neutral
+      - Not very helpful
+      - Not helpful at all
+      required: true
+    - id: 13
+      name: support_response_time
+      label: Average support response time (hours)
+      hint: null
+      type: decimal
+      options: []
+      required: false
+    - id: 14
+      name: areas_to_improve
+      label: What would you improve about AI Growth System?
+      hint: Please be specific
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feature_requests
+      label: Features you'd like to see added
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: would_recommend
+      label: Would you recommend AI Growth System to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not sure
+      - Probably not
+      - false
+      required: true
+    - id: 17
+      name: likelihood_to_renew
+      label: How likely are you to renew your subscription?
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: Any other feedback you'd like to share
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: survey_completion_date
+      label: Date of feedback submission
+      hint: null
+      type: date
+      options: []
+      required: true

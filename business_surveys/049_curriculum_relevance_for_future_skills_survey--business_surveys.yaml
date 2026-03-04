@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curriculum Relevance For Future Skills Survey
+    pages:
+    - id: 1
+      name: intro1
+      label: Welcome to this survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What is your role in the company?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''CEO''}'
+      - '{''id'': 2, ''label'': ''CTO''}'
+      - '{''id'': 3, ''label'': ''Software Engineer''}'
+      - '{''id'': 4, ''label'': ''Project Manager''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: question2
+      label: Do you currently have access to training or resources that support your
+        learning and development needs?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Yes, I have access''}'
+      - '{''id'': 2, ''label'': ''No, but I wish I had access''}'
+      - '{''id'': 3, ''label'': "No, and I don''t need access"}'
+      required: false
+    - id: 4
+      name: question3
+      label: How often do you participate in training or professional development
+        activities?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Frequently''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      - '{''id'': 4, ''label'': ''Never''}'
+      required: false
+    - id: 5
+      name: question4
+      label: How would you rate the relevance of our training and development programs
+        to your future career goals?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very relevant''}'
+      - '{''id'': 2, ''label'': ''Somewhat relevant''}'
+      - '{''id'': 3, ''label'': ''Not very relevant''}'
+      - '{''id'': 4, ''label'': ''Not at all relevant''}'
+      required: false
+    - id: 6
+      name: question5
+      label: How many years do you think it will take to gain proficiency in the new
+        skills required for your current role?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: question6
+      label: How many months do you think it will take to achieve proficiency in 1-2
+        areas of new skills required for your current role?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: How many months do you think it will take to achieve proficiency in 3-5
+        areas of new skills required for your current role?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question8
+      label: What do you think is the most important factor in our training and development
+        programs?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Practical application''}'
+      - '{''id'': 2, ''label'': ''Theoretical foundation''}'
+      - '{''id'': 3, ''label'': ''Career advancement''}'
+      - '{''id'': 4, ''label'': ''Networking opportunities''}'
+      required: false
+    - id: 10
+      name: question9
+      label: How likely are you to participate in the programs we offer?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very likely''}'
+      - '{''id'': 2, ''label'': ''Somewhat likely''}'
+      - '{''id'': 3, ''label'': ''Not very likely''}'
+      - '{''id'': 4, ''label'': ''Not at all likely''}'
+      required: false
+    - id: 11
+      name: question10
+      label: Do you currently use any online learning platforms or tools?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 12
+      name: question11
+      label: How do you think our training and development programs can be improved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Add more practical training activities''}'
+      - '{''id'': 2, ''label'': ''Increase the frequency of training sessions''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: question13
+      label: Do you have a preferred way of communicating with us?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''In-person meetings''}'
+      - '{''id'': 4, ''label'': ''Online meetings''}'
+      required: false
+    - id: 14
+      name: question14
+      label: Do you have any further comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question15
+      label: Do you have any further comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: question16
+      label: Do you have any further comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false

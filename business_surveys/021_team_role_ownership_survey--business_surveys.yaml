@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Role Ownership Survey
+    pages:
+    - id: 1
+      name: team_ownership
+      label: Team Ownership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: gauging_comfort_level
+      label: Gauging Comfort Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: interested_in_new_roles
+      label: Interested In New Roles
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

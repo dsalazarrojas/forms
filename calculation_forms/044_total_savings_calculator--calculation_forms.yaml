@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Total Savings Calculator
+    pages:
+    - id: 1
+      name: years
+      label: Years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: monthly_value
+      label: Monthly Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: gic_type
+      label: GIC Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed Income
+      - Guaranteed Investment Certificate
+      - High-Interest
+      - Low-Interest
+      - Prime
+      - Variable
+      required: true

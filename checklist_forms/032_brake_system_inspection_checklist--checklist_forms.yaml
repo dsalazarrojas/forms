@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brake System Inspection Checklist
+    pages:
+    - id: 1
+      name: section_header_inspection
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Year make and model
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mileage
+      label: Odometer Mileage
+      hint: Current vehicle mileage
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: section_header_fluid
+      label: -- Brake Fluid --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: fluid_level
+      label: Brake Fluid Level
+      hint: Check fluid level
+      type: select_one
+      options:
+      - Full
+      - Good
+      - Low
+      - Critical
+      - Not visible
+      required: true
+    - id: 8
+      name: fluid_condition
+      label: Brake Fluid Condition
+      hint: Color and clarity
+      type: select_one
+      options:
+      - Clear
+      - Slightly discolored
+      - Dark
+      - Black or burnt
+      - Cloudy or contaminated
+      required: true
+    - id: 9
+      name: fluid_leak
+      label: Evidence of Fluid Leaks
+      hint: Any leaks detected
+      type: select_one
+      options:
+      - No leaks
+      - Minor weeping
+      - Active leak
+      - Severe leak
+      required: true
+    - id: 10
+      name: section_header_pads
+      label: -- Brake Pads --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: pad_thickness_front
+      label: Front Pad Thickness
+      hint: Estimated thickness
+      type: select_one
+      options:
+      - 5+ mm (good)
+      - 3-5 mm (fair)
+      - 1-3 mm (worn)
+      - Less than 1 mm (critical)
+      required: true
+    - id: 12
+      name: pad_thickness_rear
+      label: Rear Pad Thickness
+      hint: Estimated thickness
+      type: select_one
+      options:
+      - 5+ mm (good)
+      - 3-5 mm (fair)
+      - 1-3 mm (worn)
+      - Less than 1 mm (critical)
+      required: true
+    - id: 13
+      name: pad_wear_uneven
+      label: Uneven Pad Wear
+      hint: Pads wearing unevenly
+      type: select_one
+      options:
+      - Uniform wear
+      - Slightly uneven
+      - Very uneven
+      - Severely worn
+      required: false
+    - id: 14
+      name: section_header_rotors
+      label: -- Brake Rotors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: rotor_condition
+      label: Rotor Surface Condition
+      hint: Visual inspection
+      type: select_one
+      options:
+      - Smooth and clean
+      - Light scoring
+      - Heavy scoring
+      - Warped or cracked
+      - Failed
+      required: true
+    - id: 16
+      name: rotor_thickness
+      label: Rotor Thickness Check
+      hint: Measure against minimum
+      type: select_one
+      options:
+      - Good thickness
+      - At minimum limit
+      - Below minimum
+      - Cannot determine
+      required: false
+    - id: 17
+      name: section_header_system
+      label: -- Brake System Components --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: hoses_condition
+      label: Brake Hoses Condition
+      hint: Visual hose inspection
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Cracked or worn
+      - Failed
+      required: true
+    - id: 19
+      name: caliper_operation
+      label: Caliper Operation
+      hint: Do calipers function properly
+      type: select_one
+      options:
+      - Proper operation
+      - Slightly sluggish
+      - Very sluggish
+      - Seized
+      - Not applicable
+      required: false
+    - id: 20
+      name: section_header_recommendation
+      label: -- Inspection Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: inspection_result
+      label: Overall Inspection Result
+      hint: Final assessment
+      type: select_one
+      options:
+      - Safe - passes inspection
+      - Safe with minor repairs needed
+      - Unsafe - requires repair
+      - Unsafe - vehicle not drivable
+      required: true

@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Contract Form
+    pages:
+    - id: 1
+      name: contract_date
+      label: Contract Date
+      hint: Effective date of contract
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: party_a_company
+      label: First Company Name
+      hint: Name of first party
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: party_a_representative
+      label: Party A Representative
+      hint: Authorized signatory
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: party_a_address
+      label: Party A Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: party_a_email
+      label: Party A Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: party_a_phone
+      label: Party A Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: party_b_company
+      label: Second Company Name
+      hint: Name of second party
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: party_b_representative
+      label: Party B Representative
+      hint: Authorized signatory
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: party_b_address
+      label: Party B Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: party_b_email
+      label: Party B Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: party_b_phone
+      label: Party B Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: partnership_purpose
+      label: Purpose of Partnership
+      hint: What is the partnership for?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contract_term
+      label: Contract Term
+      hint: Duration of partnership
+      type: select_one
+      options:
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      - At-will
+      - Other
+      required: true
+    - id: 14
+      name: commission_structure
+      label: Commission Structure
+      hint: How are commissions calculated?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: commission_percentage
+      label: Commission Percentage
+      hint: Percentage of sales/revenue
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: When and how are payments made?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: payment_frequency
+      label: Payment Frequency
+      hint: Monthly, quarterly, annually?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annual
+      - Annual
+      - On Delivery
+      required: true
+    - id: 18
+      name: territory_or_scope
+      label: Territory or Scope
+      hint: Geographic or product scope
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: responsibilities
+      label: Key Responsibilities
+      hint: What are your obligations?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: termination_clause
+      label: Termination Terms
+      hint: How can this contract end?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: special_conditions
+      label: Special Conditions
+      hint: Any special agreements?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signatures_agreement
+      label: Both parties agree to these terms
+      hint: Confirm agreement
+      type: select_one
+      options:
+      - Yes, I Agree
+      - false
+      required: true

@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Processing Efficiency Report Form
+    pages:
+    - id: 1
+      name: report_period
+      label: Reporting Period
+      hint: Select the period this report covers
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 2
+      name: period_start_date
+      label: Period Start Date
+      hint: First day of reporting period
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: period_end_date
+      label: Period End Date
+      hint: Last day of reporting period
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: department_name
+      label: Department or Division
+      hint: Your department name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_submitter
+      label: Report Prepared By
+      hint: Full name of person submitting
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submitter_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: total_claims_received
+      label: Total Claims Received
+      hint: Number of new claims in period
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_claims_processed
+      label: Total Claims Processed
+      hint: Number completed in period
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: claims_pending
+      label: Claims Still Pending
+      hint: Carried over from previous period
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: average_processing_time
+      label: Average Processing Time
+      hint: In business days
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: target_processing_time
+      label: Target Processing Time
+      hint: Company goal in days
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: claims_approved
+      label: Number of Claims Approved
+      hint: Approved for payment
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: claims_denied
+      label: Number of Claims Denied
+      hint: Denied during this period
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: claims_under_review
+      label: Claims Under Review
+      hint: Currently being evaluated
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_payout_amount
+      label: Total Payout Amount
+      hint: Total dollars paid out
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: average_claim_value
+      label: Average Claim Value
+      hint: Average dollars per claim
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: backlog_status
+      label: Current Backlog Status
+      hint: Compared to target
+      type: select_one
+      options:
+      - Below target
+      - At target
+      - Slightly above target
+      - Significantly above target
+      - Critical backlog
+      required: true
+    - id: 18
+      name: bottleneck_areas
+      label: Identified Bottleneck Areas
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Initial intake
+      - Documentation review
+      - Investigation
+      - Approval process
+      - Payment processing
+      - Communication delays
+      - Staffing shortages
+      - System issues
+      - None identified
+      required: true
+    - id: 19
+      name: staffing_level
+      label: Current Staffing Level
+      hint: Compared to optimal
+      type: select_one
+      options:
+      - Understaffed
+      - Adequately staffed
+      - Overstaffed
+      required: true
+    - id: 20
+      name: system_issues
+      label: Were There System or Technical Issues
+      hint: That affected processing
+      type: select_one
+      options:
+      - Yes, significant issues
+      - Yes, minor issues
+      - No issues
+      required: true
+    - id: 21
+      name: customer_complaints
+      label: Number of Customer Complaints
+      hint: Received during this period
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: customer_satisfaction
+      label: Customer Satisfaction Trend
+      hint: Compared to previous period
+      type: select_one
+      options:
+      - Improved significantly
+      - Improved slightly
+      - Stayed the same
+      - Declined slightly
+      - Declined significantly
+      required: true
+    - id: 23
+      name: efficiency_rating
+      label: Overall Efficiency Rating
+      hint: Self-assessment for this period
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: true
+    - id: 24
+      name: improvement_initiatives
+      label: Improvement Initiatives Implemented
+      hint: Describe any changes made
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recommendations
+      label: Recommendations for Improvement
+      hint: Suggestions for next period
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

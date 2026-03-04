@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Qualification Call Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: business_survey_type
+      label: Business Survey
+      hint: null
+      type: select_one
+      options:
+      - Business Surveys
+      - Marketing Surveys
+      required: false
+    - id: 8
+      name: best_contact_method
+      label: Best Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Social Media
+      required: false
+    - id: 9
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Trade Show
+      - Online Search
+      required: false
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Enterprise
+      required: false
+    - id: 11
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Healthcare
+      - Finance
+      - Technology
+      required: false
+    - id: 12
+      name: sales_stage
+      label: Sales Stage
+      hint: null
+      type: select_one
+      options:
+      - Lead
+      - Qualified
+      - Opportunity
+      required: false
+    - id: 13
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Qualified
+      - Qualified - Opportunity
+      - Lost
+      required: false
+    - id: 14
+      name: follow_up_call
+      label: Follow-up Call
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No Response
+      required: false
+    - id: 15
+      name: follow_up_email
+      label: Follow-up Email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: lead_owner
+      label: Lead Owner
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      required: false
+    - id: 17
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 19
+      name: next_step
+      label: Next Step
+      hint: null
+      type: select_one
+      options:
+      - Schedule Call
+      - Send Email
+      - Send Proposal
+      - Follow up via Phone
+      - Follow up via Email
+      - No Follow up
+      required: false
+    - id: 20
+      name: next_step_time
+      label: Next Step Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: next_step_method
+      label: Next Step Method
+      hint: null
+      type: select_one
+      options:
+      - Follow-up via Phone
+      - Follow-up via Email
+      required: false
+    - id: 22
+      name: lead_value
+      label: Lead Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 24
+      name: follow_up_channel
+      label: Follow-up Channel
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 25
+      name: lead_source_description
+      label: Lead Source Description
+      hint: null
+      type: note
+      options: []
+      required: false

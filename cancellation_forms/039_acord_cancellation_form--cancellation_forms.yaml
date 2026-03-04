@@ -1,0 +1,113 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acord Cancellation Form
+    pages:
+    - id: 1
+      name: policyholder_name
+      label: Policyholder Name
+      hint: Exactly as it appears on the policy
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: type_of_insurance
+      label: Type of Insurance
+      hint: null
+      type: select_one
+      options:
+      - Auto
+      - Homeowners
+      - Commercial General Liability
+      - Workers Comp
+      - Life
+      required: true
+    - id: 4
+      name: effective_date_of_cancellation
+      label: Effective Date of Cancellation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: effective_time_of_cancellation
+      label: Effective Time of Cancellation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: select_one
+      options:
+      - Policy replaced
+      - Property sold
+      - Business closed
+      - Premium too high
+      - Other
+      required: true
+    - id: 7
+      name: other_reason_details
+      label: Other Reason Details
+      hint: If Other was selected above
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: return_premium_method
+      label: Return Premium Method
+      hint: How should unearned premium be handled?
+      type: select_one
+      options:
+      - Mail check to policyholder
+      - Apply to other policy
+      - Send to agent
+      required: true
+    - id: 9
+      name: forwarding_address_if_changed
+      label: Forwarding Address
+      hint: Only if changed from policy records
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policyholder_signature
+      label: Policyholder Signature
+      hint: Type name to authorize cancellation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: agent_broker_name
+      label: Agent / Broker Name
+      hint: name of your insurance representative
+      type: text
+      options: []
+      required: false

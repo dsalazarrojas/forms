@@ -1,0 +1,130 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Support Cancellation Form
+    pages:
+      - id: 1
+        name: section_petitioner_info
+        label: -- Petitioner Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: petitioner_name
+        label: Full Name of Petitioner
+        hint: Person requesting the cancellation
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: case_reference_number
+        label: Case Reference Number
+        hint: As listed on your court documents
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: section_cancellation_reason
+        label: -- Reason for Cancellation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: cancellation_reason_primary
+        label: Primary reason for cancellation
+        hint: Core justification for ending support
+        type: select_one
+        options:
+          - label: Child has reached the age of majority
+            value: age
+          - label: Child has joined the military
+            value: military
+          - label: Change in legal custody status
+            value: custody
+          - label: Mutual agreement between parents
+            value: agreement
+        required: true
+      - id: 6
+        name: requested_cancellation_date
+        label: Requested Cancellation Date
+        hint: When should the support stop?
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: section_child_details
+        label: -- Child Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: child_name_dob
+        label: Name and Birthdate of child
+        hint: Information for the minor child
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: section_supporting_info
+        label: -- Supporting Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: request_explanation
+        label: Brief explanation for the request
+        hint: Provide any additional context
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: both_parents_agreed
+        label: Have both parents agreed to this cancellation?
+        hint: Consensus status
+        type: select_one
+        options:
+          - label: Yes - Mutual Consent
+            value: yes
+          - label: No - Contested Request
+            value: no
+        required: true
+      - id: 12
+        name: section_acknowledgment
+        label: -- Acknowledgment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: court_approval_ack
+        label: I understand this request is subject to court approval
+        hint: Formal legal notice
+        type: select_one
+        options:
+          - label: I Understand
+            value: yes
+          - label: I Disagree
+            value: no
+        required: true
+      - id: 14
+        name: today_date
+        label: Today Date
+        hint: Date of filing
+        type: date
+        options: []
+        required: true

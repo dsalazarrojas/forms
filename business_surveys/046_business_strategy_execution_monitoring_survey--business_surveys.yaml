@@ -1,0 +1,214 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Strategy Execution Monitoring Survey
+    pages:
+      - id: 1
+        name: section_respondent
+        label: -- Respondent Information --
+        type: note
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: For tracking purposes
+        type: text
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        required: true
+      - id: 4
+        name: role_level
+        label: Role Level
+        hint: Executive, Manager, Individual Contributor
+        type: select_one
+        options:
+          - Executive
+          - Manager
+          - Team Lead
+          - Individual Contributor
+          - Other
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: When you are completing this survey
+        type: date
+        required: true
+      - id: 6
+        name: section_strategy_clarity
+        label: -- Strategy Clarity and Understanding --
+        type: note
+        required: false
+      - id: 7
+        name: strategy_understanding
+        label: Understanding of Company Strategy
+        hint: How well do you understand the strategy
+        type: select_one
+        options:
+          - Very poor understanding
+          - Poor understanding
+          - Adequate understanding
+          - Good understanding
+          - Excellent understanding
+        required: true
+      - id: 8
+        name: strategy_communication
+        label: Effectiveness of Strategy Communication
+        hint: How well has strategy been communicated
+        type: select_one
+        options:
+          - Very ineffective
+          - Ineffective
+          - Neutral
+          - Effective
+          - Very effective
+        required: true
+      - id: 9
+        name: personal_alignment
+        label: Personal Role Alignment with Strategy
+        hint: How aligned is your work with strategy
+        type: select_one
+        options:
+          - Not aligned
+          - Somewhat aligned
+          - Moderately aligned
+          - Well aligned
+          - Perfectly aligned
+        required: true
+      - id: 10
+        name: section_execution
+        label: -- Execution and Progress --
+        type: note
+        required: false
+      - id: 11
+        name: execution_progress
+        label: Strategy Execution Progress
+        hint: How well are we executing the strategy
+        type: select_one
+        options:
+          - Falling behind
+          - Somewhat behind schedule
+          - On schedule
+          - Ahead of schedule
+          - Exceeding targets
+        required: true
+      - id: 12
+        name: goal_progress
+        label: Progress on Strategic Goals
+        hint: Are we hitting our targets
+        type: select_one
+        options:
+          - No progress
+          - Minimal progress
+          - Moderate progress
+          - Good progress
+          - Excellent progress
+        required: true
+      - id: 13
+        name: milestone_tracking
+        label: Are Key Milestones Being Tracked
+        hint: Is there visibility into milestones
+        type: select_one
+        options:
+          - Not tracked
+          - Poorly tracked
+          - Adequately tracked
+          - Well tracked
+          - Excellently tracked
+        required: true
+      - id: 14
+        name: section_resources
+        label: -- Resources and Support --
+        type: note
+        required: false
+      - id: 15
+        name: resource_adequacy
+        label: Adequacy of Resources Allocated
+        hint: Do we have what we need to execute
+        type: select_one
+        options:
+          - Insufficient resources
+          - Below adequate
+          - Adequate
+          - More than adequate
+          - Excellent resources
+        required: true
+      - id: 16
+        name: leadership_support
+        label: Leadership Support for Execution
+        hint: Are leaders supporting the strategy
+        type: select_one
+        options:
+          - No support
+          - Minimal support
+          - Moderate support
+          - Strong support
+          - Full commitment
+        required: true
+      - id: 17
+        name: team_engagement
+        label: Team Engagement with Strategy
+        hint: How engaged are teams with execution
+        type: select_one
+        options:
+          - Very disengaged
+          - Disengaged
+          - Neutral
+          - Engaged
+          - Highly engaged
+        required: true
+      - id: 18
+        name: section_obstacles
+        label: -- Obstacles and Challenges --
+        type: note
+        required: false
+      - id: 19
+        name: main_obstacles
+        label: Main Obstacles to Execution
+        hint: What is slowing progress
+        type: text
+        required: true
+      - id: 20
+        name: internal_barriers
+        label: Internal Barriers Identified
+        hint: Organizational or cultural barriers
+        type: text
+        required: false
+      - id: 21
+        name: external_challenges
+        label: External Challenges
+        hint: Market or external factors
+        type: text
+        required: false
+      - id: 22
+        name: section_recommendations
+        label: -- Recommendations --
+        type: note
+        required: false
+      - id: 23
+        name: needed_improvements
+        label: Needed Improvements
+        hint: What would help execution
+        type: text
+        required: false
+      - id: 24
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other observations
+        type: text
+        required: false

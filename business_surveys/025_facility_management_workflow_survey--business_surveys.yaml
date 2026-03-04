@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Management Workflow Survey
+    pages:
+    - id: 1
+      name: facility_management_workflow_questionnaire
+      label: facility management workflow questionnaire
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: current_location
+      label: current location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: workflow_satisfaction
+      label: workflow satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: challenges_faced
+      label: challenges faced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: improvement ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_submitted
+      label: date submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_submitted
+      label: time submitted
+      hint: null
+      type: time
+      options: []
+      required: false

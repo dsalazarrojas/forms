@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: replacement diploma request form
+    pages:
+    - id: 1
+      name: replacement_request
+      label: Replacement Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_info
+      label: Shipping Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_name
+      label: Name on Shipping Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipping_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: shipping_zip
+      label: Zip/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_option
+      label: Payment Option
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: fee_type
+      label: Replacement Fee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fee_amount
+      label: Fee Amount
+      hint: Enter the fee amount
+      type: number
+      options: []
+      required: false

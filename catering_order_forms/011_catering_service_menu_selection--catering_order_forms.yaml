@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Menu Selection
+    pages:
+    - id: 1
+      name: section_customer_details
+      label: -- Customer Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_event_information
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: guest_count
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: section_cuisine_selection
+      label: -- Cuisine Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cuisine_type
+      label: Preferred Cuisine Type
+      hint: null
+      type: select_one
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Asian
+      - Mediterranean
+      - Indian
+      - French
+      - Fusion
+      - Other
+      required: true
+    - id: 11
+      name: section_entree_selection
+      label: -- Entree Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: entree_option_1
+      label: First Entree Choice
+      hint: null
+      type: select_one
+      options:
+      - Grilled Chicken Breast
+      - Prime Rib
+      - Salmon Filet
+      - Vegetable Pasta
+      - Lamb Chops
+      - Turkey
+      - Pork Tenderloin
+      - Custom Option
+      required: true
+    - id: 13
+      name: entree_option_1_count
+      label: Quantity for First Entree
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: entree_option_2
+      label: Second Entree Choice
+      hint: null
+      type: select_one
+      options:
+      - Grilled Chicken Breast
+      - Prime Rib
+      - Salmon Filet
+      - Vegetable Pasta
+      - Lamb Chops
+      - Turkey
+      - Pork Tenderloin
+      - None
+      required: false
+    - id: 15
+      name: entree_option_2_count
+      label: Quantity for Second Entree
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_sides_and_salads
+      label: -- Sides and Salads --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: salad_selection
+      label: Salad Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Caesar Salad
+      - Garden Salad
+      - Caprese Salad
+      - Arugula Salad
+      - No Salad
+      required: true
+    - id: 18
+      name: side_dishes
+      label: Side Dishes
+      hint: null
+      type: select_multiple
+      options:
+      - Roasted Vegetables
+      - Mashed Potatoes
+      - Rice Pilaf
+      - Pasta
+      - Grilled Asparagus
+      - Bread and Butter
+      required: true
+    - id: 19
+      name: section_beverages
+      label: -- Beverages --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: beverage_service
+      label: Beverage Service Type
+      hint: null
+      type: select_one
+      options:
+      - Non-alcoholic only
+      - Beer and Wine
+      - Full Bar
+      - Coffee and Tea Service
+      required: true
+    - id: 21
+      name: non_alcoholic_beverages
+      label: Non-Alcoholic Beverage Selections
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Soft Drinks
+      - Iced Tea
+      - Lemonade
+      - Coffee
+      - Tea
+      required: false
+    - id: 22
+      name: section_desserts
+      label: -- Desserts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: dessert_selection
+      label: Dessert Selection
+      hint: null
+      type: select_one
+      options:
+      - Cake
+      - Pastries
+      - Fruit Platters
+      - Chocolate Mousse
+      - Tiramisu
+      - Cheesecake
+      - Custom Dessert
+      - No Dessert
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special Requests or Dietary Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: menu_confirmation
+      label: I confirm my menu selections
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

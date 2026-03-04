@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: videography_billing_form
+    pages:
+    - id: 1
+      name: videography_client_name
+      label: Client Name
+      hint: Enter client name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: videography_project_name
+      label: Project Name
+      hint: Enter project name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: videography_client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: videography_client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: videography_billing_date
+      label: Billing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: videography_total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: videography_payment_option
+      label: Payment Option
+      hint: Select payment option
+      type: select_multiple
+      options:
+      - Payment Option 1
+      - Payment Option 2
+      - Payment Option 3
+      required: false
+    - id: 8
+      name: videography_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Payment Option 1
+      - Payment Option 2
+      - Payment Option 3
+      required: false
+    - id: 9
+      name: videography_billing_status
+      label: Billing Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Started
+      - In Progress
+      required: false
+    - id: 10
+      name: videography_additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_diversity_perception_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: race
+      label: race
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      required: false
+    - id: 3
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black or African American
+      - Asian
+      - Native American or Alaskan Native
+      - Pacific Islander
+      - Some other race
+      required: false
+    - id: 4
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - non-binary
+      - Other
+      required: false
+    - id: 5
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Full time
+      - Part time
+      - Contract
+      - Intern
+      - Other
+      required: false
+    - id: 7
+      name: manager_level
+      label: manager_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: years_of_service
+      label: years_of_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: discrimination_ex_reported
+      label: discrimination_ex_reported
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: discrimination_types
+      label: discrimination_types
+      hint: null
+      type: select_multiple
+      options:
+      - Racism
+      - Sexism
+      - Homophobia
+      - Transphobia
+      - Ageism
+      required: false
+    - id: 11
+      name: experiences
+      label: experiences
+      hint: null
+      type: select_multiple
+      options:
+      - microaggressions
+      - comments
+      - jokes
+      - slurs
+      - bullying
+      - Other
+      required: false
+    - id: 12
+      name: perpetrator
+      label: perpetrator
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Colleague
+      - Supervisor
+      - Client
+      required: false
+    - id: 13
+      name: perpetrator_title
+      label: perpetrator_title
+      hint: null
+      type: select_multiple
+      options:
+      - Human Resources
+      - Manager
+      - Supervisor
+      - Client
+      required: false
+    - id: 14
+      name: bystander
+      label: bystander
+      hint: null
+      type: select_multiple
+      options:
+      - Colleague
+      - Supervisor
+      - Manager
+      - Client
+      required: false
+    - id: 15
+      name: bystander_title
+      label: bystander_title
+      hint: null
+      type: select_multiple
+      options:
+      - Human Resources
+      - Manager
+      - Supervisor
+      - Client
+      required: false
+    - id: 16
+      name: reported_to
+      label: reported_to
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Human Resources
+      - Supervisor
+      - Client
+      required: false
+    - id: 17
+      name: reported_to_title
+      label: reported_to_title
+      hint: null
+      type: select_multiple
+      options:
+      - Director
+      - Manager
+      - Supervisor
+      - HR
+      required: false
+    - id: 18
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not reported
+      required: false
+    - id: 19
+      name: action_taken_reason
+      label: action_taken_reason
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Not reported
+      - None
+      required: false
+    - id: 20
+      name: manager_response
+      label: manager_response
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Not reported
+      - None
+      required: false
+    - id: 21
+      name: manager_response_reason
+      label: manager_response_reason
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Not reported
+      - None
+      required: false
+    - id: 22
+      name: perpetrator_response
+      label: perpetrator_response
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Not reported
+      - None
+      required: false
+    - id: 23
+      name: perpetrator_response_reason
+      label: perpetrator_response_reason
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Not reported
+      - None
+      required: false
+    - id: 24
+      name: bystander_response
+      label: bystander_response
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Not reported
+      - None
+      required: false
+    - id: 25
+      name: manager_action_taken
+      label: manager_action_taken
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Not reported
+      - None
+      required: false

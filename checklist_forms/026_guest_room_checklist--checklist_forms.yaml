@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Room CheckList
+    pages:
+    - id: 1
+      name: room_number
+      label: Room Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Unsatisfactory''}'
+      required: false
+    - id: 3
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: amenities
+      label: Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Free Wi-Fi''}'
+      - '{''label'': ''Free Parking''}'
+      - '{''label'': ''Free Breakfast''}'
+      - '{''label'': ''In-room Mini-bar''}'
+      required: false
+    - id: 5
+      name: amenities_1
+      label: In-Room Mini-bar
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: amenities_2
+      label: Free Parking
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: amenities_3
+      label: Free Breakfast
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single''}'
+      - '{''label'': ''Double''}'
+      - '{''label'': ''Suite''}'
+      required: false
+    - id: 9
+      name: bed_type
+      label: Bed Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Single''}'
+      - '{''label'': ''Double''}'
+      - '{''label'': ''King''}'
+      required: false
+    - id: 10
+      name: bathroom
+      label: Bathroom
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Private''}'
+      - '{''label'': ''Public''}'
+      - '{''label'': ''Shared''}'
+      required: false
+    - id: 11
+      name: bathroom_1
+      label: Bathroom Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''En-suite''}'
+      - '{''label'': ''Shared''}'
+      required: false
+    - id: 12
+      name: bathroom_2
+      label: Bathtub/Shower
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: amenities_4
+      label: Hair-dryer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 14
+      name: bed_size
+      label: Bed Size
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Queen''}'
+      - '{''label'': ''King''}'
+      - '{''label'': ''Single''}'
+      required: false
+    - id: 15
+      name: smoking
+      label: Smoking
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 16
+      name: room_layout
+      label: Room Layout
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''L-shape''}'
+      - '{''label'': ''U-shape''}'
+      - '{''label'': ''Straight''}'
+      required: false
+    - id: 17
+      name: room_view
+      label: Room View
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''City View''}'
+      - '{''label'': ''Garden View''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 18
+      name: amenities_5
+      label: Free Gym
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 19
+      name: room_condition
+      label: Room Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New''}'
+      - '{''label'': ''Clean''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Needs Improvement''}'
+      required: false
+    - id: 20
+      name: bed_frame
+      label: Bed Frame
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Wooden''}'
+      - '{''label'': ''Metal''}'
+      - '{''label'': ''Plastic''}'
+      required: false
+    - id: 21
+      name: toilet_type
+      label: Toilet Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Modern''}'
+      - '{''label'': ''Old''}'
+      - '{''label'': ''Shared''}'
+      required: false
+    - id: 22
+      name: shower_type
+      label: Shower Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Modern''}'
+      - '{''label'': ''Old''}'
+      - '{''label'': ''Shared''}'
+      required: false
+    - id: 23
+      name: amenities_6
+      label: Free Wi-Fi
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: toilet_frame
+      label: Toilet Frame
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Wooden''}'
+      - '{''label'': ''Plastic''}'
+      - '{''label'': ''Metal''}'
+      required: false
+    - id: 25
+      name: amenities_7
+      label: Free Parking
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

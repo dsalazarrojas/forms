@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 1099 NEC Tax Information Collection Form
+    pages:
+    - id: 1
+      name: section_header_contractor
+      label: '--- Contractor (Payee) Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contractor_full_name
+      label: Full name of contractor
+      hint: Enter the legal name of the individual or business owner
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contractor_business_name
+      label: Business name / DBA (if applicable)
+      hint: Leave blank if not applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contractor_taxpayer_id
+      label: Contractor SSN or EIN
+      hint: Enter SSN (XXX-XX-XXXX) or EIN (XX-XXXXXXX)
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contractor_address
+      label: Contractor mailing address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contractor_email
+      label: Contractor email address
+      hint: Used for confirmation and follow-up
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contractor_phone
+      label: Contractor phone number
+      hint: Mobile or business contact number
+      type: phone
+      options: []
+      required: false
+    - id: 8
+      name: section_header_payer
+      label: '--- Payer (Company) Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: payer_business_name
+      label: Payer (company) name
+      hint: Company name that paid the contractor
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: payer_contact_name
+      label: Payer contact name
+      hint: Primary contact for questions about this payment
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payer_address
+      label: Payer mailing address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: payer_ein
+      label: Payer EIN
+      hint: 'Employer Identification Number (format: XX-XXXXXXX)'
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_payment
+      label: '--- Payment & Reporting Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: tax_year
+      label: Tax year for reporting
+      hint: Four-digit year (e.g., 2025)
+      type: integer
+      options: []
+      required: true
+    - id: 15
+      name: nonemployee_compensation
+      label: Nonemployee compensation (total amount paid, USD)
+      hint: Enter total payments subject to 1099-NEC reporting
+      type: decimal
+      options: []
+      required: true
+    - id: 16
+      name: payment_date
+      label: Date of last payment in tax year
+      hint: Date of most recent payment reported here
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: payment_type
+      label: Primary payment type
+      hint: Select the category that best describes the payments
+      type: select_one
+      options:
+      - Contract labor
+      - Professional services
+      - Legal fees
+      - Rent
+      - Other
+      required: true
+    - id: 18
+      name: payment_methods
+      label: Payment methods used (select all that apply)
+      hint: Choose all methods that were used to pay the contractor
+      type: select_multiple
+      options:
+      - Check
+      - ACH / Wire transfer
+      - Credit or debit card
+      - Cash
+      - Other
+      required: false
+    - id: 19
+      name: backup_withholding
+      label: Was backup withholding applied?
+      hint: Select Yes if backup withholding was withheld on these payments
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: federal_filing_required
+      label: Will this payment be reported to the IRS on Form 1099-NEC?
+      hint: Select Yes if the payer will file the form
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: section_header_certification
+      label: '--- Certification & Preparer Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: preparer_name
+      label: Name of person completing this form
+      hint: Full name of preparer or authorized representative
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: preparer_email
+      label: Preparer email address
+      hint: For follow-up questions about this submission
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: preparer_signature
+      label: Electronic signature (type full name to certify)
+      hint: Typing your name certifies the information is accurate
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: preparer_date
+      label: Date signed
+      hint: Date the preparer signed this form
+      type: date
+      options: []
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional comments or instructions
+      hint: Use this field for clarifications, special payment details, or notes
+      type: text
+      options: []
+      required: false

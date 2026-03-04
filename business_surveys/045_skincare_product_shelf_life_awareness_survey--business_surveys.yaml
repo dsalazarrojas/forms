@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Product Shelf Life Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_usage
+      label: product usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_purchase
+      label: product purchase
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purchase_frequency
+      label: purchase frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchase_location
+      label: purchase location
+      hint: null
+      type: select_one
+      options:
+      - Beauty store
+      - Online store
+      - Pharmacy
+      - Other
+      required: false
+    - id: 6
+      name: product_storage
+      label: product storage
+      hint: null
+      type: select_multiple
+      options:
+      - Refrigerate
+      - Room temperature
+      - Freezer
+      - Other
+      required: false
+    - id: 7
+      name: expiration_date
+      label: expiration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: product_condition
+      label: product condition
+      hint: null
+      type: time
+      options: []
+      required: false

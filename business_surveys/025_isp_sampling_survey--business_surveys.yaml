@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: isp_sampling_survey
+    pages:
+    - id: 1
+      name: internet_provider_name
+      label: Internet Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - neutral
+      - somewhat_dissatisfied
+      - very_dissatisfied
+      required: false
+    - id: 3
+      name: interest_in_sampling
+      label: interest_in_sampling
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 4
+      name: trial_period_days
+      label: trial_period_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: current_isp
+      label: current_isp
+      hint: null
+      type: select_one
+      options:
+      - isp1
+      - isp2
+      - isp3
+      required: false
+    - id: 6
+      name: current_isp_other
+      label: current_isp_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: survey_comments
+      label: survey_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: survey_comments_other
+      label: survey_comments_other
+      hint: null
+      type: text
+      options: []
+      required: false

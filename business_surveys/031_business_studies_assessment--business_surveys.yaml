@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Studies Assessment
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name of the student
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Student identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: course_name
+      label: Course Name
+      hint: Name of the business studies course
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: course_code
+      label: Course Code
+      hint: Course code or number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of the instructor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of the assessment
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: assessment_type
+      label: Type of Assessment
+      hint: What type of assessment is this
+      type: select_one
+      options:
+      - Exam
+      - Project
+      - Assignment
+      - Presentation
+      - Quiz
+      - Portfolio
+      - Participation
+      required: true
+    - id: 8
+      name: business_fundamentals
+      label: Business Fundamentals Knowledge
+      hint: Rate understanding of business basics
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: entrepreneurship_skills
+      label: Entrepreneurship Skills
+      hint: Rate entrepreneurship capabilities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: financial_analysis
+      label: Financial Analysis Understanding
+      hint: Knowledge of financial concepts
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: marketing_understanding
+      label: Marketing Concepts Understanding
+      hint: Grasp of marketing principles
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: management_concepts
+      label: Management Concepts
+      hint: Understanding of management theory
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: critical_thinking
+      label: Critical Thinking Ability
+      hint: Ability to analyze business problems
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: communication_skills
+      label: Communication Skills
+      hint: Ability to present ideas clearly
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: research_skills
+      label: Business Research Skills
+      hint: Ability to conduct business research
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: teamwork_collaboration
+      label: Teamwork and Collaboration
+      hint: Works well in group settings
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: participation_engagement
+      label: Class Participation and Engagement
+      hint: Level of class involvement
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: overall_score
+      label: Overall Assessment Score
+      hint: Percentage or grade
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: Detailed feedback on performance
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: improvement_recommendations
+      label: Recommendations for Improvement
+      hint: Suggestions for the student
+      type: text
+      options: []
+      required: false

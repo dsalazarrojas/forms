@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checklist For Rare Items
+    pages:
+    - id: 1
+      name: section_item_id
+      label: -- Item Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: item_formal_name
+      label: Item Name / Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unique_catalog_id
+      label: Catalog / Inventory ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rarity_category
+      label: Item Category
+      hint: null
+      type: select_one
+      options:
+      - Manuscript / Book
+      - Artifact / Object
+      - Artwork
+      - Specimen
+      - Coin / Currency
+      - Other
+      required: true
+    - id: 5
+      name: rarity_level_rating
+      label: Rarity Level
+      hint: null
+      type: select_one
+      options:
+      - Common (Reference)
+      - Uncommon
+      - Rare
+      - Extremely Rare
+      - Unique
+      required: true
+    - id: 6
+      name: section_provenance
+      label: -- Provenance and Acquisition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: acquisition_date_logged
+      label: Date of Acquisition
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: acquisition_source_info
+      label: Acquisition Source
+      hint: Donor, Auction House, or Vendor
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: estimated_valuation_amount
+      label: Estimated Valuation ($)
+      hint: For insurance purposes
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_condition_status
+      label: -- Condition and Storage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_condition_grade
+      label: Current Condition Grade
+      hint: null
+      type: select_one
+      options:
+      - Mint / Pristine
+      - Excellent
+      - Good
+      - Fair (Stable)
+      - Poor (Fragile)
+      - Needs Urgent Conservation
+      required: true
+    - id: 12
+      name: physical_dimensions_desc
+      label: Physical Dimensions
+      hint: Height, width, depth, weight
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: storage_environment_type
+      label: Storage Environment
+      hint: null
+      type: select_one
+      options:
+      - Climate Controlled Vault
+      - Standard Archive Room
+      - Display Case (Public)
+      - Off-site Storage
+      required: true
+    - id: 14
+      name: section_admin
+      label: -- Administrative Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: last_inspection_date
+      label: Date of Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: inspector_name_staff
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: condition_change_notes
+      label: Notes on Condition Changes
+      hint: Describe any new damage or deterioration
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cataloger_final_ack
+      label: Catalog entry verified as accurate
+      hint: null
+      type: select_one
+      options:
+      - Verified
+      - Other
+      required: true

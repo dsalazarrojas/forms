@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheer Try A Class Registration
+    pages:
+    - id: 1
+      name: section_trial_student
+      label: -- Trial Student Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trial_student_full_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trial_student_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: parent_full_name_contact
+      label: Parent / Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: trial_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: trial_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_class_selection
+      label: -- Class and Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_trial_date
+      label: Trial Class Date
+      hint: Select an upcoming open house or trial date
+      type: select_one
+      options:
+      - Tuesday, March 10 - 4-00 PM
+      - Thursday, March 12 - 5-30 PM
+      - Saturday, March 14 - 10-00 AM
+      required: true
+    - id: 9
+      name: current_skill_level_est
+      label: Estimated Skill Level
+      hint: null
+      type: select_one
+      options:
+      - Complete Beginner
+      - Some Experience (1-2 years)
+      - Experienced Athlete
+      required: true
+    - id: 10
+      name: known_medical_notes
+      label: Important Medical Notes or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_waiver_auth
+      label: -- Waiver and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: trial_class_waiver_ack
+      label: Release of Liability and Participation Agreement
+      hint: I agree to let my child participate in the trial class
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: emergency_contact_full_info
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: registration_date_logged
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: how_referral_track
+      label: How did you hear about our trial class
+      hint: null
+      type: text
+      options: []
+      required: false

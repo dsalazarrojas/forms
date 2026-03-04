@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_information_form
+    pages:
+    - id: 1
+      name: property_title
+      label: Property Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_size
+      label: Property Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_features
+      label: Property Features
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: property_year_built
+      label: Property Year Built
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: property_age
+      label: Property Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: property_price_range
+      label: Property Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: property_lot_size
+      label: Property Lot Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_agent
+      label: Property Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_image
+      label: Property Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_video
+      label: Property Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: property_documents
+      label: Property Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: property_amenities
+      label: Property Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: property_viewport
+      label: Property Viewport
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: property_views
+      label: Property Views
+      hint: null
+      type: text
+      options: []
+      required: false

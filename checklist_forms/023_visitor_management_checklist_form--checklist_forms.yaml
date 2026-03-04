@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: visitor_management_checklist_form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: photo_info
+      label: Photo Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: id_number
+      label: ID Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: visitor_type
+      label: Visitor Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: visitor_info
+      label: Visitor Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: id_photo
+      label: ID Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: document
+      label: Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: id_doc
+      label: ID Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: signature_status
+      label: Signature Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_verified
+      label: Verified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: world_management_feedback
+    pages:
+    - id: 1
+      name: form_title
+      label: World Management Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: Select department
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_rating
+      label: manager_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_rating
+      label: team_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_comments
+      label: team_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_comments
+      label: overall_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback_frequency
+      label: feedback_frequency
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: false

@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Validation Program Registration Form
+    pages:
+    - id: 1
+      name: machine_validation_program
+      label: Machine Validation Program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: machine
+      label: Machine
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Machine 1''}'
+      - '{''id'': 2, ''label'': ''Machine 2''}'
+      - '{''id'': 3, ''label'': ''Machine 3''}'
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: validation_date
+      label: Validation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submit_now
+      label: Submit Now
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit Now''}'
+      - '{''id'': 2, ''label'': ''Submit Later''}'
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

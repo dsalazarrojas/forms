@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Latin America Historical Survey
+    pages:
+    - id: 1
+      name: educator_interests
+      label: educator_interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interests_level
+      label: interests_level
+      hint: null
+      type: select_multiple
+      options:
+      - Brazil
+      - Mexico
+      required: false
+    - id: 3
+      name: history_knowledge_level
+      label: history_knowledge_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: knowledge_areas
+      label: knowledge_areas
+      hint: null
+      type: select_multiple
+      options:
+      - Latin American culture
+      - Latin American history
+      - Latin American politics
+      required: false
+    - id: 5
+      name: knowledge_level_1
+      label: knowledge_level_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: knowledge_level_2
+      label: knowledge_level_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: knowledge_level_3
+      label: knowledge_level_3
+      hint: null
+      type: number
+      options: []
+      required: false

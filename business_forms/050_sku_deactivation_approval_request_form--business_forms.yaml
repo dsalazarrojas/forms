@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: sku_deactivation_approval_request_form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: sku_id
+      label: S KU ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_deactivation
+      label: Reason For Deactivation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approver_email
+      label: Approver E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_approved
+      label: Time Approved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: approver_notes
+      label: Approver Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitter_id
+      label: Submitter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Founder Onboarding Form
+    pages:
+    - id: 1
+      name: founder_profile
+      label: -- Founder Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary business email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: linkedin_profile
+      label: LinkedIn Profile
+      hint: LinkedIn URL
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: background
+      label: Professional Background
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Name
+      hint: Your company name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_stage
+      label: Business Stage
+      hint: Where are you?
+      type: select_one
+      options:
+      - Idea Stage
+      - Pre-Launch
+      - Just Launched
+      - Early Growth
+      - Scaling
+      required: true
+    - id: 10
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_description
+      label: Business Description
+      hint: What does your business do?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: funding_status
+      label: Current Funding Status
+      hint: Funding stage
+      type: select_one
+      options:
+      - No Funding Yet
+      - Bootstrapped
+      - Seed Funding Seeking
+      - Seed Funded
+      - Series A Seeking
+      - Venture Funded
+      required: true
+    - id: 13
+      name: team_information
+      label: -- Team Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: team_size
+      label: Current Team Size
+      hint: Number of team members
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: co_founders
+      label: Co-Founders
+      hint: Names of other founders
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: advisory_board
+      label: Advisory Board Members
+      hint: Mentors or advisors
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: support_needs
+      label: -- Support and Resources Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: support_areas
+      label: Areas Needing Support
+      hint: What do you need help with?
+      type: select_multiple
+      options:
+      - Product Development
+      - Marketing and Growth
+      - Sales
+      - Finance and Accounting
+      - Legal Compliance
+      - Fundraising
+      - Team Building
+      - Operations
+      - Mentorship
+      required: true
+    - id: 19
+      name: business_goals
+      label: -- Business Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: six_month_goals
+      label: 6-Month Goals
+      hint: What do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: one_year_goals
+      label: 1-Year Goals
+      hint: Goals for next year
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: success_metrics
+      label: Key Success Metrics
+      hint: How will you measure success?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: resource_preferences
+      label: Preferred Communication Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - In-Person Meeting
+      - Slack or Chat
+      required: true
+    - id: 24
+      name: additional_information
+      label: Additional Information
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

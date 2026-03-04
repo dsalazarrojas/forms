@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Education Checklist Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_guilty
+      label: Parent/Guilty Party
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Other
+      required: false
+    - id: 3
+      name: student_age
+      label: Student Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: disability
+      label: Disability
+      hint: null
+      type: select_multiple
+      options:
+      - Physical
+      - Emotional/Behavioral
+      - Speech/Communication
+      - Other
+      required: false
+    - id: 6
+      name: services_needed
+      label: Services Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Speech Therapy
+      - Occupational Therapy
+      - Physical Therapy
+      - Other
+      required: false
+    - id: 7
+      name: accommodations
+      label: Accommodations
+      hint: null
+      type: select_multiple
+      options:
+      - Modified Curriculum
+      - Extended Time
+      - Assistive Technology
+      - Other
+      required: false
+    - id: 8
+      name: services_provided
+      label: Services Provided
+      hint: null
+      type: select_multiple
+      options:
+      - Speech Therapy
+      - Occupational Therapy
+      - Physical Therapy
+      - Other
+      required: false
+    - id: 9
+      name: date_of_last_evaluation
+      label: Date of Last Evaluation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_last_evaluation
+      label: Time of Last Evaluation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_status
+      label: Evaluation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 12
+      name: special_education_teacher
+      label: Special Education Teacher
+      hint: null
+      type: select_multiple
+      options:
+      - Teacher 1
+      - Teacher 2
+      - Other
+      required: false
+    - id: 13
+      name: parent_concerns
+      label: Parent Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_evaluation_date
+      label: Next Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: last_evaluation_date
+      label: Last Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: student_id_number
+      label: Student ID Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: student_id_number_2
+      label: Student ID Number 2
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 22
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: district_name
+      label: District Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: text
+      options: []
+      required: false

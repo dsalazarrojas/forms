@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational AI Adoption Readiness Survey
+    pages:
+    - id: 1
+      name: survey_category
+      label: Business Surveys
+      hint: null
+      type: select_one
+      options:
+      - Business Surveys
+      - Education Surveys
+      required: false
+    - id: 2
+      name: survey_category
+      label: Education Surveys
+      hint: null
+      type: select_one
+      options:
+      - Business Surveys
+      - Education Surveys
+      required: false
+    - id: 3
+      name: survey_description
+      label: Description
+      hint: Please enter a short description of your survey
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: survey_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: chatjimmy_assigned
+      label: chatjimmy_assigned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

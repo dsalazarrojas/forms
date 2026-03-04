@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Database And Prospecting Audit Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: company_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: database_quality
+      label: database_quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: data_collection
+      label: data_collection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: prospecting_effectiveness
+      label: prospecting_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: sales_team_performance
+      label: sales_team_performance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: marketing_team_performance
+      label: marketing_team_performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: operations_team_performance
+      label: operations_team_performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_relationships
+      label: customer_relationships
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: lead_generation
+      label: lead_generation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: data_collection_process
+      label: data_collection_process
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: database_growth_rate
+      label: database_growth_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: lead_quality_rating
+      label: lead_quality_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 14
+      name: sales_pipeline_growth_rate
+      label: sales_pipeline_growth_rate
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: conversion_rate
+      label: conversion_rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 16
+      name: sales_pipeline_value
+      label: sales_pipeline_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: customer_acquisition_rate
+      label: customer_acquisition_rate
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 18
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sales_team_size
+      label: sales_team_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: data_security
+      label: data_security
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: sales_team_efficiency
+      label: sales_team_efficiency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: customer_relationship_quality
+      label: customer_relationship_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: sales_pipeline_efficiency
+      label: sales_pipeline_efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: customer_interaction
+      label: customer_interaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: customer_engagement
+      label: customer_engagement
+      hint: null
+      type: time
+      options: []
+      required: false

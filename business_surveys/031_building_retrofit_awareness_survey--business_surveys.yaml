@@ -1,0 +1,208 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Retrofit Awareness Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: When completing this survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: building_location
+      label: Building Location
+      hint: Which building do you use
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: occupancy_role
+      label: Your Role
+      hint: Employee, tenant, manager, etc
+      type: select_one
+      options:
+        - Building Occupant
+        - Tenant
+        - Manager
+        - Facility Staff
+        - Owner
+        - Other
+      required: true
+    - id: 6
+      name: retrofit_awareness
+      label: Aware of Retrofit Plans
+      hint: Do you know about planned retrofits
+      type: select_one
+      options:
+        - Very Aware
+        - Somewhat Aware
+        - Minimally Aware
+        - Not Aware
+      required: true
+    - id: 7
+      name: retrofit_definition
+      label: Understand What Building Retrofit Means
+      hint: Do you know what retrofitting is
+      type: select_one
+      options:
+        - Fully Understand
+        - Mostly Understand
+        - Partially Understand
+        - Do Not Understand
+      required: true
+    - id: 8
+      name: retrofit_benefits
+      label: Benefits of Building Retrofits
+      hint: What benefits do you know about
+      type: select_multiple
+      options:
+        - Energy Savings
+        - Lower Utility Costs
+        - Environmental Benefits
+        - Improved Comfort
+        - Increased Property Value
+        - Health Improvements
+        - Unsure
+      required: true
+    - id: 9
+      name: most_interested_benefit
+      label: Most Interested In
+      hint: Which benefit matters most
+      type: select_one
+      options:
+        - Cost Savings
+        - Environmental Impact
+        - Comfort Improvements
+        - Health Benefits
+        - Increased Efficiency
+        - All Equally Important
+      required: false
+    - id: 10
+      name: retrofit_concerns
+      label: Concerns About Retrofits
+      hint: Any worries or concerns
+      type: select_multiple
+      options:
+        - Disruption During Work
+        - Cost or Affordability
+        - Effectiveness
+        - Environmental Impact
+        - Safety Concerns
+        - No Concerns
+      required: false
+    - id: 11
+      name: primary_concern
+      label: Primary Concern
+      hint: What worries you most
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: retrofit_types_interest
+      label: Interested In These Retrofit Types
+      hint: Which retrofits interest you
+      type: select_multiple
+      options:
+        - HVAC System Upgrades
+        - Insulation Improvements
+        - Window Replacement
+        - LED Lighting
+        - Water Efficiency
+        - Renewable Energy
+        - Smart Building Systems
+        - All Types
+      required: false
+    - id: 13
+      name: information_sources
+      label: Where You Get Retrofit Information
+      hint: How do you learn about retrofits
+      type: select_multiple
+      options:
+        - Building Management
+        - Email Communications
+        - Newsletters
+        - Building Portal
+        - Conversations with Others
+        - News or Media
+        - Have Not Received Info
+      required: false
+    - id: 14
+      name: communication_quality
+      label: Quality of Retrofit Communications
+      hint: How well informed do you feel
+      type: select_one
+      options:
+        - Very Well Informed
+        - Well Informed
+        - Somewhat Informed
+        - Poorly Informed
+        - Not Informed
+      required: true
+    - id: 15
+      name: more_information_needed
+      label: Additional Information Needed
+      hint: What would help you understand better
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: support_retrofits
+      label: Do You Support Building Retrofits
+      hint: Would you be in favor
+      type: select_one
+      options:
+        - Strongly Support
+        - Support
+        - Neutral
+        - Oppose
+        - Strongly Oppose
+      required: true
+    - id: 17
+      name: willingness_to_participate
+      label: Willing to Participate in Retrofit Program
+      hint: Would you volunteer
+      type: select_one
+      options:
+        - Yes, Definitely
+        - Maybe
+        - Probably Not
+        - No
+      required: false
+    - id: 18
+      name: behavioral_changes
+      label: Making Behavioral Changes to Reduce Energy
+      hint: Are you already conserving
+      type: select_one
+      options:
+        - Already Making Changes
+        - Willing to Make Changes
+        - Not Interested
+        - Unsure
+      required: false

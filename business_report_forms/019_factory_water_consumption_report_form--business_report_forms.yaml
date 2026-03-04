@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Water Consumption Report Form
+    pages:
+    - id: 1
+      name: factory_water_consumption_form
+      label: Factory Water Consumption Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: factory_name
+      label: Factory Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: consumption_start_date
+      label: Consumption Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: consumption_end_date
+      label: Consumption End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: water_usage
+      label: Total Water Usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: water_usage_unit
+      label: Water Usage Unit
+      hint: null
+      type: select_one
+      options:
+      - liters
+      - gallons
+      - m3
+      - cubic meters
+      required: false
+    - id: 7
+      name: water_temperature
+      label: Water Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: water_flow
+      label: Water Flow Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pump_status
+      label: Pump Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - maintenance
+      required: false
+    - id: 10
+      name: leak_status
+      label: Leak Status
+      hint: null
+      type: select_multiple
+      options:
+      - active
+      - inactive
+      - reported
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: framing_punch_checklist
+    pages:
+    - id: 1
+      name: task_list
+      label: task_list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: required_tools
+      label: required_tools
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: equipment_used
+      label: equipment_used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_requirements
+      label: task_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: tools_used
+      label: tools_used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_notes
+      label: equipment_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_technician
+      label: assigned_technician
+      hint: null
+      type: text
+      options: []
+      required: false

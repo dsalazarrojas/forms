@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Handling Incident Report
+    pages:
+    - id: 1
+      name: incident_header_section
+      label: -- Incident Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: location_section
+      label: -- Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: Business or Store Location Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: location_address
+      label: Location Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department_area
+      label: Department or Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reporting_person_section
+      label: -- Reporting Person --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reporter_name
+      label: Name of Person Reporting Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reporter_position
+      label: Position or Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reporter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_details_section
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: incident_type
+      label: Type of Incident
+      hint: null
+      type: select_one
+      options:
+      - Cash Shortage
+      - Cash Overage
+      - Missing Receipt
+      - Unauthorized Transaction
+      - Discrepancy in Count
+      - Suspicious Activity
+      - Equipment Malfunction
+      - Other
+      required: true
+    - id: 15
+      name: amount_involved
+      label: Amount Involved
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: incident_description
+      label: Detailed Description of Incident
+      hint: Explain what happened
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: cash_register_section
+      label: -- Cash Register Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: register_number
+      label: Cash Register or Terminal Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: expected_balance
+      label: Expected Cash Balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: actual_balance
+      label: Actual Cash Balance Found
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: discrepancy_amount
+      label: Discrepancy Amount
+      hint: Difference between expected and actual
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: action_taken_section
+      label: -- Action Taken --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: immediate_action
+      label: Immediate Action Taken
+      hint: What was done immediately
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: management_notified
+      label: Management Notified?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 25
+      name: investigation_notes
+      label: Investigation Notes and Follow-up Required
+      hint: What further investigation is needed
+      type: text
+      options: []
+      required: false

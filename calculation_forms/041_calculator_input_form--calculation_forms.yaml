@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calculator Input Form
+    pages:
+    - id: 1
+      name: user_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For sending results
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: calculation_date
+      label: Calculation Date
+      hint: Today's date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: calculation_type
+      label: Calculation Type
+      hint: What type of calculation
+      type: select_one
+      options:
+      - Addition
+      - Subtraction
+      - Multiplication
+      - Division
+      - Percentage
+      - Average
+      - Sum
+      - Custom
+      required: true
+    - id: 5
+      name: first_value
+      label: First Value
+      hint: Enter first number
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: second_value
+      label: Second Value
+      hint: Enter second number
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: third_value
+      label: Third Value
+      hint: Enter third number
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fourth_value
+      label: Fourth Value
+      hint: Enter fourth number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: operator
+      label: Operator
+      hint: Select mathematical operator
+      type: select_one
+      options:
+      - Plus (+)
+      - Minus (-)
+      - Multiply (×)
+      - Divide (÷)
+      - Modulo (%)
+      required: false
+    - id: 10
+      name: precision
+      label: Decimal Precision
+      hint: How many decimal places
+      type: select_one
+      options:
+      - No decimals
+      - 1 decimal place
+      - 2 decimal places
+      - 3 decimal places
+      - 4 decimal places
+      required: false
+    - id: 11
+      name: result_note
+      label: Result
+      hint: Calculation result will display here
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: purpose
+      label: Purpose
+      hint: What is this calculation for
+      type: select_one
+      options:
+      - Business
+      - Education
+      - Personal
+      - Research
+      - Other
+      required: false
+    - id: 13
+      name: save_calculation
+      label: Save This Calculation
+      hint: Would you like to save this for later
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: email_results
+      label: Email Results
+      hint: Send results to your email
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: Any comments
+      type: text
+      options: []
+      required: false

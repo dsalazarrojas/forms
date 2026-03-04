@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Cultural Enrichment ACE and IAT Camp Registration
+    pages:
+    - id: 1
+      name: program_header
+      label: -- Jacksonville Urban League Academic Cultural Enrichment and Interactive
+        Technology Program Registration --
+      hint: Afterschool and Summer Camp Registration Form
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_guardian_section
+      label: -- Parent or Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: parent_first_name
+      label: Parent or guardian first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_last_name
+      label: Parent or guardian last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: parent_email
+      label: Parent or guardian email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: parent_phone
+      label: Parent or guardian phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: home_address
+      label: Home address
+      hint: Street address, city, state, zip code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_section
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: child_first_name
+      label: Child first name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: child_last_name
+      label: Child last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: child_date_of_birth
+      label: Child date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: child_age
+      label: Child age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: child_grade
+      label: Current grade level
+      hint: null
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      required: true
+    - id: 14
+      name: school_name
+      label: Name of school currently attending
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: program_selection
+      label: Which program are you registering for
+      hint: null
+      type: select_one
+      options:
+      - Afterschool Program
+      - Summer Camp
+      - Both Afterschool and Summer Camp
+      required: true
+    - id: 16
+      name: medical_section
+      label: -- Health and Emergency Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: allergies
+      label: Does your child have any allergies
+      hint: List all known allergies or write None
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medical_conditions
+      label: Does your child have any medical conditions we should be aware of
+      hint: List conditions or write None
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medications
+      label: Is your child currently taking any medications
+      hint: List medications and dosages or write None
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_name
+      label: Emergency contact name (other than parent or guardian)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_phone
+      label: Emergency contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: emergency_contact_relationship
+      label: Relationship to child
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: pickup_authorization
+      label: Persons authorized to pick up your child (other than parent or guardian)
+      hint: List names and relationships
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: photo_consent
+      label: Do you consent to your child being photographed for program activities
+        and publications
+      hint: null
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 25
+      name: parent_signature_acknowledgment
+      label: I acknowledge that the information provided is accurate and I agree to
+        the program terms
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: flooring_cleaning_chemical_survey
+    pages:
+    - id: 1
+      name: flooring_type
+      label: Flooring Types
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: chemical_used
+      label: Chemical Used
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Chemical 1''}'
+      - '{''label'': ''Chemical 2''}'
+      - '{''label'': ''Chemical 3''}'
+      required: false
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: issues
+      label: Issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Issue 1''}'
+      - '{''label'': ''Issue 2''}'
+      - '{''label'': ''Issue 3''}'
+      required: false
+    - id: 5
+      name: maintenance_decision
+      label: Maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: flooring_condition
+      label: Flooring Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Average''}'
+      required: false
+    - id: 7
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cleaning_team
+      label: Cleaning Team
+      hint: null
+      type: text
+      options: []
+      required: false

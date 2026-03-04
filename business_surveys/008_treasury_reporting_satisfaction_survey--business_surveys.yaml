@@ -1,0 +1,243 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Reporting Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_page
+      label: Survey Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: treasury_report_question
+      label: How clear is your understanding of our treasury reports?
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Somewhat clear
+      - Not very clear
+      required: false
+    - id: 3
+      name: treasury_report_timeliness
+      label: How timely are our treasury reports?
+      hint: null
+      type: select_one
+      options:
+      - Very timely
+      - Somewhat timely
+      - Not very timely
+      required: false
+    - id: 4
+      name: report_usefulness
+      label: How useful do you find our reports in making key financial decisions?
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - Somewhat useful
+      - Not very useful
+      required: false
+    - id: 5
+      name: report_format
+      label: How easy is it to navigate and read our reports?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Somewhat easy
+      - Not very easy
+      required: false
+    - id: 6
+      name: data_quality
+      label: How would you rate the quality of our data?
+      hint: null
+      type: select_one
+      options:
+      - Very high
+      - Somewhat high
+      - Not very high
+      required: false
+    - id: 7
+      name: treasury_report_suggestions
+      label: Do you have any suggestions for improving our treasury reports?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: treasury_report_frequency
+      label: How often would you like to receive our reports?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 9
+      name: other_comments
+      label: Do you have any other comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: treasury_report_email
+      label: What is your preferred email address for sending reports?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: treasury_report_phone
+      label: What is your preferred phone number for sending reports?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: report_deduplication
+      label: How important is it for reports to be in duplicate format?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 13
+      name: report_sorting
+      label: How important is it for reports to be in sorted format?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 14
+      name: report_filtering
+      label: How important is it for reports to be filterable?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 15
+      name: report_exporting
+      label: How important is it to be able to export reports?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 16
+      name: report_printing
+      label: How important is it to be able to print reports?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 17
+      name: report_pdf
+      label: How important is it for reports to be in PDF format?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 18
+      name: report_excel
+      label: How important is it for reports to be in Excel format?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 19
+      name: report_word
+      label: How important is it for reports to be in Word format?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 20
+      name: report_csv
+      label: How important is it for reports to be in CSV format?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 21
+      name: report_text
+      label: How important is it for reports to be in Text format?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 22
+      name: report_other
+      label: How important is it for reports to be in Other format?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 23
+      name: treasury_report_frequency_important
+      label: How important is it for you to receive our treasury reports?
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
+      required: false
+    - id: 24
+      name: treasury_report_frequency_comment
+      label: Do you have any comments on the ideal report frequency?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: treasury_report_frequency_other
+      label: Please specify if other than above options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

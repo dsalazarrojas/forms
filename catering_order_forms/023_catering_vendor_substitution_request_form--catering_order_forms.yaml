@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Vendor Substitution Request Form
+    pages:
+    - id: 1
+      name: section_request_header
+      label: -- Request Header --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requestor_name
+      label: Requestor Name
+      hint: Person submitting request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: days_until_event
+      label: Days Until Event
+      hint: How soon is the event?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_current_vendor
+      label: -- Current Vendor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_vendor_name
+      label: Current Catering Vendor
+      hint: Who is currently contracted
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_vendor_contact
+      label: Current Vendor Contact
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_substitution
+      label: Reason for Vendor Substitution Request
+      hint: null
+      type: select_one
+      options:
+      - Vendor Cancellation
+      - Quality Issues
+      - Budget Concerns
+      - Client Request
+      - Scheduling Conflict
+      - Service Dissatisfaction
+      - Other
+      required: true
+    - id: 15
+      name: reason_details
+      label: Detailed Explanation
+      hint: Provide specific details about the issue
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_proposed_vendor
+      label: -- Proposed Vendor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: proposed_vendor_name
+      label: Proposed New Catering Vendor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: proposed_vendor_contact
+      label: Proposed Vendor Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: proposed_vendor_experience
+      label: Vendor Experience Relevant to Event
+      hint: Similar events they have catered
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_financial_impact
+      label: -- Financial Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: original_contract_amount
+      label: Original Contract Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: proposed_contract_amount
+      label: Proposed Contract Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: financial_impact
+      label: Financial Impact
+      hint: Cost difference
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: budget_available
+      label: Is additional budget available if needed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Within limits only
+      - Needs approval
+      required: true
+    - id: 25
+      name: approval_status
+      label: Substitution request approved
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending Review
+      - Rejected
+      - Needs Further Discussion
+      required: true

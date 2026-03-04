@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Leak Assessment Survey
+    pages:
+    - id: 1
+      name: energy_leak_survey_form
+      label: Energy Leak Assessment Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_description
+      label: Building Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: building_photos
+      label: Building Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: energy_leak_location
+      label: Energy Leak Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Location 1''}'
+      - '{''id'': 2, ''label'': ''Location 2''}'
+      - '{''id'': 3, ''label'': ''Location 3''}'
+      required: false
+    - id: 5
+      name: energy_leak_recommendations
+      label: Energy Leak Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: energy_leak_description
+      label: Energy Leak Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: building_energy_leaks_count
+      label: Building Energy Leaks Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_photos
+      label: Uploaded Photos
+      hint: null
+      type: text
+      options: []
+      required: false

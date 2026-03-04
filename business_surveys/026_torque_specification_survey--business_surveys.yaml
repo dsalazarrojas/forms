@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Torque Specification Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: engineering_team_surveyed
+      label: engineering team surveyed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: common_challenges
+      label: common challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: torque_values
+      label: torque values
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: torque_units
+      label: torque units
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: torque_standards_used
+      label: torque standards used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: maintenance_teams_surveyed
+      label: maintenance teams surveyed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: engineering_challenges
+      label: engineering challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: manufacturing_challenges
+      label: manufacturing challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: maintenance_challenges
+      label: maintenance challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: common_tooling_issues
+      label: common tooling issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: quality_control_process
+      label: quality control process
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false

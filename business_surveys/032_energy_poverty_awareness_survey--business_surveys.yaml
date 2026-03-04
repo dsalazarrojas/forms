@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Poverty Awareness Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: survey_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_info
+      label: respondent_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: household_info
+      label: household_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: energy_poverty_experience
+      label: energy_poverty_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: awareness_of_energy_poverty
+      label: awareness_of_energy_poverty
+      hint: null
+      type: select_one
+      options:
+      - Poverty is a lack of money
+      - Poverty is a lack of opportunities
+      - Poverty is when you cannot afford energy
+      - Other
+      required: true
+    - id: 6
+      name: causes_of_energy_poverty
+      label: causes_of_energy_poverty
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of income
+      - High energy costs
+      - Poor access to energy sources
+      - Other
+      required: false
+    - id: 7
+      name: energy_poverty_impact
+      label: energy_poverty_impact
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: energy_poverty_impact_other
+      label: energy_poverty_impact_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: energy_poverty_impact_duration
+      label: energy_poverty_impact_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: energy_poverty_impact_duration_other
+      label: energy_poverty_impact_duration_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: energy_poverty_impact_description
+      label: energy_poverty_impact_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: respondent_support
+      label: respondent_support
+      hint: null
+      type: select_multiple
+      options:
+      - Financial support
+      - Emotional support
+      - Social support
+      - Other
+      required: false
+    - id: 13
+      name: respondent_opinion
+      label: respondent_opinion
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Somewhat agree
+      - Neither agree nor disagree
+      - Somewhat disagree
+      - Strongly disagree
+      required: false
+    - id: 14
+      name: respondent_satisfaction
+      label: respondent_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neither satisfied nor dissatisfied
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false

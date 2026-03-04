@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Retail Partner Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: retailer_details
+      label: Retailer Details
+      hint: null
+      type: select_multiple
+      options:
+      - Retails Partner
+      - Other
+      - Pet Shop
+      - Pet Store
+      required: false
+    - id: 7
+      name: brand_logo
+      label: Brand Logo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_lines
+      label: Product Lines
+      hint: null
+      type: select_one
+      options:
+      - Pet Food
+      - Pet Toy
+      - Pet Grooming
+      - Pet Health Supplements
+      required: false
+    - id: 9
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_location
+      label: Store Location
+      hint: null
+      type: select_multiple
+      options:
+      - City
+      - State
+      - Country
+      - Zip Code
+      required: false

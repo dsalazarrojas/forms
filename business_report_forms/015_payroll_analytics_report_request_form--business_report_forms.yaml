@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Analytics Report Request Form
+    pages:
+    - id: 1
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_info
+      label: Report Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pay_period
+      label: Pay Period
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''January''}'
+      - '{''value'': ''February''}'
+      - '{''value'': ''March''}'
+      - '{''value'': ''April''}'
+      - '{''value'': ''May''}'
+      - '{''value'': ''June''}'
+      - '{''value'': ''July''}'
+      - '{''value'': ''August''}'
+      - '{''value'': ''September''}'
+      - '{''value'': ''October''}'
+      - '{''value'': ''November''}'
+      - '{''value'': ''December''}'
+      required: false
+    - id: 4
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Yearly''}'
+      required: false
+    - id: 5
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      - '{''value'': ''Yearly''}'
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_list
+      label: Employee List
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Employee 1''}'
+      - '{''value'': ''Employee 2''}'
+      - '{''value'': ''Employee 3''}'
+      required: false
+    - id: 9
+      name: manager_info
+      label: Manager Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''A''}'
+      - '{''value'': ''B''}'
+      - '{''value'': ''C''}'
+      required: false
+    - id: 15
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

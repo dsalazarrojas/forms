@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: incorporation_process_survey
+    pages:
+    - id: 1
+      name: incorporation_process_steps
+      label: steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incorporation_process_survey_form_helps
+      label: form_helps
+      hint: null
+      type: select_multiple
+      options:
+      - law firms
+      - corporate service providers
+      - business registries
+      required: true
+    - id: 3
+      name: incorporation_process_journey
+      label: journey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incorporation_process_survey_feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incorporation_process_survey_form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incorporation_process_survey_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Business Surveys
+      - Other
+      required: true
+    - id: 9
+      name: form_ids
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Saddle Bench Feedback Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: prophets
+      label: How many people rode on the bench?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comfort_prophets
+      label: Overall Comfort
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_prophets
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions_ideas
+      label: Other Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comfort_rating
+      label: How Comfortable
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Comfortable''}'
+      - '{''label'': ''Somewhat Comfortable''}'
+      - '{''label'': ''Not Comfortable''}'
+      - '{''label'': ''Not at all''}'
+      required: false
+    - id: 10
+      name: satisfaction_rating
+      label: How Satisfied
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Disatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false

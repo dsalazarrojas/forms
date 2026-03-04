@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driver Income Survey
+    pages:
+    - id: 1
+      name: driver_income_form_data
+      label: driver_income_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - Driver
+      - Rider
+      - Delivery
+      - Owner-Operator
+      required: false
+    - id: 3
+      name: annual_income
+      label: annual_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weekly_hours
+      label: weekly_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weekly_wages
+      label: weekly_wages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: job_frequency
+      label: job_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 days
+      - 3-5 days
+      - 6-7 days
+      required: false
+    - id: 7
+      name: income_source
+      label: income_source
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Overtime
+      - Bonus
+      - Other
+      required: false
+    - id: 8
+      name: income_frequency
+      label: income_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      required: false
+    - id: 9
+      name: income_range
+      label: income_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: financial_stress
+      label: financial_stress
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 11
+      name: financial_stress_level
+      label: financial_stress_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 12
+      name: financial_influence
+      label: financial_influence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: job_insecurity
+      label: job_insecurity
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 14
+      name: job_insecurity_level
+      label: job_insecurity_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 15
+      name: financial_safety
+      label: financial_safety
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 16
+      name: financial_safety_level
+      label: financial_safety_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 17
+      name: income_urgency
+      label: income_urgency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 18
+      name: income_urgency_level
+      label: income_urgency_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false

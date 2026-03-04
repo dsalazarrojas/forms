@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Electrical Inspection Form
+    pages:
+    - id: 1
+      name: electrical_system_summary
+      label: electrical_system_summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: electrical_panel
+      label: electrical_panel
+      hint: null
+      type: select_one
+      options:
+      - electrical_panel_type
+      - electrical_panel_location
+      - electrical_panel_condition
+      required: false
+    - id: 3
+      name: circuit_breakers
+      label: circuit_breakers
+      hint: null
+      type: select_multiple
+      options:
+      - circuit_breaker_type
+      - circuit_breaker_condition
+      - circuit_breaker_age
+      required: false
+    - id: 4
+      name: wiring
+      label: wiring
+      hint: null
+      type: select_multiple
+      options:
+      - wiring_type
+      - wiring_condition
+      - wiring_evidence
+      required: false
+    - id: 5
+      name: electrical_hazards
+      label: electrical_hazards
+      hint: null
+      type: select_multiple
+      options:
+      - electrical_hazard_type
+      - electrical_hazard_evidence
+      - electrical_hazard_location
+      required: false
+    - id: 6
+      name: electrical_inspection_summary
+      label: electrical_inspection_summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: electrical_inspection_recommendations
+      label: electrical_inspection_recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: electrical_certification_documentation
+      label: electrical_certification_documentation
+      hint: null
+      type: select_multiple
+      options:
+      - electrical_certification_documentation_type
+      - electrical_certification_documentation_evidence
+      - electrical_certification_documentation_location
+      required: false
+    - id: 9
+      name: electrical_certification_status
+      label: electrical_certification_status
+      hint: null
+      type: select_one
+      options:
+      - electrical_certification_status
+      - Other
+      required: false
+    - id: 10
+      name: electrical_certificate_expiration
+      label: electrical_certificate_expiration
+      hint: null
+      type: date
+      options: []
+      required: false

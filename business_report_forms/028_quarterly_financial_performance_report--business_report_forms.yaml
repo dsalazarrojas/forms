@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: quarterly financial performance report
+    pages:
+    - id: 1
+      name: quarter
+      label: Quarter
+      hint: null
+      type: select_one
+      options:
+      - Q1
+      - Q2
+      - Q3
+      - Q4
+      required: false
+    - id: 2
+      name: financial_year
+      label: Financial Year
+      hint: null
+      type: select_multiple
+      options:
+      - FY2019
+      - FY2020
+      - FY2021
+      - FY2022
+      required: false
+    - id: 3
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: financial_period
+      label: Financial Period
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: sales
+      label: Sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: costs
+      label: Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: profit
+      label: Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: operating_expenses
+      label: Operating Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: operating_income
+      label: Operating Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: net_profit
+      label: Net Profit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: financial_risk
+      label: Financial Risk
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 12
+      name: financial_performance
+      label: Financial Performance
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      - Excellent
+      required: false
+    - id: 13
+      name: financial_focus
+      label: Financial Focus
+      hint: null
+      type: select_multiple
+      options:
+      - Short-Term
+      - Mid-Term
+      - Long-Term
+      required: false

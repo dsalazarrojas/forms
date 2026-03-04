@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Market Research Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: Your contact information will be kept confidential.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shopping_preferences
+      label: What kind of stores do you visit?
+      hint: null
+      type: select_one
+      options:
+      - department_stores
+      - clothing_stores
+      - electronics_stores
+      - grocery_stores
+      - home_goods_stores
+      - jewelry_stores
+      - other_stores
+      - supermarket
+      - vintage_stores
+      required: false
+    - id: 4
+      name: satisfaction_score
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shopping_frequency
+      label: How often do you shop?
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - weekly
+      - monthly
+      - rarely
+      - never
+      required: false
+    - id: 6
+      name: preferred_store
+      label: Favorite Store
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: store_visit_details
+      label: Store Visit Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: purchase_amount
+      label: What's your budget?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - '18_24'
+      - 25-34
+      - '35_44'
+      - '45_54'
+      - '55'
+      - 65_plus
+      required: false
+    - id: 10
+      name: location
+      label: Store Location
+      hint: null
+      type: select_multiple
+      options:
+      - city
+      - suburbs
+      - rural
+      - online
+      required: false
+    - id: 11
+      name: store_type
+      label: Store Type
+      hint: null
+      type: select_multiple
+      options:
+      - department_stores
+      - clothing_stores
+      - electronics_stores
+      - grocery_stores
+      - home_goods_stores
+      - jewelry_stores
+      - other_stores
+      - supermarket
+      - vintage_stores
+      required: false
+    - id: 12
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - male
+      - female
+      - other
+      - prefer_not_to_say
+      required: false
+    - id: 13
+      name: income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - high_school
+      - some_college
+      - bachelor
+      - masters
+      - phd
+      - other
+      required: false
+    - id: 15
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - employed
+      - self_employed
+      - retired
+      - unemployed
+      - other
+      required: false
+    - id: 16
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - single
+      - married
+      - widowed
+      - other
+      required: false
+    - id: 17
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: store_experience
+      label: Store Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - very_satisfied
+      - satisfied
+      - neither_satisfied_nor_dissatisfied
+      - dissatisfied
+      - very_dissatisfied
+      required: false
+    - id: 20
+      name: loyalty_program
+      label: Do you participate in any loyalty programs?
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      - undecided
+      required: false
+    - id: 21
+      name: communication_channel
+      label: How do you prefer to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - sms
+      - phone
+      - mail
+      - whatsapp
+      - fb
+      - ig
+      - other
+      required: false
+    - id: 22
+      name: contact_method
+      label: How do you prefer to contact the store?
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - in_person
+      - mail
+      - other
+      required: false

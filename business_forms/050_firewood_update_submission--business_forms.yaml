@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Firewood Update Submission
+    pages:
+    - id: 1
+      name: firewood_type
+      label: firewood type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Sold Out
+      - In Transit
+      - Reserved
+      required: false
+    - id: 4
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - photo1
+      - photo2
+      - photo3
+      required: true
+    - id: 5
+      name: facility_manager
+      label: facility manager
+      hint: null
+      type: text
+      options: []
+      required: false

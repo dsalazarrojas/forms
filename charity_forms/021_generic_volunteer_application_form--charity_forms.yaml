@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Generic Volunteer Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: null
+      type: select_one
+      options:
+      - Volunteer in a park
+      - Volunteer with a pet
+      - Volunteer in a hospital
+      required: true
+    - id: 10
+      name: volunteer_time
+      label: Volunteer Time
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 11
+      name: volunteer_friday
+      label: Volunteer Friday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: volunteer_note
+      label: Volunteer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: volunteer_signature
+      label: Volunteer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - Volunteer
+      - Volunteer Manager
+      - Volunteer Coordinator
+      required: true
+    - id: 17
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: volunteer_frequency
+      label: Volunteer Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Weekly
+      required: false
+    - id: 20
+      name: volunteer_commitment
+      label: Volunteer Commitment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_termination_date
+      label: Volunteer Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: volunteer_termination_reason
+      label: Volunteer Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Reimbursement Form With Calculations
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expense_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - Air Travel
+      - Hotel Stay
+      - Meal
+      - Other
+      required: false
+    - id: 5
+      name: receipt
+      label: Receipt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expense_calculations
+      label: Expense Calculations
+      hint: null
+      type: select_multiple
+      options:
+      - Total Amount
+      - Count of Expenses
+      - Average Amount per Item
+      required: false
+    - id: 8
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: expense_frequency
+      label: Expense Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      required: false
+    - id: 11
+      name: expense_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Office Supplies
+      - Travel
+      - Food
+      - Other
+      required: false
+    - id: 12
+      name: expense_frequency_2
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      required: false
+    - id: 13
+      name: employee_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: expense_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

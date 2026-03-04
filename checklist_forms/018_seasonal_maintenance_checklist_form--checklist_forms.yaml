@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Maintenance Checklist Form
+    pages:
+    - id: 1
+      name: seasonal_maintenance_checklist_form
+      label: seasonal_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seasonal_tasks_list
+      label: Seasonal Tasks List
+      hint: null
+      type: select_multiple
+      options:
+      - Spring cleaning
+      - Summer maintenance
+      - Winter maintenance
+      required: false
+    - id: 3
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: season
+      label: season
+      hint: null
+      type: select_one
+      options:
+      - Spring
+      - Summer
+      - Winter
+      - Autumn
+      required: false
+    - id: 5
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Condo
+      - Townhouse
+      - Duplex
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: seasonal_notes
+      label: seasonal_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: seasonal_maintenance_tasks
+      label: seasonal_maintenance_tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Plumbing
+      - Electrical
+      - HVAC
+      - Exterior
+      - Interior
+      required: false
+    - id: 11
+      name: maintenance_schedule
+      label: maintenance_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: last_updated
+      label: last_updated
+      hint: null
+      type: date
+      options: []
+      required: false

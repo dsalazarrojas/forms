@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: internal_systems_feedback_survey
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: tool_name
+      label: tool_name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

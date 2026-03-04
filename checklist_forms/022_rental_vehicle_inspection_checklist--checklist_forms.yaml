@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Vehicle Inspection Checklist
+    pages:
+    - id: 1
+      name: vehicle_condition_at_return
+      label: Vehicle condition at return
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_condition_at_pickup
+      label: Vehicle condition at pickup
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: exterior
+      label: Exterior
+      hint: Inspect the vehicle's body and wheels for any scratches, dents, or other
+        damage
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: interior
+      label: Interior
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dashboard
+      label: Dashboard
+      hint: Inspect the dashboard for any damage or wear
+      type: select_one
+      options:
+      - _goals
+      - _no_damage
+      - _scratches
+      required: false
+    - id: 6
+      name: odometer
+      label: Odometer
+      hint: Record the vehicle's odometer reading
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: engine
+      label: Engine
+      hint: Check engine for any leaks, damage or wear
+      type: select_multiple
+      options:
+      - _fuel_leak
+      - _minor_damage
+      - _major_damage
+      required: false
+    - id: 8
+      name: tires
+      label: Tires
+      hint: Check tire condition and tread depth
+      type: select_multiple
+      options:
+      - _good
+      - _minor_wear
+      - _major_wear
+      required: false
+    - id: 9
+      name: brakes
+      label: Brakes
+      hint: Check brake pads and fluid condition
+      type: select_multiple
+      options:
+      - _good
+      - _minor_wear
+      - _major_wear
+      required: false
+    - id: 10
+      name: suspension
+      label: Suspension
+      hint: Check for any loose or damaged components
+      type: select_multiple
+      options:
+      - _good
+      - _minor_wear
+      - _major_wear
+      required: false
+    - id: 11
+      name: battery
+      label: Battery
+      hint: Check battery condition
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: wiper
+      label: Wipers
+      hint: Check wiper blades condition
+      type: select_multiple
+      options:
+      - _good
+      - _minor_wear
+      - _major_wear
+      required: false
+    - id: 13
+      name: glass
+      label: Glass
+      hint: Check for any chips or cracks
+      type: select_multiple
+      options:
+      - _good
+      - _minor_wear
+      - _major_wear
+      required: false
+    - id: 14
+      name: steering
+      label: Steering
+      hint: Check for any looseness or damage
+      type: select_multiple
+      options:
+      - _good
+      - _minor_wear
+      - _major_wear
+      required: false
+    - id: 15
+      name: chassis
+      label: Chassis
+      hint: Check for any scratches or rust spots
+      type: select_multiple
+      options:
+      - _good
+      - _minor_wear
+      - _major_wear
+      required: false

@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: donor_demographic_research_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: donation_method
+      label: donation_method
+      hint: null
+      type: select_multiple
+      options:
+      - credit_card
+      - check
+      - bank_transfer
+      required: false
+    - id: 11
+      name: favorite_nonprofit
+      label: favorite_nonprofit
+      hint: null
+      type: select_one
+      options:
+      - nonprofit_a
+      - nonprofit_b
+      - nonprofit_c
+      required: false
+    - id: 12
+      name: why_cause
+      label: why_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: motivation
+      label: motivation
+      hint: null
+      type: select_multiple
+      options:
+      - personal
+      - family
+      - community
+      - social
+      - other
+      required: false
+    - id: 14
+      name: demographics
+      label: demographics
+      hint: null
+      type: select_multiple
+      options:
+      - gender
+      - age
+      - location
+      - income
+      - occupation
+      required: false
+    - id: 15
+      name: survey_completed
+      label: survey_completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: favorite_charity
+      label: favorite_charity
+      hint: null
+      type: select_one
+      options:
+      - charity_a
+      - charity_b
+      - charity_c
+      - charity_d
+      - charity_e
+      - charity_f
+      - charity_g
+      - charity_h
+      - charity_i
+      - charity_j
+      required: false
+    - id: 17
+      name: how_did_you_hear
+      label: how_did_you_hear
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: how_often
+      label: how_often
+      hint: null
+      type: select_one
+      options:
+      - rarely
+      - occasionally
+      - frequently
+      - always
+      required: false
+    - id: 19
+      name: motivation_reason
+      label: motivation_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: nonprofit_relationship
+      label: nonprofit_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - not_applicable
+      required: false
+    - id: 21
+      name: survey_completed_date
+      label: survey_completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: favorite_program
+      label: favorite_program
+      hint: null
+      type: select_one
+      options:
+      - program_a
+      - program_b
+      - program_c
+      - program_d
+      - program_e
+      - program_f
+      - program_g
+      - program_h
+      - program_i
+      - program_j
+      required: false
+    - id: 23
+      name: donation_frequency_important
+      label: donation_frequency_important
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 24
+      name: motivation_description
+      label: motivation_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: survey_comments
+      label: survey_comments
+      hint: null
+      type: text
+      options: []
+      required: false

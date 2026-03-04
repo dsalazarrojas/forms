@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: store_level_competition_survey
+    pages:
+    - id: 1
+      name: store_level_competition
+      label: store_level_competition
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: store_id
+      label: store_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: market_segment
+      label: market_segment
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Carrot
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: price_range
+      label: price_range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_count
+      label: product_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: competitor_info
+      label: competitor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: competitor_price
+      label: competitor_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: competitor_product_count
+      label: competitor_product_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: competitor_store_id
+      label: competitor_store_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: competitor_market_segment
+      label: competitor_market_segment
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Carrot
+      required: false
+    - id: 12
+      name: competitor_location
+      label: competitor_location
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

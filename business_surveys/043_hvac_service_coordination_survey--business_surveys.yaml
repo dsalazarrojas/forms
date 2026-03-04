@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: hvac-service-coordination-survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_requester
+      label: Service Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_owner_info
+      label: Property Owner Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_date_and_time
+      label: Service Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_urgency
+      label: Service Urgency
+      hint: null
+      type: select_one
+      options:
+      - Urgent
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 8
+      name: service_scheduling_preference
+      label: Service Scheduling Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 9
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: appointment_reminder
+      label: Appointment Reminder
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: service_appointment_status
+      label: Service Appointment Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Pending
+      - Completed
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: property_owner_name
+      label: Property Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false

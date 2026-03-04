@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: neonatal_monitoring_market_research_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: What is this survey about
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: device_usage
+      label: How often do you use a neonatal monitoring device?
+      hint: null
+      type: select_multiple
+      options:
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 4
+      name: device_satisfaction
+      label: On a scale of 1-10, how satisfied are you with the neonatal monitoring
+        device you use?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: device_satisfaction_details
+      label: Can you provide more details about your satisfaction with the neonatal
+        monitoring device?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: buying_cycle
+      label: On a scale of 1-10, how often do you buy a new neonatal monitoring device?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: buying_cycle_details
+      label: Can you provide more details about your buying cycle with the neonatal
+        monitoring device?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: adoption_barriers
+      label: What barriers do you face when adopting a neonatal monitoring device?
+      hint: null
+      type: select_one
+      options:
+      - Lack of awareness
+      - Cost
+      - Regulatory
+      - Other
+      required: true
+    - id: 9
+      name: adoption_barriers_details
+      label: Can you provide more details about your adoption barriers with the neonatal
+        monitoring device?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: device_characteristics
+      label: What are the key characteristics of the neonatal monitoring device you
+        use?
+      hint: null
+      type: select_multiple
+      options:
+      - Accuracy
+      - Ease of use
+      - Cost
+      - Other
+      required: false
+    - id: 11
+      name: demographic_1
+      label: How many years of experience do you have in the healthcare industry?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: demographic_2
+      label: What is your job title or role?
+      hint: null
+      type: select_one
+      options:
+      - Respiratory Therapist
+      - Nurse Practitioner
+      - Doctor
+      - Other
+      required: true
+    - id: 13
+      name: demographic_3
+      label: What is your level of authority in purchasing decisions?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 14
+      name: demographic_4
+      label: What is your level of expertise with neonatal monitoring devices?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 15
+      name: demographic_5
+      label: What is your primary role in the organization?
+      hint: null
+      type: select_one
+      options:
+      - Research
+      - Clinical
+      - Management
+      - Other
+      required: true
+    - id: 16
+      name: demographic_6
+      label: What is the size of your healthcare organization?
+      hint: null
+      type: select_one
+      options:
+      - Less than 100
+      - 100-500
+      - 500-1000
+      - More than 1000
+      required: true
+    - id: 17
+      name: demographic_7
+      label: What is your annual budget for neonatal monitoring devices?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: demographic_8
+      label: How many neonatal monitoring devices do you currently use?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_question
+      label: Any follow-up question or concern?
+      hint: null
+      type: text
+      options: []
+      required: false

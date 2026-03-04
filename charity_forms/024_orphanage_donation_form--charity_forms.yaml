@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: orphanage_donation_form
+    pages:
+    - id: 1
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: frequency
+      label: donation_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 3
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Cash
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 10
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donor_relationship
+      label: Donor Relationship
+      hint: null
+      type: select_one
+      options:
+      - Friend
+      - Family
+      - Colleague
+      required: false
+    - id: 12
+      name: donor_message
+      label: Donor Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: orphanage_name
+      label: Orphanage Name
+      hint: null
+      type: text
+      options: []
+      required: false

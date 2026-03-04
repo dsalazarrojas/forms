@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Architect Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional - leave blank for anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Company or team name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: years_experience
+      label: Years of experience
+      hint: Whole number of years
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: primary_stack
+      label: Primary technology stack
+      hint: Main languages and frameworks used
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: architecture_style
+      label: Preferred architecture style
+      hint: Choose the style most used
+      type: select_one
+      options:
+      - Monolithic
+      - Microservices
+      - Event-driven
+      - Serverless
+      required: true
+    - id: 6
+      name: tooling
+      label: Common tooling used
+      hint: CI CD monitoring and deployment tools
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: biggest_challenge
+      label: Biggest architecture challenge
+      hint: Brief description of main challenges
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: architecture_goals
+      label: Architecture goals for next 12 months
+      hint: Key priorities and initiatives
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: scaling_strategies
+      label: Scaling strategies used
+      hint: How systems are scaled in practice
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_for_follow_up
+      label: Contact for follow up
+      hint: Provide email if follow up is welcome
+      type: email
+      options: []
+      required: false

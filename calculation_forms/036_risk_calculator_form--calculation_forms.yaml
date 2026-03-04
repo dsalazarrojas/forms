@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Calculator Form
+    pages:
+    - id: 1
+      name: risk_calculator_form
+      label: risk_calculator_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: investment
+      label: investment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_rating
+      label: risk_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mitigation_strategy
+      label: mitigation_strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: probability_of_occurrence
+      label: probability_of_occurrence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: impact_on_business
+      label: impact_on_business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_acceptance_level
+      label: risk_acceptance_level
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: risk_priority
+      label: risk_priority
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: mitigation_plan
+      label: mitigation_plan
+      hint: null
+      type: text
+      options: []
+      required: false

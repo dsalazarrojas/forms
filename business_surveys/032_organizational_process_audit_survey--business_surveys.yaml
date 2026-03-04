@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Process Audit Survey
+    pages:
+    - id: 1
+      name: page1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: page3
+      label: contact_person
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: page4
+      label: contact_number
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 5
+      name: page5
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: page6
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page7
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: page8
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: page9
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page10
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: page11
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: page12
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: page13
+      label: job_function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: page14
+      label: company_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: page15
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: page16
+      label: team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: page17
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: page18
+      label: reporting_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: page19
+      label: reporting_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: page20
+      label: reporting_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: page21
+      label: reporting_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: page22
+      label: reporting_manager_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: page23
+      label: reporting_manager_job_function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: page24
+      label: reporting_manager_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: page25
+      label: reporting_manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false

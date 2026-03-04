@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unemployment Tax Registration Form
+    pages:
+    - id: 1
+      name: employer
+      label: Business Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_payer_identification
+      label: Tax Payer Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: representative
+      label: Representative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: representative_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employer_type
+      label: Employer Type
+      hint: null
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - Limited Liability Corporation
+      - Limited Liability Partnership
+      - Single-Member Limited Liability Company
+      - Multi-Member Limited Liability Company
+      required: true
+    - id: 14
+      name: number_of_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: tax_id
+      label: Tax ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date_of_registration
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: registered_by
+      label: Registered By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: company_type
+      label: Type of Company
+      hint: null
+      type: select_one
+      options:
+      - Service Industry
+      - Manufacturing
+      - Construction
+      - Finance
+      - Healthcare
+      - Technology
+      - Non-Profit
+      - Government
+      - Other
+      required: false
+    - id: 20
+      name: tax_type
+      label: Type of Tax
+      hint: null
+      type: select_multiple
+      options:
+      - Employer
+      - Employee
+      - Both
+      - Other
+      required: true
+    - id: 21
+      name: tax_status
+      label: Tax Status
+      hint: null
+      type: select_one
+      options:
+      - Taxed
+      - Exempt
+      - Other
+      required: true
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Online
+      - Bank Transfer
+      required: true
+    - id: 23
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Semi-Monthly
+      - Annually
+      required: true
+    - id: 24
+      name: pay_date
+      label: Pay Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false

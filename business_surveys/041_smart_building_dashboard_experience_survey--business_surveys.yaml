@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Building Dashboard Experience Survey
+    pages:
+    - id: 1
+      name: first_time_use
+      label: First Time Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: dashboard_satisfaction
+      label: How do you feel about the new dashboard
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_1
+      label: What was your first impression of the dashboard
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback_2
+      label: What do you like about the dashboard
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: issues
+      label: What issues have you faced while using the dashboard
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feature_requests
+      label: Do you have any feature requests for the dashboard
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_1
+      label: How long do you think the dashboard should take to load
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

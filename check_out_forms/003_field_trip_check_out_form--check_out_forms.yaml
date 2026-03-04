@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: field_trip_check_out_form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: guardian_name
+      label: Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: guardian_phone
+      label: Guardian Phone
+      hint: Format 10 digits
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bus
+      label: Bus
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: teacher_phone
+      label: Teacher Phone
+      hint: Format 10 digits
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_grade
+      label: Student Grade
+      hint: Select student grade
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 9
+      name: teacher_email
+      label: Teacher Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: trip_location
+      label: Trip Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: student_signature
+      label: Student Signature
+      hint: Student signature (optional)
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: teacher_signature
+      label: Teacher Signature
+      hint: Teacher signature (optional)
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: bus_signature
+      label: Bus Signature
+      hint: Bus signature (optional)
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: Select who submitted the form
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjane
+      - chatdennis
+      required: false
+    - id: 18
+      name: teacher_name_2
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: teacher_phone_2
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments_2
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: student_signature_2
+      label: Student Signature
+      hint: Student signature (optional)
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: teacher_signature_2
+      label: Teacher Signature
+      hint: Teacher signature (optional)
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: bus_signature_2
+      label: Bus Signature
+      hint: Bus signature (optional)
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: form_submitted_by_2
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjane
+      - chatdennis
+      required: false
+    - id: 25
+      name: comments_3
+      label: Comments
+      hint: Optional comments
+      type: note
+      options: []
+      required: false

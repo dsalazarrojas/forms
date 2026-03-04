@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Sustainability Checklist
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: When is this checklist being completed?
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessor_name
+      label: Assessor Name
+      hint: Person completing this checklist
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessor_role
+      label: Assessor Role or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: industry_type
+      label: Industry or Sector
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: environmental_policy
+      label: Do you have a formal environmental policy?
+      hint: null
+      type: select_one
+      options:
+      - Yes, documented
+      - Yes, informal
+      - No, not yet
+      required: true
+    - id: 8
+      name: carbon_footprint_tracking
+      label: Do you track carbon footprint or emissions?
+      hint: null
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, periodically
+      - No, not tracked
+      required: true
+    - id: 9
+      name: renewable_energy
+      label: Percentage of renewable energy usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: waste_reduction
+      label: Do you have a waste reduction program?
+      hint: null
+      type: select_one
+      options:
+      - Yes, comprehensive
+      - Yes, basic
+      - No program
+      required: true
+    - id: 11
+      name: recycling_program
+      label: Do you have a recycling program?
+      hint: null
+      type: select_one
+      options:
+      - Yes, facility-wide
+      - Yes, limited areas
+      - No recycling program
+      required: true
+    - id: 12
+      name: water_conservation
+      label: Do you have water conservation initiatives?
+      hint: null
+      type: select_one
+      options:
+      - Yes, active program
+      - Yes, some measures
+      - No initiatives
+      required: true
+    - id: 13
+      name: supply_chain_sustainability
+      label: Do you assess supplier sustainability?
+      hint: null
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, some assessment
+      - No assessment
+      required: true
+    - id: 14
+      name: social_responsibility
+      label: Do you have a social responsibility program?
+      hint: null
+      type: select_one
+      options:
+      - Yes, comprehensive
+      - Yes, basic program
+      - No program
+      required: true
+    - id: 15
+      name: employee_wellbeing
+      label: Employee wellness and wellbeing initiatives
+      hint: null
+      type: select_one
+      options:
+      - Strong program
+      - Some initiatives
+      - Minimal program
+      - No programs
+      required: true
+    - id: 16
+      name: diversity_inclusion
+      label: Do you have diversity and inclusion programs?
+      hint: null
+      type: select_one
+      options:
+      - Yes, active and measurable
+      - Yes, some initiatives
+      - No formal program
+      required: true
+    - id: 17
+      name: governance_ethics
+      label: Do you have governance and ethics guidelines?
+      hint: null
+      type: select_one
+      options:
+      - Yes, documented and enforced
+      - Yes, informal
+      - No guidelines
+      required: true
+    - id: 18
+      name: sustainability_reporting
+      label: Do you publish sustainability reports?
+      hint: null
+      type: select_one
+      options:
+      - Yes, annually
+      - Yes, sometimes
+      - No reports
+      required: true
+    - id: 19
+      name: sustainability_goals
+      label: Do you have measurable sustainability goals?
+      hint: null
+      type: select_one
+      options:
+      - Yes, clear targets set
+      - Yes, some goals
+      - No formal goals
+      required: true
+    - id: 20
+      name: improvement_areas
+      label: Top areas for sustainability improvement
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Energy efficiency
+      - Waste reduction
+      - Water conservation
+      - Supply chain
+      - Employee wellbeing
+      - Diversity and inclusion
+      - Governance
+      - Transparency and reporting
+      required: true

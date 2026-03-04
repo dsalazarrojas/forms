@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: investment_performance_report_form
+    pages:
+    - id: 1
+      name: investment_return
+      label: Investment Return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: investment_date
+      label: Investment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: investment_type
+      label: Investment Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: investment_duration
+      label: Investment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: investment_amount
+      label: Investment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: investment_status
+      label: Investment Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

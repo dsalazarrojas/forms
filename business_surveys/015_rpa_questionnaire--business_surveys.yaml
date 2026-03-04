@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: RPA Questionnaire
+    pages:
+    - id: 1
+      name: question_1_text
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_2_integer
+      label: Age of the business
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question_3_date
+      label: Date of the business
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: question_4_time
+      label: What time do you want to meet
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: question_5_note
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_6_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: question_7_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question_8_select_one
+      label: What kind of business do you have
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: question_9_select_multiple
+      label: What services do you need
+      hint: null
+      type: select_multiple
+      options:
+      - Automation
+      - Robotic Process Automation
+      - Artificial Intelligence
+      required: false

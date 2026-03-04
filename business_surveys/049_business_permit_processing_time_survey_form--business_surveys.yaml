@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Permit Processing Time Survey Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: Type of business
+      type: select_one
+      options:
+      - Retail
+      - Restaurant
+      - Professional services
+      - Manufacturing
+      - Construction
+      - Healthcare
+      - Technology
+      - Other
+      required: true
+    - id: 3
+      name: business_address
+      label: Business Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: permit_type
+      label: Permit Type Applied For
+      hint: What type of permit did you apply for
+      type: select_one
+      options:
+      - Business license
+      - Building permit
+      - Health permit
+      - Sign permit
+      - Zoning permit
+      - Environmental permit
+      - Fire permit
+      - Other
+      required: true
+    - id: 8
+      name: application_date
+      label: Application Submission Date
+      hint: When did you submit your application
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: expected_timeline
+      label: Expected Timeline Given
+      hint: What timeline were you told to expect
+      type: select_one
+      options:
+      - 1 to 5 business days
+      - 6 to 10 business days
+      - 11 to 20 business days
+      - 21 to 30 business days
+      - Over 30 business days
+      required: true
+    - id: 10
+      name: actual_timeline
+      label: Actual Processing Time
+      hint: How long did it actually take
+      type: select_one
+      options:
+      - Faster than expected
+      - As expected
+      - 1 to 5 days longer
+      - 6 to 10 days longer
+      - 11 to 20 days longer
+      - Over 20 days longer
+      - Still pending
+      required: true
+    - id: 11
+      name: processing_satisfaction
+      label: Processing Time Satisfaction
+      hint: How satisfied are you with processing time
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 12
+      name: communication_rating
+      label: Communication Rating
+      hint: Rate communication during process
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: application_complexity
+      label: Application Complexity
+      hint: How complex was your application
+      type: select_one
+      options:
+      - Very simple
+      - Simple
+      - Moderate
+      - Complex
+      - Very complex
+      required: true
+    - id: 14
+      name: issues_encountered
+      label: Issues Encountered
+      hint: Select all issues experienced
+      type: select_multiple
+      options:
+      - Missing information requests
+      - System outages
+      - Staff unavailability
+      - Documentation errors
+      - Fee disputes
+      - Inspection delays
+      - No issues
+      required: true
+    - id: 15
+      name: staff_helpfulness
+      label: Staff Helpfulness Rating
+      hint: Rate staff helpfulness
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: online_system_rating
+      label: Online System Rating
+      hint: Rate the online application system
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      - Did not use online system
+      required: true
+    - id: 17
+      name: clarity_of_requirements
+      label: Clarity of Requirements
+      hint: How clear were the requirements
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 18
+      name: would_recommend_process
+      label: Would Recommend Process
+      hint: Would you recommend this process to others
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 19
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How can the process be improved
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

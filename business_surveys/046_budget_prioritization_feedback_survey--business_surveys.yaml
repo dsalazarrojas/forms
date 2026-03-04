@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Prioritization Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: respondent_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_role
+      label: Your Role or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: first_priority
+      label: First Budget Priority
+      hint: Most important to your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: first_priority_reason
+      label: Reason for First Priority
+      hint: Why is this most important
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: first_priority_investment
+      label: Recommended Investment Amount
+      hint: For first priority
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: second_priority
+      label: Second Budget Priority
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: second_priority_investment
+      label: Recommended Investment Amount
+      hint: For second priority
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: third_priority
+      label: Third Budget Priority
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: third_priority_investment
+      label: Recommended Investment Amount
+      hint: For third priority
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: funding_constraints
+      label: Major Funding Constraints
+      hint: What limits spending decisions
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: budget_flexibility
+      label: Budget Flexibility Assessment
+      hint: How flexible is your budget
+      type: select_one
+      options:
+      - Very Flexible
+      - Flexible
+      - Moderate
+      - Limited
+      - Rigid
+      required: true
+    - id: 14
+      name: interdepartmental_priorities
+      label: Interdepartmental Priority Conflicts
+      hint: Are there conflicts with other departments
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: strategic_alignment
+      label: Budget Alignment with Strategy
+      hint: Does budget support organizational goals
+      type: select_one
+      options:
+      - Fully aligned
+      - Mostly aligned
+      - Somewhat aligned
+      - Minimally aligned
+      - Not aligned
+      required: true
+    - id: 16
+      name: communication_effectiveness
+      label: Communication of Budget Priorities
+      hint: Are priorities clearly communicated
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 17
+      name: fairness_assessment
+      label: Fairness of Budget Allocation
+      hint: Is allocation process fair
+      type: select_one
+      options:
+      - Very Fair
+      - Fair
+      - Neutral
+      - Unfair
+      - Very Unfair
+      required: true
+    - id: 18
+      name: improvement_suggestions
+      label: Suggestions for Budget Prioritization
+      hint: How can the process improve
+      type: text
+      options: []
+      required: false

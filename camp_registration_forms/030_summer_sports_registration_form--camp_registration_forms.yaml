@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Sports Registration Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: personal_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: health_info
+      label: health_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sports_experience
+      label: sports_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sports_level
+      label: sports_level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: true
+    - id: 7
+      name: sports_familiarity
+      label: sports_familiarity
+      hint: null
+      type: select_one
+      options:
+      - basketball
+      - soccer
+      - hockey
+      - volleyball
+      - tennis
+      - none
+      required: true
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

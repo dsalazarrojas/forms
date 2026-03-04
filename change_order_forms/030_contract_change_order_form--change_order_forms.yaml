@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Change Order Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Name
+      hint: Company or individual
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_address
+      label: Contractor Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contractor_phone
+      label: Contractor Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contractor_email
+      label: Contractor Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: change_order_date
+      label: Change Order Date
+      hint: Date of change order
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: change_order_number
+      label: Change Order Number
+      hint: Sequential number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: original_contract_number
+      label: Original Contract Number
+      hint: Contract reference
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: original_contract_date
+      label: Original Contract Date
+      hint: Date of original contract
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: project_name
+      label: Project Name
+      hint: Project title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_location
+      label: Project Location
+      hint: Job site address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: change_description
+      label: Change Description
+      hint: Detailed description of change
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why is this change needed?
+      type: select_one
+      options:
+      - Owner request
+      - Unforeseen conditions
+      - Code requirement
+      - Design error or omission
+      - Material availability
+      - Schedule adjustment
+      - Other
+      required: true
+    - id: 13
+      name: work_affected
+      label: Work Affected
+      hint: What work is impacted?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: original_contract_amount
+      label: Original Contract Amount
+      hint: Original price
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: previous_change_orders_total
+      label: Previous Change Orders Total
+      hint: Sum of prior changes
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: this_change_order_amount
+      label: This Change Order Amount
+      hint: Cost of this change
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: new_contract_total
+      label: New Contract Total
+      hint: Updated total amount
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: time_impact
+      label: Time Impact
+      hint: Days added or subtracted
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: original_completion_date
+      label: Original Completion Date
+      hint: Original end date
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: revised_completion_date
+      label: Revised Completion Date
+      hint: New end date
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: materials_cost
+      label: Materials Cost
+      hint: Cost of materials
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: labor_cost
+      label: Labor Cost
+      hint: Cost of labor
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: equipment_cost
+      label: Equipment Cost
+      hint: Cost of equipment
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: overhead_and_profit
+      label: Overhead and Profit
+      hint: Markup percentage
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: contractor_signature
+      label: Contractor Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: contractor_signature_date
+      label: Contractor Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: owner_signature
+      label: Owner Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: owner_signature_date
+      label: Owner Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 29
+      name: architect_approval
+      label: Architect Approval
+      hint: Architect name
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

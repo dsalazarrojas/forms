@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Control Survey
+    pages:
+    - id: 1
+      name: stock_levels
+      label: Stock Levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: stockout_reasons
+      label: Stockout Reasons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: ordering_performance
+      label: Ordering Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: false
+    - id: 4
+      name: departments
+      label: Departments
+      hint: null
+      type: select_multiple
+      options:
+      - Operations
+      - Finance
+      - Marketing
+      - Management
+      required: false
+    - id: 5
+      name: stockouts
+      label: Stockouts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: stockout_frequency
+      label: Stockout Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: stockout_description
+      label: Stockout Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: ordering_frequency
+      label: Ordering Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: stock_levels_2
+      label: Stock Levels 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: stockout_date
+      label: Stockout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: stockout_time
+      label: Stockout Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: stockout_reasons_2
+      label: Stockout Reasons 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: stockout_type
+      label: Stockout Type
+      hint: null
+      type: select_one
+      options:
+      - Overstocked
+      - Understocked
+      - Stockout
+      required: false
+    - id: 14
+      name: stockin_reasons
+      label: Stockin Reasons
+      hint: null
+      type: select_multiple
+      options:
+      - Overstocked
+      - Understocked
+      - Stocked
+      required: false
+    - id: 15
+      name: stockin_frequency
+      label: Stockin Frequency
+      hint: null
+      type: date
+      options: []
+      required: false

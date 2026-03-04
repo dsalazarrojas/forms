@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Weekly Feedback Form
+    pages:
+    - id: 1
+      name: section_feedback_info
+      label: -- Feedback Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback_week
+      label: Week Of
+      hint: Date of the week being reviewed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: respondent_name
+      label: Your Name
+      hint: Name of person providing feedback
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: section_session_review
+      label: -- Session Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: sessions_held
+      label: Number of Sessions Held This Week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: session_effectiveness
+      label: Overall Session Effectiveness
+      hint: Rate the week of sessions
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Did not meet
+      required: true
+    - id: 9
+      name: athlete_engagement
+      label: Athlete Engagement Level
+      hint: How engaged were athletes?
+      type: select_one
+      options:
+      - Very engaged
+      - Engaged
+      - Somewhat engaged
+      - Not engaged
+      required: true
+    - id: 10
+      name: section_coaching_quality
+      label: -- Coaching Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: coaching_quality
+      label: Coaching Quality
+      hint: Rate the quality of instruction
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs improvement
+      required: true
+    - id: 12
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: Did coaching messages get across?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 13
+      name: feedback_quality
+      label: Quality of Feedback Given
+      hint: Rate the feedback provided
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 14
+      name: section_athlete_progress
+      label: -- Athlete Progress --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: athlete_progress
+      label: Overall Athlete Progress
+      hint: Rate progress this week
+      type: select_one
+      options:
+      - Significant progress
+      - Good progress
+      - Some progress
+      - Minimal progress
+      - No progress
+      required: true
+    - id: 16
+      name: progress_areas
+      label: Areas of Progress
+      hint: What improved?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_challenges
+      label: -- Challenges and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: challenges_this_week
+      label: Challenges or Concerns This Week
+      hint: What went wrong?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: athletes_needing_attention
+      label: Athletes Needing Additional Attention
+      hint: Any athletes struggling?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_next_steps
+      label: -- Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: focus_next_week
+      label: Focus Areas for Next Week
+      hint: What needs to happen?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: adjustments_needed
+      label: Coaching Adjustments Needed
+      hint: Should coaching approach change?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_overall
+      label: -- Overall Rating --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: overall_rating
+      label: Overall Week Rating
+      hint: Rate the week overall
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below average
+      - Poor
+      required: true

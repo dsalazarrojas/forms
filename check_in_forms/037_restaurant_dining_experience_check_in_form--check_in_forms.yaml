@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Dining Experience Check In Form
+    pages:
+    - id: 1
+      name: guest_check_in
+      label: Guest Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_seating
+      label: Preferred Seating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 3
+      name: guest_preferences
+      label: Guest Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: dining_experience
+      label: Dining Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: table_request
+      label: Table Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: party_size
+      label: Party Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

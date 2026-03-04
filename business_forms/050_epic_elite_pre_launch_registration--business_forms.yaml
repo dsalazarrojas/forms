@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: epic_elite_pre_launch_registration
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Support
+      - Development
+      required: true
+    - id: 9
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - On leave
+      - Inactive
+      required: false
+    - id: 10
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Contract
+      required: false
+    - id: 11
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: date_of_joining
+      label: Date of Joining
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_description_2
+      label: Job Description 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - On leave
+      - Inactive
+      required: false
+    - id: 24
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 25
+      name: assigned_tool_2
+      label: Assigned Tool 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Culture Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_awareness
+      label: Risk Awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reporting
+      label: Reporting
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 4'', ''value'': ''Option 4''}'
+      - '{''label'': ''Option 5'', ''value'': ''Option 5''}'
+      - '{''label'': ''Option 6'', ''value'': ''Option 6''}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

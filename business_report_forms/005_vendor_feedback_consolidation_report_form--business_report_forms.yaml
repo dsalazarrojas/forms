@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Feedback Consolidation Report Form
+    pages:
+    - id: 1
+      name: vendor_rating
+      label: Vendor Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: comments
+      label: Vendor Comments
+      hint: Please provide any feedback or concerns
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_id
+      label: Vendor ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

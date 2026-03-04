@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Energy Efficiency Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_info
+      label: household_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: energy_use
+      label: energy_use
+      hint: null
+      type: select_one
+      options:
+      - Electricity (kWh)
+      - Gas (therms)
+      - Water (gal)
+      required: false
+    - id: 4
+      name: upgrades
+      label: upgrades
+      hint: null
+      type: select_multiple
+      options:
+      - Refrigerators
+      - Water Heaters
+      - Air Conditioners
+      - Pool Heaters
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: user_notes
+      label: user_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: auditor_notes
+      label: auditor_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: energy_use_notes
+      label: energy_use_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: household_notes
+      label: household_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: energy_efficiency
+      label: energy_efficiency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: upgrade_notes
+      label: upgrade_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: energy_efficiency_notes
+      label: energy_efficiency_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: auditor_info
+      label: auditor_info
+      hint: null
+      type: text
+      options: []
+      required: false

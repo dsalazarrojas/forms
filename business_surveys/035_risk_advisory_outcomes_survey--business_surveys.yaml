@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: risk_advisory_outcomes_survey
+    pages:
+    - id: 1
+      name: project_info
+      label: Project Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      required: false
+    - id: 3
+      name: risk_description
+      label: risk_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mitigation_plan
+      label: Mitigation Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_outcome
+      label: Risk Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Successful''}'
+      - '{''id'': 2, ''label'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Unsuccessful''}'
+      required: false
+    - id: 6
+      name: risk_outcome_description
+      label: Risk Outcome Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      required: false
+    - id: 8
+      name: closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: closed_reason
+      label: Closed Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_review_date
+      label: Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

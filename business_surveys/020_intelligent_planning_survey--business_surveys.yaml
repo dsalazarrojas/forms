@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intelligent Planning Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: survey_start
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: planning_processes
+      label: planning_processes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_questions
+      label: feedback_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: decision_making
+      label: decision_making
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: strategic_improvements
+      label: strategic_improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: planning_process_satisfaction
+      label: planning_process_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

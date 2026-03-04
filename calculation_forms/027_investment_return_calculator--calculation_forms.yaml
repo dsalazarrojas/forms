@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Return Calculator
+    pages:
+    - id: 1
+      name: investment_amount
+      label: investment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: time_period
+      label: time_period
+      hint: null
+      type: select_one
+      options:
+      - year
+      - quarter
+      - half_year
+      - month
+      required: true
+    - id: 3
+      name: rate_of_return
+      label: rate_of_return
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: inflation_rate
+      label: inflation_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: compounding_frequency
+      label: compounding_frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - semi_annually
+      required: false
+    - id: 6
+      name: compound_frequency
+      label: compound_frequency
+      hint: How often is interest compounded in this type of account?
+      type: select_one
+      options:
+      - annually
+      - monthly
+      - quarterly
+      - semi_annually
+      required: true
+    - id: 7
+      name: expected_interest_rate
+      label: expected_interest_rate
+      hint: The annual interest rate expected in the account
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: investment_return
+      label: investment_return
+      hint: The expected return rate of the investment
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: result
+      label: result
+      hint: The expected rate of return on investment
+      type: select_one
+      options:
+      - high
+      - low
+      - medium
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: investment_type
+      label: investment_type
+      hint: null
+      type: select_one
+      options:
+      - cash
+      - stocks
+      - bonds
+      - other
+      - cryptocurrency
+      required: true
+    - id: 14
+      name: risk_tolerance
+      label: risk_tolerance
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: true
+    - id: 15
+      name: investment_goal
+      label: investment_goal
+      hint: null
+      type: select_one
+      options:
+      - short_term
+      - medium_term
+      - long_term
+      required: false
+    - id: 16
+      name: investment_type_description
+      label: investment_type_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: result_description
+      label: result_description
+      hint: null
+      type: text
+      options: []
+      required: false

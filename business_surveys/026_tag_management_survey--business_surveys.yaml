@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tag Management Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tag_name
+      label: tag_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tag_type
+      label: tag_type
+      hint: null
+      type: select_one
+      options:
+      - Tag A
+      - Tag B
+      - Tag C
+      required: false
+    - id: 4
+      name: tag_status
+      label: tag_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 5
+      name: tag_description
+      label: tag_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tag_category
+      label: tag_category
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: false
+    - id: 7
+      name: tag_subcategory
+      label: tag_subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tag_priority
+      label: tag_priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tag_value
+      label: tag_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: tag_tags
+      label: tag_tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 11
+      name: tag_tagged_by
+      label: tag_tagged_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tag_date_tagged
+      label: tag_date_tagged
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: tag_date_added
+      label: tag_date_added
+      hint: null
+      type: date
+      options: []
+      required: false

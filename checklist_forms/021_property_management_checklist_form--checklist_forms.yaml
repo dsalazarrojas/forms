@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Management Checklist Form
+    pages:
+    - id: 1
+      name: maintenance_tasks
+      label: Maintenance Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: maintenance_tasks_description
+      label: Description of Tasks
+      hint: Brief description of each maintenance task
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspections
+      label: Inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: inspections_date
+      label: Inspections Date
+      hint: Date of last inspections
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspections_time
+      label: Inspections Time
+      hint: Time of last inspections
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: tenant_comments
+      label: Tenant Comments
+      hint: Comments from tenants
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_status
+      label: Property Status
+      hint: Status of the property
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: property_status_description
+      label: Property Status Description
+      hint: Description of property status
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_requests
+      label: Maintenance Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: maintenance_requests_description
+      label: Description of Requests
+      hint: Brief description of each maintenance request
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_info
+      label: Contact Info
+      hint: Contact information of property manager
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_method
+      label: Contact Method
+      hint: Method of contact (phone, email, etc.)
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: contact_method_description
+      label: Description of Contact Method
+      hint: Description of contact method
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tenant_notified
+      label: Tenant Notified
+      hint: Whether tenant has been notified
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: tenant_feedback
+      label: Tenant Feedback
+      hint: Feedback from tenant
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_notes
+      label: Property Notes
+      hint: Notes of property
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_notes
+      label: Manager Notes
+      hint: Notes of property manager
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_steps_description
+      label: Description of Next Steps
+      hint: Description of next steps
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: assigned_tool_description
+      label: Description of Assigned Tool
+      hint: Description of assigned tool
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_id
+      label: Form Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: form_id_description
+      label: Description of Form Id
+      hint: Description of form id
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_by_description
+      label: Description of Created By
+      hint: Description of created by
+      type: text
+      options: []
+      required: false

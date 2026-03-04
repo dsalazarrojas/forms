@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: ride-hailing-company-evaluation-survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rate_your_experience
+      label: rate-your-experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_satisfaction
+      label: overall-satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 4
+      name: city
+      label: city
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Houston
+      - Phoenix
+      - Philadelphia
+      - San Antonio
+      - San Diego
+      - San Jose
+      - Austin
+      - Dallas
+      - San Francisco
+      - Jacksonville
+      - San Jose
+      - Seattle
+      - Indianapolis
+      - Boston
+      required: false
+    - id: 5
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: service
+      label: service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: cleanliness
+      label: cleanliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: safety
+      label: safety
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Most of the time
+      - Occasionally
+      - Seldom
+      - Never
+      required: false
+    - id: 9
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: email
+      options: []
+      required: false

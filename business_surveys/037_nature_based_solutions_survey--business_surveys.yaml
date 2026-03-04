@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nature Based Solutions Survey
+    pages:
+    - id: 1
+      name: nature_based_solutions_survey
+      label: Nature based solutions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: awareness_barriers
+      label: Awareness barriers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: benefits_interest
+      label: Benefits interest
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 4
+      name: local_authorities
+      label: Local authorities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ngos_resarchers
+      label: NGOs researchers
+      hint: null
+      type: select_one
+      options:
+      - option5
+      - option6
+      - option7
+      - option8
+      required: false

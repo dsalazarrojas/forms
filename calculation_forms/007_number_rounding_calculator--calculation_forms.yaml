@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Number Rounding Calculator
+    pages:
+    - id: 1
+      name: input_number
+      label: Input Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rounding_method
+      label: Rounding Method
+      hint: null
+      type: select_one
+      options:
+      - nearest
+      - down
+      - up
+      - half
+      - half_even
+      required: false
+    - id: 3
+      name: rounding_precision
+      label: Rounding Precision
+      hint: null
+      type: select_one
+      options:
+      - none
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 4
+      name: rounding_method_description
+      label: Rounding Method Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: input_number_2
+      label: Input Number 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: result
+      label: Result
+      hint: null
+      type: note
+      options: []
+      required: false

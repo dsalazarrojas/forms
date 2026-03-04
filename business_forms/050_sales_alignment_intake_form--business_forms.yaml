@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Alignment Intake Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sales_rep_name
+      label: Sales Rep Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_manager_name
+      label: Account Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: decision_process
+      label: Decision Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: alignment_strategy
+      label: Alignment Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: key_challenges
+      label: Key Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sales_outcomes
+      label: Sales Outcomes
+      hint: null
+      type: select_one
+      options:
+      - Closed Won
+      - Closed Lost
+      - Open
+      - Other
+      required: false
+    - id: 11
+      name: sales_pipeline
+      label: Sales Pipeline
+      hint: null
+      type: select_multiple
+      options:
+      - Pipeline 1
+      - Pipeline 2
+      - Pipeline 3
+      - Pipeline 4
+      required: false
+    - id: 12
+      name: decision_date
+      label: Decision Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sales_outcome_notes
+      label: Sales Outcome Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: account_manager_notes
+      label: Account Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: decision_made_by
+      label: Decision Made By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: alignment_outcomes
+      label: Alignment Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sales_alignment_outcomes
+      label: Sales Alignment Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 19
+      name: alignment_rationale
+      label: Alignment Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: decision_rationale
+      label: Decision Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: decision_factors
+      label: Decision Factors
+      hint: null
+      type: select_one
+      options:
+      - Price
+      - Product Fit
+      - Timing
+      - Other
+      required: false
+    - id: 23
+      name: alignment_factors
+      label: Alignment Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Product Fit
+      - Timing
+      required: false
+    - id: 24
+      name: other_factors
+      label: Other Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

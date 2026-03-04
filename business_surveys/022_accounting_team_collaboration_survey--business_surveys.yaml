@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Team Collaboration Survey
+    pages:
+    - id: 1
+      name: team_member_name
+      label: Team Member Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_rating
+      label: Rate Team Communication
+      hint: 1 - Poor, 5 - Excellent
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 3
+      name: task_distribution_fairness
+      label: Task Distribution Fairness
+      hint: Do you feel tasks are distributed evenly?
+      type: select_one
+      options:
+      - Unfair
+      - Fair
+      - Very Fair
+      required: true
+    - id: 4
+      name: collaboration_tools_used
+      label: Collaboration Tools Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Slack
+      - Microsoft Teams
+      - Zoom
+      - Internal Wiki
+      - Project Board
+      required: false
+    - id: 5
+      name: frequency_of_team_meetings
+      label: Frequency of Team Meetings
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      required: true
+    - id: 6
+      name: meeting_effectiveness
+      label: Meeting Effectiveness
+      hint: Are team meetings productive?
+      type: select_one
+      options:
+      - Not Effective
+      - Moderately Effective
+      - Highly Effective
+      required: true
+    - id: 7
+      name: collaboration_barriers
+      label: Collaboration Barriers
+      hint: What stops the team from working together effectively?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: support_from_management
+      label: Support from Management
+      hint: null
+      type: select_one
+      options:
+      - Insufficient
+      - Sufficient
+      - Outstanding
+      required: true
+    - id: 9
+      name: suggestions_for_better_teamwork
+      label: Suggestions for Better Teamwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: anon_note
+      label: -- Feedback is anonymous unless you provide your name --
+      hint: null
+      type: note
+      options: []
+      required: false

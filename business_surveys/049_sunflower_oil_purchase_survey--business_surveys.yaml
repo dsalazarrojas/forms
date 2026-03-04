@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sunflower Oil Purchase Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Sunflower Oil Purchase Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sunflower_oil_purchase_survey_1
+      label: Do you currently buy sunflower oil?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_2
+      label: Sunflower oil price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sunflower_oil_price_range_1
+      label: Less than 1 USD
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sunflower_oil_price_range_2
+      label: 1-2 USD
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: page_3
+      label: Where do you purchase sunflower oil?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sunflower_oil_purchase_1
+      label: Local store
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sunflower_oil_purchase_2
+      label: Online store
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: sunflower_oil_purchase_3
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: page_4
+      label: Other information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: other_info_1
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

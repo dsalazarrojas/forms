@@ -1,0 +1,194 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 Spring/Summer Nailing It With Karie On Hand Inventory
+    pages:
+    - id: 1
+      name: section_header_info
+      label: '--- Distributor Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: distributor_name
+      label: Full name
+      hint: Enter your full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Business email for order confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Contact number for order inquiries
+      type: phone
+      options: []
+      required: true
+    - id: 5
+      name: date_submitted
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_header_inventory
+      label: '--- Current Inventory Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_stock_level
+      label: Current stock level for Spring/Summer collection
+      hint: null
+      type: select_one
+      options:
+      - Overstocked
+      - Adequate
+      - Low
+      - Out of stock
+      required: true
+    - id: 8
+      name: most_popular_shades
+      label: Which Spring/Summer shades are selling fastest? (select all)
+      hint: Select top-performing colors
+      type: select_multiple
+      options:
+      - Coral Crush
+      - Sunset Glow
+      - Ocean Breeze
+      - Lavender Dreams
+      - Rose Gold
+      - Champagne Sparkle
+      - Berry Bliss
+      - Mint Magic
+      required: false
+    - id: 9
+      name: reorder_quantity
+      label: Quantity to reorder (sets)
+      hint: Enter whole number of sets
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: budget_allocated
+      label: Budget allocated for this order ($)
+      hint: Total amount available for purchase
+      type: decimal
+      options: []
+      required: true
+    - id: 11
+      name: section_header_catalog
+      label: '--- Catalog Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: catalog_format_preference
+      label: Preferred catalog format
+      hint: null
+      type: select_one
+      options:
+      - Physical catalog
+      - Digital download
+      - Both
+      required: true
+    - id: 13
+      name: marketing_materials_needed
+      label: Marketing materials needed (select all)
+      hint: null
+      type: select_multiple
+      options:
+      - Social media graphics
+      - Email templates
+      - Print flyers
+      - Display banners
+      - Video content
+      required: false
+    - id: 14
+      name: shipping_address
+      label: Shipping address
+      hint: Where should inventory be delivered?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: expected_delivery_date
+      label: Expected delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: satisfaction_level
+      label: How satisfied are you with 2021 Spring/Summer Nailing It With Karie On
+        Hand Inventory?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 17
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 18
+      name: experience_aspects
+      label: Which aspects applied to your experience with 2021 Spring/Summer Nailing
+        It With Karie On Hand Inventory? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 19
+      name: open_feedback
+      label: What would you improve or change about 2021 Spring/Summer Nailing It
+        With Karie On Hand Inventory?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information about your inventory needs
+      type: text
+      options: []
+      required: false

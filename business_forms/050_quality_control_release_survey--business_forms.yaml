@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Control Release Survey
+    pages:
+    - id: 1
+      name: release_survey_form
+      label: Release Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_dates
+      label: Inspection Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: product_ids
+      label: Product IDs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: batch_ids
+      label: Batch IDs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: results
+      label: Results
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: release_decisions
+      label: Release Decisions
+      hint: null
+      type: select_one
+      options:
+      - Released
+      - Not Released
+      required: false
+    - id: 7
+      name: drag_and_drop_interface
+      label: Drag and drop interface
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: efficient_data_collection
+      label: Efficient Data Collection
+      hint: null
+      type: text
+      options: []
+      required: false

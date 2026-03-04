@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Feedback Accuracy Survey
+    pages:
+    - id: 1
+      name: vendor_information
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accuracy_rating
+      label: Vendor Accuracy Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: performance_evaluation
+      label: Performance Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vendor_performance
+      label: Vendor Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: detailed_feedback
+      label: Detailed Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: facility_cleaning_quality_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cleanliness
+      label: cleanliness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inspector
+      label: inspector
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: staff
+      label: staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: frequency
+      label: frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      - never
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: location_comments
+      label: location_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: area
+      label: area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: section
+      label: section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_comments
+      label: section_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment
+      label: equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_frequency
+      label: section_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: section_time
+      label: section_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: section_location
+      label: section_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: section_comments
+      label: section_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_cleaning
+      label: facility_cleaning
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - fair
+      - poor
+      required: false
+    - id: 25
+      name: facility_cleaning_comments
+      label: facility_cleaning_comments
+      hint: null
+      type: text
+      options: []
+      required: false

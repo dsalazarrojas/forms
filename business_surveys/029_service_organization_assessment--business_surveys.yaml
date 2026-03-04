@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Organization Assessment
+    pages:
+    - id: 1
+      name: service_delivery
+      label: Service Delivery
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: How satisfied are you with the services you received?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_satisfaction_rating
+      label: Customer Satisfaction Rating
+      hint: On a scale from 1-5
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: service_improvement_areas
+      label: Areas for Improvement
+      hint: What areas do you think need improvement?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments_and_suggestions
+      label: Comments and Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: Please provide your contact information so we can get back to you.
+      type: email
+      options: []
+      required: false

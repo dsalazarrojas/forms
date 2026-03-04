@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raw Material Variance Report Form
+    pages:
+    - id: 1
+      name: material_received
+      label: Material Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_used
+      label: Material Used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: usage_variance
+      label: Usage Variance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cause_analysis
+      label: Root Cause Analysis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Quality
+      - Production
+      required: false
+    - id: 8
+      name: plant
+      label: Plant
+      hint: null
+      type: select_multiple
+      options:
+      - HQ
+      - MQ
+      - HQ1
+      - MQ1
+      required: false
+    - id: 9
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_received
+      label: Time Received
+      hint: null
+      type: time
+      options: []
+      required: false

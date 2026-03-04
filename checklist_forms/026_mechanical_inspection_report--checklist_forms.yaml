@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mechanical Inspection Report
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vehicle_condition
+      label: vehicle_condition
+      hint: null
+      type: select_multiple
+      options:
+      - new
+      - used
+      - certified
+      required: false
+    - id: 4
+      name: engine_details
+      label: engine_details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: inspection_result
+      label: inspection_result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: test_drive
+      label: test_drive
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: odometer_reading
+      label: odometer_reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_status
+      label: vehicle_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: vehicle_condition_rating
+      label: vehicle_condition_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_inspected
+      label: date_inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_inspected
+      label: time_inspected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_id
+      label: vehicle_id
+      hint: null
+      type: text
+      options: []
+      required: false

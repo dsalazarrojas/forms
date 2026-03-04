@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movement Addition Form
+    pages:
+    - id: 1
+      name: inventory_item
+      label: inventory_item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_status
+      label: item_status
+      hint: null
+      type: select_multiple
+      options:
+      - Item Received
+      - Item In Transit
+      - Item Sold
+      required: false
+    - id: 5
+      name: movement_type
+      label: movement_type
+      hint: null
+      type: select_one
+      options:
+      - Inventory In
+      - Inventory Out
+      - Transfer In
+      - Transfer Out
+      required: true
+    - id: 6
+      name: movement_id
+      label: movement_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: movement_date
+      label: movement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: movement_note
+      label: movement_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user
+      label: user
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - User
+      - Other
+      required: true
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_id
+      label: item_id
+      hint: null
+      type: number
+      options: []
+      required: false

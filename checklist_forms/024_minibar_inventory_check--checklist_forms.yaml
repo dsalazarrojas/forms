@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: minibar_inventory_check
+    pages:
+    - id: 1
+      name: minibar_check
+      label: Minibar Check
+      hint: null
+      type: select_multiple
+      options:
+      - Cocktail
+      - Spirits
+      - Beer
+      - Wine
+      - Other
+      required: false
+    - id: 2
+      name: restock_date
+      label: Restock Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: restock_status
+      label: Restock Status
+      hint: Select status
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: discrepancies
+      label: Discrepancies
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Cocktail
+      - Spirits
+      - Beer
+      - Wine
+      - Other
+      - Packaging
+      - Quantity
+      - Labeling
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hotel_name
+      label: Hotel Name
+      hint: Select hotel name
+      type: select_one
+      options:
+      - Hotel A
+      - Hotel B
+      - Hotel C
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

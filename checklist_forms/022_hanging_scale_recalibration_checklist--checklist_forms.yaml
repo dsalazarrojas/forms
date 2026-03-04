@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hanging Scale Recalibration Checklist
+    pages:
+    - id: 1
+      name: warehouse_id
+      label: Warehouse Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: scale_serial_number
+      label: Scale Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recalibration_date
+      label: Recalibration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: last_recalibration_date
+      label: Last Recalibration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: recalibration_interval
+      label: Recalibration Interval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: last_calibration_certificate
+      label: Last Calibration Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: calibration_status
+      label: Calibration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: calibration_result
+      label: Calibration Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: calibration_certificate
+      label: Calibration Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

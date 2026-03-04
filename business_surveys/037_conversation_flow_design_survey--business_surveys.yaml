@@ -1,0 +1,315 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conversation Flow Design Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: role
+      label: Your Role
+      hint: Job title
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_experience
+      label: -- Experience Level --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: design_experience
+      label: Experience with conversation design
+      hint: null
+      type: select_one
+      options:
+      - Expert
+      - Experienced
+      - Some Experience
+      - Beginner
+      - None
+      required: true
+    - id: 7
+      name: years_experience
+      label: Years of Experience
+      hint: In UX or conversation design
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: section_current_practices
+      label: -- Current Practices --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: tools_used
+      label: Tools You Use for Conversation Design
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Voiceflow
+      - Dialogflow
+      - Alexa Skills Kit
+      - Microsoft Bot Framework
+      - Rasa
+      - Custom Tools
+      - Pen and Paper
+      - Flowchart Software
+      - Other
+      required: false
+    - id: 10
+      name: design_process
+      label: How do you approach conversation design
+      hint: null
+      type: select_one
+      options:
+      - User Research First
+      - Prototype Then Test
+      - Start with Technology
+      - Follow Best Practices
+      - No Formal Process
+      required: true
+    - id: 11
+      name: team_structure
+      label: Team Structure
+      hint: How is your team organized
+      type: select_one
+      options:
+      - Dedicated Conversation Designers
+      - UX Designers Handle It
+      - Developers Handle It
+      - Cross-Functional Team
+      - Individual Contributor
+      required: true
+    - id: 12
+      name: section_design_elements
+      label: -- Design Elements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: important_elements
+      label: Most Important Conversation Elements
+      hint: Select top 3
+      type: select_multiple
+      options:
+      - Natural Language Understanding
+      - Response Quality
+      - Error Handling
+      - Personality and Tone
+      - Context Management
+      - Multi-turn Dialogues
+      - Personalization
+      - Visual Elements
+      required: true
+    - id: 14
+      name: personality_importance
+      label: How important is bot personality
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Neutral
+      - Not Very Important
+      - Not Important
+      required: true
+    - id: 15
+      name: handling_errors
+      label: How do you handle conversation errors
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive Error States
+      - Simple Fallback Responses
+      - Human Handoff
+      - Ad Hoc Approach
+      required: true
+    - id: 16
+      name: section_user_testing
+      label: -- User Testing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: testing_frequency
+      label: How often do you test with users
+      hint: null
+      type: select_one
+      options:
+      - Every Iteration
+      - Regularly
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 18
+      name: testing_methods
+      label: Testing Methods Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Usability Testing
+      - A/B Testing
+      - Wizard of Oz Testing
+      - Beta Testing
+      - Analytics Review
+      - User Interviews
+      - Surveys
+      - None
+      required: true
+    - id: 19
+      name: metrics_tracked
+      label: Metrics You Track
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Task Completion Rate
+      - User Satisfaction
+      - Conversation Length
+      - Drop-off Points
+      - Intent Recognition Rate
+      - Response Time
+      - Engagement Rate
+      - None
+      required: false
+    - id: 20
+      name: section_challenges
+      label: -- Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: biggest_challenges
+      label: Biggest Challenges in Conversation Design
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Understanding User Intent
+      - Handling Edge Cases
+      - Maintaining Context
+      - Creating Natural Dialogue
+      - Multi-language Support
+      - Integration with Systems
+      - Stakeholder Buy-in
+      - Limited Resources
+      - Technical Constraints
+      required: true
+    - id: 22
+      name: improvement_areas
+      label: Areas Where You Need Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: bot_vs_human
+      label: Preference for bot vs human handoff
+      hint: null
+      type: select_one
+      options:
+      - Bot Should Handle Everything
+      - Easy Human Handoff Available
+      - Human Only When Requested
+      - Depends on Complexity
+      required: true
+    - id: 25
+      name: text_vs_voice
+      label: Text vs Voice Preference
+      hint: null
+      type: select_one
+      options:
+      - Text Only
+      - Voice Only
+      - Both Equally
+      - Depends on Use Case
+      required: true
+    - id: 26
+      name: section_future
+      label: -- Future Trends --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: emerging_technologies
+      label: Emerging Technologies You Are Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Generative AI
+      - Large Language Models
+      - Emotion Recognition
+      - Multimodal Interfaces
+      - Voice Cloning
+      - Real-time Translation
+      - None
+      required: false
+    - id: 28
+      name: future_priorities
+      label: What will be your priority in the next year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_feedback
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: best_practices
+      label: What are your go-to best practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: advice_for_others
+      label: Advice for new conversation designers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other insights
+      type: text
+      options: []
+      required: false

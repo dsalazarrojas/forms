@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snowmobile Equipment Exchange Survey
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: What Type Of Equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Snowmobile'', ''value'': ''Snowmobile''}'
+      - '{''name'': ''Skidoo'', ''value'': ''Skidoo''}'
+      - '{''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''New'', ''value'': ''New''}'
+      - '{''name'': ''Used'', ''value'': ''Used''}'
+      - '{''name'': ''Refurbished'', ''value'': ''Refurbished''}'
+      required: false
+    - id: 4
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photos_upload
+      label: Photos Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_make
+      label: Equipment Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: equipment_year
+      label: Equipment Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: equipment_price
+      label: Equipment Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

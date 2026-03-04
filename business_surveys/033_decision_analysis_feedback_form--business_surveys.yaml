@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Decision Analysis Feedback Form
+    pages:
+    - id: 1
+      name: decision_analysis
+      label: Prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: clarity
+      label: Clarity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: effectiveness
+      label: Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: confidence
+      label: Confidence
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: true

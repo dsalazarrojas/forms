@@ -1,0 +1,302 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campership Form
+    pages:
+    - id: 1
+      name: camper_first_name
+      label: Camper First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: camper_last_name
+      label: Camper Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: age
+      label: Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: parent_guardian_1_name
+      label: Parent or Guardian 1 Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_1_email
+      label: Parent or Guardian 1 Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_1_phone
+      label: Parent or Guardian 1 Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_2_name
+      label: Parent or Guardian 2 Full Name
+      hint: Optional second parent
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: parent_guardian_2_phone
+      label: Parent or Guardian 2 Phone
+      hint: Secondary phone
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: home_address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: number_of_children_in_family
+      label: Number of Children in Family
+      hint: Total children
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: number_attending_camp
+      label: Number of Children Attending Camp
+      hint: How many will attend
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: household_income
+      label: Annual Household Income
+      hint: Select range
+      type: select_one
+      options:
+      - Under $25000
+      - $25000-$39999
+      - $40000-$54999
+      - $55000-$69999
+      - $70000-$84999
+      - $85000 or more
+      - Prefer not to say
+      required: true
+    - id: 18
+      name: financial_assistance_programs
+      label: Do You Receive Financial Assistance
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - SNAP or food stamps
+      - Medicaid
+      - CHIP
+      - TANF
+      - WIC
+      - Free or reduced lunch
+      - Housing assistance
+      - Other
+      required: true
+    - id: 19
+      name: employment_status_parent_1
+      label: Employment Status Parent or Guardian 1
+      hint: Select status
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Disabled
+      - Student
+      - Retired
+      - Homemaker
+      required: true
+    - id: 20
+      name: employment_status_parent_2
+      label: Employment Status Parent or Guardian 2
+      hint: Select status
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Unemployed
+      - Disabled
+      - Student
+      - Retired
+      - Homemaker
+      - Not applicable
+      required: false
+    - id: 21
+      name: financial_hardship_explanation
+      label: Please Explain Your Financial Hardship
+      hint: Describe your situation
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reason_for_needing_assistance
+      label: Why Do You Need Financial Assistance
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Job loss
+      - Medical expenses
+      - Single parent household
+      - Multiple children in activities
+      - Low income
+      - Unexpected emergency
+      - Other
+      required: true
+    - id: 23
+      name: amount_of_assistance_needed
+      label: Amount of Assistance Needed
+      hint: Select percentage
+      type: select_one
+      options:
+      - 25 percent of camp fee
+      - 50 percent of camp fee
+      - 75 percent of camp fee
+      - 100 percent of camp fee
+      - Flexible
+      required: true
+    - id: 24
+      name: camp_session_requested
+      label: Camp Session Requested
+      hint: Which session
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      - Full summer
+      required: true
+    - id: 25
+      name: previous_campership_received
+      label: Have You Received Campership Before
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - previous years
+      - No - first time applying
+      required: true
+    - id: 26
+      name: how_would_camp_benefit_child
+      label: How Would Attending Camp Benefit Your Child
+      hint: Describe benefits
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: other_scholarships_applied
+      label: Have You Applied for Other Scholarships
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - pending
+      - Yes - received
+      - false
+      required: false
+    - id: 28
+      name: references
+      label: Can You Provide References
+      hint: If requested
+      type: select_one
+      options:
+      - Yes - upon request
+      - false
+      required: false
+    - id: 29
+      name: volunteer_interest
+      label: Are You Interested in Volunteering in Exchange
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - interested
+      - No - not able
+      required: false
+    - id: 30
+      name: payment_plan_interest
+      label: Would a Payment Plan Be Helpful
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - interested
+      - No - full assistance needed
+      required: false
+    - id: 31
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: parent_signature
+      label: Parent or Guardian Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true

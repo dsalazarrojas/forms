@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Plan Access Form
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      type: note
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      required: true
+    - id: 3
+      name: requester_title
+      label: Title or Role
+      hint: Your professional position
+      type: text
+      required: true
+    - id: 4
+      name: requester_organization
+      label: Organization Name
+      hint: Company or entity you represent
+      type: text
+      required: true
+    - id: 5
+      name: requester_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      required: true
+    - id: 6
+      name: requester_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      required: false
+    - id: 7
+      name: section_access_request
+      label: -- Access Request Details --
+      type: note
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Plan - Business Name
+      hint: Name of the business covered in the plan
+      type: text
+      required: true
+    - id: 9
+      name: access_reason
+      label: Reason for Accessing Business Plan
+      hint: Why do you need this plan
+      type: select_one
+      options:
+      - Investment Consideration
+      - Partnership Evaluation
+      - Strategic Planning
+      - Due Diligence
+      - Educational Purpose
+      - Other Reason
+      required: true
+    - id: 10
+      name: relationship_type
+      label: Your Relationship to the Business
+      hint: What is your connection
+      type: select_one
+      options:
+      - Investor
+      - Potential Partner
+      - Lender
+      - Advisor
+      - Consultant
+      - Other
+      required: true
+    - id: 11
+      name: section_investment_details
+      label: -- Investment or Interest Details --
+      type: note
+      required: false
+    - id: 12
+      name: investment_amount
+      label: Potential Investment Amount
+      hint: If applicable
+      type: number
+      required: false
+    - id: 13
+      name: investment_timeframe
+      label: Investment Timeframe
+      hint: When are you looking to invest
+      type: select_one
+      options:
+      - Immediate
+      - 3-6 months
+      - 6-12 months
+      - 1+ years
+      - Exploratory
+      required: false
+    - id: 14
+      name: section_confidentiality
+      label: -- Confidentiality Agreement --
+      type: note
+      required: false
+    - id: 15
+      name: confidentiality_agreement
+      label: I agree to keep the business plan confidential
+      hint: Confirm your commitment to confidentiality
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 16
+      name: nda_acceptance
+      label: I have read and accept the NDA terms
+      hint: Confirm understanding of non-disclosure agreement
+      type: select_one
+      options:
+      - Yes, I accept
+      - No, I do not accept
+      required: true
+    - id: 17
+      name: section_additional
+      label: -- Additional Information --
+      type: note
+      required: false
+    - id: 18
+      name: background_information
+      label: Background Information
+      hint: Tell us about your professional background
+      type: text
+      required: false
+    - id: 19
+      name: relevant_experience
+      label: Relevant Experience in This Industry
+      hint: Your expertise related to this business
+      type: text
+      required: false
+    - id: 20
+      name: request_submission_date
+      label: Request Submission Date
+      hint: Today's date
+      type: date
+      required: false

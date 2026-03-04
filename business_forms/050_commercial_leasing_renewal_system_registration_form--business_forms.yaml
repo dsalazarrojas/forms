@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Leasing Renewal System Registration Form
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Contact Title
+      hint: Position in company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_current_lease
+      label: -- Current Lease Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Current Property Address
+      hint: Address of leased space
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: suite_number
+      label: Suite Number
+      hint: Suite or unit number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_landlord
+      label: Current Landlord
+      hint: Landlord or management company
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: lease_start_date
+      label: Current Lease Start Date
+      hint: When did current lease begin
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: lease_end_date
+      label: Current Lease End Date
+      hint: When does lease expire
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: current_rent
+      label: Current Monthly Rent
+      hint: Current rent amount
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: square_footage
+      label: Current Square Footage
+      hint: Size of space
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_header_renewal_intent
+      label: -- Renewal Intent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: renewal_interest
+      label: Interest in Renewal
+      hint: Do you want to renew
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Considering Options
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 16
+      name: preferred_renewal_term
+      label: Preferred Renewal Term
+      hint: How long for new lease
+      type: select_one
+      options:
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      - 10 years
+      - Month-to-Month
+      required: true
+    - id: 17
+      name: desired_move_in_date
+      label: Desired Renewal Start Date
+      hint: When should new lease begin
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: section_header_space_requirements
+      label: -- Space Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: space_change
+      label: Space Size Change
+      hint: Do you need different size
+      type: select_one
+      options:
+      - Same Size
+      - Need More Space
+      - Need Less Space
+      - Unsure
+      required: true
+    - id: 20
+      name: additional_space_needed
+      label: Additional Space Needed
+      hint: How much more space
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: location_preference
+      label: Location Preference
+      hint: Same or different location
+      type: select_one
+      options:
+      - Same Location
+      - Same Building Different Floor
+      - Different Building Same Area
+      - Different Area
+      - Open to Options
+      required: true
+    - id: 22
+      name: section_header_requirements
+      label: -- Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: required_amenities
+      label: Required Amenities
+      hint: What amenities do you need
+      type: select_multiple
+      options:
+      - Parking
+      - Conference Rooms
+      - Kitchen/Break Room
+      - Reception Area
+      - Storage Space
+      - Loading Dock
+      - High-Speed Internet
+      - Security System
+      - HVAC
+      - Elevator Access
+      required: true
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_header_budget
+      label: -- Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: budget_range
+      label: Budget Range
+      hint: Monthly rent budget
+      type: select_one
+      options:
+      - Same as Current
+      - Up to 10% More
+      - Up to 20% More
+      - Need Reduction
+      - Flexible
+      required: true
+    - id: 27
+      name: tenant_improvements
+      label: Tenant Improvements Needed
+      hint: Do you need build-out
+      type: select_one
+      options:
+      - None
+      - Minor Updates
+      - Moderate Renovations
+      - Major Build-Out
+      - Custom Requirements
+      required: true
+    - id: 28
+      name: section_header_timeline
+      label: -- Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When will you decide
+      type: select_one
+      options:
+      - Within 1 month
+      - Within 2 months
+      - Within 3 months
+      - Before Lease Expires
+      - Undecided
+      required: true
+    - id: 30
+      name: section_header_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: current_satisfaction
+      label: Current Space Satisfaction
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 32
+      name: reason_for_change
+      label: Reason for Considering Change
+      hint: Why are you looking
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

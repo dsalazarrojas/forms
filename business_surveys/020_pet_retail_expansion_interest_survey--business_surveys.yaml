@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Retail Expansion Interest Survey
+    pages:
+    - id: 1
+      name: pet_retailer
+      label: Pet Retailer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: regions_of_interest
+      label: Regions of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Petland
+      - Petville
+      - Petburg
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pet_store
+      label: Pet Store
+      hint: null
+      type: select_one
+      options:
+      - Store A
+      - Store B
+      - Store C
+      required: false
+    - id: 7
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 8
+      name: pet_retail_expansion_interest
+      label: Pet Retail Expansion Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pet_retail_expansion_regions
+      label: Pet Retail Expansion Regions
+      hint: null
+      type: select_multiple
+      options:
+      - Region A
+      - Region B
+      - Region C
+      required: false
+    - id: 10
+      name: pet_retail_expansion_feedback
+      label: Pet Retail Expansion Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

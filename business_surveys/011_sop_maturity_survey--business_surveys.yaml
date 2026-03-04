@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: sop_maturity_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: review_cadence
+      label: Review Cadence
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      - Annually
+      - Ad-hoc
+      required: true
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Meetings
+      - Document
+      - Chatbot
+      - Other (please describe)
+      required: false
+    - id: 4
+      name: adherence_trends
+      label: Adherence Trends
+      hint: null
+      type: select_one
+      options:
+      - Increasing
+      - Stable
+      - Decreasing
+      required: false
+    - id: 5
+      name: review_process
+      label: Review Process
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Informal
+      - No Review Process
+      required: false
+    - id: 6
+      name: review_documentation
+      label: Review Documentation
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Informal
+      - No Documentation
+      required: false
+    - id: 7
+      name: sop_maturity_index
+      label: SOP Maturity Index
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      - Annually
+      - Ad-hoc
+      required: false
+    - id: 9
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Meetings
+      - Document
+      - Chatbot
+      - Other (please describe)
+      required: false
+    - id: 10
+      name: adherence_trends_description
+      label: Adherence Trends Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_process_description
+      label: Review Process Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_documentation_description
+      label: Review Documentation Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sop_maturity_index_description
+      label: SOP Maturity Index Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_frequency_description
+      label: Review Frequency Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: communication_channels_description
+      label: Communication Channels Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_cadence_description
+      label: Review Cadence Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_cycle
+      label: Review Cycle
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: review_cycle_description
+      label: Review Cycle Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_cycle_frequency
+      label: Review Cycle Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      - Annually
+      - Ad-hoc
+      required: false
+    - id: 20
+      name: cycle_duration
+      label: Cycle Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: cycle_duration_description
+      label: Cycle Duration Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: total_sop_count
+      label: Total SOP Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: active_sop_count
+      label: Active SOP Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: inactive_sop_count
+      label: Inactive SOP Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_pages
+      label: Total Pages
+      hint: null
+      type: number
+      options: []
+      required: false

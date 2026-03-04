@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Management Check In Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: weight_management_goals
+      label: Weight Management Goals
+      hint: null
+      type: select_one
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: true
+    - id: 4
+      name: workout_days_per_week
+      label: Workout Days per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: exercise_minutes_per_week
+      label: Exercise Minutes per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: healthy_foods_consumed
+      label: Healthy Foods Consumed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: unhealthy_foods_consumed
+      label: Unhealthy Foods Consumed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: water_consumption
+      label: Water Consumption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: weight_management_check_in_date
+      label: Weight Management Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: weight_management_check_in_time
+      label: Weight Management Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

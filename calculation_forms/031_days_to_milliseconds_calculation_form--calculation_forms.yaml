@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Days To Milliseconds Calculation Form
+    pages:
+    - id: 1
+      name: input_days
+      label: days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: input_milliseconds
+      label: milliseconds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: calculate_button
+      label: Calculate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: calculation_result
+      label: result
+      hint: null
+      type: note
+      options: []
+      required: false

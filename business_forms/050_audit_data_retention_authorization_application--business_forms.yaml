@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Data Retention Authorization Application
+    pages:
+    - id: 1
+      name: section_applicant
+      label: -- Applicant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: Person requesting the retention
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_org
+      label: Department/Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: audit_ref_number
+      label: Audit Reference Number
+      hint: The audit this data belongs to
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_data_details
+      label: -- Data Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: type_of_data
+      label: Primary Type of Data to be Retained
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial Records
+      - PII (Personally Identifiable Information)
+      - Internal IT/Technical Logs
+      - Legal/Contractual Documents
+      - Audit Evidence/Working Papers
+      required: true
+    - id: 7
+      name: data_format
+      label: Format of Data
+      hint: null
+      type: select_one
+      options:
+      - Digital - Cloud Storage
+      - Digital - Local Server/HD
+      - Physical - Hard Copy
+      - Physical - Magnetic Media
+      required: true
+    - id: 8
+      name: section_retention_specs
+      label: -- Retention Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: retention_period_years
+      label: Requested Retention Period (Years)
+      hint: Total years after audit completion
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: retention_justification
+      label: Justification for Retention
+      hint: Why must this data be kept beyond standard policy?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: compliance_standard
+      label: Relevant Compliance Standard
+      hint: null
+      type: select_one
+      options:
+      - GDPR/Privacy Regulations
+      - HIPAA (Healthcare)
+      - SOC2/Auditing Standards
+      - IRS/Financial Regulations
+      - Internal Corporate Policy
+      required: true
+    - id: 12
+      name: section_security
+      label: -- Security and Disposal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: storage_method_security
+      label: Security Controls for Retention
+      hint: e.g., Encryption, Locked Cabinet, Access Control
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: planned_deletion_date
+      label: Planned Final Deletion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: data_custodian_name
+      label: Data Custodian Name
+      hint: Person responsible for the secure storage and disposal
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_approval
+      label: -- Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: signature_acknowledgment
+      label: I acknowledge my responsibility for the secure retention of this data
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 18
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: digital_signature
+      label: Applicant Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

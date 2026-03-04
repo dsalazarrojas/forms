@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Shipment Check Out Form
+    pages:
+    - id: 1
+      name: first_page
+      label: shipment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_info
+      label: payment_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipment_details_shipping_info
+      label: shipment_details_shipping_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Pay with Credit Card
+      - Pay with Cash
+      required: false
+    - id: 5
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_multiple
+      options:
+      - Ground
+      - Express
+      - Air
+      - Sea
+      required: false
+    - id: 6
+      name: shipment_details_shipment_date
+      label: shipment_details_shipment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: shipment_details_shipment_time
+      label: shipment_details_shipment_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: shipment_details_shipment_note
+      label: shipment_details_shipment_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: shipment_details_shipment_address
+      label: shipment_details_shipment_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_info_shipment_fee
+      label: payment_info_shipment_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_info_shipment_payment_method
+      label: payment_info_shipment_payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - Pay with Credit Card
+      - Pay with Cash
+      required: false
+    - id: 12
+      name: payment_info_shipment_payment_status
+      label: payment_info_shipment_payment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false
+    - id: 13
+      name: payment_info_shipment_total
+      label: payment_info_shipment_total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: payment_info_shipment_currency
+      label: payment_info_shipment_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - GBP
+      required: false

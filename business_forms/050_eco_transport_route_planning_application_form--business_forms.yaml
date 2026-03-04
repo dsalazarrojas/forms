@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Transport Route Planning Application Form
+    pages:
+    - id: 1
+      name: start_location
+      label: start_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_city
+      label: start_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: end_location
+      label: end_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: end_city
+      label: end_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transport_type
+      label: transport_type
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Train
+      - Bus
+      - Car
+      - Bicycle
+      required: false
+    - id: 6
+      name: distance
+      label: distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: route_notes
+      label: route_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

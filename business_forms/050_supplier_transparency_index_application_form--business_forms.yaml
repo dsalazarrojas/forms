@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplier Transparency Index Application Form
+    pages:
+    - id: 1
+      name: supplier_info
+      label: Supplier Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ethics_info_1
+      label: Ethics Info 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: ethics_info_2
+      label: Ethics Info 2
+      hint: Please provide additional information about ethics
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: certifications
+      label: Certifications
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: certifications_2
+      label: Certifications 2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option4
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter supplier email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: supplier_comments
+      label: Supplier Comments
+      hint: null
+      type: note
+      options: []
+      required: false

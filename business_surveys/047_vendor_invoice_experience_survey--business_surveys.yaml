@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Invoice Experience Survey
+    pages:
+    - id: 1
+      name: vendor_invoice_id
+      label: Invoice ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: invoice_date
+      label: Invoice Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
+      - '{''value'': ''Check'', ''label'': ''Check''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''Email'', ''label'': ''Email''}'
+      - '{''value'': ''In Person'', ''label'': ''In Person''}'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_terms_frequency
+      label: Payment Terms Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
+      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
+      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''Quarterly'', ''label'': ''Quarterly''}'
+      - '{''value'': ''Annually'', ''label'': ''Annually''}'
+      - '{''value'': ''On Demand'', ''label'': ''On Demand''}'
+      required: true
+    - id: 11
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Once'', ''label'': ''Once''}'
+      - '{''value'': ''Reoccurring'', ''label'': ''Reoccurring''}'
+      - '{''value'': ''On Demand'', ''label'': ''On Demand''}'
+      required: true
+    - id: 13
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
+      - '{''value'': ''Check'', ''label'': ''Check''}'
+      - '{''value'': ''Online Transfer'', ''label'': ''Online Transfer''}'
+      required: true
+    - id: 14
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Paid'', ''label'': ''Paid''}'
+      - '{''value'': ''Unpaid'', ''label'': ''Unpaid''}'
+      - '{''value'': ''Partially Paid'', ''label'': ''Partially Paid''}'
+      required: true
+    - id: 15
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vendor_comments
+      label: Vendor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vendor_feedback
+      label: Vendor Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: report
+      label: Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: payment_method_other
+      label: Payment Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_term_other
+      label: Payment Terms Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_method_other
+      label: Contact Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments_other
+      label: Comments Other
+      hint: null
+      type: text
+      options: []
+      required: false

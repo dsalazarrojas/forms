@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily transportation fee survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: commute_method
+      label: Commute Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: frequency
+      label: Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transportation_mode
+      label: Transportation Mode
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: distance
+      label: Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hours_commute
+      label: Hours Commute
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: cost_frequency
+      label: Cost
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: cost_frequency
+      label: Cost
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: cost_vehicles
+      label: Cost
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: satisfaction_mode
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

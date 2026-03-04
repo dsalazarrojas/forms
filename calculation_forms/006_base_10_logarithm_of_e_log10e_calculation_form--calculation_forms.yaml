@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Base 10 Logarithm Of E (LOG10E) Calculation Form
+    pages:
+    - id: 1
+      name: user_information_header
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: calculation_header
+      label: -- Logarithm Calculation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: input_number
+      label: Input Number
+      hint: Enter the number for which you want to calculate the base-10 logarithm
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: calculation_method_note
+      label: This form calculates the Base-10 logarithm based on the entered value.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: log10e_constant_used
+      label: Constant Used (Log10 of e)
+      hint: Approximately 0.43429
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: calculation_date
+      label: Date of Calculation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: purpose_of_calculation
+      label: Purpose of this calculation
+      hint: null
+      type: select_one
+      options:
+      - Academic Research
+      - Professional Engineering
+      - Statistical Analysis
+      - Personal Interest
+      required: false
+    - id: 10
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

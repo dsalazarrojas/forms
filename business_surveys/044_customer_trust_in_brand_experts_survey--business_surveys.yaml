@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Trust In Brand Experts Survey
+    pages:
+    - id: 1
+      name: customer_trust_in_brand_experts
+      label: How Well Do You Know Our Customer Service Team
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Very Well''}'
+      - '{''text'': ''Well''}'
+      - '{''text'': ''Somewhat''}'
+      - '{''text'': ''Not Well''}'
+      required: true
+    - id: 2
+      name: trust_in_experts
+      label: Overall How Much Do You Trust Our Brand Experts
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expert_experience
+      label: Based On Your Experience With Us, How Would You Rate Our Brand Experts
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Excellent''}'
+      - '{''text'': ''Good''}'
+      - '{''text'': ''Fair''}'
+      - '{''text'': ''Poor''}'
+      required: true
+    - id: 4
+      name: customer_comments
+      label: Please Share Any Additional Comments You May Have
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: How Would You Like To Be Contacted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Phone''}'
+      - '{''text'': ''Email''}'
+      - '{''text'': ''SMS''}'
+      required: true
+    - id: 6
+      name: customer_service
+      label: How Was Your Overall Experience With Our Customer Service
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Excellent''}'
+      - '{''text'': ''Good''}'
+      - '{''text'': ''Fair''}'
+      - '{''text'': ''Poor''}'
+      required: true
+    - id: 7
+      name: expert_availability
+      label: How Often Do You Expect Our Experts To Be Available
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Always''}'
+      - '{''text'': ''Most Days''}'
+      - '{''text'': ''Some Days''}'
+      - '{''text'': ''Never''}'
+      required: true
+    - id: 8
+      name: customer_experience
+      label: Based On Your Experience, How Would You Rate Our Overall Customer Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Please Share Any Additional Comments You May Have
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: mode_selection_survey
+    pages:
+    - id: 1
+      name: mode_selection
+      label: Mode Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 2
+      name: mode_usage_frequency
+      label: Mode Usage Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-20
+      - 21-30
+      - 31-40
+      - 41-50
+      required: true
+    - id: 3
+      name: mode_satisfaction
+      label: Mode Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: mode_suggestions
+      label: Mode Suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mode_comments
+      label: Mode Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category_selection
+      label: Category Selection
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: true
+    - id: 7
+      name: category_comments
+      label: Category Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category_satisfaction
+      label: Category Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: category_suggestions
+      label: Category Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category_comments_2
+      label: Category Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mode_satisfaction_average
+      label: Mode Satisfaction Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: mode_satisfaction_max
+      label: Mode Satisfaction Max
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: mode_suggestions_average
+      label: Mode Suggestions Average
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: mode_satisfaction_sum
+      label: Mode Satisfaction Sum
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: category_satisfaction_average
+      label: Category Satisfaction Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: category_satisfaction_sum
+      label: Category Satisfaction Sum
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: mode_selection_average
+      label: Mode Selection Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: category_selection_average
+      label: Category Selection Average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: mode_satisfaction_max_sum
+      label: Mode Satisfaction Max Sum
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: category_satisfaction_max_sum
+      label: Category Satisfaction Max Sum
+      hint: null
+      type: number
+      options: []
+      required: false

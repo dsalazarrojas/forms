@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Trip Vehicle Checklist Form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Car
+      - Truck
+      - Motorcycle
+      - RV
+      required: false
+    - id: 2
+      name: fuel_level
+      label: Fuel Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tire_pressure
+      label: Tire Pressure
+      hint: Check tire pressure regularly.
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fluid_levels
+      label: Fluid Levels
+      hint: null
+      type: select_multiple
+      options:
+      - Oil
+      - Brake Fluid
+      - Coolant
+      - Power Steering Fluid
+      - Transmission Fluid
+      required: false
+    - id: 5
+      name: brake_pad
+      label: Brake Pads
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      required: false
+    - id: 6
+      name: air_filter
+      label: Air Filter
+      hint: null
+      type: select_one
+      options:
+      - Clean
+      - Dirty
+      required: false
+    - id: 7
+      name: battery_level
+      label: Battery Level
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Low
+      required: false
+    - id: 8
+      name: parking_brakes
+      label: Parking Brakes
+      hint: null
+      type: select_one
+      options:
+      - Engaged
+      - Disengaged
+      required: false
+    - id: 9
+      name: seatbelts
+      label: Seatbelts
+      hint: null
+      type: select_one
+      options:
+      - Fastened
+      - Unfastened
+      required: false
+    - id: 10
+      name: mirrors
+      label: Mirrors
+      hint: null
+      type: select_one
+      options:
+      - Adjusted
+      - Not Adjusted
+      required: false
+    - id: 11
+      name: license_plate
+      label: License Plate
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_license
+      label: Vehicle License
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      required: false
+    - id: 13
+      name: roadside_assistance
+      label: Roadside Assistance
+      hint: null
+      type: select_multiple
+      options:
+      - AAA
+      - Roadside
+      - Insurance
+      required: false
+    - id: 14
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Numbers
+      - Insurance Card
+      required: false
+    - id: 15
+      name: vehicle_docs
+      label: Vehicle Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Registration
+      - Insurance Card
+      - Vehicle Title
+      required: false
+    - id: 16
+      name: spare_tire
+      label: Spare Tire
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 17
+      name: first_aid_kit
+      label: First Aid Kit
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 18
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 19
+      name: reflector_flares
+      label: Reflector Flares
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 20
+      name: jack_and_wrench
+      label: Jack And Wrench
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 21
+      name: spare_battery
+      label: Spare Battery
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 22
+      name: jumper_cables
+      label: Jumper Cables
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 23
+      name: reflector_flares
+      label: Reflector Flares
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 24
+      name: reflective_vest
+      label: Reflective Vest
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 25
+      name: emergency_ration
+      label: Emergency Ration
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false

@@ -1,0 +1,267 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Control Community Perception Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Name
+      hint: Optional - may remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Optional - for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: zip_code
+      label: ZIP Code
+      hint: Your area
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: survey_intro
+      label: Animal Control Community Perception Survey
+      hint: Help us improve animal control services in our community
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: residency_status
+      label: How Long Have You Lived in This Community
+      hint: Residency duration
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - 6-10 years
+      - 11-20 years
+      - More than 20 years
+      required: true
+    - id: 6
+      name: pet_ownership
+      label: Do You Currently Own Pets
+      hint: Pet ownership status
+      type: select_one
+      options:
+      - Yes - dogs
+      - Yes - cats
+      - Yes - both dogs and cats
+      - Yes - other animals
+      - No - no pets
+      required: true
+    - id: 7
+      name: awareness_services
+      label: How Aware Are You of Animal Control Services in Your Area
+      hint: Awareness level
+      type: select_one
+      options:
+      - Very aware
+      - Somewhat aware
+      - Neutral
+      - Not very aware
+      - Not aware at all
+      required: true
+    - id: 8
+      name: contact_history
+      label: Have You Ever Contacted Animal Control
+      hint: Previous contact
+      type: select_one
+      options:
+      - Yes - multiple times
+      - Yes - once
+      - No - never
+      required: true
+    - id: 9
+      name: contact_reason
+      label: If Yes, What Was the Reason
+      hint: Reason for contact
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: response_satisfaction
+      label: How Satisfied Were You with the Response
+      hint: Satisfaction level
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Did not contact
+      required: false
+    - id: 11
+      name: service_quality
+      label: How Would You Rate the Overall Quality of Animal Control Services
+      hint: Quality rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Don't know
+      required: true
+    - id: 12
+      name: response_time
+      label: How Would You Rate Response Times
+      hint: Speed rating
+      type: select_one
+      options:
+      - Excellent - very fast
+      - Good - reasonably fast
+      - Fair - acceptable
+      - Poor - too slow
+      - Very poor - unacceptably slow
+      - Don't know
+      required: false
+    - id: 13
+      name: officer_professionalism
+      label: How Would You Rate Officer Professionalism
+      hint: Professionalism rating
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - No interaction
+      required: false
+    - id: 14
+      name: community_safety
+      label: Do You Feel Animal Control Makes Your Community Safer
+      hint: Safety perception
+      type: select_one
+      options:
+      - Yes - significantly
+      - Yes - somewhat
+      - Neutral
+      - No - not really
+      - No - not at all
+      required: true
+    - id: 15
+      name: common_issues
+      label: What Animal-Related Issues Are Most Common in Your Area
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Stray dogs
+      - Stray cats
+      - Barking dogs
+      - Aggressive animals
+      - Wildlife conflicts
+      - Animal waste
+      - Unlicensed pets
+      - Animal neglect
+      - None
+      required: true
+    - id: 16
+      name: concern_level
+      label: How Concerned Are You About Stray Animals in Your Neighborhood
+      hint: Concern level
+      type: select_one
+      options:
+      - Very concerned
+      - Somewhat concerned
+      - Neutral
+      - Not very concerned
+      - Not concerned at all
+      required: true
+    - id: 17
+      name: enforcement_priority
+      label: What Should Be the Top Priority for Animal Control
+      hint: Priority
+      type: select_one
+      options:
+      - Public safety
+      - Animal welfare
+      - Education and outreach
+      - Enforcement of laws
+      - Lost and found pets
+      - Wildlife management
+      required: true
+    - id: 18
+      name: program_interest
+      label: Which Programs Would You Support
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Low-cost vaccination clinics
+      - Spay and neuter programs
+      - Pet food assistance
+      - Lost pet recovery
+      - Wildlife education
+      - Responsible ownership classes
+      - None
+      required: false
+    - id: 19
+      name: communication_preference
+      label: How Would You Prefer to Receive Information
+      hint: Communication method
+      type: select_multiple
+      options:
+      - Email newsletter
+      - Social media
+      - Community meetings
+      - Mail
+      - Website
+      - Mobile app
+      required: false
+    - id: 20
+      name: willingness_volunteer
+      label: Would You Be Interested in Volunteering
+      hint: Volunteer interest
+      type: select_one
+      options:
+      - Yes - very interested
+      - Yes - maybe
+      - No - not interested
+      required: false
+    - id: 21
+      name: funding_support
+      label: Would You Support Increased Funding for Animal Control
+      hint: Funding support
+      type: select_one
+      options:
+      - Yes - definitely
+      - Yes - with conditions
+      - No - current funding is adequate
+      - No - should be reduced
+      required: false
+    - id: 22
+      name: additional_feedback
+      label: Do You Have Any Additional Feedback or Suggestions
+      hint: Comments
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_interest
+      label: Would You Be Willing to Participate in a Follow-up Interview
+      hint: Follow-up
+      type: select_one
+      options:
+      - Yes - happy to help
+      - Maybe - depends on topic
+      - No
+      required: false

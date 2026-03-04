@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: marina_scheduling_survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Marina Scheduling Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_date
+      label: arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: earliest_arrival_time
+      label: earliest_arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: earliest_departure_time
+      label: earliest_departure_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: preferred_arrival_date
+      label: preferred_arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_arrival_time
+      label: preferred_arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: earliest_arrival_time_preference
+      label: earliest_arrival_time_preference
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''morning''}'
+      - '{''id'': 2, ''label'': ''afternoon''}'
+      - '{''id'': 3, ''label'': ''evening''}'
+      required: false
+    - id: 8
+      name: latest_departure_time_preference
+      label: latest_departure_time_preference
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''morning''}'
+      - '{''id'': 2, ''label'': ''afternoon''}'
+      - '{''id'': 3, ''label'': ''evening''}'
+      required: false
+    - id: 9
+      name: preferred_arrival_day
+      label: preferred_arrival_day
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monday''}'
+      - '{''id'': 2, ''label'': ''Tuesday''}'
+      - '{''id'': 3, ''label'': ''Wednesday''}'
+      - '{''id'': 4, ''label'': ''Thursday''}'
+      - '{''id'': 5, ''label'': ''Friday''}'
+      - '{''id'': 6, ''label'': ''Saturday''}'
+      - '{''id'': 7, ''label'': ''Sunday''}'
+      required: false
+    - id: 10
+      name: preferred_length_of_stay
+      label: preferred_length_of_stay
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: earliest_arrival
+      label: earliest_arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: latest_departure
+      label: latest_departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: boat_length
+      label: boat_length
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''15 feet''}'
+      - '{''id'': 2, ''label'': ''20 feet''}'
+      - '{''id'': 3, ''label'': ''25 feet''}'
+      required: false
+    - id: 14
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''email''}'
+      - '{''id'': 2, ''label'': ''phone''}'
+      - '{''id'': 3, ''label'': ''text''}'
+      required: false
+    - id: 15
+      name: contact_preference
+      label: contact_preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''call''}'
+      - '{''id'': 2, ''label'': ''email''}'
+      - '{''id'': 3, ''label'': ''text''}'
+      required: false
+    - id: 16
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: boat_type
+      label: boat_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''sailboat''}'
+      - '{''id'': 2, ''label'': ''powerboat''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: false
+    - id: 19
+      name: boat_size
+      label: boat_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: marina_location
+      label: marina_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''location1''}'
+      - '{''id'': 2, ''label'': ''location2''}'
+      - '{''id'': 3, ''label'': ''location3''}'
+      required: false

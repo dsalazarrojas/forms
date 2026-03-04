@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dining Out Decision Checklist
+    pages:
+    - id: 1
+      name: group_preferences
+      label: Group Preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vegetarian_diet
+      label: Vegetarian Diet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: gluten_free_food
+      label: Gluten Free Food
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: dairy_free
+      label: Dairy Free Food
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: no_seasfood
+      label: No Seafood
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: no_nuts
+      label: No Nuts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: other_restrictions
+      label: Other Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: smoking_section
+      label: Smoking Section
+      hint: Is there a smoking section in the restaurant?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parking_facility
+      label: Parking Facility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: outdoor_seating
+      label: Outdoor Seating
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: credit_card_accepted
+      label: Credit Card Accepted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: dining_hours
+      label: Dining Hours
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: reservation_required
+      label: Reservation Required
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: dining_location
+      label: Dining Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: address
+      label: Address
+      hint: Street address or name of location
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

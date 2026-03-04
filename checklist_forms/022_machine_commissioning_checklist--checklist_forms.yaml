@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Commissioning Checklist
+    pages:
+    - id: 1
+      name: machine_setup_check
+      label: Machine Setup Check
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: commissioning_procedure
+      label: Commissioning Procedure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: safety_precautions
+      label: Safety Precautions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: test_run
+      label: Test Run
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: commissioning_status
+      label: Commissioning Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: maintenance_plan
+      label: Maintenance Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: commissioning_checklist_completion
+      label: Commissioning Checklist Completion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

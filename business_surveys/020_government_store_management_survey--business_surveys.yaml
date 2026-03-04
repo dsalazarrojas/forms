@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Store Management Survey
+    pages:
+    - id: 1
+      name: store_location
+      label: store location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_id
+      label: manager id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: store_manager_id
+      label: store manager id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_frequency
+      label: feedback frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback_method
+      label: feedback method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_type
+      label: feedback type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 7
+      name: store_hours
+      label: store hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: store_hours_sunday
+      label: store hours sunday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback_date
+      label: feedback date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: feedback_time
+      label: feedback time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: feedback_note
+      label: feedback note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: feedback_email
+      label: feedback email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: feedback_phone
+      label: feedback phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback_location
+      label: feedback location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: store_manager_note
+      label: store manager note
+      hint: null
+      type: note
+      options: []
+      required: false

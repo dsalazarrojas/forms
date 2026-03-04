@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Before And After School Care Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: section_child
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: child_full_name
+      label: Child Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: child_grade
+      label: Grade Level
+      hint: null
+      type: select_one
+      options:
+      - K
+      - 1st
+      - 2nd
+      - 3rd
+      - 4th
+      - 5th
+      - 6th
+      required: true
+    - id: 6
+      name: school_name
+      label: Current School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_caregiver
+      label: -- Primary Caregiver Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: caregiver_full_name
+      label: Caregiver Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: relationship_to_child
+      label: Relationship to Child
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Other Family
+      - Foster Parent
+      required: true
+    - id: 10
+      name: primary_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: secondary_phone
+      label: Secondary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_emergency
+      label: -- Emergency Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: If not available at primary contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: relationship_emergency
+      label: Relationship to Child
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_program
+      label: -- Program Enrollment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: before_school_enrolled
+      label: Enrolling in Before School Care
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: after_school_enrolled
+      label: Enrolling in After School Care
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: days_per_week
+      label: Days Per Week Needed
+      hint: null
+      type: select_one
+      options:
+      - 1 Day
+      - 2 Days
+      - 3 Days
+      - 4 Days
+      - 5 Days
+      required: true

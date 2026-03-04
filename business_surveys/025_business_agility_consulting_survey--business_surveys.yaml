@@ -1,0 +1,314 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Agility Consulting Survey
+    pages:
+      - id: 1
+        name: organization_info
+        label: Organization Information
+        hint: About your organization
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: organization_name
+        label: Organization Name
+        hint: Name of your organization
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: industry
+        label: Industry
+        hint: Your industry sector
+        type: select_one
+        options:
+        - Technology
+        - Healthcare
+        - Finance
+        - Manufacturing
+        - Retail
+        - Professional Services
+        - Education
+        - Government
+        - Other
+        required: true
+      - id: 4
+        name: organization_size
+        label: Organization Size
+        hint: Number of employees
+        type: select_one
+        options:
+        - 1-10 employees
+        - 11-50 employees
+        - 51-200 employees
+        - 201-500 employees
+        - 501-1000 employees
+        - More than 1000 employees
+        required: true
+      - id: 5
+        name: respondent_role
+        label: Your Role
+        hint: Your position
+        type: select_one
+        options:
+        - C-Level Executive
+        - Director
+        - Manager
+        - Team Lead
+        - Individual Contributor
+        - Consultant
+        - Other
+        required: true
+      - id: 6
+        name: agility_maturity
+        label: Agility Maturity
+        hint: Current state of agility
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: agility_experience
+        label: Agility Experience
+        hint: How long has your organization practiced agility
+        type: select_one
+        options:
+        - Not Started
+        - Less than 1 Year
+        - 1-2 Years
+        - 2-5 Years
+        - More than 5 Years
+        required: true
+      - id: 8
+        name: current_frameworks
+        label: Current Frameworks
+        hint: Which frameworks do you use
+        type: select_multiple
+        options:
+        - Scrum
+        - Kanban
+        - Lean
+        - SAFe
+        - LeSS
+        - XP
+        - DevOps
+        - None
+        - Other
+        required: true
+      - id: 9
+        name: teams_using_agile
+        label: Teams Using Agile
+        hint: What percentage of teams use agile
+        type: select_one
+        options:
+        - 0-25%
+        - 26-50%
+        - 51-75%
+        - 76-100%
+        required: true
+      - id: 10
+        name: leadership_support
+        label: Leadership Support
+        hint: How supportive is leadership
+        type: select_one
+        options:
+        - Very Supportive
+        - Supportive
+        - Neutral
+        - Resistant
+        - Very Resistant
+        required: true
+      - id: 11
+        name: agility_dimensions
+        label: Agility Dimensions
+        hint: Rate various aspects of agility
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: strategic_clarity
+        label: Strategic Clarity
+        hint: How clear is your organizational strategy
+        type: select_one
+        options:
+        - Very Clear
+        - Clear
+        - Somewhat Clear
+        - Unclear
+        - Very Unclear
+        required: true
+      - id: 13
+        name: customer_focus
+        label: Customer Focus
+        hint: How customer-centric is your organization
+        type: select_one
+        options:
+        - Very Customer-Focused
+        - Customer-Focused
+        - Somewhat Customer-Focused
+        - Not Very Customer-Focused
+        - Not Customer-Focused
+        required: true
+      - id: 14
+        name: decision_making_speed
+        label: Decision Making Speed
+        hint: How quickly are decisions made
+        type: select_one
+        options:
+        - Very Fast
+        - Fast
+        - Average
+        - Slow
+        - Very Slow
+        required: true
+      - id: 15
+        name: team_autonomy
+        label: Team Autonomy
+        hint: How much autonomy do teams have
+        type: select_one
+        options:
+        - Very High
+        - High
+        - Moderate
+        - Low
+        - Very Low
+        required: true
+      - id: 16
+        name: collaboration
+        label: Cross-Functional Collaboration
+        hint: How well do teams collaborate
+        type: select_one
+        options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very Poor
+        required: true
+      - id: 17
+        name: innovation_culture
+        label: Innovation Culture
+        hint: How innovative is your culture
+        type: select_one
+        options:
+        - Very Innovative
+        - Innovative
+        - Somewhat Innovative
+        - Not Very Innovative
+        - Not Innovative
+        required: true
+      - id: 18
+        name: change_adaptability
+        label: Change Adaptability
+        hint: How well does organization adapt to change
+        type: select_one
+        options:
+        - Excellent
+        - Good
+        - Average
+        - Poor
+        - Very Poor
+        required: true
+      - id: 19
+        name: challenges
+        label: Challenges
+        hint: What obstacles do you face
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: main_challenges
+        label: Main Challenges
+        hint: Select your top challenges
+        type: select_multiple
+        options:
+        - Resistance to Change
+        - Lack of Training
+        - Inadequate Tools
+        - Poor Leadership Support
+        - Siloed Departments
+        - Legacy Systems
+        - Unclear Goals
+        - Resource Constraints
+        - Other
+        required: true
+      - id: 21
+        name: biggest_obstacle
+        label: Biggest Obstacle
+        hint: What is your single biggest obstacle
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: consulting_needs
+        label: Consulting Needs
+        hint: What help do you need
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: services_needed
+        label: Services Needed
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Agility Assessment
+        - Training Programs
+        - Team Coaching
+        - Leadership Coaching
+        - Process Improvement
+        - Organizational Design
+        - Change Management
+        - Tool Implementation
+        - Other
+        required: true
+      - id: 24
+        name: budget_range
+        label: Budget Range
+        hint: Expected investment range
+        type: select_one
+        options:
+        - Under $10,000
+        - $10,000-$50,000
+        - $50,000-$100,000
+        - $100,000-$250,000
+        - More than $250,000
+        - Not Determined
+        required: false
+      - id: 25
+        name: timeline
+        label: Implementation Timeline
+        hint: When do you want to start
+        type: select_one
+        options:
+        - Immediately
+        - Within 1 Month
+        - Within 3 Months
+        - Within 6 Months
+        - Just Exploring
+        required: true
+      - id: 26
+        name: success_metrics
+        label: Success Metrics
+        hint: How will you measure success
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other insights
+        type: text
+        options: []
+        required: false

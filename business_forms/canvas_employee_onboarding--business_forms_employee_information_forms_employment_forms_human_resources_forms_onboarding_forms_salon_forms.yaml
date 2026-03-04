@@ -1,0 +1,250 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: (CANVAS) Employee Onboarding
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred name
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: Work email preferred for payroll and scheduling
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Primary phone number
+      hint: Include country code if outside the US
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: Used for benefits eligibility; optional
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Home address
+      hint: Street, city, state/region, postal code
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_emergency
+      label: '--- Emergency & Health ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Primary contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Include country code if applicable
+      type: phone
+      options: []
+      required: true
+    - id: 11
+      name: emergency_medical_info
+      label: Medical information (allergies, conditions)
+      hint: List any allergies, medications or conditions we should know about
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_job
+      label: '--- Position & Scheduling ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: position_applied
+      label: Position / role
+      hint: e.g., Stylist, Assistant, Receptionist
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Hair
+      - Nails
+      - Skin
+      - Front Desk
+      - Management
+      - Other
+      required: true
+    - id: 15
+      name: job_title
+      label: Job title
+      hint: Official title for payroll records
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: hire_date
+      label: Date of hire
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: first_day_time
+      label: Planned arrival time on first day
+      hint: "Enter local time (HH:MM)"
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: availability
+      label: Typical availability (select all that apply)
+      hint: Choose all shifts you can regularly work
+      type: select_multiple
+      options:
+      - Weekday mornings
+      - Weekday afternoons
+      - Weekday evenings
+      - Weekend mornings
+      - Weekend afternoons
+      - Weekend evenings
+      required: true
+    - id: 19
+      name: hourly_rate
+      label: Agreed hourly rate
+      hint: Enter amount in local currency (decimal allowed)
+      type: decimal
+      options: []
+      required: true
+    - id: 20
+      name: uniform_size
+      label: Uniform/shirt size
+      hint: If ordering a uniform
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      required: false
+    - id: 21
+      name: equipment_needed
+      label: Equipment or supplies needed
+      hint: Select items the employee needs provided
+      type: select_multiple
+      options:
+      - Scissors and shears
+      - Clippers
+      - Towels and linens
+      - Protective apron
+      - Styling tools kit
+      - Product samples
+      required: false
+    - id: 22
+      name: certifications
+      label: Professional certifications/licenses
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cosmetology license
+      - Nail technician license
+      - Esthetician license
+      - CPR / First Aid
+      - Brand product training
+      - Other
+      required: false
+    - id: 23
+      name: payroll_forms_completed
+      label: Payroll and tax paperwork completed
+      hint: Required before first paycheck
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: management_rating
+      label: How would you rate communication from management?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 25
+      name: onboarding_satisfaction
+      label: How satisfied are you with (CANVAS) Employee Onboarding?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 26
+      name: improvement_suggestions
+      label: What could improve your experience at work?
+      hint: Describe any suggestions for training, scheduling, or support
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Open field for anything else you'd like to add
+      type: text
+      options: []
+      required: false

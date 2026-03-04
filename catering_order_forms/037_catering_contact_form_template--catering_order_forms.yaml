@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Contact Form Template
+    pages:
+    - id: 1
+      name: contact_intro_header
+      label: -- Catering Inquiry --
+      hint: Complete this form to start a conversation with our catering team
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name_org
+      label: Company Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_inquiry_details
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_date_if_known
+      label: Date of Event (if confirmed)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: estimated_guests
+      label: Estimated Guest Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: inquiry_message
+      label: How can we help you with your event
+      hint: Describe your needs, menu interests, or questions
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preferred_contact_method
+      label: Preferred Method of Contact
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: true
+    - id: 11
+      name: best_contact_time
+      label: Best Time of Day to Reach You
+      hint: null
+      type: select_one
+      options:
+      - Morning (8:00 AM - 12:00 PM)
+      - Afternoon (12:00 PM - 5:00 PM)
+      - Evening (5:00 PM - 8:00 PM)
+      required: false
+    - id: 12
+      name: hearing_source
+      label: Where did you find our contact information
+      hint: null
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Referral from a Friend
+      - Industry Directory
+      - Billboard or Signage
+      required: false
+    - id: 13
+      name: initial_budget_range
+      label: Approximate Budget Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_confirmation_ack
+      label: I understand that my inquiry will be responded to within 48 business
+        hours
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true

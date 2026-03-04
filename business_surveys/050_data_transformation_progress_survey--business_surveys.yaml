@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Transformation Progress Survey
+    pages:
+    - id: 1
+      name: project_milestone
+      label: Project Milestone
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: progress_percentage
+      label: Progress Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: adoption_level
+      label: Adoption Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4.1, ''name'': ''adoption_level_option_1'', ''label'': ''Adoption
+        Option 1''}'
+      - '{''id'': 4.2, ''name'': ''adoption_level_option_2'', ''label'': ''Adoption
+        Option 2''}'
+      - '{''id'': 4.3, ''name'': ''adoption_level_option_3'', ''label'': ''Adoption
+        Option 3''}'
+      required: false
+    - id: 5
+      name: adoption_level_option_1
+      label: Adoption Option 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''name'': ''adoption_level_option_1_label'', ''label'': ''Adoption
+        Option 1''}'
+      - '{''id'': 5.2, ''name'': ''adoption_level_option_2_label'', ''label'': ''Adoption
+        Option 2''}'
+      - '{''id'': 5.3, ''name'': ''adoption_level_option_3_label'', ''label'': ''Adoption
+        Option 3''}'
+      required: false
+    - id: 6
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6.1, ''name'': ''feedback_rating_option_1'', ''label'': ''Feedback
+        Option 1''}'
+      - '{''id'': 6.2, ''name'': ''feedback_rating_option_2'', ''label'': ''Feedback
+        Option 2''}'
+      - '{''id'': 6.3, ''name'': ''feedback_rating_option_3'', ''label'': ''Feedback
+        Option 3''}'
+      required: false

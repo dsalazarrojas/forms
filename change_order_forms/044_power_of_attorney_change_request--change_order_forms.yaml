@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Of Attorney Change Request
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Name of requester
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Email of requester
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Phone of requester
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: change_date
+      label: Change Date
+      hint: Date of change
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: change_reason
+      label: Reason
+      hint: Reason for change
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approver_name
+      label: Approver Name
+      hint: Name of approver
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approver_phone
+      label: Approver Phone
+      hint: Phone of approver
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approver_email
+      label: Approver Email
+      hint: Email of approver
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: review_note
+      label: Review Note
+      hint: Additional review notes
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_signature
+      label: Form Signature
+      hint: Form signature
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: approver_signature
+      label: Approver Signature
+      hint: Approver signature
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_approved
+      label: Date Approved
+      hint: Date approved
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: Reviewer signature
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approver_note
+      label: Approver Note
+      hint: Additional approver notes
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Approved with Conditions
+      - Rejected
+      - Pending
+      - In Progress
+      - Completed
+      - Closed
+      - Awaiting
+      required: false
+    - id: 17
+      name: status_note
+      label: Status Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer
+      label: Reviewer
+      hint: Reviewer
+      type: select_one
+      options:
+      - Jimmy
+      - John
+      - Jane
+      - Doe
+      - Jane Doe
+      - John and Jane
+      required: false
+    - id: 19
+      name: date_reviewed
+      label: Date Reviewed
+      hint: Date reviewed
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_note
+      label: Reviewer Note
+      hint: Additional reviewer notes
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: approver_name2
+      label: Approver Name 2
+      hint: Name of approver 2
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approver_phone2
+      label: Approver Phone 2
+      hint: Phone of approver 2
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approver_email2
+      label: Approver Email 2
+      hint: Email of approver 2
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: approver_note2
+      label: Approver Note 2
+      hint: Additional approver 2 notes
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: date_approved2
+      label: Date Approved 2
+      hint: Date Approved 2
+      type: date
+      options: []
+      required: false

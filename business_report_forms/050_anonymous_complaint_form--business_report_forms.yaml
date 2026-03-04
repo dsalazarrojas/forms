@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Complaint Form
+    pages:
+    - id: 1
+      name: complaint_type
+      label: Complaint Type
+      hint: What is this about?
+      type: select_one
+      options:
+      - Product Quality
+      - Customer Service
+      - Billing Issue
+      - Delivery Problem
+      - Website Issue
+      - Employee Conduct
+      - Safety Concern
+      - Policy Violation
+      - Harassment
+      - Discrimination
+      - Fraud
+      - Other
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: When did it happen?
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: What time?
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: Where did it happen?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department_involved
+      label: Department Involved
+      hint: Which department?
+      type: select_one
+      options:
+      - Sales
+      - Customer Service
+      - Billing
+      - Shipping
+      - Human Resources
+      - Management
+      - IT
+      - Facilities
+      - Other
+      - Not Sure
+      required: false
+    - id: 6
+      name: employee_involved
+      label: Employee Involved
+      hint: Name if known
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_description
+      label: Employee Description
+      hint: Describe the person
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_account
+      label: Customer Account
+      hint: Account number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_number
+      label: Order Number
+      hint: If related to order
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_service
+      label: Product or Service
+      hint: What was purchased?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: complaint_description
+      label: Complaint Description
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: previous_contact
+      label: Previous Contact
+      hint: Have you contacted us before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: previous_contact_details
+      label: Previous Contact Details
+      hint: When and how?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_resolution
+      label: Previous Resolution
+      hint: Was it resolved?
+      type: select_one
+      options:
+      - Yes, Resolved
+      - No, Not Resolved
+      - Partially Resolved
+      - Not Applicable
+      required: false
+    - id: 15
+      name: evidence_available
+      label: Evidence Available
+      hint: Do you have evidence?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: evidence_type
+      label: Evidence Type
+      hint: What type?
+      type: select_multiple
+      options:
+      - Receipts
+      - Photos
+      - Videos
+      - Emails
+      - Chat Logs
+      - Recordings
+      - Documents
+      - Other
+      required: false
+    - id: 17
+      name: impact_description
+      label: Impact Description
+      hint: How did this affect you?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: severity_level
+      label: Severity Level
+      hint: How serious?
+      type: select_one
+      options:
+      - Minor Issue
+      - Moderate Issue
+      - Serious Issue
+      - Very Serious
+      - Critical
+      required: true
+    - id: 19
+      name: desired_resolution
+      label: Desired Resolution
+      hint: What do you want?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: compensation_requested
+      label: Compensation Requested
+      hint: Are you seeking compensation?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 21
+      name: compensation_details
+      label: Compensation Details
+      hint: What type?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_preference
+      label: Contact Preference
+      hint: How should we follow up?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - No Contact
+      - Through Representative
+      required: false
+    - id: 23
+      name: contact_email
+      label: Contact Email
+      hint: Optional - for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: contact_phone
+      label: Contact Phone
+      hint: Optional - for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: anonymity_level
+      label: Anonymity Level
+      hint: How anonymous?
+      type: select_one
+      options:
+      - Completely Anonymous
+      - Confidential
+      - Name Can Be Shared
+      required: true
+    - id: 26
+      name: retaliation_concern
+      label: Retaliation Concern
+      hint: Are you concerned about retaliation?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 27
+      name: urgency
+      label: Urgency
+      hint: How urgent?
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: true
+    - id: 28
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wage Loss Verification Form
+    pages:
+    - id: 1
+      name: injured_worker
+      label: Injured Worker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wage_period
+      label: Wage Period
+      hint: null
+      type: select_one
+      options:
+      - First Quarter
+      - Second Quarter
+      - Third Quarter
+      - Fourth Quarter
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: wage_loss
+      label: Wage Loss
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lost_percentage
+      label: Lost Percentage
+      hint: null
+      type: number
+      options: []
+      required: false

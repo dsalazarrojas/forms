@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Technology Adoption Survey
+    pages:
+    - id: 1
+      name: real_estate_technology_adoption_survey_title
+      label: real_estate_technology_adoption_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: company_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tech_usage
+      label: tech_usage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: future_adoption_plans
+      label: future_adoption_plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_challenges
+      label: current_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: future_challenges
+      label: future_challenges
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: future_adoption_plans_description
+      label: future_adoption_plans_description
+      hint: null
+      type: text
+      options: []
+      required: false

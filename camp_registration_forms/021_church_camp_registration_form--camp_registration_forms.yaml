@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Camp Registration Form
+    pages:
+    - id: 1
+      name: header_camper_info
+      label: -- Camper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: camper_full_name
+      label: Camper Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 4
+      name: camper_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: grade_entering
+      label: Grade Entering (Next Fall)
+      hint: null
+      type: select_one
+      options:
+      - K
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+      required: true
+    - id: 6
+      name: header_parent_info
+      label: -- Parent/Guardian Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: parent_name
+      label: Parent/Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email Address
+      hint: For camp confirmation and packet
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone_primary
+      label: Primary Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency Contact (Other than parent)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: header_medical
+      label: -- Medical and Dietary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: food_allergies
+      label: List any Food Allergies
+      hint: e.g., Peanuts, Dairy, Gluten
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions/Medications
+      hint: List any conditions the staff should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: roommate_request
+      label: Roommate Request (Optional)
+      hint: We will do our best to accommodate
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: t_shirt_size
+      label: Camper T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Youth S
+      - Youth M
+      - Youth L
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      required: true
+    - id: 17
+      name: liability_waiver
+      label: I agree to the liability release and medical consent
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: header_payment
+      label: -- Registration Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: registration_option
+      label: Select Registration Type
+      hint: null
+      type: select_one
+      options:
+      - Early Bird ($150)
+      - Standard Registration ($175)
+      - Volunteer Child ($100)
+      required: true

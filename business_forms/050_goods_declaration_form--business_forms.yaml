@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: goods_declaration_form
+    pages:
+    - id: 1
+      name: goods_declaration_form_1
+      label: what_is_the_business_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goods_declaration_form_2
+      label: what_is_the_good_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: goods_declaration_form_3
+      label: what_are_the_goods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: goods_declaration_form_4
+      label: what_is_the_country_of_origin
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: goods_declaration_form_5
+      label: what_is_the_customs_clearance_number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: goods_declaration_form_6
+      label: what_is_the_value_of_goods
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: goods_declaration_form_7
+      label: what_is_the_date_of_importation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: goods_declaration_form_8
+      label: what_is_the_time_of_importation
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: goods_declaration_form_9
+      label: what_are_the_goods_description
+      hint: null
+      type: text
+      options: []
+      required: false

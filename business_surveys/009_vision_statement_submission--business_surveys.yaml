@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vision Statement Submission
+    pages:
+    - id: 1
+      name: form_submission
+      label: form_submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_leader
+      label: team_leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_description
+      label: team_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_organizers
+      label: team_organizers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Submit''}'
+      - '{''value'': ''Save for Later''}'
+      required: false
+    - id: 8
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_submitted
+      label: time_submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: email_submitted
+      label: email_submitted
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_submitted
+      label: phone_submitted
+      hint: null
+      type: text
+      options: []
+      required: false

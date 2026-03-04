@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: understanding_delivered_duty_paid_ddp
+    pages:
+    - id: 1
+      name: ddp_familiarity
+      label: DDP Familiarity
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 2
+      name: ddp_usage
+      label: DDP Usage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 3
+      name: ddp_challenge
+      label: DDP Challenges
+      hint: Please describe your challenges with DDP
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ddp_benefits
+      label: DDP Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Faster Clearance''}'
+      - '{''label'': ''Reduced Fees''}'
+      - '{''label'': ''Improved Tracking''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_interest
+      label: Date of Interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_interest
+      label: Time of Interest
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: ddp_further_education
+      label: Would you like to learn more about DDP?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 11
+      name: ddp_roadmap
+      label: Would you like to receive an DDP Roadmap?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: ddp_additional_resources
+      label: Would you like to receive additional DDP resources?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: ddp_feedback
+      label: Additional Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ddp_next_steps
+      label: What are your next steps with DDP?
+      hint: Please be specific about your next steps
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: ddp_followup
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 16
+      name: ddp_suggestions
+      label: Do you have any suggestions for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: ddp_agree
+      label: Do you agree with DDP?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Agree''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Disagree''}'
+      required: false

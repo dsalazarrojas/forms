@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Intent Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Applicant Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Applicant Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_address
+      label: Applicant Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: Company or organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_type
+      label: Organization Type
+      hint: Type of entity
+      type: select_one
+      options:
+      - Corporation
+      - Limited Liability Company
+      - Partnership
+      - Sole Proprietorship
+      - Non-profit
+      - Government Entity
+      - Other
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Construction
+      - Retail
+      - Services
+      - Education
+      - Government
+      - Other
+      required: true
+    - id: 9
+      name: program_name
+      label: Program Name
+      hint: Which compliance program
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: program_description
+      label: Program Description
+      hint: Brief overview
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: compliance_type
+      label: Type of Compliance
+      hint: What compliance are you seeking
+      type: select_one
+      options:
+      - Regulatory compliance
+      - Industry standards
+      - Quality certification
+      - Environmental compliance
+      - Safety compliance
+      - Data protection
+      - Financial compliance
+      - Other
+      required: true
+    - id: 12
+      name: current_status
+      label: Current Compliance Status
+      hint: Where are you now
+      type: select_one
+      options:
+      - Not started
+      - Planning phase
+      - Implementation started
+      - Near completion
+      - Ready for review
+      required: true
+    - id: 13
+      name: timeline
+      label: Expected Timeline
+      hint: When will you be compliant
+      type: select_one
+      options:
+      - Within 1 month
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      - Over 12 months
+      required: true
+    - id: 14
+      name: resources_available
+      label: Resources Available
+      hint: What resources do you have
+      type: select_one
+      options:
+      - Dedicated compliance team
+      - Partial team allocation
+      - Single compliance officer
+      - External consultants
+      - Limited resources
+      required: true
+    - id: 15
+      name: budget_allocated
+      label: Budget Allocated
+      hint: Budget range
+      type: select_one
+      options:
+      - Under $10000
+      - $10000 to $50000
+      - $50001 to $100000
+      - $100001 to $500000
+      - Over $500000
+      required: false
+    - id: 16
+      name: previous_compliance
+      label: Previous Compliance Experience
+      hint: Have you been compliant before
+      type: select_one
+      options:
+      - Yes - same program
+      - Yes - different program
+      - No - first time
+      - Not sure
+      required: true
+    - id: 17
+      name: challenges_expected
+      label: Expected Challenges
+      hint: What difficulties do you anticipate
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: support_needed
+      label: Support Needed
+      hint: What help do you need
+      type: select_multiple
+      options:
+      - Training
+      - Documentation
+      - Consulting
+      - Software tools
+      - Audit preparation
+      - Policy development
+      - Other
+      required: false
+    - id: 19
+      name: stakeholders
+      label: Key Stakeholders
+      hint: Who is involved
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: regulatory_bodies
+      label: Relevant Regulatory Bodies
+      hint: Which agencies
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: terms_review
+      label: I have reviewed the terms and conditions
+      hint: Do you understand the terms
+      type: select_one
+      options:
+      - Yes - fully reviewed
+      - Yes - partially reviewed
+      - No - need to review
+      required: true
+    - id: 22
+      name: terms_agreement
+      label: I agree to the terms and conditions
+      hint: Agreement to comply
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 23
+      name: accuracy_statement
+      label: I certify the information is accurate
+      hint: Truthfulness statement
+      type: select_one
+      options:
+      - Yes I certify
+      - No I cannot certify
+      required: true
+    - id: 24
+      name: commitment_statement
+      label: I am committed to achieving compliance
+      hint: Commitment declaration
+      type: select_one
+      options:
+      - Yes - fully committed
+      - Yes - committed
+      - Unsure
+      - No - not committed
+      required: true
+    - id: 25
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: witness_name
+      label: Witness Name
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: witness_signature
+      label: Witness Signature
+      hint: If required
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

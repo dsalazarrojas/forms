@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carbon Emission Tracking Survey
+    pages:
+    - id: 1
+      name: respondent_information
+      label: -- RESPONDENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_date
+      label: Survey completion date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: tracking_period
+      label: Tracking period
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 7
+      name: energy_consumption
+      label: -- ENERGY CONSUMPTION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: electricity_usage
+      label: Monthly electricity usage (kWh)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: natural_gas_usage
+      label: Monthly natural gas usage (therms)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: heating_fuel
+      label: Primary heating fuel type
+      hint: null
+      type: select_one
+      options:
+      - Electricity
+      - Natural Gas
+      - Oil
+      - Heat Pump
+      - Other
+      - Not Applicable
+      required: false
+    - id: 11
+      name: heating_efficiency
+      label: Heating system efficiency efforts
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Programmable Thermostat
+      - Insulation Improvements
+      - Weatherization
+      - Regular Maintenance
+      - Smart Controls
+      required: false
+    - id: 12
+      name: transportation
+      label: -- TRANSPORTATION HABITS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: commute_method
+      label: Primary commute method
+      hint: null
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Carpool
+      - Public Transit
+      - Bike
+      - Walk
+      - Work From Home
+      - Other
+      required: true
+    - id: 14
+      name: commute_distance
+      label: Commute distance (miles one way)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: commute_frequency
+      label: Commute frequency per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_type
+      label: Vehicle type (if personal vehicle)
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Hybrid
+      - Electric
+      - Motorcycle
+      - Other
+      required: false
+    - id: 17
+      name: vehicle_fuel_efficiency
+      label: Vehicle fuel efficiency (MPG if known)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: business_travel
+      label: Business travel - flights per month
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: water_usage
+      label: -- WATER AND WASTE --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: water_consumption
+      label: Monthly water usage (gallons)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: waste_generated
+      label: Weekly waste generation (pounds)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: recycling_participation
+      label: Do you participate in recycling?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Yes - Sometimes
+      - false
+      - Not Available
+      required: false
+    - id: 23
+      name: waste_reduction_efforts
+      label: Waste reduction efforts (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce Consumption
+      - Reuse Items
+      - Recycle Materials
+      - Compost
+      - Use Reusable Products
+      - Minimize Packaging
+      required: false
+    - id: 24
+      name: overall_sustainability
+      label: Overall sustainability awareness level
+      hint: null
+      type: select_one
+      options:
+      - Very Aware
+      - Aware
+      - Somewhat Aware
+      - Not Aware
+      required: false
+    - id: 25
+      name: improvement_suggestions
+      label: Suggestions for reducing carbon emissions in our organization
+      hint: null
+      type: text
+      options: []
+      required: false

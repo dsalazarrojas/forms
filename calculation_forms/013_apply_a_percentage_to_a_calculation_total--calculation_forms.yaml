@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apply A Percentage To A Calculation Total
+    pages:
+    - id: 1
+      name: calculation_date
+      label: Calculation Date
+      hint: Date of this calculation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: item_name
+      label: Item Name
+      hint: Name or description of the item
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: base_amount
+      label: Base Amount
+      hint: Original amount before percentage
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: percentage_type
+      label: Percentage Type
+      hint: Type of percentage to apply
+      type: select_one
+      options:
+      - Discount
+      - Tax
+      - Fee
+      - Surcharge
+      - Commission
+      - Tip
+      - Other
+      required: true
+    - id: 5
+      name: percentage_value
+      label: Percentage Value
+      hint: Percentage value to apply
+      type: select_one
+      options:
+      - 5%
+      - 10%
+      - 15%
+      - 20%
+      - 25%
+      - 30%
+      - Custom
+      required: true
+    - id: 6
+      name: custom_percentage
+      label: Custom Percentage
+      hint: Enter custom percentage if selected above
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: apply_percentage
+      label: Apply Percentage
+      hint: Should the percentage be applied
+      type: select_one
+      options:
+      - Yes - Apply Percentage
+      - No - Use Base Amount Only
+      required: true
+    - id: 8
+      name: calculation_method
+      label: Calculation Method
+      hint: How should the percentage be calculated
+      type: select_one
+      options:
+      - Add to Base Amount
+      - Subtract from Base Amount
+      - Replace Base Amount
+      required: true
+    - id: 9
+      name: calculated_amount
+      label: Calculated Amount
+      hint: The calculated percentage amount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: final_total
+      label: Final Total
+      hint: Final total after percentage applied
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: currency_type
+      label: Currency Type
+      hint: Currency for this calculation
+      type: select_one
+      options:
+      - USD - US Dollar
+      - EUR - Euro
+      - GBP - British Pound
+      - CAD - Canadian Dollar
+      - AUD - Australian Dollar
+      - JPY - Japanese Yen
+      - Other
+      required: true
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: Number of items
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: unit_price
+      label: Unit Price
+      hint: Price per unit
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: subtotal
+      label: Subtotal
+      hint: Quantity multiplied by unit price
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: additional_discount
+      label: Additional Discount
+      hint: Any additional discount to apply
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: Any notes about this calculation
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: calculated_by
+      label: Calculated By
+      hint: Name of person performing calculation
+      type: text
+      options: []
+      required: false

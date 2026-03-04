@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Director Termination Notice Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_employment_ended
+      label: Date Employment Ended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notice_period
+      label: Notice Period
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: effective_date_termination
+      label: Effective Date Termination
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: select_one
+      options:
+      - Voluntary
+      - Involuntary
+      - Retirement
+      - Other
+      required: false
+    - id: 7
+      name: reason_other
+      label: Reason Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature_director
+      label: Signature Director
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false

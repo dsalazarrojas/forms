@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airbnb Check In Form
+    pages:
+    - id: 1
+      name: guest_first_name
+      label: First Name
+      hint: Guest first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_last_name
+      label: Last Name
+      hint: Guest last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reservation_number
+      label: Reservation Number
+      hint: Booking reference
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: check_in_date
+      label: Check-in Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: check_in_time
+      label: Check-in Time
+      hint: Arrival time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total guests
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: guest_names
+      label: All Guest Names
+      hint: List all guests staying
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: id_verification
+      label: ID Verification
+      hint: Have you provided ID
+      type: select_one
+      options:
+      - Yes, passport
+      - Yes, driver license
+      - Yes, national ID
+      - Verified online
+      required: true
+    - id: 11
+      name: id_number
+      label: ID Number
+      hint: ID document number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: id_country
+      label: ID Issuing Country
+      hint: Country that issued ID
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: License plate if parking
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_rules_acknowledged
+      label: Property Rules Acknowledged
+      hint: Have you read the house rules
+      type: select_one
+      options:
+      - Yes, acknowledged
+      - false
+      required: true
+    - id: 15
+      name: noise_policy
+      label: Noise Policy Agreement
+      hint: Agree to quiet hours
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 16
+      name: smoking_policy
+      label: Smoking Policy
+      hint: Do you agree to no smoking inside
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 17
+      name: pet_policy
+      label: Pet Policy
+      hint: Are pets allowed per your booking
+      type: select_one
+      options:
+      - No pets
+      - Yes, approved pets
+      required: true
+    - id: 18
+      name: security_deposit
+      label: Security Deposit Paid
+      hint: Has deposit been paid
+      type: select_one
+      options:
+      - Yes, through platform
+      - Yes, direct payment
+      - Not required
+      required: true
+    - id: 19
+      name: wifi_password_provided
+      label: WiFi Password Provided
+      hint: Have you received WiFi info
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: key_collection
+      label: Key Collection Method
+      hint: How will you get keys
+      type: select_one
+      options:
+      - In-person handover
+      - Lockbox
+      - Smart lock code
+      - Keyless entry
+      required: true
+    - id: 21
+      name: property_tour
+      label: Property Tour Needed
+      hint: Would you like a tour
+      type: select_one
+      options:
+      - Yes, please
+      - No, familiar with property
+      - Self-guided tour
+      required: true
+    - id: 22
+      name: emergency_contact_provided
+      label: Emergency Contact Provided
+      hint: Do you have emergency info
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific host instructions
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: initial_condition
+      label: Initial Property Condition
+      hint: Any pre-existing issues to note
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: guest_signature
+      label: Guest Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: host_signature
+      label: Host Signature
+      hint: Host confirmation
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: check_in_completed
+      label: Check-in Completed
+      hint: Status
+      type: select_one
+      options:
+      - Yes, completed
+      - Partial
+      - false
+      required: true

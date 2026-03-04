@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_information_coordination_survey
+    pages:
+    - id: 1
+      name: office_name
+      label: office_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_challenges
+      label: communication_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: communication_tools
+      label: communication_tools
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''email'', ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 2, ''name'': ''slack'', ''label'': ''Slack'', ''value'': ''slack''}'
+      - '{''id'': 3, ''name'': ''teams'', ''label'': ''Teams'', ''value'': ''teams''}'
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: improvement_ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager
+      label: manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_member_count
+      label: team_member_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_member_names
+      label: team_member_names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_member_emails
+      label: team_member_emails
+      hint: null
+      type: text
+      options: []
+      required: false

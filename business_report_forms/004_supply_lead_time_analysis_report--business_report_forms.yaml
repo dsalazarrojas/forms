@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Lead Time Analysis Report
+    pages:
+    - id: 1
+      name: supplier_lead_times
+      label: Supplier Lead Times
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: document_delays
+      label: Document Delays
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: delivery_performance
+      label: Delivery Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total_lead_time
+      label: Total Lead Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: supplier_rating
+      label: Supplier Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: lead_time_analysis
+      label: Lead Time Analysis
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 7
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

@@ -1,0 +1,246 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cash Flow Management Insight Survey
+    pages:
+      - id: 1
+        name: respondent_info_section
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: business_name
+        label: Business or Organization Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: job_title
+        label: Your Job Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: department
+        label: Department or Function
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: business_overview_section
+        label: -- Business Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: business_size
+        label: Size of Business
+        hint: null
+        type: select_one
+        options:
+          - Startup (0-10 employees)
+          - Small (11-50 employees)
+          - Medium (51-250 employees)
+          - Large (250+ employees)
+        required: true
+      - id: 8
+        name: industry
+        label: Industry or Sector
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: annual_revenue
+        label: Annual Revenue Range
+        hint: null
+        type: select_one
+        options:
+          - Under $500K
+          - $500K - $1M
+          - $1M - $5M
+          - $5M - $10M
+          - $10M - $50M
+          - Over $50M
+        required: true
+      - id: 10
+        name: cash_flow_practices_section
+        label: -- Current Cash Flow Practices --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: cash_flow_tracking
+        label: How frequently do you track cash flow?
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Annually
+          - Rarely or Never
+        required: true
+      - id: 12
+        name: forecasting_practice
+        label: Do you create cash flow forecasts?
+        hint: null
+        type: select_one
+        options:
+          - "Yes, regularly"
+          - "Yes, occasionally"
+          - "No, never"
+        required: true
+      - id: 13
+        name: forecasting_frequency
+        label: How far in advance do you forecast?
+        hint: null
+        type: select_one
+        options:
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Semi-Annually
+          - Annually
+          - Not applicable
+        required: false
+      - id: 14
+        name: tools_used_section
+        label: -- Tools and Technology --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: accounting_software
+        label: What accounting or financial software do you use?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: tools_effectiveness
+        label: How effective are your current tools?
+        hint: null
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Somewhat Effective
+          - Ineffective
+          - No tools used
+        required: true
+      - id: 17
+        name: challenges_section
+        label: -- Cash Flow Challenges --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: main_challenges
+        label: What are your main cash flow challenges?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Unpredictable revenue
+          - Late customer payments
+          - Seasonal fluctuations
+          - Unexpected expenses
+          - Difficulty forecasting
+          - Insufficient working capital
+          - Poor visibility into cash position
+          - Other
+        required: true
+      - id: 19
+        name: challenge_severity
+        label: How severe are your cash flow challenges?
+        hint: null
+        type: select_one
+        options:
+          - Critical
+          - Significant
+          - Moderate
+          - Minor
+          - No significant challenges
+        required: true
+      - id: 20
+        name: decision_making_section
+        label: -- Decision Making and Planning --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: cash_impacts_decisions
+        label: How much does cash flow impact business decisions?
+        hint: null
+        type: select_one
+        options:
+          - Heavily influences
+          - Moderately influences
+          - Somewhat influences
+          - Minimally influences
+          - No impact
+        required: true
+      - id: 22
+        name: improvement_needs_section
+        label: -- Improvement Needs --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: needed_improvements
+        label: What improvements would help most?
+        hint: Select top 3 that apply
+        type: select_multiple
+        options:
+          - Better forecasting tools
+          - Improved reporting
+          - Faster payment processing
+          - Automation
+          - Better visibility
+          - Staff training
+          - Process optimization
+        required: true
+      - id: 24
+        name: feedback_section
+        label: -- General Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments or Suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: industry_insights_feedback_survey_form
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: industry_experience
+      label: Industry Experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''large'', ''value'': ''Large''}'
+      - '{''id'': 2, ''name'': ''medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''small'', ''value'': ''Small''}'
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: field_8
+      label: Field 8
+      hint: null
+      type: text
+      options: []
+      required: false

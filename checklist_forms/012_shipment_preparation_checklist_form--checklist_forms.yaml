@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipment Preparation Checklist Form
+    pages:
+    - id: 1
+      name: preparation_step
+      label: Preparation Step
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: package_type
+      label: Package Type
+      hint: null
+      type: select_multiple
+      options:
+      - Box
+      - Pallet
+      - Crate
+      required: false
+    - id: 3
+      name: weight_limit
+      label: Weight Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_multiple
+      options:
+      - lbs
+      - kg
+      - oz
+      required: false
+    - id: 5
+      name: handling_instructions
+      label: Handling Instructions
+      hint: null
+      type: select_one
+      options:
+      - text
+      - phone
+      - email
+      required: false
+    - id: 6
+      name: package_label
+      label: Package Label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: package_size
+      label: Package Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipping_carrier
+      label: Shipping Carrier
+      hint: null
+      type: select_one
+      options:
+      - FedEx
+      - UPS
+      - USPS
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: select_one
+      options:
+      - Special
+      - Instructions
+      required: false
+    - id: 10
+      name: shipment_status
+      label: Shipment Status
+      hint: null
+      type: select_one
+      options:
+      - Shipped
+      - Pending
+      - On Hold
+      required: false
+    - id: 11
+      name: package_location
+      label: Package Location
+      hint: null
+      type: select_one
+      options:
+      - Package
+      - Location
+      required: false
+    - id: 12
+      name: package_notes
+      label: Package Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: package_condition
+      label: Package Condition
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Refurbished
+      required: false
+    - id: 14
+      name: ship_from
+      label: Ship From
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: ship_to
+      label: Ship To
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: ship_time
+      label: Ship Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: ship_method
+      label: Ship Method
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Ground
+      - Mail
+      required: false
+    - id: 19
+      name: ship_notes
+      label: Ship Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: length
+      label: Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: width
+      label: Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: package_status
+      label: Package Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Shipped
+      - On Hold
+      required: false
+    - id: 25
+      name: tracking_number
+      label: Tracking Number
+      hint: null
+      type: text
+      options: []
+      required: false

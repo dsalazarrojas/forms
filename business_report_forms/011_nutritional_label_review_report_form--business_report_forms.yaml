@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nutritional Label Review Report Form
+    pages:
+    - id: 1
+      name: report_form_header
+      label: Report Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: label
+      label: label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: serving_size
+      label: serving size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: ingredient_name
+      label: ingredient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: ingredient_list
+      label: ingredient list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: serving_size_unit
+      label: serving size unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: nutrition_fact_table
+      label: nutrition fact table
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nutrition_facts
+      label: nutrition facts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nutrition_facts_list
+      label: nutrition facts list
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: label_compliance
+      label: label compliance
+      hint: null
+      type: select_multiple
+      options:
+      - Label compliant
+      - Label not compliant
+      - Not applicable
+      required: false
+    - id: 12
+      name: label_compliance_reason
+      label: label compliance reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: review date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_time
+      label: review time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_name
+      label: reviewer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: review_status
+      label: review status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 18
+      name: review_notes
+      label: review notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: label_reviewed_by
+      label: label reviewed by
+      hint: null
+      type: select_one
+      options:
+      - QA Team
+      - Regulatory Specialist
+      - Dietitian
+      required: false
+    - id: 21
+      name: review_version
+      label: review version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: label_reviewed_date
+      label: label reviewed date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: review_completed_by
+      label: review completed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: label_reviewed_time
+      label: label reviewed time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: review_closed_date
+      label: review closed date
+      hint: null
+      type: date
+      options: []
+      required: false

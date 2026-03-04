@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Artist Fee Survey
+    pages:
+    - id: 1
+      name: performer_fee
+      label: Performer Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: travel_preference
+      label: Travel Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''local''}'
+      - '{''value'': ''national''}'
+      - '{''value'': ''international''}'
+      required: false
+    - id: 3
+      name: booking_priority
+      label: Booking Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''high''}'
+      - '{''value'': ''medium''}'
+      - '{''value'': ''low''}'
+      required: false
+    - id: 4
+      name: travel_cost
+      label: Travel Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: artist_contact
+      label: Artist Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: artist_description
+      label: Artist Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: travel_distance
+      label: Travel Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: travel_time_to_destination
+      label: Travel Time To Destination
+      hint: null
+      type: time
+      options: []
+      required: false

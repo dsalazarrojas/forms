@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: skincare_product_comparison_behavior_survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: skincare_products
+      label: What Skincare Products Do You Know About?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 3
+      name: frequency
+      label: Frequency of Use
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Rarely
+      - Occasionally
+      - Never
+      required: false
+    - id: 4
+      name: purchase_decision
+      label: Purchase Decision
+      hint: null
+      type: select_one
+      options:
+      - Brand
+      - Price
+      - Quality
+      - Recommendation
+      required: false
+    - id: 5
+      name: skincare_product_use
+      label: How Many Skincare Products Do You Use?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: skincare_product_usage_frequency
+      label: How Often Do You Use Skincare Products?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: skincare_product_purchase
+      label: How Many Skincare Products Have You Purchased in the Last Year?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: purchase_decision_factor
+      label: Which Factor Influenced Your Purchase Decision?
+      hint: null
+      type: select_multiple
+      options:
+      - Brand
+      - Price
+      - Quality
+      - Recommendation
+      required: false
+    - id: 9
+      name: skincare_product_research
+      label: How Much Skincare Product Research Do You Do Before Making a Purchase?
+      hint: null
+      type: select_one
+      options:
+      - A Lot
+      - Some
+      - A Little
+      - None
+      required: false
+    - id: 10
+      name: skincare_product_recommendation
+      label: Who Do You Most Often Ask for Skincare Product Recommendations?
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Social Media
+      - Online Review
+      - Offline Advisor
+      - Other
+      required: false
+    - id: 11
+      name: skincare_product_purchasing_location
+      label: Where Do You Usually Buy Skincare Products?
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline Store
+      - Both
+      required: false
+    - id: 12
+      name: skincare_product_purchasing_frequency
+      label: How Often Do You Purchase Skincare Products?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: false
+    - id: 13
+      name: skincare_product_purchasing_reason
+      label: What Is Your Main Reason for Buying Skincare Products?
+      hint: null
+      type: select_one
+      options:
+      - Price
+      - Quality
+      - Brand
+      - Recommendation
+      required: false
+    - id: 14
+      name: skincare_product_purchasing_channel
+      label: Where Do You Usually Purchase Skincare Products?
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Social Media
+      required: false
+    - id: 15
+      name: skincare_product_purchasing_location
+      label: Where Do You Purchase Skincare Products?
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Both
+      required: false

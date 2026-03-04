@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Store Evaluation
+    pages:
+    - id: 1
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of store visit
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: store_name
+      label: Store Name
+      hint: Name of store being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: store_location
+      label: Store Location
+      hint: Address or city
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: store_manager
+      label: Store Manager Name
+      hint: Manager on duty
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cleanliness_rating
+      label: Store Cleanliness
+      hint: Rate cleanliness (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: product_display_rating
+      label: Product Display and Organization
+      hint: Rate displays (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: staff_courtesy_rating
+      label: Staff Courtesy and Helpfulness
+      hint: Rate staff (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: staff_knowledge_rating
+      label: Staff Product Knowledge
+      hint: Rate knowledge (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: inventory_levels_rating
+      label: Inventory Levels
+      hint: Rate stock levels (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: pricing_accuracy_rating
+      label: Pricing Accuracy
+      hint: Rate accuracy (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: checkout_experience_rating
+      label: Checkout Experience
+      hint: Rate checkout (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: product_quality_rating
+      label: Product Quality
+      hint: Rate quality (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: overall_store_rating
+      label: Overall Store Rating
+      hint: Overall score (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: cleanliness_issues
+      label: Cleanliness Issues Found
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: inventory_issues
+      label: Inventory or Stocking Issues
+      hint: Out of stock items?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: product_quality_issues
+      label: Product Quality Issues
+      hint: Any damaged or defective products?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: staff_performance_notes
+      label: Staff Performance Notes
+      hint: Comments on staff
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommendations
+      label: Recommendations for Improvement
+      hint: Specific suggestions
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: positive_observations
+      label: Positive Observations
+      hint: What went well?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_required
+      label: Follow-up Required?
+      hint: Does this need attention?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true

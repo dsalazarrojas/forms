@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Management Form
+    pages:
+    - id: 1
+      name: change_request_date
+      label: Change Request Date
+      hint: When submitted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: change_id
+      label: Change ID Number
+      hint: Unique identifier for change
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: Who is requesting the change
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_department
+      label: Requester Department
+      hint: Department of requester
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: requester_email
+      label: Requester Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: change_title
+      label: Change Title
+      hint: Brief title of the change
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: change_description
+      label: Detailed Description of Change
+      hint: Comprehensive description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: change_reason
+      label: Reason for Change
+      hint: Why is this change needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: change_type
+      label: Type of Change
+      hint: Category of change
+      type: select_one
+      options:
+      - Emergency
+      - Urgent
+      - Standard
+      - Minor
+      - Major
+      required: true
+    - id: 11
+      name: affected_systems
+      label: Affected Systems or Services
+      hint: What systems are impacted
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: change_scope
+      label: Scope of Change
+      hint: How extensive is the change
+      type: select_one
+      options:
+      - Single System
+      - Multiple Systems
+      - Department-wide
+      - Organization-wide
+      - External Impact
+      required: true
+    - id: 13
+      name: implementation_date
+      label: Proposed Implementation Date
+      hint: When should change occur
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: implementation_window
+      label: Implementation Time Window
+      hint: What time period for implementation
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: implementation_steps
+      label: Implementation Steps
+      hint: Detailed steps to implement
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: rollback_plan
+      label: Rollback Plan if Needed
+      hint: How to reverse the change
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: risks_identified
+      label: Risks and Potential Impact
+      hint: What could go wrong
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: mitigation_strategy
+      label: Risk Mitigation Strategy
+      hint: How will risks be managed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: testing_completed
+      label: Testing Completed
+      hint: Has change been tested
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 20
+      name: approval_status
+      label: Approval Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Conditional Approval
+      - Rejected
+      - Awaiting Signatures
+      required: true
+    - id: 21
+      name: approver_name
+      label: Approver Name
+      hint: Manager approving change
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approval_date
+      label: Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: communication_plan
+      label: Communication Plan
+      hint: How will stakeholders be notified
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

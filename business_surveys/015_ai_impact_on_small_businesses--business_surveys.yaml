@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Impact On Small Businesses
+    pages:
+    - id: 1
+      name: intro
+      label: -- Business Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business name
+      hint: Legal or trading name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry sector
+      hint: Primary industry
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employees_count
+      label: Number of employees
+      hint: Approximate headcount
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: ai_adoption_level
+      label: AI adoption level
+      hint: How much AI is used in operations
+      type: select_one
+      options:
+      - None
+      - Pilot
+      - Operational
+      - Strategic
+      required: true
+    - id: 6
+      name: main_use_cases
+      label: Main AI use cases
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Customer service
+      - Marketing
+      - Operations
+      - Sales
+      - HR
+      required: false
+    - id: 7
+      name: perceived_benefits
+      label: Perceived benefits of AI
+      hint: Select top benefits
+      type: select_multiple
+      options:
+      - Cost savings
+      - Efficiency
+      - New revenue
+      - Improved decisions
+      required: false
+    - id: 8
+      name: challenges
+      label: Main challenges to adoption
+      hint: Barriers such as skills data cost or ethics
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: support_needed
+      label: Support needed to adopt AI
+      hint: What help would be most valuable
+      type: text
+      options: []
+      required: false

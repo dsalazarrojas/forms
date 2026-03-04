@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grid Plotting Survey
+    pages:
+    - id: 1
+      name: grid_plotting_survey_experience
+      label: grid_plotting_survey_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: tool_1
+      label: tools
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: challenge_1
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestion_1
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestion_2
+      label: more_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

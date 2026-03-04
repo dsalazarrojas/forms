@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regional Officer Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: region
+      label: region
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Region A''}'
+      - '{''id'': 2, ''label'': ''Region B''}'
+      - '{''id'': 3, ''label'': ''Region C''}'
+      required: true
+    - id: 5
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Officer A''}'
+      - '{''id'': 2, ''label'': ''Officer B''}'
+      - '{''id'': 3, ''label'': ''Officer C''}'
+      required: true
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agreement
+      label: I agree to the terms and conditions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: terms
+      label: View Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: region_name
+      label: region_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true

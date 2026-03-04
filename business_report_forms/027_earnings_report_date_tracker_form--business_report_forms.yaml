@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Earnings Report Date Tracker Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: ticker_symbol
+      label: Ticker Symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_announcement_date
+      label: Report Announcement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: earnings_release_date
+      label: Earnings Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Released
+      - Delayed
+      - Cancelled
+      required: true
+    - id: 6
+      name: company_sector
+      label: Company Sector
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Industrials
+      - Healthcare
+      - Technology
+      - Consumer
+      - Other
+      required: true
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Quarterly
+      - Annually
+      required: false
+    - id: 9
+      name: report_frequency_details
+      label: Report Frequency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false

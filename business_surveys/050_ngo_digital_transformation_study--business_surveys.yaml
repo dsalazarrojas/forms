@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Digital Transformation Study
+    pages:
+    - id: 1
+      name: organization_name
+      label: organizationname
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: digital_tool
+      label: digtool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: digital_skills
+      label: digskil
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: digital_needs
+      label: digne
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: phonenumber
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: time_zone
+      label: time_zone
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: dateofbirth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: digital_tool_list
+      label: digtoollist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Google Drive''}'
+      - Microsoft Office
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: digital_skill_list
+      label: digskilllist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Cloud Computing''}'
+      - Data Analytics
+      - Cybersecurity
+      required: false
+    - id: 11
+      name: digital_need_list
+      label: digneedlist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Collaboration Tools''}'
+      - Communication Tools
+      - Data Visualization
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assignedtool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assigned_tool_list
+      label: assignedtoollist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Google Drive''}'
+      - Microsoft Office
+      - Other (please specify)
+      required: false
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

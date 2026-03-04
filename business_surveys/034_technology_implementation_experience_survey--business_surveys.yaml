@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Implementation Experience Survey
+    pages:
+    - id: 1
+      name: new_systems
+      label: Technology Implementation Process
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Positive Experience''}'
+      - '{''value'': ''Negative Experience''}'
+      - '{''value'': ''Neutral''}'
+      required: false
+    - id: 2
+      name: new_systems_description
+      label: How would you describe the new system
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: benefits
+      label: What benefits did you gain from the implementation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Financial''}'
+      - '{''value'': ''Increased Efficiency''}'
+      - '{''value'': ''Reduced Costs''}'
+      - '{''value'': ''Other (please specify)''}'
+      - '{''value'': ''Improved Productivity''}'
+      - '{''value'': ''Enhanced User Experience''}'
+      required: false
+    - id: 4
+      name: challenges
+      label: What challenges did you face during the implementation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Technical issues''}'
+      - '{''value'': ''User acceptance''}'
+      - '{''value'': ''Communication challenges''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 5
+      name: technology_used
+      label: Which technology was implemented
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Cloud Computing''}'
+      - '{''value'': ''Artificial Intelligence''}'
+      - '{''value'': ''Internet of Things (IoT)''}'
+      - '{''value'': ''Blockchain''}'
+      - '{''value'': ''Database Management''}'
+      - '{''value'': ''Cyber Security''}'
+      - '{''value'': ''Data Analytics''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 6
+      name: project_leader
+      label: Project Leader
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''IT Director''}'
+      - '{''value'': ''Project Manager''}'
+      - '{''value'': ''Team Lead''}'
+      - '{''value'': ''Other (please specify)''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: team_size
+      label: Number of team members involved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: duration
+      label: How long did it take to implement
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: future_plans
+      label: Do you plan to use the same technology again
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Undecided''}'
+      required: false
+    - id: 10
+      name: other_comments
+      label: Any other comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: team_lead_comments
+      label: Project Lead Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: system_name
+      label: System Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: system_description
+      label: System Description
+      hint: null
+      type: text
+      options: []
+      required: false

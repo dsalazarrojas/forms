@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Reviewer Feedback Survey
+    pages:
+    - id: 1
+      name: review_type
+      label: Review type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: reviewer_type
+      label: Reviewer type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: reviewer_name
+      label: Reviewer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reviewer_company
+      label: Reviewer company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reviewer_feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: reviewer_satisfaction
+      label: Satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 7
+      name: review_date
+      label: Review date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: review_time
+      label: Review time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_email
+      label: Reviewer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_phone
+      label: Reviewer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

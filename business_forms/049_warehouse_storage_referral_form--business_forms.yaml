@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Storage Referral Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_contact
+      label: Date of Contact
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_type
+      label: Client Type
+      hint: null
+      type: select_multiple
+      options:
+      - Logistics Company
+      - Storage Facility
+      - Other
+      required: true
+    - id: 9
+      name: storage_capacity
+      label: Storage Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: facility_capacity
+      label: Facility Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: storage_space
+      label: Storage Space
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      required: true
+    - id: 13
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Pending
+      required: true
+    - id: 14
+      name: available_storage_space
+      label: Available Storage Space
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_multiple
+      options:
+      - Self Storage
+      - Full Service
+      - Climate Controlled
+      required: false
+    - id: 16
+      name: facility_security
+      label: Facility Security
+      hint: null
+      type: select_multiple
+      options:
+      - 24/7 Access
+      - Gate Guarded
+      - Self Serve
+      required: false
+    - id: 17
+      name: facility_parking
+      label: Facility Parking
+      hint: null
+      type: select_multiple
+      options:
+      - Free Parking
+      - Paid Parking
+      - No Parking
+      required: false
+    - id: 18
+      name: facility_elevator
+      label: Facility Elevator
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 19
+      name: facility_forklift
+      label: Facility Forklift
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Not Applicable
+      required: false
+    - id: 20
+      name: facility_liftgate
+      label: Facility Liftgate
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Not Applicable
+      required: false
+    - id: 21
+      name: facility_rail_capable
+      label: Facility Rail Capable
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 22
+      name: facility_lift_gate
+      label: Facility Liftgate
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Not Applicable
+      required: false
+    - id: 23
+      name: facility_handicap
+      label: Facility Handicap
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 24
+      name: facility_wifi
+      label: Facility Wifi
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - Not Applicable
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Branding Initiative Checklist Form
+    pages:
+    - id: 1
+      name: overview_header
+      label: -- Initiative Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: initiative_name_val
+      label: Branding Initiative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pm_name
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: initiative_start_dt
+      label: Initiative Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: completion_dt_target
+      label: Target Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: phase_1_header
+      label: -- Phase 1 - Discovery and Research --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: p1_tasks_select
+      label: Discovery Tasks Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Market Research
+      - Competitor Analysis
+      - Stakeholder Interviews
+      - Brand Audit
+      required: false
+    - id: 8
+      name: p1_status_select
+      label: Phase 1 Overall Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 9
+      name: phase_2_header
+      label: -- Phase 2 - Strategy and Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: p2_tasks_select
+      label: Strategy Tasks Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Brand Narrative Defined
+      - Visual Concept Selection
+      - Messaging Framework
+      - Positioning Statement
+      required: false
+    - id: 11
+      name: p2_status_select
+      label: Phase 2 Overall Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 12
+      name: phase_3_header
+      label: -- Phase 3 - Execution and Launch --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: p3_tasks_select
+      label: Execution Tasks Completed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Asset Production
+      - Website Update
+      - Internal Announcement
+      - External Campaign Launch
+      required: false
+    - id: 14
+      name: p3_status_select
+      label: Phase 3 Overall Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 15
+      name: resources_header
+      label: -- Resource Tracking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: partners_external
+      label: External Agencies / Partners Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: spend_to_dt
+      label: Current Spend to Date
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: roadblock_desc
+      label: Identify any current roadblocks or delays
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: last_upd_dt
+      label: Last Updated Date
+      hint: null
+      type: date
+      options: []
+      required: true

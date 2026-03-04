@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Stock Count Form
+    pages:
+    - id: 1
+      name: section_inventory_header
+      label: -- Inventory Count Header --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: count_date
+      label: Count Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: count_time
+      label: Count Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: count_location
+      label: Count Location
+      hint: Kitchen, storage, event site, etc.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: counted_by_name
+      label: Counted By (Staff Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_perishables
+      label: -- Perishable Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: proteins_stock
+      label: Proteins (lbs)
+      hint: Chicken, beef, pork, fish, etc.
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vegetables_stock
+      label: Vegetables (lbs)
+      hint: Fresh vegetables
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: dairy_stock
+      label: Dairy Products (units)
+      hint: Milk, cheese, butter, yogurt, etc.
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: produce_stock
+      label: Fresh Produce (units)
+      hint: Fruits, salad greens, herbs, etc.
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_pantry_items
+      label: -- Pantry Stock Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: grains_pasta
+      label: Grains and Pasta (lbs)
+      hint: Rice, flour, pasta, bread, etc.
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: oils_condiments
+      label: Oils and Condiments (units)
+      hint: Olive oil, vinegar, sauces, etc.
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: spices_seasonings
+      label: Spices and Seasonings (units)
+      hint: Salt, pepper, herbs, spice mixes
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: canned_goods
+      label: Canned Goods (units)
+      hint: Canned vegetables, fruits, beans
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_beverages
+      label: -- Beverages Stock --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: coffee_tea
+      label: Coffee and Tea (units)
+      hint: Bags, boxes, containers
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: juice_beverages
+      label: Juices and Soft Drinks (units)
+      hint: Bottles, cases, cartons
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: alcoholic_beverages
+      label: Alcoholic Beverages (units)
+      hint: Wine, beer, spirits, if applicable
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_supplies
+      label: -- Non-Food Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: serving_ware
+      label: Serving Ware (units)
+      hint: Plates, utensils, napkins, etc.
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: packaging_supplies
+      label: Packaging Supplies (units)
+      hint: Containers, bags, wrap, foil, etc.
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_critical_items
+      label: -- Critical Items Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: shortage_items
+      label: Items Needing Reorder
+      hint: List any critically low or out-of-stock items
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: inventory_notes
+      label: Additional Notes or Observations
+      hint: Expiration dates, damage, quality issues
+      type: text
+      options: []
+      required: false

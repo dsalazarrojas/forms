@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Management User Feedback
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_id
+      label: Project Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Delayed
+      - Canceled
+      required: false
+    - id: 5
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_manager_id
+      label: Project Manager Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: user_feedback
+      label: User Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: usability_rating
+      label: Usability Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_attachments
+      label: Form Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - Attachment 1
+      - Attachment 2
+      - Attachment 3
+      required: false
+    - id: 15
+      name: form_submissions
+      label: Form Submissions
+      hint: null
+      type: number
+      options: []
+      required: false

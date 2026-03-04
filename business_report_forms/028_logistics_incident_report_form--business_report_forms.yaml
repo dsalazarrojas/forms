@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Incident Report Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ship_date
+      label: ship_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: ship_time
+      label: ship_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: warehouse_details
+      label: warehouse_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_id
+      label: product_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_one
+      options:
+      - issue types
+      - issue types
+      - prophets
+      required: true
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assignee
+      label: assignee
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: true
+    - id: 13
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false

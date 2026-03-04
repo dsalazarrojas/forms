@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial System Migration Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: financial-system-migration-survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_system
+      label: current-finance-system
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''SAP''}'
+      - '{''id'': 2, ''name'': ''Oracle''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: migrated_system
+      label: migrated-finance-system
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''SAP''}'
+      - '{''id'': 2, ''name'': ''Oracle''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 4
+      name: migrated_to
+      label: migrated-to
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Cloud''}'
+      - '{''id'': 2, ''name'': ''On Premise''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 5
+      name: migration_date
+      label: migration-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: migration_time
+      label: migration-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

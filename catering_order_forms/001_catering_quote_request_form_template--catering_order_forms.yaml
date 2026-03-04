@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Quote Request Form Template
+    pages:
+    - id: 1
+      name: event_details_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: Select the date for your event
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_start_time
+      label: Event Start Time
+      hint: What time do you expect the catering to start
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: event_location
+      label: Event Location
+      hint: Provide the full address or venue name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: guest_count
+      label: Estimated Guest Count
+      hint: Approximate number of people attending
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What kind of event is this
+      type: select_one
+      options:
+      - Wedding
+      - Birthday Party
+      - Corporate Function
+      - Anniversary
+      - Holiday Party
+      - Other
+      required: true
+    - id: 7
+      name: menu_preferences_header
+      label: -- Menu Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: preferred_cuisines
+      label: Preferred Cuisines
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Italian
+      - Mexican
+      - Asian Fusion
+      - BBQ
+      - Mediterranean
+      - Continental
+      - Vegetarian / Vegan
+      required: false
+    - id: 9
+      name: service_style
+      label: Service Style
+      hint: How would you like the food to be served
+      type: select_one
+      options:
+      - Buffet
+      - Plated Service
+      - Family Style
+      - Food Stations
+      - Passed Hors d'oeuvres
+      required: true
+    - id: 10
+      name: dietary_restrictions_header
+      label: -- Dietary Restrictions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: specific_dietary_needs
+      label: Specify Dietary Restrictions
+      hint: Mention any allergies or special dietary needs (e.g. gluten-free, nut-free)
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: Full name of the primary contact
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: We will send the quote to this address
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone Number
+      hint: In case we need to clarify details quickly
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_info_header
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests or Questions
+      hint: Any other details we should know
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kids Camping Registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parents_first_name
+      label: Father's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parents_last_name
+      label: Mother's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: activity_time
+      label: Activity Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: activity_location
+      label: Activity Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_consent
+      label: Parent's Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 12
+      name: activity_type
+      label: Activity Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Camping'', ''value'': ''Camping''}'
+      - '{''label'': ''Outdoor Picnic'', ''value'': ''Outdoor Picnic''}'
+      - '{''label'': ''Picnic in the Park'', ''value'': ''Picnic in the Park''}'
+      - '{''label'': ''Picnic at the Zoo'', ''value'': ''Picnic at the Zoo''}'
+      required: false

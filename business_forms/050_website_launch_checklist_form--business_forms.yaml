@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_launch_checklist_form
+    pages:
+    - id: 1
+      name: website_launch_checklist_form
+      label: Website Launch Checklist Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Business Forms'', ''value'': ''business_forms''}'
+      - '{''id'': 2, ''label'': ''Other Forms'', ''value'': ''other_forms''}'
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Chatjimmy'', ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''Another Tool'', ''value'': ''another_tool''}'
+      required: false
+    - id: 5
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''050_website_launch_checklist_form--business_forms'',
+        ''value'': ''050_website_launch_checklist_form--business_forms''}'
+      - '{''id'': 2, ''label'': ''Other File'', ''value'': ''other_file''}'
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Business Forms'', ''value'': ''business_forms''}'
+      - '{''id'': 2, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: outline_creation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''General Business''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: structure_type
+      label: Structure Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Hierarchical''}'
+      - '{''value'': ''Linear''}'
+      required: false
+    - id: 6
+      name: number_of_elements
+      label: Number of Elements
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: element_type
+      label: Element Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Paragraphs''}'
+      - '{''value'': ''Headings''}'
+      - '{''value'': ''Images''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: element_order
+      label: Element Order
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Alphabetical''}'
+      - '{''value'': ''Random''}'
+      - '{''value'': ''Sequential''}'
+      required: false
+    - id: 9
+      name: element_positioning
+      label: Element Positioning
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Left''}'
+      - '{''value'': ''Right''}'
+      - '{''value'': ''Center''}'
+      required: false
+    - id: 10
+      name: content_outline
+      label: Content Outline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Published''}'
+      - '{''value'': ''In Progress''}'
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: updated_at
+      label: Last Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: submission_date_range
+      label: Submission Date Range
+      hint: null
+      type: date
+      options: []
+      required: false

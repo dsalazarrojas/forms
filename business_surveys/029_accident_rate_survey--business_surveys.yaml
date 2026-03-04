@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident Rate Survey
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Name of the organization completing the survey
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: survey_period
+      label: Survey Period
+      hint: Time period covered by this survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_sector
+      label: Industry Sector
+      hint: What industry sector does your organization operate in?
+      type: select_one
+      options:
+      - Manufacturing
+      - Construction
+      - Healthcare
+      - Retail
+      - Transportation
+      - Office/Corporate
+      - Education
+      - Hospitality
+      - Other
+      required: true
+    - id: 4
+      name: total_employees
+      label: Total Employees
+      hint: Total number of employees during the survey period
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: total_work_hours
+      label: Total Work Hours
+      hint: Total number of work hours during the survey period
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_accidents
+      label: Total Accidents
+      hint: Total number of accidents during the survey period
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: accident_categories
+      label: Accident Categories
+      hint: What categories of accidents occurred?
+      type: select_multiple
+      options:
+      - Slip/Trip/Fall
+      - Struck by Object
+      - Caught in/Between
+      - Overexertion
+      - Vehicle Accident
+      - Chemical Exposure
+      - Burn
+      - Cut/Laceration
+      - Electrical Shock
+      - Other
+      required: true
+    - id: 8
+      name: accident_locations
+      label: Accident Locations
+      hint: Where did accidents most commonly occur?
+      type: select_multiple
+      options:
+      - Production Floor
+      - Warehouse
+      - Office
+      - Parking Area
+      - Break Room
+      - Restroom
+      - Stairs
+      - Loading Dock
+      - Outdoor Areas
+      - Other
+      required: true
+    - id: 9
+      name: accident_severity_distribution
+      label: Accident Severity Distribution
+      hint: Distribution of accident severity levels
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: time_periods_high_incidence
+      label: Time Periods High Incidence
+      hint: During which time periods did accidents occur most frequently?
+      type: select_multiple
+      options:
+      - Early Morning (6-10 AM)
+      - Mid-Morning (10 AM-12 PM)
+      - Afternoon (12-5 PM)
+      - Evening (5-10 PM)
+      - Night Shift (10 PM-6 AM)
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Weekend
+      required: true
+    - id: 11
+      name: departments_affected
+      label: Departments Affected
+      hint: Which departments had the highest accident rates?
+      type: select_multiple
+      options:
+      - Production
+      - Maintenance
+      - Shipping/Receiving
+      - Administration
+      - Sales
+      - Customer Service
+      - IT
+      - Human Resources
+      - Other
+      required: true
+    - id: 12
+      name: contributing_factors
+      label: Contributing Factors
+      hint: What factors contributed to the accidents?
+      type: select_multiple
+      options:
+      - Equipment failure
+      - Inadequate training
+      - Poor housekeeping
+      - Fatigue
+      - Time pressure
+      - Inadequate supervision
+      - Defective tools/equipment
+      - Environmental hazards
+      - Human error
+      - Other
+      required: true
+    - id: 13
+      name: accident_precursors
+      label: Accident Precursors
+      hint: What warning signs preceded the accidents?
+      type: select_multiple
+      options:
+      - Equipment malfunctions
+      - Safety violations
+      - Near misses
+      - Complaints about conditions
+      - Increased stress levels
+      - Maintenance delays
+      - None observed
+      - Other
+      required: true
+    - id: 14
+      name: safety_program_effectiveness
+      label: Safety Program Effectiveness
+      hint: How effective is your current safety program?
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Moderately Effective
+      - Minimally Effective
+      - Not Effective
+      required: true
+    - id: 15
+      name: safety_training_frequency
+      label: Safety Training Frequency
+      hint: How often is safety training provided?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      - Only during onboarding
+      - As needed
+      - Never
+      required: true
+    - id: 16
+      name: safety_equipment_adequacy
+      label: Safety Equipment Adequacy
+      hint: How adequate is your safety equipment?
+      type: select_one
+      options:
+      - More than adequate
+      - Adequate
+      - Marginally adequate
+      - Inadequate
+      - Severely inadequate
+      required: true
+    - id: 17
+      name: accident_reporting_compliance
+      label: Accident Reporting Compliance
+      hint: How well do employees comply with accident reporting requirements?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 18
+      name: safety_improvement_priorities
+      label: Safety Improvement Priorities
+      hint: What are your top priorities for improving safety?
+      type: select_multiple
+      options:
+      - Equipment upgrades
+      - Training programs
+      - Hazard identification
+      - Safety culture
+      - Management commitment
+      - Employee involvement
+      - Incident investigation
+      - Other
+      required: true
+    - id: 19
+      name: budget_allocated_safety
+      label: Budget Allocated Safety
+      hint: What percentage of your budget is allocated to safety measures?
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments about accident rates or safety measures?
+      type: text
+      options: []
+      required: false

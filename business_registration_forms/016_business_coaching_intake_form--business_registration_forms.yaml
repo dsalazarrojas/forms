@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Coaching Intake Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your business email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_information
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name
+      hint: Your company name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_type
+      label: Business Type
+      hint: What type of business do you operate
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: years_in_business
+      label: Years in Business
+      hint: How long has your business been operating
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under 50k
+      - 50k-100k
+      - 100k-250k
+      - 250k-500k
+      - 500k-1M
+      - 1M-5M
+      - 5M+
+      required: true
+    - id: 11
+      name: employee_count
+      label: Number of Employees
+      hint: Current staff size
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: current_challenges
+      label: -- Current Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_challenge
+      label: Primary Business Challenge
+      hint: What is your biggest challenge right now
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: challenge_impact
+      label: Impact of Challenge
+      hint: How is this affecting your business
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: challenge_duration
+      label: How Long Has This Been an Issue
+      hint: Timeline of the challenge
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1+ years
+      required: true
+    - id: 16
+      name: attempted_solutions
+      label: Solutions Already Attempted
+      hint: What have you tried so far
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: coaching_goals
+      label: -- Coaching Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: primary_goal
+      label: Primary Goal for Coaching
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: success_metrics
+      label: Success Metrics
+      hint: How will you measure success
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: timeline_goal
+      label: Timeline for Goal Achievement
+      hint: When do you want to achieve this
+      type: select_one
+      options:
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 21
+      name: coaching_preferences
+      label: -- Coaching Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: coaching_format
+      label: Preferred Coaching Format
+      hint: How would you like to work together
+      type: select_one
+      options:
+      - One-on-one sessions
+      - Group coaching
+      - Hybrid approach
+      - No preference
+      required: true
+    - id: 23
+      name: session_frequency
+      label: Desired Session Frequency
+      hint: How often do you want to meet
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: true
+    - id: 24
+      name: biggest_success_factor
+      label: What Would Be Your Biggest Success Factor
+      hint: What support would help most
+      type: text
+      options: []
+      required: false

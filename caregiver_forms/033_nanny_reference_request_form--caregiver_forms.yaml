@@ -1,0 +1,304 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nanny Reference Request Form
+    pages:
+    - id: 1
+      name: employer_info
+      label: Employer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reference_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reference_request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: nanny_name
+      label: Nanny Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: nanny_phone
+      label: Nanny Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employer_phone
+      label: Employer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reference_info
+      label: Reference Info
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: false
+    - id: 9
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full Time
+      - Part Time
+      - Temporary
+      required: false
+    - id: 10
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - 0-12
+      - 13-18
+      - 19-23
+      required: false
+    - id: 12
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: job_duration
+      label: Job Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: pay_info
+      label: Pay Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: pay_frequency
+      label: Pay Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Hourly
+      - Bi-Weekly
+      - Monthly
+      - Weekly
+      required: false
+    - id: 17
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 18
+      name: reference_status
+      label: Reference Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reference_date
+      label: Reference Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: reference_time
+      label: Reference Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: reference_location
+      label: Reference Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reference_type
+      label: Reference Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Phone
+      - Video
+      required: false
+    - id: 24
+      name: job_notes
+      label: Job Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: employer_signature
+      label: Employer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: nanny_signature
+      label: Nanny Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 29
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 30
+      name: reference_signature
+      label: Reference Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: employer_title
+      label: Employer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: nanny_title
+      label: Nanny Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: reference_info_2
+      label: Reference Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false

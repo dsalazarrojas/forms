@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Control Review Survey
+    pages:
+    - id: 1
+      name: financial_control_effectiveness
+      label: Financial Control Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: financial_risks
+      label: Financial Risks
+      hint: null
+      type: select_one
+      options:
+      - Risk 1
+      - Risk 2
+      - Risk 3
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: Financial Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

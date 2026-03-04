@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Collaboration Insight Survey
+    pages:
+    - id: 1
+      name: team_member_info
+      label: Team Member Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_level
+      label: How would you rate your collaboration level with your team members?
+      hint: null
+      type: select_one
+      options:
+      - Team Collaboration
+      - Limited Collaboration
+      - No Collaboration
+      required: false
+    - id: 3
+      name: collaboration_frequency
+      label: How often do you collaborate with your team members?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 4
+      name: collaboration_effectiveness
+      label: How would you rate the effectiveness of your team's collaboration?
+      hint: null
+      type: select_one
+      options:
+      - Highly Effective
+      - Somewhat Effective
+      - Not Very Effective
+      - Not Effective At All
+      required: false
+    - id: 5
+      name: collaboration_importance
+      label: How important do you think collaboration is in your job?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Very Important
+      - Not Important At All
+      required: false
+    - id: 6
+      name: collaboration_tools
+      label: Which of the following tools does your team use for collaboration?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Chat
+      - Video conference
+      - Shared drive
+      required: false
+    - id: 7
+      name: collaboration_barriers
+      label: Which of the following challenges does your team face for collaboration?
+      hint: null
+      type: select_multiple
+      options:
+      - Communication issues
+      - Time zone differences
+      - Cultural differences
+      - Technical issues
+      required: false
+    - id: 8
+      name: collaboration_opportunities
+      label: Which of the following opportunities does your team see for collaboration?
+      hint: null
+      type: select_multiple
+      options:
+      - Improved teamwork
+      - Increased productivity
+      - Better communication
+      - Improved work environment
+      required: false
+    - id: 9
+      name: collaboration_recommendations
+      label: What would improve team collaboration?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: collaboration_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: team_member_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: team_member_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_member_title
+      label: Team Member Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_level
+      label: Job Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_type
+      label: Job Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_member_since
+      label: How long have you been with the team?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: team_member_since_options
+      label: Since options
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false
+    - id: 24
+      name: team_member_since_historical
+      label: Historical options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Cancel
+      - Preview
+      required: false

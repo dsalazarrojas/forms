@@ -1,0 +1,242 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Closing Check Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Person performing closing
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Staff identification
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location or Department
+      hint: Which facility or area you're closing
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: closing_date
+      label: Closing Date
+      hint: Date of closing
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: closing_time
+      label: Closing Time
+      hint: When closing procedures started
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: section_facility
+      label: -- Facility Condition --
+      hint: Check facility status
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: floors_cleaned
+      label: All floors cleaned and swept
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Partial
+      - Not done
+      - N/A
+      required: true
+    - id: 8
+      name: restrooms_checked
+      label: Restrooms cleaned and restocked
+      hint: Paper towels, soap, supplies
+      type: select_one
+      options:
+      - Completed
+      - Partial
+      - Not done
+      - N/A
+      required: true
+    - id: 9
+      name: trash_removed
+      label: All trash removed and bins emptied
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Partial
+      - Not done
+      - N/A
+      required: true
+    - id: 10
+      name: surfaces_wiped
+      label: All surfaces wiped and disinfected
+      hint: Counters, desks, high-touch areas
+      type: select_one
+      options:
+      - Completed
+      - Partial
+      - Not done
+      - N/A
+      required: true
+    - id: 11
+      name: section_security
+      label: -- Security and Access --
+      hint: Security procedures
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: doors_locked
+      label: All doors locked and secured
+      hint: Front, back, and side entrances
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not done
+      - N/A
+      required: true
+    - id: 13
+      name: windows_locked
+      label: All windows locked and checked
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not done
+      - N/A
+      required: true
+    - id: 14
+      name: alarm_activated
+      label: Security alarm armed and activated
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not done
+      - N/A
+      required: true
+    - id: 15
+      name: lights_off
+      label: All unnecessary lights turned off
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not done
+      - N/A
+      required: true
+    - id: 16
+      name: section_equipment
+      label: -- Equipment and Systems --
+      hint: Check equipment shutdown
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: equipment_powered_down
+      label: All equipment powered down and secured
+      hint: Computers, printers, machinery
+      type: select_one
+      options:
+      - Completed
+      - In progress
+      - Not done
+      - N/A
+      required: true
+    - id: 18
+      name: water_shut_off
+      label: Water and utilities checked
+      hint: Taps off, no leaks detected
+      type: select_one
+      options:
+      - Completed
+      - Issues found
+      - Not checked
+      - N/A
+      required: true
+    - id: 19
+      name: climate_control
+      label: Climate control set appropriately
+      hint: AC/heat, thermostat
+      type: select_one
+      options:
+      - Completed
+      - Not done
+      - N/A
+      required: true
+    - id: 20
+      name: section_issues
+      label: -- Issues and Maintenance --
+      hint: Report any problems
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: issues_found
+      label: Any issues or problems encountered
+      hint: null
+      type: select_one
+      options:
+      - No issues
+      - Minor issues
+      - Significant issues
+      - Urgent repairs needed
+      required: true
+    - id: 22
+      name: issue_description
+      label: Describe any issues found
+      hint: Damage, maintenance needs, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: issue_reported
+      label: Issues reported to management
+      hint: null
+      type: select_one
+      options:
+      - Yes, reported
+      - Not applicable
+      - Will report tomorrow
+      - No
+      required: false
+    - id: 24
+      name: supervisor_notified
+      label: Supervisor name if contacted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional notes or observations
+      hint: null
+      type: text
+      options: []
+      required: false

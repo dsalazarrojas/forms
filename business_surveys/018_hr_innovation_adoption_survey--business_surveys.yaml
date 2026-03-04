@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Innovation Adoption Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Survey
+      hint: null
+      type: select_one
+      options:
+      - Adoption of new tools
+      - New tool implementation
+      - HR innovation
+      - Other
+      - None of the above
+      required: false
+    - id: 2
+      name: company_employees
+      label: Company
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_count
+      label: Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tool_implementation
+      label: Implementation
+      hint: null
+      type: select_multiple
+      options:
+      - Automated HR systems
+      - HR software
+      - HR apps
+      - HR hardware
+      required: false
+    - id: 5
+      name: innovation_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - HR analytics
+      - HR automation
+      - HR communication
+      - HR engagement
+      - HR management
+      - HR reporting
+      required: false
+    - id: 6
+      name: adoption_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Not adopted
+      - Pilot
+      - Adopted
+      - Planning
+      - Not planned
+      required: false
+    - id: 7
+      name: innovation_impact
+      label: Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: implementation_status
+      label: Implementation
+      hint: null
+      type: select_one
+      options:
+      - Not planned
+      - In progress
+      - Completed
+      - On-hold
+      required: false
+    - id: 9
+      name: implementation_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: innovation_roadmap
+      label: Roadmap
+      hint: null
+      type: select_multiple
+      options:
+      - Cloud HR
+      - HR analytics
+      - HR automation
+      - HR communication
+      - HR engagement
+      - HR management
+      - HR reporting
+      - HR services
+      required: false
+    - id: 11
+      name: innovation_funding
+      label: Funding
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: innovation_ownership
+      label: Ownership
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      - Joint
+      required: false
+    - id: 13
+      name: innovation_partners
+      label: Partners
+      hint: null
+      type: select_multiple
+      options:
+      - Internal
+      - External
+      - Joint
+      - HR
+      - Non-HR
+      required: false
+    - id: 14
+      name: innovation_roadmap_phase
+      label: Phase
+      hint: null
+      type: select_one
+      options:
+      - Phase 1
+      - Phase 2
+      - Phase 3
+      - Phase 4
+      - Phase 5
+      required: false
+    - id: 15
+      name: innovation_roadmap_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      - On-hold
+      required: false
+    - id: 16
+      name: innovation_roadmap_budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: innovation_roadmap_start_date
+      label: Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: innovation_roadmap_end_date
+      label: End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: innovation_roadmap_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: company_roadmap
+      label: Roadmap
+      hint: null
+      type: select_multiple
+      options:
+      - Phase 1
+      - Phase 2
+      - Phase 3
+      - Phase 4
+      - Phase 5
+      required: false
+    - id: 21
+      name: company_roadmap_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      - On-hold
+      required: false
+    - id: 22
+      name: company_roadmap_budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: company_roadmap_start_date
+      label: Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: company_roadmap_end_date
+      label: End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: company_roadmap_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Routing Feedback Survey
+    pages:
+    - id: 1
+      name: routing_feedback_survey
+      label: Routing Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: feedback_question_1
+      label: What is your experience with our routing system?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: routing_system_1
+      label: Our system's navigation efficiency
+      hint: null
+      type: select_one
+      options:
+      - Very Efficient
+      - Somewhat Efficient
+      - Neutral
+      - Somewhat Inefficient
+      - Very Inefficient
+      required: false
+    - id: 5
+      name: feedback_question_2
+      label: Can our system help you reach your destination?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: routing_system_2
+      label: Our system's information quality
+      hint: null
+      type: select_one
+      options:
+      - Highly Accurate
+      - Somewhat Accurate
+      - Neutral
+      - Somewhat Inaccurate
+      - Highly Inaccurate
+      required: false
+    - id: 7
+      name: additional_feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: routing_feedback_survey_question_1
+      label: What did we do well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: routing_feedback_survey_question_2
+      label: How did we do poorly?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: routing_feedback_survey_question_3
+      label: Any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_multiple
+      options:
+      - Is correct
+      - Is not correct
+      required: false
+    - id: 15
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_multiple
+      options:
+      - Is correct
+      - Is not correct
+      required: false

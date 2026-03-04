@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Document Submission Experience Survey
+    pages:
+    - id: 1
+      name: submission_process
+      label: What is your tax document submission process like?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission_method
+      label: What method do you use to submit tax documents?
+      hint: null
+      type: select_multiple
+      options:
+      - Upload
+      - Manual entry
+      - Automated processing
+      required: true
+    - id: 3
+      name: document_format
+      label: What format do you usually submit tax documents in?
+      hint: null
+      type: select_multiple
+      options:
+      - CSV
+      - Excel
+      - PDF
+      - JSON
+      required: true
+    - id: 4
+      name: submission_frequency
+      label: How often do you submit tax documents?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      required: true
+    - id: 5
+      name: submission_success
+      label: How often do you experience successful submission?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: true
+    - id: 6
+      name: average_time_to_submit
+      label: What is the average time it takes to submit tax documents?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: average_documents_submitted
+      label: How many tax documents do you submit on average per month?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: document_size
+      label: What is the average size of a submitted tax document?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: document_type
+      label: Which document type do you submit most frequently?
+      hint: null
+      type: select_multiple
+      options:
+      - W-2
+      - '1095'
+      - Other
+      required: true
+    - id: 10
+      name: submission_channel
+      label: What channel do you use for submission?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Chat
+      - In-person
+      required: true
+    - id: 11
+      name: submission_issues
+      label: What issues do you experience with submissions?
+      hint: null
+      type: select_multiple
+      options:
+      - Delayed processing
+      - Errors
+      - Lack of clarity
+      - Other
+      required: true
+    - id: 12
+      name: submission_support
+      label: What support do you need with submissions?
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Technical
+      - Account
+      - Other
+      required: true
+    - id: 13
+      name: submitted_documents
+      label: How many documents do you submit?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: submitted_tax_year
+      label: Which tax year do you submit most frequently?
+      hint: null
+      type: select_multiple
+      options:
+      - '2020'
+      - '2021'
+      - '2022'
+      - Other
+      required: true
+    - id: 15
+      name: submitted_state
+      label: Which state do you submit to?
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - California
+      - Florida
+      - Other
+      required: true
+    - id: 16
+      name: submitted_entity
+      label: Which entity do you submit for?
+      hint: null
+      type: select_multiple
+      options:
+      - Individuals
+      - Business
+      - Partnership
+      - Other
+      required: true
+    - id: 17
+      name: submitted_type
+      label: What type of document do you submit?
+      hint: null
+      type: select_multiple
+      options:
+      - Return
+      - Payment
+      - Other
+      required: true
+    - id: 18
+      name: submitted_frequency
+      label: How frequent are your submissions?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
+      required: true
+    - id: 19
+      name: submitted_success_rate
+      label: What is your submission success rate?
+      hint: null
+      type: select_one
+      options:
+      - 0-25
+      - 26-50
+      - 51-75
+      - 76-100
+      - '100'
+      required: true
+    - id: 20
+      name: submitted_time
+      label: What time do you usually submit tax documents?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: submitted_by
+      label: Who submits tax documents?
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Team member
+      - Manager
+      - Automated system
+      required: true
+    - id: 22
+      name: submitted_process_time
+      label: How long does it take to submit tax documents?
+      hint: null
+      type: select_one
+      options:
+      - Less than 10 minutes
+      - 10-30 minutes
+      - 30-60 minutes
+      - More than 60 minutes
+      required: true
+    - id: 23
+      name: submitted_frequency
+      label: How often are tax documents submitted?
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Multiple
+      - Rarely
+      - Frequently
+      required: true
+    - id: 24
+      name: submission_method
+      label: What is the submission method?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submission_frequency
+      label: How often are you submitting tax documents?
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Frequently
+      - Occasionally
+      - Daily
+      - Weekly
+      required: true

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: university_student_course_load_check_in
+    pages:
+    - id: 1
+      name: semester
+      label: Semester
+      hint: null
+      type: select_one
+      options:
+      - Winter
+      - Spring
+      - Summer
+      - Fall
+      - Other
+      required: false
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Enter Student ID
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_grade_level
+      label: Student Grade Level
+      hint: Undergraduate, Graduate, etc.
+      type: select_one
+      options:
+      - Undergraduate
+      - Graduate
+      - Other
+      required: false
+    - id: 5
+      name: course_id
+      label: Course ID
+      hint: Enter Course ID
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_name
+      label: Course Name
+      hint: Enter Course Name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: credit_hours
+      label: Credit Hours
+      hint: Enter Credit Hours
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: enrollment_status
+      label: Enrollment Status
+      hint: Currently Enrolled, Dropped, etc.
+      type: select_one
+      options:
+      - Currently Enrolled
+      - Dropped
+      - Other
+      required: false
+    - id: 9
+      name: check_in_date
+      label: Check-in Date
+      hint: Date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: check_in_time
+      label: Check-in Time
+      hint: Time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Enter Comments
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Academic Support
+      - Financial Support
+      - Other
+      required: false
+    - id: 15
+      name: support_type
+      label: Support Type
+      hint: Describe support needs
+      type: text
+      options: []
+      required: false

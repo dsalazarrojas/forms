@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Check Form Template
+    pages:
+    - id: 1
+      name: product_info
+      label: Product info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: defects
+      label: Defects
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quality_assessment
+      label: Quality Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quality_rating
+      label: Quality Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: signature
+      label: Inspector's Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Enrollment And Liability Form
+    pages:
+    - id: 1
+      name: header_registration
+      label: -- Registration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: DOB for age verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Primary contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and relationship
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Best phone for emergencies
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions and Allergies
+      hint: Provide details and required actions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: liability_release
+      label: Liability Release Agreement
+      hint: Agreement to program terms and liability waiver
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: pickup_authorized
+      label: Authorized Pickup Persons
+      hint: Names of people authorized to pick up the child
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: photo_consent
+      label: Photo Consent
+      hint: Allow use of images for program materials
+      type: select_one
+      options:
+      - Yes allow
+      - No do not allow
+      required: false
+    - id: 11
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Any accommodations required during camp
+      type: text
+      options: []
+      required: false

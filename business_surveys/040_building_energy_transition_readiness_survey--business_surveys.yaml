@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Energy Transition Readiness Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: building_name
+      label: Building Name
+      hint: Name of building
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: building_address
+      label: Building Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: building_type
+      label: Building Type
+      hint: Classification
+      type: select_one
+      options:
+      - Office Building
+      - Residential Complex
+      - Retail Center
+      - Industrial Facility
+      - Healthcare Facility
+      - Educational Institution
+      - Mixed Use
+      - Other
+      required: true
+    - id: 10
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: building_size
+      label: Building Size
+      hint: Square footage
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: energy_management_role
+      label: Your Role in Energy Management
+      hint: Your involvement
+      type: select_one
+      options:
+      - Primary Decision Maker
+      - Influencer/Advisor
+      - Implementation Lead
+      - Operations Staff
+      - Limited Involvement
+      required: true
+    - id: 13
+      name: current_energy_sources
+      label: Current Energy Sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Grid Electricity
+      - Natural Gas
+      - Fuel Oil
+      - Propane
+      - Solar Power
+      - Wind Power
+      - Geothermal
+      - Biomass
+      required: true
+    - id: 14
+      name: annual_energy_spend
+      label: Annual Energy Spend
+      hint: Approximate cost
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1,000,000
+      - Over $1,000,000
+      required: true
+    - id: 15
+      name: sustainability_goals
+      label: Sustainability Goals
+      hint: Does organization have goals
+      type: select_one
+      options:
+      - Yes - Net Zero Target
+      - Yes - Carbon Neutral Target
+      - Yes - Reduction Targets
+      - Considering Goals
+      - No Goals Set
+      required: true
+    - id: 16
+      name: target_year
+      label: Target Year
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: energy_audit_status
+      label: Energy Audit Status
+      hint: Have you had an audit
+      type: select_one
+      options:
+      - Yes - Within 1 Year
+      - Yes - 1-3 Years Ago
+      - Yes - Over 3 Years Ago
+      - No - Never
+      - Planned
+      required: true
+    - id: 18
+      name: existing_efficiency_measures
+      label: Existing Efficiency Measures
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - LED Lighting
+      - Smart Thermostats
+      - Building Automation
+      - High Efficiency HVAC
+      - Improved Insulation
+      - Energy Efficient Windows
+      - Solar Panels
+      - Battery Storage
+      - EV Charging
+      - None
+      required: true
+    - id: 19
+      name: electrification_status
+      label: Electrification Status
+      hint: Current state
+      type: select_one
+      options:
+      - Fully Electrified
+      - Mostly Electrified
+      - Partially Electrified
+      - Minimal Electrification
+      - Not Electrified
+      required: true
+    - id: 20
+      name: barriers_to_transition
+      label: Barriers to Energy Transition
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - High Upfront Costs
+      - Lack of Information
+      - Technical Complexity
+      - Operational Disruption
+      - Regulatory Uncertainty
+      - Limited Budget
+      - Stakeholder Resistance
+      - Grid Capacity Issues
+      - None
+      required: true
+    - id: 21
+      name: budget_availability
+      label: Budget Availability
+      hint: Funds for energy projects
+      type: select_one
+      options:
+      - Budget Allocated
+      - Budget Under Discussion
+      - No Budget Currently
+      - Seeking External Funding
+      - Unknown
+      required: true
+    - id: 22
+      name: incentive_awareness
+      label: Incentive Awareness
+      hint: Knowledge of rebates
+      type: select_one
+      options:
+      - Very Aware
+      - Somewhat Aware
+      - Not Very Aware
+      - Not Aware at All
+      required: true
+    - id: 23
+      name: priority_projects
+      label: Priority Projects
+      hint: What are you considering
+      type: select_multiple
+      options:
+      - HVAC Upgrade
+      - Lighting Retrofit
+      - Building Automation
+      - Solar Installation
+      - Battery Storage
+      - EV Charging
+      - Electrification
+      - Envelope Improvements
+      - None Currently
+      required: true
+    - id: 24
+      name: timeline_for_action
+      label: Timeline for Action
+      hint: When will you act
+      type: select_one
+      options:
+      - Within 6 Months
+      - 6-12 Months
+      - 1-2 Years
+      - 2-5 Years
+      - No Plans Currently
+      required: true
+    - id: 25
+      name: support_needed
+      label: Support Needed
+      hint: What help do you need
+      type: select_multiple
+      options:
+      - Energy Audit
+      - Financial Analysis
+      - Technical Consultation
+      - Project Management
+      - Incentive Assistance
+      - Implementation Support
+      - Monitoring and Verification
+      - None
+      required: true
+    - id: 26
+      name: overall_readiness
+      label: Overall Readiness Level
+      hint: Self-assessment
+      type: select_one
+      options:
+      - Very Ready - Ready to Act
+      - Ready - Planning Stage
+      - Somewhat Ready - Considering
+      - Not Very Ready - Early Stage
+      - Not Ready - Not Considering
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

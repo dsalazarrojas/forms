@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: research_development_evaluation_form_template
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_title
+      label: project title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: research_focus_area
+      label: research focus area
+      hint: null
+      type: select_multiple
+      options:
+      - Software Development
+      - Data Science
+      - Artificial Intelligence
+      required: true
+    - id: 4
+      name: project_goals_objectives
+      label: project goals and objectives
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: project_description
+      label: project description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: research_methodology
+      label: research methodology
+      hint: null
+      type: select_one
+      options:
+      - Case Study
+      - Literature Review
+      - Experimental Design
+      - Survey
+      - Case Study
+      - Experimental Design
+      required: true
+    - id: 7
+      name: project_status
+      label: project status
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: next_steps
+      label: next steps
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: project_lead
+      label: project lead
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: research_area
+      label: research area
+      hint: null
+      type: select_multiple
+      options:
+      - Software Development
+      - Data Science
+      - Artificial Intelligence
+      - Human-Computer Interaction
+      - Machine Learning
+      required: true
+    - id: 11
+      name: project_start_date
+      label: project start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: project_end_date
+      label: project end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: project_duration
+      label: project duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: project_location
+      label: project location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_funding
+      label: project funding
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: project_outcome
+      label: project outcome
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: team_members
+      label: team members
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: research_team
+      label: research team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: project_outcome_status
+      label: project outcome status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: review_date
+      label: review date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: next_review_date
+      label: next review date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: next_review_status
+      label: next review status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 23
+      name: evaluation_score
+      label: evaluation score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: evaluation_comment
+      label: evaluation comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 25
+      name: final_review_status
+      label: final review status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false

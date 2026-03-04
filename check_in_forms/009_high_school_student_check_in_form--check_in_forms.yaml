@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: High School Student Check In Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_location
+      label: student_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: student_grade_level
+      label: grade_level
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: student_class
+      label: class
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: student_contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: student_additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

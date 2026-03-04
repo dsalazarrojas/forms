@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faculty Collaboration Networks Survey
+    pages:
+    - id: 1
+      name: faculty_collaboration_networks_survey_page_1
+      label: What is this form about?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: select_one_faculty
+      label: Which department are you from?
+      hint: null
+      type: select_one
+      options:
+      - Department of Computer Science
+      - Department of Engineering
+      - Department of Math and Computer Science
+      required: true
+    - id: 3
+      name: select_multiple_faculty
+      label: Which departments are you collaborating with?
+      hint: null
+      type: select_multiple
+      options:
+      - Department of Computer Science
+      - Department of Engineering
+      required: true
+    - id: 4
+      name: time_faculty
+      label: What is the expected duration of the collaboration?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: note_faculty
+      label: Additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: faculty_collaboration_networks_survey_page_2
+      label: Faculty Collaboration Networks Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_faculty
+      label: Your contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_faculty
+      label: Your contact phone number
+      hint: null
+      type: text
+      options: []
+      required: false

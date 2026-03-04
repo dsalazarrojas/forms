@@ -1,0 +1,531 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seller Discovery Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_birth
+      label: Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: seller_type
+      label: Seller Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: seller_preferences
+      label: Seller Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: seller_survey_id
+      label: Seller Survey ID
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: survey_status
+      label: Survey Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: survey_id
+      label: Survey ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: deleted
+      label: Deleted
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 25
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 26
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: user_address
+      label: User Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: user_zip
+      label: User Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: user_date_of_birth
+      label: User Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 30
+      name: user_time_of_birth
+      label: User Time of Birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 31
+      name: user_note
+      label: User Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: user_survey_id
+      label: User Survey ID
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 33
+      name: user_survey_status
+      label: User Survey Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 34
+      name: user_form_id
+      label: User Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: user_form_version
+      label: User Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 36
+      name: user_updated_at
+      label: User Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: user_updated_by
+      label: User Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: user_created_at
+      label: User Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 39
+      name: user_created_by
+      label: User Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: user_deleted_at
+      label: User Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 41
+      name: user_deleted_by
+      label: User Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: user_deleted
+      label: User Deleted
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 43
+      name: form_version_1
+      label: Form Version 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 44
+      name: form_version_2
+      label: Form Version 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 45
+      name: form_version_3
+      label: Form Version 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 46
+      name: form_updated_at_1
+      label: Updated At 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 47
+      name: form_updated_by_1
+      label: Updated By 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: form_created_at_1
+      label: Created At 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 49
+      name: form_created_by_1
+      label: Created By 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: form_deleted_at_1
+      label: Deleted At 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 51
+      name: form_deleted_by_1
+      label: Deleted By 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: form_deleted_1
+      label: Deleted 1
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 53
+      name: form_version_2
+      label: Form Version 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 54
+      name: form_version_3
+      label: Form Version 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 55
+      name: form_updated_at_2
+      label: Updated At 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 56
+      name: form_updated_by_2
+      label: Updated By 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 57
+      name: form_created_at_2
+      label: Created At 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 58
+      name: form_created_by_2
+      label: Created By 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 59
+      name: form_deleted_at_2
+      label: Deleted At 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 60
+      name: form_deleted_by_2
+      label: Deleted By 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 61
+      name: form_deleted_2
+      label: Deleted 2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 62
+      name: form_version_3
+      label: Form Version 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 63
+      name: form_version_4
+      label: Form Version 4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 64
+      name: form_updated_at_3
+      label: Updated At 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 65
+      name: form_updated_by_3
+      label: Updated By 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 66
+      name: form_created_at_3
+      label: Created At 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 67
+      name: form_created_by_3
+      label: Created By 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 68
+      name: form_deleted_at_3
+      label: Deleted At 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 69
+      name: form_deleted_by_3
+      label: Deleted By 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 70
+      name: form_deleted_3
+      label: Deleted 3
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

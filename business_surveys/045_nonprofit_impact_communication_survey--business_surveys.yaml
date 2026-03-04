@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Impact Communication Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_method
+      label: How do you usually get our communications?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Social Media
+      - Text Message
+      required: true
+    - id: 3
+      name: communication_frequency
+      label: How often do you get our communications?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 4
+      name: communication_value
+      label: What value do you get from our communications?
+      hint: null
+      type: select_one
+      options:
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: true
+    - id: 5
+      name: communication_help
+      label: How much help do you get from our communications?
+      hint: null
+      type: select_one
+      options:
+      - A lot
+      - Somewhat
+      - Not at all
+      required: true
+    - id: 6
+      name: communication_clarity
+      label: How clear are our communications?
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Somewhat Clear
+      - Not clear
+      required: true
+    - id: 7
+      name: communication_timeliness
+      label: How timely are our communications?
+      hint: null
+      type: select_one
+      options:
+      - Timely
+      - Somewhat Timely
+      - Not Timely
+      required: true
+    - id: 8
+      name: communication_frequency_desired
+      label: How often would you like to get our communications?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 9
+      name: communication_help_desired
+      label: How much help would you like to get from our communications?
+      hint: null
+      type: select_one
+      options:
+      - A lot
+      - Somewhat
+      - Not at all
+      required: true
+    - id: 10
+      name: communication_clarity_desired
+      label: How clear would you like our communications to be?
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Somewhat clear
+      - Not clear
+      required: true
+    - id: 11
+      name: communication_timeliness_desired
+      label: How timely would you like our communications to be?
+      hint: null
+      type: select_one
+      options:
+      - Timely
+      - Somewhat timely
+      - Not timely
+      required: true
+    - id: 12
+      name: comments
+      label: Any comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: social_media
+      label: Social media?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other
+      label: How did you hear about us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_method
+      label: Other?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_method_detail
+      label: Please specify other method?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission
+      label: Nonprofit Impact Communication Survey
+      hint: null
+      type: text
+      options: []
+      required: false

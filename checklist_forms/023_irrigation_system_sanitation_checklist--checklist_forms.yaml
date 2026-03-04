@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Irrigation System Sanitation Checklist
+    pages:
+    - id: 1
+      name: main_page
+      label: Main
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_name
+      label: site_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: site_address
+      label: site_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: site_contact
+      label: site_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pump_type
+      label: pump_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pump_status
+      label: pump_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: pump_maintenance
+      label: pump_maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: water_quality
+      label: water_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 9
+      name: water_level
+      label: water_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 10
+      name: pipe_condition
+      label: pipe_condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: pipe_leakage
+      label: pipe_leakage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: pipe_insulation
+      label: pipe_insulation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: pipe_support
+      label: pipe_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: pipe_cover
+      label: pipe_cover
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: pipe_alignment
+      label: pipe_alignment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: pipe_clearance
+      label: pipe_clearance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: pipe_inspection_date
+      label: pipe_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: pump_inspection_date
+      label: pump_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false

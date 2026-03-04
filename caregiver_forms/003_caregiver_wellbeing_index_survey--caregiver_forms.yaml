@@ -1,0 +1,245 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Wellbeing Index Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Caregiver Wellbeing Assessment
+        hint: This survey helps assess your overall wellbeing as a caregiver
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: caregiver_name
+        label: Caregiver Name
+        hint: Optional - for personal tracking
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: survey_date
+        label: Survey Date
+        hint: Today date
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: caregiving_duration
+        label: How long have you been a caregiver
+        hint: Duration in current role
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 3 years
+          - 3 to 5 years
+          - 5 to 10 years
+          - Over 10 years
+        required: true
+      - id: 5
+        name: care_recipient
+        label: Who do you provide care for
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Spouse or partner
+          - Parent or parent-in-law
+          - Child under 18
+          - Adult child with special needs
+          - Sibling
+          - Grandparent
+          - Other relative
+          - Non-relative client
+        required: true
+      - id: 6
+        name: weekly_hours
+        label: Average Hours of Care Per Week
+        hint: Total caregiving hours weekly
+        type: select_one
+        options:
+          - Less than 10 hours
+          - 10 to 20 hours
+          - 20 to 40 hours
+          - 40 to 60 hours
+          - Over 60 hours
+        required: true
+      - id: 7
+        name: stress_level
+        label: Current Stress Level
+        hint: Rate your stress over the past week
+        type: select_one
+        options:
+          - 1 - Very Low
+          - 2 - Low
+          - 3 - Moderate
+          - 4 - High
+          - 5 - Very High
+        required: true
+      - id: 8
+        name: physical_health
+        label: How would you rate your physical health
+        hint: Overall physical wellbeing
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: emotional_health
+        label: How would you rate your emotional health
+        hint: Mental and emotional wellbeing
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: sleep_quality
+        label: Sleep Quality Assessment
+        hint: Past week sleep patterns
+        type: select_one
+        options:
+          - Excellent - 7-8 hours nightly
+          - Good - 6-7 hours nightly
+          - Fair - 5-6 hours or interrupted
+          - Poor - Less than 5 hours
+          - Very Poor - Severe insomnia
+        required: true
+      - id: 11
+        name: support_system
+        label: Do you have adequate support from family or friends
+        hint: Available help from others
+        type: select_one
+        options:
+          - Yes - very supportive
+          - Somewhat supportive
+          - Minimal support
+          - No support available
+        required: true
+      - id: 12
+        name: professional_support
+        label: Do you receive professional support
+        hint: Counseling therapy or support groups
+        type: select_one
+        options:
+          - Yes - regular counseling
+          - Yes - support groups
+          - Occasionally
+          - No but interested
+          - No - not interested
+        required: true
+      - id: 13
+        name: self_care_frequency
+        label: How often do you practice self-care
+        hint: Activities for your wellbeing
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Once per week
+          - Occasionally
+          - Never
+        required: true
+      - id: 14
+        name: burnout_symptoms
+        label: Have you experienced burnout symptoms
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Emotional exhaustion
+          - Detachment from care recipient
+          - Reduced sense of accomplishment
+          - Physical fatigue
+          - Irritability or anger
+          - Anxiety or depression
+          - Sleep disturbances
+          - None of these
+        required: true
+      - id: 15
+        name: work_life_balance
+        label: How satisfied are you with work-life balance
+        hint: Balance between caregiving and personal life
+        type: select_one
+        options:
+          - Very satisfied
+          - Somewhat satisfied
+          - Neutral
+          - Somewhat dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 16
+        name: financial_strain
+        label: Do you experience financial strain from caregiving
+        hint: Impact on finances
+        type: select_one
+        options:
+          - Significant strain
+          - Moderate strain
+          - Minor strain
+          - No financial impact
+        required: true
+      - id: 17
+        name: respite_care
+        label: Do you use respite care services
+        hint: Temporary relief care
+        type: select_one
+        options:
+          - Yes - regularly
+          - Yes - occasionally
+          - No but interested
+          - No - not needed
+          - No - not available
+        required: true
+      - id: 18
+        name: overall_wellbeing
+        label: Overall Wellbeing Rating
+        hint: Your general sense of wellness
+        type: select_one
+        options:
+          - Thriving - I feel great
+          - Doing well - Mostly positive
+          - Getting by - Managing okay
+          - Struggling - Finding it hard
+          - Suffering - Need help urgently
+        required: true
+      - id: 19
+        name: additional_support_needed
+        label: What additional support would help you most
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Respite care services
+          - Counseling or therapy
+          - Financial assistance
+          - Training and education
+          - Support groups
+          - Home health assistance
+          - Transportation help
+          - Meal services
+          - None needed
+        required: false
+      - id: 20
+        name: comments
+        label: Additional Comments or Concerns
+        hint: Share anything else on your mind
+        type: text
+        options: []
+        required: false

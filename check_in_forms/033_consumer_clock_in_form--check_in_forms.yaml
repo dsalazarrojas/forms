@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Clock In Form
+    pages:
+    - id: 1
+      name: employee_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of your supervisor
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_location
+      label: Work Location
+      hint: Where are you working
+      type: select_one
+      options:
+      - Main Office
+      - Remote
+      - Client Site
+      - Branch Office
+      - Field Location
+      - Other
+      required: true
+    - id: 9
+      name: specific_location
+      label: Specific Location
+      hint: Building, floor, or address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: clock_in_date
+      label: Clock In Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: clock_in_time
+      label: Clock In Time
+      hint: Time you are starting work
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: shift_type
+      label: Shift Type
+      hint: Select your shift
+      type: select_one
+      options:
+      - Morning Shift
+      - Afternoon Shift
+      - Evening Shift
+      - Night Shift
+      - Flexible
+      - Overtime
+      required: true
+    - id: 13
+      name: scheduled_start_time
+      label: Scheduled Start Time
+      hint: Your expected start time
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: work_type
+      label: Type of Work
+      hint: What type of work today
+      type: select_one
+      options:
+      - Regular Hours
+      - Overtime
+      - Weekend
+      - Holiday
+      - Training
+      - Meeting
+      - Travel
+      required: true
+    - id: 15
+      name: project_code
+      label: Project Code
+      hint: Code for project if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: task_description
+      label: Primary Task or Assignment
+      hint: What will you be working on
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: equipment_used
+      label: Equipment or Tools Used
+      hint: List equipment if applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: safety_checklist
+      label: Safety Checklist Completed
+      hint: Select if safety check done
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: false
+    - id: 19
+      name: uniform_compliance
+      label: Uniform or Dress Code
+      hint: Are you in compliance
+      type: select_one
+      options:
+      - Yes, In Compliance
+      - false
+      - Not Applicable
+      required: false
+    - id: 20
+      name: breaks_expected
+      label: Expected Breaks
+      hint: Number of breaks expected
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: meal_break_required
+      label: Meal Break Required
+      hint: Will you take a meal break
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: notes
+      label: Additional Notes
+      hint: Any notes for supervisor
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: verification
+      label: Verification
+      hint: I confirm this information is accurate
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true

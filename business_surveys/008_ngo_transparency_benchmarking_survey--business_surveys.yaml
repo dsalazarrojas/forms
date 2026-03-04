@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Transparency Benchmarking Survey
+    pages:
+    - id: 1
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Non-profit
+      - For-profit
+      - Hybrid
+      - Government
+      required: false
+    - id: 2
+      name: financial_disclosure
+      label: Financial Disclosures
+      hint: null
+      type: select_multiple
+      options:
+      - Income statement
+      - Balance sheet
+      - Cash flow statement
+      required: false
+    - id: 3
+      name: transparency_practices
+      label: Transparency Practices
+      hint: null
+      type: select_one
+      options:
+      - Open financial data
+      - Public data portal
+      - Annual reports
+      - Board meeting minutes
+      required: false
+    - id: 4
+      name: financial_benchmarking
+      label: Financial Benchmarking
+      hint: null
+      type: select_multiple
+      options:
+      - Financial performance ratios
+      - Revenue growth
+      - Financial health
+      required: false
+    - id: 5
+      name: governance
+      label: Governance
+      hint: null
+      type: select_one
+      options:
+      - Board size and composition
+      - CEO compensation
+      - Conflict of interest policies
+      required: false
+    - id: 6
+      name: policy
+      label: Policies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Governance improvement
+      - Communication
+      - Stakeholder engagement
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

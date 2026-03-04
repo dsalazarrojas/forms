@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Business Application Form
+    pages:
+    - id: 1
+      name: section_header_business
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_license_number
+      label: Business License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ein
+      label: Employer Identification Number (EIN)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Dealership
+      - Service Center
+      - Repair Shop
+      - Body Shop
+      - Parts Supplier
+      - Rental Agency
+      - Auction House
+      - Financing Company
+      - Other
+      required: true
+    - id: 6
+      name: section_header_address
+      label: -- Business Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: owner_name
+      label: Owner or Principal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_header_operations
+      label: -- Business Operations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: years_in_business
+      label: Years in Business
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: number_of_employees
+      label: Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: annual_revenue
+      label: Annual Revenue
+      hint: null
+      type: select_one
+      options:
+      - Under 100000
+      - 100000-500000
+      - 500000-1000000
+      - 1000000-5000000
+      - Over 5000000
+      required: true
+    - id: 20
+      name: section_header_services
+      label: -- Services and Inventory --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: services_offered
+      label: Services Offered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - New Vehicle Sales
+      - Used Vehicle Sales
+      - Service and Repair
+      - Maintenance
+      - Parts Sales
+      - Rentals
+      - Finance Services
+      - Trading/Auction
+      required: true
+    - id: 22
+      name: average_inventory
+      label: Average Vehicle Inventory
+      hint: Approximate number of vehicles on lot
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_header_certification
+      label: -- Certifications and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: manufacturer_certifications
+      label: Manufacturer Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true

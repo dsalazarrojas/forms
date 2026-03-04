@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microfinance Loan Application And Agreement Form
+    pages:
+    - id: 1
+      name: form_information
+      label: form_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: borrower_details
+      label: borrower_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: loan_details
+      label: loan_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: loan_terms
+      label: loan_terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: borrower_income
+      label: borrower_income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: loan_amount
+      label: loan_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: loan_interest
+      label: loan_interest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: loan_terms_2
+      label: loan_terms_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: borrower_signature
+      label: borrower_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: lender_signature
+      label: lender_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: note
+      label: note
+      hint: null
+      type: text
+      options: []
+      required: false

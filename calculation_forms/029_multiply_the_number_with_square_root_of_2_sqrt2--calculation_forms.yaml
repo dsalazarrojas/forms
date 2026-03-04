@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: multiply_the_number_with_square_root_of_2
+    pages:
+    - id: 1
+      name: multiply_number_with_square_root
+      label: The Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: multiply_result
+      label: Result
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: select_result_type
+      label: Result Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: select_result_type_options_1
+      label: Result Type 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_result_type_options_2
+      label: Result Type 2
+      hint: null
+      type: text
+      options: []
+      required: false

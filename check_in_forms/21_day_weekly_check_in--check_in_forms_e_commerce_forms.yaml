@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 21 Day Weekly Check In
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- 21-Day Transformation Program --- Weekly Progress Check-In'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Full Name
+      hint: Enter your name as registered for the program
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: The email associated with your program purchase
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: check_in_date
+      label: Date of Check-In
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: program_week
+      label: Which week are you completing?
+      hint: Select the week you just finished
+      type: select_one
+      options:
+      - Week 1 (Days 1-7): Foundation Phase
+      - Week 2 (Days 8-14): Building Momentum
+      - Week 3 (Days 15-21): Final Transformation
+      required: true
+    - id: 6
+      name: section_metrics
+      label: '--- Progress Metrics ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: current_weight
+      label: Current Weight (lbs or kg)
+      hint: Optional tracking metric. Leave blank if preferred.
+      type: decimal
+      options: []
+      required: false
+    - id: 8
+      name: energy_level
+      label: Energy Level This Week (1-10)
+      hint: 1 = Completely exhausted, 10 = Best energy ever
+      type: integer
+      options: []
+      required: true
+    - id: 9
+      name: sleep_average
+      label: Average Sleep per Night (hours)
+      hint: 'Example: 7.5'
+      type: decimal
+      options: []
+      required: false
+    - id: 10
+      name: workouts_completed
+      label: Scheduled Workouts Completed
+      hint: How many of this week's workouts did you finish? (0-7)
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: section_reflection
+      label: '--- Weekly Reflection ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: mood_rating
+      label: Overall Mood This Week
+      hint: How did you feel mentally and emotionally?
+      type: select_one
+      options:
+      - Amazing - felt strong and motivated
+      - Good - steady progress
+      - Neutral - had ups and downs
+      - Challenging - struggled but pushed through
+      - Difficult - ready for a reset
+      required: true
+    - id: 13
+      name: wins_achieved
+      label: Wins & Victories (Select all that apply)
+      hint: What went well this week?
+      type: select_multiple
+      options:
+      - Completed all scheduled workouts
+      - Hit nutrition/meal plan goals
+      - Stayed hydrated (water intake)
+      - Improved sleep quality
+      - Resisted cravings/temptations
+      - Increased weights or intensity
+      - Felt more confident in body/clothes
+      - Received compliments from others
+      required: false
+    - id: 14
+      name: biggest_challenge
+      label: Biggest Challenge This Week
+      hint: What was your main obstacle?
+      type: select_one
+      options:
+      - Time management/scheduling conflicts
+      - Travel or work events
+      - Low motivation or willpower
+      - Minor injury or illness
+      - Family or social obligations
+      - Meal prep fatigue or food boredom
+      - Sleep disruptions
+      - None - smooth sailing!
+      required: true
+    - id: 15
+      name: challenge_details
+      label: Tell us more about your challenges
+      hint: How can we better support you next week?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: adherence_rating
+      label: Program Adherence This Week
+      hint: Be honest - this helps us customize your next week
+      type: select_one
+      options:
+      - 100% - Followed everything perfectly
+      - 80-99% - Minor slip-ups only
+      - 60-79% - Hit most major goals
+      - 40-59% - Struggled but kept showing up
+      - Under 40% - Need a fresh start
+      required: true
+    - id: 17
+      name: section_feedback
+      label: '--- Program Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: material_satisfaction
+      label: Satisfaction with Workouts & Meal Plans (1-10)
+      hint: 10 = Love them, can't wait for next week
+      type: integer
+      options: []
+      required: true
+    - id: 19
+      name: support_needed
+      label: Support Needed for Next Week (Select all)
+      hint: How can we help you succeed?
+      type: select_multiple
+      options:
+      - Quick meal prep ideas/recipes
+      - Workout modifications (injury-friendly)
+      - Motivation and accountability check
+      - Time-saving efficiency tips
+      - Nutrition/macro guidance
+      - Mindset coaching strategies
+      - Technical help with materials
+      required: false
+    - id: 20
+      name: next_week_goals
+      label: Goals for Next Week
+      hint: What will you focus on improving?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: additional_feedback
+      label: Additional Comments or Feedback
+      hint: Anything else we should know about your experience?
+      type: text
+      options: []
+      required: false

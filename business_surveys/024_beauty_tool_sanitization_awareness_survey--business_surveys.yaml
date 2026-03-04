@@ -1,0 +1,153 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Tool Sanitization Awareness Survey
+    pages:
+      - id: 1
+        name: section_habits
+        label: -- Personal Sanitization Habits --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: cleaning_frequency
+        label: How often do you clean your personal beauty tools?
+        hint: e.g. brushes, sponges, tweezers
+        type: select_one
+        options:
+          - After every use
+          - Once a week
+          - Once a month
+          - Every few months
+          - Never
+        required: true
+      - id: 3
+        name: cleaning_method
+        label: What is your primary method for cleaning tools?
+        hint: null
+        type: select_multiple
+        options:
+          - Soap and Water
+          - Specialized Brush Cleanser
+          - Isopropyl Alcohol (70%+)
+          - UV Sanitizer Box
+          - Disposable Applicators
+        required: true
+      - id: 4
+        name: tool_replacement_frequency
+        label: How often do you replace tools like makeup sponges or loofahs?
+        hint: null
+        type: select_one
+        options:
+          - Monthly
+          - Every 3 months
+          - Every 6 months
+          - Once a year
+          - Only when visibly damaged
+        required: true
+      - id: 5
+        name: section_awareness
+        label: -- Sanitization Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: knowledge_of_bacteria
+        label: How aware are you of the risks of bacteria buildup on beauty tools?
+        hint: null
+        type: select_one
+        options:
+          - Very Aware
+          - Somewhat Aware
+          - Slightly Aware
+          - Not Aware at All
+        required: true
+      - id: 7
+        name: skin_reaction_history
+        label: Have you ever experienced a skin reaction you suspect was from dirty tools?
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - I suspect so
+          - No
+          - Unsure
+        required: true
+      - id: 8
+        name: barrier_to_cleaning
+        label: What is the biggest barrier to cleaning your tools more often?
+        hint: null
+        type: select_one
+        options:
+          - Lack of time
+          - Forgetting to do it
+          - Not knowing how to clean them properly
+          - Cost of cleaning supplies
+          - Too many tools to manage
+        required: false
+      - id: 9
+        name: section_professional_standards
+        label: -- Professional Standards Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: observation_of_professionals
+        label: When receiving services, how closely do you observe the professional's sanitization?
+        hint: null
+        type: select_one
+        options:
+          - Very closely
+          - Somewhat closely
+          - I trust their process without checking
+          - I don't pay attention
+        required: true
+      - id: 11
+        name: importance_of_certification
+        label: How important is it that a salon displays its sanitization certification?
+        hint: null
+        type: select_one
+        options:
+          - Extremely Important
+          - Important
+          - Neutral
+          - Not Important
+        required: true
+      - id: 12
+        name: educational_interest
+        label: Would you be interested in learning more about home tool sanitization?
+        hint: null
+        type: select_one
+        options:
+          - Yes, via email
+          - Yes, in-person workshop
+          - No thanks
+        required: false
+      - id: 13
+        name: open_comments
+        label: Share any tips or concerns regarding beauty tool hygiene
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: survey_date
+        label: Date
+        hint: null
+        type: date
+        options: []
+        required: true

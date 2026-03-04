@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swim Camp Registration Form
+    pages:
+    - id: 1
+      name: swimmer_info
+      label: Swimmer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: registration_fees
+      label: Registration Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: swimmer_activities
+      label: Swimmer Activities
+      hint: null
+      type: select_multiple
+      options:
+      - Dive
+      - Freestyle
+      - Backstroke
+      - Breaststroke
+      - Butterfly
+      required: true
+    - id: 4
+      name: swimmer_contact
+      label: Swimmer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: swim_camp
+      label: Swim Camp
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: swimmer_birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: true

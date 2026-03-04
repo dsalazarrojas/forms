@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Cancellation Survey Form
+    pages:
+    - id: 1
+      name: cancel_reason
+      label: Why are you cancelling your subscription?
+      hint: null
+      type: select_multiple
+      options:
+      - Cancellation by Choice
+      - Unsatisfied with services
+      - Other
+      required: true
+    - id: 2
+      name: feedback
+      label: Could you provide some feedback about the services we offer?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction
+      label: On a scale of 0-5, how satisfied were you with our services?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: recommendation
+      label: Would you recommend our services to others?
+      hint: null
+      type: select_one
+      options:
+      - Strongly
+      - Somewhat
+      - Not at all
+      required: true
+    - id: 5
+      name: cancellation_date
+      label: What date did you request cancellation?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Additional notes about cancellation?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

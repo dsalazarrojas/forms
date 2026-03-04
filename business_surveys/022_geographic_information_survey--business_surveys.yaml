@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Geographic Information Survey
+    pages:
+    - id: 1
+      name: survey_location
+      label: Where did you visit?
+      hint: null
+      type: select_one
+      options:
+      - options1
+      - options2
+      required: true
+    - id: 2
+      name: age
+      label: how_old_are_you
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: income_level
+      label: income_level
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 4
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - options1
+      - options2
+      required: false
+    - id: 5
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_visit_time
+      label: time_of_visit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: visit_length
+      label: visit_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: how_did_you_hear
+      label: how_did_you_hear
+      hint: null
+      type: select_multiple
+      options:
+      - options1
+      - options2
+      required: false
+    - id: 12
+      name: how_would_you_recommend
+      label: how_would_you_recommend
+      hint: null
+      type: select_multiple
+      options:
+      - options1
+      - options2
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: visit_frequency
+      label: visit_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: visit_duration
+      label: visit_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: visit_time
+      label: visit_time
+      hint: null
+      type: time
+      options: []
+      required: false

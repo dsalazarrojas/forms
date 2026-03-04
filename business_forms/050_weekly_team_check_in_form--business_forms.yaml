@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Team Check In Form
+    pages:
+    - id: 1
+      name: team_checkin
+      label: Team Check In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_one
+      options:
+      - challenges
+      - Other
+      required: false
+    - id: 3
+      name: achievements
+      label: Achievements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: update
+      label: updates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: false

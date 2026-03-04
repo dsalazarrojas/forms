@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_coaching_call_check_in_form
+    pages:
+    - id: 1
+      name: coaching_call_details
+      label: Coaching Call Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: goals
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''goal1'', ''label'': ''Goal 1''}'
+      - '{''id'': 2, ''name'': ''goal2'', ''label'': ''Goal 2''}'
+      - '{''id'': 3, ''name'': ''goal3'', ''label'': ''Goal 3''}'
+      required: false
+    - id: 3
+      name: call_date
+      label: Call Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: coaching_call_notes
+      label: Coaching Call Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coaching_call_duration
+      label: Coaching Call Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: coaching_call_outcome
+      label: Coaching Call Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''goal1'', ''label'': ''Goal 1''}'
+      - '{''id'': 2, ''name'': ''goal2'', ''label'': ''Goal 2''}'
+      required: false
+    - id: 8
+      name: additional_resources
+      label: Additional Resources
+      hint: null
+      type: text
+      options: []
+      required: false

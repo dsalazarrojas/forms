@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Organization Structure Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Library Organization Structure Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: main_organizing_unit
+      label: Main Organizing Unit
+      hint: Describe the main organizing unit of your library.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: main_organizing_unit_department
+      label: Main Organizing Unit Department
+      hint: Describe the main organizing unit department.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: main_organizing_unit_department_head
+      label: Main Organizing Unit Department Head
+      hint: Describe the main organizing unit department head.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reporting_line
+      label: Reporting Line
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''flat'', ''label'': ''Flat''}'
+      - '{''id'': 12, ''name'': ''hierarchical'', ''label'': ''Hierarchical''}'
+      required: false
+    - id: 6
+      name: reporting_line_description
+      label: Reporting Line Description
+      hint: Describe the reporting line of your library.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: staffing
+      label: Staffing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 13, ''name'': ''librarian'', ''label'': ''Librarian''}'
+      - '{''id'': 14, ''name'': ''technical'', ''label'': ''Technical''}'
+      - '{''id'': 15, ''name'': ''support_staff'', ''label'': ''Support Staff''}'
+      required: false
+    - id: 8
+      name: staffing_level
+      label: Staffing Level
+      hint: How many staff are currently employed in the main organizing unit?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: total_staff
+      label: Total Staff
+      hint: How many staff are currently employed in the main organizing unit?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staffing_ratio
+      label: Staffing Ratio
+      hint: What is the current staffing ratio (staff per 1000 items)?
+      type: number
+      options: []
+      required: false

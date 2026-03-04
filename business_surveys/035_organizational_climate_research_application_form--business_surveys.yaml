@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Climate Research Application Form
+    pages:
+    - id: 1
+      name: organization_details
+      label: Organization Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: research_interest
+      label: Research Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_multiple
+      options:
+      - Research
+      - Partnership
+      - Collaboration
+      required: false
+    - id: 8
+      name: research_areas
+      label: Research Areas
+      hint: null
+      type: select_one
+      options:
+      - Organizational Development
+      - Team Effectiveness
+      - Organizational Learning
+      - Innovation
+      - Organizational Learning
+      - Organizational Development
+      - Team Effectiveness
+      - Innovation
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: note
+      options: []
+      required: false

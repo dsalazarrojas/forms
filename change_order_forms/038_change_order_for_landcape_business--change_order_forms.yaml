@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Order For Landcape Business
+    pages:
+    - id: 1
+      name: change_order_date
+      label: Change Order Date
+      hint: Date issued
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: change_order_number
+      label: Change Order Number
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_number
+      label: Job or Project Number
+      hint: Landscape project identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: Property owner name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_contact
+      label: Customer Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: Where work is being done
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: original_contract_date
+      label: Original Contract Date
+      hint: When contract was signed
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: original_contract_amount
+      label: Original Contract Amount
+      hint: Initial project cost
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: work_description
+      label: Original Work Description
+      hint: What was originally contracted
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: change_type
+      label: Type of Change
+      hint: Category of modification
+      type: select_one
+      options:
+      - Additional Work
+      - Scope Reduction
+      - Material Upgrade
+      - Material Downgrade
+      - Design Modification
+      required: true
+    - id: 11
+      name: change_description
+      label: Description of Change
+      hint: What is being changed
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: affected_area
+      label: Area or Feature Affected
+      hint: Which part of landscape
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: original_materials
+      label: Original Materials Specified
+      hint: What was originally planned
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: new_materials
+      label: New Materials Specified
+      hint: What will be used instead
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: change_cost
+      label: Cost of Change
+      hint: Amount for modification
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: new_contract_total
+      label: New Contract Total
+      hint: Total after change
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: timeline_impact
+      label: Impact on Timeline
+      hint: Does change affect schedule
+      type: select_one
+      options:
+      - No Impact
+      - Shortens Timeline
+      - Extends Timeline
+      - Significant Delay
+      required: false
+    - id: 18
+      name: new_completion_date
+      label: New Estimated Completion Date
+      hint: If timeline affected
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why change is needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_status
+      label: Approval Status
+      hint: Current status
+      type: select_one
+      options:
+      - Pending Approval
+      - Approved
+      - Rejected
+      required: true
+    - id: 21
+      name: contractor_authorized
+      label: Contractor Authorization
+      hint: Authorized by contractor
+      type: select_one
+      options:
+      - 'Yes'
+      - Pending
+      - 'No'
+      required: true
+    - id: 22
+      name: customer_acceptance
+      label: Customer Acceptance
+      hint: Customer agrees to change
+      type: select_one
+      options:
+      - Accepted
+      - Pending
+      - Declined
+      required: true

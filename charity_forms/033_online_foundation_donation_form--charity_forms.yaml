@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Foundation Donation Form
+    pages:
+    - id: 1
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: recurring_donor
+      label: Recurring Donor
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - One time
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Online Bank Transfer
+      - Check
+      - Credit/Debit Card
+      required: true
+    - id: 6
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: charity_name
+      label: Charity Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: charity_address
+      label: Charity Address
+      hint: null
+      type: text
+      options: []
+      required: false

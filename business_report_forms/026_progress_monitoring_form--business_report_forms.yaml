@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Progress Monitoring Form
+    pages:
+    - id: 1
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expected_completion_date
+      label: Expected Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: next_milestone
+      label: Next Milestone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_resources
+      label: Project Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_team
+      label: Project Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_status_update
+      label: Project Status Update
+      hint: null
+      type: text
+      options: []
+      required: false

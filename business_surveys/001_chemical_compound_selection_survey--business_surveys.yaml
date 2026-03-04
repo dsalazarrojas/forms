@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Compound Selection Survey
+    pages:
+    - id: 1
+      name: section_project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_title
+      label: Project Title
+      hint: Enter the name of the research project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_compound_specs
+      label: -- Compound Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: compound_class
+      label: Compound Class
+      hint: Select the primary chemical classification
+      type: select_one
+      options:
+      - label: Organic
+        value: organic
+      - label: Inorganic
+        value: inorganic
+      - label: Organometallic
+        value: organometallic
+      - label: Polymer
+        value: polymer
+      required: true
+    - id: 5
+      name: chemical_formula
+      label: Chemical Formula
+      hint: e.g., C6H12O6
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_purity
+      label: Target Purity Percentage
+      hint: Minimum acceptable purity level
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: quantity_required
+      label: Quantity Required in Milligrams
+      hint: Enter whole number
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: key_properties
+      label: Key Property Requirements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - label: High Solubility
+        value: solubility
+      - label: Thermal Stability
+        value: stability
+      - label: Low Reactivity
+        value: reactivity
+      - label: Optical Clarity
+        value: clarity
+      required: false
+    - id: 9
+      name: required_date
+      label: Required By Date
+      hint: When is this compound needed?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: section_additional_details
+      label: -- Additional Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: storage_conditions
+      label: Specific Storage Conditions
+      hint: e.g., Keep under Nitrogen, -20C
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: researcher_email
+      label: Lead Researcher Email
+      hint: Primary contact for this selection
+      type: email
+      options: []
+      required: true

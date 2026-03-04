@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Equipment Check Out Form
+    pages:
+    - id: 1
+      name: user
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment
+      label: Equipment Selection
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''equipment_1''}'
+      - '{''name'': ''equipment_2''}'
+      required: false
+    - id: 3
+      name: check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: check_in_date
+      label: Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: equipment_details
+      label: Equipment Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: rental_duration
+      label: Rental Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Good''}'
+      - '{''name'': ''Fair''}'
+      - '{''name'': ''Poor''}'
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false

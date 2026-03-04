@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Acquisition Form
+    pages:
+    - id: 1
+      name: asset_requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requesting_department
+      label: Requesting Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: asset_title_description
+      label: Asset Title and Brief Description
+      hint: e.g. MacBook Pro M3, Industrial Laser Cutter
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: acquisition_purpose
+      label: Primary Purpose of Acquisition
+      hint: How will this asset be used to support operations
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estimated_cost_acquisition
+      label: Total Estimated Cost
+      hint: Including shipping and taxes in USD
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: primary_vendor_name
+      label: Preferred Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: alternative_vendors_list
+      label: Alternative Vendors Considered
+      hint: Briefly explain why the primary was chosen
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: budget_project_code
+      label: Budget Code or Project ID
+      hint: Required for financial allocation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: asset_lifecycle_years
+      label: Estimated Asset Lifecycle in Years
+      hint: How long do you expect this asset to remain in service
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: maintenance_req_notes
+      label: Ongoing Maintenance and Support Requirements
+      hint: e.g. Annual service contract needed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_approval_notice_acq
+      label: Note - This acquisition requires department manager sign-off
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: request_date_acq
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: urgent_need_flag_acq
+      label: Is this an urgent acquisition request
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

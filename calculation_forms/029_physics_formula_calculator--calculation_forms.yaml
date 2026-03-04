@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: physics_formula_calculator
+    pages:
+    - id: 1
+      name: calculate_force
+      label: calculate force
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''mass'', ''value'': ''mass''}'
+      - '{''id'': 2, ''label'': ''acceleration'', ''value'': ''acceleration''}'
+      - '{''id'': 3, ''label'': ''gravity'', ''value'': ''gravity''}'
+      required: false
+    - id: 2
+      name: calculate_speed
+      label: calculate speed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''distance'', ''value'': ''distance''}'
+      - '{''id'': 2, ''label'': ''time'', ''value'': ''time''}'
+      required: false
+    - id: 3
+      name: calculate_energy
+      label: calculate energy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: calculate_potential_energy
+      label: calculate potential energy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: calculate_momentum
+      label: calculate momentum
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: calculate_kinetic_energy
+      label: calculate kinetic energy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: calculate_impulse
+      label: calculate impulse
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: calculate_work
+      label: calculate work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: calculate_power
+      label: calculate power
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: calculate_force_constant
+      label: calculate force constant
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''mass constant'', ''value'': ''mass constant''}'
+      - '{''id'': 2, ''label'': ''acceleration constant'', ''value'': ''acceleration
+        constant''}'
+      required: false
+    - id: 11
+      name: calculate_force
+      label: calculate force
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: calculate_momentum_constant
+      label: calculate momentum constant
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1, ''value'': 1}'
+      - '{''id'': 2, ''label'': 2, ''value'': 2}'
+      required: false
+    - id: 13
+      name: calculate_speed_constant
+      label: calculate speed constant
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''constant speed'', ''value'': ''constant speed''}'
+      - '{''id'': 2, ''label'': ''constant acceleration'', ''value'': ''constant acceleration''}'
+      required: false
+    - id: 14
+      name: calculate_energy_constant
+      label: calculate energy constant
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1, ''value'': 1}'
+      - '{''id'': 2, ''label'': 2, ''value'': 2}'
+      required: false
+    - id: 15
+      name: calculate_potential_energy
+      label: calculate potential energy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: calculate_angular_momentum
+      label: calculate angular momentum
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: gmp_audit_checklist
+    pages:
+    - id: 1
+      name: audit_scope
+      label: Audit Scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: gmp_policy
+      label: GMP Policy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: regulatory_authorization
+      label: Regulatory Authorization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: audit_frequency
+      label: Audit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: management_systems
+      label: Management Systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: gmp_certifications
+      label: GMP Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: regulatory_standards
+      label: Regulatory Standards
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: audit_scheduling
+      label: Audit Scheduling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_and_experience
+      label: Training and Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: personnel_involved
+      label: Personnel Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: equipment_and_vehicles
+      label: Equipment and Vehicles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: records_and_documents
+      label: Records and Documents
+      hint: null
+      type: text
+      options: []
+      required: false

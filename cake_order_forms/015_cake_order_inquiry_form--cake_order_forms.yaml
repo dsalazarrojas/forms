@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Order Inquiry Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_header
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      - Graduation
+      - Corporate Event
+      - Baby Shower
+      - Bridal Shower
+      - Other
+      required: true
+    - id: 7
+      name: event_date
+      label: Planned Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Estimated Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: cake_preferences_header
+      label: -- Cake Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preferred_flavors
+      label: Preferred Cake Flavors
+      hint: Select all you like
+      type: select_multiple
+      options:
+      - Chocolate
+      - Vanilla
+      - Strawberry
+      - Red Velvet
+      - Lemon
+      - Carrot
+      - Cheesecake
+      - Other
+      required: true
+    - id: 11
+      name: frosting_preferences
+      label: Frosting Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Buttercream
+      - Cream Cheese
+      - Chocolate Ganache
+      - Fondant
+      - Whipped Cream
+      - No preference
+      required: false
+    - id: 12
+      name: dietary_restrictions
+      label: Do you have dietary restrictions?
+      hint: null
+      type: select_multiple
+      options:
+      - Gluten-free
+      - Dairy-free
+      - Vegan
+      - Nut-free
+      - Sugar-free
+      - None
+      required: true
+    - id: 13
+      name: budget_header
+      label: -- Budget and Style --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under $100
+      - $100 - $250
+      - $250 - $500
+      - $500 - $1000
+      - $1000+
+      required: true
+    - id: 15
+      name: cake_style
+      label: Preferred Cake Style
+      hint: null
+      type: select_one
+      options:
+      - Elegant and formal
+      - Fun and whimsical
+      - Modern and minimalist
+      - Traditional
+      - No preference
+      required: false
+    - id: 16
+      name: design_ideas
+      label: Design Ideas or Inspiration
+      hint: Describe your vision
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: color_preferences
+      label: Color Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: feedback_header
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: previous_cakes
+      label: Have you ordered from us before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any other details you'd like us to know
+      type: text
+      options: []
+      required: false

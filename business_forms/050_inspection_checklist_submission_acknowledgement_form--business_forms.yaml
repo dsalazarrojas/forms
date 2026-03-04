@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: inspection_checklist_submission_acknowledgement_form
+    pages:
+    - id: 1
+      name: first_page
+      label: First
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_details
+      label: Business Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: inspection_data
+      label: Inspection Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5.1, ''name'': ''User 1''}'
+      - '{''id'': 5.2, ''name'': ''User 2''}'
+      - '{''id'': 5.3, ''name'': ''User 3''}'
+      required: false
+    - id: 6
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false

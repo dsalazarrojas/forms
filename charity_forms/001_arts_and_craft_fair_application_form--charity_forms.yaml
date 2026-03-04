@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arts And Craft Fair Application Form
+    pages:
+    - id: 1
+      name: applicant_first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business or Studio Name
+      hint: Name of your arts/craft business
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_city
+      label: City
+      hint: City where your business is located
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_state
+      label: State/Province
+      hint: State or province code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_zip
+      label: ZIP/Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: craft_category
+      label: Primary Craft Category
+      hint: What type of crafts do you create?
+      type: select_one
+      options:
+      - Paintings and Drawings
+      - Sculpture and Pottery
+      - Jewelry
+      - Textiles and Fiber Arts
+      - Woodworking
+      - Glass Art
+      - Metalwork
+      - Other
+      required: true
+    - id: 11
+      name: craft_description
+      label: Description of Your Crafts
+      hint: Tell us about your artwork and creative style
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_in_business
+      label: Years in Business
+      hint: How long have you been creating and selling your work?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: previous_fair_experience
+      label: Have you participated in craft fairs before?
+      hint: Select one option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: booth_size_preference
+      label: Preferred Booth Size
+      hint: What size booth do you need?
+      type: select_one
+      options:
+      - 6x6 feet
+      - 8x8 feet
+      - 10x10 feet
+      - 12x12 feet
+      - Other size
+      required: true
+    - id: 15
+      name: booth_fee
+      label: Booth Fee Amount
+      hint: Non-refundable application/booth fee
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: insurance_certificate
+      label: Do you have liability insurance?
+      hint: Required by many events
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: special_requirements
+      label: Special Requirements or Accommodations
+      hint: Any special setup needs or accessibility requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: references
+      label: References or Portfolio Links
+      hint: Website, social media, or previous fair links
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: terms_agreement
+      label: I agree to the fair terms and conditions
+      hint: Check to confirm
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 20
+      name: submission_date
+      label: Application Submission Date
+      hint: Date you are submitting this application
+      type: date
+      options: []
+      required: true

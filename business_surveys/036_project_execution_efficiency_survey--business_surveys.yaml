@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Execution Efficiency Survey
+    pages:
+    - id: 1
+      name: project_execution_efficiency_survey
+      label: Project Execution Efficiency
+      hint: null
+      type: select_one
+      options:
+      - Efficiency Very Poor
+      - Efficiency Fair
+      - Efficiency Good
+      - Efficiency Excellent
+      required: false
+    - id: 2
+      name: project_execution_efficiency_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Project Initiation
+      - Project Planning
+      - Project Execution
+      - Project Monitoring
+      - Project Closure
+      required: false
+    - id: 3
+      name: project_execution_efficiency_project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      - On Hold
+      - Canceled
+      required: false
+    - id: 4
+      name: project_execution_efficiency_project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Internal Project
+      - External Project
+      - Joint Venture
+      - Project Portfolio
+      required: false
+    - id: 5
+      name: project_execution_efficiency_project_size
+      label: Project Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: project_execution_efficiency_project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_execution_efficiency_project_cost
+      label: Project Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_execution_efficiency_project_team_size
+      label: Project Team Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_execution_efficiency_project_scope
+      label: Project Scope
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_execution_efficiency_project_quality
+      label: Project Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: project_execution_efficiency_project_risk
+      label: Project Risk
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: project_execution_efficiency_project_satisfaction
+      label: Project Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: project_execution_efficiency_project_completion_rate
+      label: Project Completion Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: project_execution_efficiency_project_execution_speed
+      label: Project Execution Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: project_execution_efficiency_survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: project_execution_efficiency_survey_time
+      label: Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: project_execution_efficiency_survey_notes
+      label: Survey Notes
+      hint: null
+      type: note
+      options: []
+      required: false

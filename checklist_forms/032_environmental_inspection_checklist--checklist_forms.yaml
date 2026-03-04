@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmental_inspection_checklist
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: building_address
+      label: building_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: environmental_hazards
+      label: Environmental Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: safety_hazards
+      label: Safety Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: facility_safety_standards
+      label: Facility Safety Standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: general_comments
+      label: General Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: action_planned
+      label: Action Planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: building_type
+      label: Building Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: number_of_floors
+      label: Number of Floors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: number_of_tenants
+      label: Number of Tenants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_square_footage
+      label: Total Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: electrical_systems
+      label: Electrical Systems
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 21
+      name: plumbing_systems
+      label: Plumbing Systems
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 22
+      name: fire_alarm_system
+      label: Fire Alarm System
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: next_inspection_date
+      label: Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false

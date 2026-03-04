@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: downline_application_form
+    pages:
+    - id: 1
+      name: signup_form
+      label: signup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_form
+      label: contact_form
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''email'', ''value'': ''email''}'
+      - '{''id'': 2, ''label'': ''phone'', ''value'': ''phone''}'
+      - '{''id'': 3, ''label'': ''both'', ''value'': ''both''}'
+      required: true
+    - id: 4
+      name: personal_info
+      label: personal_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: business_details
+      label: business_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: address
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''physical'', ''value'': ''physical''}'
+      - '{''id'': 2, ''label'': ''mailing'', ''value'': ''mailing''}'
+      - '{''id'': 3, ''label'': ''both'', ''value'': ''both''}'
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: place_of_birth
+      label: place_of_birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nationality
+      label: nationality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''American'', ''value'': ''American''}'
+      - '{''id'': 2, ''label'': ''Nigerian'', ''value'': ''Nigerian''}'
+      - '{''id'': 3, ''label'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 11
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''employed'', ''value'': ''employed''}'
+      - '{''id'': 2, ''label'': ''unemployed'', ''value'': ''unemployed''}'
+      - '{''id'': 3, ''label'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 13
+      name: annual_income
+      label: annual_income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''primary'', ''value'': ''primary''}'
+      - '{''id'': 2, ''label'': ''secondary'', ''value'': ''secondary''}'
+      - '{''id'': 3, ''label'': ''tertiary'', ''value'': ''tertiary''}'
+      - '{''id'': 4, ''label'': ''postgraduate'', ''value'': ''postgraduate''}'
+      required: true
+    - id: 15
+      name: marital_status
+      label: marital_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''single'', ''value'': ''single''}'
+      - '{''id'': 2, ''label'': ''married'', ''value'': ''married''}'
+      - '{''id'': 3, ''label'': ''engaged'', ''value'': ''engaged''}'
+      - '{''id'': 4, ''label'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 16
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''male'', ''value'': ''male''}'
+      - '{''id'': 2, ''label'': ''female'', ''value'': ''female''}'
+      - '{''id'': 3, ''label'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 17
+      name: religion
+      label: religion
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Christian'', ''value'': ''Christian''}'
+      - '{''id'': 2, ''label'': ''Muslim'', ''value'': ''Muslim''}'
+      - '{''id'': 3, ''label'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 18
+      name: nationality_2
+      label: nationality_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: address_2
+      label: address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: email_2
+      label: email_2
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: profile_picture
+      label: profile_picture
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''uploaded'', ''value'': ''uploaded''}'
+      - '{''id'': 2, ''label'': ''uploaded'', ''value'': ''uploaded''}'
+      - '{''id'': 3, ''label'': ''upload'', ''value'': ''upload''}'
+      required: false
+    - id: 24
+      name: business_address
+      label: business_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: business_phone
+      label: business_phone
+      hint: null
+      type: text
+      options: []
+      required: false

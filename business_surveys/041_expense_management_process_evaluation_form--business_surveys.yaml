@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Management Process Evaluation Form
+    pages:
+    - id: 1
+      name: expense_workflow
+      label: Expense Workflow
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Option 4
+      - Option 5
+      required: false
+    - id: 3
+      name: reporting_method
+      label: Reporting Method
+      hint: null
+      type: select_multiple
+      options:
+      - Option 6
+      - Option 7
+      - Option 8
+      required: false
+    - id: 4
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - Option 9
+      - Option 10
+      required: false
+    - id: 5
+      name: reporting_deadline
+      label: Reporting Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tool_performance
+      label: Tool Performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

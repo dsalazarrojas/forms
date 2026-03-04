@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: university_workshop_check_in_form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event
+      label: event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: time_in
+      label: time_in
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: time_out
+      label: time_out
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: check_in_status
+      label: check_in_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

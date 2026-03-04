@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: iot_installation_checklist
+    pages:
+    - id: 1
+      name: intro
+      label: iot_installation_checklist
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: site_details
+      label: site_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: install_location
+      label: install_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: install_date
+      label: install_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: verify_connectivity
+      label: verify_connectivity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attach_photos
+      label: attach_photos
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: attach_notes
+      label: attach_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: install_location_2
+      label: install_location2
+      hint: null
+      type: time
+      options: []
+      required: false

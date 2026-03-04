@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AF Membership Cancellation
+    pages:
+    - id: 1
+      name: section_header_member
+      label: '--- Member Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name as on membership records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: membership_id
+      label: Membership ID or account number
+      hint: Enter the alphanumeric ID from your membership documents
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: We'll send a cancellation confirmation to this address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Optional — include country code if outside your country
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: mailing_address
+      label: Mailing address
+      hint: Street, city, state/province, postal code
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: section_header_membership
+      label: '--- Membership & Billing ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: membership_type
+      label: Current membership tier
+      hint: Select the tier shown on your account
+      type: select_one
+      options:
+      - Standard
+      - Premium
+      - Student
+      - Corporate
+      required: true
+    - id: 10
+      name: membership_start_date
+      label: Membership start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: last_payment_amount
+      label: Last payment amount
+      hint: Enter the numeric amount of the most recent charge (currency)
+      type: decimal
+      options: []
+      required: false
+    - id: 12
+      name: last_payment_date
+      label: Date of last payment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: cancellation_effective_date
+      label: Requested cancellation effective date
+      hint: If left blank, cancellation will be processed immediately
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: cancellation_reason
+      label: Primary reason for cancellation
+      hint: Choose the option that best fits your decision
+      type: select_one
+      options:
+      - Cost too high
+      - No longer using services
+      - Found alternative provider
+      - Moving / relocation
+      - Temporary pause
+      - Other
+      required: true
+    - id: 15
+      name: additional_reasons
+      label: Additional reasons (select all that apply)
+      hint: Select any other factors that influenced your decision
+      type: select_multiple
+      options:
+      - Poor customer service
+      - Features missing
+      - Technical issues
+      - Billing problem
+      - Unhappy with content
+      - Health reasons
+      required: false
+    - id: 16
+      name: refund_requested
+      label: Request refund for unused period?
+      hint: Refunds subject to membership terms and eligibility
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: refund_amount_requested
+      label: If requesting refund, amount requested
+      hint: Enter numeric amount (leave blank if not applicable)
+      type: decimal
+      options: []
+      required: false
+    - id: 18
+      name: refund_method_details
+      label: Preferred refund method / account details
+      hint: Bank account, PayPal email, or refund instruction; leave blank if not
+        requesting refund
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: consent_and_confirmation
+      label: I confirm I want to cancel my AF membership and understand the terms
+      hint: Selecting "Yes, I confirm" constitutes an electronic signature
+      type: select_one
+      options:
+      - Yes, I confirm
+      - No, do not cancel
+      required: true
+    - id: 20
+      name: section_header_followup
+      label: '--- Follow-up & Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: would_you_consider_returning
+      label: Would you consider rejoining in the future?
+      hint: Helps us tailor retention offers
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: false
+    - id: 22
+      name: preferred_contact_for_followup
+      label: Preferred contact method for follow-up
+      hint: Leave as 'No contact' to opt out of recovery outreach
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - No contact
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Provide any details that might help us improve or process your request
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: staff_use_only
+      label: Staff processing notes
+      hint: Internal use — do not edit member-provided responses
+      type: note
+      options: []
+      required: false

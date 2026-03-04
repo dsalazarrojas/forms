@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Forecasting Confidence Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Your Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: forecasting_accuracy
+      label: Confidence in Current Forecasting Accuracy
+      hint: null
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Neutral
+      - Not Very Confident
+      - Not Confident
+      required: true
+    - id: 6
+      name: forecast_period
+      label: Preferred Forecasting Time Period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      - Other
+      required: true
+    - id: 7
+      name: methodology_confidence
+      label: Confidence in Forecasting Methodology
+      hint: Current methods and processes
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Neutral
+      - Not Very Confident
+      - Not Confident
+      required: true
+    - id: 8
+      name: data_quality
+      label: Confidence in Data Quality
+      hint: Accuracy and completeness of data
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Neutral
+      - Not Very Confident
+      - Not Confident
+      required: true
+    - id: 9
+      name: forecasting_challenges
+      label: Major Forecasting Challenges
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Limited historical data
+      - Market volatility
+      - Inadequate tools
+      - Insufficient resources
+      - Changing business conditions
+      - External economic factors
+      - No major challenges
+      required: false
+    - id: 10
+      name: forecast_vs_actual
+      label: How Often Do Forecasts Match Actuals
+      hint: null
+      type: select_one
+      options:
+      - Consistently accurate
+      - Mostly accurate
+      - Sometimes accurate
+      - Rarely accurate
+      - Never accurate
+      required: true
+    - id: 11
+      name: variance_tolerance
+      label: Acceptable Variance from Forecast
+      hint: Percentage tolerance
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: forecast_improvement_areas
+      label: Areas Needing Improvement
+      hint: Select top 3
+      type: select_multiple
+      options:
+      - Data collection
+      - Analysis tools
+      - Methodology
+      - Training and skills
+      - Time for analysis
+      - Communication
+      required: false
+    - id: 13
+      name: technology_adequacy
+      label: Adequacy of Forecasting Technology
+      hint: null
+      type: select_one
+      options:
+      - Very Adequate
+      - Adequate
+      - Neutral
+      - Inadequate
+      - Very Inadequate
+      required: true
+    - id: 14
+      name: training_needs
+      label: Training or Development Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: overall_confidence
+      label: Overall Confidence in Budget Forecasting
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

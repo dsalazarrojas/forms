@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Conditioner (HVAC) Installation Checklist
+    pages:
+    - id: 1
+      name: job_details_header
+      label: -- Job Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Installation Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: install_date
+      label: Installation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: technician_name
+      label: Technician Name
+      hint: Lead installer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: equipment_info_header
+      label: -- Equipment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: model_number
+      label: Unit Model Number
+      hint: Outdoor unit
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: serial_number
+      label: Serial Number
+      hint: Outdoor unit
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pre_install_header
+      label: -- Pre-Installation Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: site_survey
+      label: Site Survey Complete
+      hint: Clearances verified
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 11
+      name: electrical_check
+      label: Electrical Supply Verified
+      hint: Voltage and Breaker size
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 12
+      name: install_process_header
+      label: -- Installation Process --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: unit_level
+      label: Unit Level & Secure on Pad
+      hint: Verified with level
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: lineset_insulated
+      label: Lineset Insulated & Sealed
+      hint: No exposed copper
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: vacuum_pulled
+      label: Vacuum Pulled to (Microns)
+      hint: Target < 500
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: refrigerant_charge
+      label: Refrigerant Charge Added (lbs)
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: leak_test
+      label: Nitrogen Leak Test
+      hint: Held pressure?
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 18
+      name: drain_line
+      label: Condensate Drain Connected
+      hint: Trapped and vented
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: post_install_header
+      label: -- Post-Installation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: system_operation
+      label: System Operation Check
+      hint: Cooling/Heating confirmed
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 21
+      name: client_demo
+      label: Thermostat Demo to Client
+      hint: Explained operation
+      type: select_one
+      options:
+      - true
+      - false
+      - Client Not Home
+      required: true
+    - id: 22
+      name: signature
+      label: Technician Signature
+      hint: Type name
+      type: text
+      options: []
+      required: true

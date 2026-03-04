@@ -1,0 +1,331 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Occupancy Optimization Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: -- Building Occupancy Optimization Survey --
+        hint: Help us optimize space usage and occupant comfort
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department or team
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: workspace_location
+        label: Your primary workspace location
+        hint: Floor or area
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: space_usage
+        label: -- Current Space Usage --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: occupancy_pattern
+        label: How often are you in the building?
+        hint: null
+        type: select_one
+        options:
+          - Every day - full-time
+          - Most days - 4-5 days/week
+          - Several days - 2-3 days/week
+          - Few days - 1 day/week
+          - Occasionally - less than monthly
+        required: true
+      - id: 8
+        name: work_from_home
+        label: How often do you work from home?
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Rarely - less than 1 day/week
+          - Sometimes - 1-2 days/week
+          - Frequently - 2-3 days/week
+          - Most days - 4+ days/week
+        required: true
+      - id: 9
+        name: desk_assignment
+        label: Desk or workspace assignment
+        hint: null
+        type: select_one
+        options:
+          - Assigned desk
+          - Assigned flexible space
+          - Shared/unassigned
+          - No permanent workspace
+          - Other
+        required: true
+      - id: 10
+        name: space_adequacy
+        label: Is your assigned workspace adequate?
+        hint: null
+        type: select_one
+        options:
+          - More than adequate
+          - Adequate
+          - Somewhat adequate
+          - Inadequate
+          - Very inadequate
+        required: true
+      - id: 11
+        name: shared_space_usage
+        label: Frequency of shared space use
+        hint: Conference rooms, collaboration areas
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Weekly
+          - Monthly
+          - Never
+        required: true
+      - id: 12
+        name: shared_space_adequacy
+        label: Are shared spaces adequate?
+        hint: null
+        type: select_one
+        options:
+          - More than adequate
+          - Adequate
+          - Somewhat adequate
+          - Inadequate
+          - Very inadequate
+        required: true
+      - id: 13
+        name: space_optimization
+        label: -- Space Optimization --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: peak_hours
+        label: When is the building most crowded?
+        hint: null
+        type: select_multiple
+        options:
+          - Early morning
+          - Mid-morning
+          - Lunch time
+          - Afternoon
+          - Late afternoon
+          - Evening
+          - Specific days of week
+          - All times equally
+        required: true
+      - id: 15
+        name: empty_spaces
+        label: Areas you notice are often underutilized
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: bottleneck_areas
+        label: Areas that feel crowded or congested
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: collaboration_effectiveness
+        label: Effectiveness of collaboration spaces
+        hint: null
+        type: select_one
+        options:
+          - Very effective - well used
+          - Effective - good usage
+          - Adequate - some usage
+          - Poor - rarely used
+          - Not available
+        required: true
+      - id: 18
+        name: amenities_usage
+        label: -- Amenities and Services --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: amenities_available
+        label: Building amenities available
+        hint: null
+        type: select_multiple
+        options:
+          - Cafeteria
+          - Break rooms
+          - Fitness center
+          - Parking
+          - Bike storage
+          - Shower facilities
+          - Childcare
+          - Medical clinic
+          - Library
+          - Recreation areas
+        required: true
+      - id: 20
+        name: amenities_importance
+        label: Which amenities are most important to you?
+        hint: null
+        type: select_multiple
+        options:
+          - Parking
+          - Break/rest areas
+          - Cafeteria
+          - Fitness
+          - Collaboration spaces
+          - Quiet spaces
+          - Technology support
+          - Other
+        required: true
+      - id: 21
+        name: commuting
+        label: -- Commuting and Transportation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: primary_commute
+        label: Primary commuting method
+        hint: null
+        type: select_one
+        options:
+          - Drive personal vehicle
+          - Carpool
+          - Public transit
+          - Bicycle
+          - Walk
+          - Work from home
+          - Other
+        required: true
+      - id: 23
+        name: commute_time
+        label: Average commute time
+        hint: null
+        type: select_one
+        options:
+          - Less than 15 minutes
+          - 15-30 minutes
+          - 30-60 minutes
+          - 1-1.5 hours
+          - More than 1.5 hours
+        required: false
+      - id: 24
+        name: parking_satisfaction
+        label: Parking satisfaction
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+          - N/A - don't drive
+        required: false
+      - id: 25
+        name: transit_options
+        label: -- Work Schedule Flexibility --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: flex_work_interest
+        label: Interest in flexible work schedule
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Interested
+          - Neutral
+          - Not interested
+          - Already flexible
+        required: true
+      - id: 27
+        name: optimal_schedule
+        label: Optimal work schedule for you
+        hint: null
+        type: select_one
+        options:
+          - 9-5 in office
+          - Flexible hours
+          - Compressed week
+          - Alternate days
+          - 4-day week
+          - Primarily remote
+          - Other
+        required: false
+      - id: 28
+        name: recommendations
+        label: -- Optimization Recommendations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 29
+        name: space_improvements
+        label: Recommended space improvements
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: utilization_ideas
+        label: Ideas for better space utilization
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: efficiency_suggestions
+        label: Suggestions to improve efficiency
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: additional_feedback
+        label: Additional comments or feedback
+        hint: null
+        type: text
+        options: []
+        required: false

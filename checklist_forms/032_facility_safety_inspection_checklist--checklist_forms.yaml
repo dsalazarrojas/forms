@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Safety Inspection Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Manufacturing''}'
+      - '{''id'': 2, ''name'': ''Office Building''}'
+      - '{''id'': 3, ''name'': ''Restaurant''}'
+      required: false
+    - id: 4
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_owner
+      label: facility_owner
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Facility A''}'
+      - '{''id'': 2, ''name'': ''Facility B''}'
+      - '{''id'': 3, ''name'': ''Facility C''}'
+      required: false
+    - id: 6
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_rating
+      label: Safety Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: hazards_found
+      label: Hazards Found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_inspector_name
+      label: Follow Up Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false

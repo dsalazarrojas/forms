@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Confined Space Entry Checklist
+    pages:
+      - id: 1
+        name: entry_supervisor
+        label: Entry Supervisor Name
+        hint: Name of the person authorizing and overseeing the entry
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: entry_date
+        label: Entry Date
+        hint: Date of the confined space entry
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: entry_time
+        label: Entry Time
+        hint: Time of entry into confined space
+        type: time
+        options: []
+        required: true
+      - id: 4
+        name: confined_space_location
+        label: Confined Space Location
+        hint: Specific location or identifier of the confined space
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: space_description
+        label: Space Description
+        hint: Brief description of the confined space
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: atmospheric_testing_required
+        label: Atmospheric Testing Required
+        hint: Is atmospheric testing needed before entry
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 7
+        name: oxygen_level_check
+        label: Oxygen Level Check Completed
+        hint: Verify oxygen levels are between 19.5% and 23.5%
+        type: select_one
+        options:
+          - Yes - Within Range
+          - No - Out of Range
+          - Not Tested
+        required: true
+      - id: 8
+        name: flammable_gases_check
+        label: Flammable Gases Check
+        hint: Check for flammable gases or vapors
+        type: select_one
+        options:
+          - None Detected
+          - Detected - Below LEL
+          - Detected - Above LEL
+          - Not Tested
+        required: true
+      - id: 9
+        name: toxic_contaminants_check
+        label: Toxic Contaminants Check
+        hint: Check for toxic substances like CO H2S
+        type: select_one
+        options:
+          - None Detected
+          - Detected - Safe Levels
+          - Detected - Unsafe Levels
+          - Not Tested
+        required: true
+      - id: 10
+        name: ventilation_required
+        label: Ventilation Required
+        hint: Is mechanical ventilation needed
+        type: select_one
+        options:
+          - Yes - Continuous
+          - Yes - Periodic
+          - No
+        required: true
+      - id: 11
+        name: ventilation_equipment_check
+        label: Ventilation Equipment Checked
+        hint: Verify ventilation equipment is functional
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 12
+        name: isolation_lockout_completed
+        label: Isolation and Lockout Completed
+        hint: All energy sources isolated and locked out
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Not Applicable
+        required: true
+      - id: 13
+        name: rescue_equipment_available
+        label: Rescue Equipment Available
+        hint: Tripod winch harness and rescue equipment on site
+        type: select_one
+        options:
+          - Yes - All Available
+          - Partially Available
+          - No
+        required: true
+      - id: 14
+        name: attendant_assigned
+        label: Attendant Assigned
+        hint: Trained attendant stationed outside the space
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 15
+        name: attendant_name
+        label: Attendant Name
+        hint: Name of the assigned attendant
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: entrants_list
+        label: Authorized Entrants List
+        hint: Names of all personnel entering the space
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: ppe_required
+        label: Personal Protective Equipment Required
+        hint: Select all PPE required for this entry
+        type: select_multiple
+        options:
+          - Hard Hat
+          - Safety Glasses
+          - Respirator
+          - Harness and Lanyard
+          - Gloves
+          - Steel Toe Boots
+          - Hearing Protection
+          - Chemical Suit
+        required: true
+      - id: 18
+        name: communication_method
+        label: Communication Method
+        hint: How will entrants communicate with attendant
+        type: select_one
+        options:
+          - Voice
+          - Radio
+          - Rope Signals
+          - Visual
+          - Other
+        required: true
+      - id: 19
+        name: lighting_adequate
+        label: Adequate Lighting Provided
+        hint: Is lighting sufficient for the work to be performed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 20
+        name: emergency_plan_reviewed
+        label: Emergency Plan Reviewed
+        hint: All personnel briefed on emergency procedures
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 21
+        name: permit_issued
+        label: Entry Permit Issued
+        hint: Has the confined space entry permit been issued
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 22
+        name: permit_number
+        label: Permit Number
+        hint: Entry permit identification number
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: additional_hazards
+        label: Additional Hazards Identified
+        hint: List any other hazards not covered above
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: supervisor_signature
+        label: Supervisor Signature
+        hint: Electronic or printed name of supervisor
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: entry_approved
+        label: Entry Approved
+        hint: Final authorization to proceed with entry
+        type: select_one
+        options:
+          - Approved - Proceed with Entry
+          - Not Approved - Hazards Not Controlled
+        required: true

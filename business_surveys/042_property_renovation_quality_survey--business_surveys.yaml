@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Renovation Quality Survey
+    pages:
+    - id: 1
+      name: home_page
+      label: Home Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: renovation_project
+      label: Renovation Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contractor_performance
+      label: Contractor Performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: quality_rating
+      label: Quality Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: punctuality
+      label: Punctuality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

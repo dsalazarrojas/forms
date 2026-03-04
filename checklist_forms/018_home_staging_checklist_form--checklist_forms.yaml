@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Staging Checklist Form
+    pages:
+    - id: 1
+      name: main_section_1
+      label: Staging Tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: room_types
+      label: Room Types
+      hint: null
+      type: select_one
+      options:
+      - Kitchen
+      - Living Room
+      - Bathroom
+      - Bedroom
+      - Office
+      - Outdoor
+      - Laundry
+      - Utility Room
+      - Other
+      required: false
+    - id: 3
+      name: task_types
+      label: Task Types
+      hint: null
+      type: select_multiple
+      options:
+      - Deep Clean
+      - Organize
+      - Decorate
+      - Repair
+      - Paint
+      - Replace
+      required: false
+    - id: 4
+      name: staging_tasks
+      label: Staging Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Move Out Trash
+      - Vacuum Carpets
+      - Clean Out Fridge
+      - Clean Out Ovens
+      - Clean Out Windows
+      - Clean Out Light Fixtures
+      - Dust
+      - Mop Floors
+      - Clean Out Refrigerator
+      - Clean Out Dishwasher
+      - Clean Out Oven
+      required: false
+    - id: 5
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: driver_prepost_trip_inspection_form
+    pages:
+    - id: 1
+      name: pre_trip
+      label: Pre Trip
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Tractor/Truck
+      - Tractor/Trailer
+      - Other
+      required: false
+    - id: 3
+      name: date_pre_trip
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: odometer
+      label: Odometer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: weather
+      label: Weather
+      hint: null
+      type: select_multiple
+      options:
+      - Rain
+      - Snow
+      - Fog
+      required: false
+    - id: 7
+      name: notes_pre_trip
+      label: Notes Pre Trip
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: post_trip
+      label: Post Trip
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: post_trip_notes
+      label: Post Trip Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: weather_post_trip
+      label: Weather
+      hint: null
+      type: select_multiple
+      options:
+      - Rain
+      - Snow
+      - Fog
+      required: false
+    - id: 11
+      name: driver_id
+      label: Driver Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: tractor_semitrailer_condition
+      label: Tractor/Trailer Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: brakes
+      label: Brakes
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: suspension
+      label: Suspension
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: tire_condition
+      label: Tires
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: engine
+      label: Engine
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: electrical_systems
+      label: Electrical Systems
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: steering_systems
+      label: Steering Systems
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: brake_systems
+      label: Brake Systems
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: trailer_brakes
+      label: Trailer Brakes
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: coupling_device
+      label: Coupling Device
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: trailer_safetly_chain
+      label: Trailer Safetly Chain
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 23
+      name: fifth_wheel
+      label: Fifth Wheel
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 24
+      name: axles
+      label: Axles
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 25
+      name: wheels
+      label: Wheels
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true

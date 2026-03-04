@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dance Class Participant Safety Check In Form
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_info
+      label: Medical Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: allergies
+      label: allergies
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_email
+      label: Emergency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: acknowledgement
+      label: Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: acknowledgement_date
+      label: Acknowledgement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: acknowledgement_time
+      label: Acknowledgement Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgement_note
+      label: Acknowledgement Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: instructor_signature
+      label: Instructor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: instructor_date
+      label: Instructor Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: instructor_time
+      label: Instructor Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: instructor_note
+      label: Instructor Note
+      hint: null
+      type: note
+      options: []
+      required: false

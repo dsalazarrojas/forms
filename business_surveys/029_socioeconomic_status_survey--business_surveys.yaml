@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: socioeconomic_status_survey
+    pages:
+    - id: 1
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: household_size
+      label: household_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: occupation
+      label: occupation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: income_frequency
+      label: income_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: household_assets
+      label: household_assets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: education_field_of_study
+      label: education_field_of_study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: occupation_field_of_study
+      label: occupation_field_of_study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employment_field_of_study
+      label: employment_field_of_study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: education_level_of_education_field_of_study
+      label: education_level_of_education_field_of_study
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: employment_status_of_employment_field_of_study
+      label: employment_status_of_employment_field_of_study
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

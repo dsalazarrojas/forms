@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Date Calculation Form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: calculation_type
+      label: Calculation Type
+      hint: null
+      type: select_one
+      options:
+      - Between
+      - Subtract
+      - Add
+      required: false
+    - id: 4
+      name: days_between
+      label: Days Between
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: result
+      label: Result
+      hint: null
+      type: text
+      options: []
+      required: false

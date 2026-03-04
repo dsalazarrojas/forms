@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Call Forwarding Deactivation Request Form
+    pages:
+    - id: 1
+      name: section_account_info
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: Your service account number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number with Call Forwarding
+      hint: The number you want to deactivate forwarding for
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_holder_name
+      label: Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_holder_email
+      label: Account Holder Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_forwarding_details
+      label: -- Current Forwarding Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_forwarding_number
+      label: Number Calls Are Currently Forwarded To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: forwarding_activation_date
+      label: Date Forwarding Was Activated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: forwarding_type
+      label: Type of Call Forwarding
+      hint: null
+      type: select_one
+      options:
+      - Unconditional
+      - Busy
+      - No Answer
+      - All Calls
+      required: true
+    - id: 11
+      name: section_deactivation_reason
+      label: -- Deactivation Reason --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_deactivation
+      label: Reason for Deactivation
+      hint: null
+      type: select_one
+      options:
+      - No longer needed
+      - Switching providers
+      - Retiring number
+      - Incorrect setup
+      - Technical issues
+      - Other
+      required: true
+    - id: 13
+      name: additional_reason_details
+      label: Please explain your reason in detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_request_details
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: immediate_deactivation
+      label: Deactivate Immediately
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Schedule for later date
+      required: true
+    - id: 16
+      name: scheduled_date
+      label: Scheduled Deactivation Date
+      hint: If requesting scheduled deactivation
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: request_confirmation_method
+      label: How would you like to receive confirmation
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - SMS
+      required: true
+    - id: 18
+      name: authorization_confirmation
+      label: I authorize the deactivation of call forwarding on this account
+      hint: null
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 19
+      name: comments
+      label: Additional Comments or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

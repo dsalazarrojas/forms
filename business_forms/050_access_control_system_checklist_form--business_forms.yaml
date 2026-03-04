@@ -1,0 +1,230 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Access Control System Checklist Form
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Access Control System Checklist Form --
+      hint: Complete this checklist to document the status of all access control components during your inspection.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspector_name
+      label: Inspector or technician name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: inspector_id
+      label: Employee or badge ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: inspection_date
+      label: Date of inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inspection_time
+      label: Time of inspection
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: facility_name
+      label: Facility or building name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: locks_section
+      label: -- Physical Locks and Doors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: door_locks_status
+      label: Are all door locks functioning properly
+      hint: null
+      type: select_one
+      options:
+        - Yes - all operational
+        - No - issues found
+        - Partially - some issues
+      required: true
+    - id: 10
+      name: door_lock_notes
+      label: Notes on door lock issues (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: electronic_access_section
+      label: -- Electronic Access Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: card_readers_status
+      label: Card readers and badge scanners status
+      hint: null
+      type: select_one
+      options:
+        - All operational
+        - Some not working
+        - None working
+        - Not applicable
+      required: true
+    - id: 13
+      name: biometric_scanners_status
+      label: Biometric scanners status (fingerprint, facial recognition)
+      hint: null
+      type: select_one
+      options:
+        - All operational
+        - Some not working
+        - None working
+        - Not applicable
+      required: true
+    - id: 14
+      name: keypad_status
+      label: Keypads and PIN entry systems status
+      hint: null
+      type: select_one
+      options:
+        - All operational
+        - Some not working
+        - None working
+        - Not applicable
+      required: true
+    - id: 15
+      name: alarms_section
+      label: -- Alarm Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: intrusion_alarm_status
+      label: Intrusion alarm system status
+      hint: null
+      type: select_one
+      options:
+        - Operational and armed
+        - Operational but disarmed
+        - Malfunctioning
+        - Not applicable
+      required: true
+    - id: 17
+      name: fire_alarm_status
+      label: Fire alarm system status
+      hint: null
+      type: select_one
+      options:
+        - Operational
+        - Needs maintenance
+        - Malfunctioning
+        - Not applicable
+      required: true
+    - id: 18
+      name: surveillance_section
+      label: -- Surveillance Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: cctv_status
+      label: CCTV cameras status
+      hint: null
+      type: select_one
+      options:
+        - All cameras operational
+        - Some cameras offline
+        - All cameras offline
+        - Not applicable
+      required: true
+    - id: 20
+      name: recording_system_status
+      label: Video recording and storage system status
+      hint: null
+      type: select_one
+      options:
+        - Recording normally
+        - Storage nearly full
+        - Not recording
+        - Not applicable
+      required: true
+    - id: 21
+      name: issues_found
+      label: Summary of all issues found during inspection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: corrective_actions_taken
+      label: Corrective actions taken on site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: maintenance_required
+      label: Is maintenance or repair needed for any systems
+      hint: null
+      type: select_one
+      options:
+        - Yes - urgent
+        - Yes - can be scheduled
+        - No - all systems are fine
+      required: true
+    - id: 24
+      name: overall_system_rating
+      label: Overall access control system condition
+      hint: null
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Satisfactory
+        - Needs attention
+        - Critical - immediate action required
+      required: true
+    - id: 25
+      name: inspection_complete_date
+      label: Date inspection was completed
+      hint: null
+      type: date
+      options: []
+      required: true

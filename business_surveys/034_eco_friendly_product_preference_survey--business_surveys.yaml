@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: eco_friendly_product_preference_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sustainable_shopping_habits
+      label: Do you practice sustainable shopping habits?
+      hint: null
+      type: select_multiple
+      options:
+      - Sustainable products
+      - Eco-friendly products
+      - Locally sourced products
+      - Certified products
+      required: true
+    - id: 3
+      name: pricing_sensitivity
+      label: How sensitive are you to price?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: decision_drivers
+      label: What drives your purchasing decision?
+      hint: null
+      type: select_one
+      options:
+      - Quality
+      - Price
+      - Brand
+      - Reviews
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Any additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: terms_of_use
+      label: Terms of use
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: terms_of_use_1
+      label: Terms of use 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: terms_of_use_2
+      label: Terms of use 2
+      hint: null
+      type: note
+      options: []
+      required: false

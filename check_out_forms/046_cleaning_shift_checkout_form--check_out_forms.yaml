@@ -1,0 +1,343 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Shift Checkout Form
+    pages:
+      - id: 1
+        name: facility_name
+        label: Facility Name
+        hint: Name of the facility or building
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: facility_area
+        label: Facility Area or Zone
+        hint: Specific area or zone cleaned
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: shift_date
+        label: Shift Date
+        hint: Date of this shift
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: shift_type
+        label: Shift Type
+        hint: Which shift is this
+        type: select_one
+        options:
+          - Morning Shift
+          - Afternoon Shift
+          - Evening Shift
+          - Night Shift
+          - Weekend Shift
+        required: true
+      - id: 5
+        name: checkout_time
+        label: Checkout Time
+        hint: Time of shift checkout
+        type: time
+        options: []
+        required: true
+      - id: 6
+        name: team_member_name
+        label: Team Member Name
+        hint: Name of person checking out
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: supervisor_name
+        label: Supervisor Name
+        hint: Name of shift supervisor
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: section_header_tasks
+        label: -- Tasks Completed --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: assigned_tasks_completed
+        label: All Assigned Tasks Completed
+        hint: Were all tasks finished
+        type: select_one
+        options:
+          - Yes - All Tasks Complete
+          - Mostly - Minor Items Remaining
+          - Partially - Several Items Remaining
+          - No - Many Tasks Incomplete
+        required: true
+      - id: 10
+        name: incomplete_tasks_list
+        label: List of Incomplete Tasks
+        hint: What was not completed
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: reason_for_incomplete
+        label: Reason for Incomplete Tasks
+        hint: Why were tasks not completed
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: section_header_quality
+        label: -- Quality Check --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: self_quality_check
+        label: Self Quality Check Completed
+        hint: Did you perform a quality check
+        type: select_one
+        options:
+          - Yes - All Areas Checked
+          - Yes - Spot Check Only
+          - No - Did Not Check
+        required: true
+      - id: 14
+        name: quality_issues_found
+        label: Quality Issues Found
+        hint: Any issues discovered
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: corrective_action_taken
+        label: Corrective Action Taken
+        hint: What was done to fix issues
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_header_supplies
+        label: -- Supplies and Equipment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: supplies_restocked
+        label: Supplies Restocked
+        hint: Were supplies replenished
+        type: select_one
+        options:
+          - Yes - All Supplies Restocked
+          - Partially - Some Restocked
+          - No - Did Not Restock
+          - Not Applicable
+        required: true
+      - id: 18
+        name: supplies_low
+        label: Supplies Running Low
+        hint: List supplies needing reorder
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: equipment_stored
+        label: Equipment Properly Stored
+        hint: Was all equipment put away
+        type: select_one
+        options:
+          - Yes - All Equipment Stored
+          - Mostly - Minor Items Out
+          - No - Equipment Left Out
+        required: true
+      - id: 20
+        name: equipment_issues
+        label: Equipment Issues or Malfunctions
+        hint: Any equipment problems
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: equipment_needs_repair
+        label: Equipment Needs Repair or Replacement
+        hint: List any items needing attention
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: section_header_security
+        label: -- Security and Safety --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: areas_secured
+        label: All Areas Secured
+        hint: Were all areas locked and secured
+        type: select_one
+        options:
+          - Yes - All Areas Secured
+          - Mostly - Minor Items Open
+          - No - Areas Left Unsecured
+        required: true
+      - id: 24
+        name: lights_adjusted
+        label: Lights Adjusted Appropriately
+        hint: Were lights turned off or adjusted
+        type: select_one
+        options:
+          - Yes - All Lights Off
+          - Partially - Some Lights Off
+          - No - Lights Left On
+          - Not Applicable
+        required: true
+      - id: 25
+        name: windows_secured
+        label: Windows Checked and Secured
+        hint: Were all windows closed and locked
+        type: select_one
+        options:
+          - Yes - All Windows Secured
+          - Partially - Some Checked
+          - No - Windows Left Open
+          - Not Applicable
+        required: true
+      - id: 26
+        name: safety_hazards_reported
+        label: Safety Hazards Reported
+        hint: Any safety concerns
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: section_header_handoff
+        label: -- Handoff Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: next_shift_notes
+        label: Notes for Next Shift
+        hint: Important information for next team
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: pending_tasks
+        label: Pending Tasks for Next Shift
+        hint: What needs to be done next
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: client_requests
+        label: Client Requests or Complaints
+        hint: Any client feedback received
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: maintenance_requests
+        label: Maintenance Requests Submitted
+        hint: List any maintenance requests
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: section_header_checkout
+        label: -- Checkout Confirmation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 33
+        name: keys_returned
+        label: Keys or Access Cards Returned
+        hint: Were all keys or cards returned
+        type: select_one
+        options:
+          - Yes - All Returned
+          - Partially - Some Returned
+          - No - Still Have Keys
+          - Not Applicable
+        required: true
+      - id: 34
+        name: alarm_set
+        label: Alarm System Set
+        hint: Was alarm activated
+        type: select_one
+        options:
+          - Yes - Alarm Set
+          - No - Alarm Not Set
+          - Not Applicable
+        required: true
+      - id: 35
+        name: final_walkthrough
+        label: Final Walkthrough Completed
+        hint: Did you do a final walkthrough
+        type: select_one
+        options:
+          - Yes - With Supervisor
+          - Yes - Solo Walkthrough
+          - No - Did Not Walk Through
+        required: true
+      - id: 36
+        name: checkout_status
+        label: Checkout Status
+        hint: Overall checkout status
+        type: select_one
+        options:
+          - Complete - Ready to Leave
+          - Mostly Complete - Minor Items
+          - Incomplete - Items Pending
+        required: true
+      - id: 37
+        name: team_member_signature
+        label: Team Member Signature (Type Full Name)
+        hint: Team member electronic signature
+        type: text
+        options: []
+        required: true
+      - id: 38
+        name: supervisor_approval
+        label: Supervisor Approval
+        hint: Has supervisor approved checkout
+        type: select_one
+        options:
+          - Approved - May Leave
+          - Approved with Notes
+          - Not Approved - Items Pending
+          - Supervisor Not Available
+        required: true
+      - id: 39
+        name: supervisor_signature
+        label: Supervisor Signature (Type Full Name)
+        hint: Supervisor electronic signature
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: checkout_date
+        label: Checkout Date
+        hint: Date of checkout
+        type: date
+        options: []
+        required: true

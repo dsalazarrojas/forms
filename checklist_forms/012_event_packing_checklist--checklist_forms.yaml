@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Packing Checklist
+    pages:
+    - id: 1
+      name: event_packing_checklist
+      label: Event Packing Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_items
+      label: event_items
+      hint: null
+      type: select_one
+      options:
+      - Event 1 Item
+      - Event 2 Item
+      - Event 3 Item
+      required: false
+    - id: 6
+      name: item_status
+      label: item_status
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 7
+      name: item_comments
+      label: item_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_organizer
+      label: event_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_notes
+      label: event_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_phone
+      label: event_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Break Even Analysis Survey
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Official name of the business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Contact Person Name
+      hint: Person completing this survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: industry
+      label: Industry
+      hint: What industry is your business in?
+      type: select_one
+      options:
+      - Retail
+      - Manufacturing
+      - Technology
+      - Healthcare
+      - Food Service
+      - Professional Services
+      - Construction
+      - Real Estate
+      - Transportation
+      - Other
+      required: true
+    - id: 6
+      name: business_size
+      label: Business Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-5 Employees
+      - 6-20 Employees
+      - 21-50 Employees
+      - 51-200 Employees
+      - 201-500 Employees
+      - Over 500 Employees
+      required: true
+    - id: 7
+      name: reporting_year
+      label: Reporting Year
+      hint: Which year does this analysis cover?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 8
+      name: total_fixed_costs
+      label: Total Fixed Costs
+      hint: Annual fixed costs in dollars
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: total_variable_costs
+      label: Total Variable Costs
+      hint: Annual variable costs in dollars
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: total_revenue
+      label: Total Revenue
+      hint: Annual revenue in dollars
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: break_even_point
+      label: Break-Even Point
+      hint: Revenue needed to break even
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: break_even_date
+      label: Break-Even Date Achieved
+      hint: When did you break even?
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: profit_margin
+      label: Average Profit Margin
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: unit_sales_volume
+      label: Annual Unit Sales Volume
+      hint: Total units sold
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: average_unit_price
+      label: Average Unit Price
+      hint: Average selling price per unit
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: contribution_margin
+      label: Contribution Margin
+      hint: Per unit or percentage
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: cost_reduction_initiatives
+      label: Cost Reduction Initiatives
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Supplier Negotiations
+      - Process Improvements
+      - Technology Investments
+      - Staff Optimization
+      - Energy Efficiency
+      - Waste Reduction
+      - Outsourcing
+      - None
+      - Other
+      required: true
+    - id: 18
+      name: revenue_growth_rate
+      label: Revenue Growth Rate
+      hint: Year-over-year percentage
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: biggest_cost_driver
+      label: Biggest Cost Driver
+      hint: What is your largest expense?
+      type: select_one
+      options:
+      - Labor
+      - Materials
+      - Rent and Facilities
+      - Technology
+      - Marketing
+      - Utilities
+      - Insurance
+      - Other
+      required: true
+    - id: 20
+      name: financial_challenges
+      label: Financial Challenges
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Rising Costs
+      - Decreasing Sales
+      - Cash Flow Issues
+      - Access to Capital
+      - Economic Uncertainty
+      - Competition
+      - Regulatory Changes
+      - None
+      - Other
+      required: true
+    - id: 21
+      name: break_even_accuracy
+      label: Break-Even Analysis Accuracy
+      hint: How accurate was your projection?
+      type: select_one
+      options:
+      - Very Accurate
+      - Somewhat Accurate
+      - Neutral
+      - Somewhat Inaccurate
+      - Very Inaccurate
+      required: true
+    - id: 22
+      name: analysis_frequency
+      label: Analysis Frequency
+      hint: How often do you perform break-even analysis?
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      - As Needed
+      - Never
+      required: true
+    - id: 23
+      name: software_used
+      label: Software or Tools Used
+      hint: What tools do you use for analysis?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: advisor_support
+      label: Advisor Support
+      hint: Do you work with a financial advisor?
+      type: select_one
+      options:
+      - Yes, Regularly
+      - Occasionally
+      - false
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

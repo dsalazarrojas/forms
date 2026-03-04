@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: cancellation_forms
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cancellation_date
+      label: Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_total
+      label: Order Total
+      hint: Cancelletion form total
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - cancelled
+      - pending
+      - completed
+      required: false
+    - id: 6
+      name: cancellation_reason
+      label: Cancellation Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false

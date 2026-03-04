@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Plan Overview Form
+    pages:
+    - id: 1
+      name: section_business_basics
+      label: -- Business Basics --
+      type: note
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Official business name
+      type: text
+      required: true
+    - id: 3
+      name: business_type
+      label: Type of Business
+      hint: Structure - sole proprietor, LLC, etc.
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: business_description
+      label: Business Description
+      hint: What does your business do
+      type: text
+      required: true
+    - id: 5
+      name: start_date
+      label: Expected or Actual Start Date
+      hint: When will or did the business begin
+      type: date
+      required: true
+    - id: 6
+      name: section_vision_mission
+      label: -- Vision and Mission --
+      type: note
+      required: false
+    - id: 7
+      name: mission_statement
+      label: Mission Statement
+      hint: What is your core purpose
+      type: text
+      required: true
+    - id: 8
+      name: vision_statement
+      label: Vision Statement
+      hint: Where do you see the business in 5 years
+      type: text
+      required: true
+    - id: 9
+      name: core_values
+      label: Core Values
+      hint: What principles guide your business
+      type: text
+      required: false
+    - id: 10
+      name: section_products_services
+      label: -- Products and Services --
+      type: note
+      required: false
+    - id: 11
+      name: main_products_services
+      label: Main Products or Services
+      hint: What are you selling
+      type: text
+      required: true
+    - id: 12
+      name: unique_selling_proposition
+      label: Unique Selling Proposition
+      hint: What makes you different
+      type: text
+      required: true
+    - id: 13
+      name: section_market
+      label: -- Target Market --
+      type: note
+      required: false
+    - id: 14
+      name: target_customers
+      label: Target Customer Profile
+      hint: Who are your ideal customers
+      type: text
+      required: true
+    - id: 15
+      name: market_size
+      label: Estimated Market Size
+      hint: Total addressable market
+      type: number
+      required: false
+    - id: 16
+      name: section_competition
+      label: -- Competitive Landscape --
+      type: note
+      required: false
+    - id: 17
+      name: main_competitors
+      label: Main Competitors
+      hint: Who is your competition
+      type: text
+      required: false
+    - id: 18
+      name: competitive_advantage
+      label: Competitive Advantages
+      hint: How will you compete
+      type: text
+      required: true
+    - id: 19
+      name: section_financials
+      label: -- Financial Overview --
+      type: note
+      required: false
+    - id: 20
+      name: startup_costs
+      label: Estimated Startup Costs
+      hint: In dollars
+      type: number
+      required: false
+    - id: 21
+      name: first_year_revenue_projection
+      label: First Year Revenue Projection
+      hint: Expected annual revenue
+      type: number
+      required: false
+    - id: 22
+      name: break_even_timeline
+      label: Break Even Timeline
+      hint: When do you expect to break even
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-3 years
+      - 3+ years
+      required: false

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_services_disruption_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_disrupted
+      label: How_was_your_service_disrupted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_affected
+      label: Which_service_was_affected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date_disrupted
+      label: What_date_was_the_service_disrupted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_disrupted
+      label: What_time_was_the_service_disrupted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_disrupted
+      label: Why_was_the_service_disrupted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: how_long_disrupted
+      label: How_long_was_the_service_disrupted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resolution_status
+      label: What_is_the_status_of_the_disruption
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: follow_up
+      label: Do_you_want_to_be_contacted_for_follow_up
+      hint: null
+      type: text
+      options: []
+      required: false

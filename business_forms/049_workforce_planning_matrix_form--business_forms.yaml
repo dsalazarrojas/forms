@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Planning Matrix Form
+    pages:
+    - id: 1
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: staff_priorities
+      label: Staff Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - Senior Team Member
+      - Junior Team Member
+      - Team Leader
+      - Other
+      required: true
+    - id: 3
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department_notes
+      label: Department Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_leader_name
+      label: Team Leader Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: staff_count
+      label: Staff Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: next_steps_2
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_leader_email
+      label: Team Leader Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: team_leader_phone
+      label: Team Leader Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: team_leader_title
+      label: Team Leader Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: team_leader_department
+      label: Team Leader Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: staff_title
+      label: Staff Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: staff_location
+      label: Staff Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_steps_3
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: team_lead_2
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: team_lead_3
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: team_lead_4
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: team_lead_5
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

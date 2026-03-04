@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Recovery Readiness Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recovery_plan
+      label: Disaster Recovery Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: backup_and_disaster_recover
+      label: Backup and Disaster Recovery
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 5
+      name: incident_management
+      label: Incident Management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: true
+    - id: 6
+      name: business_continuity
+      label: Business Continuity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recovery_resources
+      label: Recovery Resources
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_and_drills
+      label: Training and Drills
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Available''}'
+      required: true
+    - id: 9
+      name: recovery_team
+      label: Recovery Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Available''}'
+      - '{''id'': 2, ''label'': ''Not Available''}'
+      required: true
+    - id: 10
+      name: testing_and_testing_frequency
+      label: Testing and Testing Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: testing_and_testing_results
+      label: Testing and Testing Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_process
+      label: Business Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recovery_plan_status
+      label: Recovery Plan Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: testing
+      label: Testing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: testing_frequency
+      label: Testing Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: business_process_testing
+      label: Business Process Testing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      required: true
+    - id: 17
+      name: disaster_recovery_testing
+      label: Disaster Recovery Testing
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Available''}'
+      required: true
+    - id: 18
+      name: testing_results
+      label: Testing Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: business_continuity_plan_status
+      label: Business Continuity Plan Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_management_plan
+      label: Incident Management Plan
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Not Available''}'
+      required: true
+    - id: 21
+      name: business_continuity_planning
+      label: Business Continuity Planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: business_continuity_planning_process
+      label: Business Continuity Planning Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: business_continuity_planning_results
+      label: Business Continuity Planning Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_response_plan
+      label: Incident Response Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_response_plan_results
+      label: Incident Response Plan Results
+      hint: null
+      type: text
+      options: []
+      required: false

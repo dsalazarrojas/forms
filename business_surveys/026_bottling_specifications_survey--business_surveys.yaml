@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bottling Specifications Survey
+    pages:
+    - id: 1
+      name: client_project_header
+      label: -- Client and Project Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_title
+      label: Project Title / Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: bottle_specs_header
+      label: -- Bottle Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bottle_material_select
+      label: Bottle Material
+      hint: null
+      type: select_one
+      options:
+      - Glass
+      - PET Plastic
+      - HDPE Plastic
+      - Aluminum
+      - Stainless Steel
+      required: true
+    - id: 7
+      name: bottle_type_select
+      label: Bottle Shape / Type
+      hint: null
+      type: select_one
+      options:
+      - Round
+      - Square
+      - Oval
+      - Boston Round
+      - Wine Bottle
+      required: true
+    - id: 8
+      name: fill_volume_ml
+      label: Fill Volume - ml
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: closure_header
+      label: -- Closure and Cap --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cap_type_select
+      label: Closure / Cap Type
+      hint: null
+      type: select_one
+      options:
+      - Screw Cap
+      - Flip Top
+      - Pump
+      - Spray
+      - Cork
+      - Crown Cap
+      required: true
+    - id: 11
+      name: cap_color_pref
+      label: Preferred Cap Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: labeling_header
+      label: -- Labeling and Packaging --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: label_meth
+      label: Label Application Method
+      hint: null
+      type: select_one
+      options:
+      - Pressure Sensitive
+      - Shrink Sleeve
+      - Glue Applied
+      - Direct Print
+      required: true
+    - id: 14
+      name: packaging_needs
+      label: Secondary Packaging Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cardboard Case
+      - Shrink Wrap
+      - Display Box
+      - Palletized
+      required: true
+    - id: 15
+      name: technical_specs
+      label: Additional Technical Specifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: target_dt
+      label: Target Production Date
+      hint: null
+      type: date
+      options: []
+      required: true

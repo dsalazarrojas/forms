@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supply Chain Efficiency Summary Report
+    pages:
+    - id: 1
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: kpis
+      label: Key Performance Indicators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: bottlenecks
+      label: Bottlenecks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: improvement_actions
+      label: Improvement Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supply_chain_efficiency_score
+      label: Supply Chain Efficiency Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: score_rationale
+      label: Score Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

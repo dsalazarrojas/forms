@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_shoot_checklist_form
+    pages:
+    - id: 1
+      name: preparation
+      label: Preparation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: equipment
+      label: equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: schedule
+      label: schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: client_info
+      label: client_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: team_info
+      label: team_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shoot_notes
+      label: shoot_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_confirmation
+      label: client_confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: client_approval
+      label: client_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: photographer_notes
+      label: photographer_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shoot_date
+      label: shoot_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: shoot_time
+      label: shoot_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: shoot_start
+      label: shoot_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: shoot_end
+      label: shoot_end
+      hint: null
+      type: time
+      options: []
+      required: false

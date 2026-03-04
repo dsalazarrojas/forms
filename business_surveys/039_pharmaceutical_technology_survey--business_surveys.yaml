@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Technology Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your role within the company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_details
+      label: company_size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Other
+      required: true
+    - id: 3
+      name: company_details_2
+      label: company_type
+      hint: null
+      type: select_one
+      options:
+      - Pharmaceutical Company
+      - Medical Device Company
+      - Research Organization
+      - Other
+      required: true
+    - id: 4
+      name: technology_interests
+      label: What technology areas are you most interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Automation and Robotics
+      - Artificial Intelligence
+      - Blockchain
+      - Data Science
+      - Cloud Computing
+      - Other
+      required: true
+    - id: 5
+      name: adoption_levels
+      label: On a scale of 0-10, what level of adoption do you have for each technology?
+      hint: Enter a score between 0-10
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: implementation_challenges
+      label: Which of the following implementation challenges do you face when adopting
+        new technology?
+      hint: null
+      type: select_multiple
+      options:
+      - Cost and ROI
+      - Change Management
+      - Security and Compliance
+      - Training and Support
+      - Other
+      required: true
+    - id: 7
+      name: implementation_challenges_2
+      label: Other implementation challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: implementation_timeframe
+      label: How long did it take to implement the technology?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 4-6 months
+      - 7-12 months
+      - More than 1 year
+      required: true
+    - id: 9
+      name: implementation_timeframe_2
+      label: What is the status of your current project or implementation?
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - In Progress
+      - Completed
+      - On hold
+      - Postponed
+      required: true
+    - id: 10
+      name: industry_insights
+      label: Would you like to share any industry insights or observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: industry_insights_2
+      label: Would you like to share any industry insights or observations 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Any additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: department
+      label: Your Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: job_title
+      label: Your Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: company
+      label: Your Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: role
+      label: Your Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: technology_experience
+      label: What level of experience do you have with the technologies mentioned?
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      - Other
+      required: true
+    - id: 21
+      name: technology_experience_2
+      label: Other Technology Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_details
+      label: How would you like to be contacted for follow-up questions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_contact_info
+      label: Follow-up Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_title_2
+      label: Job Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: name_2
+      label: Name 2
+      hint: null
+      type: text
+      options: []
+      required: false

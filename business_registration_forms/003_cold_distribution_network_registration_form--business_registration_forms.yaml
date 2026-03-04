@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cold Distribution Network Registration Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_type
+      label: Organization Type
+      hint: Select your organization category
+      type: select_one
+      options:
+      - Logistics Provider
+      - Manufacturer
+      - Distributor
+      - NGO
+      - Government Agency
+      - Retailer
+      - Third-Party Logistics
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person
+      hint: Name of main contact for registration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Direct phone number for urgent communications
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_address
+      label: Company Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_city
+      label: City
+      hint: City location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_state
+      label: State or Province
+      hint: State, province, or region
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: company_country
+      label: Country
+      hint: Country of operation
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - United Kingdom
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 11
+      name: service_type
+      label: Cold Chain Service Type
+      hint: Select services you provide
+      type: select_multiple
+      options:
+      - Cold Storage
+      - Refrigerated Transport
+      - Frozen Storage
+      - Temperature Monitoring
+      - Distribution
+      - Last Mile Delivery
+      - Cross-Docking
+      required: true
+    - id: 12
+      name: storage_capacity
+      label: Total Cold Storage Capacity
+      hint: Capacity in cubic feet or meters
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: temperature_range
+      label: Temperature Range Capability
+      hint: Select temperature ranges you can maintain
+      type: select_multiple
+      options:
+      - Frozen - Below 0°F
+      - Deep Freeze - -10°F to 0°F
+      - Frozen - 0°F to 10°F
+      - Chilled - 32°F to 40°F
+      - Cool - 40°F to 50°F
+      - Controlled - 50°F to 60°F
+      required: true
+    - id: 14
+      name: coverage_area
+      label: Geographic Coverage Area
+      hint: Regions you serve
+      type: select_multiple
+      options:
+      - Local
+      - Regional
+      - National
+      - International
+      - Cross-Border
+      required: true
+    - id: 15
+      name: vehicle_fleet_size
+      label: Refrigerated Vehicle Fleet Size
+      hint: Number of refrigerated vehicles
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_types
+      label: Vehicle Types Available
+      hint: Types of refrigerated vehicles
+      type: select_multiple
+      options:
+      - Small Van
+      - Box Truck
+      - Straight Truck
+      - Tractor Trailer
+      - Rail Car
+      - Air Cargo
+      - Ocean Container
+      required: false
+    - id: 17
+      name: certifications
+      label: Industry Certifications
+      hint: Select applicable certifications
+      type: select_multiple
+      options:
+      - HACCP
+      - FDA Registered
+      - ISO 9001
+      - GDP Certified
+      - SQF Certified
+      - BRC Certified
+      - None
+      required: true
+    - id: 18
+      name: monitoring_systems
+      label: Temperature Monitoring Systems
+      hint: Systems used for tracking
+      type: select_multiple
+      options:
+      - Real-Time GPS Tracking
+      - Data Loggers
+      - IoT Sensors
+      - Manual Checks
+      - Automated Alerts
+      - Cloud-Based Platform
+      required: true
+    - id: 19
+      name: operating_hours
+      label: Operating Hours
+      hint: Business hours for operations
+      type: select_one
+      options:
+      - 24/7
+      - 24/5
+      - Business Hours Only
+      - Extended Hours
+      - By Appointment
+      required: true
+    - id: 20
+      name: emergency_contact
+      label: Emergency Contact Number
+      hint: 24-hour emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: years_in_operation
+      label: Years in Cold Chain Operation
+      hint: How long have you operated
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10-20 years
+      - Over 20 years
+      required: true
+    - id: 22
+      name: insurance_coverage
+      label: Insurance Coverage Level
+      hint: Liability coverage amount
+      type: select_one
+      options:
+      - Under $1 Million
+      - $1-5 Million
+      - $5-10 Million
+      - $10-25 Million
+      - Over $25 Million
+      required: true
+    - id: 23
+      name: references_available
+      label: Can You Provide References
+      hint: Previous client references
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: additional_services
+      label: Additional Services Offered
+      hint: Any other services not listed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

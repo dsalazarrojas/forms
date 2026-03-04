@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Recall Cost Analysis Report Form
+    pages:
+    - id: 1
+      name: product_recall_form
+      label: Product Recall Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recall_details
+      label: Recall Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: cost_breakdown
+      label: Cost Breakdown
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submitted''}'
+      - '{''id'': 2, ''label'': ''Draft''}'
+      - '{''id'': 3, ''label'': ''Cancelled''}'
+      required: false
+    - id: 6
+      name: cost_type
+      label: Cost Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Product Recalls''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: cost_type_sub
+      label: Cost Type Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Material''}'
+      - '{''id'': 2, ''label'': ''Labor''}'
+      - '{''id'': 3, ''label'': ''Overheads''}'
+      required: false
+    - id: 8
+      name: cost_category
+      label: Cost Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Direct Costs''}'
+      - '{''id'': 2, ''label'': ''Indirect Costs''}'
+      - '{''id'': 3, ''label'': ''External''}'
+      required: false
+    - id: 9
+      name: cost_amount
+      label: Cost Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date_occurred
+      label: Date Occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_occurred
+      label: Time Occurred
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recall_date
+      label: Recall Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: cost_category_sub
+      label: Cost Category Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Material''}'
+      - '{''id'': 2, ''label'': ''Labor''}'
+      - '{''id'': 3, ''label'': ''Overheads''}'
+      required: false
+    - id: 15
+      name: cost_amount_sub
+      label: Cost Amount Sub
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: cost_amount_total
+      label: Cost Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: submission_status_label
+      label: Submission Status Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_status_color
+      label: Submission Status Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recall_date_label
+      label: Recall Date Label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: recall_date_color
+      label: Recall Date Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_label
+      label: Submitted By Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_color
+      label: Submitted By Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

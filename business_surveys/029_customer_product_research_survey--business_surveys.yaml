@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Product Research Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Customer Product Research Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Mr'', ''value'': ''Mr''}'
+      - '{''id'': 2, ''label'': ''Mrs'', ''value'': ''Mrs''}'
+      - '{''id'': 3, ''label'': ''Ms'', ''value'': ''Ms''}'
+      - '{''id'': 4, ''label'': ''Dr'', ''value'': ''Dr''}'
+      required: false
+    - id: 3
+      name: product_info
+      label: Product Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Apple'', ''value'': ''Apple''}'
+      - '{''id'': 2, ''label'': ''Microsoft'', ''value'': ''Microsoft''}'
+      - '{''id'': 3, ''label'': ''Google'', ''value'': ''Google''}'
+      required: false
+    - id: 4
+      name: usage
+      label: How often do you use this product?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Rarely'', ''value'': ''Rarely''}'
+      required: false
+    - id: 5
+      name: satisfaction
+      label: How satisfied are you with this product?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''label'': ''Not Satisfied'', ''value'': ''Not Satisfied''}'
+      required: false
+    - id: 6
+      name: recommend
+      label: Would you recommend this product?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes'', ''value'': True}'
+      - '{''id'': 2, ''label'': ''No'', ''value'': False}'
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: phone_work
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: phone_mobile
+      label: Mobile Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: social_media
+      label: Social Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email_work
+      label: Work Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: email_home
+      label: Home Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: company_2
+      label: Company 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_title_2
+      label: Job Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager
+      label: Manager
+      hint: Enter manager name
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

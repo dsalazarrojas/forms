@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: listing_cancellation_form
+    pages:
+    - id: 1
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: listing_id
+      label: listing_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason_description
+      label: reason_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      - Maybe
+      required: false
+    - id: 7
+      name: cancellation_type
+      label: cancellation_type
+      hint: null
+      type: select_one
+      options:
+      - Soft Cancellation
+      - Hard Cancellation
+      - Scheduled Cancellation
+      required: false
+    - id: 8
+      name: listing_status
+      label: listing_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Scheduled
+      - Removed
+      - Approved
+      - Rejected
+      required: false
+    - id: 9
+      name: reason_code
+      label: reason_code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: cancellation_reason
+      label: cancellation_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cancellation_date
+      label: cancellation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: cancellation_time
+      label: cancellation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: confirmation_method
+      label: confirmation_method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirmation_status
+      label: confirmation_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cancellation_type_description
+      label: cancellation_type_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: listing_cancellation_form_fields_comments
+      label: listing_cancellation_form_fields_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: listing_cancellation_form_buttons
+      label: Cancel Listing
+      hint: null
+      type: select_one
+      options:
+      - Cancel listing
+      - Reschedule
+      - Delete
+      required: true

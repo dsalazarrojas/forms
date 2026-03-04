@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Supplies Requisition Form
+    pages:
+    - id: 1
+      name: section_requestor_info
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department_name
+      label: Department or Business Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_requisition_details
+      label: -- Requisition Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: requisition_date
+      label: Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: required_by_date
+      label: Required By Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: requisition_id
+      label: Requisition ID
+      hint: System-generated reference number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_or_purpose
+      label: Event or Purpose
+      hint: What is this requisition for?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_supplies_item_1
+      label: -- Supply Item 1 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: supply_item_1_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: supply_item_1_category
+      label: Item Category
+      hint: null
+      type: select_one
+      options:
+      - Serving Ware
+      - Food Containers
+      - Linens
+      - Beverageware
+      - Utensils
+      - Cleaning Supplies
+      - Packaging
+      - Decorations
+      - Other
+      required: true
+    - id: 14
+      name: supply_item_1_quantity
+      label: Quantity Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: supply_item_1_unit
+      label: Unit of Measurement
+      hint: Boxes, cases, units, etc.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_supplies_item_2
+      label: -- Supply Item 2 --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: supply_item_2_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supply_item_2_quantity
+      label: Quantity Needed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: delivery_location
+      label: Delivery Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: Morning, afternoon, specific time
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: special_handling
+      label: Special Handling Requirements
+      hint: Fragile, temperature-controlled, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: budget_code
+      label: Budget Code or Account Number
+      hint: For accounting purposes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: requisition_notes
+      label: Additional Notes or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approval_status
+      label: Requisition approved for processing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending Approval
+      required: true

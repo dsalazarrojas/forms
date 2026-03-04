@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Importer Of Record Services Request
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shipment_route
+      label: Shipment Route
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: shipment_time
+      label: Shipment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: product_weight
+      label: Product Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: product_value
+      label: Product Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: terms_agreement
+      label: Terms Agreement
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Agreed
+      - Not Agreed
+      required: true
+    - id: 13
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: shipment_terms
+      label: Shipment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Agreed
+      - Not Agreed
+      required: false

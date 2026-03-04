@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Campaign Checklist Form
+    pages:
+    - id: 1
+      name: campaign_details
+      label: Campaign Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: campaign_objectives
+      label: campaign objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: campaign_target_audience
+      label: Target Audience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: key_performance_metrics
+      label: Key Performance Metrics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: campaign_budget
+      label: Campaign Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: campaign_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: campaign_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: campaign_description
+      label: Campaign Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: campaign_status
+      label: Campaign Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: marketing_channels
+      label: Marketing Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Email
+      - Print
+      required: true
+    - id: 11
+      name: target_audience_gender
+      label: Target Audience Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 12
+      name: target_audience_age_group
+      label: Target Audience Age Group
+      hint: null
+      type: select_multiple
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: false
+    - id: 13
+      name: campaign_duration
+      label: Campaign Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: campaign_spend
+      label: Campaign Spend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: target_audience_interests
+      label: Target Audience Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: campaign_language
+      label: Campaign Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      required: true
+    - id: 17
+      name: target_audience_location
+      label: Target Audience Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: budget_allocation
+      label: Budget Allocation
+      hint: null
+      type: select_multiple
+      options:
+      - Video
+      - Image
+      - Audio
+      - Social Media
+      - Email
+      required: true

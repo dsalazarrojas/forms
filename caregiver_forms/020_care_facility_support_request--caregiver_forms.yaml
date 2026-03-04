@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Facility Support Request
+    pages:
+      - id: 1
+        name: request_header
+        label: -- Support Request --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester name
+        hint: Staff member requesting support
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Unit or area requesting assistance
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: support_type
+        label: Type of support requested
+        hint: Choose the category of support
+        type: select_one
+        options:
+          - Maintenance
+          - IT support
+          - Staffing assistance
+          - Supplies
+        required: true
+      - id: 5
+        name: urgency_level
+        label: Urgency level
+        hint: Indicate priority for response
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Critical
+        required: true
+      - id: 6
+        name: location_of_issue
+        label: Location of issue
+        hint: Room or area within facility
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: description_of_issue
+        label: Description of issue
+        hint: Provide details to help triage the request
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: preferred_contact
+        label: Preferred contact method
+        hint: Staff to contact with updates
+        type: select_one
+        options:
+          - Phone
+          - Email
+          - In person
+        required: true
+      - id: 9
+        name: requested_by_date
+        label: Requested by date
+        hint: Date by which support is needed
+        type: date
+        options: []
+        required: false
+      - id: 10
+        name: additional_attachments
+        label: Additional attachments
+        hint: Include photo or document links
+        type: text
+        options: []
+        required: false

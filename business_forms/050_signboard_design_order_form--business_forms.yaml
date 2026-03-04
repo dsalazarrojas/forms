@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Signboard Design Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: image_upload
+      label: image_upload
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      required: false
+    - id: 3
+      name: design_requirements
+      label: design_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: design_type
+      label: design_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      required: false
+    - id: 5
+      name: material_preferences
+      label: material_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      required: false
+    - id: 6
+      name: upload_images
+      label: upload_images
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: confirm_order
+      label: confirm_order
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false
+    - id: 9
+      name: confirm_payment
+      label: confirm_payment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false
+    - id: 10
+      name: review_order
+      label: review_order
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false
+    - id: 11
+      name: submit_button
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false
+    - id: 12
+      name: back_to_menu
+      label: back_to_menu
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false
+    - id: 13
+      name: cancel_button
+      label: cancel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false
+    - id: 14
+      name: confirm_submission
+      label: confirm_submission
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false
+    - id: 15
+      name: review_design
+      label: review_design
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false
+    - id: 16
+      name: design_details
+      label: design_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: design_price
+      label: design_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false
+    - id: 19
+      name: review_order_details
+      label: review_order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_total
+      label: order_total
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: confirm_payment_method
+      label: confirm_payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false
+    - id: 22
+      name: back_to_signboard
+      label: back_to_signboard
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      required: false

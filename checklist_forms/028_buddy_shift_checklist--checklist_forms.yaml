@@ -1,0 +1,162 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Buddy Shift Checklist
+    pages:
+    - id: 1
+      name: outgoing_employee_name
+      label: Outgoing Employee Name
+      hint: Employee ending their shift
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incoming_employee_name
+      label: Incoming Employee Name
+      hint: Employee starting their shift
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: shift_date
+      label: Shift Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: shift_type
+      label: Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Night
+      - Weekend
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: register_balanced
+      label: Register or Cash Drawer Balanced and Closed
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - N/A
+      required: true
+    - id: 7
+      name: inventory_checked
+      label: Inventory Levels Verified
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - N/A
+      required: true
+    - id: 8
+      name: supplies_status
+      label: Supplies Restocked
+      hint: null
+      type: select_one
+      options:
+      - Yes, all restocked
+      - Partially restocked
+      - Not restocked
+      - N/A
+      required: true
+    - id: 9
+      name: cleaning_completed
+      label: Area Cleaned and Organized
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully clean
+      - Mostly clean
+      - Needs cleaning
+      - N/A
+      required: true
+    - id: 10
+      name: equipment_checked
+      label: Equipment Status and Safety Check
+      hint: null
+      type: select_one
+      options:
+      - Good condition
+      - Minor issues
+      - Major issues
+      - N/A
+      required: true
+    - id: 11
+      name: security_checklist
+      label: Security Checklist Completed
+      hint: Doors, windows, alarms, etc
+      type: select_one
+      options:
+      - Yes, all secure
+      - Some concerns
+      - Not completed
+      - N/A
+      required: true
+    - id: 12
+      name: pending_issues
+      label: Pending Issues or Tasks
+      hint: Actions needed during shift
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: critical_notes
+      label: Critical Information for Incoming Shift
+      hint: Important alerts or notes
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_notes
+      label: Customer or Guest Information
+      hint: VIP visitors, special requests, etc
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: communication_method
+      label: Follow-up Communication Method
+      hint: How incoming shift will receive info
+      type: select_one
+      options:
+      - In-person handoff
+      - Written notes
+      - Email
+      - Phone call
+      - Other
+      required: true
+    - id: 16
+      name: acknowledgment
+      label: Incoming employee acknowledges receipt of information
+      hint: null
+      type: select_one
+      options:
+      - Yes, acknowledged
+      - No
+      required: true

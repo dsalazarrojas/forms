@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Future Value Calculation Form
+    pages:
+    - id: 1
+      name: investment_amount
+      label: Investment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: years
+      label: years
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''1 year''}'
+      - '{''value'': 5, ''label'': ''5 years''}'
+      - '{''value'': 10, ''label'': ''10 years''}'
+      required: false
+    - id: 3
+      name: monthly_interest_rate
+      label: Monthly Interest Rate
+      hint: Enter interest rate
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: compounding_frequency
+      label: Compounding Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''quarterly'', ''label'': ''Quarterly''}'
+      - '{''value'': ''yearly'', ''label'': ''Yearly''}'
+      required: false
+    - id: 5
+      name: inflation_rate
+      label: Inflation Rate
+      hint: Enter inflation rate
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: result
+      label: Result
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: investment_period
+      label: Investment Period
+      hint: Enter investment period
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: result_2
+      label: Result 2
+      hint: null
+      type: note
+      options: []
+      required: false

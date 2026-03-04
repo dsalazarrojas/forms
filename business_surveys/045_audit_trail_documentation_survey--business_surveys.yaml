@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Trail Documentation Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Name of person completing this survey
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Contact email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Internal Audit
+          - IT
+          - Compliance
+          - Risk Management
+          - Finance
+          - Operations
+          - Other
+        required: true
+      - id: 4
+        name: role_title
+        label: Role Title
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: event_type
+        label: Event Type
+        hint: What type of event is being documented?
+        type: select_one
+        options:
+          - System access
+          - Data modification
+          - Transaction processing
+          - Security incident
+          - Configuration change
+          - User activity
+          - Other
+        required: true
+      - id: 7
+        name: event_date
+        label: Event Date
+        hint: When did the event occur?
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: event_time
+        label: Event Time
+        hint: What time did the event occur?
+        type: time
+        options: []
+        required: true
+      - id: 9
+        name: event_description
+        label: Event Description
+        hint: Detailed description of the event
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: system_involved
+        label: System Involved
+        hint: Which system was involved?
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: user_involved
+        label: User Involved
+        hint: User ID or name of person involved
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: action_taken
+        label: Action Taken
+        hint: What action was taken?
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: severity_level
+        label: Severity Level
+        hint: Rate the severity of this event
+        type: select_one
+        options:
+          - Critical
+          - High
+          - Medium
+          - Low
+          - Informational
+        required: true
+      - id: 14
+        name: impact_assessment
+        label: Impact Assessment
+        hint: What was the impact of this event?
+        type: select_one
+        options:
+          - Significant impact
+          - Moderate impact
+          - Minor impact
+          - No impact
+          - Potential impact only
+        required: true
+      - id: 15
+        name: documentation_completeness
+        label: Documentation Completeness
+        hint: How complete is the documentation?
+        type: select_one
+        options:
+          - Fully documented
+          - Mostly documented
+          - Partially documented
+          - Minimally documented
+          - Incomplete
+        required: true
+      - id: 16
+        name: evidence_attached
+        label: Evidence Attached
+        hint: Is supporting evidence attached?
+        type: select_one
+        options:
+          - Yes, full evidence
+          - Yes, partial evidence
+          - No, evidence not available
+          - No, evidence not required
+        required: true
+      - id: 17
+        name: evidence_type
+        label: Evidence Type
+        hint: What type of evidence is available?
+        type: select_multiple
+        options:
+          - Screenshots
+          - Log files
+          - Email correspondence
+          - System reports
+          - Witness statements
+          - Other
+        required: false
+      - id: 18
+        name: follow_up_required
+        label: Follow-Up Required
+        hint: Is follow-up action required?
+        type: select_one
+        options:
+          - Yes, immediate action
+          - Yes, within 24 hours
+          - Yes, within 1 week
+          - No follow-up needed
+        required: true
+      - id: 19
+        name: related_events
+        label: Related Events
+        hint: Are there related events?
+        type: select_one
+        options:
+          - Yes, multiple related events
+          - Yes, one related event
+          - No, isolated event
+        required: true
+      - id: 20
+        name: additional_notes
+        label: Additional Notes
+        hint: Any additional notes or comments
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: reviewer_assigned
+        label: Reviewer Assigned
+        hint: Who will review this documentation?
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: respondent_signature
+        label: Respondent Signature
+        hint: Type your full name as electronic signature
+        type: text
+        options: []
+        required: true

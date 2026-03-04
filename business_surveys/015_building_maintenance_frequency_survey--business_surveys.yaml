@@ -1,0 +1,202 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Frequency Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: When is this survey being completed
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: building_location
+      label: Building Location
+      hint: Which building or property
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: floor_area
+      label: Floor or Area
+      hint: Which section of building
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: respondent_role
+      label: Your Role
+      hint: Employee, manager, tenant, etc
+      type: select_one
+      options:
+        - Building Occupant
+        - Tenant
+        - Manager
+        - Facility Staff
+        - Visitor
+        - Other
+      required: true
+    - id: 5
+      name: duration_occupancy
+      label: How Long Have You Used This Building
+      hint: Time of occupancy
+      type: select_one
+      options:
+        - Less than 6 months
+        - 6 months - 1 year
+        - 1-2 years
+        - 2-5 years
+        - Over 5 years
+      required: true
+    - id: 6
+      name: floor_cleaning
+      label: Frequency of Floor Cleaning
+      hint: How often are floors cleaned
+      type: select_one
+      options:
+        - Daily
+        - Several Times Weekly
+        - Weekly
+        - Biweekly
+        - Monthly
+        - As Needed
+      required: true
+    - id: 7
+      name: restroom_maintenance
+      label: Restroom Maintenance Frequency
+      hint: How often are restrooms serviced
+      type: select_one
+      options:
+        - Multiple Times Daily
+        - Daily
+        - Several Times Weekly
+        - Weekly
+        - Less Frequently
+      required: true
+    - id: 8
+      name: trash_collection
+      label: Trash and Recycling Collection
+      hint: Frequency of removal
+      type: select_one
+      options:
+        - Multiple Times Daily
+        - Daily
+        - Several Times Weekly
+        - Weekly
+      required: true
+    - id: 9
+      name: hvac_maintenance
+      label: HVAC System Maintenance
+      hint: How often is it serviced
+      type: select_one
+      options:
+        - Monthly
+        - Quarterly
+        - Semi-Annually
+        - Annually
+        - As Needed
+        - Unknown
+      required: true
+    - id: 10
+      name: window_cleaning
+      label: Window Cleaning Frequency
+      hint: How often are windows cleaned
+      type: select_one
+      options:
+        - Weekly
+        - Monthly
+        - Quarterly
+        - Biannually
+        - Annually
+        - Rarely
+      required: true
+    - id: 11
+      name: exterior_maintenance
+      label: Exterior Area Maintenance
+      hint: Landscaping, parking lot, entryway
+      type: select_one
+      options:
+        - Daily
+        - Weekly
+        - Biweekly
+        - Monthly
+        - Quarterly
+        - As Needed
+      required: true
+    - id: 12
+      name: carpet_cleaning
+      label: Carpet Cleaning Frequency
+      hint: Deep cleaning schedule
+      type: select_one
+      options:
+        - Monthly
+        - Quarterly
+        - Semi-Annually
+        - Annually
+        - As Needed
+        - Not Applicable
+      required: true
+    - id: 13
+      name: plumbing_checks
+      label: Plumbing System Checks
+      hint: Routine inspections
+      type: select_one
+      options:
+        - Monthly
+        - Quarterly
+        - Semi-Annually
+        - Annually
+        - As Needed
+        - Unknown
+      required: true
+    - id: 14
+      name: electrical_inspections
+      label: Electrical System Inspections
+      hint: Safety checks
+      type: select_one
+      options:
+        - Monthly
+        - Quarterly
+        - Semi-Annually
+        - Annually
+        - As Needed
+        - Unknown
+      required: true
+    - id: 15
+      name: maintenance_satisfaction
+      label: Satisfaction With Current Maintenance
+      hint: Overall satisfaction level
+      type: select_one
+      options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+      required: true
+    - id: 16
+      name: maintenance_improvements
+      label: Suggested Maintenance Improvements
+      hint: What could be done better
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: maintenance_concerns
+      label: Current Maintenance Concerns
+      hint: Any problem areas
+      type: text
+      options: []
+      required: false

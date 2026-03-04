@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nanny Background Check Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: previous_employment
+      label: Previous Employment
+      hint: null
+      type: select_multiple
+      options:
+      - Company
+      - Job
+      - Dates of employment
+      required: false
+    - id: 11
+      name: previous_education
+      label: Previous Education
+      hint: null
+      type: select_multiple
+      options:
+      - Bachelor
+      - Master
+      - Doctorate
+      required: false
+    - id: 12
+      name: previous_experience
+      label: Previous Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Childcare provider
+      - Nanny
+      - Babysitter
+      - Teacher
+      - Other
+      required: false
+    - id: 13
+      name: reason_for_applying
+      label: Reason for Applying
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_criminal_history
+      label: Previous criminal history
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: previous_felonies
+      label: Previous felonies
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: have_you_been_convicted_of_a_misdemeanor
+      label: Have you been convicted of a misdemeanor?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: have_you_been_convicted_of_a_felony
+      label: Have you been convicted of a felony?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: have_you_been_terminated_from_employment
+      label: Have you been terminated from employment?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: have_you_been_disciplined_by_employment_agency
+      label: Have you been disciplined by employment agency?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false

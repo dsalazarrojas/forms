@@ -1,0 +1,539 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Driver Checklist Form
+    pages:
+    - id: 1
+      name: section_general_info
+      label: -- General Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: checklist_date
+      label: Checklist Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: checklist_time
+      label: Checklist Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ambulance_unit
+      label: Ambulance Unit Number
+      hint: Vehicle identification
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Day Shift
+      - Evening Shift
+      - Night Shift
+      required: true
+    - id: 7
+      name: odometer_start
+      label: Starting Odometer Reading
+      hint: Current mileage
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_pre_trip_exterior
+      label: -- Pre-Trip Exterior Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: exterior_walkaround
+      label: Complete Walkaround Inspection
+      hint: Check entire vehicle exterior
+      type: select_one
+      options:
+      - Completed - No issues
+      - Completed - Issues noted
+      - Not completed
+      required: true
+    - id: 10
+      name: body_damage
+      label: Body Damage Check
+      hint: Look for new damage
+      type: select_one
+      options:
+      - No damage
+      - Minor damage noted
+      - Significant damage
+      required: true
+    - id: 11
+      name: lights_check
+      label: All Lights Functional
+      hint: Headlights, taillights, emergency lights
+      type: select_one
+      options:
+      - All functional
+      - Some not functional
+      - None functional
+      required: true
+    - id: 12
+      name: siren_check
+      label: Siren/Audible Warning Functional
+      hint: Test all siren modes
+      type: select_one
+      options:
+      - Functional
+      - Not functional
+      required: true
+    - id: 13
+      name: tires_check
+      label: Tire Condition and Pressure
+      hint: All tires including spare
+      type: select_one
+      options:
+      - Good condition
+      - Needs attention
+      - Unsafe
+      required: true
+    - id: 14
+      name: windows_mirrors
+      label: Windows and Mirrors
+      hint: Clean and intact
+      type: select_one
+      options:
+      - Clean and intact
+      - Needs cleaning
+      - Damaged
+      required: true
+    - id: 15
+      name: fluid_leaks_check
+      label: Check for Fluid Leaks
+      hint: Under vehicle
+      type: select_one
+      options:
+      - No leaks
+      - Minor leak
+      - Major leak
+      required: true
+    - id: 16
+      name: section_pre_trip_engine
+      label: -- Pre-Trip Engine Compartment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: engine_oil_check
+      label: Engine Oil Level
+      hint: Check dipstick
+      type: select_one
+      options:
+      - Adequate
+      - Low
+      - Very low
+      required: true
+    - id: 18
+      name: coolant_check
+      label: Coolant Level
+      hint: Check reservoir
+      type: select_one
+      options:
+      - Adequate
+      - Low
+      - Very low
+      required: true
+    - id: 19
+      name: brake_fluid_check
+      label: Brake Fluid Level
+      hint: Check reservoir
+      type: select_one
+      options:
+      - Adequate
+      - Low
+      - Very low
+      required: true
+    - id: 20
+      name: power_steering_check
+      label: Power Steering Fluid
+      hint: Check reservoir
+      type: select_one
+      options:
+      - Adequate
+      - Low
+      - Not applicable
+      required: false
+    - id: 21
+      name: windshield_washer_check
+      label: Windshield Washer Fluid
+      hint: Check and fill
+      type: select_one
+      options:
+      - Adequate
+      - Low
+      - Empty
+      required: true
+    - id: 22
+      name: belts_check
+      label: Belts Condition
+      hint: Check for wear and tension
+      type: select_one
+      options:
+      - Good condition
+      - Shows wear
+      - Needs replacement
+      required: true
+    - id: 23
+      name: hoses_check
+      label: Hoses Condition
+      hint: Check for leaks and wear
+      type: select_one
+      options:
+      - Good condition
+      - Shows wear
+      - Needs replacement
+      required: true
+    - id: 24
+      name: battery_check
+      label: Battery and Connections
+      hint: Check terminals and hold-downs
+      type: select_one
+      options:
+      - Good condition
+      - Needs attention
+      - Poor condition
+      required: true
+    - id: 25
+      name: section_pre_trip_interior
+      label: -- Pre-Trip Interior Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: dashboard_gauges_check
+      label: Dashboard Gauges and Warning Lights
+      hint: All functional
+      type: select_one
+      options:
+      - All functional
+      - Some not functional
+      required: true
+    - id: 27
+      name: steering_check
+      label: Steering Operation
+      hint: Check for play and smoothness
+      type: select_one
+      options:
+      - Normal operation
+      - Some play
+      - Excessive play
+      required: true
+    - id: 28
+      name: brakes_check
+      label: Brake Pedal Operation
+      hint: Check pedal feel and response
+      type: select_one
+      options:
+      - Normal
+      - Spongy
+      - Hard
+      - Low pedal
+      required: true
+    - id: 29
+      name: parking_brake_check
+      label: Parking Brake
+      hint: Holds vehicle securely
+      type: select_one
+      options:
+      - Holds properly
+      - Slips
+      - Not functional
+      required: true
+    - id: 30
+      name: horn_check
+      label: Horn
+      hint: Functional
+      type: select_one
+      options:
+      - Functional
+      - Not functional
+      required: true
+    - id: 31
+      name: seatbelts_check
+      label: All Seatbelts
+      hint: Functional and accessible
+      type: select_one
+      options:
+      - All functional
+      - Some not functional
+      required: true
+    - id: 32
+      name: seats_check
+      label: Seats and Adjustments
+      hint: Secure and adjustable
+      type: select_one
+      options:
+      - Good condition
+      - Needs adjustment
+      - Damaged
+      required: true
+    - id: 33
+      name: climate_control_check
+      label: Heating and Air Conditioning
+      hint: Functional
+      type: select_one
+      options:
+      - Both functional
+      - One functional
+      - Neither functional
+      required: false
+    - id: 34
+      name: section_patient_area
+      label: -- Patient Compartment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: compartment_clean
+      label: Patient Compartment Clean
+      hint: Sanitized
+      type: select_one
+      options:
+      - Clean and sanitized
+      - Acceptable
+      - Needs cleaning
+      required: true
+    - id: 36
+      name: stretcher_check
+      label: Stretcher Operation
+      hint: Raises, lowers, locks properly
+      type: select_one
+      options:
+      - Fully functional
+      - Partially functional
+      - Not functional
+      required: true
+    - id: 37
+      name: stretcher_mount
+      label: Stretcher Mount
+      hint: Secures properly
+      type: select_one
+      options:
+      - Secures properly
+      - Loose
+      - Not functional
+      required: true
+    - id: 38
+      name: oxygen_check
+      label: Oxygen System
+      hint: Tanks secured and adequate pressure
+      type: select_one
+      options:
+      - Full and secure
+      - Partially full
+      - Needs refill
+      required: true
+    - id: 39
+      name: suction_check
+      label: Suction Unit
+      hint: Functional with supplies
+      type: select_one
+      options:
+      - Functional
+      - Needs supplies
+      - Not functional
+      required: true
+    - id: 40
+      name: section_safety
+      label: -- Safety Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: fire_extinguisher_check
+      label: Fire Extinguisher
+      hint: Charged and accessible
+      type: select_one
+      options:
+      - Present and charged
+      - Needs service
+      - Missing
+      required: true
+    - id: 42
+      name: first_aid_check
+      label: First Aid Kit
+      hint: Complete
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Missing
+      required: true
+    - id: 43
+      name: ppe_check
+      label: PPE Supplies
+      hint: Gloves, masks, etc.
+      type: select_one
+      options:
+      - Adequate
+      - Low
+      - Depleted
+      required: true
+    - id: 44
+      name: section_fuel
+      label: -- Fuel --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: fuel_level_check
+      label: Fuel Level
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - 3/4
+      - 1/2
+      - 1/4
+      - Needs fuel
+      required: true
+    - id: 46
+      name: fuel_added
+      label: Fuel Added
+      hint: Gallons if fueled
+      type: number
+      options: []
+      required: false
+    - id: 47
+      name: section_post_trip
+      label: -- Post-Trip Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: odometer_end
+      label: Ending Odometer Reading
+      hint: End of shift mileage
+      type: number
+      options: []
+      required: false
+    - id: 49
+      name: miles_driven
+      label: Miles Driven
+      hint: Calculated
+      type: number
+      options: []
+      required: false
+    - id: 50
+      name: post_trip_exterior
+      label: Post-Trip Exterior Check
+      hint: Any new damage
+      type: select_one
+      options:
+      - No new damage
+      - Minor damage noted
+      - Significant damage
+      required: false
+    - id: 51
+      name: post_trip_interior
+      label: Post-Trip Interior Check
+      hint: Clean and ready for next shift
+      type: select_one
+      options:
+      - Clean and ready
+      - Needs cleaning
+      - Issues noted
+      required: false
+    - id: 52
+      name: section_issues
+      label: -- Issues and Maintenance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 53
+      name: issues_found
+      label: Were Any Issues Found
+      hint: null
+      type: select_one
+      options:
+      - No - All clear
+      - Yes - Minor issues
+      - Yes - Major issues
+      required: true
+    - id: 54
+      name: issues_description
+      label: Describe Issues
+      hint: List all problems found
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: maintenance_needed
+      label: Maintenance Required
+      hint: null
+      type: select_one
+      options:
+      - No maintenance needed
+      - Routine maintenance
+      - Urgent maintenance
+      - Vehicle out of service
+      required: true
+    - id: 56
+      name: maintenance_description
+      label: Describe Maintenance Needed
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 57
+      name: vehicle_ready
+      label: Is Vehicle Ready for Service
+      hint: null
+      type: select_one
+      options:
+      - Yes - Ready for service
+      - Yes - With minor issues
+      - No - Needs repair
+      required: true
+    - id: 58
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 59
+      name: driver_signature
+      label: Driver Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 60
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: If required
+      type: text
+      options: []
+      required: false

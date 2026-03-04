@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: donation_decision_making_factors_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographic_information
+      label: demographic_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donation_frequency
+      label: donation_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_amount
+      label: donation_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: donor_motivation
+      label: donor_motive
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Financial need''}'
+      - '{''value'': ''Personal relationship''}'
+      - '{''value'': ''Social responsibility''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: donor_barriers
+      label: donor_barriers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Lack of information''}'
+      - '{''value'': ''Lack of time''}'
+      - '{''value'': ''Lack of trust''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: preferences
+      label: preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Donating online''}'
+      - '{''value'': ''Donating via phone''}'
+      - '{''value'': ''Donating at a store''}'
+      - '{''value'': ''Other''}'
+      required: false

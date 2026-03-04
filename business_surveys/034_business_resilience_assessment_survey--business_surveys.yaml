@@ -1,0 +1,222 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Resilience Assessment Survey
+    pages:
+      - id: 1
+        name: section_respondent_info
+        label: -- Respondent Information --
+        type: note
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: For record keeping
+        type: text
+        required: true
+      - id: 3
+        name: company_name
+        label: Company Name
+        hint: Your organization
+        type: text
+        required: true
+      - id: 4
+        name: respondent_role
+        label: Your Role
+        hint: Your position in the company
+        type: text
+        required: true
+      - id: 5
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        required: false
+      - id: 6
+        name: section_strategic_resilience
+        label: -- Strategic Resilience --
+        type: note
+        required: false
+      - id: 7
+        name: business_continuity_plan
+        label: Do You Have a Business Continuity Plan
+        hint: Is there a documented recovery plan
+        type: select_one
+        options:
+          - Yes, well-developed
+          - Yes, but needs updating
+          - No, not yet
+          - In development
+        required: true
+      - id: 8
+        name: risk_assessment_done
+        label: Have You Completed a Risk Assessment
+        hint: Do you know your key vulnerabilities
+        type: select_one
+        options:
+          - Yes, comprehensive
+          - Yes, but partial
+          - No, not yet
+        required: true
+      - id: 9
+        name: crisis_management_readiness
+        label: Crisis Management Readiness
+        hint: How prepared are you for emergencies
+        type: select_one
+        options:
+          - Not prepared
+          - Somewhat prepared
+          - Moderately prepared
+          - Well prepared
+          - Fully prepared
+        required: true
+      - id: 10
+        name: section_operational_resilience
+        label: -- Operational Resilience --
+        type: note
+        required: false
+      - id: 11
+        name: supply_chain_diversity
+        label: Supply Chain Diversification
+        hint: Do you have multiple suppliers
+        type: select_one
+        options:
+          - Single supplier
+          - Limited diversity
+          - Moderate diversity
+          - High diversity
+          - Highly diversified
+        required: true
+      - id: 12
+        name: backup_systems
+        label: Backup Systems and Redundancy
+        hint: Do you have backup systems in place
+        type: select_one
+        options:
+          - No backup systems
+          - Minimal backup
+          - Some redundancy
+          - Good redundancy
+          - Full redundancy
+        required: true
+      - id: 13
+        name: staff_cross_training
+        label: Staff Cross-Training
+        hint: Can multiple people do each job
+        type: select_one
+        options:
+          - No cross-training
+          - Limited cross-training
+          - Moderate cross-training
+          - Good cross-training
+          - Comprehensive cross-training
+        required: true
+      - id: 14
+        name: section_financial_resilience
+        label: -- Financial Resilience --
+        type: note
+        required: false
+      - id: 15
+        name: emergency_fund
+        label: Emergency Financial Reserve
+        hint: Do you have cash reserves for emergencies
+        type: select_one
+        options:
+          - No reserves
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6+ months
+        required: true
+      - id: 16
+        name: credit_facilities
+        label: Access to Credit Facilities
+        hint: Can you access additional funding
+        type: select_one
+        options:
+          - No credit available
+          - Limited access
+          - Moderate access
+          - Good access
+          - Excellent access
+        required: true
+      - id: 17
+        name: insurance_coverage
+        label: Appropriate Insurance Coverage
+        hint: Do you have comprehensive insurance
+        type: select_one
+        options:
+          - No insurance
+          - Minimal coverage
+          - Partial coverage
+          - Good coverage
+          - Comprehensive coverage
+        required: true
+      - id: 18
+        name: section_technology_resilience
+        label: -- Technology Resilience --
+        type: note
+        required: false
+      - id: 19
+        name: data_backup
+        label: Data Backup and Recovery
+        hint: Do you back up critical data
+        type: select_one
+        options:
+          - No backups
+          - Irregular backups
+          - Regular backups
+          - Automated backups
+          - Multiple secure backups
+        required: true
+      - id: 20
+        name: cybersecurity
+        label: Cybersecurity Measures
+        hint: How protected is your IT infrastructure
+        type: select_one
+        options:
+          - No security measures
+          - Basic security
+          - Moderate security
+          - Good security
+          - Advanced security
+        required: true
+      - id: 21
+        name: remote_work_capability
+        label: Remote Work Capability
+        hint: Can your business operate remotely
+        type: select_one
+        options:
+          - Not possible
+          - Partially possible
+          - Mostly possible
+          - Fully capable
+        required: true
+      - id: 22
+        name: section_improvements
+        label: -- Improvement Opportunities --
+        type: note
+        required: false
+      - id: 23
+        name: top_improvement_areas
+        label: Top Areas for Improvement
+        hint: Where should you focus resilience efforts
+        type: text
+        required: false
+      - id: 24
+        name: support_needed
+        label: Support or Resources Needed
+        hint: What would help improve resilience
+        type: text
+        required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Cancellation Claim Form
+    pages:
+    - id: 1
+      name: subscription_cancellation_claim_form
+      label: Subscription Cancellation Claim Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: subscription_cancellation_reason
+      label: Why are you cancelling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_cancellation
+      label: Date of Cancellation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_cancellation
+      label: Time of Cancellation
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: select_one
+      options:
+      - Service not meeting expectations
+      - Cost too high
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: other_cancellation_reason
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

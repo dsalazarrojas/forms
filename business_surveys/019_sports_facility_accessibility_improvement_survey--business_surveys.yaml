@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Facility Accessibility Improvement Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Sports Facility Accessibility Improvement Survey Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Which type of sports facility do you visit most often?
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Gym
+      - Stadium
+      - Park
+      - Arena
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: category_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: challenge_1
+      label: How often do you encounter difficulty entering your facility due to accessibility
+        challenges?
+      hint: On a scale from 1-5 where 1 is less than once a month and 5 is daily
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: challenge_2
+      label: How often do you encounter difficulty finding accessible facilities or
+        services?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Often
+      - Always
+      required: false
+    - id: 6
+      name: challenge_3
+      label: How often do you have difficulty getting assistance or support for accessibility
+        needs?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Often
+      - Always
+      required: false
+    - id: 7
+      name: challenge_4
+      label: How often do you have difficulty getting information about accessibility
+        features or services?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Often
+      - Always
+      required: false
+    - id: 8
+      name: improvement_1
+      label: What improvements would you suggest for our facility's accessibility?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: improvement_2
+      label: Do you have any other ideas or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Additional comments or feedback
+      hint: null
+      type: note
+      options: []
+      required: false

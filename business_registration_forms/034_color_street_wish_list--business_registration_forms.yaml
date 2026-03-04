@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Wish List
+    pages:
+      - id: 1
+        name: section_wish_intro
+        label: -- Your Color Street Wish List --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: wish_name
+        label: Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: wish_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: section_wishes
+        label: -- My Top Wishes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: wish_set_1
+        label: Wish Set #1
+        hint: Name of the set you want most
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: wish_set_2
+        label: Wish Set #2
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: wish_set_3
+        label: Wish Set #3
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: wish_set_4
+        label: Wish Set #4
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: wish_set_5
+        label: Wish Set #5
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: notify_on_stock
+        label: Notify me if these come back in stock?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: birthday_month
+        label: Your Birthday Month
+        hint: I might send a special gift!
+        type: select_one
+        options:
+          - January
+          - February
+          - March
+          - April
+          - May
+          - June
+          - July
+          - August
+          - September
+          - October
+          - November
+          - December
+        required: false
+      - id: 12
+        name: additional_wishes
+        label: Any other sets or styles you're looking for?
+        hint: null
+        type: text
+        options: []
+        required: false

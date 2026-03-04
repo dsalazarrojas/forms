@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Transparency Evaluation Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - leave blank for anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: stakeholder_type
+        label: Stakeholder Type
+        hint: What is your relationship to the audit?
+        type: select_one
+        options:
+          - Board Member
+          - Senior Management
+          - Department Head
+          - Audit Committee Member
+          - External Stakeholder
+          - Internal Auditor
+          - Auditee
+          - Other
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: audit_name
+        label: Audit Name
+        hint: Name of audit being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: audit_completion_date
+        label: Audit Completion Date
+        hint: When was the audit completed?
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: process_transparency
+        label: Process Transparency
+        hint: How transparent was the audit process?
+        type: select_one
+        options:
+          - Very transparent
+          - Transparent
+          - Moderately transparent
+          - Not very transparent
+          - Not transparent at all
+        required: true
+      - id: 9
+        name: objectives_clarity
+        label: Objectives Clarity
+        hint: How clear were the audit objectives?
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Moderately clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 10
+        name: scope_clarity
+        label: Scope Clarity
+        hint: How clear was the audit scope?
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Moderately clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 11
+        name: methodology_disclosure
+        label: Methodology Disclosure
+        hint: How well was the methodology disclosed?
+        type: select_one
+        options:
+          - Very well disclosed
+          - Well disclosed
+          - Moderately disclosed
+          - Poorly disclosed
+          - Not disclosed
+        required: true
+      - id: 12
+        name: findings_transparency
+        label: Findings Transparency
+        hint: How transparent were the findings?
+        type: select_one
+        options:
+          - Very transparent
+          - Transparent
+          - Moderately transparent
+          - Not very transparent
+          - Not transparent at all
+        required: true
+      - id: 13
+        name: criteria_clarity
+        label: Criteria Clarity
+        hint: How clear were the evaluation criteria?
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Moderately clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 14
+        name: communication_openness
+        label: Communication Openness
+        hint: How open was communication during audit?
+        type: select_one
+        options:
+          - Very open
+          - Open
+          - Moderately open
+          - Closed
+          - Very closed
+        required: true
+      - id: 15
+        name: access_to_information
+        label: Access to Information
+        hint: How was access to information during audit?
+        type: select_one
+        options:
+          - Full access provided
+          - Good access provided
+          - Limited access
+          - Restricted access
+          - No access
+        required: true
+      - id: 16
+        name: decision_making_transparency
+        label: Decision Making Transparency
+        hint: How transparent was audit decision making?
+        type: select_one
+        options:
+          - Very transparent
+          - Transparent
+          - Moderately transparent
+          - Not very transparent
+          - Not transparent at all
+        required: true
+      - id: 17
+        name: reporting_transparency
+        label: Reporting Transparency
+        hint: How transparent was the audit reporting?
+        type: select_one
+        options:
+          - Very transparent
+          - Transparent
+          - Moderately transparent
+          - Not very transparent
+          - Not transparent at all
+        required: true
+      - id: 18
+        name: areas_lacking_transparency
+        label: Areas Lacking Transparency
+        hint: What areas lacked transparency?
+        type: select_multiple
+        options:
+          - Objectives
+          - Scope
+          - Methodology
+          - Findings
+          - Recommendations
+          - Decision making
+          - None
+        required: true
+      - id: 19
+        name: transparency_improvements
+        label: Transparency Improvements
+        hint: How can transparency be improved?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: trust_level
+        label: Trust Level
+        hint: What is your trust level in the audit process?
+        type: select_one
+        options:
+          - Very high trust
+          - High trust
+          - Moderate trust
+          - Low trust
+          - Very low trust
+        required: true
+      - id: 21
+        name: overall_transparency_rating
+        label: Overall Transparency Rating
+        hint: Rate overall audit transparency
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true

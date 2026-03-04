@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Airbnb Check In Check Out Policies Agreement Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: Name as on reservation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_address
+      label: Property address
+      hint: Address of the booked property
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: check_in_time
+      label: Check in time
+      hint: Official check in time for the property
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: check_out_time
+      label: Check out time
+      hint: Official check out time for the property
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: cleaning_policy_summary
+      label: Cleaning policy summary
+      hint: Key points about cleaning expectations and fees
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: damage_policy_summary
+      label: Damage policy summary
+      hint: Explanation of responsibility for damages
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: agree_to_policies
+      label: Agree to policies
+      hint: Guest agrees to abide by check in and out policies
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 8
+      name: additional_requests
+      label: Additional requests
+      hint: Any special requests related to check in or out
+      type: text
+      options: []
+      required: false

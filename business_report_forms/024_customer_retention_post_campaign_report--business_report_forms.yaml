@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Retention Post Campaign Report
+    pages:
+    - id: 1
+      name: campaign_outcomes
+      label: Campaign Outcomes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: performance_over_time
+      label: Performance Over Time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: learnings_shared
+      label: Learnings Shared
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: campaign_outcomes_1
+      label: What Were The Outcomes Of The Last Campaign
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: performance_over_time_1
+      label: Which Of The Following Best Describe The Performance Of The Campaign
+        Over Time
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 6
+      name: learnings_shared_1
+      label: What Learnings Were Shared With Stakeholders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: campaign_outcomes_2
+      label: What Were The Outcomes Of The Previous Campaign
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: performance_over_time_2
+      label: Which Of The Following Best Describe The Performance Of The Previous
+        Campaign
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 9
+      name: learnings_shared_2
+      label: What Learnings Were Shared With Previous Stakeholders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_feedback_1
+      label: What Feedback Have You Got From Customers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_feedback_1_1
+      label: Have You Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_feedback_1_2
+      label: What Was The Outcome Of It
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

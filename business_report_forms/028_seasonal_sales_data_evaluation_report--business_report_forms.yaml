@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Sales Data Evaluation Report
+    pages:
+    - id: 1
+      name: seasonal_sales_data_evaluation_report
+      label: Seasonal Sales Data Evaluation Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_id
+      label: Store ID
+      hint: Enter store ID
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sales_region
+      label: Sales Region
+      hint: Enter sales region
+      type: select_one
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: false
+    - id: 4
+      name: sales_date
+      label: Sales Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: store_sales
+      label: Store Sales
+      hint: Enter store sales
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sales_channel
+      label: Sales Channel
+      hint: Enter sales channel
+      type: select_multiple
+      options:
+      - Online
+      - Offline
+      - Both
+      required: false
+    - id: 7
+      name: store_name
+      label: Store Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sales_amount
+      label: Sales Amount
+      hint: Enter sales amount
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sales_person
+      label: Sales Person
+      hint: Enter sales person
+      type: select_one
+      options:
+      - Manager
+      - Employee
+      - Both
+      required: false
+    - id: 10
+      name: store_performance
+      label: Store Performance
+      hint: null
+      type: note
+      options: []
+      required: false

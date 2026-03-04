@@ -1,0 +1,201 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Fitness Program Awareness Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Name (Optional)
+        hint: Your name if you wish to share
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For program updates
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: zip_code
+        label: ZIP Code
+        hint: Your ZIP code
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: Your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65 or Older
+        required: true
+      - id: 5
+        name: gender
+        label: Gender
+        hint: Your gender identity
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-binary
+          - Prefer to self-describe
+          - Prefer not to say
+        required: false
+      - id: 6
+        name: current_activity_level
+        label: Current Activity Level
+        hint: How active are you?
+        type: select_one
+        options:
+          - Very Active
+          - Moderately Active
+          - Somewhat Active
+          - Not Very Active
+          - Sedentary
+        required: true
+      - id: 7
+        name: awareness_level
+        label: Awareness of Community Fitness Programs
+        hint: How aware are you of local programs?
+        type: select_one
+        options:
+          - Very Aware
+          - Somewhat Aware
+          - Heard of Them
+          - Not Aware at All
+        required: true
+      - id: 8
+        name: program_usage
+        label: Have You Used Community Fitness Programs
+        hint: Previous participation
+        type: select_one
+        options:
+          - Yes, Currently Using
+          - Yes, Used in Past
+          - No, Never Used
+        required: true
+      - id: 9
+        name: programs_used
+        label: Programs You Have Used
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Community Center Gym
+          - Fitness Classes
+          - Sports Leagues
+          - Walking Groups
+          - Yoga in the Park
+          - Senior Fitness
+          - Youth Sports
+          - Swimming Pool
+        required: false
+      - id: 10
+        name: barriers_to_participation
+        label: Barriers to Participation
+        hint: What prevents you from participating?
+        type: select_multiple
+        options:
+          - Lack of Time
+          - Cost
+          - Lack of Information
+          - Transportation
+          - Health Issues
+          - Childcare
+          - Not Interested
+          - None
+        required: true
+      - id: 11
+        name: preferred_activities
+        label: Preferred Fitness Activities
+        hint: What interests you?
+        type: select_multiple
+        options:
+          - Cardio Workouts
+          - Strength Training
+          - Yoga
+          - Pilates
+          - Dance Classes
+          - Sports
+          - Walking or Running
+          - Swimming
+        required: true
+      - id: 12
+        name: preferred_schedule
+        label: Preferred Schedule
+        hint: When would you attend?
+        type: select_multiple
+        options:
+          - Early Morning
+          - Mid-Morning
+          - Afternoon
+          - Evening
+          - Weekends
+        required: true
+      - id: 13
+        name: facility_importance
+        label: Importance of Fitness Facilities
+        hint: How important are local facilities?
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Somewhat Important
+          - Not Important
+        required: true
+      - id: 14
+        name: willingness_to_pay
+        label: Willingness to Pay for Programs
+        hint: Would you pay for fitness programs?
+        type: select_one
+        options:
+          - Yes, Full Price
+          - Yes, Reduced Price
+          - Only if Free
+        required: true
+      - id: 15
+        name: program_satisfaction
+        label: Satisfaction with Current Programs
+        hint: Rate existing programs
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+          - Not Applicable
+        required: true
+      - id: 16
+        name: desired_programs
+        label: Programs You Would Like to See
+        hint: What new programs interest you?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Relationship Survey
+    pages:
+    - id: 1
+      name: government_relationship_survey_form_intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: government_relationship_survey_service_satisfaction
+      label: How_satisfied_with_services
+      hint: Rate_your_satisfaction_with_services
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: government_relationship_survey_service_accessibility
+      label: Services_accessibility
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: government_relationship_survey_transparency
+      label: Government_transparency
+      hint: Describe_your_expectations_for_government_transparency
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: government_relationship_survey_services_frequency
+      label: How_often_use_services
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Less_than_monthly''}'
+      - '{''id'': 5, ''label'': ''Never''}'
+      required: false
+    - id: 6
+      name: government_relationship_survey_services_importance
+      label: Importance_of_services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very_important''}'
+      - '{''id'': 2, ''label'': ''Somewhat_important''}'
+      - '{''id'': 3, ''label'': ''Not_important_at_all''}'
+      - '{''id'': 4, ''label'': ''Not_applicable''}'
+      - '{''id'': 5, ''label'': ''Prefer_not_to_answer''}'
+      required: false
+    - id: 7
+      name: government_relationship_survey_surveyed_areas
+      label: Which_areas_surveyed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Parks''}'
+      - '{''id'': 2, ''label'': ''Libraries''}'
+      - '{''id'': 3, ''label'': ''Public_Transportation''}'
+      - '{''id'': 4, ''label'': ''City_Hall''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: government_relationship_survey_satisfaction_with_services_provided
+      label: Satisfaction_with_services_provided
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: government_relationship_survey_surveyed_areas_frequency
+      label: How_frequently_surveyed_areas_surveyed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Less_than_monthly''}'
+      - '{''id'': 5, ''label'': ''Never''}'
+      required: false
+    - id: 10
+      name: government_relationship_survey_services_use
+      label: Services_use
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Frequently''}'
+      - '{''id'': 2, ''label'': ''Occasionally''}'
+      - '{''id'': 3, ''label'': ''Rarely''}'
+      - '{''id'': 4, ''label'': ''Never''}'
+      required: false
+    - id: 11
+      name: government_relationship_survey_services_importance_to_residents
+      label: Importance_of_services_to_residents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very_important''}'
+      - '{''id'': 2, ''label'': ''Somewhat_important''}'
+      - '{''id'': 3, ''label'': ''Not_important''}'
+      - '{''id'': 4, ''label'': ''Not_applicable''}'
+      - '{''id'': 5, ''label'': ''Prefer_not_to_answer''}'
+      required: false
+    - id: 12
+      name: government_relationship_survey_services_satisfaction_for_residents
+      label: Satisfaction_of_services_for_residents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: government_relationship_survey_transparency_in_government_decision
+      label: Transparency_in_government_decision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: government_relationship_survey_services_accessibility_services
+      label: Accessibility_of_services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: government_relationship_survey_satisfaction_with_services_transparency
+      label: Satisfaction_with_services_transparency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: government_relationship_survey_services_transparency_services
+      label: Services_transparency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: government_relationship_survey_services_transparency_frequency
+      label: Frequency_of_services_transparency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Less_than_monthly''}'
+      - '{''id'': 5, ''label'': ''Never''}'
+      required: false
+    - id: 18
+      name: government_relationship_survey_services_transparency_importance
+      label: Importance_of_services_transparency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very_important''}'
+      - '{''id'': 2, ''label'': ''Somewhat_important''}'
+      - '{''id'': 3, ''label'': ''Not_important''}'
+      - '{''id'': 4, ''label'': ''Not_applicable''}'
+      - '{''id'': 5, ''label'': ''Prefer_not_to_answer''}'
+      required: false
+    - id: 19
+      name: government_relationship_survey_additional_comments
+      label: Additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: government_relationship_survey_surveyed_areas_services
+      label: Services_surveyed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: government_relationship_survey_employees
+      label: Government_employees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: government_relationship_survey_services_frequency_surveyed
+      label: Frequency_of_services_surveyed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Less_than_monthly''}'
+      - '{''id'': 5, ''label'': ''Never''}'
+      required: false
+    - id: 23
+      name: government_relationship_survey_services_importance_of_services
+      label: Importance_of_services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very_important''}'
+      - '{''id'': 2, ''label'': ''Somewhat_important''}'
+      - '{''id'': 3, ''label'': ''Not_important''}'
+      - '{''id'': 4, ''label'': ''Not_applicable''}'
+      - '{''id'': 5, ''label'': ''Prefer_not_to_answer''}'
+      required: false
+    - id: 24
+      name: government_relationship_survey_services_satisfaction_with_services
+      label: Satisfaction_with_services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: government_relationship_survey_employees_importance
+      label: Importance_of_employees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very_important''}'
+      - '{''id'': 2, ''label'': ''Somewhat_important''}'
+      - '{''id'': 3, ''label'': ''Not_important''}'
+      - '{''id'': 4, ''label'': ''Not_applicable''}'
+      - '{''id'': 5, ''label'': ''Prefer_not_to_answer''}'
+      required: false
+    - id: 26
+      name: government_relationship_survey_services_satisfaction_with_employees
+      label: Satisfaction_with_employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: government_relationship_survey_surveyed_areas_employees
+      label: Employees_surveyed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: government_relationship_survey_services_transparency_employees
+      label: Services_transparency_employees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: government_relationship_survey_services_importance_of_employees
+      label: Importance_of_employees
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very_important''}'
+      - '{''id'': 2, ''label'': ''Somewhat_important''}'
+      - '{''id'': 3, ''label'': ''Not_important''}'
+      - '{''id'': 4, ''label'': ''Not_applicable''}'
+      - '{''id'': 5, ''label'': ''Prefer_not_to_answer''}'
+      required: false
+    - id: 30
+      name: government_relationship_survey_services_satisfaction_with_employees_transparency
+      label: Satisfaction_with_employees_transparency
+      hint: null
+      type: number
+      options: []
+      required: false

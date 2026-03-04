@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Certification Survey
+    pages:
+    - id: 1
+      name: time_certification_survey_form
+      label: time_certification_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_period
+      label: time_period
+      hint: null
+      type: select_one
+      options:
+      - First Quarter
+      - Second Quarter
+      - Third Quarter
+      - Fourth Quarter
+      required: false
+    - id: 4
+      name: certification_start_date
+      label: certification_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: certification_end_date
+      label: certification_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - HR
+      - Management
+      required: false
+    - id: 8
+      name: certification_status
+      label: certification_status
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Not Certified
+      - Pending
+      required: false
+    - id: 9
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: certification_note
+      label: certification_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: certification_comment
+      label: certification_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: certification_rating
+      label: certification_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: certification_feedback
+      label: certification_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: certification_remarks
+      label: certification_remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: certification_suggestions
+      label: certification_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: certification_review
+      label: certification_review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: certification_approval
+      label: certification_approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending
+      required: false
+    - id: 18
+      name: time_tracking
+      label: time_tracking
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Off Time
+      - Late
+      required: false
+    - id: 19
+      name: certification_type
+      label: certification_type
+      hint: null
+      type: select_one
+      options:
+      - Overtime
+      - Vacation
+      - Sick Leave
+      required: false
+    - id: 20
+      name: certification_hours
+      label: certification_hours
+      hint: null
+      type: number
+      options: []
+      required: false

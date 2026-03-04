@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Support Records Release Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Patient Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_id
+      label: Medical Record Number (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_caregiver_info
+      label: -- Caregiver Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: caregiver_full_name
+      label: Caregiver Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: caregiver_relationship
+      label: Relationship to Patient
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Legal Guardian
+      - Professional Caregiver
+      - Other
+      required: true
+    - id: 8
+      name: caregiver_phone
+      label: Caregiver Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: caregiver_email
+      label: Caregiver Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: section_authorization_details
+      label: -- Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: release_to_provider
+      label: Healthcare Provider/Entity receiving records
+      hint: Name of the doctor or hospital receiving the records
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: records_type
+      label: Types of records to be released
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Clinical Notes
+      - Lab Results
+      - Immunizations
+      - Imaging Reports
+      - Billing Records
+      - Full Medical History
+      required: true
+    - id: 13
+      name: record_date_range
+      label: Date range for records
+      hint: Choose the timeframe for the information needed
+      type: select_one
+      options:
+      - Past 12 months
+      - Past 3 years
+      - Entire medical history
+      - Specific date range
+      required: true
+    - id: 14
+      name: specific_dates
+      label: If specific range, please specify
+      hint: Example - 2022-01-01 to 2023-01-01
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_consent_legal
+      label: -- Consent and Legal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: purpose_of_release
+      label: Purpose of Information Release
+      hint: Reason for the request
+      type: select_one
+      options:
+      - Care Coordination
+      - Insurance
+      - Personal Use
+      - Legal
+      - Continued Care
+      required: true
+    - id: 17
+      name: expiration_date
+      label: Authorization Expiration Date
+      hint: Date when this authorization expires (default 1 year if empty)
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: caregiver_agreement
+      label: I certify that I have the legal authority to sign
+      hint: By selecting Yes, you confirm your legal right to request these records
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: signature_confirmation
+      label: Confirmation of Consent
+      hint: Please type your full name as a digital signature
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: date_signed
+      label: Today's Date
+      hint: null
+      type: date
+      options: []
+      required: true

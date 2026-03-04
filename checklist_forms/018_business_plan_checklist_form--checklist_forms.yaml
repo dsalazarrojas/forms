@@ -1,0 +1,192 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Plan Checklist Form
+    pages:
+      - id: 1
+        name: section_business_info
+        label: -- Business Information --
+        type: note
+        required: false
+      - id: 2
+        name: business_name
+        label: Business Name
+        hint: Your company name
+        type: text
+        required: true
+      - id: 3
+        name: business_owner
+        label: Business Owner Name
+        hint: Your name
+        type: text
+        required: true
+      - id: 4
+        name: planning_date
+        label: Business Plan Date
+        hint: When was this plan created
+        type: date
+        required: true
+      - id: 5
+        name: section_executive_summary
+        label: -- Executive Summary --
+        type: note
+        required: false
+      - id: 6
+        name: executive_summary_complete
+        label: Executive Summary is Complete
+        hint: Covers mission, vision, and key objectives
+        type: select_one
+        options:
+          - Not Started
+          - In Progress
+          - Complete
+          - Complete - Reviewed
+        required: true
+      - id: 7
+        name: company_description_complete
+        label: Company Description is Complete
+        hint: Detailed overview of the company
+        type: select_one
+        options:
+          - Not Started
+          - In Progress
+          - Complete
+          - Complete - Reviewed
+        required: true
+      - id: 8
+        name: section_market_analysis
+        label: -- Market Analysis --
+        type: note
+        required: false
+      - id: 9
+        name: market_analysis_complete
+        label: Market Analysis is Complete
+        hint: Target market, size, and trends identified
+        type: select_one
+        options:
+          - Not Started
+          - In Progress
+          - Complete
+          - Complete - Reviewed
+        required: true
+      - id: 10
+        name: competitor_analysis_complete
+        label: Competitor Analysis is Complete
+        hint: Key competitors and competitive advantages identified
+        type: select_one
+        options:
+          - Not Started
+          - In Progress
+          - Complete
+          - Complete - Reviewed
+        required: true
+      - id: 11
+        name: section_operations
+        label: -- Operations Plan --
+        type: note
+        required: false
+      - id: 12
+        name: operations_plan_complete
+        label: Operations Plan is Complete
+        hint: Daily operations and processes documented
+        type: select_one
+        options:
+          - Not Started
+          - In Progress
+          - Complete
+          - Complete - Reviewed
+        required: true
+      - id: 13
+        name: management_team_complete
+        label: Management and Organization is Complete
+        hint: Team structure and key personnel described
+        type: select_one
+        options:
+          - Not Started
+          - In Progress
+          - Complete
+          - Complete - Reviewed
+        required: true
+      - id: 14
+        name: section_financial
+        label: -- Financial Projections --
+        type: note
+        required: false
+      - id: 15
+        name: financial_projections_complete
+        label: Financial Projections are Complete
+        hint: Revenue, expenses, and profitability forecasted
+        type: select_one
+        options:
+          - Not Started
+          - In Progress
+          - Complete
+          - Complete - Reviewed
+        required: true
+      - id: 16
+        name: funding_request_complete
+        label: Funding Request is Complete
+        hint: Amount needed and use of funds specified
+        type: select_one
+        options:
+          - Not Started
+          - In Progress
+          - Complete
+          - Complete - Reviewed
+          - Not Applicable
+        required: true
+      - id: 17
+        name: section_marketing
+        label: -- Marketing and Sales Strategy --
+        type: note
+        required: false
+      - id: 18
+        name: marketing_strategy_complete
+        label: Marketing and Sales Strategy is Complete
+        hint: Customer acquisition and retention plan
+        type: select_one
+        options:
+          - Not Started
+          - In Progress
+          - Complete
+          - Complete - Reviewed
+        required: true
+      - id: 19
+        name: section_appendices
+        label: -- Appendices and Supporting Documents --
+        type: note
+        required: false
+      - id: 20
+        name: supporting_documents
+        label: Supporting Documents Included
+        hint: Check all that are included
+        type: select_multiple
+        options:
+          - Market Research Data
+          - Resumes of Key Team Members
+          - Financial Statements
+          - Tax Returns
+          - Letters of Reference
+          - Product Samples
+        required: false
+      - id: 21
+        name: final_review_complete
+        label: Final Review and Editing Complete
+        hint: Plan has been proofread and reviewed
+        type: select_one
+        options:
+          - Not Started
+          - In Progress
+          - Complete
+        required: true

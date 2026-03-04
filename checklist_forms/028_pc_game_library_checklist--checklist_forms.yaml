@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: PC Game Library Checklist
+    pages:
+    - id: 1
+      name: game_platform
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - PC
+      - Console
+      - Mobile
+      required: true
+    - id: 2
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: game_year
+      label: Release Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: game_publisher
+      label: Publisher
+      hint: null
+      type: select_one
+      options:
+      - Electronic Arts
+      - Ubisoft
+      - Bethesda
+      required: true
+    - id: 5
+      name: game_owner
+      label: Owned By
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Friend
+      - Family
+      required: true
+    - id: 6
+      name: game_progress
+      label: Progress
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Not Started
+      - In Progress
+      required: true
+    - id: 7
+      name: game_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: game_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Genre
+      - Series
+      - Multiplayer
+      required: false
+    - id: 9
+      name: game_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: game_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: game_platform_owned
+      label: Platforms Owned
+      hint: null
+      type: select_multiple
+      options:
+      - PC
+      - Console
+      - Mobile
+      required: true
+    - id: 12
+      name: game_owned_date
+      label: Owned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: game_last_played
+      label: Last Played
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: game_playtime
+      label: Playtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: game_acquired
+      label: Acquired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: game_wishlist
+      label: Wishlist
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: game_wishlist_date
+      label: Wishlist Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: game_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: game_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Genre
+      - Series
+      - Multiplayer
+      required: false
+    - id: 20
+      name: game_series
+      label: Series
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: game_multiplayer
+      label: Multiplayer
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: game_completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: game_completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: game_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - 1/5
+      - 2/5
+      - 3/5
+      - 4/5
+      - 5/5
+      required: false
+    - id: 25
+      name: game_replay
+      label: Replay
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

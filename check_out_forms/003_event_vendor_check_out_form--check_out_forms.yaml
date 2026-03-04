@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_vendor_check_out_form
+    pages:
+    - id: 1
+      name: event_vendor_name
+      label: Event Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vendor_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cash''}'
+      - '{''id'': 2, ''name'': ''Check''}'
+      - '{''id'': 3, ''name'': ''Credit Card''}'
+      - '{''id'': 4, ''name'': ''Bank Transfer''}'
+      required: false
+    - id: 6
+      name: vendor_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vendor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_confirmation
+      label: Payment Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Paid''}'
+      - '{''id'': 2, ''name'': ''Unpaid''}'
+      - '{''id'': 3, ''name'': ''Partially Paid''}'
+      required: false
+    - id: 11
+      name: event_vendor_confirmation
+      label: Event Vendor Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Confirmed''}'
+      - '{''id'': 2, ''name'': ''Unconfirmed''}'
+      - '{''id'': 3, ''name'': ''Pending''}'
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''admin''}'
+      required: false
+    - id: 13
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 18
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 19
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 20
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 21
+      name: notes_1
+      label: Notes 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: notes_3
+      label: Notes 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: notes_4
+      label: Notes 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: notes_5
+      label: Notes 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: notes_6
+      label: Notes 6
+      hint: null
+      type: note
+      options: []
+      required: false

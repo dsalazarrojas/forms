@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Technology Capacity Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tech_stack
+      label: tech stack
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tech_budget
+      label: tech budget
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Low'', ''label'': ''Low''}'
+      - '{''id'': 2, ''name'': ''Medium'', ''label'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''High'', ''label'': ''High''}'
+      required: false
+    - id: 4
+      name: tech_support
+      label: tech support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: digital_skills
+      label: digital skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: staff
+      label: staff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tech_needs
+      label: tech needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: action_plan
+      label: action plan
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Clinician and Group Survey Version 3.0 (Adult)
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_age
+      label: Your Age
+      hint: Select age range
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true
+    - id: 3
+      name: visit_reason
+      label: Reason for Visit
+      hint: What was the visit for
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visit_date
+      label: Visit Date
+      hint: When did you see the clinician
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: appointment_easy
+      label: Easy to Get Appointment
+      hint: Ease of scheduling
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 6
+      name: wait_time
+      label: Wait Time Was Reasonable
+      hint: Appointment wait time
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 7
+      name: clinician_listen
+      label: Clinician Listened Carefully
+      hint: Doctor listening skills
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 8
+      name: clinician_explained
+      label: Clinician Explained in Clear Language
+      hint: Communication clarity
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 9
+      name: treatment_discussed
+      label: Discussed Treatment Plans
+      hint: Treatment options discussed
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      - Not applicable
+      required: true
+    - id: 10
+      name: patient_input
+      label: Involved in Medical Decisions
+      hint: Patient participation in care
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 11
+      name: family_support
+      label: Family Involvement in Care
+      hint: Clinician included family
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not applicable
+      required: true
+    - id: 12
+      name: office_staff
+      label: Office Staff Professional and Helpful
+      hint: Staff courtesy
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 13
+      name: office_cleanliness
+      label: Office Was Clean and Comfortable
+      hint: Office environment
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 14
+      name: care_follow_up
+      label: Follow-up Care Arranged
+      hint: Post-visit follow-up
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not applicable
+      required: true
+    - id: 15
+      name: overall_care
+      label: Overall Rating of Care
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: recommend_clinician
+      label: Recommend Clinician to Others
+      hint: Likelihood to recommend
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

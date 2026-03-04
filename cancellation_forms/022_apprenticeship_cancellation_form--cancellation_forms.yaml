@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apprenticeship Cancellation Form
+    pages:
+    - id: 1
+      name: apprentice_info
+      label: Apprentice Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: apprentice_name
+      label: Apprentice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: apprentice_id
+      label: Apprentice ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: program_info
+      label: Program Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: program_name
+      label: Apprenticeship Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: cancellation_info
+      label: Cancellation Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: cancellation_date
+      label: Requested Cancellation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: null
+      type: select_one
+      options:
+      - Personal Circumstances
+      - Career Change
+      - Financial Reasons
+      - Health Issues
+      - Relocation
+      - Not a Good Fit
+      - Other
+      required: true
+    - id: 12
+      name: reason_details
+      label: Please Provide Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: outstanding_obligations
+      label: Do you have any outstanding financial obligations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: final_thoughts
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

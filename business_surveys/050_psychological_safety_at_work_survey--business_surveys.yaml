@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Psychological Safety At Work Survey
+    pages:
+    - id: 1
+      name: team_safety
+      label: Team Safety
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: trust
+      label: Trust
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: openness
+      label: Openness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Regular
+      - Sporadic
+      - Rare
+      - None
+      required: false
+    - id: 5
+      name: psychological_safety
+      label: Psychological Safety
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: manager_safety
+      label: Manager Safety
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_dynamics
+      label: Team Dynamics
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Bad
+      - Mixed
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Mostly
+      - Rarely
+      - Never
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_last_updated
+      label: Date Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_last_updated
+      label: Time Last Updated
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Child Hospital Survey
+    pages:
+    - id: 1
+      name: patient_age
+      label: Child Age
+      hint: Age at time of hospital visit
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: visit_date
+      label: Hospital Visit Date
+      hint: When was the visit
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: admission_reason
+      label: Reason for Hospital Admission
+      hint: Why your child was admitted
+      type: select_one
+      options:
+      - Emergency/Urgent
+      - Planned Surgery
+      - Scheduled Treatment
+      - Injury or Accident
+      - Other
+      required: true
+    - id: 6
+      name: length_of_stay
+      label: Length of Hospital Stay
+      hint: How many days was child in hospital
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: doctor_communication
+      label: Doctor Explained Things Clearly
+      hint: Clarity of doctor communication
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 8
+      name: treatment_plan_understood
+      label: Treatment Plan Was Clear
+      hint: Understanding of treatment
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 9
+      name: pain_management
+      label: Child Pain Was Well Managed
+      hint: Pain control during stay
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      - No pain
+      required: true
+    - id: 10
+      name: staff_respect
+      label: Staff Treated Child With Respect
+      hint: Staff professionalism
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 11
+      name: staff_listen
+      label: Staff Listened to Your Concerns
+      hint: Staff responsiveness
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 12
+      name: nurse_attention
+      label: Nurses Responded Promptly
+      hint: Nursing care quality
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 13
+      name: medication_explanations
+      label: Medications Were Explained
+      hint: Understanding of medications
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 14
+      name: discharge_instructions
+      label: Clear Instructions for Home Care
+      hint: Discharge instructions clarity
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 15
+      name: cleanliness
+      label: Hospital Was Clean and Safe
+      hint: Facility cleanliness standards
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 16
+      name: follow_up_plan
+      label: Follow-up Appointment Scheduled
+      hint: Post-discharge follow-up
+      type: select_one
+      options:
+      - Yes, scheduled
+      - Will be scheduled
+      - No follow-up
+      required: true
+    - id: 17
+      name: overall_rating
+      label: Overall Hospital Care Rating
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: recommend_hospital
+      label: Would You Recommend This Hospital
+      hint: Likelihood to recommend
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

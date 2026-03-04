@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: layout_feedback_survey
+    pages:
+    - id: 1
+      name: page_1
+      label: layout_feedback_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: layout_feedback
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Very much
+      required: false
+    - id: 3
+      name: page_3
+      label: feedback_1
+      hint: null
+      type: select_multiple
+      options:
+      - Please select all that apply
+      - Select all that apply
+      required: false
+    - id: 4
+      name: page_4
+      label: rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: feedback_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: layout_feedback_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: feedback_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: contact_info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: layout_feedback_3
+      hint: null
+      type: select_multiple
+      options:
+      - ประก
+      - Other
+      required: false

@@ -1,0 +1,264 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Agreement Form
+    pages:
+    - id: 1
+      name: section_header_provider
+      label: -- Service Provider Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: provider_name
+      label: Service Provider Name
+      hint: Name of cleaning company or individual
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: provider_address
+      label: Provider Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: provider_phone
+      label: Provider Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: provider_email
+      label: Provider Email
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: license_number
+      label: License Number
+      hint: Business license or certification number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: Full name of the client
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_address
+      label: Client Address
+      hint: Residential or business address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: client_phone
+      label: Client Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: client_email
+      label: Client Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: section_header_agreement
+      label: -- Agreement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: agreement_date
+      label: Agreement Date
+      hint: Date agreement is signed
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: service_start_date
+      label: Service Start Date
+      hint: When services will begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: service_end_date
+      label: Service End Date or Duration
+      hint: Ongoing or specific end date
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: service_frequency
+      label: Service Frequency
+      hint: How often cleaning occurs
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As Needed
+      - Customized Schedule
+      required: true
+    - id: 17
+      name: service_description
+      label: Description of Services
+      hint: Detailed list of services to be provided
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: section_header_pricing
+      label: -- Pricing and Payment Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: service_cost
+      label: Service Cost
+      hint: Price per service or monthly cost
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: cost_type
+      label: Cost Structure
+      hint: How is the cost calculated?
+      type: select_one
+      options:
+      - Per Visit
+      - Monthly
+      - Quarterly
+      - Annually
+      - Hourly
+      required: true
+    - id: 21
+      name: payment_method
+      label: Accepted Payment Methods
+      hint: How will payments be made?
+      type: select_multiple
+      options:
+      - Credit Card
+      - Check
+      - Bank Transfer
+      - Cash
+      - Online Payment
+      required: true
+    - id: 22
+      name: payment_due
+      label: Payment Due Date
+      hint: When payment is due
+      type: select_one
+      options:
+      - Due Immediately After Service
+      - Monthly Invoice
+      - Bi-weekly
+      - Upon Completion
+      - Other
+      required: true
+    - id: 23
+      name: late_payment_policy
+      label: Late Payment Policy
+      hint: Policy for overdue payments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_header_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: cancellation_notice
+      label: Cancellation Notice Required
+      hint: Days notice needed to cancel
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: contract_duration
+      label: Minimum Contract Duration
+      hint: Minimum commitment period
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: supplies_responsibility
+      label: Supplies Responsibility
+      hint: Who provides cleaning supplies?
+      type: select_one
+      options:
+      - Provider Supplies All
+      - Client Supplies All
+      - Shared Responsibility
+      - As Specified
+      required: true
+    - id: 28
+      name: access_instructions
+      label: Special Access Instructions
+      hint: How provider accesses property
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: damage_liability
+      label: Damage Liability Coverage
+      hint: How are damages handled?
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: insurance_required
+      label: Insurance Required from Provider
+      hint: Yes or No
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: section_header_signatures
+      label: -- Signatures and Acceptance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: both_parties_agree
+      label: Both parties agree to terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 33
+      name: agreement_version
+      label: Agreement Version/ID
+      hint: Internal reference number
+      type: text
+      options: []
+      required: false

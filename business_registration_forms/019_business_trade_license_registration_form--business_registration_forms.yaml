@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Trade License Registration Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Official business name for license
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trade_name
+      label: Trade Name or DBA
+      hint: Doing Business As name, if different
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: license_type
+      label: Type of License Needed
+      hint: What type of business license?
+      type: select_one
+      options:
+      - General Business License
+      - Professional License
+      - Retail License
+      - Wholesale License
+      - Food and Beverage License
+      - Contractor License
+      - Other Specialized License
+      required: true
+    - id: 4
+      name: primary_activity
+      label: Primary Business Activity
+      hint: Main type of business or trade
+      type: select_one
+      options:
+      - Retail Trade
+      - Wholesale Trade
+      - Services
+      - Manufacturing
+      - Food and Beverage
+      - Professional Services
+      - Construction
+      - Other
+      required: true
+    - id: 5
+      name: business_description
+      label: Business Description
+      hint: Detailed description of what you do
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_first_name
+      label: Owner First Name
+      hint: Primary owner
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_last_name
+      label: Owner Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_ssn
+      label: Social Security Number
+      hint: For identification purposes
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: owner_date_of_birth
+      label: Owner Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: owner_nationality
+      label: Citizenship or Nationality Status
+      hint: null
+      type: select_one
+      options:
+      - US Citizen
+      - Permanent Resident
+      - Work Visa
+      - Other
+      required: true
+    - id: 11
+      name: business_address
+      label: Business Street Address
+      hint: Physical location
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: business_postal_code
+      label: Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: business_phone
+      label: Business Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: business_email
+      label: Business Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: number_of_employees
+      label: Expected Number of Employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: startup_date
+      label: Business Start Date
+      hint: When will the business start operating?
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: business_structure
+      label: Business Legal Structure
+      hint: null
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Cooperative
+      required: true
+    - id: 20
+      name: insurance_information
+      label: Do you have business liability insurance?
+      hint: null
+      type: select_one
+      options:
+      - Yes, have policy
+      - Yes, planning to obtain
+      - No, not required
+      - Unsure
+      required: true

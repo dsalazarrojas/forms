@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban_planning_community_needs_survey
+    pages:
+    - id: 1
+      name: neighborhood_satisfaction
+      label: How satisfied are you with your neighborhood?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transportation
+      label: What is your main mode of transportation to work?
+      hint: null
+      type: select_one
+      options:
+      - Bus
+      - Car
+      - Walking
+      - Other
+      required: false
+    - id: 3
+      name: community_facilities
+      label: How important is having facilities in your neighborhood?
+      hint: null
+      type: select_multiple
+      options:
+      - Very important
+      - Moderately important
+      - Not very important
+      required: false
+    - id: 4
+      name: resident_feedback
+      label: Do you have any comments or feedback for us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Would you like to be contacted about this project?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: What is your expected completion date for this project?
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: What time of day do you expect to be done with this project?
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: What location do you expect to be done with this project?
+      hint: null
+      type: select_multiple
+      options:
+      - Downtown
+      - Uptown
+      - Downtown/Uptown
+      - Other
+      required: false
+    - id: 10
+      name: priority
+      label: What is your top priority for this project?
+      hint: null
+      type: select_one
+      options:
+      - Safety
+      - Affordability
+      - Accessibility
+      - Quality
+      - Other
+      required: false
+    - id: 11
+      name: project_details
+      label: Can you provide more information about this project?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Who is your assigned tool?
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - chat_bob
+      - Other
+      required: false
+    - id: 13
+      name: category
+      label: What category do you belong to?
+      hint: null
+      type: select_multiple
+      options:
+      - Business Surveys
+      - Community Surveys
+      - Personal Surveys
+      required: false
+    - id: 14
+      name: output_file
+      label: What is the name of output file?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Do you have any comments or feedback about the form?
+      hint: null
+      type: note
+      options: []
+      required: false

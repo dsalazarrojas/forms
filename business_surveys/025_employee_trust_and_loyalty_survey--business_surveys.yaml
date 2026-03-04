@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Trust And Loyalty Survey
+    pages:
+    - id: 1
+      name: employee_trust_and_loyalty_survey
+      label: Employee Trust And Loyalty Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''HR''}'
+      - '{''id'': 2, ''name'': ''Marketing''}'
+      - '{''id'': 3, ''name'': ''IT''}'
+      - '{''id'': 4, ''name'': ''Operations''}'
+      - '{''id'': 5, ''name'': ''Finance''}'
+      - '{''id'': 6, ''name'': ''Sales''}'
+      - '{''id'': 7, ''name'': ''Customer Service''}'
+      - '{''id'': 8, ''name'': ''Management''}'
+      - '{''id'': 9, ''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: employee_trust
+      label: Employee Trust
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_loyalty
+      label: Employee Loyalty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: engagement
+      label: Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Highly''}'
+      - '{''id'': 2, ''name'': ''Moderately''}'
+      - '{''id'': 3, ''name'': ''Not at all''}'
+      required: false
+    - id: 6
+      name: years_with_company
+      label: Years with the Company
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_security
+      label: Job Security
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Highly''}'
+      - '{''id'': 2, ''name'': ''Moderately''}'
+      - '{''id'': 3, ''name'': ''Not at all''}'
+      required: false
+    - id: 9
+      name: employee_perks
+      label: Employee Perks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_relationship
+      label: Manager Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Highly''}'
+      - '{''id'': 2, ''name'': ''Moderately''}'
+      - '{''id'': 3, ''name'': ''Not at all''}'
+      required: false
+    - id: 11
+      name: team_trust
+      label: Team Trust
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_life_balance
+      label: Work Life Balance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_culture
+      label: Company Culture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_safety
+      label: Employee Safety
+      hint: null
+      type: text
+      options: []
+      required: false

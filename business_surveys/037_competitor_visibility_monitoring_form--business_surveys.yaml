@@ -1,0 +1,115 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competitor Visibility Monitoring Form
+    pages:
+      - id: 1
+        name: monitoring_header
+        label: -- Competitor Market Visibility Log --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: observer_full_name
+        label: Observer Name
+        hint: Team member capturing the observation
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_observation_log
+        label: Date of Observation
+        hint: When was this activity noticed?
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: observed_competitor_name
+        label: Competitor Name
+        hint: Company name performing the activity
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: visibility_channel_type
+        label: Channel of Visibility
+        hint: Where did you see this activity?
+        type: select_multiple
+        options:
+          - Social Media (LinkedIn/X/IG)
+          - Search Engine Ad (Google/Bing)
+          - Industry News / PR
+          - Physical Billboard / Signage
+          - Event / Conference Sponsorship
+          - TV / Radio Ad
+          - Direct Email / Outreach
+        required: true
+      - id: 6
+        name: activity_description_details
+        label: Description of Activity
+        hint: Provide details on the campaign, messaging, or offer
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: evidence_url_link
+        label: Link to Evidence (Optional)
+        hint: URL to a post, article, or shared folder
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: impact_rating_visibility
+        label: Estimated Visibility Impact
+        hint: How prominent was this activity? (1 low, 5 high)
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 9
+        name: strategic_threat_level_mon
+        label: Strategic Threat Level
+        hint: How concerned should we be?
+        type: select_one
+        options:
+          - Critical (Requires immediate counter-campaign)
+          - Moderate (Monitor engagement)
+          - Low (Routine activity)
+        required: true
+      - id: 10
+        name: recommended_follow_up_action
+        label: Recommended Internal Follow-up
+        hint: e.g., Alert Sales, Counter-post on Social, or Ignore
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: evidence_notification_note
+        label: Please ensure you have taken a screenshot and saved it to the Shared Strategy Folder.
+        hint: Internal process reminder
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: logging_submission_date
+        label: Date Logged
+        hint: Today's date
+        type: date
+        options: []
+        required: true

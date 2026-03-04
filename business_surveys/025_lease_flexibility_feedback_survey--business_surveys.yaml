@@ -1,0 +1,76 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Lease Flexibility Feedback Survey
+    pages:
+    - id: 1
+      name: form_start
+      label: form_start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tenant_feedback
+      label: tenant_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lease_agreement
+      label: lease_agreement
+      hint: null
+      type: select_one
+      options:
+      - Lease Agreement 1
+      - Lease Agreement 2
+      - Lease Agreement 3
+      required: false
+    - id: 4
+      name: lease_term
+      label: lease_term
+      hint: null
+      type: select_one
+      options:
+      - Lease Term 1
+      - Lease Term 2
+      - Lease Term 3
+      required: false
+    - id: 5
+      name: tenant_satisfaction
+      label: tenant_satisfaction
+      hint: How satisfied are you with your lease?
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: Please provide suggestions for improvement.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

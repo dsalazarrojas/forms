@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calorie Calculation Photo Submission
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Submitter Name
+      hint: Full name of the person submitting photos
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submitter_email
+      label: Submitter Email
+      hint: Used for follow up and results
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: meal_date
+      label: Meal Date
+      hint: Date when the meal was consumed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: meal_time
+      label: Meal Time
+      hint: Approximate time of the meal
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: meal_photo_description
+      label: Photo Description
+      hint: Describe what the photo shows including portion sizes
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: estimated_calories
+      label: Estimated Calories
+      hint: Provide an estimated calorie value if known
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: meal_components
+      label: Meal Components
+      hint: List main components like protein, carbs, fats
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or restrictions relevant to the meal
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_photo_use
+      label: Consent to Use Photo for Analysis
+      hint: Consent to use photo for calorie estimation and coaching
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional context for the photo submission
+      type: text
+      options: []
+      required: false

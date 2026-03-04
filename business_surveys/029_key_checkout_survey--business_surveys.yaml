@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Key Checkout Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_visited
+      label: Date visited
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_spent
+      label: Time spent
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 9
+      name: select_one_options
+      label: Favorite item
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: select_one_select_one_options
+      label: Select one options
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: select_multiple_options
+      label: Select multiple options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: select_multiple_select_multiple_options
+      label: Select multiple options
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: date_and_time
+      label: Date and time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email_options
+      label: Email options
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone_options
+      label: Phone options
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_and_time_options
+      label: Date and time options
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_options
+      label: Time options
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: note_options
+      label: Note options
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: select_one_options_2
+      label: Select one options 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: select_multiple_options_2
+      label: Select multiple options 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: select_multiple_select_one_options_2
+      label: Select multiple select one options 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: select_multiple_select_multiple_options_2
+      label: Select multiple options 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: select_one_select_multiple_options_3
+      label: Select one select multiple options 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

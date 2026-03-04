@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Cybersecurity Readiness Survey
+    pages:
+    - id: 1
+      name: veterinary_cybersecurity_readiness_survey
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: practice_name
+      label: practice_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: number_employees
+      label: number_employees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: employee_survey
+      label: employee_survey
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: true
+    - id: 5
+      name: security_concerns
+      label: security_concerns
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Internet''}'
+      - '{''id'': 3, ''label'': ''Cloud''}'
+      - '{''id'': 4, ''label'': ''Network''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: security_measures
+      label: security_measures
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Firewalls''}'
+      - '{''id'': 2, ''label'': ''Antivirus''}'
+      - '{''id'': 3, ''label'': ''Encryption''}'
+      - '{''id'': 4, ''label'': ''Intrusion Detection''}'
+      - '{''id'': 5, ''label'': ''Backup''}'
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: practice_survey_completed
+      label: practice_survey_completed
+      hint: null
+      type: note
+      options: []
+      required: false

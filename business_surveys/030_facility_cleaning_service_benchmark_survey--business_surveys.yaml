@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Cleaning Service Benchmark Survey
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: Scale from 1-5
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': 1, ''label'': 1}'
+      - '{''id'': 2, ''name'': 2, ''label'': 2}'
+      - '{''id'': 3, ''name'': 3, ''label'': 3}'
+      - '{''id'': 4, ''name'': 4, ''label'': 4}'
+      - '{''id'': 5, ''name'': 5, ''label'': 5}'
+      required: true
+    - id: 4
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: Please type any suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: assigned_manager_name
+      label: Assigned Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_manager_title
+      label: Assigned Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_type
+      label: Facility Type
+      hint: Please select the type of facility
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''office-building'', ''label'': ''Office Building''}'
+      - '{''id'': 2, ''name'': ''school-campus'', ''label'': ''School-Campus''}'
+      - '{''id'': 3, ''name'': ''hospital-clinic'', ''label'': ''Hospital-Clinic''}'
+      - '{''id'': 4, ''name'': ''retail-store'', ''label'': ''Retail-Store''}'
+      - '{''id'': 5, ''name'': ''hotel-resort'', ''label'': ''Hotel-Resort''}'
+      - '{''id'': 6, ''name'': ''government-building'', ''label'': ''Government-Building''}'
+      - '{''id'': 7, ''name'': ''restaurant-cafe'', ''label'': ''Restaurant-Cafe''}'
+      - '{''id'': 8, ''name'': ''other'', ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_city
+      label: Facility City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_state
+      label: Facility State
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,263 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Model Evaluation Report Form
+    pages:
+      - id: 1
+        name: company_name
+        label: Company Name
+        hint: Name of company being evaluated
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: evaluator_role
+        label: Evaluator Role
+        hint: Your position or relationship to company
+        type: select_one
+        options:
+          - Internal - employee
+          - Internal - executive
+          - External - consultant
+          - External - investor
+          - External - analyst
+          - Other
+        required: true
+      - id: 4
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of evaluation
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: industry
+        label: Industry
+        hint: Primary industry category
+        type: select_one
+        options:
+          - Technology
+          - Healthcare
+          - Finance
+          - Manufacturing
+          - Retail
+          - Hospitality
+          - Education
+          - Professional services
+          - Other
+        required: true
+      - id: 6
+        name: company_size
+        label: Company Size
+        hint: Number of employees
+        type: select_one
+        options:
+          - 1 to 10
+          - 11 to 50
+          - 51 to 200
+          - 201 to 500
+          - 500 plus
+        required: true
+      - id: 7
+        name: value_proposition_clarity
+        label: Value Proposition Clarity
+        hint: How clear is the value proposition
+        type: select_one
+        options:
+          - Very clear and compelling
+          - Clear but could be stronger
+          - Somewhat unclear
+          - Unclear or weak
+          - Non-existent
+        required: true
+      - id: 8
+        name: target_market_definition
+        label: Target Market Definition
+        hint: How well defined is the target market
+        type: select_one
+        options:
+          - Very well defined
+          - Well defined
+          - Moderately defined
+          - Poorly defined
+          - Not defined
+        required: true
+      - id: 9
+        name: revenue_model_viability
+        label: Revenue Model Viability
+        hint: How viable is the revenue model
+        type: select_one
+        options:
+          - Highly viable
+          - Viable
+          - Moderately viable
+          - Questionable
+          - Not viable
+        required: true
+      - id: 10
+        name: revenue_diversification
+        label: Revenue Diversification
+        hint: How diversified are revenue streams
+        type: select_one
+        options:
+          - Highly diversified
+          - Moderately diversified
+          - Slightly diversified
+          - Single revenue stream
+          - No revenue yet
+        required: true
+      - id: 11
+        name: cost_structure_efficiency
+        label: Cost Structure Efficiency
+        hint: How efficient is the cost structure
+        type: select_one
+        options:
+          - Highly efficient
+          - Efficient
+          - Moderately efficient
+          - Inefficient
+          - Highly inefficient
+        required: true
+      - id: 12
+        name: competitive_position
+        label: Competitive Position
+        hint: How strong is the competitive position
+        type: select_one
+        options:
+          - Market leader
+          - Strong competitor
+          - Average position
+          - Weak position
+          - Non-competitive
+        required: true
+      - id: 13
+        name: scalability_assessment
+        label: Scalability Assessment
+        hint: How scalable is the business model
+        type: select_one
+        options:
+          - Highly scalable
+          - Scalable
+          - Moderately scalable
+          - Limited scalability
+          - Not scalable
+        required: true
+      - id: 14
+        name: customer_acquisition_strategy
+        label: Customer Acquisition Strategy
+        hint: How effective is customer acquisition
+        type: select_one
+        options:
+          - Highly effective
+          - Effective
+          - Moderately effective
+          - Ineffective
+          - No strategy
+        required: true
+      - id: 15
+        name: customer_retention_strategy
+        label: Customer Retention Strategy
+        hint: How effective is customer retention
+        type: select_one
+        options:
+          - Highly effective
+          - Effective
+          - Moderately effective
+          - Ineffective
+          - No strategy
+        required: true
+      - id: 16
+        name: key_resources_adequacy
+        label: Key Resources Adequacy
+        hint: Are key resources adequate
+        type: select_one
+        options:
+          - More than adequate
+          - Adequate
+          - Barely adequate
+          - Inadequate
+          - Severely lacking
+        required: true
+      - id: 17
+        name: key_partnerships_strength
+        label: Key Partnerships Strength
+        hint: How strong are key partnerships
+        type: select_one
+        options:
+          - Very strong
+          - Strong
+          - Moderate
+          - Weak
+          - Non-existent
+        required: true
+      - id: 18
+        name: innovation_capacity
+        label: Innovation Capacity
+        hint: How would you rate innovation capacity
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: true
+      - id: 19
+        name: risk_factors
+        label: Major Risk Factors
+        hint: Select all major risks
+        type: select_multiple
+        options:
+          - Market risk
+          - Competition risk
+          - Technology risk
+          - Regulatory risk
+          - Financial risk
+          - Operational risk
+          - Team risk
+          - None identified
+        required: true
+      - id: 20
+        name: overall_assessment
+        label: Overall Business Model Assessment
+        hint: Overall rating of business model
+        type: select_one
+        options:
+          - Excellent - ready to scale
+          - Good - minor improvements needed
+          - Average - several improvements needed
+          - Below average - major changes needed
+          - Poor - complete redesign needed
+        required: true
+      - id: 21
+        name: recommendations
+        label: Key Recommendations
+        hint: Summarize top recommendations
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other observations
+        type: text
+        options: []
+        required: false

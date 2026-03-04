@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Flow Analysis Form
+    pages:
+    - id: 1
+      name: analysis_period_section
+      label: -- Analysis Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: analysis_date
+      label: Analysis Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 5
+      name: period_from
+      label: Period From Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: period_to
+      label: Period To Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: cash_inflows_section
+      label: -- Cash Inflows --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: operating_cash_inflows
+      label: Operating Cash Inflows
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: sales_revenue
+      label: Sales or Service Revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: accounts_receivable_collected
+      label: Accounts Receivable Collected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: other_income
+      label: Other Operating Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: financing_cash_inflows
+      label: Financing Cash Inflows
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: loan_proceeds
+      label: Loan Proceeds
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: equity_investment
+      label: Equity Investment or Owner Contribution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: cash_outflows_section
+      label: -- Cash Outflows --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: operating_cash_outflows
+      label: Operating Cash Outflows
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: cost_of_goods_sold
+      label: Cost of Goods Sold
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: operating_expenses
+      label: Operating Expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: payroll_expenses
+      label: Payroll and Wages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: capital_expenditures
+      label: Capital Expenditures
+      hint: Equipment, property, etc.
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: debt_payments
+      label: Debt Payments or Loan Repayments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: tax_payments
+      label: Tax Payments
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: cash_flow_analysis_section
+      label: -- Cash Flow Analysis --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: total_cash_inflows
+      label: Total Cash Inflows
+      hint: Auto-calculated sum
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: net_cash_flow
+      label: Net Cash Flow (Inflows minus Outflows)
+      hint: Auto-calculated
+      type: number
+      options: []
+      required: false

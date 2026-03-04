@@ -1,0 +1,141 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: A3 Problem Solving Form
+    pages:
+    - id: 1
+      name: header_a3_title
+      label: "--- A3 Problem Solving Worksheet ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: problem_statement
+      label: Problem statement
+      hint: Concisely describe the problem and its impact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: background
+      label: Background and context
+      hint: Key facts, history, and scope of the issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_condition
+      label: Current condition (observed)
+      hint: Describe measured performance or behaviors now
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_condition
+      label: Target condition (goal)
+      hint: Measurable target desired after countermeasures
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: root_cause_analysis
+      label: Probable root causes (select all that apply)
+      hint: Choose causes identified during analysis
+      type: select_multiple
+      options:
+        - Process variability
+        - Lack of training
+        - Poor documentation
+        - Equipment or tooling issue
+        - Data quality problems
+      required: true
+    - id: 7
+      name: countermeasures
+      label: Proposed countermeasures
+      hint: List corrective actions and why they help
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: implementation_plan
+      label: Implementation plan summary
+      hint: Brief steps, owners, and deadlines
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: owner_name
+      label: Countermeasure owner
+      hint: Individual responsible for execution
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: implementation_start_date
+      label: Implementation start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: expected_completion_date
+      label: Expected completion date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: success_metrics
+      label: Success metrics and targets
+      hint: Define how improvement will be measured (e.g., defect rate)
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: follow_up_date
+      label: Follow-up review date
+      hint: Date to evaluate results
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: result_summary
+      label: Results and lessons learned
+      hint: Filled after follow-up; describe outcomes
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: status
+      label: Current status
+      hint: Select current progress stage
+      type: select_one
+      options:
+        - Planned
+        - In progress
+        - Completed
+        - On hold
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional comments
+      hint: Open-ended notes for the team
+      type: text
+      options: []
+      required: false

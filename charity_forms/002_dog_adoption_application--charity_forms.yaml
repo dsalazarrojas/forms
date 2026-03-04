@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Adoption Application
+    pages:
+    - id: 1
+      name: household_details
+      label: Household Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_details
+      label: family_details
+      hint: null
+      type: select_multiple
+      options:
+      - husband
+      - wife
+      - child
+      - other
+      required: false
+    - id: 4
+      name: vet_ref
+      label: vet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_experience
+      label: pet
+      hint: null
+      type: select_one
+      options:
+      - years
+      - months
+      - months
+      - years
+      required: false
+    - id: 6
+      name: adoption_terms
+      label: adoption_terms
+      hint: Check the box if you understand the contract.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

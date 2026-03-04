@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Calculate Age
+    pages:
+      - id: 1
+        name: full_name
+        label: Full Name
+        hint: Your name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: date_of_birth
+        label: Date of Birth
+        hint: Enter your birth date
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: calculation_note
+        label: Age Calculation
+        hint: Your age will be calculated automatically
+        type: note
+        options: []
+        required: false
+      - id: 4
+        name: purpose_of_calculation
+        label: Purpose of Age Calculation
+        hint: Why do you need to calculate age
+        type: select_one
+        options:
+          - Personal records
+          - Employment verification
+          - Insurance application
+          - Medical records
+          - School enrollment
+          - Legal documentation
+          - Other
+        required: false
+      - id: 5
+        name: age_verification_required
+        label: Age Verification Required
+        hint: Is this for official verification
+        type: select_one
+        options:
+          - Yes, official use
+          - No, personal use only
+        required: false
+      - id: 6
+        name: include_months_days
+        label: Include Months and Days
+        hint: Do you want precise age with months and days
+        type: select_one
+        options:
+          - Years only
+          - Years and months
+          - Years, months, and days
+        required: false
+      - id: 7
+        name: timezone
+        label: Timezone
+        hint: Your current timezone
+        type: select_one
+        options:
+          - Eastern Time
+          - Central Time
+          - Mountain Time
+          - Pacific Time
+          - Alaska Time
+          - Hawaii Time
+          - Other
+        required: false
+      - id: 8
+        name: email_results
+        label: Email Results
+        hint: Would you like results emailed to you
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 9
+        name: email_address
+        label: Email Address
+        hint: For sending results
+        type: email
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other notes
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Mitigation Insight Survey
+    pages:
+    - id: 1
+      name: risk_awareness
+      label: Risk Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 2
+      name: priority_awareness
+      label: Priority Awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: risk_effectiveness
+      label: Risk Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: mitigation_effectiveness
+      label: Mitigation Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: open_ended_comments
+      label: Open-Ended Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_time
+      label: Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

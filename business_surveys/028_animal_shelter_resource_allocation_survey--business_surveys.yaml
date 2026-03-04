@@ -1,0 +1,260 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Resource Allocation Survey
+    pages:
+    - id: 1
+      name: shelter_name
+      label: Shelter Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Your Role
+      hint: Position title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: shelter_location
+      label: Shelter Location
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shelter_type
+      label: Shelter Type
+      hint: null
+      type: select_one
+      options:
+      - Municipal Shelter
+      - Private Nonprofit
+      - Rescue Organization
+      - Animal Sanctuary
+      - Humane Society
+      - SPCA
+      - Other
+      required: true
+    - id: 8
+      name: annual_capacity
+      label: Annual Animal Capacity
+      hint: Number of animals served per year
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_population
+      label: Current Animal Population
+      hint: Animals currently in care
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: population_breakdown
+      label: Population Breakdown
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dogs
+      - Cats
+      - Rabbits
+      - Birds
+      - Small Mammals
+      - Reptiles
+      - Livestock
+      - Wildlife
+      required: true
+    - id: 11
+      name: dog_population
+      label: Current Dog Population
+      hint: Number of dogs
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: cat_population
+      label: Current Cat Population
+      hint: Number of cats
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: staff_count
+      label: Number of Staff Members
+      hint: Full and part-time
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: volunteer_count
+      label: Number of Active Volunteers
+      hint: Current active volunteers
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: annual_budget
+      label: Annual Operating Budget
+      hint: Approximate amount
+      type: select_one
+      options:
+      - Under $100000
+      - $100000-$500000
+      - $500001-$1000000
+      - $1000001-$2500000
+      - Over $2500000
+      required: true
+    - id: 16
+      name: budget_sources
+      label: Primary Budget Sources
+      hint: Select top 3
+      type: select_multiple
+      options:
+      - Government Funding
+      - Individual Donations
+      - Corporate Sponsorships
+      - Grants
+      - Fundraising Events
+      - Adoption Fees
+      - Service Fees
+      - Investment Income
+      - Other
+      required: true
+    - id: 17
+      name: resource_needs
+      label: Current Resource Needs
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Food and Nutrition
+      - Medical Supplies
+      - Cleaning Supplies
+      - Bedding and Enrichment
+      - Facility Maintenance
+      - Staffing
+      - Volunteer Support
+      - Transportation
+      - Technology
+      - Foster Homes
+      - Adoption Services
+      - Behavioral Training
+      required: true
+    - id: 18
+      name: priority_need
+      label: What Is Your Most Critical Resource Need
+      hint: Select one priority
+      type: select_one
+      options:
+      - Food and Nutrition
+      - Medical Supplies
+      - Staffing
+      - Foster Homes
+      - Facility Improvements
+      - Funding
+      - Volunteer Support
+      - Other
+      required: true
+    - id: 19
+      name: funding_gap
+      label: Estimated Annual Funding Gap
+      hint: Difference between needs and resources
+      type: select_one
+      options:
+      - No Gap - Fully Funded
+      - Under $50000
+      - $50000-$100000
+      - $100001-$250000
+      - $250001-$500000
+      - Over $500000
+      required: true
+    - id: 20
+      name: capacity_status
+      label: Current Capacity Status
+      hint: null
+      type: select_one
+      options:
+      - Under Capacity
+      - At Capacity
+      - Over Capacity
+      - Critical Overcrowding
+      required: true
+    - id: 21
+      name: intake_rate
+      label: Average Monthly Intake
+      hint: Animals per month
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: adoption_rate
+      label: Average Monthly Adoptions
+      hint: Animals per month
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: length_of_stay
+      label: Average Length of Stay
+      hint: In days
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: support_requested
+      label: What Type of Support Would Help Most
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial Grants
+      - Food Donations
+      - Medical Supplies
+      - Equipment
+      - Training and Education
+      - Consulting Services
+      - Volunteer Recruitment
+      - Adoption Promotion
+      - Facility Improvements
+      - Other
+      required: true
+    - id: 25
+      name: partnership_interest
+      label: Are You Interested in Partnership Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Yes - Very Interested
+      - Yes - Somewhat Interested
+      - Maybe
+      - false
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments or Context
+      hint: Share any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Home Feature Value Survey
+    pages:
+    - id: 1
+      name: smart_home_feature_value_survey
+      label: Survey Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: important_features
+      label: Important Features
+      hint: null
+      type: select_one
+      options:
+      - Voice Control
+      - Smart Lighting
+      - Smart Temperature Control
+      - Smart Security Cameras
+      - Smart Door Locks
+      - Smart Home Assistants
+      required: false
+    - id: 3
+      name: importance_rating
+      label: Importance Rating (1-5)
+      hint: Rate from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: price_expectation
+      label: Price Expectation (1-100)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: smart_home_interest
+      label: How Interested are you in Smart Home Features
+      hint: null
+      type: select_multiple
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not at all Interested
+      - Somewhat Uninterested
+      - Very Uninterested
+      required: false
+    - id: 6
+      name: smart_home_importance
+      label: How Important are Smart Home Features
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not at all Important
+      - Somewhat Unimportant
+      - Very Unimportant
+      required: false
+    - id: 7
+      name: smart_home_pricing
+      label: Smart Home Pricing Expectation
+      hint: null
+      type: select_one
+      options:
+      - Very Expensive
+      - Somewhat Expensive
+      - Moderately Expensive
+      - Somewhat Cheap
+      - Very Cheap
+      required: false
+    - id: 8
+      name: smart_home_feature_expectation
+      label: Smart Home Feature Expectation
+      hint: null
+      type: select_multiple
+      options:
+      - Expect
+      - Somewhat Expect
+      - Not Expect
+      - Somewhat Not Expect
+      - Very Not Expect
+      required: false
+    - id: 9
+      name: note
+      label: Additional Comments
+      hint: Add any additional comments or questions
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Your Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: smart_home_feature_interest
+      label: How interested are you in Smart Home Features?
+      hint: null
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not at all Interested
+      - Somewhat Uninterested
+      - Very Uninterested
+      required: false
+    - id: 13
+      name: smart_home_feature_importance
+      label: How important are Smart Home Features?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not at all Important
+      - Somewhat Unimportant
+      - Very Unimportant
+      required: false
+    - id: 14
+      name: smart_home_feature_pricing
+      label: Smart Home Feature Pricing Expectation
+      hint: null
+      type: select_one
+      options:
+      - Very Expensive
+      - Somewhat Expensive
+      - Moderately Expensive
+      - Somewhat Cheap
+      - Very Cheap
+      required: false
+    - id: 15
+      name: smart_home_feature_expectation
+      label: Smart Home Feature Expectation
+      hint: Select the features you expect
+      type: select_multiple
+      options:
+      - Expect
+      - Somewhat Expect
+      - Not Expect
+      - Somewhat Not Expect
+      - Very Not Expect
+      required: false
+    - id: 16
+      name: smart_home_feature
+      label: Smart Home Feature
+      hint: null
+      type: select_one
+      options:
+      - Voice Control
+      - Smart Lighting
+      - Smart Temperature Control
+      - Smart Security Cameras
+      - Smart Door Locks
+      - Smart Home Assistants
+      required: false

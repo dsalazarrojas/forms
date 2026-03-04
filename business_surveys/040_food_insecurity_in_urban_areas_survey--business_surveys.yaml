@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Insecurity In Urban Areas Survey
+    pages:
+    - id: 1
+      name: household_id
+      label: Household Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: household_size
+      label: household_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: food_access
+      label: Food Access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: true
+    - id: 5
+      name: food_challenge
+      label: Food Challenge
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''No challenge''}'
+      - '{''label'': ''Food insecurity''}'
+      - '{''label'': ''Lack of money''}'
+      - '{''label'': ''Limited access''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: food_coping
+      label: Food Coping
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''No coping''}'
+      - '{''label'': ''Food bank''}'
+      - '{''label'': ''Government help''}'
+      - '{''label'': ''Other help''}'
+      - '{''label'': ''Self help''}'
+      required: true
+    - id: 7
+      name: food_source
+      label: Food Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Store''}'
+      - '{''label'': ''Supermarket''}'
+      - '{''label'': ''Farm''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: household_location
+      label: Household Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Urban''}'
+      - '{''label'': ''Rural''}'
+      - '{''label'': ''Both''}'
+      required: true
+    - id: 9
+      name: household_income_source
+      label: Household Income Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Employment''}'
+      - '{''label'': ''Government aid''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Self employed''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: household_income_frequency
+      label: Household Income Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Bi weekly''}'
+      - '{''label'': ''Fortnightly''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: survey_response
+      label: Survey Response
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: household_income_type
+      label: Household Income Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fixed income''}'
+      - '{''label'': ''Variable income''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 13
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false

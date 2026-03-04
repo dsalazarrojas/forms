@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Titration Data Collection Form
+    pages:
+    - id: 1
+      name: experiment_details
+      label: Experiment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reagent
+      label: Reagent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: titratable_solute
+      label: Titralable Solute
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volume_initial
+      label: Volume Initial
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: volume_final
+      label: Volume Final
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reagent_initial
+      label: Reagent Initial
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reagent_final
+      label: Reagent Final
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: titrated_solute_final
+      label: Titrated Solute
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: calculated_result
+      label: Calculated Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: calculated_result_calculated_value
+      label: Calculated Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: calculated_result_titrated_molarity
+      label: Titrated Molarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: calculated_result_titrated_volume
+      label: Titrated Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: calculated_result_purity
+      label: Purity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: calculated_result_titrated_concentration
+      label: Titrated Concentration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: calculated_result_titrated_concentration_unit
+      label: Titrated Concentration Unit
+      hint: null
+      type: select_one
+      options:
+      - unit
+      - mol
+      - g
+      - mg
+      - mcg
+      required: false
+    - id: 17
+      name: calculated_result_titrated_purity
+      label: Titrated Purity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: calculated_result_titrated_mol_weight
+      label: Titrated Molecular Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: calculated_result_titrated_mol_weight_unit
+      label: Titrated Molecular Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - g
+      - g/mol
+      - g/l
+      required: false
+    - id: 20
+      name: calculated_result_titrated_concentration_factor
+      label: Titrated Concentration Factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: calculated_result_titrated_molarity
+      label: Titrated Molarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: calculated_result_titrated_volume_factor
+      label: Titrated Volume Factor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

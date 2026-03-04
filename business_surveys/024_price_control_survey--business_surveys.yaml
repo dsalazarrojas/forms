@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Price Control Survey
+    pages:
+    - id: 1
+      name: customer_feedback
+      label: customer-feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pricing_strategy
+      label: pricing-strategy
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: price_sensitivity
+      label: price-sensitivity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: price_confidence
+      label: price-confidence
+      hint: null
+      type: number
+      options: []
+      required: false

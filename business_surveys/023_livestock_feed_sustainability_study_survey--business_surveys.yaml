@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Feed Sustainability Study Survey
+    pages:
+    - id: 1
+      name: farm_info
+      label: Farm Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feed_type
+      label: Feed Type
+      hint: null
+      type: select_one
+      options:
+      - Livestock
+      - Grain
+      - Forage
+      required: false
+    - id: 3
+      name: feed_source
+      label: Feed Source
+      hint: null
+      type: select_one
+      options:
+      - Local
+      - Imported
+      - Mixed
+      required: false
+    - id: 4
+      name: feed_formulation
+      label: Feed Formulation
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 5
+      name: farm_size
+      label: Farm Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sustainability_measures
+      label: Sustainability Measures
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 7
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

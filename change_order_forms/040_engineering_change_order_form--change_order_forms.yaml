@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Change Order Form
+    pages:
+    - id: 1
+      name: submit_page
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 2
+      name: change_description
+      label: Change Description
+      hint: Enter a description of the change
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: change_reason
+      label: Change Reason
+      hint: Enter the reason for the change
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: change_impact
+      label: Change Impact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      required: true
+    - id: 5
+      name: submitter
+      label: Submitter
+      hint: Enter the submitter's name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: change_date
+      label: Change Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: change_time
+      label: Change Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: reviewer
+      label: Reviewer
+      hint: Enter the reviewer's name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: Enter the reviewer's comments
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reviewer_approvals
+      label: Reviewer Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 16
+      name: approver
+      label: Approver
+      hint: Enter the approver's name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: approver_email
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: approver_phone
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: change_status
+      label: Change Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Approved''}'
+      - '{''id'': 4, ''label'': ''Cancelled''}'
+      required: true
+    - id: 21
+      name: change_number
+      label: Change Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: change_type
+      label: Change Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Design''}'
+      - '{''id'': 2, ''label'': ''Specification''}'
+      - '{''id'': 3, ''label'': ''Process''}'
+      required: true
+    - id: 23
+      name: change_version
+      label: Change Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

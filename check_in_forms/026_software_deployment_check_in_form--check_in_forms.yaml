@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_deployment_check_in_form
+    pages:
+    - id: 1
+      name: deployment_date
+      label: Deployment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: software_name
+      label: software_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: deployment_status
+      label: Deployment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Completed
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: software_version
+      label: software_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: deployment_time
+      label: Deployment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 10
+      name: deployment_team
+      label: deployment_team
+      hint: null
+      type: select_multiple
+      options:
+      - dev
+      - qa
+      - support
+      required: false
+    - id: 11
+      name: deployment_manager
+      label: deployment_manager
+      hint: null
+      type: select_one
+      options:
+      - user1
+      - user2
+      - user3
+      required: false
+    - id: 12
+      name: deployment_location
+      label: deployment_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: deployed_by
+      label: deployed_by
+      hint: null
+      type: select_one
+      options:
+      - user1
+      - user2
+      - user3
+      required: false
+    - id: 14
+      name: deployment_notes
+      label: deployment_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: deployment_comments
+      label: deployment_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: deployed_to
+      label: deployed_to
+      hint: null
+      type: select_multiple
+      options:
+      - user1
+      - user2
+      - user3
+      required: false
+    - id: 17
+      name: deployed_to_group
+      label: deployed_to_group
+      hint: null
+      type: select_multiple
+      options:
+      - group1
+      - group2
+      - group3
+      required: false
+    - id: 18
+      name: deployment_type
+      label: deployment_type
+      hint: null
+      type: select_multiple
+      options:
+      - windows
+      - macos
+      - linux
+      required: false

@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Project Status Report
+    pages:
+    - id: 1
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: challenge_id
+      label: Challenge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: milestone_status
+      label: Milestones
+      hint: null
+      type: select_multiple
+      options:
+      - '123'
+      - '456'
+      - '789'
+      required: false
+    - id: 4
+      name: challenge_status
+      label: Challenges
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: overall_status
+      label: Overall Status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_lead_email
+      label: Project Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: project_lead_phone
+      label: Project Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

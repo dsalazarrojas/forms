@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Business Report Request Form
+    pages:
+    - id: 1
+      name: business_report_request_form_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: custom_report_date
+      label: Custom Report Date
+      hint: 'Format: mm/dd/yyyy'
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: custom_report_title
+      label: Custom Report Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_request_type
+      label: Report Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Operational
+      - Marketing
+      required: false
+    - id: 5
+      name: custom_report_description
+      label: Custom Report Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: report_requester_name
+      label: Report Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: report_requested_by
+      label: Requested By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_report_form_category
+      label: Business Report Form Category
+      hint: null
+      type: select_one
+      options:
+      - Business Report Forms
+      - Business Forms
+      - Reports
+      required: true
+    - id: 10
+      name: business_report_form_sub_category
+      label: Business Report Form Sub Category
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Report
+      required: true
+    - id: 11
+      name: report_request_notes
+      label: Report Request Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: business_report_form_status
+      label: Business Report Form Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Pending
+      - Approved
+      required: false
+    - id: 13
+      name: report_request_due_date
+      label: Report Request Due Date
+      hint: 'Format: mm/dd/yyyy'
+      type: date
+      options: []
+      required: false

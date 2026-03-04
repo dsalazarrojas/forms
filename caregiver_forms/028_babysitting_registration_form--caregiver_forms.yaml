@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitting Registration Form
+    pages:
+    - id: 1
+      name: family_name
+      label: Family name
+      hint: Household surname
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Primary contact name
+      hint: Parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: Best number to reach
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: children_details
+      label: Children details
+      hint: Names ages and any notes
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: schedule_needed
+      label: Babysitting schedule needed
+      hint: Days and times
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: special_needs
+      label: Special needs or instructions
+      hint: Allergies medications behaviors
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recurring_service
+      label: Is this a recurring service request
+      hint: Select yes if ongoing
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: preferred_sitter_gender
+      label: Preferred sitter gender
+      hint: Optional preference
+      type: select_one
+      options:
+      - No preference
+      - Female
+      - Male
+      required: false
+    - id: 9
+      name: payment_details
+      label: Payment details
+      hint: Rate method and billing
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: registration_date
+      label: Registration date
+      hint: Date submitted
+      type: date
+      options: []
+      required: true

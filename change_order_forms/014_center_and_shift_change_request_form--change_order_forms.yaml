@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Center And Shift Change Request Form
+    pages:
+    - id: 1
+      name: employee_info_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your unique employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_email
+      label: Employee Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: current_schedule_header
+      label: -- Current Schedule Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_center_dept
+      label: Current Center or Department
+      hint: Where you are currently assigned
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_shift_assignment
+      label: Current Shift
+      hint: Select your current shift time
+      type: select_one
+      options:
+      - Morning Shift
+      - Afternoon Shift
+      - Evening Shift
+      - Night Shift
+      required: true
+    - id: 8
+      name: requested_change_header
+      label: -- Requested Change Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: change_effective_date
+      label: Effective Date of Change
+      hint: When would you like the change to start
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: request_type
+      label: Type of Change Request
+      hint: Select what you wish to change
+      type: select_one
+      options:
+      - Center / Department Change
+      - Shift Change
+      - Both Center and Shift Change
+      required: true
+    - id: 11
+      name: requested_new_center
+      label: Requested New Center
+      hint: If applicable - name of the center you wish to transfer to
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requested_new_shift
+      label: Requested New Shift
+      hint: If applicable - select the shift you are requesting
+      type: select_one
+      options:
+      - Morning Shift
+      - Afternoon Shift
+      - Evening Shift
+      - Night Shift
+      required: false
+    - id: 13
+      name: change_duration_header
+      label: -- Duration of Change --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: change_permanency
+      label: Change Permanency
+      hint: Is this a permanent or temporary request
+      type: select_one
+      options:
+      - Permanent
+      - Temporary
+      required: true
+    - id: 15
+      name: temporary_end_date
+      label: End Date of Temporary Change
+      hint: Only if temporary - when will you return to your original schedule
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: reason_for_request_header
+      label: -- Reason for Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: reason_category
+      label: Reason Category
+      hint: Select the primary reason for your request
+      type: select_one
+      options:
+      - Personal / Family
+      - Medical
+      - Transport / Commute
+      - Education / School
+      - Relocation
+      required: true
+    - id: 18
+      name: detailed_reason_explanation
+      label: Detailed Reason for Request
+      hint: Provide more context to support your request
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: acknowledgement_header
+      label: -- Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: request_policy_agreement
+      label: Acknowledgement of Policy
+      hint: I understand that this request is subject to approval and business needs
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 21
+      name: request_submission_date
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true

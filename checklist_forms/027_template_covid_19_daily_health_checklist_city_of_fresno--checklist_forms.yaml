@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Template Covid 19 Daily Health Checklist City Of Fresno
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: covid_symptoms
+      label: Have You Experienced COVID-19 Symptoms?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath or difficulty breathing
+      - Sore throat
+      - Headache
+      - Fatigue
+      - Muscle or body aches
+      - Diarrhea
+      - Nausea or vomiting
+      - New loss of taste or smell
+      - New onset or worsening of a cough
+      - New onset or worsening of shortness of breath
+      - New onset or worsening of a sore throat
+      - New loss of taste or smell
+      required: false
+    - id: 4
+      name: contact_with_covid_positive
+      label: Have You Had Contact with Someone with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - Family member or house hold member
+      - Friend or social friend
+      - Co-worker
+      - Classmate
+      - Teacher or professor
+      - Neighbor
+      - Other
+      required: false
+    - id: 5
+      name: traveled_to_covid_hotspot
+      label: Have You Traveled to a COVID-19 Hotspot Recently?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: traveled_abroad
+      label: Have You Traveled Outside of the US Recently?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: have_you_received_a_vaccination
+      label: Have You Received a COVID-19 Vaccination?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

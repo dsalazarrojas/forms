@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Articles Of Amendment Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Current legal name of the business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_type
+      label: Business Type
+      hint: Corporation, LLC, Partnership, etc.
+      type: select_one
+      options:
+      - Corporation
+      - Limited Liability Company (LLC)
+      - Partnership
+      - Limited Partnership (LP)
+      - Sole Proprietorship
+      - Non-Profit Organization
+      required: true
+    - id: 4
+      name: state_incorporation
+      label: State of Incorporation or Organization
+      hint: Where was the business originally formed?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: registration_number
+      label: Business Registration or License Number
+      hint: State-issued business identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Amendment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: amendment_type
+      label: Type of Amendment
+      hint: What is being amended?
+      type: select_one
+      options:
+      - Name Change
+      - Address Change
+      - Principal Place of Business
+      - Directors or Officers Change
+      - Registered Agent Change
+      - Purpose or Business Activities
+      - Capitalization Structure
+      - Member or Shareholder Changes
+      - Other Structural Change
+      required: true
+    - id: 8
+      name: effective_date
+      label: Effective Date of Amendment
+      hint: When should this amendment take effect?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: amendment_reason
+      label: Reason for Amendment
+      hint: Brief explanation of why this amendment is needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_header_3
+      label: -- Specific Changes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: previous_value
+      label: Previous Information
+      hint: What is being changed from
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: new_value
+      label: New Information
+      hint: What is being changed to
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_header_4
+      label: -- Authorized Representative --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: representative_name
+      label: Authorized Representative Name
+      hint: Name of person authorizing amendment
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: representative_title
+      label: Representative Title
+      hint: Position in the business (CEO, Manager, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: representative_phone
+      label: Representative Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: representative_email
+      label: Representative Email Address
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: section_header_5
+      label: -- Certification and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: board_approval
+      label: Board or Ownership Approval Status
+      hint: Has this amendment been approved?
+      type: select_one
+      options:
+      - Yes, approved by Board of Directors
+      - Yes, approved by Members/Shareholders
+      - Yes, approved by Managers
+      - Pending approval
+      - No approval required
+      required: true
+    - id: 20
+      name: approval_date
+      label: Date of Approval
+      hint: When was this approved?
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: section_header_6
+      label: -- Documentation and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Board resolutions, meeting minutes, etc.
+      type: select_one
+      options:
+      - Yes, documents attached
+      - No, not applicable
+      - Will be provided separately
+      required: true
+    - id: 23
+      name: filing_method
+      label: Filing Method
+      hint: How will this be submitted?
+      type: select_one
+      options:
+      - Online filing
+      - Mail
+      - In person delivery
+      - Through registered agent
+      required: false
+    - id: 24
+      name: certification_statement
+      label: I certify the information provided is accurate
+      hint: Confirm accuracy of all statements
+      type: select_one
+      options:
+      - Yes, I Certify
+      - No, I Do Not Certify
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date of Signature
+      hint: Date authorized representative signs
+      type: date
+      options: []
+      required: true

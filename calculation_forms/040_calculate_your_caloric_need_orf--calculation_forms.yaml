@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calculate Your Caloric Need Orf
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For results and recommendations
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: calculation_date
+      label: Calculation Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: Your age in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: height_unit
+      label: Height Unit
+      hint: What unit for height
+      type: select_one
+      options:
+      - Feet and inches
+      - Centimeters
+      required: true
+    - id: 7
+      name: height_feet
+      label: Height in Feet
+      hint: Feet portion
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: height_inches
+      label: Height in Inches
+      hint: Inches portion
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: height_cm
+      label: Height in Centimeters
+      hint: Height in cm
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: weight_unit
+      label: Weight Unit
+      hint: What unit for weight
+      type: select_one
+      options:
+      - Pounds
+      - Kilograms
+      required: true
+    - id: 11
+      name: current_weight
+      label: Current Weight
+      hint: Your current weight
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: goal_weight
+      label: Goal Weight
+      hint: Your target weight
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: activity_level
+      label: Activity Level
+      hint: Your typical daily activity
+      type: select_one
+      options:
+      - Sedentary (little or no exercise)
+      - Lightly active (1-3 days per week)
+      - Moderately active (3-5 days per week)
+      - Very active (6-7 days per week)
+      - Extremely active (physical job plus training)
+      required: true
+    - id: 14
+      name: fitness_goal
+      label: Fitness Goal
+      hint: What is your primary goal
+      type: select_one
+      options:
+      - Lose weight
+      - Maintain weight
+      - Gain muscle
+      - Improve athletic performance
+      - General health
+      required: true
+    - id: 15
+      name: bmr_calculation_note
+      label: BMR Calculation
+      hint: Your Basal Metabolic Rate will be calculated
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tdee_calculation_note
+      label: TDEE Calculation
+      hint: Your Total Daily Energy Expenditure will be calculated
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: caloric_deficit_surplus
+      label: Caloric Adjustment
+      hint: Preferred caloric adjustment for your goal
+      type: select_one
+      options:
+      - Aggressive deficit (500-750 calories)
+      - Moderate deficit (250-500 calories)
+      - Maintenance
+      - Small surplus (250-500 calories)
+      - Large surplus (500+ calories)
+      required: false
+    - id: 18
+      name: macro_split_preference
+      label: Macro Split Preference
+      hint: Preferred macronutrient distribution
+      type: select_one
+      options:
+      - Balanced (40/30/30)
+      - High protein (40/30/30)
+      - Low carb (30/40/30)
+      - Moderate carb (40/30/30)
+      - No preference
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary limitations
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Keto-friendly
+      - Paleo-friendly
+      - Other
+      required: false
+    - id: 20
+      name: meals_per_day
+      label: Meals Per Day
+      hint: How many meals do you prefer
+      type: select_one
+      options:
+      - 2 meals
+      - 3 meals
+      - 4 meals
+      - 5-6 small meals
+      - Intermittent fasting
+      required: false
+    - id: 21
+      name: water_intake
+      label: Daily Water Intake
+      hint: How much water do you drink daily
+      type: select_one
+      options:
+      - Less than 4 cups
+      - 4-6 cups
+      - 6-8 cups
+      - 8+ cups
+      - Not sure
+      required: false
+    - id: 22
+      name: sleep_hours
+      label: Average Sleep Hours
+      hint: How many hours do you sleep nightly
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5-6 hours
+      - 6-7 hours
+      - 7-8 hours
+      - 8+ hours
+      required: false
+    - id: 23
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any conditions affecting metabolism
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: results_delivery
+      label: How to Receive Results
+      hint: Delivery method for your caloric needs
+      type: select_one
+      options:
+      - Display on screen
+      - Email detailed report
+      - Both
+      required: false
+    - id: 25
+      name: additional_goals
+      label: Additional Goals or Questions
+      hint: Any other fitness goals or questions
+      type: text
+      options: []
+      required: false

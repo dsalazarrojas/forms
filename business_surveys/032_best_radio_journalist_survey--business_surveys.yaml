@@ -1,0 +1,201 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Radio Journalist Survey
+    pages:
+      - id: 1
+        name: respondent_info_header
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_full_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_email_addr
+        label: Your Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: industry_professional_status
+        label: Are you a professional in the radio industry
+        hint: null
+        type: select_one
+        options:
+          - Yes - Industry Professional
+          - No - Regular Listener
+          - Student - Media or Journalism
+        required: true
+      - id: 5
+        name: journalist_nomination_header
+        label: -- Radio Journalist Nomination --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: journalist_name_text
+        label: Journalist Name
+        hint: The individual you are evaluating
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: radio_station_call_letters
+        label: Radio Station
+        hint: Station name or call letters (e.g., NPR, BBC Radio 4)
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: primary_beat_topic
+        label: Primary Beat or Topic
+        hint: Primary area of focus
+        type: select_one
+        options:
+          - News and Current Affairs
+          - Sports Broadcasting
+          - Music and Culture
+          - Talk and Politics
+          - Local Community Stories
+          - Other
+        required: true
+      - id: 9
+        name: performance_evaluation_header
+        label: -- Performance Evaluation --
+        hint: Rate from 1 (Poor) to 5 (Outstanding)
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: vocal_clarity_rating
+        label: Vocal Clarity and Delivery
+        hint: Quality of voice and speaking pace
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 11
+        name: accuracy_objectivity_rating
+        label: Content Accuracy and Objectivity
+        hint: Trustworthiness of reporting
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 12
+        name: interviewing_skills_rating
+        label: Interviewing Skills
+        hint: Ability to extract meaningful information
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: presentation_style_rating
+        label: Engaging Presentation Style
+        hint: Ability to hold the listener's attention
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 14
+        name: research_depth_rating
+        label: Depth of Research
+        hint: Evidence of preparation and knowledge
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 15
+        name: impact_reach_header
+        label: -- Impact and Narrative Reach --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: memorable_segment_desc
+        label: Describe the most memorable segment or report by this journalist
+        hint: A specific story that stayed with you
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: influence_impact_narrative
+        label: How has this journalist influenced your community or understanding
+        hint: Describe their impact on local or global issues
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: differentiation_justification
+        label: What makes this journalist stand out from their peers
+        hint: Their unique selling point
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: final_submission_header
+        label: -- Final Submission --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: future_listening_intent
+        label: Would you listen to this journalist's show again
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably
+          - Maybe
+          - No
+        required: true
+      - id: 21
+        name: submission_date_stamp
+        label: Date of Response
+        hint: null
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: RV Service Check In Form
+    pages:
+    - id: 1
+      name: owner_info
+      label: owner_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_info
+      label: vehicle_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_request
+      label: service_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: checkin_time
+      label: check_in_time
+      hint: null
+      type: select_one
+      options:
+      - 7:00 AM
+      - 8:00 AM
+      - 9:00 AM
+      - 10:00 AM
+      - 11:00 AM
+      - 12:00 PM
+      - 1:00 PM
+      - 2:00 PM
+      - 3:00 PM
+      - 4:00 PM
+      - 5:00 PM
+      required: false
+    - id: 5
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: service_notes
+      label: service_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_multiple
+      options:
+      - cash
+      - credit
+      - visa
+      - mastercard
+      - american_express
+      required: false
+    - id: 11
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_multiple
+      options:
+      - oil_change
+      - tire_rotation
+      - brake_pads
+      - battery_change
+      - oil_filter
+      - spark_plugs
+      - other
+      required: true
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - car
+      - truck
+      - motorcycle
+      - trailer
+      - boat
+      - rv
+      - atv
+      - utv
+      required: true
+    - id: 14
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false

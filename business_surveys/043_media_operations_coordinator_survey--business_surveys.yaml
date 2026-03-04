@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Operations Coordinator Survey
+    pages:
+    - id: 1
+      name: media_operations_coordinator_survey
+      label: Media Operations Coordinator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tools_used
+      label: Tools Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tools_needed
+      label: Tools Needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: challenges_faced
+      label: Challenges Faced
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: challenges_solved
+      label: Challenges Solved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 7
+      name: training_needed
+      label: Training Needed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

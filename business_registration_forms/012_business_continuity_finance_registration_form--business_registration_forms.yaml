@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Finance Registration Form
+    pages:
+    - id: 1
+      name: organization_information
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: Official business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registration_number
+      label: Business Registration Number
+      hint: Tax ID or registration number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: business_type
+      label: Type of Business
+      hint: Select business structure
+      type: select_one
+      options:
+      - Sole Proprietor
+      - Partnership
+      - Corporation
+      - LLC
+      - Non-Profit
+      - Other
+      required: true
+    - id: 5
+      name: industry
+      label: Industry Sector
+      hint: Primary business sector
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: founding_date
+      label: Date Business Established
+      hint: When did you start?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_person
+      label: Primary Contact Person
+      hint: Name of main contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_metrics
+      label: -- Business Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate annual revenue
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: employee_count
+      label: Number of Employees
+      hint: Total employee count
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: years_in_operation
+      label: Years in Operation
+      hint: How many years established?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: funding_request
+      label: -- Continuity Funding Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: loan_amount_requested
+      label: Loan Amount Requested
+      hint: Amount needed in currency
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: loan_purpose
+      label: Primary Purpose of Funding
+      hint: What is the funding for?
+      type: select_multiple
+      options:
+      - Working Capital
+      - Equipment Purchase
+      - Facility Expansion
+      - Debt Repayment
+      - Payroll Support
+      - Operational Support
+      required: true
+    - id: 17
+      name: funding_timeline
+      label: Timeline for Funding Need
+      hint: When do you need the funds?
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 Month
+      - Within 3 Months
+      - Within 6 Months
+      required: true
+    - id: 18
+      name: repayment_timeline
+      label: Expected Repayment Timeline
+      hint: Over how many months?
+      type: select_one
+      options:
+      - 6 Months
+      - 12 Months
+      - 24 Months
+      - 36 Months
+      - 5+ Years
+      required: true
+    - id: 19
+      name: continuity_impact
+      label: Expected Business Impact
+      hint: How will this improve continuity?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: risk_assessment
+      label: -- Risk Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: primary_risk
+      label: Primary Business Risk
+      hint: What threatens continuity?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: mitigation_plans
+      label: Risk Mitigation Plans
+      hint: How will you manage risks?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Management Services Poll
+    pages:
+    - id: 1
+      name: waste_management_services_poll
+      label: waste_management_services_poll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: issues_encountered
+      label: issues_encountered
+      hint: null
+      type: select_multiple
+      options:
+      - Issue 1
+      - Issue 2
+      - Issue 3
+      required: false
+    - id: 4
+      name: improvement_priorities
+      label: improvement_priorities
+      hint: null
+      type: select_one
+      options:
+      - Priority 1
+      - Priority 2
+      - Priority 3
+      required: false
+    - id: 5
+      name: service_quality_rating
+      label: service_quality_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: time_rating
+      label: time_rating
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date_of_last_service
+      label: date_of_last_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_providers
+      label: service_providers
+      hint: null
+      type: select_one
+      options:
+      - Provider 1
+      - Provider 2
+      - Provider 3
+      required: false
+    - id: 13
+      name: service_frequency
+      label: service_frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequency 1
+      - Frequency 2
+      - Frequency 3
+      required: false
+    - id: 14
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - Method 1
+      - Method 2
+      - Method 3
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Implanted Stimulator MRI Checklist
+    pages:
+    - id: 1
+      name: screening_details
+      label: Screening Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_authorization
+      label: Patient Authorization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: radiologist_notes
+      label: Radiologist Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: radiologist_recommendations
+      label: Radiologist Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: scan_date
+      label: Scan Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: scan_technology
+      label: Scan Technology
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''MRI''}'
+      - '{''value'': ''CT''}'
+      - '{''value'': ''Ultrasound''}'
+      required: false
+    - id: 8
+      name: scan_location
+      label: Scan Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''MRI Room 1''}'
+      - '{''value'': ''MRI Room 2''}'
+      - '{''value'': ''MRI Room 3''}'
+      required: false
+    - id: 9
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: implant_type
+      label: Implant Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: implant_material
+      label: Implant Material
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: implant_size
+      label: Implant Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false

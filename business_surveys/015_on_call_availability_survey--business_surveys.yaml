@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: On Call Availability Survey
+    pages:
+    - id: 1
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_contact_methods
+      label: preferred_contact_methods
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Chat''}'
+      required: true
+    - id: 3
+      name: on_call_availability
+      label: on_call_availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: available_days
+      label: available_days
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Monday''}'
+      - '{''label'': ''Tuesday''}'
+      - '{''label'': ''Wednesday''}'
+      - '{''label'': ''Thursday''}'
+      - '{''label'': ''Friday''}'
+      - '{''label'': ''Saturday''}'
+      - '{''label'': ''Sunday''}'
+      required: true
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''English''}'
+      - '{''label'': ''Spanish''}'
+      - '{''label'': ''French''}'
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - Other
+      required: true

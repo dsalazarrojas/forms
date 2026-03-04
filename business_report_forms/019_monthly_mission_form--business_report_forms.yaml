@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Mission Form
+    pages:
+    - id: 1
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mission_goal
+      label: Mission Goal
+      hint: Enter a short description of your mission
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: goal_type
+      label: Goal Type
+      hint: null
+      type: select_one
+      options:
+      - Strategic
+      - Operational
+      - Financial
+      required: false
+    - id: 4
+      name: target_outcome
+      label: Target Outcome
+      hint: null
+      type: select_one
+      options:
+      - Increase Revenue
+      - Decrease Costs
+      - Improve Processes
+      required: false
+    - id: 5
+      name: outcome_metric
+      label: Outcome Metric
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_start_date
+      label: Target Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: target_end_date
+      label: Target End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: target_budget
+      label: Target Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: target_bounty
+      label: Target Bounty
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false

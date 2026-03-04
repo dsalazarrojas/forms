@@ -1,0 +1,304 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Compliance Awareness Survey
+    pages:
+      - id: 1
+        name: respondent_info
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department or team
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: position
+        label: Your position or role
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: tenure
+        label: How long have you worked here?
+        hint: null
+        type: select_one
+        options:
+          - Less than 3 months
+          - 3-6 months
+          - 6-12 months
+          - 1-2 years
+          - 2-5 years
+          - More than 5 years
+        required: true
+      - id: 6
+        name: awareness_section
+        label: -- Compliance Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: overall_awareness
+        label: Overall awareness of building compliance requirements
+        hint: null
+        type: select_one
+        options:
+          - Very aware
+          - Somewhat aware
+          - Neutral
+          - Not very aware
+          - Not aware at all
+        required: true
+      - id: 8
+        name: safety_procedures
+        label: Knowledge of safety procedures
+        hint: null
+        type: select_one
+        options:
+          - Very knowledgeable
+          - Knowledgeable
+          - Somewhat knowledgeable
+          - Limited knowledge
+          - No knowledge
+        required: true
+      - id: 9
+        name: emergency_procedures
+        label: Understanding of emergency procedures
+        hint: null
+        type: select_one
+        options:
+          - Clear understanding
+          - Good understanding
+          - Basic understanding
+          - Limited understanding
+          - No understanding
+        required: true
+      - id: 10
+        name: accessibility_awareness
+        label: Awareness of accessibility requirements
+        hint: null
+        type: select_one
+        options:
+          - Very aware
+          - Aware
+          - Somewhat aware
+          - Minimally aware
+          - Not aware
+        required: true
+      - id: 11
+        name: specific_compliance
+        label: -- Specific Compliance Knowledge --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: fire_safety
+        label: Understanding of fire safety protocols
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - No knowledge
+        required: true
+      - id: 13
+        name: evacuation_routes
+        label: Aware of evacuation routes
+        hint: null
+        type: select_one
+        options:
+          - Yes, know all routes
+          - Yes, know main route
+          - Somewhat familiar
+          - Not familiar
+          - Unsure
+        required: true
+      - id: 14
+        name: emergency_equipment
+        label: Know location of emergency equipment
+        hint: Fire extinguishers, first aid kits, etc.
+        type: select_one
+        options:
+          - Yes, all locations
+          - Yes, most locations
+          - Some locations
+          - No
+        required: true
+      - id: 15
+        name: chemical_safety
+        label: Knowledge of hazardous material handling
+        hint: null
+        type: select_one
+        options:
+          - Comprehensive knowledge
+          - Good knowledge
+          - Basic knowledge
+          - Limited knowledge
+          - No knowledge
+        required: true
+      - id: 16
+        name: ergonomics_awareness
+        label: Awareness of ergonomic requirements
+        hint: null
+        type: select_one
+        options:
+          - Very aware
+          - Aware
+          - Somewhat aware
+          - Minimally aware
+          - Not aware
+        required: true
+      - id: 17
+        name: reporting_procedures
+        label: Know how to report compliance issues
+        hint: null
+        type: select_one
+        options:
+          - Yes, clear procedures
+          - Yes, somewhat clear
+          - Unsure of procedures
+          - No idea
+        required: true
+      - id: 18
+        name: training_section
+        label: -- Training and Development --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: training_received
+        label: Compliance training received
+        hint: null
+        type: select_multiple
+        options:
+          - Fire safety training
+          - Emergency procedures
+          - Accessibility awareness
+          - Hazardous materials
+          - Ergonomics
+          - General compliance
+          - Other
+          - None
+        required: true
+      - id: 20
+        name: training_frequency
+        label: How often is training provided?
+        hint: null
+        type: select_one
+        options:
+          - Monthly
+          - Quarterly
+          - Semi-annually
+          - Annually
+          - As needed
+          - Never
+        required: true
+      - id: 21
+        name: training_effectiveness
+        label: Effectiveness of compliance training
+        hint: null
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Somewhat effective
+          - Not very effective
+          - Not effective
+        required: true
+      - id: 22
+        name: training_needs
+        label: -- Training Needs --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: needed_training
+        label: Topics needing more training
+        hint: null
+        type: select_multiple
+        options:
+          - Fire safety
+          - Emergency procedures
+          - First aid/CPR
+          - Chemical safety
+          - Accessibility
+          - Security procedures
+          - Technology compliance
+          - Other
+        required: true
+      - id: 24
+        name: preferred_training
+        label: Preferred training method
+        hint: null
+        type: select_one
+        options:
+          - In-person classes
+          - Online modules
+          - One-on-one coaching
+          - Video tutorials
+          - Printed materials
+          - Combination of methods
+        required: false
+      - id: 25
+        name: improvement_suggestions
+        label: Suggestions for improving compliance awareness
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: resource_needs
+        label: Resources needed for better compliance
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: support_section
+        label: -- Support and Resources --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: accessible_information
+        label: Is compliance information easily accessible?
+        hint: null
+        type: select_one
+        options:
+          - Yes, very accessible
+          - Yes, somewhat accessible
+          - Neutral
+          - Not very accessible
+          - Not accessible
+        required: true

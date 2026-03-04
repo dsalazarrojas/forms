@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Daily QA Task Checklist
+    pages:
+    - id: 1
+      name: daily_qa_task_checklist
+      label: Daily QA Task Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Department 1''}'
+      - '{''id'': 2, ''label'': ''Department 2''}'
+      - '{''id'': 3, ''label'': ''Department 3''}'
+      required: false
+    - id: 3
+      name: task_name
+      label: task_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: task_notes
+      label: task_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Issue Type 1''}'
+      - '{''id'': 2, ''label'': ''Issue Type 2''}'
+      - '{''id'': 3, ''label'': ''Issue Type 3''}'
+      required: false
+    - id: 6
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: checked_by
+      label: checked_by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Checked by 1''}'
+      - '{''id'': 2, ''label'': ''Checked by 2''}'
+      - '{''id'': 3, ''label'': ''Checked by 3''}'
+      required: false

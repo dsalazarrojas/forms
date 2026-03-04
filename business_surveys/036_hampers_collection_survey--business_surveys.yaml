@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hampers Collection Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hamper
+      label: type-of-hamper
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''hampers'', ''label'': ''Hampers''}'
+      - '{''id'': 2, ''name'': ''non-hampers'', ''label'': ''Non-hampers''}'
+      required: false
+    - id: 6
+      name: quantity
+      label: quantity-of-hampers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: delivery-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: delivery-time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: nth_largest_number_survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: number_lists
+      label: Number Lists
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: nth_largest
+      label: Nth Largest
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: methods_used
+      label: Methods Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: confidence_rating
+      label: Confidence Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: confidence_rating_2
+      label: Confidence Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Block Advisor Survey
+    pages:
+    - id: 1
+      name: advisor_name
+      label: Advisor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company
+      label: Company or Firm
+      hint: Advisory firm name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: client_name
+      label: Client Name
+      hint: Client being advised
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_name
+      label: Project Name
+      hint: Name of project
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_type
+      label: Project Type
+      hint: Classification
+      type: select_one
+      options:
+      - New Construction
+      - Renovation
+      - Expansion
+      - Redevelopment
+      - Property Acquisition
+      - Facility Upgrade
+      - Other
+      required: true
+    - id: 10
+      name: advisory_area
+      label: Area of Advisory
+      hint: Your focus area
+      type: select_multiple
+      options:
+      - Financial Planning
+      - Design Review
+      - Construction Management
+      - Regulatory Compliance
+      - Sustainability
+      - Risk Management
+      - Operations Planning
+      - Technology Integration
+      required: true
+    - id: 11
+      name: project_stage
+      label: Current Project Stage
+      hint: Where is the project
+      type: select_one
+      options:
+      - Conceptual Planning
+      - Design Development
+      - Pre-Construction
+      - Construction Phase
+      - Post-Construction
+      - Operations
+      required: true
+    - id: 12
+      name: budget_status
+      label: Budget Status
+      hint: Current budget position
+      type: select_one
+      options:
+      - On Budget
+      - Under Budget
+      - Slightly Over Budget
+      - Significantly Over Budget
+      - Budget Not Finalized
+      required: true
+    - id: 13
+      name: timeline_status
+      label: Timeline Status
+      hint: Schedule position
+      type: select_one
+      options:
+      - Ahead of Schedule
+      - On Schedule
+      - Slightly Behind
+      - Significantly Behind
+      - Timeline Not Finalized
+      required: true
+    - id: 14
+      name: key_strengths
+      label: Key Strengths Identified
+      hint: What is going well
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: areas_of_concern
+      label: Areas of Concern
+      hint: Issues to address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: risk_factors
+      label: Risk Factors
+      hint: Potential risks
+      type: select_multiple
+      options:
+      - Budget Overruns
+      - Schedule Delays
+      - Design Issues
+      - Regulatory Challenges
+      - Contractor Performance
+      - Material Availability
+      - Site Conditions
+      - Stakeholder Alignment
+      - None Identified
+      required: true
+    - id: 17
+      name: recommendations_priority
+      label: Priority Recommendations
+      hint: Top recommendations
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: resource_needs
+      label: Resource Needs
+      hint: Additional resources required
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stakeholder_alignment
+      label: Stakeholder Alignment
+      hint: Level of agreement
+      type: select_one
+      options:
+      - Fully Aligned
+      - Mostly Aligned
+      - Partially Aligned
+      - Not Aligned
+      - Unknown
+      required: true
+    - id: 20
+      name: decision_timeline
+      label: Decision Timeline
+      hint: When are key decisions needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_needed
+      label: Follow-up Needed
+      hint: Is further advisory needed
+      type: select_one
+      options:
+      - Yes - Within 1 Week
+      - Yes - Within 1 Month
+      - Yes - Quarterly
+      - No - Current Support Sufficient
+      required: true
+    - id: 22
+      name: overall_assessment
+      label: Overall Project Assessment
+      hint: Your overall rating
+      type: select_one
+      options:
+      - Excellent - On Track
+      - Good - Minor Issues
+      - Fair - Attention Needed
+      - Poor - Significant Issues
+      - Critical - Immediate Action
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

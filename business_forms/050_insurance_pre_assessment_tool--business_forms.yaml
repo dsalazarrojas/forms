@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: insurance_pre_assessment_tool
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: insurance_deductible
+      label: Insurance Deductible
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: premium
+      label: Premium
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: policy_period
+      label: Policy Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: coverage_area
+      label: Coverage Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: coverage_status
+      label: Coverage Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: policy_start_date
+      label: Policy Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: coverage_area
+      label: Coverage Area
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Return On Investment Survey
+    pages:
+    - id: 1
+      name: section_overview
+      label: -- Program Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name_of_program_attended
+      label: Name of Program Attended
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: completion_date
+      label: Completion Date
+      hint: When did you finish the program?
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_skills
+      label: -- Skill Acquisition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: improvement_in_technical_skills
+      label: Improvement in Technical Skills
+      hint: Specific to your field of work
+      type: select_one
+      options:
+      - Significant
+      - Moderate
+      - Slight
+      - None
+      required: true
+    - id: 6
+      name: improvement_in_soft_skills
+      label: Improvement in Soft Skills
+      hint: e.g. communication, leadership
+      type: select_one
+      options:
+      - Significant
+      - Moderate
+      - Slight
+      - None
+      required: true
+    - id: 7
+      name: specific_skills_gained
+      label: Specific Skills Gained
+      hint: Describe the most valuable skills you learned
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_economic
+      label: -- Economic Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed
+      - Unemployed
+      required: true
+    - id: 10
+      name: salary_increase_since_program
+      label: Salary Increase Since Program
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 11
+      name: estimated_percentage_increase
+      label: Estimated Percentage Increase
+      hint: if applicable
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: promotion_received
+      label: Promotion Received
+      hint: Have you moved to a higher role?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: section_satisfaction
+      label: -- Satisfaction and ROI --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: program_value_relative_to_cost
+      label: Program Value Relative to Cost
+      hint: Was the investment worth it?
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 15
+      name: would_recommend_to_colleagues
+      label: Would Recommend to Colleagues
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - false
+      required: true
+    - id: 16
+      name: additional_feedback_on_roi
+      label: Additional Feedback on ROI
+      hint: Any other comments on the program's impact
+      type: text
+      options: []
+      required: false

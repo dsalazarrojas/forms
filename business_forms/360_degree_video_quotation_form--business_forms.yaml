@@ -1,0 +1,125 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 401(k) Hardship Withdrawal Request
+    pages:
+    - id: 1
+      name: section_header_participant
+      label: "--- Participant Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant full name
+      hint: As shown on plan records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee or plan ID
+      hint: Enter ID or payroll number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Used for case updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Best number to reach participant
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: plan_name
+      label: Plan name
+      hint: e.g., Company 401(k) Plan
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hardship_reason
+      label: Reason for hardship withdrawal
+      hint: Choose the category that best matches
+      type: select_one
+      options:
+        - Medical expenses (participant or dependent)
+        - Prevent eviction / foreclosure
+        - Funeral / burial expenses
+        - Repair of principal residence
+        - Tuition / educational expenses
+      required: true
+    - id: 8
+      name: amount_requested
+      label: Amount requested (USD)
+      hint: Enter numeric amount (decimals allowed)
+      type: decimal
+      options: []
+      required: true
+    - id: 9
+      name: date_of_event
+      label: Date of qualifying event
+      hint: e.g., date of medical expense or notice
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: supporting_documents_attached
+      label: Supporting documents attached
+      hint: Upload receipts or notices where required
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 11
+      name: certification_statement
+      label: Participant certification
+      hint: By typing your name you certify the statements are true
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: participant_signature_name
+      label: Typed participant signature (full name)
+      hint: Typed name acts as signature for this form
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: signature_date
+      label: Signature date
+      hint: Date of participant signature
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: hr_review_notes
+      label: HR / Plan Administrator notes
+      hint: For office use only
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Action Required Confirmation Form
+    pages:
+    - id: 1
+      name: confirmation_header
+      label: -- Confirmation details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: recipient_name
+      label: Recipient name
+      hint: Person receiving the instruction
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: instruction_summary
+      label: Instruction summary
+      hint: Brief description of the action required
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: due_date
+      label: Due date
+      hint: Date by which action must be completed
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: priority_level
+      label: Priority level
+      hint: Importance of the required action
+      type: select_one
+      options:
+        - Low
+        - Medium
+        - High
+        - Critical
+      required: true
+    - id: 6
+      name: acceptance_confirmation
+      label: Acceptance confirmation
+      hint: Confirm that the recipient accepts the instruction
+      type: select_one
+      options:
+        - I accept and will complete
+        - I acknowledge but need clarification
+        - I decline
+      required: true
+    - id: 7
+      name: required_resources
+      label: Required resources
+      hint: Resources needed to complete the action
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_contact
+      label: Follow up contact
+      hint: Person to contact for questions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: Signature
+      hint: Type full name as confirmation signature
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date signed
+      hint: Date the confirmation was signed
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: Any extra information for the requester
+      type: text
+      options: []
+      required: false

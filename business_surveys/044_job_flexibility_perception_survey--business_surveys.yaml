@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Flexibility Perception Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is Job Flexibility?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_flexibility_index
+      label: How often do you think your team leads support flexible work policies?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication
+      label: How often do you think team members communicate with each other about
+        work policies?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Seldom''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 4
+      name: work_life_balance
+      label: How satisfied are you with your work-life balance?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: work_life_balance2
+      label: How satisfied are you with your work-life balance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: team_leaders
+      label: How often do team leaders support flexible work policies?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Seldom''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 7
+      name: communication2
+      label: How often do team members communicate with each other about work policies?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Seldom''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 8
+      name: work_life_balance3
+      label: How satisfied are you with your work-life balance?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 9
+      name: work_life_balance4
+      label: How satisfied are you with your work-life balance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: What is your work email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: What is your work phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_flexibility_index2
+      label: How often do you think your team leads support flexible work policies?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Seldom''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 13
+      name: job_flexibility_index3
+      label: How often do you think flexible work policies support your work?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Seldom''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 14
+      name: team_leadership
+      label: How often do you think your team has a flexible work environment?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Seldom''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 15
+      name: work_life_balance5
+      label: How satisfied are you with your work-life balance?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 16
+      name: job_flexibility_index4
+      label: How often do you think your team has a flexible work environment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: communication3
+      label: How often do team members communicate with each other about work policies?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Seldom''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 18
+      name: email2
+      label: What is your work email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone2
+      label: What is your work phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_leaders2
+      label: How often do team leaders support flexible work policies?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Always''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Seldom''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 21
+      name: introduction2
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_flexibility_index5
+      label: How often do you think your team has a flexible work environment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: work_life_balance6
+      label: How satisfied are you with your work-life balance?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 24
+      name: job_flexibility_index6
+      label: How often do you think your team has flexible work policies?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: job_flexibility_index7
+      label: How often do you think your team has a flexible work environment?
+      hint: null
+      type: number
+      options: []
+      required: false

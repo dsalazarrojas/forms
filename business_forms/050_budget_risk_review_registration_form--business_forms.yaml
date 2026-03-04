@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Risk Review Registration Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_manager
+      label: Project Manager Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_project_budget
+      label: Total Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_spending
+      label: Current Spending to Date
+      hint: Amount spent so far
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: budget_variance
+      label: Budget Variance Amount
+      hint: Over or under budget
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: variance_percentage
+      label: Variance Percentage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: risk_level
+      label: Current Risk Level Assessment
+      hint: Overall project budget risk
+      type: select_one
+      options:
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      - Critical Risk
+      required: true
+    - id: 13
+      name: major_risks
+      label: Major Budget Risks Identified
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cost Overruns
+      - Scope Creep
+      - Resource Constraints
+      - Market Volatility
+      - Technical Challenges
+      - Vendor Issues
+      - Timeline Slippage
+      - No Major Risks
+      required: true
+    - id: 14
+      name: risk_mitigation
+      label: Risk Mitigation Strategies
+      hint: How will risks be managed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contingency_reserve
+      label: Contingency Reserve Amount
+      hint: Buffer for unexpected costs
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: cash_flow_concerns
+      label: Cash Flow or Payment Concerns
+      hint: Any payment or timing issues
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: stakeholder_concerns
+      label: Stakeholder Concerns or Feedback
+      hint: Budget-related concerns from team
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_risk_reviews
+      label: Previous Risk Reviews Conducted
+      hint: How many times reviewed
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: review_date
+      label: Requested Review Date
+      hint: When should review occur
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Context
+      hint: null
+      type: text
+      options: []
+      required: false

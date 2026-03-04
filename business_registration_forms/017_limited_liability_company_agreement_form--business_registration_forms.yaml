@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: limited_liability_company_agreement_form
+    pages:
+    - id: 1
+      name: llc_agreement_title
+      label: Limited Liability Company Agreement Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: llc_name
+      label: LLC Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: llc_address
+      label: LLC Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city_state_zip
+      label: City, State ZIP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: member_1_name
+      label: Member 1 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: member_1_email
+      label: Member 1 Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: member_1_phone
+      label: Member 1 Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: member_1_title
+      label: Member 1 Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: member_2_name
+      label: Member 2 Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: member_2_email
+      label: Member 2 Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: member_2_phone
+      label: Member 2 Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: member_2_title
+      label: Member 2 Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: member_1_ownership_percentage
+      label: Member 1 Ownership Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: member_2_ownership_percentage
+      label: Member 2 Ownership Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: llc_management_structure
+      label: LLC Management Structure
+      hint: null
+      type: select_one
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      required: true
+    - id: 18
+      name: profit_distribution
+      label: Profit Distribution
+      hint: null
+      type: select_multiple
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      required: true
+    - id: 19
+      name: agreement_signatures
+      label: Agreement Signatures
+      hint: null
+      type: select_multiple
+      options:
+      - Member 1
+      - Member 2
+      - Member 3
+      required: true
+    - id: 20
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: manager_address
+      label: Manager Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: Enter any other details about the LLC agreement.
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 10DLC Internal Messaging Registration Form
+    pages:
+    - id: 1
+      name: section_header_requester
+      label: '--- Requester Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_full_name
+      label: Your Full Name
+      hint: As it appears in company records
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_email
+      label: Your Company Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requestor_department
+      label: Your Department/Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Your Internal Phone Number
+      hint: Extension or direct line
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: section_header_program_details
+      label: '--- Messaging Program Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: program_name
+      label: Name of Messaging Program/Campaign
+      hint: e.g., "Company-Wide HR Updates", "IT System Alerts"
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: program_description
+      label: Brief Description of Messaging Program
+      hint: Explain the purpose and content of the messages
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_use_case
+      label: Primary Use Case Category
+      hint: Select the main purpose of your messaging program
+      type: select_one
+      options:
+      - Employee Communications
+      - System Alerts & Notifications
+      - HR Information & Benefits
+      - IT Support & Updates
+      - Team Collaboration
+      - Operational Logistics
+      required: true
+    - id: 10
+      name: target_audience_type
+      label: Target Audience for Messages
+      hint: Who will receive these messages?
+      type: select_one
+      options:
+      - All Employees
+      - Specific Departments/Teams
+      - Leadership/Management
+      - Project Teams
+      required: true
+    - id: 11
+      name: estimated_monthly_volume
+      label: Estimated Monthly Message Volume
+      hint: Approximate number of messages per month
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: desired_sender_id
+      label: Desired Sender ID / Brand Name
+      hint: What name should appear to recipients (e.g., "Company HR", "IT Support")
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: content_types_expected
+      label: Expected Message Content Types (Select all that apply)
+      hint: What kind of information will be shared?
+      type: select_multiple
+      options:
+      - Announcements
+      - Alerts & Warnings
+      - Policy Updates
+      - Meeting Invites/Reminders
+      - HR Communications (e.g., benefits)
+      - IT Notifications (e.g., outages)
+      - Internal Marketing/Promotions
+      required: true
+    - id: 14
+      name: planned_start_date
+      label: Planned Messaging Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: section_header_compliance_tech
+      label: '--- Compliance & Technical Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: message_category
+      label: Message Category
+      hint: Are messages primarily for information/transactions or promotion?
+      type: select_one
+      options:
+      - Transactional (e.g., alerts, confirmations)
+      - Promotional/Informational (e.g., internal marketing, newsletters)
+      required: true
+    - id: 17
+      name: contains_sensitive_data
+      label: Will messages contain sensitive company or personal data?
+      hint: Avoid sharing highly sensitive information via internal messaging
+      type: select_one
+      options:
+      - true
+      - false
+      - Potentially (will ensure encryption/masking)
+      required: true
+    - id: 18
+      name: opt_out_mechanism
+      label: How can recipients opt-out or manage preferences?
+      hint: Describe the mechanism for recipients to stop receiving messages
+      type: select_one
+      options:
+      - STOP keyword (for SMS)
+      - Unsubscribe link (for app/email)
+      - Contact Administrator/HR
+      - Not applicable (mandatory communications)
+      required: true
+    - id: 19
+      name: fallback_communication
+      label: Fallback communication method if messages fail to deliver
+      hint: e.g., Email, intranet post, direct call
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_approval_ack
+      label: '--- Manager Approval & Acknowledgment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: manager_full_name
+      label: Approving Manager's Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: manager_email
+      label: Approving Manager's Email Address
+      hint: For verification and approval
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: applicant_declaration
+      label: Applicant Declaration
+      hint: null
+      type: select_one
+      options:
+      - I confirm that all information provided above is accurate and complete to
+        the best of my knowledge.
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Provide any further context or requests here
+      type: text
+      options: []
+      required: false

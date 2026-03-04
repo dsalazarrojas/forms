@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Document Status Report
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_owner
+      label: Document Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: document_deadline
+      label: Document Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Draft''}'
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Overdue''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_actions
+      label: Follow up actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      required: false
+    - id: 8
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Report''}'
+      - '{''label'': ''Document''}'
+      - '{''label'': ''Presentation''}'
+      required: false
+    - id: 9
+      name: deadline_date
+      label: Deadline Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: deadline_time
+      label: Deadline Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_reminders
+      label: Follow up Reminders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 12
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: due_time
+      label: Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Started''}'
+      - '{''label'': ''In progress''}'
+      - '{''label'': ''Completed''}'
+      required: false
+    - id: 15
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      required: false
+    - id: 17
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      required: false
+    - id: 18
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: created_by_email
+      label: Created By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: updated_by_email
+      label: Updated By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: document_status_updated_by
+      label: Document Status Updated By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      required: false
+    - id: 24
+      name: document_updated_at
+      label: Document Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: document_deleted_at
+      label: Document Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false

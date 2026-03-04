@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preference Selection Survey
+    pages:
+    - id: 1
+      name: preference_selection_survey_form
+      label: Preference Selection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preference_selection_survey_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1''}'
+      - '{''label'': ''Option 2''}'
+      - '{''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: preference_selection_survey_product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Product 1''}'
+      - '{''id'': 2, ''name'': ''Product 2''}'
+      - '{''id'': 3, ''name'': ''Product 3''}'
+      required: false
+    - id: 4
+      name: preference_selection_survey_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''English''}'
+      - '{''id'': 2, ''name'': ''French''}'
+      - '{''id'': 3, ''name'': ''Spanish''}'
+      required: false
+    - id: 5
+      name: preference_selection_survey_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preference_selection_survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: preference_selection_survey_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preference_selection_survey_phone
+      label: Phone
+      hint: Contact phone number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: preference_selection_survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: preference_selection_survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

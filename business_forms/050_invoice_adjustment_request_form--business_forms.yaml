@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: invoice_adjustment_request_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: invoice_date
+      label: Invoice Date
+      hint: Enter invoice date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: overcharge_amount
+      label: Overcharge Amount
+      hint: Enter overcharge amount
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: undercharge_amount
+      label: Undercharge Amount
+      hint: Enter undercharge amount
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: billing_issue
+      label: Billing Issue
+      hint: 'Select one of the following options: Overcharge, Undercharge, Incorrect
+        Billing'
+      type: select_one
+      options:
+      - Overcharge
+      - Undercharge
+      - Incorrect Billing
+      required: true
+    - id: 6
+      name: overcharge_details
+      label: Overcharge Details
+      hint: Enter overcharge details
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: undercharge_details
+      label: Undercharge Details
+      hint: Enter undercharge details
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: correct_invoice
+      label: Correct Invoice
+      hint: Enter correct invoice details
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: minimalist
+      label: Minimalist
+      hint: Enter minimalist details
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: attachment
+      label: Attachment
+      hint: Upload attachment
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_service_request
+      label: Customer Service Request
+      hint: Enter customer service request
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: internal_note
+      label: Internal Note
+      hint: Enter internal note
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: approval_requester
+      label: Approval Requester
+      hint: Enter approval requestor
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: requester_phone
+      label: Requester Phone
+      hint: Enter requester phone
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: requester_email
+      label: Requester Email
+      hint: Enter requester email
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: requester_internal_note
+      label: Requester Internal Note
+      hint: Enter internal note
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: additional_info
+      label: Additional Info
+      hint: Enter additional info
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_address
+      label: Customer Address
+      hint: Enter customer address
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_city
+      label: Customer City
+      hint: Enter city
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_state
+      label: Customer State
+      hint: Enter state
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_zip
+      label: Customer Zip
+      hint: Enter zip
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_country
+      label: Customer Country
+      hint: Enter country
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_phone
+      label: Customer Phone
+      hint: Enter customer phone
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customer_email
+      label: Customer Email
+      hint: Enter customer email
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: approver
+      label: Approver
+      hint: Enter approver
+      type: text
+      options: []
+      required: false

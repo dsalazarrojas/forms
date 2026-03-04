@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crime Free Lease Addendum
+    pages:
+    - id: 1
+      name: site_address
+      label: Site Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: crime_free_status
+      label: Crime Free Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 4
+      name: site_type
+      label: Site Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Commercial''}'
+      - '{''value'': ''Residential''}'
+      - '{''value'': ''Retail''}'
+      required: false
+    - id: 5
+      name: lease_start_date
+      label: Lease Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: lease_end_date
+      label: Lease End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: lease_term
+      label: Lease Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movember Participation Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: movember_participation_survey_header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_organization
+      label: participant_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: motivation
+      label: what_motivates_you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: future_interest
+      label: future_interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''submit''}'
+      - '{''id'': 2, ''label'': ''save_for_later''}'
+      - '{''id'': 3, ''label'': ''do_not_save''}'
+      required: true

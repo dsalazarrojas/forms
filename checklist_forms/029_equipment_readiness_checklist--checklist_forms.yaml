@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_readiness_checklist
+    pages:
+    - id: 1
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_dates
+      label: Inspection Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: prophets
+      label: Prophets
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Prophet 1
+      - Prophet 2
+      required: false
+    - id: 4
+      name: last_equipment_inspection
+      label: Last Equipment Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: last_equipment_check
+      label: Last Equipment Check
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_history
+      label: Maintenance History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - None
+      - A
+      - B
+      - C
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

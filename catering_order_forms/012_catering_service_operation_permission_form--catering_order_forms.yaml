@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Operation Permission Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_catering_business
+      label: -- Catering Business Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_license_number
+      label: Business License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: business_registration_date
+      label: Business Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: business_type
+      label: Type of Catering Business
+      hint: null
+      type: select_one
+      options:
+      - Full-Service Catering
+      - Buffet Service
+      - Food Truck Catering
+      - Dessert Only
+      - Beverage Service
+      - Mixed Service
+      - Other
+      required: true
+    - id: 10
+      name: section_operational_details
+      label: -- Operational Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: proposed_operating_location
+      label: Proposed Operating Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: operation_type
+      label: Type of Operation
+      hint: null
+      type: select_one
+      options:
+      - On-Site Preparation
+      - Off-Site Preparation
+      - Combined
+      required: true
+    - id: 13
+      name: operating_days
+      label: Operating Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 14
+      name: operating_hours
+      label: Operating Hours
+      hint: Open to close times
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: expected_daily_customers
+      label: Expected Daily Customers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_permits_and_licenses
+      label: -- Permits and Licenses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: food_handler_certificate
+      label: Food Handler Certificate on File
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 18
+      name: health_inspection_pass
+      label: Recent Health Inspection Passed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Never Inspected
+      required: true
+    - id: 19
+      name: liability_insurance
+      label: Liability Insurance Coverage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: section_compliance
+      label: -- Compliance and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: sanitation_standards_agreement
+      label: Comply with local sanitation standards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: food_safety_procedures
+      label: Food Safety Procedures in Place
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: emergency_procedures
+      label: Emergency Procedures Documented
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: section_terms
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: terms_acceptance
+      label: I certify that all information provided is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

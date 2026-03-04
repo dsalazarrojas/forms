@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Management Agreement
+    pages:
+    - id: 1
+      name: client_details
+      label: client_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media Management
+      - Content Creation
+      - Content Scheduling
+      - Ad Management
+      required: true
+    - id: 3
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Project-Based
+      - Monthly
+      - Other
+      required: true
+    - id: 5
+      name: payment
+      label: payment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: terms
+      label: terms
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_signature
+      label: client_signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: business_details
+      label: business_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_details
+      label: manager_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contract_start
+      label: contract_start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: contract_end
+      label: contract_end
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: contract_review
+      label: contract_review
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Half-Yearly
+      - Yearly
+      required: true

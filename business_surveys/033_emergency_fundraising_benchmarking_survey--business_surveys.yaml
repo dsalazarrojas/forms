@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Fundraising Benchmarking Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: campaign_name
+      label: campaign_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: total_donations
+      label: Total Donations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: donations_frequency
+      label: Donations Frequency
+      hint: null
+      type: select_one
+      options:
+      - Donations once
+      - Donations twice
+      - Donations 3 times
+      - Other
+      required: true
+    - id: 6
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: average_donation_amount
+      label: Average Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: donation_frequency_2
+      label: Donation Frequency 2
+      hint: null
+      type: select_multiple
+      options:
+      - Donations once
+      - Donations twice
+      - Donations 3 times
+      - Other
+      required: true
+    - id: 9
+      name: average_donation_report
+      label: Average Donation Report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: average_donation_time
+      label: Average Donation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: total_donation_time
+      label: Total Donation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: average_donation_period
+      label: Average Donation Period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: average_donation_frequency
+      label: Average Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Donations once
+      - Donations twice
+      - Donations 3 times
+      - Other
+      required: true
+    - id: 14
+      name: total_donations_frequency
+      label: Total Donations Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Donations once
+      - Donations twice
+      - Donations 3 times
+      - Other
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

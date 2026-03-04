@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_management_survey
+    pages:
+    - id: 1
+      name: inventory_item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_price
+      label: item_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_type
+      label: item_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: item_stock_status
+      label: stock_status
+      hint: null
+      type: select_one
+      options:
+      - available
+      - out_of_stock
+      - backordered
+      - discontinued
+      required: false
+    - id: 6
+      name: item_location
+      label: item_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_owner
+      label: owner
+      hint: null
+      type: select_multiple
+      options:
+      - owner_1
+      - owner_2
+      - owner_3
+      required: false
+    - id: 8
+      name: stock_count
+      label: count
+      hint: null
+      type: number
+      options: []
+      required: false

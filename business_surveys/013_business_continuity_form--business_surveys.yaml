@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Form
+    pages:
+    - id: 1
+      name: organization_details
+      label: -- Organization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Your organization's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or Division
+      hint: Which department?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: respondent_name
+      label: Your Name
+      hint: Full name of person completing form
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: respondent_email
+      label: Your Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: respondent_title
+      label: Your Position
+      hint: Job title
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: continuity_assessment
+      label: -- Continuity Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: continuity_plan_status
+      label: Current Business Continuity Plan Status
+      hint: Where are you?
+      type: select_one
+      options:
+      - No Plan in Place
+      - Plan Under Development
+      - Plan in Place but Outdated
+      - Current Plan in Use
+      - Plan Recently Updated
+      required: true
+    - id: 9
+      name: recovery_capabilities
+      label: Critical Recovery Capabilities
+      hint: Select all you have in place
+      type: select_multiple
+      options:
+      - Data Backup System
+      - Alternate Work Location
+      - Emergency Communication Plan
+      - Supply Chain Alternatives
+      - Key Personnel Cross-Training
+      - Vendor Continuity Agreements
+      required: false
+    - id: 10
+      name: key_threats
+      label: Key Business Threats
+      hint: What could disrupt operations?
+      type: select_multiple
+      options:
+      - Natural Disaster
+      - Cyber Attack
+      - System Failure
+      - Pandemic
+      - Supply Chain Disruption
+      - Key Personnel Loss
+      - Facility Damage
+      required: true
+    - id: 11
+      name: recovery_time_objectives
+      label: Recovery Time Objectives
+      hint: Maximum acceptable downtime
+      type: select_one
+      options:
+      - Immediate
+      - 1-4 Hours
+      - 4-24 Hours
+      - 1-7 Days
+      - More than 7 Days
+      required: true
+    - id: 12
+      name: critical_functions
+      label: Critical Business Functions
+      hint: What must continue operating?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: testing_frequency
+      label: Plan Testing Frequency
+      hint: How often is the plan tested?
+      type: select_one
+      options:
+      - Never Tested
+      - Annually
+      - Semi-Annually
+      - Quarterly
+      - Monthly
+      required: true
+    - id: 14
+      name: last_test_date
+      label: Date of Last Plan Test
+      hint: When was the last test?
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: gaps_and_challenges
+      label: -- Identified Gaps and Challenges --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: identified_gaps
+      label: Identified Plan Gaps
+      hint: What is missing?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: main_challenge
+      label: Main Continuity Challenge
+      hint: Primary obstacle
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: improvement_priority
+      label: Top Improvement Priority
+      hint: What needs most attention?
+      type: select_one
+      options:
+      - Data Protection
+      - Technology Resilience
+      - Staff Training
+      - Supplier Agreements
+      - Communication Plan
+      - Resource Allocation
+      required: true
+    - id: 19
+      name: budget_allocated
+      label: Annual Budget for Continuity
+      hint: Amount allocated
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

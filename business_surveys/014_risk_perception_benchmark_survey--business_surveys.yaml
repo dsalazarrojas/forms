@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Perception Benchmark Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_perception
+      label: risk perception
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: risk_factors
+      label: risk factors
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Market
+      - Regulatory
+      - Operational
+      - Cyber Security
+      required: true
+    - id: 4
+      name: risk_level
+      label: risk level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 5
+      name: impact_frequency
+      label: impact frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Monthly
+      - Quarterly
+      - Annually
+      - More frequently
+      required: true
+    - id: 6
+      name: risk_factors_frequency
+      label: risk factors frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Monthly
+      - Quarterly
+      - Annually
+      - More frequently
+      required: true
+    - id: 7
+      name: impact_level
+      label: impact level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 8
+      name: risk_consequence
+      label: risk consequence
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: risk_mitigation
+      label: risk mitigation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: risk_prevention
+      label: risk prevention
+      hint: null
+      type: text
+      options: []
+      required: true

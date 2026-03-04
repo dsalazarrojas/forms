@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Veterinary Response Time Survey
+    pages:
+    - id: 1
+      name: farmer_survey
+      label: Farmer Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vet_survey
+      label: Veterinarian Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vet_office_survey
+      label: Veterinarian Office Hours
+      hint: null
+      type: select_one
+      options:
+      - 8-8
+      - 8-12
+      - 12-16
+      - 16-20
+      - 20-24
+      required: true
+    - id: 4
+      name: office_hours
+      label: Office Hours
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 5
+      name: vet_hours
+      label: Veterinarian Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 8-8
+      - 8-12
+      - 12-16
+      - 16-20
+      required: false
+    - id: 6
+      name: vet_response_time
+      label: Veterinarian Response Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: vet_satisfaction
+      label: Veterinarian Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: practice_hours
+      label: Practice Hours
+      hint: null
+      type: select_one
+      options:
+      - 8-12
+      - 12-16
+      - 16-20
+      required: true
+    - id: 9
+      name: practice_location
+      label: Practice Location
+      hint: null
+      type: select_multiple
+      options:
+      - City
+      - Town
+      - Rural
+      required: false
+    - id: 10
+      name: response_time
+      label: Response Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vet_clinic_survey
+      label: Veterinarian Clinic Survey
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 5-10
+      - 10-15
+      required: true

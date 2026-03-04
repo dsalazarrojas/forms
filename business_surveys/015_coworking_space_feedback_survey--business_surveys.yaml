@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: coworking_space_feedback_survey
+    pages:
+    - id: 1
+      name: coworking_space_feedback_survey_1
+      label: how_did_you_hear_about_us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coworking_space_feedback_survey_1_page_1
+      label: amenities
+      hint: null
+      type: select_one
+      options:
+      - Parking
+      - Food and Beverage
+      - Wi-Fi
+      - Meeting Rooms
+      required: true
+    - id: 3
+      name: coworking_space_feedback_survey_1_page_2
+      label: coworking_space
+      hint: null
+      type: select_multiple
+      options:
+      - Comfortable
+      - Well-lit
+      - Quiet
+      - Spacious
+      required: true
+    - id: 4
+      name: coworking_space_feedback_survey_1_page_3
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: coworking_space_feedback_survey_1_page_4
+      label: pricing_feedback
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: coworking_space_feedback_survey_1_page_5
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: coworking_space_feedback_survey_1_page_6
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: coworking_space_feedback_survey_1_page_7
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: coworking_space_feedback_survey_1_page_8
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

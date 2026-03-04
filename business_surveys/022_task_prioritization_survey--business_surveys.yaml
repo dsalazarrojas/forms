@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: task_prioritization_survey
+    pages:
+    - id: 1
+      name: page_1
+      label: task_prioritization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: task_prioritization_scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      required: true
+    - id: 3
+      name: page_3
+      label: selected_tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: page_4
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: page_6
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: task_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: page_10_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: page_11
+      label: task_prioritization_scale_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      required: true
+    - id: 12
+      name: page_12
+      label: page_12_label
+      hint: null
+      type: text
+      options: []
+      required: false

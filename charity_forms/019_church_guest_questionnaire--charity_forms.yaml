@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Guest Questionnaire
+    pages:
+    - id: 1
+      name: section_header_welcome
+      label: -- Welcome to Our Church --
+      hint: We're glad you visited us! Please help us serve you better
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Prefer not to say
+      required: false
+    - id: 6
+      name: section_header_first_visit
+      label: -- Your First Visit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: first_time_visitor
+      label: Is This Your First Time Visiting Our Church
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: how_heard_about_church
+      label: How Did You Hear About Our Church
+      hint: null
+      type: select_one
+      options:
+      - Friend or family member
+      - Internet search
+      - Social media
+      - Drove by
+      - Event or outreach
+      - Previous visit
+      - Other
+      required: true
+    - id: 9
+      name: what_attracted_you
+      label: What Attracted You to Visit Our Church
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_experience
+      label: -- Your Experience Today --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: welcome_experience
+      label: How Welcome Did You Feel
+      hint: null
+      type: select_one
+      options:
+      - Very welcome
+      - Welcome
+      - Neutral
+      - Unwelcome
+      - Very unwelcome
+      required: true
+    - id: 12
+      name: parking_accessibility
+      label: Parking and Accessibility
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: false
+    - id: 13
+      name: facility_cleanliness
+      label: Facility Cleanliness and Appearance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: false
+    - id: 14
+      name: worship_service_quality
+      label: Quality of Worship Service
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 15
+      name: music_rating
+      label: Music and Worship Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: false
+    - id: 16
+      name: teaching_rating
+      label: Teaching or Sermon Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 17
+      name: relevance_to_life
+      label: Relevance of Message to Your Life
+      hint: null
+      type: select_one
+      options:
+      - Very relevant
+      - Relevant
+      - Somewhat relevant
+      - Not relevant
+      - N/A
+      required: false
+    - id: 18
+      name: section_header_feedback
+      label: -- Your Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: best_aspects
+      label: What Did You Like Best About Your Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: What could we do better
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_next_steps
+      label: -- Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: likelihood_return
+      label: How Likely Are You to Return
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 23
+      name: interested_learning_more
+      label: Interested in Learning More About Our Church
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 24
+      name: spiritual_interest
+      label: Are You Interested in Exploring Your Spiritual Journey
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 25
+      name: contact_permission
+      label: May We Contact You to Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transparency Communication Practices Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_size
+      label: organization_size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''2-1'', ''name'': ''Small''}'
+      - '{''id'': ''2-2'', ''name'': ''Medium''}'
+      - '{''id'': ''2-3'', ''name'': ''Large''}'
+      required: false
+    - id: 3
+      name: communication_practices
+      label: How often do you communicate with your organization?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''3-1'', ''name'': ''Frequently''}'
+      - '{''id'': ''3-2'', ''name'': ''Occasionally''}'
+      - '{''id'': ''3-3'', ''name'': ''Rarely''}'
+      required: false
+    - id: 4
+      name: communication_channels
+      label: What communication channels do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''4-1'', ''name'': ''Email''}'
+      - '{''id'': ''4-2'', ''name'': ''Phone''}'
+      - '{''id'': ''4-3'', ''name'': ''Video calls''}'
+      - '{''id'': ''4-4'', ''name'': ''Text messages''}'
+      required: false
+    - id: 5
+      name: information_sharing
+      label: With whom do you share information?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''5-1'', ''name'': ''Colleagues''}'
+      - '{''id'': ''5-2'', ''name'': ''Management''}'
+      - '{''id'': ''5-3'', ''name'': ''Clients''}'
+      - '{''id'': ''5-4'', ''name'': ''Suppliers''}'
+      required: false
+    - id: 6
+      name: information_sharing_frequency
+      label: How often do you share information with others?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''6-1'', ''name'': ''Frequently''}'
+      - '{''id'': ''6-2'', ''name'': ''Occasionally''}'
+      - '{''id'': ''6-3'', ''name'': ''Rarely''}'
+      required: false
+    - id: 7
+      name: data_sharing
+      label: What data do you share with others?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''7-1'', ''name'': ''Financial information''}'
+      - '{''id'': ''7-2'', ''name'': ''Performance information''}'
+      - '{''id'': ''7-3'', ''name'': ''Other data''}'
+      required: false
+    - id: 8
+      name: data_sharing_reason
+      label: Why do you share data?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''8-1'', ''name'': ''To help others make decisions''}'
+      - '{''id'': ''8-2'', ''name'': ''For reporting or auditing''}'
+      - '{''id'': ''8-3'', ''name'': ''For research''}'
+      required: false
+    - id: 9
+      name: feedback
+      label: Have you received any feedback?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''9-1'', ''name'': True}'
+      - '{''id'': ''9-2'', ''name'': False}'
+      required: false
+    - id: 10
+      name: feedback_sources
+      label: Who provided the feedback?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''10-1'', ''name'': ''Colleagues''}'
+      - '{''id'': ''10-2'', ''name'': ''Management''}'
+      - '{''id'': ''10-3'', ''name'': ''Clients''}'
+      - '{''id'': ''10-4'', ''name'': ''Suppliers''}'
+      required: false
+    - id: 11
+      name: communication_style
+      label: How would you describe your communication style?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: communication_channels_quality
+      label: What do you think about these communication channels?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: communication_channels_frequency
+      label: How often do you use these communication channels?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: information_sharing_quality
+      label: What do you think about information sharing?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''14-1'', ''name'': ''Good''}'
+      - '{''id'': ''14-2'', ''name'': ''Fair''}'
+      - '{''id'': ''14-3'', ''name'': ''Poor''}'
+      required: false
+    - id: 15
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Do you have any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false

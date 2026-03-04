@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Control Maturity Survey
+    pages:
+    - id: 1
+      name: risk_control_maturity_survey
+      label: Risk Control Maturity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_control_maturity_survey_form
+      label: Risk Control Maturity Form
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: risk_level
+      label: risk-level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 6
+      name: risk_category
+      label: Risk Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 7
+      name: control_practices
+      label: control-practices
+      hint: null
+      type: select_one
+      options:
+      - Practice 1
+      - Practice 2
+      - Practice 3
+      required: false
+    - id: 8
+      name: risk_impact
+      label: risk-impact
+      hint: null
+      type: select_multiple
+      options:
+      - Impact 1
+      - Impact 2
+      - Impact 3
+      required: false
+    - id: 9
+      name: risk_frequency
+      label: risk-frequency
+      hint: null
+      type: select_one
+      options:
+      - Frequency 1
+      - Frequency 2
+      - Frequency 3
+      required: false
+    - id: 10
+      name: risk_probability
+      label: risk-probability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: risk_likelihood
+      label: risk-likelihood
+      hint: null
+      type: number
+      options: []
+      required: false

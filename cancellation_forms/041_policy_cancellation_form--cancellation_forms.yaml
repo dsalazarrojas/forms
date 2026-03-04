@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Policy Cancellation Form
+    pages:
+    - id: 1
+      name: auto_vehicle_cancellation
+      label: Auto Vehicle Cancellation
+      hint: null
+      type: select_one
+      options:
+      - Auto
+      - Vehicle
+      - Home
+      - Rent
+      - Other
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: Please enter reason for cancellation
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_cancellation
+      label: Date of Cancellation
+      hint: Date of cancellation
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_cancellation
+      label: Time of Cancellation
+      hint: Time of cancellation
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: cancellation_message
+      label: Cancellation Message
+      hint: Please enter cancellation message
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: policy_id
+      label: Policy ID
+      hint: Policy ID
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: policy_type
+      label: Policy Type
+      hint: Policy Type
+      type: select_one
+      options:
+      - Auto
+      - Home
+      - Rent
+      - Other
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Additional notes
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

@@ -1,0 +1,293 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Weekly Health Check In Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Weekly Health Check-In
+      hint: Your health and wellness matter to us
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Your unique identifier
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: health_section
+      label: -- Physical Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_health
+      label: How is your overall health today?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 9
+      name: energy_level
+      label: Energy Level - 1 to 10
+      hint: 1 = Very Low, 10 = Very High
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: sleep_quality
+      label: Sleep Quality Last Night
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 11
+      name: hours_slept
+      label: Hours of Sleep Last Night
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: physical_symptoms
+      label: Any Physical Symptoms or Discomfort?
+      hint: Headache, body aches, cough, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: illness_section
+      label: -- Illness and Wellness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: feeling_ill
+      label: Are you feeling ill or unwell?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Slightly
+      required: true
+    - id: 15
+      name: illness_symptoms
+      label: If ill, what are your symptoms?
+      hint: Fever, cough, congestion, nausea, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fever_present
+      label: Do you have a fever?
+      hint: Temperature over 100.4 degrees F
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Checked
+      required: false
+    - id: 17
+      name: exposed_illness
+      label: Have you been exposed to anyone who is ill?
+      hint: In the past week
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 18
+      name: covid_status
+      label: COVID-19 Test Result (if taken)
+      hint: null
+      type: select_one
+      options:
+      - Not Tested
+      - Positive
+      - Negative
+      - Inconclusive
+      required: false
+    - id: 19
+      name: mental_health_section
+      label: -- Mental Health and Wellness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: mood_today
+      label: How is your mood today?
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 21
+      name: stress_level
+      label: Stress Level - 1 to 10
+      hint: 1 = No stress, 10 = Extreme stress
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: anxiety_level
+      label: Anxiety Level
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minimal
+      - Moderate
+      - High
+      - Very High
+      required: false
+    - id: 23
+      name: emotional_wellbeing
+      label: Overall Emotional Wellbeing
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 24
+      name: work_section
+      label: -- Work and Lifestyle --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: work_from_location
+      label: Working From
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Home
+      - Hybrid
+      - Other
+      required: false
+    - id: 26
+      name: feeling_able_to_work
+      label: Do you feel able to work effectively?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 27
+      name: exercise_this_week
+      label: Exercise This Week
+      hint: Days of moderate to vigorous exercise
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: hydration
+      label: How would you rate your hydration?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 29
+      name: nutrition
+      label: How would you rate your nutrition?
+      hint: Quality and consistency of meals
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 30
+      name: support_section
+      label: -- Support and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: need_support
+      label: Do you need any health or wellness support?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 32
+      name: support_type
+      label: What type of support would help?
+      hint: Mental health, medical, flexible schedule, etc.
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: technology_adoption_index_survey
+    pages:
+    - id: 1
+      name: intro
+      label: Technology Adoption Index Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tech_usage
+      label: What is your current tech usage?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Rarely
+      - Sometimes
+      - Often
+      required: true
+    - id: 3
+      name: barriers
+      label: What are the barriers to technology adoption?
+      hint: null
+      type: select_multiple
+      options:
+      - Cost
+      - Lack of awareness
+      - Lack of support
+      - Security concerns
+      - User experience issues
+      required: true
+    - id: 4
+      name: openness
+      label: Openness to change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_size
+      label: company size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: company_type
+      label: company type
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 7
+      name: employee_count
+      label: employee count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: industry
+      hint: null
+      type: select_multiple
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Manufacturing
+      required: true
+    - id: 9
+      name: tech_depts
+      label: Tech departments involved
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - IT
+      - Finance
+      - Operations
+      - Sales
+      required: true
+    - id: 10
+      name: tech_budget
+      label: Tech budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: change_management
+      label: Change management
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Informal
+      - No change management
+      required: true
+    - id: 12
+      name: project_management
+      label: Project management
+      hint: null
+      type: select_one
+      options:
+      - Waterfall
+      - Agile
+      - Hybrid
+      required: true
+    - id: 13
+      name: collaboration_tools
+      label: Collaboration tools
+      hint: null
+      type: select_one
+      options:
+      - Asana
+      - Slack
+      - Trello
+      - Microsoft Teams
+      required: true
+    - id: 14
+      name: reporting_methods
+      label: Reporting methods
+      hint: null
+      type: select_one
+      options:
+      - Excel
+      - Tableau
+      - Power BI
+      - Custom
+      required: true
+    - id: 15
+      name: training_programs
+      label: Training programs
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Advanced
+      - Specialized
+      required: true
+    - id: 16
+      name: tech_support
+      label: Tech support
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      required: true
+    - id: 17
+      name: tech_security
+      label: Tech security
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 18
+      name: data_analysis
+      label: Data analysis
+      hint: null
+      type: select_one
+      options:
+      - Descriptive
+      - Predictive
+      - Prescriptive
+      required: true
+    - id: 19
+      name: data_visualization
+      label: Data visualization
+      hint: null
+      type: select_one
+      options:
+      - Bar
+      - Line
+      - Pie
+      required: true
+    - id: 20
+      name: data_security
+      label: Data security
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 21
+      name: business_impact
+      label: Business impact
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 22
+      name: tech_deployment
+      label: Tech deployment
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Cloud
+      - Hybrid
+      required: true
+    - id: 23
+      name: tech_support_channel
+      label: Tech support channel
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      required: true
+    - id: 24
+      name: tech_development_process
+      label: Tech development process
+      hint: null
+      type: select_one
+      options:
+      - Waterfall
+      - Agile
+      - Hybrid
+      required: true
+    - id: 25
+      name: company_name
+      label: Company name
+      hint: null
+      type: text
+      options: []
+      required: true

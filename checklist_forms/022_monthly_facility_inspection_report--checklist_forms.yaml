@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Facility Inspection Report
+    pages:
+    - id: 1
+      name: facility_id
+      label: facility_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: month_id
+      label: month_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: issue_id
+      label: issue_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_notes
+      label: facility_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: facility_email
+      label: facility_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_inspection_report
+      label: facility_inspection_report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 12
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: usage_context_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How often do you use product?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: usage_location
+      label: Where do you typically use product?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: usage_frequency
+      label: Frequency of use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: usage_motivation
+      label: What motivates you to use product?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: improvement_feedback
+      label: How can we improve product?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: time_spent
+      label: Time spent with product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: time_of_day
+      label: Time of day
+      hint: null
+      type: time
+      options: []
+      required: false

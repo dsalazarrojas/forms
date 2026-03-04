@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Fit Assessment Survey
+    pages:
+    - id: 1
+      name: property_id
+      label: Property Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: property_location
+      label: Property Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: needs_preferences
+      label: Needs and Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_match
+      label: Property Match
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: property_match_score
+      label: Property Match Score
+      hint: null
+      type: number
+      options: []
+      required: false

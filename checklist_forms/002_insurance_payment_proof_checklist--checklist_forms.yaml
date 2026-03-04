@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Payment Proof Checklist
+    pages:
+    - id: 1
+      name: insurance_payment_proof_checklist_form
+      label: Client Details
+      hint: Enter client details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: insurer_details
+      label: Insurer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: claim_details
+      label: Claim Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_proof_date
+      label: Payment Proof Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false

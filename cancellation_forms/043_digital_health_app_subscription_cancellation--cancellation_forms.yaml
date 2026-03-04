@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Health App Subscription Cancellation
+    pages:
+    - id: 1
+      name: cancellation_request
+      label: Cancellation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cancellation_date
+      label: cancellation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: cancellation_reason
+      label: cancellation_reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_service_rep
+      label: customer_service_rep
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: cancellation_status
+      label: cancellation_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

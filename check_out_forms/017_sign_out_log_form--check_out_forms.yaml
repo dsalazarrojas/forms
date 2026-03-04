@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: sign_out_log_form
+    pages:
+    - id: 1
+      name: sign_out_log_form_1
+      label: sign_out_log
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: time_signed_out
+      label: time_signed_out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: check_out_by
+      label: check_out_by
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_signed_out
+      label: location_signed_out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: check_out_status
+      label: check_out_status
+      hint: null
+      type: select_multiple
+      options:
+      - signed_out
+      - checked_in
+      - pending
+      required: false
+    - id: 8
+      name: notes_signed_out
+      label: notes_signed_out
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments_signed_out
+      label: comments_signed_out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signed_out_by
+      label: signed_out_by
+      hint: null
+      type: select_one
+      options:
+      - signed_out_by
+      - checked_in_by
+      required: false
+    - id: 11
+      name: checked_out_by
+      label: checked_out_by
+      hint: null
+      type: select_one
+      options:
+      - signed_out_by
+      - checked_in_by
+      required: false
+    - id: 12
+      name: sign_out_reason
+      label: sign_out_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sign_out_method
+      label: sign_out_method
+      hint: null
+      type: select_one
+      options:
+      - electronic
+      - manual
+      - both
+      required: false
+    - id: 14
+      name: sign_out_method_other
+      label: sign_out_method_other
+      hint: null
+      type: text
+      options: []
+      required: false

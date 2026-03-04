@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_partner_information_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Limited''}'
+      - '{''id'': 2, ''label'': ''Unlimited''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: industry
+      label: Industry
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Finance''}'
+      - '{''id'': 2, ''label'': ''Technology''}'
+      - '{''id'': 3, ''label'': ''Healthcare''}'
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: ZIP
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''CEO''}'
+      - '{''id'': 2, ''label'': ''COO''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 15
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: agreement_signed
+      label: Agreement Signed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: true
+    - id: 20
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Terms and Conditions''}'
+      - '{''id'': 2, ''label'': ''Acceptance of Terms''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: true
+    - id: 21
+      name: privacy_policy
+      label: Privacy Policy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Privacy and Data Security''}'
+      - '{''id'': 2, ''label'': ''Acceptance of Privacy''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: true
+    - id: 22
+      name: agreement_date
+      label: Agreement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: agreement_time
+      label: Agreement Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: agreement_note
+      label: Agreement Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: agreement_signed_date
+      label: Agreement Signed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: agreement_signed_time
+      label: Agreement Signed Time
+      hint: null
+      type: time
+      options: []
+      required: false

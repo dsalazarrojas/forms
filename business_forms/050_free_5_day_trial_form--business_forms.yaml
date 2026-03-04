@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free 5 Day Trial Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Free 5 Day Trial Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trial_description
+      label: Trial Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: trial_duration
+      label: Trial Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: trial_limit
+      label: Trial Limit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: trial_limit_unit
+      label: Trial Limit Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: trial_limit_type
+      label: Trial Limit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: trial_limit_frequency
+      label: Trial Limit Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: trial_limit_frequency_unit
+      label: Trial Limit Frequency Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: trial_limit_frequency_type
+      label: Trial Limit Frequency Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: trial_limit_until
+      label: Trial Limit Until
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: trial_limit_until_unit
+      label: Trial Limit Until Unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

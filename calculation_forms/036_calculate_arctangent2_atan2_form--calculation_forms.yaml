@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calculate Arctangent2 (atan2) Form
+    pages:
+    - id: 1
+      name: user_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For sending results
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: calculation_date
+      label: Calculation Date
+      hint: Today's date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: y_coordinate
+      label: Y Coordinate
+      hint: Enter the y value
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: x_coordinate
+      label: X Coordinate
+      hint: Enter the x value
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: calculation_note
+      label: Calculation Note
+      hint: The arctangent2 will be calculated automatically
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: angle_unit
+      label: Angle Unit
+      hint: What unit for the result
+      type: select_one
+      options:
+      - Radians
+      - Degrees
+      required: true
+    - id: 8
+      name: precision
+      label: Decimal Precision
+      hint: How many decimal places
+      type: select_one
+      options:
+      - 2 decimal places
+      - 4 decimal places
+      - 6 decimal places
+      - 8 decimal places
+      required: false
+    - id: 9
+      name: purpose
+      label: Purpose of Calculation
+      hint: What is this for
+      type: select_one
+      options:
+      - Mathematics homework
+      - Engineering
+      - Physics
+      - Programming
+      - Research
+      - Other
+      required: false
+    - id: 10
+      name: quadrant_info
+      label: Display Quadrant Information
+      hint: Show which quadrant the angle is in
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: email_results
+      label: Email Results
+      hint: Send results to your email
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: additional_notes
+      label: Additional Notes
+      hint: Any comments
+      type: text
+      options: []
+      required: false

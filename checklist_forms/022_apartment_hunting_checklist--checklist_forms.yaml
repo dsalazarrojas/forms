@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Hunting Checklist
+    pages:
+    - id: 1
+      name: property_address
+      label: Property address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: listing_price
+      label: Listed rental price
+      hint: Monthly rent
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: viewing_date
+      label: Date of viewing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: agent_name
+      label: Real estate agent name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bedroom_count
+      label: Number of bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: bathroom_count
+      label: Number of bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: square_footage
+      label: Square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: overall_condition
+      label: Overall condition of apartment
+      hint: null
+      type: select_one
+      options:
+      - Excellent - move-in ready
+      - Good - minor updates needed
+      - Fair - some work needed
+      - Poor - significant repairs needed
+      required: true
+    - id: 9
+      name: kitchen_condition
+      label: Kitchen condition and appliances
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: bathroom_condition
+      label: Bathroom condition and fixtures
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: flooring_type
+      label: Flooring type
+      hint: Wood, carpet, tile, etc
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: flooring_condition
+      label: Flooring condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: wall_condition
+      label: Walls and paint condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent - freshly painted
+      - Good
+      - Fair - some marks or damage
+      - Poor - needs repainting
+      required: true
+    - id: 14
+      name: lighting_quality
+      label: Natural lighting quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent - lots of windows
+      - Good - adequate light
+      - Fair - some dark areas
+      - Poor - very dark
+      required: true
+    - id: 15
+      name: hvac_system
+      label: HVAC system condition
+      hint: Heating and cooling
+      type: select_one
+      options:
+      - Excellent - new system
+      - Good - works well
+      - Fair - occasional issues
+      - Poor - needs replacement
+      required: true
+    - id: 16
+      name: storage_space
+      label: Storage and closet space adequacy
+      hint: null
+      type: select_one
+      options:
+      - Excellent - plenty of space
+      - Good - adequate space
+      - Fair - limited space
+      - Poor - minimal storage
+      required: true
+    - id: 17
+      name: appliances_included
+      label: Appliances included
+      hint: Select all present
+      type: select_multiple
+      options:
+      - Refrigerator
+      - Stove and oven
+      - Dishwasher
+      - Microwave
+      - Washer
+      - Dryer
+      - AC unit
+      - None
+      required: true
+    - id: 18
+      name: utilities_included
+      label: Utilities included in rent
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Water
+      - Electricity
+      - Gas
+      - Garbage
+      - Internet
+      - None included
+      - Other
+      required: true
+    - id: 19
+      name: parking_availability
+      label: Parking availability
+      hint: null
+      type: select_one
+      options:
+      - Dedicated parking spot
+      - Street parking available
+      - Parking garage
+      - No parking available
+      required: true
+    - id: 20
+      name: pet_policy
+      label: Pet policy
+      hint: null
+      type: select_one
+      options:
+      - Pets allowed
+      - Cats only
+      - Dogs only
+      - No pets allowed
+      required: true
+    - id: 21
+      name: noise_level
+      label: Noise level assessment
+      hint: null
+      type: select_one
+      options:
+      - Quiet
+      - Moderate
+      - Noisy
+      - Very noisy
+      required: true
+    - id: 22
+      name: neighborhood_safety
+      label: Neighborhood safety assessment
+      hint: null
+      type: select_one
+      options:
+      - Very safe
+      - Safe
+      - Moderate concerns
+      - Unsafe
+      required: true
+    - id: 23
+      name: lease_terms
+      label: Lease term length available
+      hint: Months
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: move_in_costs
+      label: Move-in costs - deposit and fees
+      hint: Total upfront costs
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: overall_rating
+      label: Overall rating for this apartment
+      hint: 1-10 scale
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: pros
+      label: Pros - what you liked
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: cons
+      label: Cons - what you did not like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: would_apply
+      label: Would you apply for this apartment?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - false
+      required: true

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Completion Forecast
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: confidence
+      label: Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_leader
+      label: Project Leader
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status_comments
+      label: Project Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_manager
+      label: Review Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submission_manager
+      label: Submission Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: review_due_date
+      label: Review Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: review_due_time
+      label: Review Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: submission_due_date
+      label: Submission Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submission_due_time
+      label: Submission Due Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: delivery_comments
+      label: Delivery Comments
+      hint: null
+      type: text
+      options: []
+      required: false

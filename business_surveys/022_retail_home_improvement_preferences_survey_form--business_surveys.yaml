@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Home Improvement Preferences Survey Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_id
+      label: store_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: purchase_frequency
+      label: purchase_frequency
+      hint: How often do you purchase home improvement products?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: satisfaction_with_products
+      label: satisfaction_with_products
+      hint: How satisfied are you with our products?
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: product_search
+      label: product_search
+      hint: How do you usually search for home improvement products?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchase_channel
+      label: purchase_channel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_service
+      label: customer_service
+      hint: How would you rate our customer service?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: product_quality
+      label: product_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 9
+      name: product_price
+      label: product_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: store_experience
+      label: store_experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: store_atmosphere
+      label: store_atmosphere
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: employee_knowledge
+      label: employee_knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

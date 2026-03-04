@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: liquid_acceptance_survey
+    pages:
+    - id: 1
+      name: brand_name
+      label: Brand Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: brand_id
+      label: Brand ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_type
+      label: Product Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: acceptance_level
+      label: Acceptance Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Neutral
+      required: false
+    - id: 6
+      name: influencing_factors
+      label: Influencing Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Quality
+      - Design
+      - Color
+      - Other
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: product_id
+      label: Product ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: acceptance_level_other
+      label: Acceptance Level Other
+      hint: Please enter an answer to the question above.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: influencing_factors_other
+      label: Influencing Factors Other
+      hint: Please enter an answer to the question above.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_other
+      label: Feedback Other
+      hint: Please enter an answer to the question above.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: liquid_acceptance_survey
+      label: Liquid Acceptance Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: Please enter a short note about your feedback.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Structure Survey
+    pages:
+    - id: 1
+      name: main_organisation
+      label: main_organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: level_organisation
+      label: level_organisation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reporting_line
+      label: reporting_line
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reporting_line_level
+      label: reporting_line_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 5
+      name: team_organisation
+      label: team_organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_organisation_type
+      label: team_organisation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: department_organisation
+      label: department_organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_leadership
+      label: team_leadership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: team_leadership_position
+      label: team_leadership_position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: department_leadership
+      label: department_leadership
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_title_hierarchy
+      label: job_title_hierarchy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: job_title_level
+      label: job_title_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 14
+      name: reporting_relationships
+      label: reporting_relationships
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: job_classification
+      label: job_classification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_classification_hierarchy
+      label: job_classification_hierarchy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: job_classification_level
+      label: job_classification_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 18
+      name: job_classification_type
+      label: job_classification_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: reporting_line_level
+      label: reporting_line_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 20
+      name: team_leadership_level
+      label: team_leadership_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 21
+      name: job_title_position
+      label: job_title_position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: job_classification_hierarchy_type
+      label: job_classification_hierarchy_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: main_organisation_position
+      label: main_organisation_position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: level_organisation_position
+      label: level_organisation_position
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 25
+      name: department_organisation_position
+      label: department_organisation_position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

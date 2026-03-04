@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Order & Contract Form
+    pages:
+    - id: 1
+      name: contract_intro_header
+      label: -- Catering Service Contract --
+      hint: This document serves as a binding agreement for catering services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date_contract
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_venue_name
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_order_guarantee
+      label: -- Order and Guarantees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: menu_package_confirmed
+      label: Confirmed Menu Package
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guest_count_guarantee
+      label: Guaranteed Minimum Guest Count
+      hint: Final numbers must be confirmed 14 days prior
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_terms_cond
+      label: -- Terms and Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: license_insurance_ack
+      label: I acknowledge the caterer holds all required food safety licenses and
+        insurance
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 10
+      name: cancellation_policy_ack
+      label: I have read and agree to the cancellation policy
+      hint: 50 percent fee for cancellations within 30 days
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 11
+      name: liability_waiver_contract
+      label: Liability Waiver and Indemnification
+      hint: null
+      type: select_one
+      options:
+      - I Accept the Terms
+      - Other
+      required: true
+    - id: 12
+      name: left_over_food_policy
+      label: Leftover Food Policy
+      hint: For safety reasons, leftover food remains property of the caterer
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 13
+      name: section_payment_terms
+      label: -- Payment and Deposits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: deposit_required_amount
+      label: Non-Refundable Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: final_payment_due_date
+      label: Final Payment Due Date
+      hint: Usually 7 days before event
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: additional_contract_notes
+      label: Additional Special Requests or Agreements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature_client_electronic
+      label: Client Electronic Signature
+      hint: Type full legal name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: signature_caterer_rep
+      label: Catering Representative Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contract_signing_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

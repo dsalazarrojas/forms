@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Statement Of Financial Needs Authorization Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Statement Of Financial Needs Authorization Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: form description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: financial_needs
+      label: Financial Needs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: resource
+      label: resource
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: authorization_level
+      label: Authorization Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: Please sign this form
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: another_field
+      label: Another Field
+      hint: null
+      type: text
+      options: []
+      required: false

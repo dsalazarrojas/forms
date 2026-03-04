@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: rooftop_farming_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: grower_experience
+      label: What is your experience with rooftop farming?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: grower_methods
+      label: What methods do you use for rooftop farming?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: grower_challenges
+      label: What are some of the biggest challenges you face with rooftop farming?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: benefits
+      label: What benefits do you see with rooftop farming?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: community_programs
+      label: How do you see the community playing a role with rooftop farming?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: research
+      label: How do you see research playing a role with rooftop farming?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: urban_planning
+      label: How will you use rooftop farming insights for urban planning?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: additional_information
+      label: Is there any additional information about your experience that you would
+        like to share?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rooftop_farm_size
+      label: How large is your rooftop farm?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: rooftop_farm_locations
+      label: Where are your rooftop farms?
+      hint: null
+      type: select_one
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: true
+    - id: 12
+      name: rooftop_farm_types
+      label: What type of rooftop farm do you have?
+      hint: null
+      type: select_one
+      options:
+      - Hydroponic
+      - Aquaponic
+      - Aeroponic
+      - Aquaponic
+      - Others
+      required: true
+    - id: 13
+      name: grower_age
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: years_in_rooftop_farming
+      label: How many years have you been doing rooftop farming?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: grower_employment
+      label: What is your employment status?
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Self-Employed
+      required: true
+    - id: 16
+      name: farm_size
+      label: How many square feet of farm do you farm?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: grower_education
+      label: What is your highest level of education completed?
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Bachelor's
+      - Post-Graduate
+      - Others
+      required: true
+    - id: 18
+      name: grower_language
+      label: What language do you speak?
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Others
+      required: true
+    - id: 19
+      name: grower_contact_method
+      label: How do you prefer to be contacted for this survey?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Others
+      required: true
+    - id: 20
+      name: rooftop_farm_insurance
+      label: Do you have farm insurance?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: rooftop_farm_equipment
+      label: What equipment do you use for rooftop farming?
+      hint: null
+      type: select_multiple
+      options:
+      - Water pumps
+      - Pumps and pipes
+      - Irrigation system
+      - Greenhouse or Hoophouse
+      - Tractors
+      - Others
+      required: true
+    - id: 22
+      name: rooftop_farming_certifications
+      label: Do you have any farm certifications?
+      hint: null
+      type: select_multiple
+      options:
+      - USDA
+      - Organic certification
+      - Others
+      required: true
+    - id: 23
+      name: farm_insurance_provider
+      label: Which farm insurance provider do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Company A
+      - Company B
+      - Company C
+      - Others
+      required: true
+    - id: 24
+      name: farm_insurance_coverage
+      label: What farm insurance coverage do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - Liability
+      - Crop
+      - Property
+      - Equipment
+      - Others
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Is there anything else you would like to comment on?
+      hint: null
+      type: note
+      options: []
+      required: false

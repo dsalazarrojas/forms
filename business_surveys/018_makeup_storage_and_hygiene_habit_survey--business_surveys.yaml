@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Storage And Hygiene Habit Survey
+    pages:
+    - id: 1
+      name: prophets
+      label: Makeup Storage And Hygiene Habit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Clinic
+      - Salon
+      - Online
+      required: false
+    - id: 3
+      name: usage_frequency
+      label: Usage Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: usage_time
+      label: Usage Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: storage_duration
+      label: Storage Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: cleaning_frequency
+      label: Cleaning Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: cleaning_duration
+      label: Cleaning Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: makeup_type
+      label: Makeup Type
+      hint: null
+      type: select_one
+      options:
+      - Foundation
+      - Eyeliner
+      - Mascara
+      - Lip Liner
+      - Lipstick
+      - Primer
+      - Concealer
+      - Blush
+      required: false
+    - id: 9
+      name: stored_with
+      label: Stored With
+      hint: null
+      type: select_one
+      options:
+      - Alone
+      - With others
+      required: false
+    - id: 10
+      name: stored_in_aitight_container
+      label: Stored In Airtight Container
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: stored_in_aitight_container_type
+      label: Stored In Airtight Container Type
+      hint: null
+      type: select_one
+      options:
+      - Bag
+      - Box
+      - Case
+      required: false
+    - id: 12
+      name: stored_in_clean_area
+      label: Stored In Clean Area
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: makeup_stored
+      label: Stored
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: used_within
+      label: Used Within
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: usage_area
+      label: Usage Area
+      hint: null
+      type: select_one
+      options:
+      - Face
+      - Eyes
+      - Lips
+      - Skin
+      required: false
+    - id: 16
+      name: stored_in_direct_sunlight
+      label: Stored In Direct Sunlight
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: cleaned_daily
+      label: Cleaned Daily
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: cleaned_with_brush
+      label: Cleaned With Brush
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: cleaned_with_water
+      label: Cleaned With Water
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: cleaned_with_soap
+      label: Cleaned With Soap
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: stored_in_fridge
+      label: Stored In Fridge
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: used_on_face
+      label: Used On Face
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: used_on_eyes
+      label: Used On Eyes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: used_on_lips
+      label: Used On Lips
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: used_on_skin
+      label: Used On Skin
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

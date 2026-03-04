@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Performance Report Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date_range_start
+      label: Date Range Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: date_range_end
+      label: Date Range End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: platform_id
+      label: Platform
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Twitter''}'
+      - '{''id'': 2, ''label'': ''Facebook''}'
+      - '{''id'': 3, ''label'': ''Instagram''}'
+      - '{''id'': 4, ''label'': ''LinkedIn''}'
+      required: false
+    - id: 5
+      name: post_type_id
+      label: Post Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Video''}'
+      - '{''id'': 2, ''label'': ''Image''}'
+      - '{''id'': 3, ''label'': ''Link''}'
+      - '{''id'': 4, ''label'': ''Article''}'
+      - '{''id'': 5, ''label'': ''Story''}'
+      - '{''id'': 6, ''label'': ''Story with Video''}'
+      - '{''id'': 7, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: engagement_metric
+      label: Engagement Metric
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Likes''}'
+      - '{''id'': 2, ''label'': ''Comments''}'
+      - '{''id'': 3, ''label'': ''Shares''}'
+      - '{''id'': 4, ''label'': ''Saves''}'
+      - '{''id'': 5, ''label'': ''Posts''}'
+      required: false
+    - id: 7
+      name: engagement_metric_value
+      label: Engagement Metric Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reach_metric
+      label: Reach Metric
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Impression''}'
+      - '{''id'': 2, ''label'': ''Engagement''}'
+      - '{''id'': 3, ''label'': ''Conversions''}'
+      - '{''id'': 4, ''label'': ''Clicks''}'
+      - '{''id'': 5, ''label'': ''Views''}'
+      required: false
+    - id: 9
+      name: reach_metric_value
+      label: Reach Metric Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: click_through_rate
+      label: Click-Through Rate
+      hint: null
+      type: number
+      options: []
+      required: false

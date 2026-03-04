@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Modeling Service Order Form
+    pages:
+    - id: 1
+      name: section_header_client_info
+      label: '--- Client Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name or company representative
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: We'll use this for project updates and delivery
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: For urgent project communications
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: order_date
+      label: Order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_header_project_details
+      label: '--- Project Specifications ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_name
+      label: Project name
+      hint: Brief identifier for your 3D model
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: model_type
+      label: Type of 3D model required
+      hint: null
+      type: select_one
+      options:
+      - Product visualization
+      - Architectural model
+      - Character/model figure
+      - Industrial design
+      - Game asset
+      - Animation-ready model
+      - 3D printing ready
+      required: true
+    - id: 10
+      name: complexity_level
+      label: Complexity level
+      hint: null
+      type: select_one
+      options:
+      - Low (basic geometry)
+      - Medium (moderate detail)
+      - High (intricate details)
+      - Very high (photorealistic)
+      required: true
+    - id: 11
+      name: reference_images_count
+      label: Number of reference images provided
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: estimated_completion_days
+      label: Desired completion timeframe (days)
+      hint: From 3 to 90 days
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: budget_range
+      label: Budget range (USD)
+      hint: null
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1,000
+      - $1,000-$2,500
+      - $2,500-$5,000
+      - Over $5,000
+      required: false
+    - id: 14
+      name: file_format_preference
+      label: Preferred output format(s)
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - OBJ
+      - FBX
+      - STL
+      - GLTF
+      - BLEND
+      - MAX
+      - C4D
+      required: true
+    - id: 15
+      name: texture_requirements
+      label: Texture requirements
+      hint: null
+      type: select_one
+      options:
+      - No textures needed
+      - Basic color only
+      - Detailed textures
+      - PBR materials
+      - Custom textures provided
+      required: true
+    - id: 16
+      name: polygon_limit
+      label: Maximum polygon count (if applicable)
+      hint: Enter 0 for no limit
+      type: integer
+      options: []
+      required: false
+    - id: 17
+      name: target_application
+      label: Target application or platform
+      hint: Where will the model be used?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: revision_includes
+      label: Number of revisions included
+      hint: null
+      type: select_one
+      options:
+      - 1 revision
+      - 2 revisions
+      - 3 revisions
+      - Unlimited revisions
+      required: true
+    - id: 19
+      name: section_header_additional_services
+      label: '--- Additional Services ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: animation_needed
+      label: Is animation required?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 21
+      name: rendering_service
+      label: Professional rendering service
+      hint: null
+      type: select_one
+      options:
+      - Standard rendering
+      - Photorealistic rendering
+      - Multiple angle renders
+      - Not needed
+      required: false
+    - id: 22
+      name: section_header_final_details
+      label: '--- Final Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: special_instructions
+      label: Special instructions or customization notes
+      hint: Any specific requirements or preferences
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Anything else we should know about your project
+      type: text
+      options: []
+      required: false

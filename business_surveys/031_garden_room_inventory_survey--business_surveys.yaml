@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Prairden Room Inventory Survey
+    pages:
+    - id: 1
+      name: garden_room_name
+      label: Garden Room Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: garden_room_address
+      label: Garden Room Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: items_in_room
+      label: Items In Room
+      hint: null
+      type: select_multiple
+      options:
+      - Lawn Mowers
+      - Pruning Shears
+      - Watering Cans
+      required: true
+    - id: 4
+      name: condition
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Unknown
+      required: true
+    - id: 5
+      name: has_any_equipment_missing
+      label: Has Any Equipment Missing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 6
+      name: has_damaged_equipment
+      label: Has Damaged Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 7
+      name: garden_room_notes
+      label: Garden Room Notes
+      hint: null
+      type: note
+      options: []
+      required: false

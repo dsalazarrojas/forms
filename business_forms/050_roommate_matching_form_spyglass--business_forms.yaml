@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roommate Matching Form SpyGlass
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: roommate_name
+      label: Roommate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: roommates
+      label: Roommates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - '18'
+      - '20'
+      - '22'
+      - '24'
+      - '26'
+      - '28'
+      - '30'
+      required: false
+    - id: 5
+      name: room_size_sqft
+      label: Room Size (sqft)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_room_size_sqft
+      label: Preferred Room Size (sqft)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      required: false
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: roommate_match_score
+      label: Roommate Match Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: roommates_liked
+      label: Roommates Liked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: preferred_languages
+      label: Preferred Languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: interests
+      label: Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: room_size_sqft_liked
+      label: Room Size (sqft) Liked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: preferred_roommate_type
+      label: Preferred Roommate Type
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      required: false
+    - id: 17
+      name: room_size_sqft_disliked
+      label: Room Size (sqft) Disliked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: preferred_languages_liked
+      label: Preferred Languages Liked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: interests_liked
+      label: Interests Liked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: preferred_roommate_type_liked
+      label: Preferred Roommate Type Liked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: room_size_sqft_disliked_liked
+      label: Room Size (sqft) Disliked Liked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: age_range_liked
+      label: Age Range Liked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: preferred_roommate_type_disliked
+      label: Preferred Roommate Type Disliked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: interests_disliked
+      label: Interests Disliked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: roommates_disliked
+      label: Roommates Disliked
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

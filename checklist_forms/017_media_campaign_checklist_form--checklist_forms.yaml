@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Campaign Checklist Form
+    pages:
+    - id: 1
+      name: campaign_name
+      label: Campaign Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: marketing_manager
+      label: Marketing Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Joe Doe''}'
+      required: true
+    - id: 3
+      name: media_manager
+      label: Media Manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''John Doe''}'
+      - '{''id'': 2, ''name'': ''Jane Doe''}'
+      - '{''id'': 3, ''name'': ''Joe Doe''}'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tasks
+      label: Tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: deadlines
+      label: Deadlines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: responsibilities
+      label: Responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

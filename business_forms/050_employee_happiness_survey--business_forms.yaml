@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Happiness Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Welcome To Our Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: How Do You Rate Your Happiness Level?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - 1 - Very Unlikely
+      - 2 - Not Very Likely
+      - 3 - Neutral
+      - 4 - Somewhat Likely
+      - 5 - Very Likely
+      required: true
+    - id: 4
+      name: communication_with_manager
+      label: Communication With Manager
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication_with_team
+      label: Communication With Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team Leader
+      - Team Member
+      - Not sure
+      required: true
+    - id: 6
+      name: communication_with_team_members
+      label: Communication With Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: feedback_to_team
+      label: Feedback To Team
+      hint: null
+      type: select_multiple
+      options:
+      - Provide feedback
+      - Don't provide feedback
+      - Not sure
+      required: false
+    - id: 8
+      name: feedback_to_manager
+      label: Feedback To Manager
+      hint: null
+      type: select_multiple
+      options:
+      - Provide feedback
+      - Don't provide feedback
+      - Not sure
+      required: false
+    - id: 9
+      name: work_life_balance
+      label: Work Life Balance
+      hint: null
+      type: select_one
+      options:
+      - Very Unbalanced
+      - Somewhat Unbalanced
+      - Neutral
+      - Somewhat Balanced
+      - Very Balanced
+      required: true
+    - id: 10
+      name: job_satisfaction_level
+      label: Job Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very Unhappy
+      - Somewhat Unhappy
+      - Neutral
+      - Somewhat Happy
+      - Very Happy
+      required: true
+    - id: 11
+      name: overall_happiness
+      label: Overall Happiness
+      hint: null
+      type: select_one
+      options:
+      - Very Unhappy
+      - Somewhat Unhappy
+      - Neutral
+      - Somewhat Happy
+      - Very Happy
+      required: true
+    - id: 12
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: work_hours_weekend
+      label: Work Hours Weekend
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: work_hours_weekday
+      label: Work Hours Weekday
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: job_satisfaction_important
+      label: Job Satisfaction Important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Somewhat Unimportant
+      - Very Unimportant
+      required: false
+    - id: 19
+      name: benefits_important
+      label: Benefits Important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Somewhat Unimportant
+      - Very Unimportant
+      required: false
+    - id: 20
+      name: job_security_important
+      label: Job Security Important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Somewhat Unimportant
+      - Very Unimportant
+      required: false
+    - id: 21
+      name: job_satisfaction_level_important
+      label: Job Satisfaction Level Important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Somewhat Unimportant
+      - Very Unimportant
+      required: false
+    - id: 22
+      name: salary_important
+      label: Salary Important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Somewhat Unimportant
+      - Very Unimportant
+      required: false
+    - id: 23
+      name: job_satisfaction_level_very_important
+      label: Job Satisfaction Level Very Important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Somewhat Unimportant
+      - Very Unimportant
+      required: false
+    - id: 24
+      name: work_life_balance_very_important
+      label: Work Life Balance Very Important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Somewhat Unimportant
+      - Very Unimportant
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

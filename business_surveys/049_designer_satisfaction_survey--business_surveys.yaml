@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Designer Satisfaction Survey
+    pages:
+    - id: 1
+      name: design_satisfaction_survey
+      label: What do you think about this design
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: design_team
+      label: Who did you work with
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Designer 1''}'
+      - '{''id'': 2, ''label'': ''Designer 2''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: work_hours
+      label: How many hours did you work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Company A''}'
+      - '{''id'': 2, ''label'': ''Company B''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: date_completed
+      label: Date completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_completed
+      label: Time completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_worked
+      label: Time worked
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very dissatisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat dissatisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat satisfied''}'
+      - '{''id'': 5, ''label'': ''Very satisfied''}'
+      required: true
+    - id: 12
+      name: submission_type
+      label: Submission type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''New submission''}'
+      - '{''id'': 2, ''label'': ''Update submission''}'
+      - '{''id'': 3, ''label'': ''Re-submission''}'
+      required: false
+    - id: 13
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 14
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jim''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 15
+      name: comments_sub
+      label: Comments submitted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 16
+      name: design_satisfaction_survey_16
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: time_spent
+      label: Time spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: hours_worked
+      label: Hours worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: submission_status
+      label: Submission status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Incomplete''}'
+      - '{''id'': 2, ''label'': ''Complete''}'
+      required: true
+    - id: 23
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: hours
+      label: Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: design_team_members
+      label: Design team members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false

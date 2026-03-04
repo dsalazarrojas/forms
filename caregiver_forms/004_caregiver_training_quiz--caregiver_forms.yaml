@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Training Quiz
+    pages:
+      - id: 1
+        name: quiz_header
+        label: -- Participant Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Enter full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email address
+        hint: For sending results if applicable
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: role
+        label: Job role
+        hint: Caregiver, nurse, family member, etc
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: q1_infection_control
+        label: Q1 infection control best practice
+        hint: Choose the best answer
+        type: select_one
+        options: [Hand hygiene before contact, Wear gloves at all times, Disinfect only when visible dirt, Use mouthwash before contact]
+        required: true
+      - id: 6
+        name: q2_medication_storage
+        label: Q2 correct medication storage
+        hint: Select one
+        type: select_one
+        options: [Store at room temperature in original packaging, Mix medications together, Store in bathroom cabinet, Keep in unlocked drawer]
+        required: true
+      - id: 7
+        name: q3_patient_communication
+        label: Q3 effective communication technique
+        hint: Select one
+        type: select_one
+        options: [Active listening, Interrupting to provide advice, Speaking loudly only, Ignoring questions]
+        required: true
+      - id: 8
+        name: q4_emergency_response
+        label: Q4 immediate step in emergency
+        hint: Select one
+        type: select_one
+        options: [Assess safety and call for help, Wait for next scheduled check, Move the person without assessment, Give medication immediately]
+        required: true
+      - id: 9
+        name: q5_self_care
+        label: Q5 recommended self care practice
+        hint: Select one
+        type: select_one
+        options: [Regular breaks, Skip meals to finish tasks, Avoid asking for help, Work longer shifts]
+        required: true
+      - id: 10
+        name: additional_feedback
+        label: Additional feedback on training
+        hint: Optional comments about the quiz or training
+        type: text
+        options: []
+        required: false

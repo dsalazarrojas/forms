@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Of Address Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: Your account or reference number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_name
+      label: Business Name
+      hint: Name of business if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_address
+      label: Current Address
+      hint: Full current address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: new_address
+      label: New Address
+      hint: Full new address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: move_type
+      label: Move Type
+      hint: Type of move
+      type: select_one
+      options:
+      - Residential move
+      - Business relocation
+      - Temporary assignment
+      - Permanent change
+      - Seasonal residence
+      required: true
+    - id: 10
+      name: move_date
+      label: Move Date
+      hint: When will you move
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: services_affected
+      label: Services Affected
+      hint: Which services need address update
+      type: select_multiple
+      options:
+      - Billing statements
+      - Product delivery
+      - Service notifications
+      - Marketing communications
+      - Account correspondence
+      - All services
+      required: true
+    - id: 12
+      name: forwarding_needed
+      label: Mail Forwarding
+      hint: Do you need forwarding service
+      type: select_one
+      options:
+      - Yes - Please forward mail
+      - No - Not needed
+      required: true
+    - id: 13
+      name: forwarding_duration
+      label: Forwarding Duration
+      hint: How long should forwarding last
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 6 months
+      - 1 year
+      - Indefinitely
+      required: false
+    - id: 14
+      name: update_priority
+      label: Update Priority
+      hint: How urgent is this update
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 week
+      - Within 2 weeks
+      - Within 30 days
+      required: true
+    - id: 15
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special delivery instructions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_preference
+      label: Contact Preference
+      hint: Preferred contact method
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Text message
+      required: true
+    - id: 17
+      name: verification_required
+      label: Verification Required
+      hint: I verify this address change is accurate
+      type: select_one
+      options:
+      - Yes - I verify
+      - No - I do not verify
+      required: true
+    - id: 18
+      name: authorization
+      label: Authorization
+      hint: I authorize this address change
+      type: select_one
+      options:
+      - Yes - I authorize
+      - No - I do not authorize
+      required: true
+    - id: 19
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

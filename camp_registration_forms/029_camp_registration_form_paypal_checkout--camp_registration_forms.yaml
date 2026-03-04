@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Registration Form PayPal Checkout
+    pages:
+    - id: 1
+      name: registrant_name
+      label: Registrant Full Name
+      hint: Name for registration and payment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: PayPal confirmation will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: session
+      label: Session Selected
+      hint: Which camp session to register for
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      required: true
+    - id: 4
+      name: amount_due
+      label: Amount Due
+      hint: Total registration fee to be paid
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: paypal_email
+      label: PayPal Email
+      hint: Preferred PayPal account for payment
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: coupon_code
+      label: Coupon Code
+      hint: Enter coupon code if available
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_address
+      label: Billing Address
+      hint: Address associated with payment method
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency Contact Info
+      hint: Name and phone of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agree_terms
+      label: Agree to Terms and Conditions
+      hint: Confirmation of camp policies and waivers
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special instructions for registration
+      type: text
+      options: []
+      required: false

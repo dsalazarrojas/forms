@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Registration Form
+    pages:
+    - id: 1
+      name: event_registration_form_data
+      label: event_registration_form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_start_date
+      label: event_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_end_date
+      label: event_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_organizer
+      label: event_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_description
+      label: event_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: event_category
+      label: event_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: user_phone
+      label: user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_organization
+      label: user_organization
+      hint: null
+      type: text
+      options: []
+      required: false

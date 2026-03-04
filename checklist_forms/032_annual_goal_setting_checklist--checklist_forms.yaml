@@ -1,0 +1,250 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Goal Setting Checklist
+    pages:
+    - id: 1
+      name: person_name
+      label: Full Name
+      hint: Person setting goals
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: goal_year
+      label: Goal Year
+      hint: Which year are these goals for?
+      type: select_one
+      options:
+        - 2026
+        - 2027
+        - 2028
+        - Multi-Year
+      required: true
+    - id: 4
+      name: goal_category
+      label: Goal Category
+      hint: What area of life?
+      type: select_one
+      options:
+        - Personal Development
+        - Career
+        - Health and Fitness
+        - Financial
+        - Relationships
+        - Education
+        - Business
+        - Creative
+        - Spiritual
+        - Other
+      required: true
+    - id: 5
+      name: primary_goal
+      label: Primary Goal
+      hint: Your main objective
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: goal_description
+      label: Goal Description
+      hint: Describe your goal in detail
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: smart_specific
+      label: Specific
+      hint: What exactly do you want to achieve?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: smart_measurable
+      label: Measurable
+      hint: How will you measure success?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: smart_achievable
+      label: Achievable
+      hint: Is this goal realistic?
+      type: select_one
+      options:
+        - Yes, Very Achievable
+        - Yes, With Effort
+        - Challenging But Possible
+        - May Need Adjustment
+      required: true
+    - id: 10
+      name: smart_relevant
+      label: Relevant
+      hint: Why is this goal important?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: smart_timebound
+      label: Time-Bound
+      hint: When will you achieve this?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: milestone_1
+      label: Milestone 1
+      hint: First key milestone
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: milestone_1_deadline
+      label: Milestone 1 Deadline
+      hint: When should this be done?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: milestone_2
+      label: Milestone 2
+      hint: Second key milestone
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: milestone_2_deadline
+      label: Milestone 2 Deadline
+      hint: When should this be done?
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: milestone_3
+      label: Milestone 3
+      hint: Third key milestone
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: milestone_3_deadline
+      label: Milestone 3 Deadline
+      hint: When should this be done?
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: resources_needed
+      label: Resources Needed
+      hint: What do you need to succeed?
+      type: select_multiple
+      options:
+        - Time
+        - Money
+        - Training
+        - Equipment
+        - Support from Others
+        - Mentorship
+        - Technology
+        - Space
+        - Other
+      required: true
+    - id: 19
+      name: potential_obstacles
+      label: Potential Obstacles
+      hint: What might get in your way?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: obstacle_solutions
+      label: Solutions for Obstacles
+      hint: How will you overcome them?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: accountability_partner
+      label: Accountability Partner
+      hint: Who will help keep you on track?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: check_in_frequency
+      label: Check-In Frequency
+      hint: How often will you review progress?
+      type: select_one
+      options:
+        - Daily
+        - Weekly
+        - Bi-Weekly
+        - Monthly
+        - Quarterly
+      required: true
+    - id: 23
+      name: progress_tracking_method
+      label: Progress Tracking Method
+      hint: How will you track progress?
+      type: select_one
+      options:
+        - Journal
+        - App or Software
+        - Spreadsheet
+        - Calendar
+        - Visual Chart
+        - Other
+      required: false
+    - id: 24
+      name: reward_system
+      label: Reward System
+      hint: How will you celebrate progress?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: motivation_statement
+      label: Motivation Statement
+      hint: Why are you committed to this goal?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: start_date
+      label: Start Date
+      hint: When will you begin?
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: commitment_signature
+      label: Commitment Signature
+      hint: Type your name to commit
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: additional_goals
+      label: Additional Goals
+      hint: List any other goals
+      type: text
+      options: []
+      required: false

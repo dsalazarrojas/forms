@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Selection Ranking Survey
+    pages:
+    - id: 1
+      name: select_ranking
+      label: Select Ranking
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: member1
+      label: Select Member 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: member1_ranking
+      label: Ranking for Member 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: member2
+      label: Select Member 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: member2_ranking
+      label: Ranking for Member 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: member3
+      label: Select Member 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: member3_ranking
+      label: Ranking for Member 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_confirmation
+      label: Confirm Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Any Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nurse Shift Start Check In Form
+    pages:
+    - id: 1
+      name: shift_start_checkin
+      label: shift start checkin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: shift_start_checkin_form_date
+      label: shift_start_checkin_form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shift_start_checkin_form_time
+      label: shift_start_checkin_form_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shift_start_checkin_form_notes
+      label: shift_start_checkin_form_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: hospital
+      label: hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: team_leads
+      label: team_leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: checkin_time
+      label: checkin_time
+      hint: null
+      type: time
+      options: []
+      required: false

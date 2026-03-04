@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Knowledge Assessment
+    pages:
+      - id: 1
+        name: header
+        label: -- Knowledge Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Name of the person completing the assessment
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: role
+        label: Role
+        hint: Job title or position
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: industry_knowledge
+        label: Industry knowledge
+        hint: Rate expertise in the industry
+        type: select_one
+        options:
+          - Novice
+          - Intermediate
+          - Advanced
+          - Expert
+        required: true
+      - id: 5
+        name: financial_literacy
+        label: Financial literacy
+        hint: Rate understanding of financial concepts
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+        required: true
+      - id: 6
+        name: marketing_understanding
+        label: Marketing understanding
+        hint: Rate familiarity with marketing principles
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+        required: true
+      - id: 7
+        name: operations_skills
+        label: Operations skills
+        hint: Rate operational management skills
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+        required: true
+      - id: 8
+        name: development_needs
+        label: Development needs
+        hint: Areas for further training or support
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: recommended_resources
+        label: Recommended resources
+        hint: Suggest learning resources or tools
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: contact_email
+        label: Contact email
+        hint: For optional follow up on assessment results
+        type: email
+        options: []
+        required: false

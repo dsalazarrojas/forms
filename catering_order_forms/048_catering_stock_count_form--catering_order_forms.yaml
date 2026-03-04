@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Stock Count Form
+    pages:
+    - id: 1
+      name: counter_name
+      label: Counter Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: count_date
+      label: Count Date
+      hint: Date of count
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: count_time
+      label: Count Time
+      hint: Time of count
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: Where is the stock
+      type: select_one
+      options:
+      - Main Kitchen
+      - Satellite Kitchen
+      - Storage Room A
+      - Storage Room B
+      - Walk-in Cooler
+      - Freezer
+      - Bar Area
+      - Event Site
+      required: true
+    - id: 5
+      name: category
+      label: Category
+      hint: Type of items
+      type: select_one
+      options:
+      - Dry Goods
+      - Canned Goods
+      - Beverages
+      - Dairy
+      - Meat
+      - Produce
+      - Frozen Items
+      - Disposables
+      - Cleaning Supplies
+      - Equipment
+      required: true
+    - id: 6
+      name: item_name_1
+      label: Item Name 1
+      hint: First item
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: unit_1
+      label: Unit 1
+      hint: Unit of measure
+      type: select_one
+      options:
+      - Each
+      - Box
+      - Case
+      - Pound
+      - Kilogram
+      - Liter
+      - Gallon
+      required: false
+    - id: 8
+      name: quantity_1
+      label: Quantity 1
+      hint: Count on hand
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: par_level_1
+      label: Par Level 1
+      hint: Target quantity
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: item_name_2
+      label: Item Name 2
+      hint: Second item
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: unit_2
+      label: Unit 2
+      hint: Unit of measure
+      type: select_one
+      options:
+      - Each
+      - Box
+      - Case
+      - Pound
+      - Kilogram
+      - Liter
+      - Gallon
+      required: false
+    - id: 12
+      name: quantity_2
+      label: Quantity 2
+      hint: Count on hand
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: par_level_2
+      label: Par Level 2
+      hint: Target quantity
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: item_name_3
+      label: Item Name 3
+      hint: Third item
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: unit_3
+      label: Unit 3
+      hint: Unit of measure
+      type: select_one
+      options:
+      - Each
+      - Box
+      - Case
+      - Pound
+      - Kilogram
+      - Liter
+      - Gallon
+      required: false
+    - id: 16
+      name: quantity_3
+      label: Quantity 3
+      hint: Count on hand
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: par_level_3
+      label: Par Level 3
+      hint: Target quantity
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: item_name_4
+      label: Item Name 4
+      hint: Fourth item
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: unit_4
+      label: Unit 4
+      hint: Unit of measure
+      type: select_one
+      options:
+      - Each
+      - Box
+      - Case
+      - Pound
+      - Kilogram
+      - Liter
+      - Gallon
+      required: false
+    - id: 20
+      name: quantity_4
+      label: Quantity 4
+      hint: Count on hand
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: par_level_4
+      label: Par Level 4
+      hint: Target quantity
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: item_name_5
+      label: Item Name 5
+      hint: Fifth item
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: unit_5
+      label: Unit 5
+      hint: Unit of measure
+      type: select_one
+      options:
+      - Each
+      - Box
+      - Case
+      - Pound
+      - Kilogram
+      - Liter
+      - Gallon
+      required: false
+    - id: 24
+      name: quantity_5
+      label: Quantity 5
+      hint: Count on hand
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: par_level_5
+      label: Par Level 5
+      hint: Target quantity
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: items_below_par
+      label: Items Below Par Level
+      hint: List items needing reorder
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: expired_items
+      label: Expired Items Found
+      hint: List any expired items
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: damaged_items
+      label: Damaged Items Found
+      hint: List any damaged items
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: shortage_notes
+      label: Shortage Notes
+      hint: Any discrepancies
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: reorder_needed
+      label: Reorder Needed
+      hint: Is reorder required
+      type: select_one
+      options:
+      - Yes - Urgent
+      - Yes - Soon
+      - false
+      required: true
+    - id: 31
+      name: supervisor_notified
+      label: Supervisor Notified
+      hint: Has supervisor been informed
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

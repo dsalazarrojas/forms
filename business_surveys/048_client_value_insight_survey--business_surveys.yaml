@@ -1,0 +1,186 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Value Insight Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Client Value Assessment --
+      hint: Help us understand how we deliver value to your business
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: engagement_length
+      label: Engagement Duration with Us
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 5
+      name: value_perception
+      label: Perceived Value of Our Services
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - No value
+      required: true
+    - id: 6
+      name: business_impact
+      label: Impact on Your Business
+      hint: How has working with us affected your business?
+      type: select_one
+      options:
+      - Significant positive impact
+      - Moderate positive impact
+      - Some positive impact
+      - No measurable impact
+      - Negative impact
+      required: true
+    - id: 7
+      name: roi_realization
+      label: Return on Investment
+      hint: Have you realized ROI from our engagement?
+      type: select_one
+      options:
+      - Strong ROI
+      - Good ROI
+      - Modest ROI
+      - Minimal ROI
+      - Negative ROI
+      - Too early to tell
+      required: false
+    - id: 8
+      name: specific_benefits
+      label: Specific Benefits Received
+      hint: What tangible benefits have you experienced?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: measurable_outcomes
+      label: Measurable Outcomes or Metrics
+      hint: Numbers, percentages, or specific improvements
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: problem_solving
+      label: Problem-Solving Effectiveness
+      hint: How effective have we been at solving your problems?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: strategic_alignment
+      label: Alignment with Business Strategy
+      hint: How well do our services align with your strategy?
+      type: select_one
+      options:
+      - Excellent alignment
+      - Good alignment
+      - Fair alignment
+      - Poor alignment
+      - No alignment
+      required: true
+    - id: 12
+      name: competitive_advantage
+      label: Competitive Advantage Gained
+      hint: Have we helped you gain competitive advantage?
+      type: select_one
+      options:
+      - Significant advantage
+      - Moderate advantage
+      - Some advantage
+      - Minimal advantage
+      - No advantage
+      required: false
+    - id: 13
+      name: efficiency_improvement
+      label: Operational Efficiency Improvement
+      hint: Have we improved your operational efficiency?
+      type: select_one
+      options:
+      - Significant improvement
+      - Moderate improvement
+      - Some improvement
+      - No improvement
+      - Decreased efficiency
+      required: false
+    - id: 14
+      name: recommendations
+      label: Would You Recommend Us?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Uncertain
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 15
+      name: likelihood_expand
+      label: Likelihood to Expand Services with Us
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Uncertain
+      - Unlikely
+      - Very unlikely
+      required: false
+    - id: 16
+      name: improvement_areas
+      label: Areas for Value Improvement
+      hint: How could we deliver more value?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

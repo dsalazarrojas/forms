@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net Zero Building Partnership Registration
+    pages:
+    - id: 1
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: user_company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: partner_interests
+      label: What is your area of expertise?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sustainability'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Building Efficiency'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Energy Management'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Water Management'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Green Building'', ''value'': 5}'
+      - '{''id'': 6, ''label'': ''Green Infrastructure'', ''value'': 6}'
+      required: true
+    - id: 4
+      name: partner_organisation_details
+      label: What are the key details of your organization?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: partner_onboarding_requirements
+      label: What are the onboarding requirements of your partnership?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assigned_tools
+      label: What tools do you currently use?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Google Docs'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Excel'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Jotform'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Dropbox'', ''value'': 5}'
+      required: false
+    - id: 7
+      name: partner_agree
+      label: By clicking submit, I confirm I am the authorized representative of my
+        company and understand this partnership.
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Submit'', ''value'': 1}'
+      - Other
+      required: false
+    - id: 9
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

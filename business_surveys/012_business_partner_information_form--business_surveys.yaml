@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Information Form
+    pages:
+    - id: 1
+      name: section_company_info
+      label: -- Company Information --
+      type: note
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Official legal business name
+      type: text
+      required: true
+    - id: 3
+      name: company_type
+      label: Type of Business
+      hint: Business structure or category
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-Profit
+      - Other
+      required: true
+    - id: 4
+      name: years_in_business
+      label: Years in Business
+      hint: How long has the company been operating
+      type: number
+      required: true
+    - id: 5
+      name: primary_industry
+      label: Primary Industry
+      hint: Main business sector
+      type: text
+      required: true
+    - id: 6
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current employee count
+      type: number
+      required: false
+    - id: 7
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate yearly revenue
+      type: number
+      required: false
+    - id: 8
+      name: section_contact_info
+      label: -- Contact Information --
+      type: note
+      required: false
+    - id: 9
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Primary contact individual
+      type: text
+      required: true
+    - id: 10
+      name: contact_title
+      label: Title or Position
+      hint: Role of contact person
+      type: text
+      required: true
+    - id: 11
+      name: contact_email
+      label: Email Address
+      hint: Primary business email
+      type: email
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Phone Number
+      hint: Business phone number
+      type: text
+      required: true
+    - id: 13
+      name: business_address
+      label: Business Address
+      hint: Full street address
+      type: text
+      required: true
+    - id: 14
+      name: section_partnership_details
+      label: -- Partnership Details --
+      type: note
+      required: false
+    - id: 15
+      name: partnership_interest
+      label: Areas of Partnership Interest
+      hint: Select applicable areas
+      type: select_multiple
+      options:
+      - Vendor Relationships
+      - Technology Integration
+      - Co-Marketing
+      - Revenue Sharing
+      - Distribution
+      - Strategic Alliance
+      required: true
+    - id: 16
+      name: services_offered
+      label: Services or Products Offered
+      hint: Brief description of main offerings
+      type: text
+      required: true
+    - id: 17
+      name: target_market
+      label: Target Market or Client Base
+      hint: Who are your primary customers
+      type: text
+      required: false
+    - id: 18
+      name: geographic_reach
+      label: Geographic Service Area
+      hint: Regions served
+      type: text
+      required: false
+    - id: 19
+      name: partnership_expectations
+      label: Partnership Expectations
+      hint: What do you seek from partnership
+      type: text
+      required: false
+    - id: 20
+      name: reference_provided
+      label: Can You Provide Business References
+      hint: Company name and contact info
+      type: text
+      required: false

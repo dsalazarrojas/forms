@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Services Order Form Template
+    pages:
+    - id: 1
+      name: section_client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_event_info
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: guest_count
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_meal_selection
+      label: -- Meal Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: meal_option_1_description
+      label: Meal Option 1 - Description
+      hint: Dish name and details
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: meal_option_1_cost
+      label: Meal Option 1 - Cost Per Order
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: meal_option_1_quantity
+      label: Meal Option 1 - Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: meal_option_1_amount
+      label: Meal Option 1 - Amount
+      hint: Auto-calculated
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: meal_option_2_description
+      label: Meal Option 2 - Description
+      hint: Dish name and details
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: meal_option_2_cost
+      label: Meal Option 2 - Cost Per Order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: meal_option_2_quantity
+      label: Meal Option 2 - Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: meal_option_2_amount
+      label: Meal Option 2 - Amount
+      hint: Auto-calculated
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_billing
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: subtotal
+      label: Subtotal
+      hint: Sum of all meal amounts
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: tax_rate
+      label: Tax Rate (%)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: total_amount_due
+      label: Total Amount Due
+      hint: Subtotal plus tax
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      - PayPal
+      required: true
+    - id: 25
+      name: special_requests
+      label: Special Requests or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

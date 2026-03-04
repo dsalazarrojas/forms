@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Licensing Approval Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Licensing Approval --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: applicant_name
+        label: Applicant name
+        hint: Individual or business seeking license
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: business_name
+        label: Business name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: license_type
+        label: License type
+        hint: Category of license applied for
+        type: select_one
+        options:
+          - New license
+          - Renewal
+          - Amendment
+        required: true
+      - id: 5
+        name: application_date
+        label: Application date
+        hint: Date of submission
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: supporting_documents
+        label: Supporting documents
+        hint: Indicate documents submitted
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: approver_name
+        label: Approver name
+        hint: Name of the official approving the license
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: approval_status
+        label: Approval status
+        hint: Current status of the request
+        type: select_one
+        options:
+          - Approved
+          - Denied
+          - Pending
+        required: true
+      - id: 9
+        name: comments
+        label: Comments
+        hint: Any notes from the reviewer
+        type: text
+        options: []
+        required: false

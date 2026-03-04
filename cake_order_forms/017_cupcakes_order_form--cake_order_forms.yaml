@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cupcakes Order Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information_delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_information_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: intended_amount
+      label: Intended Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: flavours
+      label: Flavours
+      hint: null
+      type: select_multiple
+      options:
+      - Vanilla
+      - Chocolate
+      - Strawberry
+      - Red Velvet
+      - Carrot
+      required: false
+    - id: 6
+      name: further_comments
+      label: Further Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_information_email
+      label: E-Mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_information_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Feature Adoption Feedback Questionnaire
+    pages:
+    - id: 1
+      name: new_feature_adoption_feedback_questionnaire_1
+      label: new_feature_adoption_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feature_name
+      label: feature_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: how_did_you_learn_about
+      label: how_did_you_learn_about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: what_problem_solved
+      label: what_problem_solved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_feature_usage_experience
+      label: new_feature_usage_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: would_you_use_feature_again
+      label: would_you_use_feature_again
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Unsure''}'
+      required: false
+    - id: 8
+      name: what_features_do_you_want_to_see_added
+      label: what_features_do_you_want_to_see_added
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Feature 1''}'
+      - '{''label'': ''Feature 2''}'
+      - '{''label'': ''Feature 3''}'
+      - '{''label'': ''Feature 4''}'
+      - '{''label'': ''Feature 5''}'
+      required: false
+    - id: 9
+      name: feature_request
+      label: feature_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

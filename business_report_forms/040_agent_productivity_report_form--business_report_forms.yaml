@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Productivity Report Form
+    pages:
+    - id: 1
+      name: report_header
+      label: -- Productivity Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent name
+      hint: Name of the reporting agent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report date
+      hint: Date of this productivity report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: hours_worked
+      label: Hours worked
+      hint: Number of hours worked during period
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: tasks_completed
+      label: Tasks completed
+      hint: Short summary of completed tasks
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sales_closed
+      label: Sales closed number
+      hint: Count of sales closed in period
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: leads_contacted
+      label: Leads contacted
+      hint: Number of leads contacted
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: blockers
+      label: Blockers or issues
+      hint: Anything preventing productivity
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_period_goals
+      label: Next period goals
+      hint: Objectives for the next reporting period
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_comments
+      label: Manager comments
+      hint: For manager review and notes
+      type: text
+      options: []
+      required: false

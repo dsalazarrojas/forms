@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Staff Retention Insight Survey
+    pages:
+    - id: 1
+      name: staff_satisfaction
+      label: Staff Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_staying
+      label: Reasons For Staying
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_leaving
+      label: Reasons For Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_retention_ideas
+      label: Staff Retention Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions_for_improvement
+      label: Suggestions For Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_support
+      label: Manager Support
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 7
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: work_life_balance
+      label: Work Life Balance
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Specification Review Report Form
+    pages:
+    - id: 1
+      name: product_specification_review_report_form
+      label: product_specification_review_report_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: issue_capture
+      label: issue_capture
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_recommendations
+      label: improvement_recommendations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: product_compliance
+      label: product_compliance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: issue_capture_notes
+      label: issue_capture_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: improvement_recommendations_details
+      label: improvement_recommendations_details
+      hint: null
+      type: select_multiple
+      options:
+      - Design
+      - Functionality
+      - Performance
+      - Security
+      required: true
+    - id: 7
+      name: product_compliance_notes
+      label: product_compliance_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_reviewed
+      label: date_reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_reviewed
+      label: time_reviewed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 11
+      name: issue_status
+      label: issue_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      - Closed
+      required: true
+    - id: 12
+      name: product_status
+      label: product_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: issue_capture_date
+      label: issue_capture_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: issue_capture_time
+      label: issue_capture_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: issue_capture_status
+      label: issue_capture_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Resolved
+      - Closed
+      required: true
+    - id: 19
+      name: product_capture_status
+      label: product_capture_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email_capture
+      label: email_capture
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: phone_capture
+      label: phone_capture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: product_capture_date
+      label: product_capture_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: product_capture_time
+      label: product_capture_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: issue_capture_notes_capture_date
+      label: issue_capture_notes_capture_date
+      hint: null
+      type: date
+      options: []
+      required: false

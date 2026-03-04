@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Precision Tools Feedback Survey
+    pages:
+    - id: 1
+      name: feedback
+      label: feedback_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experience_rating
+      label: experience_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tool_usefulness
+      label: how_useful_do_the_tools_feel
+      hint: null
+      type: select_multiple
+      options:
+      - Highly useful
+      - Somewhat useful
+      - Not useful at all
+      required: false
+    - id: 4
+      name: suggest_improvement
+      label: suggest_improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: open_issues
+      label: open_issued
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: feedback_email
+      label: feedback_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: feedback_subject
+      label: feedback_subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_description
+      label: feedback_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tool_used
+      label: what_tool_used
+      hint: null
+      type: select_one
+      options:
+      - Precision Tool 1
+      - Precision Tool 2
+      - Precision Tool 3
+      required: false
+    - id: 12
+      name: tool_used_other
+      label: tool_used_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: feedback_date
+      label: feedback_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: feedback_time
+      label: feedback_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Chat Jimmy
+      - Chat Bob
+      - Chat Alice
+      required: false
+    - id: 17
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tool_type
+      label: tool_type
+      hint: null
+      type: select_one
+      options:
+      - General Tools
+      - Data Analysis
+      - Machine Learning
+      required: false

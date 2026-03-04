@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Preparation Checklist Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organizer_details
+      label: Organizer Details
+      hint: Provide the organizer's contact information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: location_details
+      label: Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_schedule
+      label: Event Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: venue_details
+      label: Venue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: emergency_details
+      label: Emergency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: first_aid_details
+      label: First Aid Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: security_info
+      label: Security Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      required: false
+    - id: 16
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Sports
+      - Non-Sports
+      required: false
+    - id: 17
+      name: participant_age_groups
+      label: Participant Age Groups
+      hint: null
+      type: select_multiple
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 66+
+      required: false
+    - id: 18
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 19
+      name: participant_number
+      label: Participant Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: staff_details
+      label: Staff Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: staff_number
+      label: Staff Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: event_budget
+      label: Event Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: event_fees
+      label: Event Fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: venue_cost
+      label: Venue Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: participant_fees
+      label: Participant Fees
+      hint: null
+      type: number
+      options: []
+      required: false

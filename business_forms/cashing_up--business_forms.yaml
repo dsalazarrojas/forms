@@ -1,0 +1,203 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: Cashing^up Account Registration
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Your Full Name
+      hint: As it appears on official identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for age verification and compliance
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Used for account verification and important communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Provide a valid contact number (e.g., +15551234567)
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: section_financial_profile
+      label: '--- Your Financial Profile & Goals ---'
+      hint: This information helps Cashing^up tailor personalized guidance
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed
+      - Unemployed
+      - Student
+      - Retired
+      - Other
+      required: true
+    - id: 8
+      name: annual_income_range
+      label: Approximate Annual Income Range
+      hint: Select the range that best describes your gross annual income
+      type: select_one
+      options:
+      - Below $30,000
+      - $30,000 - $60,000
+      - $60,001 - $100,000
+      - $100,001 - $200,000
+      - Above $200,000
+      required: false
+    - id: 9
+      name: primary_financial_goal
+      label: What is your primary financial goal with Cashing^up?
+      hint: Select the most important one you want to achieve
+      type: select_one
+      options:
+      - Build Savings
+      - Reduce Debt
+      - Start Investing
+      - Manage Budget Better
+      - Plan for Retirement
+      - Grow Wealth
+      required: true
+    - id: 10
+      name: areas_of_interest
+      label: Which financial topics interest you most? (select all that apply)
+      hint: Choose topics you'd like to learn more about
+      type: select_multiple
+      options:
+      - Budgeting & Spending
+      - Investing & Wealth Growth
+      - Debt Management
+      - Savings Strategies
+      - Credit Score Improvement
+      - Retirement Planning
+      - Real Estate & Mortgages
+      required: false
+    - id: 11
+      name: section_preferences_consent
+      label: '--- Service Preferences & Consent ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: how_heard_about_us
+      label: How did you hear about Cashing^up?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Friend or Family Referral
+      - Online Advertisement
+      - Search Engine (Google, Bing)
+      - News/Article/Blog
+      - Podcast
+      - Other
+      required: false
+    - id: 13
+      name: agree_to_terms
+      label: I agree to the Cashing^up Terms & Conditions and Privacy Policy.
+      hint: You must agree to these terms to create an account.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: marketing_opt_in
+      label: I would like to receive marketing communications and special offers from
+        Cashing^up.
+      hint: You can unsubscribe at any time.
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: section_initial_feedback
+      label: '--- Initial Feedback (Optional) ---'
+      hint: Your feedback helps us improve your Cashing^up experience!
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: signup_satisfaction
+      label: How satisfied are you with the Cashing^up signup process?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 17
+      name: initial_experience_aspects
+      label: Which aspects applied to your initial experience with Cashing^up? (select
+        all)
+      hint: null
+      type: select_multiple
+      options:
+      - Easy to understand
+      - Clear instructions
+      - Fast and efficient
+      - Well designed interface
+      - Felt confusing
+      - Encountered technical issue
+      - Secure and trustworthy
+      required: false
+    - id: 18
+      name: improvement_suggestions
+      label: What would you improve or change about Cashing^up's initial experience?
+      hint: Please be specific. Your suggestions are valuable.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Any additional comments or questions for us?
+      hint: null
+      type: text
+      options: []
+      required: false

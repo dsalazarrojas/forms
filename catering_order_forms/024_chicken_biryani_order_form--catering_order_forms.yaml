@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chicken Biryani Order Form
+    pages:
+    - id: 1
+      name: order_intro
+      label: -- Chicken Biryani Order Form --
+      hint: Order delicious chicken biryani for delivery or pickup
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: Preferred delivery date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: delivery_time
+      label: Preferred delivery time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: biryani_type
+      label: Type of chicken biryani
+      hint: null
+      type: select_one
+      options:
+      - Hyderabadi biryani
+      - Lucknowi biryani
+      - Kolkata biryani
+      - Sindhi biryani
+      - Dum pukht biryani
+      - Mixed biryani
+      required: true
+    - id: 8
+      name: spice_level
+      label: Spice level preference
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Medium
+      - Hot
+      - Very hot
+      - Extra hot
+      required: true
+    - id: 9
+      name: quantity_plates
+      label: Number of biryani plates
+      hint: Each plate serves 1 person
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: plate_size
+      label: Plate size
+      hint: null
+      type: select_one
+      options:
+      - Regular
+      - Medium
+      - Large
+      - Extra large
+      required: true
+    - id: 11
+      name: add_on_items
+      label: Add-on items
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Raita (yogurt)
+      - Pickle (achaar)
+      - Salad
+      - Pappad (wafers)
+      - Naan bread
+      - Roti
+      - Dessert
+      - Beverages
+      - None
+      required: false
+    - id: 12
+      name: beverage_choice
+      label: Beverage choice
+      hint: null
+      type: select_one
+      options:
+      - Water
+      - Soft drink
+      - Iced tea
+      - Mango lassi
+      - Sweet lassi
+      - No beverage
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary restrictions or allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_requests
+      label: Special requests or preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_address
+      label: Delivery address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: postal_code
+      label: Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: delivery_option
+      label: Delivery option
+      hint: null
+      type: select_one
+      options:
+      - Home delivery
+      - Restaurant pickup
+      - Office delivery
+      required: true
+    - id: 19
+      name: order_total
+      label: Estimated order total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_one
+      options:
+      - Cash on delivery
+      - Credit card
+      - Debit card
+      - Mobile payment
+      - Bank transfer
+      required: true
+    - id: 21
+      name: terms_acceptance
+      label: I agree to the cancellation and delivery policies
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

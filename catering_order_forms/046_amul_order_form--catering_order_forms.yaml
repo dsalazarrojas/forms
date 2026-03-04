@@ -1,0 +1,476 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amul Order Form
+    pages:
+    - id: 1
+      name: section_order_info
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: order_number
+      label: Order Number
+      hint: For office use
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: Individual or business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_type
+      label: Customer Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Retailer
+      - Restaurant
+      - Hotel
+      - Institution
+      - Distributor
+      - Other
+      required: true
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_delivery_info
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: delivery_address
+      label: Delivery Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: delivery_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: delivery_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: delivery_zip
+      label: ZIP/PIN Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: delivery_time
+      label: Preferred Delivery Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (6am-12pm)
+      - Afternoon (12pm-6pm)
+      - Evening (6pm-10pm)
+      - Any time
+      required: false
+    - id: 17
+      name: section_dairy_products
+      label: -- Milk Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: milk_type
+      label: Milk Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Full cream milk
+      - Toned milk
+      - Skimmed milk
+      - Flavored milk
+      - Butter milk
+      - None
+      required: false
+    - id: 19
+      name: milk_quantity
+      label: Milk Quantity
+      hint: In liters
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: section_butter_ghee
+      label: -- Butter and Ghee --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: butter_type
+      label: Butter Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Salted butter
+      - Unsalted butter
+      - White butter
+      - Flavored butter
+      - None
+      required: false
+    - id: 22
+      name: butter_quantity
+      label: Butter Quantity
+      hint: In kilograms
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: ghee_type
+      label: Ghee Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Pure ghee
+      - Flavored ghee
+      - None
+      required: false
+    - id: 24
+      name: ghee_quantity
+      label: Ghee Quantity
+      hint: In liters/kg
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: section_cheese
+      label: -- Cheese Products --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: cheese_type
+      label: Cheese Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Processed cheese
+      - Mozzarella
+      - Cheddar
+      - Cheese slices
+      - Cheese cubes
+      - Paneer
+      - None
+      required: false
+    - id: 27
+      name: cheese_quantity
+      label: Cheese Quantity
+      hint: In kilograms
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: section_ice_cream
+      label: -- Ice Cream --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: ice_cream_flavors
+      label: Ice Cream Flavors
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vanilla
+      - Chocolate
+      - Strawberry
+      - Butterscotch
+      - Kesar pista
+      - Mango
+      - Chocolate chip
+      - Mixed fruit
+      - None
+      required: false
+    - id: 30
+      name: ice_cream_pack_size
+      label: Pack Size
+      hint: null
+      type: select_one
+      options:
+      - Small (500ml)
+      - Medium (1L)
+      - Large (2L)
+      - Family pack
+      - Mixed packs
+      required: false
+    - id: 31
+      name: ice_cream_quantity
+      label: Ice Cream Quantity
+      hint: Number of packs
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: section_yogurt
+      label: -- Yogurt/Curd --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: yogurt_type
+      label: Yogurt Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Plain curd
+      - Flavored yogurt
+      - Greek yogurt
+      - Lassi
+      - Shrikhand
+      - None
+      required: false
+    - id: 34
+      name: yogurt_quantity
+      label: Yogurt Quantity
+      hint: In kilograms/liters
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: section_chocolate
+      label: -- Chocolate --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: chocolate_type
+      label: Chocolate Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Milk chocolate
+      - Dark chocolate
+      - White chocolate
+      - Chocolate bars
+      - Chocolate treats
+      - None
+      required: false
+    - id: 37
+      name: chocolate_quantity
+      label: Chocolate Quantity
+      hint: Number of packs
+      type: number
+      options: []
+      required: false
+    - id: 38
+      name: section_order_summary
+      label: -- Order Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: total_items
+      label: Total Number of Items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 40
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash on delivery
+      - Credit/Debit card
+      - UPI
+      - Bank transfer
+      - Credit account
+      - Other
+      required: true
+    - id: 43
+      name: payment_terms
+      label: Payment Terms
+      hint: If credit account
+      type: select_one
+      options:
+      - Immediate
+      - 7 days
+      - 15 days
+      - 30 days
+      - Not applicable
+      required: false
+    - id: 44
+      name: section_pricing
+      label: -- Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: estimated_total
+      label: Estimated Order Total
+      hint: In currency
+      type: number
+      options: []
+      required: false
+    - id: 46
+      name: discount_applicable
+      label: Is Discount Applicable
+      hint: Bulk order discount
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 47
+      name: discount_percentage
+      label: Discount Percentage
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 48
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: previous_customer
+      label: Are You a Previous Customer
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 50
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Advertisement
+      - Referral
+      - Previous experience
+      - Social media
+      - Website
+      - Other
+      required: false
+    - id: 51
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 52
+      name: section_confirmation
+      label: -- Order Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 53
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the terms
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - Other
+      required: true
+    - id: 54
+      name: customer_signature
+      label: Customer Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 55
+      name: order_status
+      label: Order Status
+      hint: For office use
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Processing
+      - Delivered
+      - Cancelled
+      required: false

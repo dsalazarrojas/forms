@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Control Release Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date_1
+      label: Inspection Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date_2
+      label: Inspection Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: product_or_batch_id_1
+      label: Product or Batch ID 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_or_batch_id_2
+      label: Product or Batch ID 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: results_1
+      label: Results 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: results_2
+      label: Results 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: release_decision_1
+      label: Release Decision 1 minimalist
+      hint: null
+      type: select_one
+      options:
+      - Release Decision 1
+      - Release prophets
+      - Release
+      - Release Decision
+      required: false
+    - id: 9
+      name: release_decision_2
+      label: Release Decision 2
+      hint: null
+      type: select_one
+      options:
+      - Release Decision 2
+      - Release prophets
+      - Release
+      - Release Decision 2
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: email_1
+      label: Email 1
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: email_2
+      label: Email 2
+      hint: null
+      type: email
+      options: []
+      required: false

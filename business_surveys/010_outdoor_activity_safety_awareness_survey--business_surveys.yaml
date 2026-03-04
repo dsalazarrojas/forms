@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Activity Safety Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: activity_frequency
+      label: activity_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: safety_equipment_used
+      label: safety_equipment_used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: emergency_training
+      label: emergency_training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: outdoor_habits
+      label: outdoor_habits
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: first_prophets
+      label: first_prophets
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: last_prophet
+      label: last_prophet
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

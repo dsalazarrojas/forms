@@ -1,0 +1,180 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 360 Feedback Orchard Hill Church
+    pages:
+    - id: 1
+      name: section_header_participant_info
+      label: '--- Participant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Must be a valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional, for follow‑up
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Your role at Orchard Hill Church
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Pastor
+      - Staff
+      - Volunteer
+      - Member
+      - Guest
+      required: true
+    - id: 6
+      name: tenure_years
+      label: Years with the church
+      hint: Enter full years only
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: date_of_last_visit
+      label: Date of your most recent visit
+      hint: Leave blank if not applicable
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: section_header_experience_ratings
+      label: '--- Experience Ratings ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: satisfaction
+      label: How satisfied are you with 360 Feedback Orchard Hill Church?
+      hint: Select one
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 10
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: user_experience_rating
+      label: User experience rating (1-10)
+      hint: 1 = poor, 10 = excellent
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: support_rating
+      label: Support responsiveness rating (1-10)
+      hint: 1 = slow, 10 = prompt
+      type: integer
+      options: []
+      required: false
+    - id: 13
+      name: section_header_feature_usage
+      label: '--- Feature Usage ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: best_aspects
+      label: Best aspects of 360 Feedback Orchard Hill Church (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Great support
+      - Good value
+      - Feature-rich
+      required: false
+    - id: 15
+      name: feature_usage_select_multiple
+      label: Which features do you use most frequently? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Sermon Slides
+      - Audio/Video Streaming
+      - Donation Tracking
+      - Event Calendar
+      - Member Directory
+      - Volunteer Scheduling
+      required: false
+    - id: 16
+      name: section_header_feedback
+      label: '--- Feedback & Recommendations ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: areas_to_improve
+      label: What would you improve about 360 Feedback Orchard Hill Church?
+      hint: Be specific
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: would_recommend
+      label: Would you recommend us?
+      hint: Select one
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not sure
+      - Probably not
+      - false
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other thoughts
+      type: text
+      options: []
+      required: false

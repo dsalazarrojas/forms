@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Schedule Survey
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: session_attended
+      label: Which session did you attend most recently?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_rating
+      label: How would you rate the content of this session?
+      hint: 1 being poor, 5 being excellent
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: schedule_convenience
+      label: Was the session time slot convenient for you?
+      hint: null
+      type: select_one
+      options:
+      - Very Convenient
+      - Somewhat Convenient
+      - Neutral
+      - Somewhat Inconvenient
+      - Very Inconvenient
+      required: true
+    - id: 5
+      name: preferred_time_slots
+      label: Preferred Time Slots for Future Sessions
+      hint: Select your most productive times
+      type: select_multiple
+      options:
+      - Early Morning (8am - 10am)
+      - Late Morning (10am - 12pm)
+      - Early Afternoon (1pm - 3pm)
+      - Late Afternoon (3pm - 5pm)
+      - Evening (6pm - 8pm)
+      required: true
+    - id: 6
+      name: speaker_feedback
+      label: Feedback on the Speaker Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pace_of_session
+      label: How was the pace of the session?
+      hint: null
+      type: select_one
+      options:
+      - Too Fast
+      - Just Right
+      - Too Slow
+      required: true
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction with the Conference Schedule
+      hint: null
+      type: select_one
+      options:
+      - Extremely Satisfied
+      - Satisfied
+      - Dissatisfied
+      - Extremely Dissatisfied
+      required: true
+    - id: 9
+      name: improvements_suggestion
+      label: What improvements would you suggest for the next conference schedule?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_permission
+      label: May we contact you for further details on your feedback?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

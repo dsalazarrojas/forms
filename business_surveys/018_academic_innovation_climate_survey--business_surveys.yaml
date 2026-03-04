@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Innovation Climate Survey
+    pages:
+    - id: 1
+      name: section_demographics
+      label: -- Respondent Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Respondent role
+      hint: Select your role
+      type: select_one
+      options:
+      - Faculty
+      - Student
+      - Staff
+      - Administrator
+      - External partner
+      required: true
+    - id: 3
+      name: years_at_institution
+      label: Years at institution
+      hint: Approximate years of service or study
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: innovation_support_rating
+      label: Institutional support for innovation
+      hint: Rate support for innovative practice
+      type: select_one
+      options:
+      - Very strong
+      - Strong
+      - Moderate
+      - Weak
+      - Very weak
+      required: true
+    - id: 5
+      name: barriers_to_innovation
+      label: Key barriers to innovation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Funding constraints
+      - Lack of time
+      - Administrative burden
+      - Lack of incentives
+      - Cultural resistance
+      required: false
+    - id: 6
+      name: successful_innovation_examples
+      label: Examples of successful innovation
+      hint: Briefly describe notable successes
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: professional_development_needs
+      label: Professional development needs
+      hint: Areas where training would help innovation
+      type: select_multiple
+      options:
+      - Design thinking
+      - Project management
+      - Data skills
+      - Teaching innovation
+      - Leadership training
+      required: false
+    - id: 8
+      name: resource_priorities
+      label: Resource priorities to improve innovation
+      hint: Choose up to three
+      type: select_multiple
+      options:
+      - Seed funding
+      - Staff time
+      - Technical support
+      - Collaboration spaces
+      - Recognition and awards
+      required: false
+    - id: 9
+      name: commitment_to_change
+      label: Commitment to implement changes
+      hint: Likelihood to participate in improvement activities
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: false
+    - id: 10
+      name: additional_feedback
+      label: Additional feedback
+      hint: Any other comments on innovation climate
+      type: text
+      options: []
+      required: false

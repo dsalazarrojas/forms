@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Journalism Participation Survey
+    pages:
+    - id: 1
+      name: journalism_intro
+      label: -- Civic Journalism Interest Survey --
+      hint: Help us understand how you engage with local news and community reporting
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: local_news_consumption
+      label: How often do you follow local community news?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 3
+      name: primary_news_source
+      label: What is your primary source for local information?
+      hint: null
+      type: select_one
+      options:
+      - Local Newspaper (Print or Online)
+      - Social Media (Facebook, Twitter, etc.)
+      - Community Blogs/Forums
+      - Local Radio or TV
+      - Word of Mouth/Neighbors
+      required: true
+    - id: 4
+      name: media_trust_level
+      label: How much do you trust local media outlets?
+      hint: 1 = No trust, 5 = High trust
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contribution_interest_header
+      label: -- Participation and Contributions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: interest_in_contributing
+      label: Would you be interested in contributing to local journalism?
+      hint: null
+      type: select_one
+      options:
+      - Yes, as a regular contributor
+      - Yes, occasionally (citizen reporter)
+      - Maybe (need more info)
+      - No interest
+      required: true
+    - id: 7
+      name: contribution_types
+      label: What types of content would you be willing to provide?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Community Event Reports
+      - Photography of Local Issues
+      - Opinion/Editorial Pieces
+      - Investigative Tips
+      - Video Footage of Public Meetings
+      required: false
+    - id: 8
+      name: news_topic_preferences
+      label: Which topics are most important for local coverage?
+      hint: null
+      type: select_multiple
+      options:
+      - Local Government and Policy
+      - Public Education
+      - Crime and Safety
+      - Arts and Culture
+      - Environment and Sustainability
+      - Real Estate and Development
+      required: true
+    - id: 9
+      name: attendance_public_meetings
+      label: How many public meetings (e.g., city council) have you attended in the
+        last year?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: civic_tech_usage
+      label: Do you use apps (like Nextdoor or SeeClickFix) to report community issues?
+      hint: null
+      type: select_one
+      options:
+      - Yes, frequently
+      - Yes, occasionally
+      - false
+      required: true
+    - id: 11
+      name: barrier_to_journalism
+      label: What is the main barrier to more residents participating in local news?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: interest_in_training
+      label: Would you attend a workshop on citizen journalism and ethics?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: false
+    - id: 13
+      name: demographics_age
+      label: Your Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-29
+      - 30-49
+      - 50-64
+      - 65 plus
+      required: false
+    - id: 14
+      name: contact_for_interviews
+      label: May a reporter contact you for follow-up questions?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: email_for_contact
+      label: Your Email (Optional)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: survey_completion_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

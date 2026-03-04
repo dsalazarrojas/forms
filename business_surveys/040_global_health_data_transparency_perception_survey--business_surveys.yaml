@@ -1,0 +1,99 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: global_health_data_transparency_perception_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trust
+      label: Trust
+      hint: null
+      type: select_one
+      options:
+      - Trust
+      - Somewhat trust
+      - Not very much trust
+      - Not at all trust
+      required: true
+    - id: 3
+      name: data_sharing_willingness
+      label: Data Sharing Willingness
+      hint: null
+      type: select_one
+      options:
+      - Very willing
+      - Somewhat willing
+      - Somewhat unwilling
+      - Not very willing
+      - Not at all willing
+      required: true
+    - id: 4
+      name: data_sharing_concerns
+      label: Data Sharing Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of data quality
+      - Data not shared on time
+      - Lack of standardization
+      - Data is not secure
+      - Lack of transparency
+      required: true
+    - id: 5
+      name: privacy_and_security
+      label: Privacy and Security
+      hint: null
+      type: select_multiple
+      options:
+      - Data not protected
+      - Data shared without consent
+      - Information leaked
+      required: false
+    - id: 6
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Inadequate communication
+      - Communication not clear
+      - Information not shared
+      required: false
+    - id: 7
+      name: global_health_data_transparency
+      label: Global Health Data Transparency
+      hint: null
+      type: select_multiple
+      options:
+      - Transparency in data collection
+      - Transparency in data storage
+      - Transparency in data analysis
+      - Transparency in data sharing
+      required: true
+    - id: 8
+      name: data_quality
+      label: Data Quality
+      hint: null
+      type: select_multiple
+      options:
+      - High quality
+      - Medium quality
+      - Low quality
+      required: false

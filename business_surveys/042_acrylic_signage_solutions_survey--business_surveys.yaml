@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acrylic Signage Solutions Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role_in_company
+      label: Role in company
+      hint: Facilities manager, designer, or buyer
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signage_use_cases
+      label: Signage use cases
+      hint: Select primary use cases
+      type: select_multiple
+      options:
+      - Wayfinding
+      - Branding
+      - Safety signage
+      - Promotional displays
+      required: true
+    - id: 5
+      name: satisfaction_with_durability
+      label: Satisfaction with durability
+      hint: Rate how durable solutions are
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 6
+      name: installation_experience
+      label: Installation experience
+      hint: Complexity of installation process
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Difficult
+      required: false
+    - id: 7
+      name: preferred_finish_options
+      label: Preferred finish options
+      hint: Surface or finish preferences
+      type: select_multiple
+      options:
+      - Gloss
+      - Matte
+      - Frosted
+      - Textured
+      required: false
+    - id: 8
+      name: typical_order_volume
+      label: Typical order volume
+      hint: Estimate of signage quantities ordered
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: sustainability_concerns
+      label: Sustainability concerns
+      hint: Priority of sustainable materials
+      type: select_one
+      options:
+      - High priority
+      - Medium priority
+      - Low priority
+      required: false
+    - id: 10
+      name: suggestions_for_product_improvement
+      label: Suggestions for product improvement
+      hint: Ideas to enhance acrylic signage offerings
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback about signage solutions
+      type: text
+      options: []
+      required: false

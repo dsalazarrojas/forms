@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Gender Neutrality Survey
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Salon Inclusivity Survey --
+      hint: Your feedback helps us create a more welcoming environment for everyone
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gender_identity
+      label: How do you identify your gender?
+      hint: Optional field
+      type: select_one
+      options:
+      - Man
+      - Woman
+      - Non-binary
+      - Genderfluid
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 3
+      name: comfort_level_atmosphere
+      label: How comfortable do you feel in our salon's current atmosphere?
+      hint: 1 being very uncomfortable, 5 being very comfortable
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: gender_neutral_pricing
+      label: How important is gender-neutral pricing to you?
+      hint: Pricing based on service/length rather than gender
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Neutral
+      - Not Important
+      required: true
+    - id: 5
+      name: inclusivity_perception
+      label: Do you feel our marketing and signage are inclusive?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - false
+      - I have not noticed
+      required: true
+    - id: 6
+      name: restroom_access
+      label: How would you rate the accessibility of our restrooms for all genders?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - N/A
+      required: false
+    - id: 7
+      name: staff_interactions
+      label: Have you ever felt gender-based bias during a consultation or service?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: true
+    - id: 8
+      name: preferred_pronouns_usage
+      label: Does our staff consistently use your preferred pronouns?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Sometimes
+      - false
+      - I have not specified pronouns
+      required: false
+    - id: 9
+      name: specific_feedback
+      label: Please share any specific experiences or suggestions for improvement
+      hint: We value your honest feedback
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: anonymous_submission
+      label: Would you like this feedback to remain anonymous?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

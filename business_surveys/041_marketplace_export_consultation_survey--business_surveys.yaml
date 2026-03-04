@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: marketplace_export_consultation_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How do you want to start this survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_size
+      label: What is the size of your business?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: export_products
+      label: What export products do you offer?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: export_services
+      label: What export services do you offer?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: resource_accessibility
+      label: How easily do you think customers will access your products or services?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: export_readiness
+      label: Are you ready for international markets?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: export_challenges
+      label: What export challenges do you face?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: export_readiness
+      label: Are you ready for international markets?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: export_services_2
+      label: What export services do you offer?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: export_challenges_2
+      label: What export challenges do you face?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: export_planning
+      label: export plannig
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: export_planning_2
+      label: export planning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

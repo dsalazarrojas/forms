@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Model Canvas Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Name of person completing survey
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_role
+      label: Your Role in the Business
+      hint: Your position or title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Name of the business being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: stakeholder_type
+      label: Stakeholder Type
+      hint: What is your relationship to the business?
+      type: select_one
+      options:
+      - Founder/Owner
+      - Employee
+      - Investor
+      - Partner
+      - Customer
+      - Advisor
+      - Other
+      required: true
+    - id: 5
+      name: value_proposition
+      label: Value Proposition Clarity
+      hint: How clear is the value proposition to customers?
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 6
+      name: customer_segments
+      label: Customer Segments Understanding
+      hint: How well-defined are customer segments?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - Needs Work
+      required: true
+    - id: 7
+      name: revenue_streams
+      label: Revenue Streams Identified
+      hint: How many revenue streams do you have?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: revenue_viability
+      label: Revenue Stream Viability
+      hint: Are revenue streams sustainable?
+      type: select_one
+      options:
+      - Highly Viable
+      - Viable
+      - Moderately Viable
+      - Questionable
+      - Not Viable
+      required: true
+    - id: 9
+      name: key_resources
+      label: Key Resources Required
+      hint: What resources are critical?
+      type: select_multiple
+      options:
+      - Financial Capital
+      - Human Resources
+      - Technology
+      - Intellectual Property
+      - Physical Assets
+      - Brand
+      required: true
+    - id: 10
+      name: key_activities
+      label: Key Activities Complexity
+      hint: How complex are core activities?
+      type: select_one
+      options:
+      - Very Simple
+      - Simple
+      - Moderate
+      - Complex
+      - Very Complex
+      required: true
+    - id: 11
+      name: key_partnerships
+      label: Key Partnerships Strength
+      hint: Are partnerships strong and stable?
+      type: select_one
+      options:
+      - Very Strong
+      - Strong
+      - Adequate
+      - Weak
+      - No Partnerships
+      required: false
+    - id: 12
+      name: cost_structure
+      label: Cost Structure Efficiency
+      hint: Are operational costs under control?
+      type: select_one
+      options:
+      - Very Efficient
+      - Efficient
+      - Acceptable
+      - Needs Improvement
+      - Very Inefficient
+      required: true
+    - id: 13
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: What differentiates you from competitors?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: market_position
+      label: Market Position Assessment
+      hint: How strong is your market position?
+      type: select_one
+      options:
+      - Market Leader
+      - Strong Position
+      - Competitive
+      - Emerging
+      - At Risk
+      required: true
+    - id: 15
+      name: growth_potential
+      label: Growth Potential
+      hint: What is the potential for growth?
+      type: select_one
+      options:
+      - Excellent
+      - Strong
+      - Good
+      - Limited
+      - Minimal
+      required: true
+    - id: 16
+      name: improvement_areas
+      label: Areas Needing Improvement
+      hint: What should be addressed?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: strategic_recommendations
+      label: Strategic Recommendations
+      hint: Your suggestions for improvement
+      type: text
+      options: []
+      required: false

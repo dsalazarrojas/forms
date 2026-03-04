@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tandem Nutrition Weekly Check In Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nutrition_info
+      label: nutrition_info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: weekly_check_in
+      label: weekly_check_in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_input
+      label: time_input
+      hint: null
+      type: time
+      options: []
+      required: false

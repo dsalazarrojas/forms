@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Structure Election Form
+    pages:
+    - id: 1
+      name: section_entity_info
+      label: -- Entity Information --
+      type: note
+      required: false
+    - id: 2
+      name: entity_name
+      label: Entity Name
+      hint: Legal name of the business
+      type: text
+      required: true
+    - id: 3
+      name: entity_id_number
+      label: Entity ID Number
+      hint: EIN or business registration number
+      type: text
+      required: true
+    - id: 4
+      name: entity_type_current
+      label: Current Entity Type
+      hint: Present structure
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - S-Corporation
+      - C-Corporation
+      - LLC
+      - Other
+      required: true
+    - id: 5
+      name: entity_formation_date
+      label: Entity Formation Date
+      hint: When was the entity formed
+      type: date
+      required: true
+    - id: 6
+      name: section_contact_info
+      label: -- Contact Information --
+      type: note
+      required: false
+    - id: 7
+      name: contact_person_name
+      label: Contact Person Name
+      hint: Principal or representative
+      type: text
+      required: true
+    - id: 8
+      name: contact_title
+      label: Title or Role
+      hint: Position of contact person
+      type: text
+      required: true
+    - id: 9
+      name: contact_email
+      label: Email Address
+      hint: Business email
+      type: email
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      required: true
+    - id: 11
+      name: section_election_details
+      label: -- Election Details --
+      type: note
+      required: false
+    - id: 12
+      name: elected_structure
+      label: Elected Business Structure
+      hint: What structure are you electing
+      type: select_one
+      options:
+      - S-Corporation Election
+      - C-Corporation Election
+      - LLC Manager-Managed
+      - LLC Member-Managed
+      - Partnership Election
+      - Other Structure Election
+      required: true
+    - id: 13
+      name: election_effective_date
+      label: Election Effective Date
+      hint: When should the election take effect
+      type: date
+      required: true
+    - id: 14
+      name: election_reason
+      label: Reason for Structure Election
+      hint: Why are you making this election
+      type: text
+      required: true
+    - id: 15
+      name: section_tax_treatment
+      label: -- Tax Treatment --
+      type: note
+      required: false
+    - id: 16
+      name: tax_year_effective
+      label: Tax Year Effective
+      hint: Which tax year does this apply to
+      type: text
+      required: true
+    - id: 17
+      name: prior_tax_election
+      label: Any Prior Tax Elections
+      hint: Have you made previous elections
+      type: text
+      required: false
+    - id: 18
+      name: accountant_advisor_name
+      label: Accountant or Tax Advisor Name
+      hint: Professional advising on election
+      type: text
+      required: false
+    - id: 19
+      name: accountant_contact
+      label: Accountant Contact Information
+      hint: Email or phone
+      type: text
+      required: false
+    - id: 20
+      name: section_ownership
+      label: -- Ownership Information --
+      type: note
+      required: false
+    - id: 21
+      name: owner_names
+      label: Owner or Member Names
+      hint: List all owners or members
+      type: text
+      required: true
+    - id: 22
+      name: ownership_percentages
+      label: Ownership Percentages
+      hint: How is ownership divided
+      type: text
+      required: false
+    - id: 23
+      name: section_documentation
+      label: -- Supporting Documentation --
+      type: note
+      required: false
+    - id: 24
+      name: documents_attached
+      label: Documents Attached
+      hint: List attached supporting documents
+      type: text
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission Date
+      hint: Date of election submission
+      type: date
+      required: true
+    - id: 26
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Printed name of authorized person
+      type: text
+      required: true

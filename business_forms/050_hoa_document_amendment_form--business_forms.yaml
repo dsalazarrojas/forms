@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: hoa_document_amendment_form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_date
+      label: form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: form_time
+      label: form_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: hoa_document_amendment
+      label: hoa_document_amendment
+      hint: This is where you can enter prophets of prophets of any amendments
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: hoa_document_amendment_reason
+      label: hoa_document_amendment_reason
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: hoa_document_amendment_details
+      label: hoa_document_amendment_details
+      hint: Enter any additional details
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hoa_document_amendment_signed
+      label: hoa_document_amendment_signed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loyalty Rewards Program Subscription Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: customer-first-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_last_name
+      label: customer-last-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: loyalty_program
+      label: loyalty-program
+      hint: null
+      type: select_one
+      options:
+      - Loyalty Program A
+      - Loyalty Program B
+      - Loyalty Program C
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: preferred-contact-method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      required: false
+    - id: 7
+      name: preferred_language
+      label: preferred-language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      required: false
+    - id: 8
+      name: special_requests
+      label: special-requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: terms_and_conditions
+      label: terms-and-conditions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: additional_comments
+      label: additional-comments
+      hint: null
+      type: text
+      options: []
+      required: false

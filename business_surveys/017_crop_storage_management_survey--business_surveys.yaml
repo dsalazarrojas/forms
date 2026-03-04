@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crop Storage Management Survey
+    pages:
+    - id: 1
+      name: storage_practices
+      label: Storage Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storage_capacity
+      label: Storage Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: storage_challenges
+      label: Storage Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: storage_facility
+      label: Storage Facility
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Facility 1'', ''value'': ''Facility 1''}'
+      - '{''id'': 2, ''name'': ''Facility 2'', ''value'': ''Facility 2''}'
+      - '{''id'': 3, ''name'': ''Facility 3'', ''value'': ''Facility 3''}'
+      required: false
+    - id: 5
+      name: storage_practices_1
+      label: Storage Practices
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Practice 1'', ''value'': ''Practice 1''}'
+      - '{''id'': 2, ''name'': ''Practice 2'', ''value'': ''Practice 2''}'
+      - '{''id'': 3, ''name'': ''Practice 3'', ''value'': ''Practice 3''}'
+      required: false
+    - id: 6
+      name: storage_capacity_1
+      label: Storage Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: storage_challenges_1
+      label: Storage Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: storage_facility_1
+      label: Storage Facility
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Facility 1'', ''value'': ''Facility 1''}'
+      - '{''id'': 2, ''name'': ''Facility 2'', ''value'': ''Facility 2''}'
+      - '{''id'': 3, ''name'': ''Facility 3'', ''value'': ''Facility 3''}'
+      required: false

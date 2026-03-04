@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Wishlist Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: respondent_company
+      label: Company or Organization
+      hint: Where do you work?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: respondent_title
+      label: Your Title or Position
+      hint: Your role
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: buyer_type
+      label: Type of Buyer
+      hint: What type of buyer are you?
+      type: select_one
+      options:
+      - Individual consumer
+      - Business or company
+      - Government or institutional
+      - Non-profit
+      - Reseller or distributor
+      - Other
+      required: true
+    - id: 6
+      name: product_category_interest
+      label: Product or Service Categories of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology and electronics
+      - Software or applications
+      - Office equipment
+      - Business services
+      - Marketing and advertising
+      - Consulting services
+      - Industrial equipment
+      - Other category
+      required: true
+    - id: 7
+      name: specific_product_interest
+      label: Specific Products or Services You Want
+      hint: Describe your wishlist items
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_solution
+      label: Current Solution or Product Used
+      hint: What are you using now?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dissatisfaction_reasons
+      label: Why Are You Interested in Something New?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cost is too high
+      - Quality issues
+      - Lack of features
+      - Poor customer service
+      - Need upgrade
+      - Searching for options
+      - Other reason
+      required: true
+    - id: 10
+      name: desired_features
+      label: Features or Functionality You Want
+      hint: List must-have features
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: budget_range
+      label: Budget Range
+      hint: What are you willing to spend?
+      type: select_one
+      options:
+      - Under $500
+      - "$500 - $2500"
+      - "$2500 - $10000"
+      - "$10000 - $50000"
+      - "$50000 - $100000"
+      - Over $100000
+      - Flexible
+      - Not determined
+      required: true
+    - id: 12
+      name: purchase_timeline
+      label: When Do You Plan to Purchase?
+      hint: null
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Within 12 months
+      - Not soon
+      - Unsure
+      required: true
+    - id: 13
+      name: decision_process
+      label: Decision-Making Process
+      hint: How do you typically decide?
+      type: select_one
+      options:
+      - Individual decision
+      - Team or committee decision
+      - Need approval from management
+      - RFP or competitive bidding
+      - Other process
+      required: false
+    - id: 14
+      name: key_vendors
+      label: Current or Preferred Vendors
+      hint: Companies you like or work with
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: competitor_products
+      label: Competitor Products You Like or Dislike
+      hint: Specific products and why
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: quality_importance
+      label: Quality or Premium Features Importance
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not very important
+      - Not important
+      required: true
+    - id: 17
+      name: support_service
+      label: Importance of Customer Support and Service
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not very important
+      - Not important
+      required: true
+    - id: 18
+      name: environmental_concerns
+      label: Environmental or Sustainability Concerns
+      hint: null
+      type: select_one
+      options:
+      - Very important
+      - Important
+      - Somewhat important
+      - Not very important
+      - Not a concern
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Any other feedback for us?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_contact
+      label: May We Follow Up Regarding These Products?
+      hint: null
+      type: select_one
+      options:
+      - Yes, please contact me
+      - No, do not contact
+      - Only if relevant product
+      required: true

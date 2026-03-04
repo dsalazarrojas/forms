@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Optimization Initiative Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: impact_score
+      label: Impact Score
+      hint: Rate the impact of cost-saving initiatives
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: new_ideas
+      label: New Ideas
+      hint: Provide new ideas for cost-saving initiatives
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: Select the department impacted
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: Select the category
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

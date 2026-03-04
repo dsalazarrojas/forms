@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Research Assessment Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: select_one
+      label: what_do_you_like_most_about_the_company
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Quality of products and services'', ''label'': ''Quality
+        of products and services''}'
+      - '{''id'': 2, ''name'': ''Price'', ''label'': ''Price''}'
+      - '{''id'': 3, ''name'': ''Customer service'', ''label'': ''Customer service''}'
+      required: true
+    - id: 11
+      name: select_multiple
+      label: which_services_do_you_prefer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: date_time
+      label: when
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: decimal
+      label: revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: integer
+      label: number
+      hint: null
+      type: number
+      options: []
+      required: false

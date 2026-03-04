@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Design Aesthetics Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Urban Design Aesthetics Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Surveys
+      - Technology Surveys
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: neighborhood
+      label: Neighborhood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: public_space
+      label: Public Space
+      hint: null
+      type: select_multiple
+      options:
+      - Parks
+      - Streets
+      - Alleys
+      - Other
+      required: false
+    - id: 6
+      name: aesthetic_feel
+      label: Aesthetic Feel
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: aesthetic_feel_score
+      label: Aesthetic Feel Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_one
+      options:
+      - Monochromatic
+      - Analogous
+      - Complimentary
+      - Neutral
+      required: false
+    - id: 9
+      name: color_scheme_score
+      label: Color Scheme Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: materials_use
+      label: Materials
+      hint: null
+      type: text
+      options: []
+      required: true

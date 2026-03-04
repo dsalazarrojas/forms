@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: SILo Ownership Survey
+    pages:
+    - id: 1
+      name: silo_ownership_survey
+      label: SILO Ownership Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: silo_location
+      label: siloLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: silo_capacity
+      label: siloCapacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: silo_usage
+      label: siloUsage
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: silo_owner_name
+      label: siloOwnerName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: silo_owner_contact
+      label: siloOwnerContact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: silo_owner_phone
+      label: siloOwnerPhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: silo_owner_business
+      label: siloOwnerBusiness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: silo_owner_agency
+      label: siloOwnerAgency
+      hint: null
+      type: select_one
+      options:
+      - Co-op
+      - Agribusiness
+      - Agency
+      required: false
+    - id: 10
+      name: silo_ownership_notes
+      label: siloOwnerNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: silo_other_notes
+      label: siloOtherNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: silo_location_notes
+      label: siloLocationNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: silo_usage_patterns
+      label: siloUsagePatterns
+      hint: null
+      type: select_multiple
+      options:
+      - Usage patterns
+      - Usage patterns
+      - Patterns
+      required: false
+    - id: 14
+      name: silo_capacity_notes
+      label: siloCapacityNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: assignedTool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_user
+      label: assignedUser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_at
+      label: createdAt
+      hint: null
+      type: date
+      options: []
+      required: false

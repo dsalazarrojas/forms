@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Control Survey
+    pages:
+    - id: 1
+      name: device_control_survey_page_1
+      label: Device Functionality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_control_survey_page_2
+      label: Device User Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: device_control_survey_page_3
+      label: Device Management Practices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: device_control_survey_page_4
+      label: Device Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: device_control_survey_page_5
+      label: Device Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

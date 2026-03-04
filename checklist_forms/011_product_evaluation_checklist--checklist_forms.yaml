@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Evaluation Checklist
+    pages:
+    - id: 1
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate this product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: quality
+      label: Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: pros_cons
+      label: Pros and Cons
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_manager
+      label: Product Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Product Manager 1'', ''value'': 1}'
+      - '{''label'': ''Product Manager 2'', ''value'': 2}'
+      required: false
+    - id: 7
+      name: qa_team
+      label: QA Team
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''QA Team 1'', ''value'': 1}'
+      - '{''label'': ''QA Team 2'', ''value'': 2}'
+      required: false
+    - id: 8
+      name: buyer
+      label: Buyer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Buyer 1'', ''value'': 1}'
+      - '{''label'': ''Buyer 2'', ''value'': 2}'
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit'', ''value'': 1}'
+      - '{''label'': ''Do Not Submit'', ''value'': 2}'
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rating_date
+      label: Rating Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: rating_time
+      label: Rating Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

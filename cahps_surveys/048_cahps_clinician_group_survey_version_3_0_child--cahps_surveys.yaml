@@ -1,0 +1,201 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Clinician and Group Survey Version 3.0 (Child)
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_age
+      label: Child Age
+      hint: Select age range
+      type: select_one
+      options:
+      - Under 1 year
+      - 1-2 years
+      - 3-4 years
+      - 5-7 years
+      - 8-11 years
+      - 12-17 years
+      required: true
+    - id: 3
+      name: visit_reason
+      label: Reason for Visit
+      hint: Why did you visit the clinician
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visit_date
+      label: Visit Date
+      hint: When was the visit
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: appointment_easy
+      label: Easy to Get Appointment
+      hint: Ease of scheduling
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 6
+      name: wait_time
+      label: Wait Time Acceptable
+      hint: Time waiting for visit
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 7
+      name: clinician_respectful
+      label: Clinician Respectful to Child
+      hint: Interaction with child
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 8
+      name: clinician_explained
+      label: Explained Things Child Could Understand
+      hint: Age-appropriate explanations
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 9
+      name: parent_listen
+      label: Listened to Your Concerns
+      hint: Parent communication
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 10
+      name: treatment_plan
+      label: Discussed Treatment Plan
+      hint: Treatment options explained
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      - Not applicable
+      required: true
+    - id: 11
+      name: parent_input
+      label: Involved You in Decisions
+      hint: Parent participation in care
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 12
+      name: office_staff_helpful
+      label: Office Staff Helpful and Courteous
+      hint: Staff interaction
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 13
+      name: office_comfort
+      label: Office Comfortable for Children
+      hint: Child-friendly environment
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 14
+      name: follow_up
+      label: Follow-up Care Arranged
+      hint: Post-visit follow-up plan
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Not applicable
+      required: true
+    - id: 15
+      name: preventive_care
+      label: Preventive Care Discussed
+      hint: Health maintenance topics
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      - Not applicable
+      required: true
+    - id: 16
+      name: overall_care
+      label: Overall Experience Rating
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: recommend_clinician
+      label: Recommend Clinician to Others
+      hint: Likelihood to recommend
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 18
+      name: additional_feedback
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: transportation_efficiency_metrics_report_form
+    pages:
+    - id: 1
+      name: vehicle_usage
+      label: Vehicle Usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: fuel_consumption
+      label: Fuel Consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Truck
+      - Bike
+      required: false
+    - id: 4
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_multiple
+      options:
+      - Gas
+      - Diesel
+      - Electric
+      required: false
+    - id: 5
+      name: usage_frequency
+      label: Usage Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: vehicle_capacity
+      label: Vehicle Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fuel_efficiency
+      label: Fuel Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: average_miles_driven
+      label: Average Miles Driven
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: average_mph
+      label: Average MPH
+      hint: null
+      type: number
+      options: []
+      required: false

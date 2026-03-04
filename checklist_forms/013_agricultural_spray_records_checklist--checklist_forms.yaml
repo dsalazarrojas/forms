@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Spray Records Checklist
+    pages:
+    - id: 1
+      name: application_details_header
+      label: -- Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicator_name
+      label: Applicator Name
+      hint: Certified applicator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: license_number
+      label: License Number
+      hint: State applicator license ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: application_date
+      label: Date of Application
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: When spraying began
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: When spraying finished
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: location_info_header
+      label: -- Location and Crop --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: field_location
+      label: Field Location ID
+      hint: Map reference or field name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: crop_treated
+      label: Crop Treated
+      hint: e.g. Corn, Apples
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_pest
+      label: Target Pest
+      hint: Weeds, Insects, Disease
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: chemical_info_header
+      label: -- Chemical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: chemical_name
+      label: Chemical Product Name
+      hint: Brand name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: epa_reg_number
+      label: EPA Registration Number
+      hint: From product label
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: rate_per_acre
+      label: Rate per Acre
+      hint: Amount applied per unit area
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: total_amount
+      label: Total Amount Used
+      hint: Total gallons/pounds applied
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: weather_conditions_header
+      label: -- Weather Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: wind_speed
+      label: Wind Speed (mph)
+      hint: Must be within legal limits
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: wind_direction
+      label: Wind Direction
+      hint: Direction wind is coming from
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: temperature
+      label: Temperature (F)
+      hint: At time of application
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: safety_check
+      label: Safety Checks
+      hint: Verify safety protocols
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: tank_cleanout
+      label: Tank Cleanout Verified
+      hint: Was tank cleaned before/after?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: ppe_worn
+      label: PPE Worn
+      hint: Personal Protective Equipment used?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

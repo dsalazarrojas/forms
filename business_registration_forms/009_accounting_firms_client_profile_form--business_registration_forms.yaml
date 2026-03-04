@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Firms Client Profile Form
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Individual or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry
+      hint: Primary sector of client business
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Primary contact name
+      hint: Person handling communications
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: Email for invoices and updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for urgent contact
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: billing_address
+      label: Billing address
+      hint: Address for invoices
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tax_id_number
+      label: Tax ID number
+      hint: VAT, EIN or local tax identifier
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How the client prefers to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Postal mail
+      required: true
+    - id: 10
+      name: services_required
+      label: Services required
+      hint: Select services client needs
+      type: select_multiple
+      options:
+      - Bookkeeping
+      - Payroll
+      - Tax preparation
+      - Advisory
+      - Audit support
+      required: true
+    - id: 11
+      name: current_provider
+      label: Current accounting provider
+      hint: Name if switching from another firm
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes_and_requirements
+      label: Notes and requirements
+      hint: Any special service requirements or deadlines
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: onboarding_ready_date
+      label: Onboarding ready date
+      hint: Date when client will be ready for onboarding
+      type: date
+      options: []
+      required: false

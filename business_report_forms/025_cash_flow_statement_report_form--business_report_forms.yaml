@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Flow Statement Report Form
+    pages:
+    - id: 1
+      name: report_header_section
+      label: -- Report Header --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: fiscal_year
+      label: Fiscal Year or Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: prepared_by
+      label: Report Prepared By
+      hint: Name and title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: operating_activities_section
+      label: -- Operating Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: net_income
+      label: Net Income or Loss
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: depreciation_amortization
+      label: Depreciation and Amortization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: changes_in_working_capital
+      label: Changes in Working Capital
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: accounts_receivable_change
+      label: Change in Accounts Receivable
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: inventory_change
+      label: Change in Inventory
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: accounts_payable_change
+      label: Change in Accounts Payable
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: cash_from_operations
+      label: Net Cash from Operating Activities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: investing_activities_section
+      label: -- Investing Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: capital_expenditures
+      label: Capital Expenditures
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: asset_sales
+      label: Proceeds from Asset Sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: investments_made
+      label: Investments Made
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: cash_from_investing
+      label: Net Cash from Investing Activities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: financing_activities_section
+      label: -- Financing Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: debt_proceeds
+      label: Proceeds from Debt
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: debt_repayment
+      label: Debt Repayment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: equity_financing
+      label: Equity Financing Received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: dividends_paid
+      label: Dividends Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: cash_from_financing
+      label: Net Cash from Financing Activities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: net_increase_in_cash
+      label: Net Increase or Decrease in Cash
+      hint: Total of all activities
+      type: number
+      options: []
+      required: true

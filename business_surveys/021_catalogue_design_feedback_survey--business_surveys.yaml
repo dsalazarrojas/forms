@@ -1,0 +1,162 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Catalogue Design Feedback Survey
+    pages:
+      - id: 1
+        name: section_reviewer
+        label: -- Reviewer Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: reviewer_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: reviewer_role
+        label: Your Role in the Project
+        hint: null
+        type: select_one
+        options:
+          - "Designer"
+          - "Marketing Manager"
+          - "Product Owner"
+          - "Sales Team"
+          - "External Consultant"
+          - "Customer"
+        required: true
+      - id: 4
+        name: section_visuals
+        label: -- Visual and Aesthetic Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: overall_appeal_rating
+        label: Rate the overall visual appeal of the catalogue
+        hint: null
+        type: select_one
+        options:
+          - "5 - Excellent"
+          - "4"
+          - "3"
+          - "2"
+          - "1 - Poor"
+        required: true
+      - id: 6
+        name: image_quality_rating
+        label: Quality of images and photography
+        hint: Are images clear and well-lit
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Average"
+          - "Poor"
+        required: true
+      - id: 7
+        name: color_palette_feedback
+        label: Does the color palette align with our brand
+        hint: null
+        type: select_one
+        options:
+          - "Yes, perfectly"
+          - "Somewhat"
+          - "No, needs adjustment"
+        required: true
+      - id: 8
+        name: section_usability
+        label: -- Layout and Usability --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: layout_flow_rating
+        label: Rate the flow and organization of the pages
+        hint: Is the progression logical
+        type: select_one
+        options:
+          - "Very Logical"
+          - "Somewhat Logical"
+          - "Confusing"
+        required: true
+      - id: 10
+        name: text_readability
+        label: How would you rate the readability of the text
+        hint: Font size and style choice
+        type: select_one
+        options:
+          - "Easy to read"
+          - "Mostly readable"
+          - "Difficult in some areas"
+          - "Very hard to read"
+        required: true
+      - id: 11
+        name: product_search_ease
+        label: How easy is it to find specific products
+        hint: null
+        type: select_one
+        options:
+          - "Very Easy"
+          - "Moderate"
+          - "Difficult"
+        required: false
+      - id: 12
+        name: cta_clarity
+        label: Are the call-to-action points clear
+        hint: e.g. how to order, website links
+        type: select_one
+        options:
+          - "Clear and Prominent"
+          - "Visible but not clear"
+          - "Hidden or unclear"
+        required: true
+      - id: 13
+        name: section_improvements
+        label: -- Suggestions for Improvement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: identified_errors
+        label: Did you notice any typos or layout errors
+        hint: Please list page numbers if possible
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: improvement_ideas
+        label: Suggestions for the next edition
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: finalized_status
+        label: Is this design ready for print
+        hint: null
+        type: select_one
+        options:
+          - "Yes, ready"
+          - "Yes, with minor changes"
+          - "No, needs major revision"
+        required: true

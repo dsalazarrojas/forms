@@ -1,0 +1,353 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Satisfaction Drivers Survey
+    pages:
+    - id: 1
+      name: survey_welcome
+      label: Compensation Satisfaction Drivers Survey
+      hint: Help us understand what drives your satisfaction
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Optional anonymous identifier
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Research and Development
+      - Other
+      required: true
+    - id: 4
+      name: tenure
+      label: Years with Company
+      hint: How long have you worked here
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 6 years
+      - 7 to 10 years
+      - More than 10 years
+      required: true
+    - id: 5
+      name: job_level
+      label: Job Level
+      hint: Your current level
+      type: select_one
+      options:
+      - Entry Level
+      - Junior
+      - Mid-Level
+      - Senior
+      - Lead or Principal
+      - Manager
+      - Director
+      - Executive
+      required: true
+    - id: 6
+      name: overall_satisfaction
+      label: Overall compensation satisfaction
+      hint: Rate your overall satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 7
+      name: base_pay_importance
+      label: Importance of base salary
+      hint: How important is base pay to you
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Moderately important
+      - Slightly important
+      - Not important
+      required: true
+    - id: 8
+      name: base_pay_satisfaction
+      label: Satisfaction with base salary
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: bonus_importance
+      label: Importance of performance bonus
+      hint: How important are bonuses
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Moderately important
+      - Slightly important
+      - Not important
+      required: true
+    - id: 10
+      name: bonus_satisfaction
+      label: Satisfaction with bonuses
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Not applicable
+      required: true
+    - id: 11
+      name: equity_importance
+      label: Importance of equity or stock
+      hint: How important is equity compensation
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Moderately important
+      - Slightly important
+      - Not important
+      required: true
+    - id: 12
+      name: equity_satisfaction
+      label: Satisfaction with equity
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      - Not applicable
+      required: true
+    - id: 13
+      name: benefits_importance
+      label: Importance of health benefits
+      hint: How important are health benefits
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Moderately important
+      - Slightly important
+      - Not important
+      required: true
+    - id: 14
+      name: benefits_satisfaction
+      label: Satisfaction with health benefits
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 15
+      name: retirement_importance
+      label: Importance of retirement benefits
+      hint: How important is retirement plan
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Moderately important
+      - Slightly important
+      - Not important
+      required: true
+    - id: 16
+      name: retirement_satisfaction
+      label: Satisfaction with retirement
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 17
+      name: pto_importance
+      label: Importance of paid time off
+      hint: How important is PTO
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Moderately important
+      - Slightly important
+      - Not important
+      required: true
+    - id: 18
+      name: pto_satisfaction
+      label: Satisfaction with PTO
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 19
+      name: flexibility_importance
+      label: Importance of work flexibility
+      hint: How important is flexibility
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Moderately important
+      - Slightly important
+      - Not important
+      required: true
+    - id: 20
+      name: flexibility_satisfaction
+      label: Satisfaction with flexibility
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 21
+      name: development_importance
+      label: Importance of development opportunities
+      hint: How important is professional growth
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Moderately important
+      - Slightly important
+      - Not important
+      required: true
+    - id: 22
+      name: development_satisfaction
+      label: Satisfaction with development
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 23
+      name: recognition_importance
+      label: Importance of recognition
+      hint: How important is recognition
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Moderately important
+      - Slightly important
+      - Not important
+      required: true
+    - id: 24
+      name: recognition_satisfaction
+      label: Satisfaction with recognition
+      hint: How satisfied are you
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 25
+      name: top_driver
+      label: Top driver of your satisfaction
+      hint: What matters most to you
+      type: select_one
+      options:
+      - Base salary
+      - Performance bonus
+      - Equity compensation
+      - Health benefits
+      - Retirement benefits
+      - Paid time off
+      - Work flexibility
+      - Career development
+      - Recognition
+      - Work-life balance
+      required: true
+    - id: 26
+      name: biggest_gap
+      label: Biggest area of dissatisfaction
+      hint: What needs most improvement
+      type: select_one
+      options:
+      - Base salary
+      - Performance bonus
+      - Equity compensation
+      - Health benefits
+      - Retirement benefits
+      - Paid time off
+      - Work flexibility
+      - Career development
+      - Recognition
+      - None - satisfied overall
+      required: true
+    - id: 27
+      name: stay_likelihood
+      label: Likelihood to stay with company
+      hint: Based on total rewards
+      type: select_one
+      options:
+      - Very likely
+      - Somewhat likely
+      - Neutral
+      - Somewhat unlikely
+      - Very unlikely
+      required: true
+    - id: 28
+      name: suggestions
+      label: Suggestions for improvement
+      hint: Your ideas
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

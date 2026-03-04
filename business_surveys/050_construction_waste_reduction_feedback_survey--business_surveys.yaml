@@ -1,0 +1,276 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Construction Waste Reduction Feedback Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey completion
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: Your email
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: company_name
+        label: Company Name
+        hint: Your employer
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: job_title
+        label: Job Title
+        hint: Your position
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: years_experience
+        label: Years in Construction
+        hint: Total experience
+        type: select_one
+        options:
+          - Less than 5 years
+          - 5 to 10 years
+          - 11 to 20 years
+          - More than 20 years
+        required: true
+      - id: 7
+        name: company_size
+        label: Company Size
+        hint: Number of employees
+        type: select_one
+        options:
+          - 1 to 10 employees
+          - 11 to 50 employees
+          - 51 to 200 employees
+          - More than 200 employees
+        required: true
+      - id: 8
+        name: project_types
+        label: Project Types You Work On
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Residential Single Family
+          - Residential Multi-Family
+          - Commercial
+          - Industrial
+          - Institutional
+          - Infrastructure
+          - Demolition
+          - Renovation
+        required: true
+      - id: 9
+        name: current_waste_practices
+        label: Current Waste Management Practices
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - On-Site Sorting
+          - Recycling Program
+          - Composting
+          - Hazardous Waste Disposal
+          - Donation of Materials
+          - Waste Audits
+          - None
+        required: true
+      - id: 10
+        name: waste_reduction_priority
+        label: Waste Reduction Priority Level
+        hint: How important is this to your company
+        type: select_one
+        options:
+          - Top Priority
+          - High Priority
+          - Medium Priority
+          - Low Priority
+          - Not a Priority
+        required: true
+      - id: 11
+        name: materials_recycled
+        label: Materials You Currently Recycle
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Concrete
+          - Wood
+          - Metal
+          - Cardboard
+          - Plastic
+          - Drywall
+          - Asphalt
+          - Brick
+          - None
+        required: true
+      - id: 12
+        name: waste_percentage
+        label: Estimated Waste Recycled
+        hint: Percentage of total waste
+        type: select_one
+        options:
+          - Less than 25 percent
+          - 25 to 50 percent
+          - 51 to 75 percent
+          - More than 75 percent
+          - Not Sure
+        required: true
+      - id: 13
+        name: waste_challenges
+        label: Biggest Waste Challenges
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Lack of Space
+          - Cost of Recycling
+          - Lack of Facilities
+          - Time Constraints
+          - Lack of Knowledge
+          - Worker Compliance
+          - Transportation
+          - Contamination
+          - Other
+        required: true
+      - id: 14
+        name: cost_impact
+        label: Cost Impact of Waste Reduction
+        hint: How does it affect your budget
+        type: select_one
+        options:
+          - Reduces Costs
+          - Neutral Impact
+          - Slight Increase
+          - Significant Increase
+          - Not Sure
+        required: true
+      - id: 15
+        name: client_requirements
+        label: Client Waste Requirements
+        hint: Do clients require waste management
+        type: select_one
+        options:
+          - Always
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 16
+        name: regulatory_requirements
+        label: Regulatory Requirements
+        hint: Are you required by law
+        type: select_one
+        options:
+          - Yes, Strict Requirements
+          - Yes, Basic Requirements
+          - No Requirements
+          - Not Sure
+        required: true
+      - id: 17
+        name: waste_tracking
+        label: Do You Track Waste
+        hint: Monitoring and documentation
+        type: select_one
+        options:
+          - Yes, Detailed Tracking
+          - Yes, Basic Tracking
+          - No Tracking
+        required: true
+      - id: 18
+        name: training_provided
+        label: Waste Management Training
+        hint: Do you train workers
+        type: select_one
+        options:
+          - Yes, Regular Training
+          - Yes, Occasional
+          - No Training
+        required: true
+      - id: 19
+        name: successful_strategies
+        label: Most Successful Strategies
+        hint: What has worked for you
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: barriers_implementation
+        label: Barriers to Implementation
+        hint: What prevents better practices
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: technology_interest
+        label: Interest in Waste Technology
+        hint: Would you use new solutions
+        type: select_one
+        options:
+          - Very Interested
+          - Somewhat Interested
+          - Neutral
+          - Not Interested
+        required: true
+      - id: 22
+        name: incentives_needed
+        label: Incentives That Would Help
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Tax Credits
+          - Rebates
+          - Reduced Disposal Fees
+          - Recognition Programs
+          - Technical Assistance
+          - None
+        required: false
+      - id: 23
+        name: industry_improvement
+        label: How Can Industry Improve
+        hint: Your suggestions
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: future_commitment
+        label: Future Waste Reduction Commitment
+        hint: Do you plan to improve
+        type: select_one
+        options:
+          - Yes, Significant Improvements
+          - Yes, Some Improvements
+          - Maybe
+          - No Plans
+        required: true
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

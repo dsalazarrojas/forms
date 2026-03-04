@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Technology Awareness Survey
+    pages:
+    - id: 1
+      name: organization_type
+      label: Organization type
+      hint: Government NGO private sector academic
+      type: select_one
+      options:
+      - Government
+      - NGO
+      - Private sector
+      - Academic
+      - Other
+      required: true
+    - id: 2
+      name: familiarity_with_civic_tech
+      label: Familiarity with civic technology tools
+      hint: 1 not familiar to 5 very familiar
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: tools_used
+      label: Civic tech tools currently used
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Data dashboards
+      - Open mapping
+      - SMS platforms
+      - Online engagement portals
+      required: false
+    - id: 4
+      name: barriers_to_adoption
+      label: Barriers to adopting civic technology
+      hint: Funding skills infrastructure policy
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interest_in_partnerships
+      label: Interest in partnerships for civic tech
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: priority_needs
+      label: Priority technology needs
+      hint: Select top priorities
+      type: select_multiple
+      options:
+      - Data collection
+      - Citizen engagement
+      - Service delivery
+      - Transparency tools
+      required: false
+    - id: 7
+      name: budget_estimate
+      label: Budget available for technology
+      hint: Annual approximate budget
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: capacity_building_interest
+      label: Interest in capacity building
+      hint: Training technical support governance
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: contact_for_follow_up
+      label: Contact for follow up
+      hint: Email or phone
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

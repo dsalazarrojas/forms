@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Project Billing Software Evaluation Checklist
+    pages:
+    - id: 1
+      name: section_evaluator_information
+      label: -- Evaluator Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_name
+      label: Evaluator name
+      hint: Person completing this checklist
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company name
+      hint: Organization evaluating the software
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: core_billing_needed
+      label: Core billing features needed
+      hint: Select all required capabilities
+      type: select_multiple
+      options:
+      - Progress billing
+      - Retainage management
+      - Change order tracking
+      - Automated invoicing
+      - Reporting dashboard
+      required: true
+    - id: 5
+      name: integration_requirements
+      label: Integration requirements
+      hint: Systems the software must integrate with
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: usability_rating
+      label: Usability rating
+      hint: Rate ease of use
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: estimated_cost
+      label: Estimated annual cost
+      hint: Expected annual licensing or subscription cost
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: recommended_action
+      label: Recommended action
+      hint: Buy pilot, proceed to PO, or reject
+      type: select_one
+      options:
+      - Pilot
+      - Purchase
+      - Do not pursue
+      required: true

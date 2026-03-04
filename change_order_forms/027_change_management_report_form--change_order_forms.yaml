@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Management Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: When report is being completed
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: change_id
+      label: Change Request ID
+      hint: ID of the change
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: change_title
+      label: Change Title
+      hint: Name of the change
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: change_description
+      label: Change Description
+      hint: What is being changed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reported_by
+      label: Report Submitted By
+      hint: Name of person submitting
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_type
+      label: Report Type
+      hint: Type of report
+      type: select_one
+      options:
+      - Implementation Report
+      - Post-Implementation Review
+      - Change Status Update
+      - Change Closure Report
+      required: true
+    - id: 7
+      name: implementation_status
+      label: Implementation Status
+      hint: Current status of change
+      type: select_one
+      options:
+      - Scheduled
+      - In Progress
+      - Completed
+      - Delayed
+      - On Hold
+      - Cancelled
+      required: true
+    - id: 8
+      name: implementation_date_actual
+      label: Actual Implementation Date
+      hint: When change was actually implemented
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: planned_vs_actual
+      label: Comparison - Planned vs Actual
+      hint: How did it compare to plan
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: completion_percentage
+      label: Percentage Complete
+      hint: If not complete, % done
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: scope_changes
+      label: Changes to Scope
+      hint: Any scope changes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issues_encountered
+      label: Issues or Problems Encountered
+      hint: What went wrong or was challenging
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: issue_resolution
+      label: How Issues Were Resolved
+      hint: Actions taken to resolve
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: success_metrics_met
+      label: Success Metrics Achievement
+      hint: Were success metrics met
+      type: select_one
+      options:
+      - All Met
+      - Mostly Met
+      - Partially Met
+      - Not Met
+      required: true
+    - id: 15
+      name: stakeholder_feedback
+      label: Stakeholder Feedback
+      hint: Feedback from affected parties
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: resistance_level
+      label: Level of Resistance Encountered
+      hint: How much resistance was there
+      type: select_one
+      options:
+      - None
+      - Low
+      - Moderate
+      - High
+      - Extreme
+      required: false
+    - id: 17
+      name: budget_status
+      label: Budget Status
+      hint: On budget, over, under
+      type: select_one
+      options:
+      - On Budget
+      - Under Budget
+      - Over Budget
+      - Not Tracked
+      required: false
+    - id: 18
+      name: budget_variance
+      label: Budget Variance Amount
+      hint: How much over or under
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: resource_performance
+      label: Resource Performance
+      hint: How well did resources perform
+      type: select_one
+      options:
+      - Exceeded Expectations
+      - Met Expectations
+      - Below Expectations
+      - Insufficient
+      required: false
+    - id: 20
+      name: lessons_learned
+      label: Lessons Learned
+      hint: Key takeaways from change
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recommendations
+      label: Recommendations for Future Changes
+      hint: Suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_actions
+      label: Follow-up Actions Required
+      hint: Any remaining action items
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: change_closure
+      label: Change Request Closure Status
+      hint: Is change officially closed
+      type: select_one
+      options:
+      - Closed
+      - Pending Closure
+      - Reopened
+      - On Hold
+      required: true

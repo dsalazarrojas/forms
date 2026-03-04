@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Volunteer Registration Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_start_time
+      label: Volunteer Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_end_time
+      label: Volunteer End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: available_slots
+      label: Available Slots
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: interest_areas
+      label: Interest Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: special_talents
+      label: Special Talents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: volunteer_message
+      label: Volunteer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

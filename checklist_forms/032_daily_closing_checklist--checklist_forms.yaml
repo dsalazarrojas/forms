@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Closing Checklist
+    pages:
+    - id: 1
+      name: end_of_day_procedures
+      label: End of Day Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: confirm_tasks
+      label: Confirm Tasks
+      hint: null
+      type: select_one
+      options:
+      - tasks
+      - other
+      required: false
+    - id: 3
+      name: confirm_close
+      label: Confirm Close
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: shift
+      label: Shift
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: shift_start
+      label: Shift Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: shift_end
+      label: Shift End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location_notes
+      label: Location Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 11
+      name: assigned_to_name
+      label: Assigned To Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to_title
+      label: Assigned To Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to_email
+      label: Assigned To Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to_phone
+      label: Assigned To Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: shift_notes
+      label: Shift Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: location_notes_2
+      label: Location Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: goals
+      label: Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: goal_1
+      label: Goal 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: goal_2
+      label: Goal 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: goal_3
+      label: Goal 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: goal_4
+      label: Goal 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: goal_5
+      label: Goal 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: goal_6
+      label: Goal 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: goal_7
+      label: Goal 7
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: goal_8
+      label: Goal 8
+      hint: null
+      type: text
+      options: []
+      required: false

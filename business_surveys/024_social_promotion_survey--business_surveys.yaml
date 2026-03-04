@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Promotion Survey
+    pages:
+    - id: 1
+      name: social_promotion_survey
+      label: Social Promotion Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_media_channels
+      label: social media channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: social_media_channels_what_were_we_posting
+      label: What were we posting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: social_media_channels_why
+      label: Why did you see us post
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: social_media_channels_what_were_we_doing
+      label: What were we doing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: social_media_channels_why_we
+      label: Why did we
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_media_channels_did_we_really_post
+      label: Did we really post
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: engagement
+      label: Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: promotion_posting_frequency
+      label: Promotion posting frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: promotion_posting_time
+      label: Promotion posting time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: promotion_posting_duration
+      label: Promotion posting duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: promotion_posting_days
+      label: Promotion posting days
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

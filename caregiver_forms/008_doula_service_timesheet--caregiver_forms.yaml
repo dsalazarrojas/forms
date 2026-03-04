@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doula Service Timesheet
+    pages:
+    - id: 1
+      name: service_hours
+      label: Service Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: visit_details
+      label: Visit Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_sessions
+      label: Client Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: doula_name
+      label: Doula Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: doula_email
+      label: Doula Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: agency_address
+      label: Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: doula_notes
+      label: Doula Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: agency_notes
+      label: Agency Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: agency_hours
+      label: Agency Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: doula_hours
+      label: Doula Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_visits
+      label: Total Visits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

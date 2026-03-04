@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Investigation Findings Report
+    pages:
+    - id: 1
+      name: investigation_findings
+      label: Investigation Findings Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evidence_attached
+      label: Evidence Attached
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: actions_taken
+      label: Actions Taken
+      hint: Provide a detailed description of actions taken
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_reviewed
+      label: Team Reviewed
+      hint: null
+      type: select_one
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false
+    - id: 5
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_multiple
+      options:
+      - User A
+      - User B
+      - User C
+      required: false
+    - id: 7
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

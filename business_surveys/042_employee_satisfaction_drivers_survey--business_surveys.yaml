@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Satisfaction Drivers Survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: engagement_drivers
+      label: Engagement Drivers
+      hint: What are the key engagement drivers in your organization?
+      type: select_multiple
+      options:
+      - autonomy
+      - mastery
+      - purpose
+      - positive_sunday_vibes
+      required: false
+    - id: 3
+      name: autonomy_score
+      label: Autonomy
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: mastery_score
+      label: Mastery
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purpose_score
+      label: Purpose
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: monday_morning_feeling
+      label: Monday Morning Feeling
+      hint: How do you feel on Monday morning?
+      type: select_one
+      options:
+      - good
+      - neutral
+      - bad
+      required: false
+    - id: 7
+      name: tuesday_tuesday_feeling
+      label: Tuesday Feeling
+      hint: null
+      type: select_one
+      options:
+      - good
+      - neutral
+      - bad
+      required: false
+    - id: 8
+      name: wednesday_wednesday_feeling
+      label: Wednesday Feeling
+      hint: null
+      type: select_one
+      options:
+      - good
+      - neutral
+      - bad
+      required: false
+    - id: 9
+      name: thursday_thursday_feeling
+      label: Thursday Feeling
+      hint: null
+      type: select_one
+      options:
+      - good
+      - neutral
+      - bad
+      required: false
+    - id: 10
+      name: friday_feeling
+      label: Friday Feeling
+      hint: null
+      type: select_one
+      options:
+      - good
+      - neutral
+      - bad
+      required: false
+    - id: 11
+      name: saturday_sunday_feeling
+      label: Saturday/ Sunday Feeling
+      hint: null
+      type: select_one
+      options:
+      - good
+      - neutral
+      - bad
+      required: false
+    - id: 12
+      name: monday_morning_comments
+      label: Monday Morning Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: tuesday_tuesday_comments
+      label: Tuesday Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: wednesday_wednesday_comments
+      label: Wednesday Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: thursday_thursday_comments
+      label: Thursday Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: friday_feeling_comments
+      label: Friday Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: saturday_sunday_comments
+      label: Saturday/ Sunday Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

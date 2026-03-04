@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_business_report_request_form
+    pages:
+    - id: 1
+      name: business_survey_category
+      label: Business Survey Category
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Banking
+      - Finance
+      required: false
+    - id: 2
+      name: business_survey_sub_category
+      label: Business Survey Sub Category
+      hint: null
+      type: select_one
+      options:
+      - Accounting and Auditing
+      - Banking and Securities
+      - Financial Planning
+      required: false
+    - id: 3
+      name: survey_date_range
+      label: Survey Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: business_survey_type
+      label: Business Survey Type
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Banking
+      - Finance
+      required: false
+    - id: 5
+      name: business_survey_subject
+      label: Business Survey Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_survey_description
+      label: Business Survey Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_survey_status
+      label: Business Survey Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Pending
+      required: false
+    - id: 10
+      name: business_survey_comments
+      label: Business Survey Comments
+      hint: null
+      type: note
+      options: []
+      required: false

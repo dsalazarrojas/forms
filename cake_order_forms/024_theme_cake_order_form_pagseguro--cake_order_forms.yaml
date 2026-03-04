@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theme Cake Order Form PagSeguro
+    pages:
+    - id: 1
+      name: order_info
+      label: Order Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: Please fill in your information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_summary
+      label: Order Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cake_type
+      label: Cake Type
+      hint: null
+      type: select_multiple
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      required: false
+    - id: 5
+      name: upload_image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_style
+      label: Style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,158 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Energy Infrastructure Innovation Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Energy Infrastructure Innovation Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Energy
+      - Business Surveys
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: form_priority_1
+      label: What is the most significant challenge for your organization regarding
+        energy infrastructure innovation?
+      hint: This will help us understand your current state.
+      type: select_multiple
+      options:
+      - Lack of funding
+      - Limited technological capabilities
+      - Regulatory barriers
+      - Market forces
+      required: true
+    - id: 5
+      name: form_priority_2
+      label: Which of the following areas of energy infrastructure innovation is your
+        organization most interested in?
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - Distribution grid modernization
+      - Renewable energy integration
+      - Energy storage and grid services
+      - Smart grid and smart buildings
+      required: true
+    - id: 6
+      name: form_project_status
+      label: What is the status of energy infrastructure innovation projects within
+        your organization?
+      hint: null
+      type: select_one
+      options:
+      - Conceptually developed
+      - In development
+      - Implemented
+      - Not applicable
+      required: true
+    - id: 7
+      name: form_project_success
+      label: What are some successful energy infrastructure innovation projects your
+        organization has implemented?
+      hint: null
+      type: select_multiple
+      options:
+      - Smart grid project for distribution management
+      - Energy storage and grid services project
+      - Grid modernization project
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: form_barriers_1
+      label: What are some major barriers to energy infrastructure innovation within
+        your organization?
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - Lack of funding
+      - Limited technological capabilities
+      - Regulatory barriers
+      - High costs
+      required: true
+    - id: 9
+      name: form_barriers_2
+      label: Which of the following are potential barriers to energy infrastructure
+        innovation within your organization?
+      hint: Please select all that apply.
+      type: select_multiple
+      options:
+      - Lack of standardization in communication between stakeholders
+      - Limited collaboration between stakeholders
+      - Limited availability of skilled workforce
+      - Other (please specify)
+      required: true
+    - id: 10
+      name: form_partnerships
+      label: Has your organization established partnerships with other organizations
+        to support energy infrastructure innovation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: form_partnerships_details
+      label: Describe your partnerships.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_project_status_details
+      label: Please describe your energy infrastructure innovation projects in details.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_project_success_details
+      label: Please describe any successful energy infrastructure innovation projects
+        your organization has implemented in details.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: form_barriers_details
+      label: Please describe any barriers to energy infrastructure innovation you
+        are currently facing.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: form_barriers_details_2
+      label: Please describe other barriers to energy infrastructure innovation.
+      hint: null
+      type: note
+      options: []
+      required: false

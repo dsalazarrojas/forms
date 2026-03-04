@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessory Dwelling Unit Survey
+    pages:
+    - id: 1
+      name: property_owner_name
+      label: Property Owner Name
+      hint: Full name of the property owner
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: Email address for follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for follow-up questions
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: property_address
+      label: Property Address
+      hint: Complete address of the property with ADU
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: adu_type
+      label: ADU Type
+      hint: What type of accessory dwelling unit do you have?
+      type: select_one
+      options:
+      - Detached ADU
+      - Attached ADU
+      - Converted Garage
+      - Converted Basement
+      - Converted Attic
+      - Other
+      required: true
+    - id: 6
+      name: adu_size_square_feet
+      label: ADU Size (Square Feet)
+      hint: Approximate square footage of the ADU
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: adu_bedrooms
+      label: Number of Bedrooms
+      hint: How many bedrooms does the ADU have?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: adu_year_constructed
+      label: ADU Year Constructed
+      hint: Year the ADU was constructed or converted
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: adu_monthly_rent
+      label: ADU Monthly Rent
+      hint: Monthly rental amount for the ADU (if rented)
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: adu_occupancy_status
+      label: ADU Occupancy Status
+      hint: How is the ADU currently occupied?
+      type: select_one
+      options:
+      - Rented to tenants
+      - Occupied by family members
+      - Used as home office
+      - Vacant
+      - Seasonal use
+      - Other
+      required: true
+    - id: 11
+      name: adu_utility_arrangements
+      label: ADU Utility Arrangements
+      hint: How are utilities handled for the ADU?
+      type: select_multiple
+      options:
+      - Separate meters
+      - Shared with main house
+      - Included in rent
+      - Paid separately by tenant
+      - Other
+      required: true
+    - id: 12
+      name: adu_parking_arrangements
+      label: ADU Parking Arrangements
+      hint: How is parking arranged for the ADU?
+      type: select_one
+      options:
+      - Dedicated parking space
+      - Street parking
+      - Shared driveway
+      - Garage space
+      - No dedicated parking
+      - Other
+      required: true
+    - id: 13
+      name: adu_ownership_type
+      label: ADU Ownership Type
+      hint: Who owns the ADU?
+      type: select_one
+      options:
+      - Same owner as main house
+      - Different owner
+      - Rental company
+      - Other
+      required: true
+    - id: 14
+      name: adu_rental_income
+      label: ADU Rental Income
+      hint: Annual rental income from the ADU (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: adu_main_purpose
+      label: ADU Main Purpose
+      hint: What is the main purpose of your ADU?
+      type: select_multiple
+      options:
+      - Additional rental income
+      - Family housing
+      - Home office
+      - Guest accommodation
+      - Senior living solution
+      - Downsize main house
+      - Other
+      required: true
+    - id: 16
+      name: adu_regulatory_compliance
+      label: ADU Regulatory Compliance
+      hint: Is your ADU compliant with local zoning and building codes?
+      type: select_one
+      options:
+      - Fully Compliant
+      - Mostly Compliant
+      - Partially Compliant
+      - Not Compliant
+      - Don't Know
+      required: true
+    - id: 17
+      name: adu_challenges_faced
+      label: ADU Challenges Faced
+      hint: What challenges have you faced with your ADU?
+      type: select_multiple
+      options:
+      - Financing construction
+      - Obtaining permits
+      - Neighbor disputes
+      - Insurance issues
+      - Maintenance costs
+      - Tenant issues
+      - Regulatory compliance
+      - None
+      - Other
+      required: true
+    - id: 18
+      name: adu_satisfaction_level
+      label: ADU Satisfaction Level
+      hint: How satisfied are you with your ADU?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 19
+      name: adu_recommendation_likelihood
+      label: ADU Recommendation Likelihood
+      hint: How likely are you to recommend ADU development to others?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 20
+      name: additional_adu_comments
+      label: Additional ADU Comments
+      hint: Any other comments about your ADU experience?
+      type: text
+      options: []
+      required: false

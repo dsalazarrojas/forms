@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Housing Provider Registration
+    pages:
+    - id: 1
+      name: provider_details
+      label: Provider Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: provider_type
+      label: Provider Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''University''}'
+      - '{''value'': ''Agency''}'
+      - '{''value'': ''Housing Coordinator''}'
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: document_upload
+      label: Document Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: agreement_upload
+      label: Agreement Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm_terms
+      label: Confirm Terms
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''I confirm that I have read and agree to the terms and conditions.''}'
+      - '{''value'': None}'
+      required: false
+    - id: 14
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: provider_agreement
+      label: Provider Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''I am aware that I must provide accurate and truthful information
+        for all fields.''}'
+      - '{''value'': ''I am aware that I must provide accurate and truthful information
+        for all fields.''}'
+      required: false

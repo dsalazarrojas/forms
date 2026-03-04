@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: "Academic Collaboration Across Borders Survey"
+    pages:
+    - id: 1
+      name: section_header_respondent_info
+      label: "-- Respondent Information --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: "Full name (optional)"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: "Email address"
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institution
+      label: "Institution or university"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: country
+      label: "Country of your institution"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: academic_role
+      label: "Your academic role"
+      hint: null
+      type: select_one
+      options:
+        - "Professor"
+        - "Associate Professor"
+        - "Assistant Professor"
+        - "Lecturer"
+        - "Researcher"
+        - "Post-doctoral fellow"
+        - "Graduate student"
+        - "Other"
+      required: true
+    - id: 7
+      name: discipline
+      label: "Primary discipline or field"
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_collaboration_experience
+      label: "-- International Collaboration Experience --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: has_international_collaborations
+      label: "Have you participated in international academic collaborations"
+      hint: null
+      type: select_one
+      options:
+        - "Yes - currently active"
+        - "Yes - in the past"
+        - "No - but interested"
+        - "No - not interested"
+      required: true
+    - id: 10
+      name: number_of_partnerships
+      label: "How many international partnerships have you been involved in"
+      hint: null
+      type: select_one
+      options:
+        - "None"
+        - "1 to 2"
+        - "3 to 5"
+        - "6 to 10"
+        - "More than 10"
+      required: true
+    - id: 11
+      name: collaboration_types
+      label: "Types of international collaboration you have engaged in"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Joint research projects"
+        - "Co-authored publications"
+        - "Student exchange programs"
+        - "Faculty exchange"
+        - "Joint conferences or workshops"
+        - "Grant co-applications"
+        - "Curriculum development"
+      required: true
+    - id: 12
+      name: regions_collaborated_with
+      label: "Which regions have you collaborated with"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "North America"
+        - "South America"
+        - "Europe"
+        - "Africa"
+        - "Asia"
+        - "Middle East"
+        - "Oceania"
+      required: false
+    - id: 13
+      name: section_header_challenges
+      label: "-- Challenges and Opportunities --"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: major_challenges
+      label: "What are the biggest challenges in cross-border academic collaboration"
+      hint: "Select all that apply"
+      type: select_multiple
+      options:
+        - "Language barriers"
+        - "Time zone differences"
+        - "Funding limitations"
+        - "Bureaucratic or regulatory hurdles"
+        - "Cultural differences"
+        - "Technology infrastructure gaps"
+        - "Intellectual property concerns"
+      required: true
+    - id: 15
+      name: institutional_support
+      label: "How well does your institution support international collaboration"
+      hint: null
+      type: select_one
+      options:
+        - "Very well supported"
+        - "Somewhat supported"
+        - "Neutral"
+        - "Poorly supported"
+        - "Not supported at all"
+      required: true
+    - id: 16
+      name: desired_improvements
+      label: "What improvements would most benefit international academic collaboration"
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: "Additional comments or insights"
+      hint: null
+      type: text
+      options: []
+      required: false

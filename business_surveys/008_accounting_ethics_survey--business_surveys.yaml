@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Ethics Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Survey introduction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Respondent role
+      hint: Role within the firm or organization
+      type: select_one
+      options:
+      - Staff accountant
+      - Manager
+      - Partner
+      - Intern
+      - Other
+      required: true
+    - id: 3
+      name: years_experience
+      label: Years of accounting experience
+      hint: Round to nearest whole year
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: familiarity_with_code_of_ethics
+      label: Familiarity with code of ethics
+      hint: How familiar are you with the firm code of ethics
+      type: select_one
+      options:
+      - Very familiar
+      - Somewhat familiar
+      - Not very familiar
+      - Not familiar at all
+      required: true
+    - id: 5
+      name: witnessed_unethical_behavior
+      label: Have you witnessed unethical behavior
+      hint: Include examples in comments if comfortable
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: reporting_confidence
+      label: Confidence in reporting mechanisms
+      hint: Rate your confidence that issues will be handled
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Not confident
+      - Not at all confident
+      required: true
+    - id: 7
+      name: ethical_training_received
+      label: Ethical training received
+      hint: Indicate whether training has been provided
+      type: select_one
+      options:
+      - Yes within last 12 months
+      - Yes over 12 months ago
+      - No formal training
+      required: false
+    - id: 8
+      name: adequacy_of_policies
+      label: Adequacy of ethics policies
+      hint: Do current policies cover common ethical issues
+      type: select_one
+      options:
+      - Adequate
+      - Partially adequate
+      - Inadequate
+      required: true
+    - id: 9
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: Concrete suggestions to improve ethics and reporting
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: anonymity_preference
+      label: Would you like to remain anonymous
+      hint: Choose whether responses can be linked back to you
+      type: select_one
+      options:
+      - Yes remain anonymous
+      - No identify me
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

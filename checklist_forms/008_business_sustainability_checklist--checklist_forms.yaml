@@ -1,0 +1,169 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Sustainability Checklist
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Your company name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department or Division
+      hint: Which department is completing this
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assessment_date
+      label: Assessment Date
+      hint: When is this assessment being conducted
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: assessor_name
+      label: Assessor Name
+      hint: Who is completing the checklist
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessor_email
+      label: Assessor Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: environmental_practices
+      label: Environmental Practices Status
+      hint: How well are environmental practices implemented
+      type: select_one
+      options:
+      - Fully Implemented
+      - Mostly Implemented
+      - Partially Implemented
+      - Minimally Implemented
+      - Not Implemented
+      required: true
+    - id: 7
+      name: renewable_energy
+      label: Renewable Energy Usage
+      hint: Does your organization use renewable energy
+      type: select_one
+      options:
+      - Yes, fully
+      - Yes, partially
+      - Planning to implement
+      - No plans currently
+      - Not applicable
+      required: true
+    - id: 8
+      name: waste_reduction
+      label: Waste Reduction Programs
+      hint: Waste management initiatives in place
+      type: select_multiple
+      options:
+      - Recycling Program
+      - Composting
+      - Waste Audit
+      - Supplier Requirements
+      - Employee Training
+      - None
+      required: true
+    - id: 9
+      name: water_conservation
+      label: Water Conservation Measures
+      hint: Select implemented measures
+      type: select_multiple
+      options:
+      - Low-flow fixtures
+      - Rainwater harvesting
+      - Water monitoring
+      - Leak prevention
+      - Landscape optimization
+      - None
+      required: true
+    - id: 10
+      name: carbon_footprint
+      label: Carbon Footprint Assessment
+      hint: Have you measured your carbon footprint
+      type: select_one
+      options:
+      - Yes, annually
+      - Yes, occasionally
+      - In progress
+      - Not yet
+      - No plans
+      required: true
+    - id: 11
+      name: social_responsibility
+      label: Social Responsibility Programs
+      hint: Community engagement initiatives
+      type: select_multiple
+      options:
+      - Community Service
+      - Charitable Giving
+      - Fair Labor Practices
+      - Employee Wellness
+      - Diversity and Inclusion
+      - None
+      required: true
+    - id: 12
+      name: governance_standards
+      label: Governance Standards
+      hint: Corporate governance practices in place
+      type: select_multiple
+      options:
+      - Code of Ethics
+      - Board Oversight
+      - Risk Management
+      - Stakeholder Engagement
+      - Transparency Reporting
+      - None
+      required: true
+    - id: 13
+      name: sustainability_training
+      label: Employee Sustainability Training
+      hint: Training and awareness programs
+      type: select_one
+      options:
+      - Comprehensive
+      - Basic
+      - Planned
+      - Minimal
+      - None
+      required: true
+    - id: 14
+      name: sustainability_goals
+      label: Established Sustainability Goals
+      hint: Do you have specific targets
+      type: select_one
+      options:
+      - Yes, clearly defined
+      - Yes, but vague
+      - In development
+      - Not yet
+      required: true
+    - id: 15
+      name: improvement_areas
+      label: Priority Areas for Improvement
+      hint: Which areas need the most attention
+      type: text
+      options: []
+      required: false

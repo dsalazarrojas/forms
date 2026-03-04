@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Launch Event Feedback Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Virtual Launch Event Feedback Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Virtual''}'
+      - '{''id'': 2, ''value'': ''In-person''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: attendees_number
+      label: attendees_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: attendees_satisfaction
+      label: attendees_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_success
+      label: event_success
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      required: false
+    - id: 6
+      name: area_for_improvement
+      label: area_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false

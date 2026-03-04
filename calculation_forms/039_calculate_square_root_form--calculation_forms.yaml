@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calculate Square Root Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For results
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: calculation_date
+      label: Calculation Date
+      hint: Today's date
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: number_input
+      label: Number
+      hint: Enter the number to calculate square root
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: calculation_note
+      label: Square Root Calculation
+      hint: The square root will be calculated automatically
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: precision
+      label: Decimal Precision
+      hint: How many decimal places
+      type: select_one
+      options:
+      - 2 decimal places
+      - 4 decimal places
+      - 6 decimal places
+      - 8 decimal places
+      - Exact form
+      required: false
+    - id: 7
+      name: show_steps
+      label: Show Calculation Steps
+      hint: Display step-by-step solution
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: purpose
+      label: Purpose
+      hint: What is this calculation for
+      type: select_one
+      options:
+      - Homework
+      - Test preparation
+      - Work project
+      - Personal interest
+      - Other
+      required: false
+    - id: 9
+      name: grade_level
+      label: Grade Level
+      hint: Your current grade or level
+      type: select_one
+      options:
+      - Elementary
+      - Middle school
+      - High school
+      - College
+      - Graduate
+      - Professional
+      - Other
+      required: false
+    - id: 10
+      name: subject
+      label: Subject
+      hint: Related subject
+      type: select_one
+      options:
+      - Algebra
+      - Geometry
+      - Trigonometry
+      - Calculus
+      - Statistics
+      - Physics
+      - Engineering
+      - Other
+      required: false
+    - id: 11
+      name: email_results
+      label: Email Results
+      hint: Send results to your email
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: additional_calculations
+      label: Need Additional Calculations
+      hint: Would you like to calculate more
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: feedback
+      label: Feedback
+      hint: Any feedback about this tool
+      type: text
+      options: []
+      required: false

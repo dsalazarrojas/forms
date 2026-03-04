@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Solar Savings Calculator
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: Enter your address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - FL
+      - HI
+      - IA
+      - ID
+      - LA
+      required: true
+    - id: 4
+      name: zip_code
+      label: Zip Code
+      hint: 5 digits
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: electricity_rate
+      label: Electricity Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: usage
+      label: Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: roof_type
+      label: Roof Type
+      hint: null
+      type: select_multiple
+      options:
+      - Asphalt
+      - Tile
+      - Wood
+      - Metal
+      - Clay
+      required: true
+    - id: 8
+      name: solar_panels
+      label: Solar Panels
+      hint: null
+      type: select_one
+      options:
+      - High-Efficiency
+      - Low-Efficiency
+      - No Solar
+      required: true
+    - id: 9
+      name: installation_year
+      label: Installation Year
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-Person
+      required: true
+    - id: 11
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: company_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - FL
+      - HI
+      - IA
+      - ID
+      - LA
+      - MA
+      - OH
+      - TX
+      required: true
+    - id: 18
+      name: company_zip
+      label: Zip Code
+      hint: 5 digits
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: company_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: company_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: company_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: lead_type
+      label: Lead Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      required: true
+    - id: 23
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Existing
+      - New
+      required: true
+    - id: 24
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Large
+      required: false
+    - id: 25
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Qualified
+      - Not Qualified
+      required: true

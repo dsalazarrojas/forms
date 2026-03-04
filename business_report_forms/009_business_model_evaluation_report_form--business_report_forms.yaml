@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Model Evaluation Report Form
+    pages:
+    - id: 1
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date of this evaluation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Name of person conducting evaluation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_email
+      label: Evaluator Email
+      hint: Contact email of evaluator
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of company being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_industry
+      label: Industry
+      hint: What industry is the company in?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Services
+      - Education
+      - Other
+      required: true
+    - id: 6
+      name: value_proposition_clarity
+      label: Value Proposition - Clarity Score
+      hint: Rate clarity of value proposition (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: value_proposition_strength
+      label: Value Proposition - Strength Score
+      hint: Rate strength of value proposition (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: customer_segment_definition
+      label: Customer Segment Definition Score
+      hint: How well-defined are segments? (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: customer_segment_reach
+      label: Customer Segment Reach Score
+      hint: Can you reach defined segments? (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: revenue_streams_count
+      label: Number of Revenue Streams
+      hint: How many distinct revenue streams?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: revenue_stream_sustainability
+      label: Revenue Stream Sustainability Score
+      hint: Are streams sustainable? (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: revenue_stream_growth
+      label: Revenue Growth Potential Score
+      hint: Growth potential of revenue? (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: key_resource_strength
+      label: Key Resources Strength Score
+      hint: Do you have needed resources? (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: key_activities_efficiency
+      label: Key Activities Efficiency Score
+      hint: Are core activities efficient? (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: partnership_quality
+      label: Partnership Quality Score
+      hint: Quality of key partnerships? (1-10)
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: cost_structure_optimization
+      label: Cost Structure Optimization Score
+      hint: Is cost structure optimized? (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: overall_business_model_score
+      label: Overall Business Model Score
+      hint: Overall assessment (1-10)
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: competitive_position
+      label: Competitive Position Analysis
+      hint: How strong is competitive position?
+      type: select_one
+      options:
+      - Very Strong
+      - Strong
+      - Moderate
+      - Weak
+      - Under Threat
+      required: true
+    - id: 19
+      name: market_viability
+      label: Market Viability Assessment
+      hint: Is there sufficient market demand?
+      type: select_one
+      options:
+      - Highly Viable
+      - Viable
+      - Questionable
+      - Risky
+      - Not Viable
+      required: true
+    - id: 20
+      name: key_strengths
+      label: Key Strengths
+      hint: What are the main business strengths?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: key_weaknesses
+      label: Key Weaknesses
+      hint: What areas need improvement?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: improvement_recommendations
+      label: Improvement Recommendations
+      hint: Specific recommendations for improvement
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Key risks and mitigation strategies
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: implementation_priorities
+      label: Implementation Priorities
+      hint: What should be addressed first?
+      type: text
+      options: []
+      required: false

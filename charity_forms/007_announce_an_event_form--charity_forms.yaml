@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Announce An Event Form
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Contact Person Name
+      hint: Full name of the event organizer
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization or charity
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_title
+      label: Event Title
+      hint: Official name of your event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: What type of event is this?
+      type: select_one
+      options:
+      - Fundraiser
+      - Charity Gala
+      - Community Event
+      - Awareness Campaign
+      - Volunteer Drive
+      - Donation Drive
+      - Educational Workshop
+      - Conference
+      - Other
+      required: true
+    - id: 7
+      name: event_category
+      label: Event Category
+      hint: Select the primary cause or category
+      type: select_one
+      options:
+      - Health and Medical
+      - Education
+      - Environment
+      - Human Rights
+      - Animal Welfare
+      - Arts and Culture
+      - Youth Development
+      - Senior Services
+      - Disaster Relief
+      - Other
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: When will the event take place?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Event Start Time
+      hint: What time does the event begin?
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_end_time
+      label: Event End Time
+      hint: What time does the event end?
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: venue_name
+      label: Venue Name
+      hint: Where will the event be held?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: venue_address
+      label: Venue Address
+      hint: Full address of the venue
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_format
+      label: Event Format
+      hint: How will the event be conducted?
+      type: select_one
+      options:
+      - In-Person
+      - Virtual
+      - Hybrid
+      - Outdoor
+      - Multiple Locations
+      required: true
+    - id: 14
+      name: expected_attendance
+      label: Expected Attendance
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: event_description
+      label: Event Description
+      hint: Provide a detailed description of your event
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: mission_statement
+      label: Mission or Purpose
+      hint: What is the goal of this event?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: fundraising_goal
+      label: Fundraising Goal
+      hint: Target amount to raise if applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: registration_required
+      label: Registration Required
+      hint: Do attendees need to register?
+      type: select_one
+      options:
+      - Yes, Required
+      - Recommended
+      - Not Required
+      required: true
+    - id: 19
+      name: registration_fee
+      label: Registration Fee
+      hint: Cost to attend if any
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: registration_link
+      label: Registration URL
+      hint: Link to registration page
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_website
+      label: Event Website
+      hint: URL for more information
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: social_media_links
+      label: Social Media Links
+      hint: Relevant social media pages
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: target_audience
+      label: Target Audience
+      hint: Who is this event for?
+      type: select_multiple
+      options:
+      - General Public
+      - Families
+      - Young Professionals
+      - Seniors
+      - Students
+      - Corporate Partners
+      - Donors
+      - Volunteers
+      - Community Leaders
+      - Other
+      required: true
+    - id: 24
+      name: accessibility_features
+      label: Accessibility Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Wheelchair Accessible
+      - Sign Language Interpreter
+      - Assistive Listening
+      - Accessible Restrooms
+      - Service Animal Friendly
+      - Quiet Space Available
+      - Other
+      - Not Sure
+      required: false
+    - id: 25
+      name: sponsorship_opportunities
+      label: Sponsorship Opportunities Available
+      hint: Are there sponsorship options?
+      type: select_one
+      options:
+      - true
+      - false
+      - Contact for Details
+      required: false
+    - id: 26
+      name: media_contact
+      label: Media Contact Name
+      hint: Person for press inquiries
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_notes
+      label: Additional Information
+      hint: Any other details to include
+      type: text
+      options: []
+      required: false

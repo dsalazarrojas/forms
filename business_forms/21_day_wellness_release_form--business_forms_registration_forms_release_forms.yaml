@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 21 Day Wellness Release Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this for event updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code if outside the U.S.
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: Required for age verification
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: age
+      label: Age
+      hint: Auto-calculated if date of birth is entered
+      type: integer
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_emergency_contact
+      label: '--- Emergency Contact ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: Full name of primary contact
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: Include country code if outside the U.S.
+      type: phone
+      options: []
+      required: false
+    - id: 11
+      name: section_header_program_details
+      label: '--- Wellness Program Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: experience_level
+      label: Experience level
+      hint: Choose the level that best describes your fitness background
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 13
+      name: how_heard
+      label: How did you hear about us?
+      hint: Select the primary source
+      type: select_one
+      options:
+      - Social media
+      - Friend/Family
+      - Website
+      - Flyer/Poster
+      - Other
+      required: false
+    - id: 14
+      name: program_start_date
+      label: Program start date
+      hint: Date when the 21‑day program begins
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: program_end_date
+      label: Program end date
+      hint: Date when the 21‑day program ends
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: section_header_health_and_medical
+      label: '--- Health & Medical Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Known medical conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Hypertension
+      - Asthma
+      - Heart disease
+      - None
+      required: false
+    - id: 18
+      name: medications
+      label: Current medications
+      hint: List any prescription or over‑the‑counter meds
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: allergies
+      label: Allergies
+      hint: Specify any food or medication allergies
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: injury_history
+      label: Past injuries or surgeries
+      hint: Provide details if applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_release_and_consent
+      label: '--- Release & Consent ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: consent_to_participate
+      label: Consent to participate
+      hint: By selecting Yes, you agree to take part in the program
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: release_of_liability
+      label: Release of liability
+      hint: Agree to release the organizers from liability
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      required: true
+    - id: 24
+      name: signature
+      label: Electronic signature
+      hint: Please type your full name as your signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: section_header_additional_notes
+      label: '--- Additional Notes ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: special_needs
+      label: Any special requirements or accommodations?
+      hint: For example, dietary restrictions or mobility needs
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Share anything else that might help us support you
+      type: text
+      options: []
+      required: false

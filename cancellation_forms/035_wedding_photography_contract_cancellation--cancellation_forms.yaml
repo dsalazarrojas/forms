@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: wedding_photography_contract_cancellation
+    pages:
+    - id: 1
+      name: client
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cancellation_reason
+      label: Why are you cancelling?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_cancellation
+      label: Date of cancellation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: payment_refund
+      label: Payment Refund
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: amount_refunded
+      label: Amount Refunded
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: photographer_response
+      label: Photographer's response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photographer_message
+      label: Message from Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_consent
+      label: Client's Consent
+      hint: null
+      type: select_one
+      options:
+      - Client has read and understood the cancellation policy
+      - Client has not read and understood the cancellation policy
+      required: true
+    - id: 9
+      name: photographer_consent
+      label: Photographer's Consent
+      hint: null
+      type: select_one
+      options:
+      - Client has read and understood the cancellation policy
+      - Client has not read and understood the cancellation policy
+      required: true
+    - id: 10
+      name: date_of_original_booking
+      label: Date of Original Booking
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Refund via Bank Transfer
+      - Refund via Cheque
+      required: true
+    - id: 12
+      name: client_signature
+      label: Client's Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: photographer_signature
+      label: Photographer's Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: date_of_signature
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: cancellation_policy
+      label: Cancellation policy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: photographer_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cancellation_fees
+      label: Cancellation fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: Please check with Client about payment status
+      type: select_one
+      options:
+      - Paid in Full
+      - Partially Paid
+      required: false
+    - id: 21
+      name: payment_refund_status
+      label: Refund Status
+      hint: Please check with Client about refund status
+      type: select_one
+      options:
+      - Approved Refund
+      - Pending Refund
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: photographer
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: contact_photographer
+      label: Contact Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: email_photographer
+      label: Email Photographer
+      hint: null
+      type: text
+      options: []
+      required: false

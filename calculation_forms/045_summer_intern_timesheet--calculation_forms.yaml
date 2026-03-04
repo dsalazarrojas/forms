@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Intern Timesheet
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: finish_time
+      label: Finish Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lunch_break
+      label: Lunch Break
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: activities
+      label: Activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tasks
+      label: Tasks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project
+      label: Project
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Project 1''}'
+      - '{''id'': 2, ''name'': ''Project 2''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_goals
+      label: Project Goals
+      hint: null
+      type: text
+      options: []
+      required: false

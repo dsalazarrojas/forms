@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organization Awards Nomination Form
+    pages:
+    - id: 1
+      name: organization_awards_nomination_form_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: award_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Industry
+      - Organization
+      required: true
+    - id: 3
+      name: award_recipient
+      label: Recipient
+      hint: null
+      type: select_multiple
+      options:
+      - Team
+      - Employee
+      - Client
+      required: true
+    - id: 4
+      name: nomination_justification
+      label: Nomination Justification
+      hint: This is a text field for the nomination justification.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: planned_nominations
+      label: Planned Nominations
+      hint: How many nominations do you plan to provide in this year?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: actual_nominations
+      label: Actual Nominations
+      hint: How many nominations did you actually award this year?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: nomination_year
+      label: Nomination Year
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: date_nominations
+      label: Date Nominations
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: award_date
+      label: Award Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: nomination_amount
+      label: Nomination Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: email_contact
+      label: Email Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_contact
+      label: Phone Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: award_recipient_phone
+      label: Award Recipient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_nominations
+      label: Additional Nominations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

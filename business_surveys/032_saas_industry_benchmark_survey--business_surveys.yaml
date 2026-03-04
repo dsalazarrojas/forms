@@ -1,0 +1,359 @@
+inputSchema:
+  type: object
+  properties:
+    title: SaaS Industry Benchmark Survey
+    pages:
+    - id: 1
+      name: arr_range
+      label: ARR Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: revenue_range
+      label: Revenue Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: churn_rate
+      label: Churn Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less than 10'', ''value'': ''less_than_10''}'
+      - '{''id'': 2, ''label'': ''10-49'', ''value'': 1049}'
+      - '{''id'': 3, ''label'': ''50-99'', ''value'': 5099}'
+      - '{''id'': 4, ''label'': ''100-499'', ''value'': 100499}'
+      - '{''id'': 5, ''label'': ''500-999'', ''value'': 500999}'
+      - '{''id'': 6, ''label'': ''1000+'', ''value'': ''1000_plus''}'
+      required: false
+    - id: 5
+      name: priorities
+      label: Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Cost'', ''value'': ''cost''}'
+      - '{''id'': 2, ''label'': ''Revenue'', ''value'': ''revenue''}'
+      - '{''id'': 3, ''label'': ''Market Share'', ''value'': ''marketshare''}'
+      - '{''id'': 4, ''label'': ''Customer Engagement'', ''value'': ''engagement''}'
+      - '{''id'': 6, ''label'': ''Competitive Differentiation'', ''value'': ''differentiation''}'
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_profits
+      label: Company Profits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_profits
+      label: Other Profits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_details_2
+      label: Other Details 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_info_2
+      label: Other Info 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_comments_2
+      label: Other Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_profits_2
+      label: Other Profits 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_details_3
+      label: Other Details 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: other_info_3
+      label: Other Info 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_comments_3
+      label: Other Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: other_profits_3
+      label: Other Profits 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_details_4
+      label: Other Details 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: other_info_4
+      label: Other Info 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: other_comments_4
+      label: Other Comments 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: other_profits_4
+      label: Other Profits 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: other_details_5
+      label: Other Details 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: other_info_5
+      label: Other Info 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: other_comments_5
+      label: Other Comments 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: other_profits_5
+      label: Other Profits 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: other_details_6
+      label: Other Details 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: other_info_6
+      label: Other Info 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: other_comments_6
+      label: Other Comments 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: other_profits_6
+      label: Other Profits 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: other_details_7
+      label: Other Details 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: other_info_7
+      label: Other Info 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: other_comments_7
+      label: Other Comments 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: other_profits_7
+      label: Other Profits 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: other_details_8
+      label: Other Details 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: other_info_8
+      label: Other Info 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: other_comments_8
+      label: Other Comments 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: other_profits_8
+      label: Other Profits 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: other_details_9
+      label: Other Details 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: other_info_9
+      label: Other Info 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: other_comments_9
+      label: Other Comments 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: other_profits_9
+      label: Other Profits 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: other_details_10
+      label: Other Details 10
+      hint: null
+      type: text
+      options: []
+      required: false

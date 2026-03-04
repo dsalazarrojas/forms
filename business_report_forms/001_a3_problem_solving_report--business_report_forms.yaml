@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: A3 Problem Solving Report
+    pages:
+    - id: 1
+      name: header_section
+      label: -- Problem Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Reporter name
+      hint: Full name of person completing this report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or team
+      hint: Team responsible for the process
+      type: select_one
+      options: [Operations,Engineering,Product,Support,Other]
+      required: true
+    - id: 4
+      name: problem_statement
+      label: Problem statement
+      hint: Brief description of the issue being addressed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_condition
+      label: Current condition summary
+      hint: What is happening now and how often
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: root_cause_analysis
+      label: Root cause analysis summary
+      hint: Key causes identified through analysis
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: countermeasures
+      label: Proposed countermeasures
+      hint: Actions to resolve the problem and responsible owners
+      type: select_multiple
+      options: [Process change,Training,Tooling update,Staffing,Other]
+      required: true
+    - id: 8
+      name: implementation_plan
+      label: Implementation plan and timeline
+      hint: Major milestones and expected completion dates
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_metrics
+      label: Follow up metrics
+      hint: How success will be measured and review dates
+      type: text
+      options: []
+      required: false

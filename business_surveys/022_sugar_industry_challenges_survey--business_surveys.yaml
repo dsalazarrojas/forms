@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: sugar_industry_challenges_survey
+    pages:
+    - id: 1
+      name: industry_pain_points
+      label: Industry Pain Points
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: priorities
+      label: Priorities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - Association
+      - Business
+      - Other
+      - Researcher
+      required: false
+    - id: 4
+      name: region
+      label: Region
+      hint: null
+      type: select_multiple
+      options:
+      - Americas
+      - Asia
+      - Europe
+      - Other
+      required: true
+    - id: 5
+      name: submissions
+      label: Submissions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pain_point_1
+      label: Pain Point 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: pain_point_2
+      label: Pain Point 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: priority_1
+      label: Priority 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: priority_2
+      label: Priority 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_at_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

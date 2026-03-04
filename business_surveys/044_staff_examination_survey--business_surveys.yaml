@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Examination Survey
+    pages:
+    - id: 1
+      name: staff_examination_survey_form
+      label: Employee Details
+      hint: Enter employee details here
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_position
+      label: Position
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - Team Member
+      required: false
+    - id: 4
+      name: strengths
+      label: Strengths
+      hint: Enter employee strengths
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: Enter areas for improvement
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: promotion_recommendations
+      label: Promotion Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_evaluation
+      label: Employee Evaluation
+      hint: Enter evaluation
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: Select evaluation scale
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: recommendations
+      label: Recommendations
+      hint: Enter recommendations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: Enter next steps
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_last_review
+      label: Date Last Review
+      hint: Enter date last review
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_last_review
+      label: Time Last Review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Enter reviewer name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reviewer_position
+      label: Reviewer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_email
+      label: Reviewer Email
+      hint: Enter reviewer email
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: Enter reviewer phone
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_submitted
+      label: Date Submitted
+      hint: Enter date submitted
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time_submitted
+      label: Time Submitted
+      hint: Enter time submitted
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: Enter submitted by
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: staff_reviewer_comments
+      label: Staff Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false

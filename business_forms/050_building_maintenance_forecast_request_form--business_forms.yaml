@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Forecast Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company Name
+      hint: Organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: property_name
+      label: Property Name
+      hint: Name of property
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: Classification
+      type: select_one
+      options:
+      - Office Building
+      - Residential Complex
+      - Retail Center
+      - Industrial Facility
+      - Mixed Use
+      - Institutional
+      - Other
+      required: true
+    - id: 10
+      name: building_size
+      label: Building Size
+      hint: Square footage
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: number_of_floors
+      label: Number of Floors
+      hint: Total floors
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: forecast_period
+      label: Forecast Period
+      hint: Time period for forecast
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 3 Years
+      - 5 Years
+      - 10 Years
+      - Custom Period
+      required: true
+    - id: 14
+      name: forecast_scope
+      label: Forecast Scope
+      hint: What to include
+      type: select_multiple
+      options:
+      - Routine Maintenance
+      - Preventive Maintenance
+      - Capital Improvements
+      - Emergency Repairs
+      - System Replacements
+      - Exterior Maintenance
+      - Interior Maintenance
+      - Landscaping
+      - All Areas
+      required: true
+    - id: 15
+      name: current_maintenance_budget
+      label: Current Maintenance Budget
+      hint: Annual budget
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_history
+      label: Maintenance History
+      hint: How well maintained
+      type: select_one
+      options:
+      - Excellent - Well Documented
+      - Good - Mostly Up to Date
+      - Fair - Some Gaps
+      - Poor - Limited History
+      - Unknown
+      required: true
+    - id: 17
+      name: known_issues
+      label: Known Issues
+      hint: Current problems
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recent_improvements
+      label: Recent Improvements
+      hint: Work done recently
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: major_systems_age
+      label: Major Systems Age
+      hint: HVAC, roof, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: priority_areas
+      label: Priority Areas
+      hint: What to focus on
+      type: select_multiple
+      options:
+      - Cost Reduction
+      - Preventive Planning
+      - Capital Planning
+      - Compliance
+      - Risk Management
+      - Energy Efficiency
+      - Tenant Satisfaction
+      - All Areas
+      required: true
+    - id: 21
+      name: forecast_format
+      label: Forecast Format
+      hint: Preferred format
+      type: select_one
+      options:
+      - Detailed Report
+      - Executive Summary
+      - Spreadsheet
+      - Presentation
+      - Dashboard
+      required: true
+    - id: 22
+      name: include_recommendations
+      label: Include Recommendations
+      hint: Should forecast include advice
+      type: select_one
+      options:
+      - Yes - Detailed
+      - Yes - Summary
+      - No - Data Only
+      required: true
+    - id: 23
+      name: stakeholder_review
+      label: Stakeholder Review
+      hint: Who will review
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: deadline
+      label: Deadline
+      hint: When do you need forecast
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: budget_for_forecast
+      label: Budget for Forecast
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $2,000
+      - $2,000 - $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - Over $25,000
+      required: false
+    - id: 26
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special needs
+      type: text
+      options: []
+      required: false

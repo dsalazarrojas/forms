@@ -1,0 +1,124 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 50:50 Agreement Survey
+    pages:
+    - id: 1
+      name: section_header_overview
+      label: "--- Agreement Overview ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role
+      label: Role or affiliation (company, partner, stakeholder)
+      hint: e.g., Co-owner, Team Lead, Investor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Include country code if outside local area
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: agreement_understanding
+      label: "Do you understand the terms of the proposed 50:50 split?"
+      hint: Select the option that best matches your understanding
+      type: select_one
+      options:
+        - Yes, fully understood
+        - Mostly understood, minor questions
+        - Not fully understood
+        - No, need full explanation
+      required: true
+    - id: 7
+      name: fairness_rating
+      label: "How fair do you consider a 50:50 split? (1 = very unfair, 10 = perfectly fair)"
+      hint: Use whole numbers 1 to 10
+      type: integer
+      options: []
+      required: true
+    - id: 8
+      name: primary_concerns
+      label: "Primary concerns about the 50:50 arrangement (select all that apply)"
+      hint: Check all that apply
+      type: select_multiple
+      options:
+        - Unequal effort or contribution
+        - Unclear decision-making authority
+        - Financial risk distribution
+        - Exit or dissolution terms
+        - Intellectual property ownership
+        - Tax or legal implications
+      required: false
+    - id: 9
+      name: proposed_modifications
+      label: Suggested modifications to improve fairness (short list)
+      hint: Suggest specific clause changes or mechanisms
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: acceptance_likelihood
+      label: "Likelihood you would accept this 50:50 agreement"
+      hint: Choose the best single response
+      type: select_one
+      options:
+        - Very likely
+        - Somewhat likely
+        - Unsure
+        - Unlikely
+        - Definitely not
+      required: true
+    - id: 11
+      name: mitigation_measures
+      label: Recommended mitigation measures (e.g., vesting, dispute resolution)
+      hint: Provide concise actionable measures
+      type: select_multiple
+      options:
+        - Vesting schedule
+        - Mediation/arbitration clause
+        - Performance milestones
+        - Buy-sell provisions
+        - Third-party oversight
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments or detailed feedback
+      hint: Include examples, context, or any supporting notes
+      type: text
+      options: []
+      required: false

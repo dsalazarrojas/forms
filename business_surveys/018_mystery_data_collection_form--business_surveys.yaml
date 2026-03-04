@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mystery Data Collection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_field
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_field
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: select_one
+      label: What is your favorite food?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Apple''}'
+      - '{''id'': 2, ''label'': ''Banana''}'
+      - '{''id'': 3, ''label'': ''Cherry''}'
+      required: false
+    - id: 10
+      name: select_multiple
+      label: Which of the following is correct?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

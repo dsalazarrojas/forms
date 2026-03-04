@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Disposal Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: disposal_date
+      label: Disposal Date
+      hint: Date asset is being disposed
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: asset_id_number
+      label: Asset ID Number
+      hint: Company asset tracking number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: asset_description
+      label: Asset Description
+      hint: Name and detailed description
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: asset_category
+      label: Asset Category
+      hint: What type of asset?
+      type: select_one
+      options:
+      - Equipment
+      - Machinery
+      - Vehicles
+      - Furniture
+      - Technology
+      - Tools
+      - Other
+      required: true
+    - id: 6
+      name: purchase_date
+      label: Original Purchase Date
+      hint: When was asset acquired?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: original_cost
+      label: Original Purchase Cost
+      hint: What was paid for the asset?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: accumulated_depreciation
+      label: Accumulated Depreciation
+      hint: Total depreciation to date
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: book_value
+      label: Current Book Value
+      hint: Cost minus accumulated depreciation
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: disposal_method
+      label: Disposal Method
+      hint: How is asset being disposed?
+      type: select_one
+      options:
+      - Sold
+      - Donated
+      - Scrapped
+      - Recycled
+      - Given Away
+      - Destroyed
+      - Other
+      required: true
+    - id: 11
+      name: disposal_revenue
+      label: Revenue from Disposal
+      hint: Any money received from sale or donation
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: gain_or_loss
+      label: Gain or Loss on Disposal
+      hint: Calculated as proceeds minus book value
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: condition_at_disposal
+      label: Asset Condition at Disposal
+      hint: Condition when removed from service
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Non-functional
+      required: true
+    - id: 14
+      name: replacement_asset
+      label: Is Asset Being Replaced?
+      hint: Yes or no
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: replacement_asset_description
+      label: Replacement Asset Description
+      hint: Description of new asset if applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department_responsible
+      label: Department Responsible
+      hint: Department managing this asset
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_name
+      label: Manager Approval
+      hint: Name of manager authorizing disposal
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: location_at_disposal
+      label: Asset Location at Time of Disposal
+      hint: Where was asset located?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: final_inspection
+      label: Final Inspection Completed
+      hint: Was asset inspected before disposal?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: disposal_documentation
+      label: Disposal Documentation Attached
+      hint: Sales receipt, donation form, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: environmental_compliance
+      label: Environmental Compliance Verified
+      hint: Disposed of in environmentally safe manner?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special circumstances or information
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preparer_name
+      label: Form Prepared By
+      hint: Name of person preparing this form
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: preparer_date
+      label: Date Form Completed
+      hint: Date this form was prepared
+      type: date
+      options: []
+      required: true

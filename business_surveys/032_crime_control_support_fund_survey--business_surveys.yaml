@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crime Control Support Fund Survey
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: support_levels
+      label: Support Levels
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: engagement_preferences
+      label: Engagement Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: support_fund
+      label: Do you support the Crime Control Support Fund?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': True}'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

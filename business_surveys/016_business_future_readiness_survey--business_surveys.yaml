@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Future Readiness Survey
+    pages:
+    - id: 1
+      name: section_org_profile
+      label: -- Organizational Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name_readiness
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_role_readiness
+      label: Your Current Role
+      hint: e.g. Executive, Manager, Individual Contributor
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_preparedness_assessment
+      label: -- Preparedness Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: future_trend_awareness_score
+      label: Awareness of Future Industry Trends
+      hint: Rate from 1 (Unaware) to 5 (Expertly Informed)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: digital_transformation_maturity_level
+      label: Digital Transformation Maturity
+      hint: Where is your organization in its digital journey
+      type: select_one
+      options:
+      - Early (Just starting digital adoption)
+      - Developing (Implementing core digital tools)
+      - Advanced (Data-driven and highly automated)
+      - Leading (Innovating with emerging tech)
+      required: true
+    - id: 7
+      name: operational_agility_rating
+      label: Agility of Current Processes
+      hint: How quickly can your processes adapt to change
+      type: select_one
+      options:
+      - High (Very flexible and rapid)
+      - Moderate (Slow but manageable)
+      - Low (Rigid and difficult to change)
+      required: true
+    - id: 8
+      name: key_future_challenges_identified
+      label: Significant Future Challenges
+      hint: Select the top 3 concerns for your organization
+      type: select_multiple
+      options:
+      - Economic Volatility
+      - Disruptive Technology
+      - Talent Shortage / Skills Gap
+      - Climate Change / Sustainability
+      - Regulatory Changes
+      - Cybersecurity Threats
+      required: true
+    - id: 9
+      name: innovation_culture_score
+      label: Innovation Culture Rating
+      hint: How much does the organization encourage new ideas (1-5)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: emerging_tech_investment_status
+      label: Investment in Emerging Technology
+      hint: AI, Blockchain, IoT, etc.
+      type: select_one
+      options:
+      - Significant Investment
+      - Moderate / Pilot Testing
+      - Minimal / Monitoring
+      - No Current Investment
+      required: true
+    - id: 11
+      name: skill_development_readiness
+      label: Training Programs for Future Skills
+      hint: Are there active programs to upskill employees for future needs
+      type: select_one
+      options:
+      - Comprehensive programs in place
+      - Some ad-hoc training available
+      - Planning stage only
+      - No programs currently
+      required: true
+    - id: 12
+      name: strategic_planning_horizon_length
+      label: Strategic Planning Horizon
+      hint: How far into the future does your planning extend
+      type: select_one
+      options:
+      - 1 year or less
+      - 2 to 3 years
+      - 4 to 5 years
+      - 10+ years
+      required: true
+    - id: 13
+      name: section_final_thoughts
+      label: -- Final Insights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_readiness_comments
+      label: Additional Comments on Future Readiness
+      hint: Any specific areas of concern or strength
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: readiness_survey_date
+      label: Survey Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

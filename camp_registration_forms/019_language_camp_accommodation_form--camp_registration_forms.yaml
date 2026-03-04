@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Camp Accommodation Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accommodation_type
+      label: accommodation_type
+      hint: null
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Shared Room
+      required: false
+    - id: 3
+      name: accommodation_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accommodation_postcode
+      label: Postcode
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: accommodation_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: accommodation_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: accommodation_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

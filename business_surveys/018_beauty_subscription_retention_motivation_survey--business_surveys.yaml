@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Subscription Retention Motivation Survey
+    pages:
+    - id: 1
+      name: section_subscription_status
+      label: -- Subscription Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: subscription_tenure
+      label: How long have you been a subscriber?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      - More than 1 year
+      required: true
+    - id: 3
+      name: current_status
+      label: What is your current subscription status?
+      hint: null
+      type: select_one
+      options:
+      - Active Subscriber
+      - Paused Subscription
+      - Recently Cancelled
+      required: true
+    - id: 4
+      name: section_retention_drivers
+      label: -- Why do you stay? --
+      hint: Rate the importance of these factors for your subscription
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: importance_of_variety
+      label: Product variety and discovery
+      hint: 1 not important, 5 very important
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: importance_of_value
+      label: Overall value for money
+      hint: 1 not important, 5 very important
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: importance_of_convenience
+      label: Convenience of delivery
+      hint: 1 not important, 5 very important
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: favorite_feature
+      label: What is your single favorite feature of our subscription?
+      hint: null
+      type: select_one
+      options:
+      - Surprise Items
+      - Customization Options
+      - Exclusive Brand Access
+      - High-end Packaging
+      - Educational Content/Tutorials
+      required: true
+    - id: 9
+      name: section_improvement_areas
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: product_redundancy_frequency
+      label: How often do you receive products you already own or don't use?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Frequently
+      required: true
+    - id: 11
+      name: cancellation_motivation
+      label: If you were to cancel, what would be the primary reason?
+      hint: null
+      type: select_one
+      options:
+      - Price Increase
+      - Product Quality Decline
+      - Too much product accumulation
+      - Poor Customer Service
+      - Better Competitor Offer
+      required: false
+    - id: 12
+      name: desired_new_features
+      label: Which new features would encourage you to stay longer?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Loyalty Rewards Program
+      - More Choice in Monthly Items
+      - Quarterly instead of Monthly option
+      - Early access to full-size products
+      - Community forum access
+      required: false
+    - id: 13
+      name: overall_box_satisfaction
+      label: Overall satisfaction with your last 3 boxes
+      hint: 0 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Any other feedback for our retention team?
+      hint: null
+      type: text
+      options: []
+      required: false

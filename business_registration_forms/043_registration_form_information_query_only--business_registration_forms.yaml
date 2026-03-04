@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration Form (Information Query Only)
+    pages:
+    - id: 1
+      name: registration_form_information_query_only_1
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: registration_form_information_query_only_2
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: registration_form_information_query_only_3
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: registration_form_information_query_only_4
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: registration_form_information_query_only_5
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: registration_form_information_query_only_6
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: registration_form_information_query_only_7
+      label: Select one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 101, ''label'': ''Option 2'', ''value'': ''Option 2''}'
+      required: false
+    - id: 8
+      name: registration_form_information_query_only_8
+      label: Select multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 200, ''label'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 201, ''label'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''id'': 202, ''label'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false

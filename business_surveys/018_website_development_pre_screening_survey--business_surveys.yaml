@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Development Pre Screening Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lead_capture
+      label: Lead Capture
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Goals''}'
+      - '{''id'': 2, ''label'': ''Budget''}'
+      - '{''id'': 3, ''label'': ''Timeline''}'
+      required: true
+    - id: 4
+      name: project_goals
+      label: Project Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_hours
+      label: Business Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: true
+    - id: 15
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Done''}'
+      required: true
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Passive''}'
+      - '{''id'': 3, ''label'': ''Archived''}'
+      required: true
+    - id: 22
+      name: notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: Project Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

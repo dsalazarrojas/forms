@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operations Transformation Feedback Survey
+    pages:
+    - id: 1
+      name: operation_name
+      label: Operation Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: outcome
+      label: Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: challenge
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: future_outcomes
+      label: Future Outcomes
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: expected_date
+      label: Expected Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: actual_date
+      label: Actual Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: time_spent_note
+      label: Time Spent Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

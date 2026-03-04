@@ -1,0 +1,305 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Fairness Perception Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Compensation Fairness Perception Survey
+      hint: Your feedback on pay fairness and transparency
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Optional anonymous identifier
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Legal
+      - Research and Development
+      - Other
+      required: true
+    - id: 4
+      name: tenure
+      label: Length of Employment
+      hint: How long have you worked here
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 4 to 6 years
+      - 7 to 10 years
+      - More than 10 years
+      required: true
+    - id: 5
+      name: job_level
+      label: Job Level
+      hint: Your current level
+      type: select_one
+      options:
+      - Entry Level
+      - Junior
+      - Mid-Level
+      - Senior
+      - Lead or Principal
+      - Manager
+      - Director
+      - Executive
+      required: true
+    - id: 6
+      name: pay_fairness_overall
+      label: Overall pay is fair
+      hint: Rate your agreement
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 7
+      name: pay_fairness_role
+      label: Pay is fair for my specific role
+      hint: Compared to responsibilities
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 8
+      name: pay_fairness_effort
+      label: Pay reflects my effort
+      hint: Effort to compensation ratio
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 9
+      name: pay_fairness_skills
+      label: Pay reflects my skills and expertise
+      hint: Skills to compensation match
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 10
+      name: pay_fairness_experience
+      label: Pay reflects my experience
+      hint: Experience level consideration
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 11
+      name: internal_equity_fair
+      label: Pay is fair compared to colleagues
+      hint: Internal pay equity
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 12
+      name: external_equity_fair
+      label: Pay is fair compared to market
+      hint: External market competitiveness
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 13
+      name: pay_determination_clear
+      label: I understand how pay is determined
+      hint: Pay decision clarity
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 14
+      name: raise_process_fair
+      label: Raise process is fair
+      hint: Fairness of increase decisions
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 15
+      name: promotion_pay_fair
+      label: Promotion pay increases are fair
+      hint: Fairness of promotion adjustments
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 16
+      name: bonus_allocation_fair
+      label: Bonus allocation is fair
+      hint: Fairness of bonus decisions
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      - Not applicable
+      required: true
+    - id: 17
+      name: pay_communication_open
+      label: Pay discussions are handled openly
+      hint: Openness of compensation communication
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 18
+      name: pay_ranges_transparent
+      label: Pay ranges are transparent
+      hint: Visibility into salary ranges
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 19
+      name: criteria_understand
+      label: I understand compensation criteria
+      hint: Clarity of what drives pay
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 20
+      name: feedback_opportunity
+      label: I have opportunity to discuss pay
+      hint: Access to compensation discussions
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 21
+      name: bias_concerns
+      label: I have concerns about bias in pay
+      hint: Perceived bias in compensation
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 22
+      name: trust_system
+      label: I trust the compensation system
+      hint: Trust in pay processes
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 23
+      name: fairness_rating
+      label: Rate overall fairness 1 to 10
+      hint: 1 being very unfair 10 being very fair
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: improvement_areas
+      label: Areas needing improvement
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Base salary levels
+      - Raise frequency
+      - Bonus structure
+      - Pay transparency
+      - Promotion adjustments
+      - Communication about pay
+      - Equity and fairness
+      - Market competitiveness
+      - Other
+      required: false
+    - id: 25
+      name: suggestions
+      label: Suggestions for improvement
+      hint: Your ideas for fairer compensation
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

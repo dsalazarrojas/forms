@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Partnership Proposal Form
+    pages:
+    - id: 1
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_address
+      label: Partner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: partner_description
+      label: Partner Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: partnership_terms_and_conditions
+      label: Partnership Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: partner_agreement
+      label: Partner Agreement
+      hint: Check to agree with the terms
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: business_agreement
+      label: Business Agreement
+      hint: Check to agree with the terms
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

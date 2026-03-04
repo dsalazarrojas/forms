@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: VIP Shopping Experience Survey
+    pages:
+    - id: 1
+      name: vip_shopping_experience_survey
+      label: What is your role in our organization?
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Employee
+      - VIP Guest
+      required: true
+    - id: 2
+      name: vip_organization
+      label: What is your organization?
+      hint: null
+      type: select_multiple
+      options:
+      - Company A
+      - Company B
+      - Company C
+      - Other
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vip_store_experience
+      label: Store Experience
+      hint: Rate your store experience
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vip_employee_knowledge
+      label: Employee knowledge
+      hint: Rate your employee knowledge
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: vip_product_knowledge
+      label: Product knowledge
+      hint: Rate your product knowledge
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vip_staff_attendance
+      label: Staff attitude
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: vip_service_quality
+      label: Service quality
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: vip_store_facilities
+      label: Store facilities
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: vip_store_facilities_comments
+      label: Store facilities comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: vip_staff_welcoming
+      label: Welcoming staff
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: vip_staff_professionalism
+      label: Staff professionalism
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: vip_staff_communication
+      label: Staff communication
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: vip_recommendation
+      label: Would you recommend us?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: vip_suggestions
+      label: Any suggestions for improvements?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vip_store_visit
+      label: How often do you visit our store?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false
+    - id: 18
+      name: vip_store_visit_frequency
+      label: How many times have you visited our store?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vip_last_visit_date
+      label: Last visit date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: vip_last_visit_time
+      label: Last visit time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: vip_store_visit_frequency_2
+      label: Store visit frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Twice
+      - Three times
+      - Four or more
+      required: false
+    - id: 22
+      name: vip_last_purchase
+      label: Last purchase
+      hint: null
+      type: select_multiple
+      options:
+      - Online
+      - In store
+      required: false
+    - id: 23
+      name: vip_last_purchase_date
+      label: Last purchase date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: vip_purchase_frequency
+      label: Purchase frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Twice
+      - Three times
+      - Four or more
+      required: false
+    - id: 25
+      name: vip_last_purchase_amount
+      label: Last purchase amount
+      hint: null
+      type: number
+      options: []
+      required: false

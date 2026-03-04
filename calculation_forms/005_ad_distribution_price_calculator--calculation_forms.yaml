@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ad Distribution Price Calculator
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ad_type
+      label: Type of Advertisement
+      hint: null
+      type: select_one
+      options:
+      - Flyers and Brochures
+      - Direct Mail
+      - Digital Ads
+      - Print Ads
+      - Billboard
+      - Vehicle Wraps
+      - Other
+      required: true
+    - id: 6
+      name: ad_size
+      label: Advertisement Size
+      hint: null
+      type: select_one
+      options:
+      - Small (A5)
+      - Medium (A4)
+      - Large (A3)
+      - Extra Large (Custom)
+      required: true
+    - id: 7
+      name: quantity
+      label: Number of Units to Distribute
+      hint: Quantity of ad materials needed
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: distribution_area
+      label: Distribution Area
+      hint: null
+      type: select_one
+      options:
+      - Local - Single City
+      - Regional - Multiple Cities
+      - Statewide
+      - National
+      - International
+      required: true
+    - id: 9
+      name: color_printing
+      label: Color Printing
+      hint: null
+      type: select_one
+      options:
+      - Black and White
+      - Full Color
+      - Spot Color
+      required: true
+    - id: 10
+      name: paper_stock
+      label: Paper Stock Quality
+      hint: null
+      type: select_one
+      options:
+      - Standard (20 lb)
+      - Premium (28 lb)
+      - Heavy Stock (32 lb)
+      - Cardstock (65 lb)
+      required: true
+    - id: 11
+      name: distribution_method
+      label: Distribution Method
+      hint: null
+      type: select_multiple
+      options:
+      - Direct Mail
+      - Hand Distribution
+      - Newspaper Insert
+      - Magazine Insert
+      - In-Store Display
+      required: true
+    - id: 12
+      name: turnaround_time
+      label: Desired Turnaround Time
+      hint: null
+      type: select_one
+      options:
+      - Express - 3 days
+      - Standard - 5-7 days
+      - Economy - 10-14 days
+      required: true
+    - id: 13
+      name: special_finishing
+      label: Special Finishing Options
+      hint: null
+      type: select_multiple
+      options:
+      - Lamination
+      - Die Cutting
+      - Embossing
+      - Foil Stamping
+      - Perforation
+      - None
+      required: false
+    - id: 14
+      name: budget_estimate
+      label: Estimated Budget
+      hint: Approximate amount you want to spend
+      type: select_one
+      options:
+      - $500 - $1000
+      - $1000 - $2500
+      - $2500 - $5000
+      - $5000 - $10000
+      - $10000 plus
+      required: false
+    - id: 15
+      name: campaign_start_date
+      label: Desired Campaign Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: target_demographic
+      label: Target Demographic
+      hint: Age range, interests, location
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: current_promotion
+      label: Is this a promotional campaign for a special event or promotion?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: previous_campaigns
+      label: Have you used our distribution services before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: additional_requests
+      label: Special requests or additional information
+      hint: null
+      type: text
+      options: []
+      required: false

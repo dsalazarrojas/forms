@@ -1,0 +1,423 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Injection Intensive Submit Results 2019
+    pages:
+    - id: 1
+      name: submission_header
+      label: Cash Injection Intensive Results Submission 2019
+      hint: Submit your cash injection intensive program results
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submission_id
+      label: Submission ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: participant_info
+      label: Participant Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company or Business Name
+      hint: Organization
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_type
+      label: Business Type
+      hint: Industry
+      type: select_one
+      options:
+      - Retail
+      - E-commerce
+      - Services
+      - Manufacturing
+      - Technology
+      - Healthcare
+      - Restaurant
+      - Professional services
+      - Other
+      required: true
+    - id: 10
+      name: business_size
+      label: Business Size
+      hint: Annual revenue
+      type: select_one
+      options:
+      - Under 100K
+      - 100K to 500K
+      - 500K to 1M
+      - 1M to 5M
+      - 5M to 10M
+      - Over 10M
+      required: true
+    - id: 11
+      name: program_info
+      label: Program Information
+      hint: Intensive details
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: program_start_date
+      label: Program Start Date
+      hint: When began
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: program_end_date
+      label: Program End Date
+      hint: When completed
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: program_duration
+      label: Program Duration
+      hint: Length of intensive
+      type: select_one
+      options:
+      - 1 week
+      - 2 weeks
+      - 30 days
+      - 60 days
+      - 90 days
+      - Other
+      required: true
+    - id: 15
+      name: coach_name
+      label: Coach or Mentor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: baseline_metrics
+      label: Baseline Metrics
+      hint: Starting point
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: starting_monthly_revenue
+      label: Starting Monthly Revenue
+      hint: Before program
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: starting_cash_balance
+      label: Starting Cash Balance
+      hint: Beginning cash
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: starting_profit_margin
+      label: Starting Profit Margin
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: starting_challenges
+      label: Starting Challenges
+      hint: Initial problems
+      type: select_multiple
+      options:
+      - Low cash flow
+      - Inconsistent revenue
+      - High expenses
+      - Pricing issues
+      - Sales challenges
+      - Collection problems
+      - No financial systems
+      - Debt burden
+      - Other
+      required: true
+    - id: 21
+      name: results_metrics
+      label: Results Metrics
+      hint: Outcomes achieved
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: ending_monthly_revenue
+      label: Ending Monthly Revenue
+      hint: After program
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: revenue_increase
+      label: Revenue Increase Percentage
+      hint: Growth rate
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: ending_cash_balance
+      label: Ending Cash Balance
+      hint: Final cash
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: cash_increase
+      label: Cash Increase Amount
+      hint: Net gain
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: ending_profit_margin
+      label: Ending Profit Margin
+      hint: Final percentage
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: profit_improvement
+      label: Profit Improvement
+      hint: Margin change
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: key_wins
+      label: Key Wins Achieved
+      hint: Major accomplishments
+      type: select_multiple
+      options:
+      - Increased revenue
+      - Improved cash flow
+      - Reduced expenses
+      - Better pricing
+      - Faster collections
+      - New systems implemented
+      - Debt reduced
+      - Profit margin improved
+      - Team trained
+      - Other
+      required: true
+    - id: 29
+      name: strategies_implemented
+      label: Strategies Implemented
+      hint: What you did
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: biggest_breakthrough
+      label: Biggest Breakthrough
+      hint: Major insight
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: challenges_overcome
+      label: Challenges Overcome
+      hint: Obstacles faced
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: specific_tactics
+      label: Specific Tactics Used
+      hint: Actions taken
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: pricing_changes
+      label: Did You Change Pricing
+      hint: Pricing strategy
+      type: select_one
+      options:
+      - Yes - increased prices
+      - Yes - restructured
+      - Yes - added tiers
+      - No - kept same
+      required: false
+    - id: 34
+      name: pricing_impact
+      label: Pricing Change Impact
+      hint: Results
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: sales_improvements
+      label: Sales Improvements Made
+      hint: Revenue actions
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: expense_reductions
+      label: Expense Reductions Achieved
+      hint: Cost savings
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: systems_implemented
+      label: Systems or Processes Implemented
+      hint: New procedures
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: testimonial
+      label: Testimonial
+      hint: Your experience
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: overall_experience
+      label: Overall Experience Rating
+      hint: Satisfaction
+      type: select_one
+      options:
+      - Excellent - exceeded expectations
+      - Very Good - great results
+      - Good - met expectations
+      - Fair - some value
+      - Poor - below expectations
+      required: true
+    - id: 40
+      name: would_recommend
+      label: Would You Recommend This Program
+      hint: Net promoter
+      type: select_one
+      options:
+      - Yes - definitely
+      - Yes - probably
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 41
+      name: program_feedback
+      label: What Did You Value Most
+      hint: Best part
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: program_suggestions
+      label: Suggestions for Improvement
+      hint: Feedback
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: future_goals
+      label: Future Goals
+      hint: Next steps
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: ongoing_support
+      label: Do You Need Ongoing Support
+      hint: Continued help
+      type: select_one
+      options:
+      - Yes - interested
+      - Maybe - considering
+      - No - all set
+      required: false
+    - id: 45
+      name: success_story_sharing
+      label: May We Share Your Success Story
+      hint: Permission
+      type: select_one
+      options:
+      - Yes - full story
+      - Yes - anonymized
+      - Yes - metrics only
+      - No - private
+      required: true
+    - id: 46
+      name: case_study_interest
+      label: Would You Participate in a Case Study
+      hint: Deeper dive
+      type: select_one
+      options:
+      - Yes - interested
+      - Maybe - more info needed
+      - No - not interested
+      required: false
+    - id: 47
+      name: referral_potential
+      label: Do You Know Others Who Could Benefit
+      hint: Referrals
+      type: select_one
+      options:
+      - Yes - several people
+      - Yes - a few people
+      - Maybe - one or two
+      - No - no one
+      required: false
+    - id: 48
+      name: referral_names
+      label: Referral Names or Contacts
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: participant_signature
+      label: Participant Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

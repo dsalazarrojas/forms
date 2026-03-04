@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Freight Cargo Check In Form
+    pages:
+    - id: 1
+      name: cargo_type
+      label: Cargo Type
+      hint: null
+      type: select_one
+      options:
+      - Truckload
+      - Intermodal
+      - Air
+      - Sea
+      required: false
+    - id: 2
+      name: origin_location
+      label: Origin Location
+      hint: Where did the cargo start from?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: cargo_status
+      label: Cargo Status
+      hint: Is the cargo ready to be shipped?
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 7
+      name: cargo_details
+      label: Cargo Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

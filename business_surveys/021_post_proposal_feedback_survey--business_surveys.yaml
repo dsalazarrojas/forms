@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Proposal Feedback Survey
+    pages:
+    - id: 1
+      name: proposal_title
+      label: Post Proposal Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_rating
+      label: What was your overall rating of the proposal?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reviewer_comments
+      label: What were your thoughts on the proposal?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reviewer_sentiment
+      label: What was the overall sentiment of your feedback?
+      hint: Positive, Negative, or Neutral
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 5
+      name: actionable_suggestions
+      label: What actionable suggestions do you have for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_date
+      label: Date of proposal review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_name
+      label: Name of Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email of Reviewer
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: seminar_check_in_form
+    pages:
+    - id: 1
+      name: event_id
+      label: event id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: attendee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Attendee'', ''label'': ''Attendee''}'
+      - '{''value'': ''Team'', ''label'': ''Team''}'
+      - '{''value'': ''Speaker'', ''label'': ''Speaker''}'
+      required: false
+    - id: 4
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false

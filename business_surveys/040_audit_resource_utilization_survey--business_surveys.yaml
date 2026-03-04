@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Resource Utilization Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Optional - leave blank for anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Optional - for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Internal Audit
+      - External Audit
+      - Finance
+      - Operations
+      - IT
+      - Compliance
+      - Risk Management
+      - Other
+      required: true
+    - id: 4
+      name: role_in_audit
+      label: Role in Audit
+      hint: Your role in audit activities
+      type: select_one
+      options:
+      - Audit Partner
+      - Audit Manager
+      - Senior Auditor
+      - Staff Auditor
+      - IT Specialist
+      - Subject Matter Expert
+      - Other
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: Date of this survey
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: audit_project
+      label: Audit Project
+      hint: Name of audit project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: planned_hours
+      label: Planned Hours
+      hint: Total hours planned for audit
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: actual_hours
+      label: Actual Hours
+      hint: Total actual hours spent
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: budget_variance
+      label: Budget Variance
+      hint: How did actual compare to budget?
+      type: select_one
+      options:
+      - Under budget by 10%+
+      - Under budget by less than 10%
+      - On budget
+      - Over budget by less than 10%
+      - Over budget by 10%+
+      required: true
+    - id: 10
+      name: staff_allocation
+      label: Staff Allocation
+      hint: How well were staff allocated?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: skill_match
+      label: Skill Match
+      hint: How well did skills match requirements?
+      type: select_one
+      options:
+      - Excellent match
+      - Good match
+      - Adequate match
+      - Poor match
+      - Significant gaps
+      required: true
+    - id: 12
+      name: technology_resources
+      label: Technology Resources
+      hint: How adequate were technology resources?
+      type: select_one
+      options:
+      - More than adequate
+      - Adequate
+      - Barely adequate
+      - Inadequate
+      - Significantly lacking
+      required: true
+    - id: 13
+      name: tool_utilization
+      label: Tool Utilization
+      hint: How well were audit tools utilized?
+      type: select_one
+      options:
+      - Fully utilized
+      - Well utilized
+      - Moderately utilized
+      - Underutilized
+      - Not used
+      required: true
+    - id: 14
+      name: external_resources
+      label: External Resources
+      hint: Were external resources needed?
+      type: select_one
+      options:
+      - Yes, extensively
+      - Yes, moderately
+      - Yes, minimally
+      - No, not needed
+      required: true
+    - id: 15
+      name: overtime_required
+      label: Overtime Required
+      hint: How much overtime was required?
+      type: select_one
+      options:
+      - No overtime
+      - Minimal overtime
+      - Moderate overtime
+      - Significant overtime
+      - Excessive overtime
+      required: true
+    - id: 16
+      name: resource_constraints
+      label: Resource Constraints
+      hint: What resource constraints existed?
+      type: select_multiple
+      options:
+      - Staff shortages
+      - Skill gaps
+      - Technology limitations
+      - Time constraints
+      - Budget limitations
+      - Access issues
+      - None
+      required: true
+    - id: 17
+      name: resource_efficiency
+      label: Resource Efficiency
+      hint: Rate overall resource efficiency
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: utilization_rate
+      label: Utilization Rate
+      hint: Estimated resource utilization rate
+      type: select_one
+      options:
+      - Over 90%
+      - 80-90%
+      - 70-79%
+      - 60-69%
+      - Under 60%
+      required: true
+    - id: 19
+      name: improvement_areas
+      label: Improvement Areas
+      hint: What areas need improvement?
+      type: select_multiple
+      options:
+      - Staffing levels
+      - Skill development
+      - Technology tools
+      - Planning accuracy
+      - Time management
+      - Budget estimation
+      required: true
+    - id: 20
+      name: recommendations
+      label: Recommendations
+      hint: Any recommendations for resource utilization
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: overall_resource_satisfaction
+      label: Overall Resource Satisfaction
+      hint: Rate overall satisfaction with resources
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true

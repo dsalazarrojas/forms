@@ -1,0 +1,204 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2020 Personal Income Tax Return Checklist
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: taxpayer_name
+      label: Taxpayer full name
+      hint: As shown on government ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: taxpayer_sin
+      label: Social Insurance Number (SIN)
+      hint: Enter without spaces or dashes
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: tax_year
+      label: Tax year
+      hint: Use 2020
+      type: integer
+      options: []
+      required: true
+    - id: 6
+      name: marital_status
+      label: Marital status on Dec 31, 2020
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Common-law
+      - Separated
+      - Widowed
+      - Divorced
+      required: true
+    - id: 7
+      name: spouse_or_partner_name
+      label: Spouse or partner full name
+      hint: Only if married or common-law
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Primary contact email
+      hint: Used for correspondence and electronic documents
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Primary contact phone number
+      hint: Include country and area code if outside Canada
+      type: phone
+      options: []
+      required: false
+    - id: 10
+      name: residence_address
+      label: Residence address (street, city, postal code)
+      hint: Provide mailing address used for tax notices
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: province_or_territory
+      label: Province or territory of residence
+      hint: Residence on Dec 31, 2020
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: income_sources
+      label: Sources of income (select all that apply)
+      hint: Select each slip or income type you received
+      type: select_multiple
+      options:
+      - Employment (T4)
+      - Self-employment (T2125)
+      - Investment (T5)
+      - RRSP/Retirement
+      - Rental income
+      - Other
+      required: true
+    - id: 13
+      name: total_income
+      label: Total income (CAD)
+      hint: Total income for 2020 before deductions
+      type: decimal
+      options: []
+      required: true
+    - id: 14
+      name: cpp_ei_contributions
+      label: CPP / EI contributions reported
+      hint: Sum of CPP and EI shown on slips
+      type: decimal
+      options: []
+      required: false
+    - id: 15
+      name: deductions_claimed
+      label: Deductions being claimed (select all)
+      hint: Choose any deductions you plan to report
+      type: select_multiple
+      options:
+      - RRSP contributions
+      - Childcare expenses
+      - Medical expenses
+      - Union/professional dues
+      - Moving expenses
+      - Student loan interest
+      required: false
+    - id: 16
+      name: tax_withheld
+      label: Tax withheld reported on slips (CAD)
+      hint: Total income tax withheld (T4, T5, etc.)
+      type: decimal
+      options: []
+      required: false
+    - id: 17
+      name: t4_received
+      label: Were T4 slips received?
+      hint: Employment income slips
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 18
+      name: section_header_supporting_documents
+      label: '--- Supporting documents checklist ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: documents_provided
+      label: Documents provided to preparer (select all)
+      hint: Tick each document handed to the tax preparer
+      type: select_multiple
+      options:
+      - T4 slip
+      - T5 slip
+      - RRSP slip
+      - Medical receipts
+      - Childcare receipts
+      - Rental statements
+      - Other
+      required: false
+    - id: 20
+      name: client_declaration
+      label: Client declaration of accuracy
+      hint: Client must confirm information is complete and accurate
+      type: select_one
+      options:
+      - Confirm - information accurate
+      - Not confirmed
+      required: true
+    - id: 21
+      name: preparer_notes
+      label: Preparer notes and action items
+      hint: Include items to follow up or missing documents
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_date
+      label: Follow-up date for outstanding items
+      hint: Date to revisit missing documents or clarifications
+      type: date
+      options: []
+      required: false

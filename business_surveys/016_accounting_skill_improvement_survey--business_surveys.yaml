@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Skill Improvement Survey
+    pages:
+    - id: 1
+      name: participant_information
+      label: -- Participant information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role_in_organization
+      label: Role in organization
+      hint: Job title or position
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: years_experience
+      label: Years of accounting experience
+      hint: Round to nearest whole year
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: proficiency_financial_reporting
+      label: Proficiency in financial reporting
+      hint: Self assessment of skill level
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Beginner
+      required: true
+    - id: 6
+      name: proficiency_audit_and_compliance
+      label: Proficiency in audit and compliance
+      hint: Self assessment of skill level
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Beginner
+      required: true
+    - id: 7
+      name: proficiency_software_skills
+      label: Proficiency in accounting software
+      hint: e.g., QuickBooks, Xero, SAP
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Beginner
+      required: true
+    - id: 8
+      name: training_interests
+      label: Training interests
+      hint: Select any topics you would like training on
+      type: select_multiple
+      options:
+      - Financial reporting
+      - Tax updates
+      - Auditing techniques
+      - Excel for accounting
+      - Accounting systems integration
+      required: true
+    - id: 9
+      name: preferred_training_format
+      label: Preferred training format
+      hint: Choose one format
+      type: select_one
+      options:
+      - In person
+      - Online live
+      - On demand
+      required: true
+    - id: 10
+      name: availability_for_training
+      label: Availability for training
+      hint: Days or times that work best
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: barriers_to_training
+      label: Barriers to training
+      hint: Any obstacles to participation
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: expected_outcomes
+      label: Expected outcomes from training
+      hint: What improvements would you expect
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else to help plan training
+      type: text
+      options: []
+      required: false

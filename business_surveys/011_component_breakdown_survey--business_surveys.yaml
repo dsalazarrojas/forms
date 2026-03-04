@@ -1,0 +1,215 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Component Breakdown Survey
+    pages:
+      - id: 1
+        name: survey_id
+        label: Survey ID
+        hint: Unique identifier for this survey
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: project_name
+        label: Project Name
+        hint: Name of the project being surveyed
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Select your department
+        type: select_one
+        options:
+          - Engineering
+          - Product Management
+          - Quality Assurance
+          - Operations
+          - Research and Development
+          - Manufacturing
+          - Other
+        required: true
+      - id: 4
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: component_category
+        label: Component Category
+        hint: Select the component category being evaluated
+        type: select_one
+        options:
+          - Hardware Components
+          - Software Components
+          - Process Components
+          - Service Components
+          - Material Components
+          - Human Resources
+          - Other
+        required: true
+      - id: 7
+        name: component_name
+        label: Component Name
+        hint: Specific name of the component
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: component_function
+        label: Component Function
+        hint: Describe the primary function of this component
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: performance_rating
+        label: Performance Rating
+        hint: Rate the overall performance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Needs Improvement
+          - Unsatisfactory
+        required: true
+      - id: 10
+        name: reliability_score
+        label: Reliability Score
+        hint: Rate the reliability
+        type: select_one
+        options:
+          - 5 - Highly Reliable
+          - 4 - Reliable
+          - 3 - Moderately Reliable
+          - 2 - Somewhat Unreliable
+          - 1 - Unreliable
+        required: true
+      - id: 11
+        name: cost_effectiveness
+        label: Cost Effectiveness
+        hint: Rate the cost effectiveness
+        type: select_one
+        options:
+          - Very Cost Effective
+          - Cost Effective
+          - Neutral
+          - Not Cost Effective
+          - Very Expensive
+        required: true
+      - id: 12
+        name: ease_of_integration
+        label: Ease of Integration
+        hint: How easy is it to integrate this component
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 13
+        name: maintenance_requirements
+        label: Maintenance Requirements
+        hint: Rate the maintenance burden
+        type: select_one
+        options:
+          - Minimal Maintenance
+          - Low Maintenance
+          - Moderate Maintenance
+          - High Maintenance
+          - Very High Maintenance
+        required: true
+      - id: 14
+        name: scalability
+        label: Scalability
+        hint: How well does this component scale
+        type: select_one
+        options:
+          - Highly Scalable
+          - Scalable
+          - Moderately Scalable
+          - Limited Scalability
+          - Not Scalable
+        required: true
+      - id: 15
+        name: compatibility_issues
+        label: Compatibility Issues
+        hint: Have you experienced any compatibility issues
+        type: select_one
+        options:
+          - No Issues
+          - Minor Issues
+          - Moderate Issues
+          - Significant Issues
+          - Critical Issues
+        required: true
+      - id: 16
+        name: issues_description
+        label: Issues Description
+        hint: Describe any issues encountered
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: What improvements would you suggest
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: replacement_consideration
+        label: Replacement Consideration
+        hint: Are you considering replacing this component
+        type: select_one
+        options:
+          - No, Very Satisfied
+          - No, But Monitoring
+          - Considering Options
+          - Yes, Planning Replacement
+          - Yes, Urgent Replacement Needed
+        required: true
+      - id: 19
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Your overall satisfaction with this component
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about this component
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Day Out Of Days
+    pages:
+    - id: 1
+      name: date1
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: date2
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: calculation_result
+      label: Days Difference
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: unit
+      label: Unit
+      hint: null
+      type: select_one
+      options:
+      - Days
+      - Weeks
+      - Months
+      - Years
+      required: true
+    - id: 5
+      name: result_label
+      label: Label
+      hint: null
+      type: text
+      options: []
+      required: false

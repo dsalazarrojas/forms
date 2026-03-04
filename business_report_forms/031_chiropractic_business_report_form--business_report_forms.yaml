@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chiropractic Business Report Form
+    pages:
+    - id: 1
+      name: report_information
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_period
+      label: Report Period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annual
+      - Annual
+      required: true
+    - id: 4
+      name: practice_name
+      label: Chiropractic Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: practice_manager
+      label: Practice Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: financial_summary
+      label: -- Financial Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: total_revenue
+      label: Total Revenue
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: patient_visits
+      label: Total Patient Visits
+      hint: For the reporting period
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: average_visit_cost
+      label: Average Cost per Visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: operating_expenses
+      label: Operating Expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: net_profit
+      label: Net Profit or Loss
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: patient_metrics
+      label: -- Patient Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: new_patients
+      label: New Patients This Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: returning_patients
+      label: Returning Patients
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: patient_retention_rate
+      label: Patient Retention Rate
+      hint: Percentage
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: average_patient_satisfaction
+      label: Average Patient Satisfaction Score
+      hint: Rate 1-5
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: most_common_conditions
+      label: Most Common Conditions Treated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: treatment_services
+      label: -- Treatment Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: spinal_adjustments
+      label: Spinal Adjustments Performed
+      hint: Total for the period
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: therapeutic_services
+      label: Other Therapeutic Services
+      hint: Massage, traction, ultrasound, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: business_assessment
+      label: -- Business Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: business_performance
+      label: Overall Business Performance This Period
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs improvement
+      required: true
+    - id: 23
+      name: staff_productivity
+      label: Staff Productivity Level
+      hint: Rate 1 (low) to 5 (high)
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: challenges_encountered
+      label: Challenges Encountered This Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: business_goals_next
+      label: Business Goals for Next Period
+      hint: null
+      type: text
+      options: []
+      required: false

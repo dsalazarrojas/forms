@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Success Measurement Survey
+    pages:
+    - id: 1
+      name: client_info
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_manager
+      label: Account Manager Name
+      hint: Primary point of contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Your Name
+      hint: Person completing this survey
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: engagement_section
+      label: -- Client Engagement and Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: engagement_level
+      label: Overall engagement level with our services
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 9
+      name: engagement_trend
+      label: Engagement trend over the past 6 months
+      hint: null
+      type: select_one
+      options:
+      - Declining
+      - Stable
+      - Growing
+      - Significantly Growing
+      required: true
+    - id: 10
+      name: feature_adoption
+      label: How many product features are they actively using?
+      hint: Percentage of available features
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: satisfaction_section
+      label: -- Satisfaction and Value --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: satisfaction_rating
+      label: Current satisfaction rating - 1 to 10
+      hint: 1 = Very unsatisfied, 10 = Very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: nps_score
+      label: Net Promoter Score - 0 to 10
+      hint: How likely to recommend to a colleague?
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: value_perception
+      label: Perceives strong value from our services
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: roi_perception
+      label: Achieving positive return on investment
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 16
+      name: goals_section
+      label: -- Business Goals and Progress --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: initial_goals
+      label: What were the initial goals when they signed up?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: goal_progress
+      label: Progress toward achieving those initial goals
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - Early Stages
+      - Moderate Progress
+      - Significant Progress
+      - Completed
+      required: true
+    - id: 19
+      name: measurable_results
+      label: Measurable results or improvements achieved
+      hint: Use specific metrics where possible
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: churn_risk_section
+      label: -- Churn Risk and Retention --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: churn_risk
+      label: Churn risk assessment
+      hint: null
+      type: select_one
+      options:
+      - Very Low Risk
+      - Low Risk
+      - Moderate Risk
+      - High Risk
+      - Very High Risk
+      required: true
+    - id: 22
+      name: churn_reason
+      label: If high risk, what is the primary reason?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: retention_likelihood
+      label: Likelihood of renewal or continued engagement
+      hint: null
+      type: select_one
+      options:
+      - Very Unlikely
+      - Unlikely
+      - Neutral
+      - Likely
+      - Very Likely
+      required: true
+    - id: 24
+      name: health_score_section
+      label: -- Overall Health Score --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: client_health_score
+      label: Overall Client Health Score - 1 to 100
+      hint: 1-33 = At Risk, 34-66 = Stable, 67-100 = Healthy
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: expansion_opportunity
+      label: Expansion or upsell opportunity score
+      hint: Likelihood of additional product adoption
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: advocacy_section
+      label: -- Customer Advocacy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: advocacy_likelihood
+      label: Likelihood they will advocate for us
+      hint: Recommend, share case study, provide reference
+      type: select_one
+      options:
+      - Very Unlikely
+      - Unlikely
+      - Neutral
+      - Likely
+      - Very Likely
+      required: true
+    - id: 29
+      name: advocacy_activities
+      label: What advocacy activities would they be willing to do?
+      hint: Case study, testimonial, speaking, etc.
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: action_items
+      label: -- Next Steps and Action Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: recommended_actions
+      label: Recommended next steps for client success
+      hint: null
+      type: text
+      options: []
+      required: true

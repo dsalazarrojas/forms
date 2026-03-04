@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: workforce_voice_participation_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Marketing
+      - Operations
+      - Sales Reporting
+      - Finance
+      required: false
+    - id: 5
+      name: team_members
+      label: team_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - Regular updates from managers
+      - Regular updates from team members
+      - Regular updates from HR
+      - Regular updates from leadership
+      - Regular updates from other team members
+      required: false
+    - id: 8
+      name: engagement
+      label: engagement
+      hint: null
+      type: select_multiple
+      options:
+      - I am engaged
+      - I am somewhat engaged
+      - I am not engaged
+      - I am neutral
+      required: false
+    - id: 9
+      name: culture
+      label: culture
+      hint: null
+      type: select_multiple
+      options:
+      - I think this team has a positive culture
+      - I think this team has a neutral culture
+      - I think this team has a negative culture
+      required: false
+    - id: 10
+      name: workplace_improvement
+      label: workplace_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Improve communication
+      - Improve team building
+      - Improve work-life balance
+      - Improve job satisfaction
+      - Improve employee morale
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reporting
+      label: reporting
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      required: false

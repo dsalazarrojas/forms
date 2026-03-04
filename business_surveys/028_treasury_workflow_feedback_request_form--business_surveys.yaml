@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: treasury_workflow_feedback_request_form
+    pages:
+    - id: 1
+      name: workflow_efficiency
+      label: workflow_efficiency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: clarity
+      label: clarity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issues
+      label: issues
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: process_improvements
+      label: process_improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_button
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

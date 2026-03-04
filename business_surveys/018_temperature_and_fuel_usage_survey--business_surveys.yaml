@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temperature And Fuel Usage Survey
+    pages:
+    - id: 1
+      name: home_heating_fuel_types
+      label: Home heating fuel types
+      hint: null
+      type: select_multiple
+      options:
+      - Gas
+      - Oil
+      - Electricity
+      - Other
+      required: false
+    - id: 2
+      name: thermostat_settings
+      label: Thermostat settings
+      hint: null
+      type: select_one
+      options:
+      - 1-5°C
+      - 5-10°C
+      - 10-15°C
+      - 15-20°C
+      - 20-25°C
+      - 25°C or warmer
+      - Always on
+      - Always off
+      required: false
+    - id: 3
+      name: energy_saving_habits
+      label: Energy saving habits
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce usage in summer
+      - Use a smart thermostat
+      - Use energy efficient appliances
+      - Other
+      required: false
+    - id: 4
+      name: temperature_range_1
+      label: What temperature do you normally set it to in winter?
+      hint: Celsius
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: temperature_range_2
+      label: What temperature do you normally set it to in summer?
+      hint: Celsius
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hours_on_1
+      label: How many hours does the heating system work in winter?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hours_on_2
+      label: How many hours does the heating system work in summer?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: energy_source_1
+      label: Energy source of heating system 1
+      hint: null
+      type: select_one
+      options:
+      - Gas boiler
+      - Oil boiler
+      - Electricity
+      - Heat pump
+      - Radiator
+      required: false
+    - id: 9
+      name: energy_source_2
+      label: Energy source of heating system 2
+      hint: null
+      type: select_one
+      options:
+      - Gas boiler
+      - Oil boiler
+      - Electricity
+      - Heat pump
+      - Radiator
+      required: false
+    - id: 10
+      name: frequency_of_usage_1
+      label: How often do you usually use heating system 1?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Fortnightly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 11
+      name: frequency_of_usage_2
+      label: How often do you usually use heating system 2?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Fortnightly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 12
+      name: usage_by_location
+      label: Do you use heating system 1 in different rooms or areas of your home?
+      hint: null
+      type: select_multiple
+      options:
+      - Living room
+      - Kitchen
+      - Bedroom
+      - Bathroom
+      - Study or office
+      - Other
+      required: false
+    - id: 13
+      name: usage_by_location_2
+      label: Do you use heating system 2 in different rooms or areas of your home?
+      hint: null
+      type: select_multiple
+      options:
+      - Living room
+      - Kitchen
+      - Bedroom
+      - Bathroom
+      - Study or office
+      - Other
+      required: false
+    - id: 14
+      name: energy_savings_habits_1
+      label: How do you usually reduce energy consumption when using heating system
+        1?
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce the usage
+      - Use a timer or timer switch
+      - Turn off the radiator
+      - Lowering the temperature
+      - Use a smart radiator valve
+      - Other
+      required: false
+    - id: 15
+      name: energy_savings_habits_2
+      label: How do you usually reduce energy consumption when using heating system
+        2?
+      hint: null
+      type: select_multiple
+      options:
+      - Reduce the usage
+      - Use a timer or timer switch
+      - Turn off the radiator
+      - Lowering the temperature
+      - Use a smart radiator valve
+      - Other
+      required: false
+    - id: 16
+      name: total_energy_consumption_1
+      label: Estimate energy consumption (in kWh) of heating system 1 in winter?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_energy_consumption_2
+      label: Estimate energy consumption (in kWh) of heating system 2 in winter?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_fuel_consumption_1
+      label: Estimate fuel consumption (in liters) of heating system 1 in winter?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_fuel_consumption_2
+      label: Estimate fuel consumption (in liters) of heating system 2 in winter?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: carbon_footprint_1
+      label: What is the carbon footprint of heating system 1?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: carbon_footprint_2
+      label: What is the carbon footprint of heating system 2?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: other_heating_sources
+      label: Other heating sources
+      hint: null
+      type: select_multiple
+      options:
+      - Central heating system
+      - Portable heater
+      - Other
+      required: false
+    - id: 23
+      name: other_heating_sources_2
+      label: Other heating sources 2
+      hint: null
+      type: select_multiple
+      options:
+      - Central heating system
+      - Portable heater
+      - Other
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

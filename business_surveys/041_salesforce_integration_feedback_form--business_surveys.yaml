@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salesforce Integration Feedback Form
+    pages:
+    - id: 1
+      name: form_category
+      label: business_surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_title
+      label: salesforce_integration_feedback_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_input_1
+      label: what_do_you_like_most
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: form_input_2
+      label: salesforce_integration_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: form_input_3
+      label: what_do_you_like_least
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 4''}'
+      - '{''id'': 2, ''label'': ''Option 5''}'
+      - '{''id'': 3, ''label'': ''Option 6''}'
+      required: false
+    - id: 7
+      name: form_input_4
+      label: have_you_contacted_salesforce
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_input_5
+      label: do_you_plan_to_use_salesforce
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: false
+    - id: 9
+      name: form_input_6
+      label: why_didnt_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_input_7
+      label: any_other_comments
+      hint: null
+      type: text
+      options: []
+      required: false

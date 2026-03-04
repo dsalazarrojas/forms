@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Generation Market Survey
+    pages:
+    - id: 1
+      name: form_page_1
+      label: how_do_you_prefer_your_water
+      hint: null
+      type: select_one
+      options:
+      - Water Bottled
+      - Tap
+      - Filtered Water
+      - Well Water
+      - Spring Water
+      required: false
+    - id: 2
+      name: how_often_do_you_buy_water
+      label: how_often_do_you_buy_water
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 3
+      name: how_much_do_you_spend_on_water
+      label: how_much_do_you_spend_on_water
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: what_type_of_water_do_you_prefer
+      label: what_type_of_water_do_you_prefer
+      hint: What type of water do you prefer?
+      type: select_one
+      options:
+      - Bottled
+      - Filtered
+      - Spring
+      - Well
+      required: false
+    - id: 5
+      name: how_do_you_rate_your_current_water_source
+      label: how_do_you_rate_your_current_water_source
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: what_do_you_prefer_the_taste_of
+      label: what_do_you_prefer_the_taste_of
+      hint: null
+      type: select_one
+      options:
+      - Fresh
+      - Mild
+      - Strong
+      - Neutral
+      required: false
+    - id: 7
+      name: when_do_you_buy_water
+      label: when_do_you_buy_water
+      hint: null
+      type: select_multiple
+      options:
+      - Every Time
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 8
+      name: form_page_9
+      label: form_page_9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: form_page_10
+      label: form_page_10
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: form_page_11
+      label: form_page_11
+      hint: null
+      type: date
+      options: []
+      required: false

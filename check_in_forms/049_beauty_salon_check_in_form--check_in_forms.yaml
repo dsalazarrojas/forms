@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Check In Form
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: appointment_header
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Haircut
+      - Color
+      - Treatment
+      - Makeup
+      - Skincare
+      - Nail Service
+      - Massage
+      - Other
+      required: true
+    - id: 9
+      name: stylist_name
+      label: Stylist or Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: check_in_header
+      label: -- Check In --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: on_time
+      label: Did You Arrive On Time
+      hint: null
+      type: select_one
+      options:
+      - Early
+      - On Time
+      - 5-10 minutes Late
+      - 10+ minutes Late
+      required: true
+    - id: 13
+      name: waiting_time
+      label: Wait Time Before Appointment
+      hint: null
+      type: select_one
+      options:
+      - No Wait
+      - Under 5 minutes
+      - 5-10 minutes
+      - 10-15 minutes
+      - 15+ minutes
+      required: false
+    - id: 14
+      name: contact_header
+      label: -- Contact Information Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: phone_current
+      label: Is Your Phone Number Current
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: new_phone
+      label: Updated Phone Number
+      hint: If changed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email_current
+      label: Is Your Email Current
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: new_email
+      label: Updated Email
+      hint: If changed
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: health_header
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: allergies_changed
+      label: Any New Allergies or Sensitivities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: new_allergies
+      label: Describe New Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medications_changed
+      label: Any New Medications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: new_medications
+      label: Describe New Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: symptomatic
+      label: Currently Feeling Sick or Symptomatic
+      hint: Fever, cough, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: additional_header
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: special_requests
+      label: Special Requests for Today
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: feedback
+      label: Quick Feedback About Previous Visit
+      hint: null
+      type: text
+      options: []
+      required: false

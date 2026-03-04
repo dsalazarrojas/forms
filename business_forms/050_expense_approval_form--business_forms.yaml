@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Approval Form
+    pages:
+    - id: 1
+      name: expense_approval_form
+      label: expense_approval_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expense_details
+      label: expense_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_category
+      label: expense_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: expense_date
+      label: expense_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expense_amount
+      label: expense_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

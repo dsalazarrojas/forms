@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screen Auto Lock Settings Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - Android
+      - iOS
+      - Windows
+      required: false
+    - id: 2
+      name: form_2
+      label: OS
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      required: false
+    - id: 3
+      name: form_3
+      label: Current Timeout
+      hint: Enter current auto-lock timeout in minutes
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: Preferred Timeout
+      hint: Enter preferred auto-lock timeout in minutes
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: Exception Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Never
+      - '15'
+      - '30'
+      required: false
+    - id: 6
+      name: form_6
+      label: Exception Timeout
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '15'
+      - '30'
+      required: false
+    - id: 7
+      name: form_7
+      label: Drag and Drop
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: No Code
+      hint: null
+      type: note
+      options: []
+      required: false

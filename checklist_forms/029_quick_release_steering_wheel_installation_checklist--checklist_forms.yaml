@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: quick_release_steering_wheel_installation_checklist
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_license
+      label: driver_license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_make_model
+      label: vehicle_make_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_year_makes
+      label: vehicle_year_makes
+      hint: null
+      type: select_one
+      options:
+      - Chevrolet
+      - Dodge
+      - Ford
+      required: false
+    - id: 6
+      name: steering_wheel_type
+      label: steering_wheel_type
+      hint: null
+      type: select_multiple
+      options:
+      - Power
+      - Manual
+      - Electric
+      required: false
+    - id: 7
+      name: release_type
+      label: release_type
+      hint: null
+      type: select_one
+      options:
+      - Mechanical
+      - Hydraulic
+      - Electronic
+      required: false
+    - id: 8
+      name: installation_notes
+      label: installation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_signature
+      label: customer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mechanic_signature
+      label: mechanic_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: completed_by
+      label: completed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_completed
+      label: date_completed
+      hint: null
+      type: date
+      options: []
+      required: false

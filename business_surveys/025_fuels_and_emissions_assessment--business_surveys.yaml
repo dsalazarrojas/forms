@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuels And Emissions Assessment
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_email
+      label: company_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fuel_type
+      label: fuel_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Gasoline''}'
+      - '{''id'': 2, ''label'': ''Diesel''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 6
+      name: fuel_consumption
+      label: fuel_consumption
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: emissions_rating
+      label: emissions_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_type
+      label: vehicle_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Car''}'
+      - '{''id'': 2, ''label'': ''Truck''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: fuel_emissions_rating
+      label: fuel_emissions_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: company_description
+      label: company_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_registration_number
+      label: vehicle_registration_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fuel_type_other
+      label: other_fuel_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fuel_consumption_unit
+      label: fuel_consumption_unit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Liters''}'
+      - '{''id'': 2, ''label'': ''Tons''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 18
+      name: vehicle_model
+      label: vehicle_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_year
+      label: vehicle_year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: vehicle_color
+      label: vehicle_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_size
+      label: vehicle_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_weight
+      label: vehicle_weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fuel_efficiency
+      label: fuel_efficiency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emissions_reductions
+      label: emissions_reductions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

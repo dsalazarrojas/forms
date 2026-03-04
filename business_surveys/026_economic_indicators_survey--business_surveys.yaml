@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Economic Indicators Survey
+    pages:
+    - id: 1
+      name: economic_indicators_form
+      label: Economic Indicators
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: audience
+      label: Audience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: country
+      label: Country
+      hint: Select your country
+      type: select_one
+      options:
+      - '{''value1'': ''Value 1''}'
+      - '{''value2'': ''Value 2''}'
+      required: true
+    - id: 4
+      name: economic_sentiment
+      label: Economic Sentiment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: economic_outlook
+      label: Economic Outlook
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - '{''value1'': ''Value 1''}'
+      - '{''value2'': ''Value 2''}'
+      required: true
+    - id: 17
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: select_one
+      options:
+      - '{''value1'': ''Value 1''}'
+      - '{''value2'': ''Value 2''}'
+      required: false
+    - id: 20
+      name: team_leader_email
+      label: Team Leader Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: region
+      label: Region
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 22
+      name: region_2
+      label: Region 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 23
+      name: region_3
+      label: Region 3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 24
+      name: region_4
+      label: Region 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false
+    - id: 25
+      name: region_5
+      label: Region 5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      required: false

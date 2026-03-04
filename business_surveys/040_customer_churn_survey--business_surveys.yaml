@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_churn_survey
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - First Name
+      - Last Name
+      - Phone Number
+      - Email
+      required: false
+    - id: 2
+      name: reason_for_churn
+      label: Reason for Churn
+      hint: null
+      type: select_multiple
+      options:
+      - Poor Quality
+      - Lack of Features
+      - Cost
+      - Support
+      required: false
+    - id: 3
+      name: contact_frequency
+      label: Contact Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: last_contact_date
+      label: Last Contact Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: last_interaction
+      label: Last Interaction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: select_one
+      options:
+      - No Longer Needed
+      - Dissatisfied with Quality
+      - Dissatisfied with Cost
+      - Other
+      required: true
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - Review
+      - Improve
+      - Cancel
+      required: true
+    - id: 8
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - Unhappy
+      required: false
+    - id: 10
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 11
+      name: customer_service_rep_name
+      label: Customer Service Rep Name
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: true
+    - id: 12
+      name: customer_service_rep_phone
+      label: Customer Service Rep Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_service_rep_email
+      label: Customer Service Rep Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: customer_service_rep_notes
+      label: Customer Service Rep Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: customer_service_rep_comments
+      label: Customer Service Rep Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false

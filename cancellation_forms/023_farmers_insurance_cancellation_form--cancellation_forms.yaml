@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: farmers_insurance_cancellation_form
+    pages:
+    - id: 1
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_cancellation
+      label: reason_for_cancellation
+      hint: null
+      type: select_multiple
+      options:
+      - Non-renewal
+      - Policyholder deceased
+      - Policyholder moved out
+      - Policyholder cancelled
+      - Policyholder relocated
+      - Policyholder no longer needs policy
+      - Other
+      required: false
+    - id: 3
+      name: name
+      label: Policyholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Policyholder Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Policyholder Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Policyholder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

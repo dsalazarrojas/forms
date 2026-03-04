@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Registration Invoice
+    pages:
+    - id: 1
+      name: invoice_customer_header
+      label: -- Invoice - Billing Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: invoice_number_internal
+      label: Invoice Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: bill_to_name
+      label: Bill To (Customer Name)
+      hint: Parent or Organization name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: billing_email_invoice
+      label: Billing Email Address
+      hint: For invoice delivery and receipt
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: billing_phone_invoice
+      label: Billing Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: registration_summary_header
+      label: -- Registration Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: camper_names_invoice
+      label: Name(s) of Campers Covered
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: base_registration_fee_total
+      label: Base Registration Fee Total
+      hint: Amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: activity_add_ons_total
+      label: Activity Add-ons Total
+      hint: Amount for extra sessions or gear
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: discounts_applied_total
+      label: Discounts Applied (Credit)
+      hint: Early bird, sibling, or scholarship
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_amount_due_invoice
+      label: Total Amount Due
+      hint: Final balance
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_status_invoice
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Unpaid - Pending
+      - Partially Paid
+      - Paid in Full
+      - Overdue
+      required: true
+    - id: 13
+      name: invoice_date_issued
+      label: Invoice Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: invoice_due_date
+      label: Invoice Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: billing_special_notes
+      label: Billing Notes or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: payment_method_used_invoice
+      label: Method of Payment
+      hint: If already paid or preferred method
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Cash
+      required: false

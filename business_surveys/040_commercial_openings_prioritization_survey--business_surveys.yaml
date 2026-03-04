@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commercial Openings Prioritization Survey
+    pages:
+    - id: 1
+      name: section_project_info
+      label: -- Commercial Expansion Project --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: surveyor_name
+      label: Surveyor Name/ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: region_under_review
+      label: Region/Market Area Under Review
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_site_evaluation
+      label: -- Site Evaluation and Ranking --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: site_location_a
+      label: Potential Opening Site A - Address/Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: site_location_b
+      label: Potential Opening Site B - Address/Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: site_location_c
+      label: Potential Opening Site C - Address/Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: prioritization_criteria
+      label: Primary Prioritization Criteria
+      hint: What factor is most important for this market?
+      type: select_one
+      options:
+      - High Foot Traffic
+      - Proximity to Competitors
+      - Lower Lease Cost
+      - Demographic Alignment
+      - Ease of Logistics/Access
+      required: true
+    - id: 10
+      name: site_a_score
+      label: Site A Priority Score (1-10)
+      hint: 10 being highest priority
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: site_b_score
+      label: Site B Priority Score (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: site_c_score
+      label: Site C Priority Score (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: section_market_readiness
+      label: -- Market Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: local_permit_complexity
+      label: Estimated Complexity of Local Permitting
+      hint: null
+      type: select_one
+      options:
+      - Low (Fast-track possible)
+      - Medium (Standard process)
+      - High (Significant delays expected)
+      required: true
+    - id: 15
+      name: immediate_action_required
+      label: Does any site require immediate action/commitment?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Site A
+      - Yes - Site B
+      - Yes - Site C
+      - false
+      required: true
+    - id: 16
+      name: prioritization_summary
+      label: Executive Summary of Prioritization
+      hint: null
+      type: text
+      options: []
+      required: false

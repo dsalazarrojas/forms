@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: employer_cost_analysis_survey
+    pages:
+    - id: 1
+      name: main_page
+      label: main_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: labor_costs
+      label: labor_costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_benefits
+      label: employee_benefits
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option 1''}'
+      - '{''value'': ''option 2''}'
+      - '{''value'': ''option 3''}'
+      required: false
+    - id: 4
+      name: expense_management
+      label: expense_management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: benefits_challenges
+      label: benefits_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''challenge 1''}'
+      - '{''value'': ''challenge 2''}'
+      - '{''value'': ''challenge 3''}'
+      required: false

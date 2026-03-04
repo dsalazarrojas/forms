@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: roofing_repair_checklist_form
+    pages:
+    - id: 1
+      name: roof_inspection
+      label: Roof Inspection Checklist
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: repair_needs
+      label: Repair Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: cost_estimate
+      label: Cost Estimate
+      hint: Provide a detailed cost estimate for each repair option
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: repair_status
+      label: Repair Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - In Progress
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Phone
+      - Email
+      - Address
+      required: false
+    - id: 7
+      name: roofing_contractor
+      label: Roofing Contractor
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 8
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contractor_signature
+      label: Contractor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_completed
+      label: Date Completed
+      hint: Date completed for this repair item
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_completed
+      label: Time Completed
+      hint: Time completed for this repair item
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: date_started
+      label: Date Started
+      hint: Date started for this repair item
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_started
+      label: Time Started
+      hint: Time started for this repair item
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 15
+      name: priority_reason
+      label: Priority Reason
+      hint: null
+      type: text
+      options: []
+      required: false

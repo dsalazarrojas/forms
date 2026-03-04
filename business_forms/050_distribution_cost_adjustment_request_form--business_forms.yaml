@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Cost Adjustment Request Form
+    pages:
+    - id: 1
+      name: general
+      label: General information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer
+      label: Customer information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order
+      label: Order details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: adjustment_type
+      label: Adjustment type
+      hint: null
+      type: select_one
+      options:
+      - Cost per unit
+      - Cost per case
+      - Other
+      required: true
+    - id: 5
+      name: unit_cost
+      label: Unit cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_cost
+      label: Total cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: document
+      label: Document
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Completed
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_submitted
+      label: Date submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: date_adjusted
+      label: Date adjusted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: adjusted_by
+      label: Adjusted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reviewed_by
+      label: Reviewed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewed_at
+      label: Reviewed at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: approved_by
+      label: Approved by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approved_at
+      label: Approved at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: completed_by
+      label: Completed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: completed_at
+      label: Completed at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: customer_comments
+      label: Customer comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_notes
+      label: Customer notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: distribution_comments
+      label: Distribution comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: distribution_notes
+      label: Distribution notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

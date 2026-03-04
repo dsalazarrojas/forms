@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Registration Form
+    pages:
+    - id: 1
+      name: registration_parent_header
+      label: -- Parent or Guardian Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_parent_name_reg_std
+      label: Parent or Guardian Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_contact_phone_reg_std
+      label: Primary Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_email_reg_std
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: secondary_contact_info_reg_std
+      label: Secondary Contact Name and Phone
+      hint: Emergency alternative
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: registration_camper_header
+      label: -- Camper Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: camper_full_name_reg_std
+      label: Camper Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: camper_date_of_birth_reg_std
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: camper_gender_reg_std
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary / Other
+      - Prefer not to say
+      required: true
+    - id: 10
+      name: grade_level_upcoming_reg_std
+      label: Grade Level (Next Fall)
+      hint: null
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Grade 4
+      - Grade 5
+      - Grade 6
+      - Grade 7
+      - Grade 8
+      - Grade 9
+      - Grade 10
+      - Grade 11
+      - Grade 12
+      required: true
+    - id: 11
+      name: registration_details_header_reg_std
+      label: -- Camp Session and Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: camp_session_selection_reg_std
+      label: Preferred Camp Session
+      hint: null
+      type: select_one
+      options:
+      - Summer Session 1 - June
+      - Summer Session 2 - July
+      - Winter Session - December
+      - Weekend Retreat
+      required: true
+    - id: 13
+      name: dietary_restrictions_std
+      label: Dietary Restrictions or Concerns
+      hint: e.g., Nut-free, Vegetarian, Halal
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medical_conditions_std
+      label: Known Medical Conditions or Allergies
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: swimming_proficiency_std
+      label: Swimming Proficiency
+      hint: For pool and waterfront safety
+      type: select_one
+      options:
+      - Non-swimmer
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 16
+      name: t_shirt_size_std
+      label: T-shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Youth S
+      - Youth M
+      - Youth L
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      required: true
+    - id: 17
+      name: buddy_request_std
+      label: Buddy Request (Optional)
+      hint: One friend in the same age group
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: liability_waiver_consent_std
+      label: Liability Waiver and Participation Consent
+      hint: I acknowledge that I have read and agree to the camp terms
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 19
+      name: registration_date_std
+      label: Date of Registration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: parent_digital_signature_std
+      label: Parent - Guardian Electronic Signature
+      hint: null
+      type: text
+      options: []
+      required: true

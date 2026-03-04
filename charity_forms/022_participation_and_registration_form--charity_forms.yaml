@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participation And Registration Form
+    pages:
+    - id: 1
+      name: participant_contact_details
+      label: participant contact details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendance
+      label: attendance
+      hint: Please indicate if you will be attending
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 3
+      name: fundraising_goal
+      label: fundraising goal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: past_experience
+      label: past experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: medical history
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: terms_and_conditions
+      label: terms and conditions
+      hint: Please review the terms and conditions
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

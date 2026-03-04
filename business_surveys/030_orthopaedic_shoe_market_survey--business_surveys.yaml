@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Orthopaedic Shoemarket Survey
+    pages:
+    - id: 1
+      name: demographic_info
+      label: Demographic Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_history
+      label: Purchasewhistory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: product_preference
+      label: Productpreferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: Satisfactionlevel
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: purchase_frequency
+      label: Purchasfrequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purchase_location
+      label: PurchaseLocation
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

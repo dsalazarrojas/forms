@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Metrics Clarity Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: metrics_understood
+      label: Metrics Understood
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: targets_clear
+      label: Targets Clear
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: targets_measurable
+      label: Targets Measurable
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: targets_relevant
+      label: Targets Relevant
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: metrics_clear
+      label: Metrics Clear
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: performance_metrics_clarity_score
+      label: Performance Metrics Clarity Score
+      hint: null
+      type: number
+      options: []
+      required: false

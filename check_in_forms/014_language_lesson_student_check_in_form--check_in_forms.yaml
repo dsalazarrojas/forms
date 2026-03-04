@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: language_lesson_student_check_in_form
+    pages:
+    - id: 1
+      name: language_lesson_student_check_in_form_page_1
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: class_session_details_1
+      label: Lesson Topic
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: lesson_duration
+      label: Lesson Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: student_attendance
+      label: Student Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_note
+      label: Student Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted_time
+      label: Form Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false

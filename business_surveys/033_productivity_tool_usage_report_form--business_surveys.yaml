@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Productivity Tool Usage Report Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tool_used
+      label: Tool used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tool_usage_frequency
+      label: Tool usage frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: user_name
+      label: User name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: user_title
+      label: User title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_size
+      label: Organization size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: tool_type
+      label: Tool type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: tool_feature
+      label: Tool feature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: tool_version
+      label: Tool version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: tool_license
+      label: Tool license
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: tool_vendor
+      label: Tool vendor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: tool_purchase_date
+      label: Tool purchase date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: tool_last_used_date
+      label: Tool last used date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: tool_last_used_time
+      label: Tool last used time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: tool_last_used_duration
+      label: Tool last used duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: tool_last_used_location
+      label: Tool last used location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: tool_used_by
+      label: Tool used by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: tool_comment
+      label: Tool comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: organization_email
+      label: Organization email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: user_email
+      label: User email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: tool_used_by_others
+      label: Tool used by others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tool_comment_by_others
+      label: Tool comment by others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tool_last_used_by_others
+      label: Tool last used by others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tool_last_used_by_others_duration
+      label: Tool last used by others duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: tool_last_used_by_others_location
+      label: Tool last used by others location
+      hint: null
+      type: text
+      options: []
+      required: false

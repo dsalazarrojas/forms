@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Coordination Communication Survey
+    pages:
+      - id: 1
+        name: section_intro
+        label: -- Coordination Overview --
+        hint: Evaluate the effectiveness of coordination between the audit team and stakeholders.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: project_name
+        label: Audit Project Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: coordinator_name
+        label: Audit Coordinator Name
+        hint: Person managing the schedule and requests
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: section_coordination_rating
+        label: -- Coordination Performance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: kickoff_meeting_rating
+        label: Effectiveness of the Kickoff Meeting
+        hint: Did it set clear expectations?
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+        required: true
+      - id: 6
+        name: interdepartmental_coordination
+        label: Coordination between different departments
+        hint: How well did teams work together?
+        type: select_one
+        options:
+          - Seamless
+          - Good with minor issues
+          - Poor - siloed behavior
+        required: true
+      - id: 7
+        name: scheduling_satisfaction
+        label: Satisfaction with Audit Scheduling
+        hint: Was the timeline realistic and respected?
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Dissatisfied
+        required: true
+      - id: 8
+        name: pm_tools_effectiveness
+        label: Effectiveness of Audit Management Tools
+        hint: e.g., portals, trackers, shared sheets
+        type: select_one
+        options:
+          - High - Very Helpful
+          - Moderate
+          - Low - More work than help
+        required: true
+      - id: 9
+        name: section_info_sharing
+        label: -- Information and Document Flow --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: doc_request_efficiency
+        label: Efficiency of the Document Request Process
+        hint: Time from request to provision
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Needs Optimization
+          - Very slow
+        required: true
+      - id: 11
+        name: information_sharing_issues
+        label: Were there any issues with information sharing?
+        hint: e.g., Lack of access, missing files, wrong versions
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: section_suggestions
+        label: -- Future Coordination --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: primary_bottleneck
+        label: What was the primary bottleneck in coordination?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: coordinator_suggestions
+        label: Suggestions for the Audit Coordinator
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: survey_date
+        label: Survey Date
+        hint: null
+        type: date
+        options: []
+        required: true

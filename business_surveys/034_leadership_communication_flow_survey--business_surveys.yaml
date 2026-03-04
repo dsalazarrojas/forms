@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Communication Flow Survey
+    pages:
+    - id: 1
+      name: communication_frequency
+      label: How many times per week do you usually communicate with your team?
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times
+      - 3-5 times
+      - Less than 1 time
+      - Never
+      required: false
+    - id: 2
+      name: communication_effectiveness
+      label: How would you rate the effectiveness of your communication with your
+        team?
+      hint: null
+      type: select_one
+      options:
+      - Highly effective
+      - Somewhat effective
+      - Not very effective
+      - Not at all effective
+      required: false
+    - id: 3
+      name: communication_channels
+      label: Which communication channel(s) do you usually use to communicate with
+        your team?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - In-person meeting
+      - Video conference
+      - Text message
+      required: false
+    - id: 4
+      name: communication_barriers
+      label: Which of the following barriers affect your ability to communicate effectively
+        with your team?
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of time
+      - Poor internet connection
+      - Language barrier
+      - Fear of conflict
+      - Technical issues
+      required: false
+    - id: 5
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_from
+      label: Assigned from
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_members
+      label: Team members involved
+      hint: null
+      type: text
+      options: []
+      required: false

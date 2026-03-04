@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Identification Number Survey
+    pages:
+      - id: 1
+        name: header
+        label: -- Business Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: legal_business_name
+        label: Legal business name
+        hint: Registered name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: business_identification_number
+        label: Business identification number
+        hint: National registration or tax ID
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: country_of_registration
+        label: Country of registration
+        hint: Country where business is registered
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: registration_date
+        label: Registration date
+        hint: Date of official registration if known
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: business_structure
+        label: Business structure
+        hint: Legal form of the organization
+        type: select_one
+        options:
+          - Sole proprietorship
+          - Partnership
+          - Corporation
+          - Limited liability company
+        required: true
+      - id: 7
+        name: primary_contact
+        label: Primary contact name
+        hint: Person responsible for registration queries
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: contact_email
+        label: Contact email
+        hint: For follow up on identification details
+        type: email
+        options: []
+        required: false
+      - id: 9
+        name: additional_notes
+        label: Additional notes
+        hint: Any extra information
+        type: text
+        options: []
+        required: false

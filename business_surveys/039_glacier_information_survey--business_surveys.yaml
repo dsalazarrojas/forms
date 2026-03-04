@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: glacier_information_survey
+    pages:
+    - id: 1
+      name: glacier_location
+      label: Glacier Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date_of_observation
+      label: Date of Observation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: glacier_size
+      label: Glacier Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: prophets
+      label: Prophets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: glacier_condition
+      label: Glacier Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: glacier_coloration
+      label: Glacier Coloration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: observation_method
+      label: Observation Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: glacier_altitude
+      label: Glacier Altitude
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

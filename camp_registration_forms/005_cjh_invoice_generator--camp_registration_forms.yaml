@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: CJH Invoice Generator
+    pages:
+    - id: 1
+      name: billing_to
+      label: Billing to
+      hint: Name of person or organization to invoice
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: billing_address
+      label: Billing address
+      hint: Street address and city
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: invoice_date
+      label: Invoice date
+      hint: Date invoice is issued
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: invoice_number
+      label: Invoice number
+      hint: Internal invoice reference
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: item_description
+      label: Item description
+      hint: Description of camp registration item
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Number of units or attendees
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: unit_price
+      label: Unit price
+      hint: Price per unit in local currency
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: total_amount
+      label: Total amount
+      hint: Computed total or enter manually
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_terms
+      label: Payment terms
+      hint: E g Net 30 or due on receipt
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: Phone for payment questions
+      type: text
+      options: []
+      required: false

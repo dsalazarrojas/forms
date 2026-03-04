@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Small Business Financial Assessment
+    pages:
+    - id: 1
+      name: revenue_field
+      label: Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: expense_field
+      label: Expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: goal_field
+      label: Goal
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: revenue_field_1
+      label: Annual Revenue
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expense_field_1
+      label: Annual Expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: goal_field_1
+      label: Goal
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Option 1''}'
+      - '{''id'': 2, ''value'': ''Option 2''}'
+      - '{''id'': 3, ''value'': ''Option 3''}'
+      required: false

@@ -1,0 +1,299 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Packaging Feedback Report Form
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: For follow-up - optional
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: respondent_type
+        label: Respondent Type
+        hint: Select your role
+        type: select_one
+        options:
+          - Customer
+          - Retail Partner
+          - Distributor
+          - Internal Staff
+          - Other
+        required: true
+      - id: 4
+        name: product_name
+        label: Product Name
+        hint: Name of the product
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: product_category
+        label: Product Category
+        hint: Select category
+        type: select_one
+        options:
+          - Food
+          - Beverage
+          - Personal Care
+          - Household
+          - Electronics
+          - Clothing
+          - Other
+        required: true
+      - id: 6
+        name: packaging_type
+        label: Packaging Type
+        hint: Select packaging type
+        type: select_one
+        options:
+          - Box
+          - Bottle
+          - Jar
+          - Can
+          - Pouch
+          - Tube
+          - Blister Pack
+          - Other
+        required: true
+      - id: 7
+        name: packaging_material
+        label: Packaging Material
+        hint: What material is used
+        type: select_one
+        options:
+          - Plastic
+          - Glass
+          - Metal
+          - Cardboard
+          - Paper
+          - Biodegradable
+          - Mixed Materials
+        required: true
+      - id: 8
+        name: first_impression
+        label: First Impression
+        hint: Rate your first impression
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 9
+        name: visual_appeal
+        label: Visual Appeal
+        hint: Rate the appearance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 10
+        name: color_scheme
+        label: Color Scheme
+        hint: Rate the colors used
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 11
+        name: label_clarity
+        label: Label Clarity
+        hint: Rate how clear the labeling is
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 12
+        name: ease_of_opening
+        label: Ease of Opening
+        hint: Rate how easy it is to open
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 13
+        name: ease_of_use
+        label: Ease of Use
+        hint: Rate overall usability
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 14
+        name: resealability
+        label: Resealability
+        hint: Rate the resealing feature if applicable
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+          - Not Applicable
+        required: false
+      - id: 15
+        name: product_protection
+        label: Product Protection
+        hint: Rate how well it protects the product
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 16
+        name: durability
+        label: Durability
+        hint: Rate the sturdiness
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 17
+        name: size_appropriateness
+        label: Size Appropriateness
+        hint: Is the size appropriate
+        type: select_one
+        options:
+          - Too Large
+          - Slightly Large
+          - Just Right
+          - Slightly Small
+          - Too Small
+        required: true
+      - id: 18
+        name: sustainability_rating
+        label: Sustainability Rating
+        hint: Rate environmental friendliness
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 19
+        name: recyclability
+        label: Recyclability
+        hint: Is packaging easy to recycle
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+          - Not Sure
+        required: true
+      - id: 20
+        name: storage_convenience
+        label: Storage Convenience
+        hint: Rate ease of storage
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 21
+        name: packaging_issues
+        label: Issues Encountered
+        hint: Select any problems
+        type: select_multiple
+        options:
+          - None
+          - Difficult to Open
+          - Damaged on Arrival
+          - Leaks
+          - Tears Easily
+          - Hard to Store
+          - Not Recyclable
+          - Misleading Labeling
+          - Other
+        required: true
+      - id: 22
+        name: best_features
+        label: Best Features
+        hint: What do you like most
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: purchase_influence
+        label: Does Packaging Influence Purchase
+        hint: Select if packaging affects your buying
+        type: select_one
+        options:
+          - Yes, Significantly
+          - Yes, Somewhat
+          - Neutral
+          - Not Really
+          - No, Not at All
+        required: true
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

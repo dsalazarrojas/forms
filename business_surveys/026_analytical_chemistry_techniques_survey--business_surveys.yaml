@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Analytical Chemistry Techniques Survey
+    pages:
+    - id: 1
+      name: section_survey_header
+      label: -- Analytical Chemistry Techniques Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: professional_title
+      label: Professional Title
+      hint: e.g. Senior Chemist, Lab Manager
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: laboratory_affiliation
+      label: Laboratory / Institution Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: section_technique_usage
+      label: -- Technique Usage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: techniques_used
+      label: Analytical Techniques Regularly Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - HPLC
+      - GC-MS
+      - NMR
+      - ICP-OES
+      - UV-Vis Spectroscopy
+      - Titration
+      required: true
+    - id: 7
+      name: frequency_of_instrument_calibration
+      label: Frequency of Instrument Calibration
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Per Project
+      - Quarterly
+      required: true
+    - id: 8
+      name: most_challenging_analytical_matrix
+      label: What is your most challenging analytical matrix?
+      hint: e.g. Blood, Soil, Polymer
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_lab_management
+      label: -- Laboratory Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_with_current_equipment
+      label: Overall Satisfaction with Current Analytical Equipment
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
+    - id: 11
+      name: suggested_equipment_upgrades
+      label: Suggested Equipment Upgrades or Purchases
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: areas_for_training
+      label: Desired Areas for Further Professional Training
+      hint: null
+      type: select_multiple
+      options:
+      - Method Development
+      - Troubleshooting
+      - Data Analysis Software
+      - Lab Safety
+      required: false
+    - id: 13
+      name: additional_comments_on_lab_efficiency
+      label: Additional Comments on Lab Efficiency
+      hint: null
+      type: text
+      options: []
+      required: false

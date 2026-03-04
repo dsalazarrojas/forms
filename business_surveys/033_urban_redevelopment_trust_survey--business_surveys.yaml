@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Redevelopment Trust Survey
+    pages:
+    - id: 1
+      name: page1
+      label: Urban Redevelopment Trust
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: Survey Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_3
+      label: What is your role in the community?
+      hint: null
+      type: select_one
+      options:
+      - Urban Planner
+      - Community Leader
+      - Resident
+      required: true
+    - id: 4
+      name: page_4
+      label: How do you rate the level of community engagement?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: page_5
+      label: What are your top three concerns about urban development?
+      hint: null
+      type: select_multiple
+      options:
+      - Housing
+      - Infrastructure
+      - Public Health
+      required: true
+    - id: 6
+      name: page_6
+      label: How do you rate the quality of life in your neighborhood?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: page_7
+      label: How do you rate the level of community satisfaction?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: page_8
+      label: Additional comments or suggestions
+      hint: null
+      type: note
+      options: []
+      required: false

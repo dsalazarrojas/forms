@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Vaccination Timing Study Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: survey_participant_info
+      label: survey_participant_info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: participant_id
+      label: participant_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_type
+      label: participant_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''farmer''}'
+      - '{''label'': ''veterinarian''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 5
+      name: vaccination_schedule
+      label: vaccination_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: vaccination_frequency
+      label: vaccination_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''daily''}'
+      - '{''label'': ''weekly''}'
+      - '{''label'': ''monthly''}'
+      required: false
+    - id: 7
+      name: vaccination_type
+      label: vaccination_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vaccination_location
+      label: vaccination_location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''farm''}'
+      - '{''label'': ''clinic''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 9
+      name: challenge_1
+      label: challenge_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: challenge_2
+      label: challenge_2
+      hint: null
+      type: text
+      options: []
+      required: false

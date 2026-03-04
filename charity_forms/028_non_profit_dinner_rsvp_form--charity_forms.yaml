@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Profit Dinner RSVP Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attending_with
+      label: Attending with
+      hint: null
+      type: select_multiple
+      options:
+      - Myself
+      - Spouse
+      - Friend
+      - Family
+      required: false
+    - id: 6
+      name: attending_with_other
+      label: Attending with other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: will_attend
+      label: Will Attend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

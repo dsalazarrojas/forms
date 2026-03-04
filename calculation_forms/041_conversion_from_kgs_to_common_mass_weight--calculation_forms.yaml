@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conversion From Kgs To Common Mass Weight
+    pages:
+    - id: 1
+      name: user_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: To receive results
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: section_input
+      label: -- Input Value --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: input_value
+      label: Enter Value in Kilograms
+      hint: Number to convert
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: input_description
+      label: What are you measuring
+      hint: Optional description
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_metric_conversions
+      label: -- Metric Conversions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: grams_result
+      label: Grams
+      hint: Result in grams
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: centigrams_result
+      label: Centigrams
+      hint: Result in centigrams
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: milligrams_result
+      label: Milligrams
+      hint: Result in milligrams
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: metric_tons_result
+      label: Metric Tons
+      hint: Result in metric tons
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: section_imperial_conversions
+      label: -- Imperial Conversions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: pounds_result
+      label: Pounds
+      hint: Result in pounds
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: ounces_result
+      label: Ounces
+      hint: Result in ounces
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: stones_result
+      label: Stones
+      hint: Result in stones
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_us_conversions
+      label: -- US Customary Conversions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: us_tons_result
+      label: US Tons
+      hint: Result in US tons
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: grains_result
+      label: Grains
+      hint: Result in grains
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_other_conversions
+      label: -- Other Conversions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: carats_result
+      label: Carats
+      hint: Result in carats
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: troy_ounces_result
+      label: Troy Ounces
+      hint: Result in troy ounces
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: slugs_result
+      label: Slugs
+      hint: Result in slugs
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: section_precision
+      label: -- Precision Settings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: decimal_places
+      label: Decimal Places for Results
+      hint: How many decimal places
+      type: select_one
+      options:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: false
+    - id: 24
+      name: section_notes
+      label: -- Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any comments
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: calculation_date
+      label: Calculation Date
+      hint: Date of conversion
+      type: date
+      options: []
+      required: false

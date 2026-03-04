@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: State Rate Calculator Form
+    pages:
+    - id: 1
+      name: state_rate_calculator_form
+      label: State Rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: select_state
+      label: Select State
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: select_rate_type
+      label: Rate Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Tax Rate''}'
+      - Rate
+      - Other
+      required: false
+    - id: 4
+      name: rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: calculate_rate
+      label: Calculate Rate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: select_calculate_rate_method
+      label: Calculate Rate Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Method 1''}'
+      - Method 2
+      - Method 3
+      required: false
+    - id: 7
+      name: input_1
+      label: Input 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: input_2
+      label: Input 2
+      hint: null
+      type: text
+      options: []
+      required: false

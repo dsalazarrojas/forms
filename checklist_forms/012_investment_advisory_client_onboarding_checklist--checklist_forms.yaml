@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Advisory Client Onboarding Checklist
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: investment_type
+      label: Investment Type
+      hint: null
+      type: select_one
+      options:
+      - High-Risk
+      - Low-Risk
+      - Balanced
+      required: false
+    - id: 6
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: investment_goals
+      label: Investment Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: current_investments
+      label: Current Investments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      required: false
+    - id: 10
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: net_worth
+      label: Net Worth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: investment_horizon
+      label: Investment Horizon
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: investment_frequency
+      label: Investment Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: investment_objectives
+      label: Investment Objectives
+      hint: null
+      type: text
+      options: []
+      required: false

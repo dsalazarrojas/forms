@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vinegar Usage Survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vinegar_types
+      label: Which type of vinegar do you use?
+      hint: null
+      type: select_one
+      options:
+      - apple_cider
+      - balsamic
+      - balsamic_vinegar
+      - white_wine
+      - white_vinegar
+      required: false
+    - id: 3
+      name: usage_habits
+      label: How often do you use vinegar?
+      hint: null
+      type: select_multiple
+      options:
+      - every_day
+      - every_other_day
+      - rarely
+      - never
+      required: false
+    - id: 4
+      name: purchase_locations
+      label: Where do you purchase vinegar?
+      hint: null
+      type: select_multiple
+      options:
+      - online
+      - grocery_store
+      - health_food_store
+      - specialty_food_store
+      required: false
+    - id: 5
+      name: satisfaction
+      label: How satisfied are you with the type of vinegar you purchased?
+      hint: null
+      type: select_one
+      options:
+      - very_satisfied
+      - somewhat_satisfied
+      - not_satisfied
+      - neutral
+      - dissatisfied
+      required: false
+    - id: 6
+      name: purchase_frequency
+      label: How often do you purchase vinegar?
+      hint: null
+      type: select_one
+      options:
+      - very_often
+      - sometimes
+      - rarely
+      required: false
+    - id: 7
+      name: brand_purchased
+      label: What brand do you usually purchase?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: brand_purchased_other
+      label: Is there another brand you usually purchase?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: purchase_value
+      label: What is the value of the vinegar you usually purchase?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: purchase_frequency_other
+      label: How often do you purchase other types of vinegar?
+      hint: null
+      type: select_multiple
+      options:
+      - very_often
+      - sometimes
+      - rarely
+      - never
+      required: false
+    - id: 11
+      name: purchase_location_other
+      label: Where do you purchase other types of vinegar?
+      hint: null
+      type: select_multiple
+      options:
+      - online
+      - grocery_store
+      - health_food_store
+      - specialty_food_store
+      required: false
+    - id: 12
+      name: purchase_reason
+      label: Why do you purchase other types of vinegar?
+      hint: null
+      type: select_multiple
+      options:
+      - for_culinary_use
+      - for_health_reasins
+      - for_other
+      - for_specialty_use
+      - for_other_reasons
+      required: false

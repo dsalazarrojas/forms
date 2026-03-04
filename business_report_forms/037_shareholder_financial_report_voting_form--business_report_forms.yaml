@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shareholder Financial Report Voting Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: selected_reporting_period
+      label: Selected Reporting Period
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: true
+    - id: 3
+      name: reporting_period
+      label: Reporting Period
+      hint: Choose at least one
+      type: select_multiple
+      options:
+      - Q1
+      - Q2
+      - Q3
+      - Q4
+      required: false
+    - id: 4
+      name: total_shares_owned
+      label: Total Shares Owned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: percentage_owned
+      label: Percentage Owned
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submission_note
+      label: Submission Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 12
+      name: submission_status_hint
+      label: Submission Status Hint
+      hint: Please select an option from above
+      type: text
+      options: []
+      required: false

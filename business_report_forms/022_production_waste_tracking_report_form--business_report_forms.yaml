@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Waste Tracking Report Form
+    pages:
+    - id: 1
+      name: production_waste_tracking_form
+      label: Production Waste Tracking Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: production_site
+      label: Production Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shift
+      label: Shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: production_area
+      label: Production Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: waste_code
+      label: Waste Code
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: waste_quantity
+      label: Waste Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: waste_weight
+      label: Waste Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: waste_description
+      label: Waste Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: action_details
+      label: Action Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: production_waste_comments
+      label: Production Waste Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false

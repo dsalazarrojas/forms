@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Banking Assessment Survey
+    pages:
+    - id: 1
+      name: user_id
+      label: User Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: branch_id
+      label: Branch Id
+      hint: Please enter branch id
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 4
+      name: account_id
+      label: Account Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_rating
+      label: User rating
+      hint: Enter user rating
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: branch_rating
+      label: Branch rating
+      hint: Enter branch rating
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: Provide feedback
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,226 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Support Program Evaluation Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program_name
+      label: Which program did you participate in?
+      hint: Name or title of the support program
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participation_duration
+      label: How long did you participate?
+      hint: Weeks or months
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 2-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - 6+ months
+      required: true
+    - id: 6
+      name: participation_frequency
+      label: How frequently did you participate?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 3-4 times per week
+      - 1-2 times per week
+      - Bi-weekly
+      - Monthly
+      - As needed
+      required: true
+    - id: 7
+      name: program_relevance
+      label: How relevant was this program to your needs?
+      hint: null
+      type: select_one
+      options:
+      - Highly relevant
+      - Relevant
+      - Somewhat relevant
+      - Slightly relevant
+      - Not relevant
+      required: true
+    - id: 8
+      name: expectations_met
+      label: Were your expectations met?
+      hint: null
+      type: select_one
+      options:
+      - Exceeded expectations
+      - Met expectations
+      - Partially met
+      - Below expectations
+      - Did not meet expectations
+      required: true
+    - id: 9
+      name: content_quality
+      label: Quality of program content
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Very Poor
+      required: true
+    - id: 10
+      name: instructor_quality
+      label: Quality of instruction or facilitation
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Very Poor
+      required: true
+    - id: 11
+      name: practical_application
+      label: How applicable is the learning to your business?
+      hint: null
+      type: select_one
+      options:
+      - Highly applicable
+      - Applicable
+      - Somewhat applicable
+      - Minimally applicable
+      - Not applicable
+      required: true
+    - id: 12
+      name: business_impact
+      label: What business impact has this program had?
+      hint: Describe specific results or improvements
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skills_gained
+      label: What skills or knowledge did you gain?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Leadership skills
+      - Financial management
+      - Marketing strategy
+      - Sales techniques
+      - Operations management
+      - Technology skills
+      - Strategic planning
+      - Networking opportunities
+      required: true
+    - id: 14
+      name: implementation_success
+      label: Have you successfully implemented what you learned?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completely
+      - Yes, mostly
+      - Partially
+      - Not yet
+      - No plans to implement
+      required: true
+    - id: 15
+      name: support_quality
+      label: Quality of support and guidance received
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Very Poor
+      required: true
+    - id: 16
+      name: recommendation_likelihood
+      label: Would you recommend this program to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely would recommend
+      - Probably would recommend
+      - Unsure
+      - Probably would not recommend
+      - Definitely would not recommend
+      required: true
+    - id: 17
+      name: improvement_suggestions
+      label: How could the program be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: future_participation
+      label: Would you participate in future programs?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Unsure
+      - Probably no
+      - No
+      required: true
+    - id: 19
+      name: additional_topics
+      label: What additional topics would you like covered?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overall_satisfaction
+      label: Overall satisfaction with the program
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true

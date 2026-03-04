@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: ISMS Assessment Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: ISMS Policy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_leads
+      label: Team Leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: controls
+      label: Control Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: maturity_levels
+      label: Maturity Levels
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 5
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: status_update
+      label: Status Update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: review_and_sign_off
+      label: Review and Signoff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_and_signoff_approvals
+      label: Review and Signoff Approvals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: review_and_signoff_comments
+      label: Review and Signoff Comments
+      hint: null
+      type: text
+      options: []
+      required: false

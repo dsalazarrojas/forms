@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Retreat Registration Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_notes
+      label: Participant Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: emergency_notes
+      label: Emergency Contacts Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_staff
+      label: Assigned Staff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_staff_label
+      label: Label for Assigned Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_staff
+      label: Emergency Staff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: emergency_staff_label
+      label: Label for Emergency Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: participant_dob
+      label: Participant Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: participant_dob_label
+      label: Label for Participant Date of Birth
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_dob_format
+      label: Participant Date of Birth Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: participant_dob_format_label
+      label: Label for Participant Date of Birth Format
+      hint: null
+      type: text
+      options: []
+      required: false

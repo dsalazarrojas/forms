@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Service Provider Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_service
+      label: current_service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1}'
+      - '{''id'': 2}'
+      - '{''id'': 3}'
+      - '{''id'': 4}'
+      - '{''id'': 5}'
+      - '{''id'': 6}'
+      - '{''id'': 7}'
+      - '{''id'': 8}'
+      required: true
+    - id: 3
+      name: service_rating
+      label: service_rating
+      hint: Rate your current email service
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email_frequency
+      label: email_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email_frequency_what
+      label: email_frequency_what
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Less than once a day''}'
+      - '{''id'': 2, ''text'': ''Once a day''}'
+      - '{''id'': 3, ''text'': ''Several times a day''}'
+      - '{''id'': 4, ''text'': ''Never''}'
+      required: true
+    - id: 6
+      name: email_preferences
+      label: email_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Email marketing automation''}'
+      - '{''id'': 2, ''text'': ''Email list management''}'
+      - '{''id'': 3, ''text'': ''Customer service''}'
+      - '{''id'': 4, ''text'': ''Email analytics''}'
+      required: false
+    - id: 7
+      name: open_rate
+      label: open_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: bounce_rate
+      label: bounce_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: complaint_rate
+      label: complaint_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: spam_rate
+      label: spam_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: open_rate_hint
+      label: open_rate_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: bounce_rate_hint
+      label: bounce_rate_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: complaint_rate_hint
+      label: complaint_rate_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: spam_rate_hint
+      label: spam_rate_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: email_service_id
+      label: email_service_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: email_service_id_hint
+      label: email_service_id_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: service_providers
+      label: service_providers
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Gmail''}'
+      - '{''id'': 2, ''text'': ''Outlook''}'
+      - '{''id'': 3, ''text'': ''Mailchimp''}'
+      - '{''id'': 4, ''text'': ''Mailgun''}'
+      - '{''id'': 5, ''text'': ''Constant Contact''}'
+      required: true
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments_hint
+      label: comments_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: suggestions_hint
+      label: suggestions_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submission_id
+      label: form_submission_id
+      hint: null
+      type: text
+      options: []
+      required: false

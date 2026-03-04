@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advance Achievement Survey
+    pages:
+    - id: 1
+      name: section_org
+      label: -- Organizational Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_period
+      label: Reporting Period
+      hint: e.g. Q1 2026
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_key
+      label: -- Key Achievements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: top_achievement_of_the_period
+      label: Top Achievement of the Period
+      hint: What was the most significant win?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_attainment_level
+      label: Target Attainment Level
+      hint: Performance against established KPIs
+      type: select_one
+      options:
+      - Exceeded
+      - Met
+      - Partially Met
+      - Not Met
+      required: true
+    - id: 7
+      name: contributing_factors_to_success
+      label: Contributing Factors to Success
+      hint: Select the primary drivers
+      type: select_multiple
+      options:
+      - Team Collaboration
+      - Process Innovation
+      - Resource Allocation
+      - Leadership Support
+      - External Conditions
+      required: false
+    - id: 8
+      name: section_metrics
+      label: -- Progress Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: revenue_growth_percentage
+      label: Revenue Growth Percentage
+      hint: enter 0 if not applicable
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: new_clients_acquired
+      label: New Clients Acquired
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: project_completion_rate
+      label: Project Completion Rate
+      hint: percentage of projects delivered on time
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: section_future
+      label: -- Future Outlook --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_objective_for_next_period
+      label: Primary Objective for Next Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: confidence_in_meeting_future_goals
+      label: Confidence in Meeting Future Goals
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 15
+      name: support_needed_for_advance_achievement
+      label: Support Needed for Advance Achievement
+      hint: What resources or changes are required?
+      type: text
+      options: []
+      required: false

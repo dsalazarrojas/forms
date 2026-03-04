@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_retention_metrics_monitoring_form
+    pages:
+    - id: 1
+      name: customer_retention_rates
+      label: Customer Retention Rates
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 3
+      name: net_promoter_score
+      label: Net Promoter Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_acquisition_costs
+      label: Customer Acquisition Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_retention_costs
+      label: Customer Retention Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: customer_satisfaction_costs
+      label: Customer Satisfaction Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: retention_rates
+      label: Retention Rates
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_segment
+      label: Customer Segment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Segment 1''}'
+      - '{''label'': ''Segment 2''}'
+      - '{''label'': ''Segment 3''}'
+      required: false
+    - id: 9
+      name: customer_segment_other
+      label: Customer Segment Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_segment_other_description
+      label: Customer Segment Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_acquisition_channel
+      label: Customer Acquisition Channel
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Offline''}'
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Referral''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: customer_referral_source
+      label: Customer Referral Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_referral_source_description
+      label: Customer Referral Source Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_retention_metrics_monitoring_form_16
+      label: Additional Metric
+      hint: null
+      type: number
+      options: []
+      required: false

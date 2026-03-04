@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art For Social Change Impact Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_name
+      label: Organization or Group Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_title
+      label: Art Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_duration
+      label: Project Duration - Months
+      hint: How long has the project been running
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: primary_audience
+      label: Primary Audience Reached
+      hint: null
+      type: select_one
+      options:
+      - Community Members
+      - Students
+      - Underserved Populations
+      - Mixed Audience
+      - Other
+      required: true
+    - id: 6
+      name: social_impact_areas
+      label: Areas of Social Impact
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Economic Empowerment
+      - Education
+      - Health and Wellness
+      - Community Engagement
+      - Social Justice
+      - Environmental Awareness
+      - Cultural Preservation
+      required: true
+    - id: 7
+      name: participants_reached
+      label: Estimated Number of Participants Reached
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: funding_sources
+      label: Primary Funding Sources
+      hint: null
+      type: select_multiple
+      options:
+      - Grants
+      - Donations
+      - Earned Revenue
+      - Government Funding
+      - Corporate Sponsorship
+      - Personal Investment
+      required: false
+    - id: 9
+      name: impact_rating
+      label: Rate the Overall Social Impact - Scale 1-10
+      hint: 1 = Minimal Impact, 10 = Significant Impact
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: measurable_outcomes
+      label: Measurable Outcomes Achieved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: challenges_faced
+      label: Key Challenges Faced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: future_plans
+      label: Future Plans for the Project
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: collaboration_opportunities
+      label: Open to Collaboration Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Yes, Very Interested
+      - Possibly
+      - Not at This Time
+      required: false
+    - id: 14
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drone Preflight Checklist
+    pages:
+    - id: 1
+      name: checklist_title
+      label: Drone Preflight Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flight_system
+      label: Flight System
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Drone''}'
+      - '{''value'': ''Quadcopter''}'
+      required: false
+    - id: 3
+      name: system_status
+      label: System Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Ready''}'
+      - '{''value'': ''Not Ready''}'
+      - '{''value'': ''Partially Ready''}'
+      required: false
+    - id: 4
+      name: battery_status
+      label: Battery Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Full''}'
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Empty''}'
+      required: false
+    - id: 5
+      name: motor_status
+      label: Motor Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Functional''}'
+      - '{''value'': ''Not Functional''}'
+      - '{''value'': ''Partially Functional''}'
+      required: false
+    - id: 6
+      name: propeller_status
+      label: Propeller Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Secure''}'
+      - '{''value'': ''Loose''}'
+      - '{''value'': ''Missing''}'
+      required: false
+    - id: 7
+      name: propeller_count
+      label: Propeller Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: propeller_pitch
+      label: Propeller Pitch
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Forward''}'
+      - '{''value'': ''Backward''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 9
+      name: propeller_pitch_degrees
+      label: Propeller Pitch
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: drone_weight
+      label: Drone Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: flight_controller
+      label: Flight Controller
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manual''}'
+      - '{''value'': ''Autonomous''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 12
+      name: flight_controller_version
+      label: Flight Controller Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: drone_type
+      label: Drone Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Drone''}'
+      - '{''value'': ''Quadcopter''}'
+      - '{''value'': ''Rotorcraft''}'
+      required: false
+    - id: 14
+      name: propeller_type
+      label: Propeller Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fixed''}'
+      - '{''value'': ''Adjustable''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 15
+      name: flight_planner
+      label: Flight Planner
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Online''}'
+      - '{''value'': ''Offline''}'
+      - '{''value'': ''None''}'
+      required: false
+    - id: 16
+      name: flight_planner_version
+      label: Flight Planner Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: drone_serial_number
+      label: Drone Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: drone_model
+      label: Drone Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: propeller_size
+      label: Propeller Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 12}'
+      - '{''value'': 15}'
+      - '{''value'': 20}'
+      required: false
+    - id: 20
+      name: motor_size
+      label: Motor Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 12}'
+      - '{''value'': 15}'
+      - '{''value'': 20}'
+      required: false
+    - id: 21
+      name: motor_size2
+      label: Motor Size 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 12}'
+      - '{''value'': 15}'
+      - '{''value'': 20}'
+      required: false
+    - id: 22
+      name: motor_size3
+      label: Motor Size 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 12}'
+      - '{''value'': 15}'
+      - '{''value'': 20}'
+      required: false
+    - id: 23
+      name: motor_size4
+      label: Motor Size 4
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 12}'
+      - '{''value'': 15}'
+      - '{''value'': 20}'
+      required: false
+    - id: 24
+      name: propeller_pitch_size
+      label: Propeller Pitch Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 20}'
+      - '{''value'': 30}'
+      - '{''value'': 40}'
+      required: false
+    - id: 25
+      name: drone_serial_number2
+      label: Drone Serial Number 2
+      hint: null
+      type: text
+      options: []
+      required: false

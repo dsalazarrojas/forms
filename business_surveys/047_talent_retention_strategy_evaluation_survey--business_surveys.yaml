@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Retention Strategy Evaluation Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: employee_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_climate
+      label: climate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: leadership_support
+      label: leadership_support
+      hint: Select one of the options
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: career_development
+      label: career_development_opportunities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: work_life_balance
+      label: work_life_balance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: feedback
+      label: employee_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: retention_strategies
+      label: retention_strategies
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 10
+      name: improvement_areas
+      label: areas_for_improvement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: survey_completion
+      label: survey_completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: manager_support
+      label: manager_support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: feedback_recieved
+      label: feedback_recieved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: retention_strategies_improve
+      label: retention_strategies_improve
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: page_2
+      label: page_2
+      hint: null
+      type: note
+      options: []
+      required: false

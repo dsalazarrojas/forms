@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Security Supervisor Checklist
+    pages:
+    - id: 1
+      name: general_info
+      label: general_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_access
+      label: site_access
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: physical_security_system
+      label: physical_security_system
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: site_inspection
+      label: site_inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: task_completion_status
+      label: task_completion_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: incident_reporting
+      label: incident_reporting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_summary
+      label: incident_summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: task_description
+      label: task_description
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: task_status
+      label: task_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: incident_priority
+      label: incident_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: incident_category
+      label: incident_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: task_due_date
+      label: task_due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: task_responsible
+      label: task_responsible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: incident_responsible
+      label: incident_responsible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: task_completion_date
+      label: task_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: incident_completion_date
+      label: incident_completion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: incident_comments
+      label: incident_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: general_comments
+      label: general_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_id
+      label: incident_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: site_id
+      label: site_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: task_id
+      label: task_id
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: parking_lot_inspection_form
+    pages:
+    - id: 1
+      name: general_information
+      label: general_information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parking_lot_condition
+      label: parking_lot_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''excellent'', ''label'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''good'', ''label'': ''Good''}'
+      - '{''id'': 3, ''name'': ''fair'', ''label'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''poor'', ''label'': ''Poor''}'
+      required: true
+    - id: 3
+      name: parking_lot_equipment
+      label: parking_lot_equipment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: safety_features
+      label: safety_features
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fire_alarms'', ''label'': ''Fire Alarms''}'
+      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      - '{''id'': 3, ''name'': ''emergency_exits'', ''label'': ''Emergency Exits''}'
+      required: true
+    - id: 5
+      name: parking_lot_cleanliness
+      label: parking_lot_cleanliness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - '{''id'': 2, ''name'': ''dirty'', ''label'': ''Dirty''}'
+      required: true
+    - id: 6
+      name: parking_lot_condition_2
+      label: parking_lot_condition_2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: parking_lot_equipment_2
+      label: parking_lot_equipment_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: safety_features_2
+      label: safety_features_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
+      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      required: true
+    - id: 9
+      name: parking_lot_cleanliness_2
+      label: parking_lot_cleanliness_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Other
+      required: true
+    - id: 10
+      name: parking_lot_condition_3
+      label: parking_lot_condition_3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: parking_lot_equipment_3
+      label: parking_lot_equipment_3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: safety_features_3
+      label: safety_features_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
+      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      required: true
+    - id: 13
+      name: parking_lot_cleanliness_3
+      label: parking_lot_cleanliness_3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Other
+      required: true
+    - id: 14
+      name: parking_lot_equipment_4
+      label: parking_lot_equipment_4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: safety_features_4
+      label: safety_features_4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
+      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      required: true
+    - id: 16
+      name: parking_lot_cleanliness_4
+      label: parking_lot_cleanliness_4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Other
+      required: true
+    - id: 17
+      name: parking_lot_equipment_5
+      label: parking_lot_equipment_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: safety_features_5
+      label: safety_features_5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
+      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      required: false
+    - id: 19
+      name: parking_lot_cleanliness_5
+      label: parking_lot_cleanliness_5
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Other
+      required: false
+    - id: 20
+      name: parking_lot_equipment_6
+      label: parking_lot_equipment_6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: safety_features_6
+      label: safety_features_6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
+      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      required: false
+    - id: 22
+      name: parking_lot_cleanliness_6
+      label: parking_lot_cleanliness_6
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Other
+      required: false
+    - id: 23
+      name: parking_lot_equipment_7
+      label: parking_lot_equipment_7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: safety_features_7
+      label: safety_features_7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
+      - Other
+      required: false
+    - id: 25
+      name: parking_lot_cleanliness_7
+      label: parking_lot_cleanliness_7
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Other
+      required: false

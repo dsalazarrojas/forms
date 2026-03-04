@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_contract_renewal_process_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: property_contract_renewal_process_survey_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tenant_satisfaction
+      label: tenant_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: renewal_intent
+      label: renewal_intent
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lease_expiration_date
+      label: lease_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: note
+      options: []
+      required: false

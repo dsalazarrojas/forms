@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: printing_quotation_request_form
+    pages:
+    - id: 1
+      name: paper_size
+      label: Paper size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: paper_orientation
+      label: Paper orientation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: color
+      label: Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: additional_notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false

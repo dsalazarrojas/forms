@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Usability Testing Checklist
+    pages:
+    - id: 1
+      name: app_usability_testing_checklist
+      label: App Usability Testing Checklist
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: app_name
+      label: App Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: app_version
+      label: App Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Android
+      - iOS
+      - Windows
+      - Other
+      required: false
+    - id: 5
+      name: screen_size
+      label: Screen Size
+      hint: null
+      type: select_multiple
+      options:
+      - Smartphone
+      - Tablet
+      - Desktop
+      required: false
+    - id: 6
+      name: app_launch_time
+      label: App Launch Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: app_usability_rating
+      label: App Usability Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true

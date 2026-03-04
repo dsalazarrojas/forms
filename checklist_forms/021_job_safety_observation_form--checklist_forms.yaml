@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Job Safety Observation Form
+    pages:
+    - id: 1
+      name: job_safety_observation_form_1
+      label: safety_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_question_1
+      label: do_you_agree_that_employees_are_wearing_ppe
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'False'
+      - Not sure
+      required: false
+    - id: 3
+      name: safety_question_2
+      label: are_the_workstations_clean
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: false
+    - id: 4
+      name: observation_notes
+      label: observation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date_of_observation
+      label: date_of_observation
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_observation
+      label: time_of_observation
+      hint: null
+      type: time
+      options: []
+      required: false

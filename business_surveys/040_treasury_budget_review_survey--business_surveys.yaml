@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Budget Review Survey
+    pages:
+    - id: 1
+      name: finance_stakeholders
+      label: finance_stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: budget_allocation
+      label: budget_allocation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: funding_priorities
+      label: funding_priorities
+      hint: null
+      type: select_one
+      options:
+      - Budget
+      - Cost
+      - Other
+      required: true
+    - id: 4
+      name: improvement_suggestions
+      label: improvement_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: budget_allocation_details
+      label: budget_allocation_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: finance_leaders_feedback
+      label: finance_leaders_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treasury_teams_feedback
+      label: treasury_teams_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: finance_leaders_and_treasury_teams_feedback
+      label: finance_leaders_and_treasury_teams_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: planning_cycles
+      label: planning_cycles
+      hint: null
+      type: select_one
+      options:
+      - Q1
+      - Q2
+      - Q3
+      required: true
+    - id: 11
+      name: improvement_suggestions_details
+      label: improvement_suggestions_details
+      hint: null
+      type: text
+      options: []
+      required: false

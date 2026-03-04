@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Checklist Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: Name of the charity event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_location
+      label: Event Location
+      hint: Venue or address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organizer_name
+      label: Organizer Name
+      hint: Lead organizer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organizer_email
+      label: Organizer Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: Estimated count
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: venue_booked
+      label: Venue Booked and Confirmed
+      hint: Check when complete
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 8
+      name: permits_obtained
+      label: Permits and Licenses Obtained
+      hint: Required approvals
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 9
+      name: vendors_confirmed
+      label: Vendors and Catering Confirmed
+      hint: Food and services
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 10
+      name: volunteers_recruited
+      label: Volunteers Recruited
+      hint: Staffing needs
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 11
+      name: marketing_materials
+      label: Marketing Materials Prepared
+      hint: Promotional items
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 12
+      name: registration_system
+      label: Registration System Set Up
+      hint: Attendee tracking
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 13
+      name: audio_visual
+      label: Audio Visual Equipment Arranged
+      hint: Sound and projection
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 14
+      name: security_arranged
+      label: Security Arranged
+      hint: Safety measures
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 15
+      name: insurance_confirmed
+      label: Insurance Coverage Confirmed
+      hint: Liability coverage
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 16
+      name: sponsorship_secured
+      label: Sponsorships Secured
+      hint: Funding partners
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 17
+      name: day_of_schedule
+      label: Day-of Schedule Created
+      hint: Event timeline
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 18
+      name: cleanup_plan
+      label: Cleanup Plan Established
+      hint: Post-event cleanup
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Completed
+      required: true
+    - id: 19
+      name: additional_tasks
+      label: Additional Tasks or Notes
+      hint: Other items to track
+      type: text
+      options: []
+      required: false

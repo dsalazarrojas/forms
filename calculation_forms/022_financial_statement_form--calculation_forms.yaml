@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Statement Form
+    pages:
+    - id: 1
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: report_period
+      label: Report Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: report_category
+      label: Report Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: report_amount
+      label: Report Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: report_currency
+      label: Report Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: report_currency2
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_notes
+      label: Report Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

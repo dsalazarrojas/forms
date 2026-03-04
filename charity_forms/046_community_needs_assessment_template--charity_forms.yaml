@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Needs Assessment Template
+    pages:
+    - id: 1
+      name: personal_data
+      label: -- Personal Data Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Full name for record
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: household_size
+      label: Household size
+      hint: Number of people in household
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: employment_status
+      label: Employment status
+      hint: Current employment situation
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Student
+      - Retired
+      required: false
+    - id: 5
+      name: income_level
+      label: Approximate monthly income
+      hint: For assessing financial needs
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: housing_status
+      label: Housing status
+      hint: Owned, rented, temporary, or homeless
+      type: select_one
+      options:
+      - Owned
+      - Rented
+      - Temporary
+      - Homeless
+      required: true
+    - id: 7
+      name: household_needs
+      label: Household needs
+      hint: Food, utilities, healthcare, other needs
+      type: select_multiple
+      options:
+      - Food assistance
+      - Utility support
+      - Healthcare access
+      - Childcare
+      - Job training
+      required: true
+    - id: 8
+      name: children_in_household
+      label: Number of children in household
+      hint: For program targeting
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: disabilities_or_health_needs
+      label: Disabilities or health needs
+      hint: Any special health requirements
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

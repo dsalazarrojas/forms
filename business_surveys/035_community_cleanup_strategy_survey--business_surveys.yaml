@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Cleanup Strategy Survey
+    pages:
+    - id: 1
+      name: section_cleanup_survey_intro
+      label: -- Community Cleanup Strategy Survey --
+      hint: Your input is vital to planning our next community cleanup!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_full_name_sur
+      label: Full Name of Resident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resident_email_sur
+      label: Email Address
+      hint: For survey results and cleanup coordination
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: resident_phone_sur
+      label: Primary Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resident_address_sur
+      label: Residential Address
+      hint: Street, City, State, Zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_cleanup_priorities_sur
+      label: -- Cleanup Priorities and Areas --
+      hint: Select the areas and issues that matter most to you.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: priority_cleanup_area_sur
+      label: Which area in our community needs the most cleanup attention
+      hint: Select your top priority
+      type: select_one
+      options:
+      - Parks and Recreation Areas
+      - Neighborhood Streets/Sidewalks
+      - Waterways/Riverfronts
+      - Commercial/Downtown Areas
+      - Industrial/Manufacturing Zones
+      - Schools and Playgrounds
+      required: true
+    - id: 8
+      name: top_litter_issues_sur
+      label: What are the biggest litter or cleanup issues you see
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Plastic Waste (Bottles/Bags)
+      - Paper/Cardboard Litter
+      - Illegal Dumping (Furniture/Tires)
+      - Graffitti/Vandalism
+      - Overgrown Vegetation/Weeds
+      - Pet Waste/Debris
+      required: true
+    - id: 9
+      name: section_volunteer_availability_sur
+      label: -- Volunteer Availability and Preferences --
+      hint: Tell us when and how you'd like to help.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: clean_up_event_frequency_sur
+      label: How often would you like to see community cleanup events
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Twice a Year
+      - Annually
+      - As-needed basis
+      required: true
+    - id: 11
+      name: preferred_cleanup_event_days_sur
+      label: Which days of the week are you most likely to participate
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Weekday Mornings
+      - Weekday Afternoons
+      - Weekday Evenings
+      - Saturday Mornings
+      - Saturday Afternoons
+      - Sunday Mornings
+      - Sunday Afternoons
+      required: true
+    - id: 12
+      name: preferred_volunteer_role_sur
+      label: Which volunteer role would you be most interested in
+      hint: null
+      type: select_one
+      options:
+      - Litter Collection
+      - Tree/Shrub Planting
+      - Trail Maintenance
+      - Recycling Coordination
+      - Support/Registration Desk
+      - Refreshment Station
+      required: true
+    - id: 13
+      name: section_cleanup_strategies_sur
+      label: -- Effective Cleanup Strategies --
+      hint: What strategies would be most effective for our community?
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: effective_cleanup_strategies_sur
+      label: Which of these strategies do you think would be most effective
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Community Cleanup Events
+      - Educational Workshops/Flyers
+      - Increased Trash/Recycling Bins
+      - Incentives/Rewards for Cleanup
+      - Stricter Enforcement/Littering Fines
+      - Collaboration with Local Businesses
+      required: true
+    - id: 15
+      name: additional_cleanup_ideas_sur
+      label: Share any other ideas or suggestions for our cleanup strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_final_acknowledgment_sur
+      label: -- Final Acknowledgment and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: resident_signature_digital_sur
+      label: Digital Signature (Type Full Name)
+      hint: I certify that the information provided is correct.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submission_date_final_sur
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: newsletter_opt_in_sur
+      label: I would like to receive the community center's newsletter
+      hint: Stay updated on our programs and events
+      type: select_one
+      options:
+      - Yes, sign me up!
+      - No, thank you
+      required: true
+    - id: 20
+      name: referral_source_sur
+      label: How did you hear about this cleanup strategy survey
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Website
+      - Friend/Colleague
+      - Poster/Flyer
+      required: false

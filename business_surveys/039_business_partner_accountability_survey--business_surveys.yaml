@@ -1,0 +1,253 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Accountability Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Your email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: company_name
+        label: Your Company
+        hint: Name of your organization
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: partner_company
+        label: Partner Company Being Evaluated
+        hint: Name of partner company
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: relationship_duration
+        label: Relationship Duration
+        hint: How long have you worked together
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 2 years
+          - 2 to 5 years
+          - Over 5 years
+        required: true
+      - id: 6
+        name: partnership_type
+        label: Partnership Type
+        hint: Type of partnership
+        type: select_one
+        options:
+          - Vendor relationship
+          - Strategic alliance
+          - Joint venture
+          - Distribution partnership
+          - Technology partnership
+          - Other
+        required: true
+      - id: 7
+        name: reliability_rating
+        label: Reliability Rating
+        hint: How reliable is this partner
+        type: select_one
+        options:
+          - Always reliable
+          - Usually reliable
+          - Sometimes reliable
+          - Rarely reliable
+          - Never reliable
+        required: true
+      - id: 8
+        name: communication_rating
+        label: Communication Rating
+        hint: Rate their communication
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: deliverable_quality
+        label: Deliverable Quality
+        hint: Rate the quality of their deliverables
+        type: select_one
+        options:
+          - Always exceeds expectations
+          - Usually meets expectations
+          - Sometimes meets expectations
+          - Rarely meets expectations
+          - Never meets expectations
+        required: true
+      - id: 10
+        name: deadline_adherence
+        label: Deadline Adherence
+        hint: How well do they meet deadlines
+        type: select_one
+        options:
+          - Always on time
+          - Usually on time
+          - Sometimes on time
+          - Rarely on time
+          - Never on time
+        required: true
+      - id: 11
+        name: problem_solving_ability
+        label: Problem Solving Ability
+        hint: How well do they solve problems
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: transparency_rating
+        label: Transparency Rating
+        hint: How transparent is this partner
+        type: select_one
+        options:
+          - Very transparent
+          - Transparent
+          - Somewhat transparent
+          - Not transparent
+          - Very opaque
+        required: true
+      - id: 13
+        name: value_delivery
+        label: Value Delivery
+        hint: Do they deliver good value
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Very poor value
+        required: true
+      - id: 14
+        name: contract_compliance
+        label: Contract Compliance
+        hint: How well do they follow contract terms
+        type: select_one
+        options:
+          - Always compliant
+          - Usually compliant
+          - Sometimes compliant
+          - Rarely compliant
+          - Never compliant
+        required: true
+      - id: 15
+        name: responsiveness
+        label: Responsiveness
+        hint: How responsive are they to requests
+        type: select_one
+        options:
+          - Very responsive
+          - Responsive
+          - Somewhat responsive
+          - Not responsive
+          - Very unresponsive
+        required: true
+      - id: 16
+        name: flexibility_rating
+        label: Flexibility Rating
+        hint: How flexible are they with changes
+        type: select_one
+        options:
+          - Very flexible
+          - Flexible
+          - Somewhat flexible
+          - Inflexible
+          - Very inflexible
+        required: true
+      - id: 17
+        name: issues_encountered
+        label: Issues Encountered
+        hint: Select all issues experienced
+        type: select_multiple
+        options:
+          - Missed deadlines
+          - Quality problems
+          - Communication failures
+          - Billing disputes
+          - Contract violations
+          - Staff turnover
+          - No significant issues
+        required: true
+      - id: 18
+        name: issue_resolution
+        label: Issue Resolution
+        hint: How well do they resolve issues
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 19
+        name: would_continue_partnership
+        label: Would Continue Partnership
+        hint: Would you continue working with them
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 20
+        name: would_recommend_partner
+        label: Would Recommend Partner
+        hint: Would you recommend them to others
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 21
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: Where should they improve
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

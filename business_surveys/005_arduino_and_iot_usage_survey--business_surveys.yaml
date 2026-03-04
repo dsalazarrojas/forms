@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arduino And IoT Usage Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title or Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: industry
+      label: Industry Sector
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Healthcare
+      - Agriculture
+      - Smart Home
+      - Robotics
+      - Education
+      - Automotive
+      - Other
+      required: true
+    - id: 7
+      name: section_arduino_usage
+      label: -- Arduino Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: use_arduino_currently
+      label: Do you currently use Arduino or Arduino-compatible boards
+      hint: null
+      type: select_one
+      options:
+      - Yes, actively
+      - Yes, but not regularly
+      - No, but have used in the past
+      - No, never used
+      required: true
+    - id: 9
+      name: experience_level
+      label: Experience Level with Arduino
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 10
+      name: arduino_boards_used
+      label: Which Arduino boards have you used
+      hint: null
+      type: select_multiple
+      options:
+      - Arduino Uno
+      - Arduino Nano
+      - Arduino Mega
+      - Arduino MKR series
+      - Arduino Due
+      - Arduino Leonardo
+      - Third-party clones
+      required: false
+    - id: 11
+      name: section_iot_usage
+      label: -- IoT Applications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: iot_applications
+      label: Primary IoT applications you work with
+      hint: null
+      type: select_multiple
+      options:
+      - Sensor data collection
+      - Remote monitoring
+      - Home automation
+      - Industrial control
+      - Environmental monitoring
+      - Health monitoring
+      - Fleet management
+      - Other
+      required: true
+    - id: 13
+      name: connectivity_technologies
+      label: Connectivity technologies you use
+      hint: null
+      type: select_multiple
+      options:
+      - Wi-Fi
+      - Bluetooth
+      - Cellular - LTE/4G
+      - LoRaWAN
+      - Zigbee
+      - NB-IoT
+      - Wired Ethernet
+      required: false
+    - id: 14
+      name: section_challenges
+      label: -- Challenges & Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: main_challenges
+      label: Main challenges with Arduino and IoT projects
+      hint: null
+      type: select_multiple
+      options:
+      - Power management
+      - Connectivity issues
+      - Data security
+      - Cost constraints
+      - Limited processing power
+      - Scalability
+      - Software complexity
+      required: false
+    - id: 16
+      name: budget_range
+      label: Average project budget
+      hint: null
+      type: select_one
+      options:
+      - Under 500
+      - 500-2000
+      - 2000-10000
+      - 10000-50000
+      - Over 50000
+      required: false
+    - id: 17
+      name: section_future_plans
+      label: -- Future Plans --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: expansion_plans
+      label: Do you plan to expand Arduino/IoT usage
+      hint: null
+      type: select_one
+      options:
+      - Yes, significantly
+      - Yes, moderately
+      - No plans currently
+      - Evaluating options
+      required: true
+    - id: 19
+      name: desired_improvements
+      label: What improvements would help your projects
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments or Feedback
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

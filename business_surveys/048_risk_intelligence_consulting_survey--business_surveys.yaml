@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: risk_intelligence_consulting_survey
+    pages:
+    - id: 1
+      name: risk_concerns
+      label: Risk Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 2
+      name: risk_maturity
+      label: Risk Maturity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 3
+      name: business_objectives
+      label: Business Objectives
+      hint: Enter your business objectives
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_description
+      label: Risk Description
+      hint: Enter risk description here
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: maturity_level
+      label: Maturity Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 7
+      name: engagement_process
+      label: Engagement Process
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: Enter next steps here
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false

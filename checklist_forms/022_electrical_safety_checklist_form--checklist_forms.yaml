@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: electrical_safety_checklist_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: electrical_systems
+      label: Electrical systems
+      hint: null
+      type: select_multiple
+      options:
+      - Electrical panel
+      - Electrical wiring
+      - Lighting
+      required: true
+    - id: 3
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: electrical_systems_risk_assessment
+      label: Electrical systems Risk Assessment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: electrical_systems_inspection_frequency
+      label: Electrical systems inspection frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: true
+    - id: 6
+      name: electrical_systems_inspection_frequency_how_many_days
+      label: Electrical systems inspection frequency how many days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: electrical_systems_inspection_frequency_how_many_months
+      label: Electrical systems inspection frequency how many months
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: electrical_systems_inspection_frequency_how_many_years
+      label: Electrical systems inspection frequency how many years
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: electrical_systems_inspection_frequency_how_many_times
+      label: Electrical systems inspection frequency how many times
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: electrical_systems_inspection_frequency_last_time
+      label: Electrical systems inspection frequency last time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: electrical_systems_inspection_frequency_last_time_time
+      label: Electrical systems inspection frequency last time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: electrical_systems_inspection_frequency_last_time_date
+      label: Electrical systems inspection frequency last time date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: electrical_systems_inspection_frequency_last_time_date_time
+      label: Electrical systems inspection frequency last time date time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: electrical_systems_inspection_frequency_last_time_date_time_comment
+      label: Electrical systems inspection frequency last time date time comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: electrical_systems_inspection_frequency_last_time_date_time_additional_info
+      label: Electrical systems inspection frequency last time date time additional
+        info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: electrical_systems_inspection_frequency_last_time_date_time_last_inspection_status
+      label: Electrical systems inspection frequency last time date time last inspection
+        status
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      - Pending
+      required: true

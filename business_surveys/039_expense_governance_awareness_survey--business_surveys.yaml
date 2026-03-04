@@ -1,0 +1,125 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Expense Governance Awareness Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Expense Governance Awareness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Air Travel
+      - Hotel
+      - Dining
+      - Other
+      required: true
+    - id: 3
+      name: question1
+      label: What is your primary function?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question2
+      label: Have you received training on our expense policies?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 5
+      name: question3
+      label: Have you read our expense policy handbook?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: true
+    - id: 6
+      name: question4
+      label: How often do you expense personal purchases?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Occasionally
+      - Regularly
+      - Always
+      required: true
+    - id: 7
+      name: question5
+      label: Do you have any suggestions for improving our expense governance?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question6
+      label: Have you had any issues with our expense system?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: question7
+      label: Do you have any feedback about our expense policy?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question8
+      label: Do you know where to report a concern?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: question9
+      label: Do you know who to contact for questions or concerns?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: question10
+      label: Is there anything else you'd like to tell us?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

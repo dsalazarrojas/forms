@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Cooperative Member Satisfaction Report
+    pages:
+    - id: 1
+      name: member_name
+      label: Member name
+      hint: Optional name for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: member_id
+      label: Member ID
+      hint: Cooperative membership number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: membership_duration_years
+      label: Membership duration in years
+      hint: Approximate years as cooperative member
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: Overall satisfaction level
+      hint: Choose your overall satisfaction with cooperative services
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 5
+      name: service_quality
+      label: Quality of services received
+      hint: Rate services such as technical support and inputs
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: communication_effectiveness
+      label: Communication effectiveness
+      hint: How well the cooperative communicates updates
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Not effective
+      required: true
+    - id: 7
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: Open feedback to help cooperative planning
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: likelihood_to_recommend
+      label: Likelihood to recommend cooperative
+      hint: Would you recommend membership to others
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Uncertain
+      - Unlikely
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: Any extra feedback or testimonials
+      type: text
+      options: []
+      required: false

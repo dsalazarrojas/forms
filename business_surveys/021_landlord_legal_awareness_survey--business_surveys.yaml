@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Landlord Legal Awareness Survey
+    pages:
+    - id: 1
+      name: property_manager_organization
+      label: Property Manager Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: legal_responsibilities
+      label: Legal Responsibilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{"Landlord''s legal responsibilities include": [''Screening tenants before
+        signing a lease'', ''Collecting rent on time'', ''Responding to emergency
+        repairs'', ''Handling security deposit'', ''Maintaining required records'',
+        ''Providing safe and habitable living space'', ''Other (please specify)'']}'
+      - Other
+      required: false
+    - id: 3
+      name: training_needs
+      label: Training Needs
+      hint: What training or education do you believe landlords need?
+      type: select_one
+      options:
+      - Screening tenants before signing a lease
+      - Collecting rent on time
+      - Responding to emergency repairs
+      - Maintaining required records
+      - Providing safe and habitable living space
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: other_training_needs
+      label: Other Training Needs
+      hint: Please describe other training needs.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: has_partnership
+      label: Has Partnership
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: partnership_organization
+      label: Partnership Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: has_association
+      label: Has Association
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: association_organization
+      label: Association Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: has_certificate
+      label: Has Certificate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: has_license
+      label: Has License
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: has_certification
+      label: Has Certification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

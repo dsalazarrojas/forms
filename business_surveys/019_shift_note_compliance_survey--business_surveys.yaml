@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Note Compliance Survey
+    pages:
+    - id: 1
+      name: shift_note_compliance_survey_page_1
+      label: Team Shift Compliance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_leads
+      label: Team Lead
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_lead_response_1
+      label: Team Lead Response 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 4
+      name: team_leads_response_1
+      label: Team Lead Response 1 Label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: shift_leads
+      label: Shift Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: shift_lead_response_1
+      label: Shift Lead Response 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not sure
+      required: false
+    - id: 7
+      name: shift_leads_response_1
+      label: Shift Lead Response 1 Label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

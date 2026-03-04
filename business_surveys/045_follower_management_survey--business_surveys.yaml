@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Follower Management Survey
+    pages:
+    - id: 1
+      name: intro
+      label: What do you want to talk about
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: which_categories
+      label: Which of the following categories are you interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: true
+    - id: 3
+      name: follower_type
+      label: What type of follower are you?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Influencer
+      - Content Creator
+      required: true
+    - id: 4
+      name: age_group
+      label: What is your age group?
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: true
+    - id: 5
+      name: engagement_level
+      label: How often do you engage with us?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Rarely
+      required: true
+    - id: 6
+      name: contact_method
+      label: How do you like to contact us?
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Do you have any additional comments or concerns?
+      hint: null
+      type: note
+      options: []
+      required: false

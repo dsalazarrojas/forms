@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Membership Application Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal name of your business
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_registration_number
+      label: Business Registration Number
+      hint: License or registration number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_structure
+      label: Business Structure
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - S-Corporation
+      - Non-profit
+      - Other
+      required: true
+    - id: 4
+      name: business_established_date
+      label: Date Business Established
+      hint: When did your business start?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Main person authorized to act on behalf of business
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_contact_title
+      label: Contact Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: primary_contact_email
+      label: Email Address
+      hint: Primary business email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_phone
+      label: Phone Number
+      hint: Main contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: business_address
+      label: Business Address
+      hint: Physical location of operations
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: mailing_address_same
+      label: Is mailing address the same?
+      hint: Check if mailing address differs
+      type: select_one
+      options:
+      - Yes, same as business address
+      - No, provide different address
+      required: true
+    - id: 11
+      name: mailing_address
+      label: Mailing Address
+      hint: If different from business address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: industry_category
+      label: Industry Category
+      hint: What industry does your business serve?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Professional Services
+      - Hospitality
+      - Non-profit
+      - Other
+      required: true
+    - id: 13
+      name: number_of_employees
+      label: Number of Employees
+      hint: Current employee count
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate yearly revenue
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1,000,000
+      - $1,000,000 - $5,000,000
+      - Over $5,000,000
+      required: false
+    - id: 15
+      name: membership_tier
+      label: Membership Tier
+      hint: Select desired membership level
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - Platinum
+      required: true
+    - id: 16
+      name: membership_benefits
+      label: Interested Benefits
+      hint: Select desired member benefits
+      type: select_multiple
+      options:
+      - Networking Events
+      - Training and Workshops
+      - Business Directory Listing
+      - Discounted Services
+      - Marketing Support
+      - Legal Resources
+      required: false
+    - id: 17
+      name: referral_source
+      label: How did you hear about us?
+      hint: What is your referral source?
+      type: select_one
+      options:
+      - Existing Member
+      - Web Search
+      - Social Media
+      - Industry Event
+      - Advertisement
+      - Other
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Information
+      hint: Any other details we should know?
+      type: text
+      options: []
+      required: false

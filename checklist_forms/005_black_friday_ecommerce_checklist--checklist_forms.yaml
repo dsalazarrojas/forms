@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Black Friday Ecommerce Checklist
+    pages:
+    - id: 1
+      name: section_store_overview
+      label: -- Store overview --
+      hint: Basic store setup verification
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: store_name
+      label: Store name
+      hint: Platform store identifier or domain
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: platform
+      label: Ecommerce platform
+      hint: Where store is hosted
+      type: select_one
+      options:
+      - Shopify
+      - WooCommerce
+      - Magento
+      - Custom
+      required: true
+    - id: 4
+      name: inventory_synced
+      label: Inventory synced with sales channels
+      hint: Is inventory synchronization complete
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 5
+      name: payment_gateway_tested
+      label: Payment gateway tested
+      hint: Test transactions completed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: site_speed_check
+      label: Site speed check completed
+      hint: Ensure pages load quickly under load
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: shipping_cutoff_date
+      label: Shipping cutoff date
+      hint: Last date orders ship before delay
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: customer_support_staffing
+      label: Customer support staffing levels
+      hint: Number of support staff scheduled
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: promotional_assets_ready
+      label: Promotional assets ready
+      hint: Banners social media and email templates
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: contingency_notes
+      label: Contingency notes
+      hint: Brief backup plan description
+      type: text
+      options: []
+      required: false

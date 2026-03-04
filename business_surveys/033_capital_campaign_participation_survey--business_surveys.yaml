@@ -1,0 +1,313 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capital Campaign Participation Survey
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capital Campaign Participation Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: We are launching a capital campaign and would like to understand your
+        interest in supporting this initiative.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: respondent_info_header
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization_affiliation
+      label: Organization Affiliation
+      hint: Your role or affiliation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: campaign_info_header
+      label: -- Campaign Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: campaign_awareness
+      label: Are you aware of our capital campaign?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, well aware
+      - Yes, somewhat aware
+      - Not aware
+      - Unsure
+      required: true
+    - id: 11
+      name: campaign_goals_knowledge
+      label: Do you understand the campaign goals?
+      hint: Select one
+      type: select_one
+      options:
+      - Very clear understanding
+      - General understanding
+      - Limited understanding
+      - No understanding
+      required: true
+    - id: 12
+      name: campaign_interest_header
+      label: -- Campaign Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: participation_interest
+      label: Are you interested in supporting this campaign?
+      hint: Select one
+      type: select_one
+      options:
+      - Definitely interested
+      - Probably interested
+      - Unsure
+      - Probably not interested
+      - Not interested
+      required: true
+    - id: 14
+      name: support_reason
+      label: If interested, why would you support this campaign?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Believe in the mission
+      - Personal connection
+      - Tax deduction
+      - Community benefit
+      - Organizational reputation
+      - Network/relationship building
+      - Other
+      required: false
+    - id: 15
+      name: concerns
+      label: Any concerns about supporting this campaign?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Unsure of fund usage
+      - Financial constraints
+      - Lack of information
+      - Project timing
+      - Other priorities
+      - No concerns
+      required: false
+    - id: 16
+      name: support_methods_header
+      label: -- Preferred Support Methods --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: support_method
+      label: Preferred Way to Support the Campaign
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial donation
+      - In-kind contribution
+      - Volunteering
+      - Corporate sponsorship
+      - Planned giving
+      - Matching gift
+      - Grant application
+      - Other
+      required: false
+    - id: 18
+      name: pledge_range_header
+      label: -- Contribution Consideration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: pledge_range
+      label: Potential Pledge Range
+      hint: Select one
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-5000
+      - 5000-10000
+      - 10000-25000
+      - 25000-50000
+      - 50000 plus
+      - Unsure
+      - Would not pledge
+      required: true
+    - id: 20
+      name: pledge_timing
+      label: Timing for Potential Pledge
+      hint: Select one
+      type: select_one
+      options:
+      - Immediately
+      - Within 3 months
+      - Within 6 months
+      - Within 12 months
+      - Beyond 12 months
+      - Unsure
+      - Not planning to pledge
+      required: false
+    - id: 21
+      name: contribution_frequency
+      label: Contribution Frequency Preference
+      hint: Select one
+      type: select_one
+      options:
+      - One-time gift
+      - Monthly recurring
+      - Quarterly
+      - Semi-annual
+      - Annual pledge
+      - Flexible
+      required: false
+    - id: 22
+      name: in_kind_header
+      label: -- In-Kind Contribution Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: in_kind_interest
+      label: Are you interested in providing in-kind support?
+      hint: Select one
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not interested
+      - Unsure
+      required: false
+    - id: 24
+      name: in_kind_type
+      label: Type of In-Kind Support Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Professional services
+      - Products or goods
+      - Equipment
+      - Real estate or space
+      - Technology/software
+      - Consulting expertise
+      - Other
+      - Not applicable
+      required: false
+    - id: 25
+      name: volunteer_interest_header
+      label: -- Volunteer Participation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: volunteer_interest
+      label: Are you interested in volunteering?
+      hint: Select one
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not interested
+      - Unsure
+      required: false
+    - id: 27
+      name: volunteer_capacity
+      label: Available Time for Volunteering
+      hint: Select one
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Occasional
+      - Special events only
+      - Not available
+      required: false
+    - id: 28
+      name: engagement_header
+      label: -- Campaign Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: information_need
+      label: What additional information do you need?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: feedback
+      label: Other Comments or Suggestions
+      hint: Optional feedback
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: follow_up_preference
+      label: How would you prefer we contact you?
+      hint: Select one
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - No contact needed
+      required: false
+    - id: 32
+      name: next_steps
+      label: I would like to discuss this campaign in more detail
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, contact me soon
+      - Yes, but later
+      - No, not interested
+      required: true

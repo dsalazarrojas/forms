@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Product Sustainability Awareness Survey
+    pages:
+    - id: 1
+      name: pet_product_sustainability_awareness_survey_page_1
+      label: Pet Product Sustainability Awareness Survey Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_product_habits
+      label: Pet Product Habits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: eco_friendly_products_habits
+      label: Eco Friendly Products Habits
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
+      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
+      - '{''value'': ''Always'', ''label'': ''Always''}'
+      required: false
+    - id: 4
+      name: sustainability_awareness
+      label: Sustainability Awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: eco_friendly_products_awareness
+      label: Eco Friendly Products Awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: survey_participated
+      label: Survey Participated
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Never'', ''label'': ''Never''}'
+      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
+      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
+      - '{''value'': ''Always'', ''label'': ''Always''}'
+      required: false
+    - id: 7
+      name: sustainability_awareness_level
+      label: Sustainability Awareness Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Low'', ''label'': ''Low''}'
+      - '{''value'': ''Medium'', ''label'': ''Medium''}'
+      - '{''value'': ''High'', ''label'': ''High''}'
+      required: false
+    - id: 8
+      name: survey_time_spent
+      label: Survey Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: eco_friendly_products_used
+      label: Eco Friendly Products Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Never'', ''label'': ''Never''}'
+      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
+      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
+      - '{''value'': ''Always'', ''label'': ''Always''}'
+      required: false
+    - id: 10
+      name: sustainability_awareness_source
+      label: Sustainability Awareness Source
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Social Media'', ''label'': ''Social Media''}'
+      - '{''value'': ''Friends'', ''label'': ''Friends''}'
+      - '{''value'': ''Family'', ''label'': ''Family''}'
+      - '{''value'': ''Online'', ''label'': ''Online''}'
+      - '{''value'': ''Offline'', ''label'': ''Offline''}'
+      required: false
+    - id: 11
+      name: other_sustainability_source
+      label: Other Sustainability Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_labeling
+      label: Product Labeling
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''No Labels'', ''label'': ''No Labels''}'
+      - '{''value'': ''Partially Labeled'', ''label'': ''Partially Labeled''}'
+      - '{''value'': ''Fully Labeled'', ''label'': ''Fully Labeled''}'
+      required: false
+    - id: 13
+      name: sustainability_labeling
+      label: Sustainability Labeling
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''No Labels'', ''label'': ''No Labels''}'
+      - '{''value'': ''Partially Labeled'', ''label'': ''Partially Labeled''}'
+      - '{''value'': ''Fully Labeled'', ''label'': ''Fully Labeled''}'
+      required: false
+    - id: 14
+      name: packaging_type
+      label: Packaging Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Single-use'', ''label'': ''Single-use''}'
+      - '{''value'': ''Reusable'', ''label'': ''Reusable''}'
+      - '{''value'': ''Compostable'', ''label'': ''Compostable''}'
+      required: false
+    - id: 15
+      name: product_origin
+      label: Product Origin
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''China'', ''label'': ''China''}'
+      - '{''value'': ''Japan'', ''label'': ''Japan''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: other_product_origin
+      label: Other Product Origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: packaging_weight
+      label: Packaging Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: eco_friendly_materials
+      label: Eco Friendly Materials
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''No Materials'', ''label'': ''No Materials''}'
+      - '{''value'': ''Partially Eco Friendly'', ''label'': ''Partially Eco Friendly''}'
+      - '{''value'': ''Fully Eco Friendly'', ''label'': ''Fully Eco Friendly''}'
+      required: false
+    - id: 19
+      name: product_compatibility
+      label: Product Compatibilty
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''No Compatibility'', ''label'': ''No Compatibility''}'
+      - '{''value'': ''Partially Compatible'', ''label'': ''Partially Compatible''}'
+      - '{''value'': ''Fully Compatible'', ''label'': ''Fully Compatible''}'
+      required: false
+    - id: 20
+      name: product_compatibility_reason
+      label: Product Compatibilty Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_compatibility_reason2
+      label: Product Compatibilty Reason 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: sustainability_awareness_score
+      label: Sustainability Awareness Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: sustainability_awareness_score2
+      label: Sustainability Awareness Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: product_compatibility2
+      label: Product Compatibilty 2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''No Compatibility 2'', ''label'': ''No Compatibility 2''}'
+      - '{''value'': ''Partially Compatibility 2'', ''label'': ''Partially Compatibility
+        2''}'
+      - '{''value'': ''Fully Compatibility 2'', ''label'': ''Fully Compatibility 2''}'
+      required: false
+    - id: 25
+      name: product_compatibility_awareness
+      label: Product Compatibilty Awareness
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''No Compatibility Awareness 2'', ''label'': ''No Compatibility
+        Awareness 2''}'
+      - '{''value'': ''Partially Compatibility Awareness 2'', ''label'': ''Partially
+        Compatibility Awareness 2''}'
+      - '{''value'': ''Fully Compatibility Awareness 2'', ''label'': ''Fully Compatibility
+        Awareness 2''}'
+      required: false

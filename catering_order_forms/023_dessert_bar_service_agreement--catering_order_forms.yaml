@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: dessert_bar_service_agreement
+    pages:
+    - id: 1
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_email
+      label: client email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: client_phone
+      label: client phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_notes
+      label: client notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: dessert_types
+      label: dessert types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: num_guests
+      label: num guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: num_servers
+      label: num servers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: approvals
+      label: Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: true

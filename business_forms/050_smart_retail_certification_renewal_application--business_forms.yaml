@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Smart Retail Certification Renewal Application
+    pages:
+    - id: 1
+      name: certification_request
+      label: Request a Certification
+      hint: null
+      type: select_one
+      options:
+      - Request Renewal
+      - Renewal for Change of Business Name
+      - Renewal for Change of Business Ownership
+      required: true
+    - id: 2
+      name: document_upload
+      label: Upload Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: document_confirm
+      label: Confirm Upload
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: business_details
+      label: Business Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: certification_details
+      label: Certification Details
+      hint: null
+      type: select_multiple
+      options:
+      - Type
+      - Status
+      - Issue Date
+      required: true
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_renewal
+      label: Confirm Renewal
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - Submit Request
+      - Save for Later
+      required: true

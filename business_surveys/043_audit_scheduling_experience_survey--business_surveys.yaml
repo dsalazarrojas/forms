@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Scheduling Experience Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - leave blank for anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Finance
+          - Accounting
+          - Operations
+          - IT
+          - Human Resources
+          - Compliance
+          - Risk Management
+          - Other
+        required: true
+      - id: 4
+        name: role_level
+        label: Role Level
+        hint: Your level in the organization
+        type: select_one
+        options:
+          - Staff
+          - Senior
+          - Manager
+          - Director
+          - Executive
+        required: true
+      - id: 5
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: recent_audit_name
+        label: Recent Audit Name
+        hint: Name of recent audit experienced
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: audit_scheduling_date
+        label: Audit Scheduling Date
+        hint: When was the audit scheduled?
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: scheduling_ease
+        label: Scheduling Ease
+        hint: How easy was the scheduling process?
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 9
+        name: scheduling_timeline
+        label: Scheduling Timeline
+        hint: How long did scheduling take?
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1-2 weeks
+          - 2-4 weeks
+          - 1-2 months
+          - Over 2 months
+        required: true
+      - id: 10
+        name: communication_quality
+        label: Communication Quality
+        hint: Rate the quality of scheduling communications
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: scheduling_flexibility
+        label: Scheduling Flexibility
+        hint: How flexible was the scheduling process?
+        type: select_one
+        options:
+          - Very flexible
+          - Flexible
+          - Moderate
+          - Inflexible
+          - Very inflexible
+        required: true
+      - id: 12
+        name: advance_notice
+        label: Advance Notice
+        hint: How much advance notice was given?
+        type: select_one
+        options:
+          - More than 4 weeks
+          - 2-4 weeks
+          - 1-2 weeks
+          - Less than 1 week
+          - No notice
+        required: true
+      - id: 13
+        name: preferred_dates_accommodated
+        label: Preferred Dates Accommodated
+        hint: Were your preferred dates accommodated?
+        type: select_one
+        options:
+          - Fully accommodated
+          - Mostly accommodated
+          - Partially accommodated
+          - Not accommodated
+        required: true
+      - id: 14
+        name: scheduling_conflicts
+        label: Scheduling Conflicts
+        hint: Were there any scheduling conflicts?
+        type: select_one
+        options:
+          - No conflicts
+          - Minor conflicts
+          - Moderate conflicts
+          - Major conflicts
+        required: true
+      - id: 15
+        name: rescheduling_required
+        label: Rescheduling Required
+        hint: Was rescheduling necessary?
+        type: select_one
+        options:
+          - No rescheduling
+          - Rescheduled once
+          - Rescheduled twice
+          - Rescheduled multiple times
+        required: true
+      - id: 16
+        name: scheduling_tools
+        label: Scheduling Tools
+        hint: What tools were used for scheduling?
+        type: select_multiple
+        options:
+          - Email
+          - Phone calls
+          - Scheduling software
+          - Calendar invites
+          - In-person meetings
+          - Other
+        required: true
+      - id: 17
+        name: tool_effectiveness
+        label: Tool Effectiveness
+        hint: How effective were the scheduling tools?
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very ineffective
+        required: true
+      - id: 18
+        name: information_clarity
+        label: Information Clarity
+        hint: How clear was the scheduling information?
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Moderate
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 19
+        name: scheduling_improvements
+        label: Scheduling Improvements
+        hint: What could improve the scheduling process?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: overall_scheduling_satisfaction
+        label: Overall Scheduling Satisfaction
+        hint: Rate overall satisfaction with scheduling
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true

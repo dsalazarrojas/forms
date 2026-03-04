@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_service_weekly_interaction_report
+    pages:
+    - id: 1
+      name: customer_service_weekly_interaction_report
+      label: weekly_interaction_report
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_service_represents
+      label: represents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: customer_service_team
+      label: service_team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: customer_service_weekly_interactions
+      label: weekly_interactions
+      hint: Number of customer interactions
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: customer_service_resolution
+      label: resolution_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: customer_service_resolution_outcomes
+      label: resolution_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: customer_service_average_resolution_time
+      label: average_resolution_time
+      hint: Average time to resolve customer issue
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: customer_service_service_quality
+      label: service_quality_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 9
+      name: customer_service_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_service_email
+      label: email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: customer_service_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_service_notes
+      label: notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: customer_service_manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: customer_service_manager_signature
+      label: manager_signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: customer_service_manager_notes
+      label: manager_notes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

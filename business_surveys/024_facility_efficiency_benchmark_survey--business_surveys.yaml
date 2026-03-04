@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Efficiency Benchmark Survey
+    pages:
+    - id: 1
+      name: facility_efficiency_benchmark_survey_1
+      label: What is the primary use of the facility?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_efficiency_benchmark_survey_2
+      label: How many square feet is the facility?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: facility_efficiency_benchmark_survey_3
+      label: How many employees work at the facility?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: facility_efficiency_benchmark_survey_4
+      label: What is your facility's current energy consumption per square foot?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: facility_efficiency_benchmark_survey_5
+      label: What is your facility's current water consumption per square foot?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: facility_efficiency_benchmark_survey_6
+      label: What is your facility's energy efficiency target?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_efficiency_benchmark_survey_7
+      label: How many facilities does your company own or operate?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - 4-10
+      - More than 10
+      required: true
+    - id: 8
+      name: facility_efficiency_benchmark_survey_8
+      label: What is your primary method for tracking energy efficiency?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_efficiency_benchmark_survey_9
+      label: What are the major obstacles to achieving energy efficiency?
+      hint: null
+      type: select_multiple
+      options:
+      - Financial constraints
+      - Technical challenges
+      - Lack of data
+      - Lack of personnel
+      - Other
+      - Not sure yet
+      required: true
+    - id: 10
+      name: facility_efficiency_benchmark_survey_10
+      label: What are your plans for improving energy efficiency?
+      hint: null
+      type: text
+      options: []
+      required: false

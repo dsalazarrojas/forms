@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Year Financial Planning Checklist
+    pages:
+    - id: 1
+      name: new_year_financial_planning_checklist
+      label: new_year_financial_planning_checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: objectives
+      label: objectives
+      hint: null
+      type: select_multiple
+      options:
+      - objective_1
+      - objective_2
+      - objective_3
+      required: false
+    - id: 3
+      name: goals
+      label: goals
+      hint: null
+      type: select_one
+      options:
+      - goal_1
+      - goal_2
+      required: false
+    - id: 4
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: expenses
+      label: expenses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: financial_institutions
+      label: financial_institutions
+      hint: null
+      type: select_multiple
+      options:
+      - institution_1
+      - institution_2
+      required: false
+    - id: 7
+      name: risk_management
+      label: risk_management
+      hint: null
+      type: select_one
+      options:
+      - risk_1
+      - risk_2
+      required: false
+    - id: 8
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: false

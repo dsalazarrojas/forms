@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Transport Safety Standards Survey
+    pages:
+    - id: 1
+      name: experience_years_count
+      label: Years of Experience in Animal Transport
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: species_transported_main
+      label: Primary Species Transported
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Companion Animals - Dogs and Cats
+      - Equine - Horses
+      - Livestock - Cattle, Swine, Sheep
+      - Exotic Animals and Wildlife
+      - Research or Laboratory Animals
+      required: true
+    - id: 3
+      name: regulation_awareness_rating
+      label: Awareness of Current Safety Regulations
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      required: true
+    - id: 4
+      name: safety_check_frequency
+      label: Frequency of Vehicle Safety Checks
+      hint: null
+      type: select_one
+      options:
+      - Before Every Trip
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 5
+      name: transport_safety_challenge
+      label: Biggest Challenge in Transport Safety
+      hint: Describe the most significant barrier you face
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: enforcement_effectiveness_rating
+      label: Effectiveness of Current Regulatory Enforcement
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Neutral
+      - Ineffective
+      - Very Ineffective
+      required: true
+    - id: 7
+      name: safety_standard_suggestions
+      label: Suggestions for New or Revised Safety Standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: temp_monitoring_usage
+      label: Use of Integrated Temperature Monitoring Systems
+      hint: null
+      type: select_one
+      options:
+      - Yes - Always in use
+      - Sometimes - For long hauls only
+      - No - Manual checks only
+      required: true
+    - id: 9
+      name: emergency_preparedness_rating
+      label: Emergency Response Preparedness Rating
+      hint: How ready are you for a breakdown or accident?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true

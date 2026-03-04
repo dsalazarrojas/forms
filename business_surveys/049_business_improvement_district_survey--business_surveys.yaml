@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Improvement District Survey
+    pages:
+    - id: 1
+      name: respondent_section
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: respondent_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: respondent_type
+      label: Respondent Type
+      hint: Are you a business owner, resident, or both?
+      type: select_one
+      options:
+      - Business Owner
+      - Resident
+      - Both
+      - Government Representative
+      - Community Organization
+      required: true
+    - id: 6
+      name: business_section
+      label: -- Business/Location Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: business_name
+      label: Business Name (if applicable)
+      hint: Name of your business
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: type_of_business
+      label: Type of Business
+      hint: What type of business?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: property_address
+      label: Property/Business Address
+      hint: Your address in the district
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: years_in_district
+      label: Years in This District
+      hint: How long have you been here?
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: services_section
+      label: -- District Services and Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cleanliness_satisfaction
+      label: Satisfaction with District Cleanliness
+      hint: How clean is the district?
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 13
+      name: safety_satisfaction
+      label: Feeling of Safety
+      hint: Do you feel safe in the district?
+      type: select_one
+      options:
+      - Very Unsafe
+      - Unsafe
+      - Neutral
+      - Safe
+      - Very Safe
+      required: true
+    - id: 14
+      name: maintenance_satisfaction
+      label: Street Maintenance and Infrastructure
+      hint: Quality of maintenance?
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Adequate
+      - Good
+      - Excellent
+      required: true
+    - id: 15
+      name: parking_satisfaction
+      label: Parking Availability
+      hint: How is parking in the district?
+      type: select_one
+      options:
+      - Very Limited
+      - Limited
+      - Adequate
+      - Good
+      - Excellent
+      required: false
+    - id: 16
+      name: priority_improvements
+      label: Priority Improvements Needed
+      hint: Select top 3 priorities
+      type: select_multiple
+      options:
+      - Street Cleaning
+      - Public Safety
+      - Street Maintenance
+      - Parking
+      - Landscaping and Trees
+      - Lighting
+      - Pedestrian Access
+      - Events and Activities
+      required: true
+    - id: 17
+      name: specific_improvements
+      label: Specific Improvement Suggestions
+      hint: Any specific improvements you would like?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: satisfaction_section
+      label: -- Overall District Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: district_vitality
+      label: District Economic Vitality
+      hint: How healthy is the district economy?
+      type: select_one
+      options:
+      - Declining
+      - Stagnant
+      - Stable
+      - Growing
+      - Thriving
+      required: true
+    - id: 20
+      name: neighborhood_appeal
+      label: Appeal of the Neighborhood
+      hint: Would you recommend this district?
+      type: select_one
+      options:
+      - Very Unappealing
+      - Unappealing
+      - Neutral
+      - Appealing
+      - Very Appealing
+      required: true
+    - id: 21
+      name: community_section
+      label: -- Community and Events --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: community_spirit
+      label: Sense of Community
+      hint: Is there community spirit?
+      type: select_one
+      options:
+      - Very Weak
+      - Weak
+      - Adequate
+      - Strong
+      - Very Strong
+      required: false
+    - id: 23
+      name: event_interest
+      label: Interest in District Events
+      hint: Would you attend community events?
+      type: select_one
+      options:
+      - 'No'
+      - Maybe
+      - 'Yes'
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Any other feedback?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up
+      label: May we follow up with you?
+      hint: Can we contact you about this survey?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

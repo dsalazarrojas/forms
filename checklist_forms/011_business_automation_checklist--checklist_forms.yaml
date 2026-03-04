@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Automation Checklist
+    pages:
+      - id: 1
+        name: company_information
+        label: -- Company Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Company Name
+        hint: Full business name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department
+        label: Department
+        hint: Department completing this checklist
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: assessment_date
+        label: Assessment Date
+        hint: Date this assessment is completed
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: current_automation
+        label: -- Current Automation Status --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: automation_level
+        label: Current Automation Level
+        hint: Overall automation maturity
+        type: select_one
+        options:
+          - Minimal or None
+          - Basic
+          - Moderate
+          - Advanced
+          - Fully Automated
+        required: true
+      - id: 7
+        name: manual_processes
+        label: Significant Manual Processes
+        hint: Identify key manual processes
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: sales_automation
+        label: Sales Process Automation
+        hint: Automate sales workflows
+        type: select_one
+        options:
+          - Not Started
+          - Planned
+          - In Progress
+          - Partially Implemented
+          - Fully Implemented
+        required: true
+      - id: 9
+        name: marketing_automation
+        label: Marketing Automation
+        hint: Email, campaign, and lead automation
+        type: select_one
+        options:
+          - Not Started
+          - Planned
+          - In Progress
+          - Partially Implemented
+          - Fully Implemented
+        required: true
+      - id: 10
+        name: finance_automation
+        label: Finance and Accounting Automation
+        hint: Invoice, payroll, and accounting automation
+        type: select_one
+        options:
+          - Not Started
+          - Planned
+          - In Progress
+          - Partially Implemented
+          - Fully Implemented
+        required: true
+      - id: 11
+        name: hr_automation
+        label: HR and Payroll Automation
+        hint: Employee management and payroll systems
+        type: select_one
+        options:
+          - Not Started
+          - Planned
+          - In Progress
+          - Partially Implemented
+          - Fully Implemented
+        required: true
+      - id: 12
+        name: customer_service
+        label: Customer Service Automation
+        hint: Chatbots, ticket systems, automation
+        type: select_one
+        options:
+          - Not Started
+          - Planned
+          - In Progress
+          - Partially Implemented
+          - Fully Implemented
+        required: true
+      - id: 13
+        name: data_management
+        label: Data Management Automation
+        hint: Data entry, validation, and reporting
+        type: select_one
+        options:
+          - Not Started
+          - Planned
+          - In Progress
+          - Partially Implemented
+          - Fully Implemented
+        required: true
+      - id: 14
+        name: technology_infrastructure
+        label: -- Technology Infrastructure --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: cloud_adoption
+        label: Cloud Infrastructure Adoption
+        hint: Transition to cloud-based systems
+        type: select_one
+        options:
+          - Not Implemented
+          - Partial
+          - Mostly Implemented
+          - Fully Implemented
+        required: true
+      - id: 16
+        name: api_integrations
+        label: API and System Integrations
+        hint: Systems connected and communicating
+        type: select_one
+        options:
+          - Not Implemented
+          - Basic
+          - Moderate
+          - Extensive
+          - Fully Integrated
+        required: true
+      - id: 17
+        name: rpa_implementation
+        label: Robotic Process Automation (RPA)
+        hint: Bot-based process automation
+        type: select_one
+        options:
+          - Not Started
+          - Planned
+          - In Progress
+          - Partially Implemented
+          - Fully Implemented
+        required: true
+      - id: 18
+        name: ai_ml_usage
+        label: AI and Machine Learning Usage
+        hint: Predictive analytics or ML models
+        type: select_one
+        options:
+          - Not Started
+          - Planned
+          - Pilot Phase
+          - Production Use
+          - Extensive Use
+        required: true
+      - id: 19
+        name: challenges
+        label: -- Implementation Challenges --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: main_obstacles
+        label: Main Obstacles to Automation
+        hint: What prevents automation efforts
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: budget_constraints
+        label: Budget Constraints
+        hint: Budget limitations for automation
+        type: select_one
+        options:
+          - Not a Constraint
+          - Minor Constraint
+          - Moderate Constraint
+          - Significant Constraint
+          - Major Blocker
+        required: true
+      - id: 22
+        name: staff_skills
+        label: Staff Skills and Training
+        hint: Do staff have necessary skills
+        type: select_one
+        options:
+          - Well Trained
+          - Adequately Trained
+          - Needs Some Training
+          - Needs Significant Training
+          - Major Skills Gap
+        required: true
+      - id: 23
+        name: automation_priority
+        label: Top Automation Priority
+        hint: Which process should be automated first
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: expected_benefits
+        label: Expected Benefits
+        hint: How will automation benefit the company
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: port_innovation_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Port Innovation Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      - Category 4
+      - Category 5
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - another_option
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Comment 1
+      - Comment 2
+      - Comment 3
+      - Comment 4
+      - Comment 5
+      required: false

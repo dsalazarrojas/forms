@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Global Economic Empowerment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Global Economic Empowerment Survey Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_a
+      label: Employment
+      hint: null
+      type: select_multiple
+      options:
+      - Employed
+      - Unemployed
+      - Self-Employed
+      required: false
+    - id: 3
+      name: section_b
+      label: income
+      hint: null
+      type: select_one
+      options:
+      - Less than $1000
+      - Between $1000-$5000
+      - Between $5000-$10000
+      - Above $10000
+      required: false
+    - id: 4
+      name: section_c
+      label: financial_access
+      hint: null
+      type: select_multiple
+      options:
+      - Limited Access
+      - Some Access
+      - Full Access
+      required: false
+    - id: 5
+      name: section_d
+      label: perceived_empowerment
+      hint: null
+      type: select_one
+      options:
+      - Low Empowerment
+      - Medium Empowerment
+      - High Empowerment
+      required: false
+    - id: 6
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - North America
+      - South America
+      - Europe
+      - Asia
+      - Africa
+      - Oceania
+      required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Xstream Paycation Travel Booking Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: select_one
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Houston
+      - Phoenix
+      - Philadelphia
+      - San Antonio
+      - San Diego
+      - San Jose
+      - Austin
+      required: false
+    - id: 8
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_multiple
+      options:
+      - air
+      - car
+      - bus
+      - train
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: travel_frequency
+      label: Travel Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

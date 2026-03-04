@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Dormitory Access Check In Form
+    pages:
+    - id: 1
+      name: check_in_date
+      label: Check-In Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: check_in_time
+      label: Check-In Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: building_name
+      label: Dormitory Building Name
+      hint: null
+      type: select_one
+      options:
+      - North Hall
+      - South Hall
+      - East Hall
+      - West Hall
+      - Central Residence
+      - Graduate Housing
+      - Other
+      required: true
+    - id: 4
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visitor_type
+      label: Type of Person Checking In
+      hint: null
+      type: select_one
+      options:
+      - Resident Student
+      - Guest or Visitor
+      - Delivery Person
+      - Maintenance
+      - Staff Member
+      - Other
+      required: true
+    - id: 6
+      name: resident_first_name
+      label: Resident Student First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resident_last_name
+      label: Resident Student Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: student_id
+      label: Student ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: resident_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: visitor_name
+      label: Guest or Visitor Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: visitor_purpose
+      label: Purpose of Visit
+      hint: null
+      type: select_one
+      options:
+      - Social Visit
+      - Family Visit
+      - Delivery
+      - Maintenance
+      - Official Business
+      - Other
+      required: true
+    - id: 12
+      name: visitor_id_check
+      label: Visitor ID Checked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: visitor_id_type
+      label: Type of ID Presented
+      hint: null
+      type: select_one
+      options:
+      - Driver's License
+      - Passport
+      - State ID
+      - Student ID
+      - Other
+      - None
+      required: false
+    - id: 14
+      name: expected_departure
+      label: Expected Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: number_of_guests
+      label: Number of Guests Visiting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: package_delivery
+      label: Package or Delivery Received
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: package_description
+      label: Package Description
+      hint: Size, type, content if known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: package_tracking
+      label: Package Tracking Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: violation_observed
+      label: Violations or Concerns Observed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: violation_description
+      label: Violation or Concern Details
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: staff_name
+      label: Staff Member Name Conducting Check-In
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Photo Download Request
+    pages:
+    - id: 1
+      name: section_header_request
+      label: "--- Requestor & Asset Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor full name
+      hint: Enter the person requesting access
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_organization
+      label: Organization / Studio
+      hint: Leave blank if individual
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Used for delivery of download links
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone number
+      hint: Include country code if outside local region
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: project_title
+      label: Project or usage title
+      hint: Short project name or campaign
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: asset_identifier
+      label: Asset ID or filename
+      hint: Provide the 3D photo ID or filename
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: intended_use
+      label: Intended use of the asset
+      hint: Select the option that best matches usage
+      type: select_one
+      options:
+        - Personal (non-commercial)
+        - Commercial (advertising or resale)
+        - Editorial (news, articles)
+        - Research / Academic
+        - Exhibition or installation
+      required: true
+    - id: 9
+      name: download_format
+      label: Preferred download format
+      hint: Choose one format for delivery
+      type: select_one
+      options:
+        - OBJ
+        - FBX
+        - GLTF / GLB
+        - USDZ
+      required: true
+    - id: 10
+      name: resolution_requirement
+      label: Resolution / fidelity required
+      hint: Higher fidelity may incur fees
+      type: select_one
+      options:
+        - High (photogrammetry-grade)
+        - Medium (web/preview)
+        - Low (thumbnail/preview)
+      required: true
+    - id: 11
+      name: license_requested
+      label: License requested for use
+      hint: Determines permitted usage and fees
+      type: select_one
+      options:
+        - Standard (internal use)
+        - Extended (commercial distribution)
+        - Enterprise (broad commercial license)
+      required: true
+    - id: 12
+      name: number_of_assets
+      label: Number of assets requested
+      hint: Enter whole number
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: access_date_needed
+      label: Date access is needed by
+      hint: Leave blank if flexible
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: consent_to_terms
+      label: Do you agree to the usage terms and fees?
+      hint: Agreement required for processing
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 15
+      name: additional_notes
+      label: Additional details or delivery instructions
+      hint: Provide context, deadlines, or special requests
+      type: text
+      options: []
+      required: false

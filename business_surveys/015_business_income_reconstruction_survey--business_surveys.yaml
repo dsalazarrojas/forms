@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Income Reconstruction Survey
+    pages:
+    - id: 1
+      name: header
+      label: -- Income Reconstruction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business name
+      hint: Legal or trading name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_period_start
+      label: Reporting period start
+      hint: Start date for reconstructed income
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reporting_period_end
+      label: Reporting period end
+      hint: End date for reconstructed income
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: revenue_sources
+      label: Revenue sources
+      hint: Describe main revenue streams
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: estimated_monthly_income
+      label: Estimated monthly income
+      hint: Average monthly income across the period
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: major_expenses
+      label: Major expenses
+      hint: List primary expense categories
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: accounting_method
+      label: Accounting method
+      hint: Cash or accrual
+      type: select_one
+      options:
+      - Cash
+      - Accrual
+      required: true
+    - id: 9
+      name: supporting_documents_available
+      label: Supporting documents available
+      hint: Do you have invoices or bank statements
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact email
+      hint: For follow up about reconstructed figures
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,303 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Barriers Survey
+    pages:
+      - id: 1
+        name: organization_info
+        label: Organization Information
+        hint: About your business
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: organization_name
+        label: Organization Name
+        hint: Name of your organization
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: industry
+        label: Industry
+        hint: Your industry sector
+        type: select_one
+        options:
+        - Technology
+        - Healthcare
+        - Finance
+        - Manufacturing
+        - Retail
+        - Professional Services
+        - Education
+        - Government
+        - Non-Profit
+        - Other
+        required: true
+      - id: 4
+        name: organization_size
+        label: Organization Size
+        hint: Number of employees
+        type: select_one
+        options:
+        - 1-10 employees
+        - 11-50 employees
+        - 51-200 employees
+        - 201-500 employees
+        - 501-1000 employees
+        - More than 1000 employees
+        required: true
+      - id: 5
+        name: annual_revenue
+        label: Annual Revenue
+        hint: Approximate revenue
+        type: select_one
+        options:
+        - Under $500K
+        - $500K-$1M
+        - $1M-$5M
+        - $5M-$10M
+        - $10M-$50M
+        - More than $50M
+        required: false
+      - id: 6
+        name: respondent_info
+        label: Respondent Information
+        hint: Your details
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: full_name
+        label: Full Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: position
+        label: Position
+        hint: Your job title
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: email
+        label: Email Address
+        hint: Your email
+        type: email
+        options: []
+        required: true
+      - id: 10
+        name: growth_challenges
+        label: Growth Challenges
+        hint: Barriers to growth
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: growth_rate
+        label: Current Growth Rate
+        hint: Year-over-year growth
+        type: select_one
+        options:
+        - Declining
+        - Flat
+        - 1-10%
+        - 11-25%
+        - 26-50%
+        - More than 50%
+        required: true
+      - id: 12
+        name: growth_target
+        label: Target Growth Rate
+        hint: Desired growth rate
+        type: select_one
+        options:
+        - Maintain Current
+        - 1-10%
+        - 11-25%
+        - 26-50%
+        - More than 50%
+        - Double or More
+        required: true
+      - id: 13
+        name: internal_barriers
+        label: Internal Barriers
+        hint: What internal obstacles do you face
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: internal_challenges
+        label: Internal Challenges
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Lack of Capital
+        - Cash Flow Issues
+        - Limited Staff
+        - Skills Gaps
+        - Poor Leadership
+        - Inefficient Processes
+        - Outdated Technology
+        - Low Morale
+        - High Turnover
+        - None
+        required: true
+      - id: 15
+        name: biggest_internal_barrier
+        label: Biggest Internal Barrier
+        hint: Your top internal challenge
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: external_barriers
+        label: External Barriers
+        hint: What external obstacles do you face
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: external_challenges
+        label: External Challenges
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Competition
+        - Economic Conditions
+        - Regulatory Changes
+        - Market Saturation
+        - Supply Chain Issues
+        - Customer Acquisition
+        - Talent Shortage
+        - Technology Changes
+        - None
+        required: true
+      - id: 18
+        name: biggest_external_barrier
+        label: Biggest External Barrier
+        hint: Your top external challenge
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: market_barriers
+        label: Market Barriers
+        hint: Market-related obstacles
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: market_position
+        label: Market Position
+        hint: How do you compete
+        type: select_one
+        options:
+        - Market Leader
+        - Strong Competitor
+        - Average Competitor
+        - Weak Competitor
+        - New Entrant
+        required: true
+      - id: 21
+        name: market_challenges
+        label: Market Challenges
+        hint: What market barriers exist
+        type: select_multiple
+        options:
+        - Brand Recognition
+        - Customer Loyalty
+        - Price Competition
+        - Distribution Channels
+        - Market Access
+        - Regulatory Barriers
+        - None
+        required: true
+      - id: 22
+        name: resource_barriers
+        label: Resource Barriers
+        hint: Resource constraints
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: resource_constraints
+        label: Resource Constraints
+        hint: What resources are limited
+        type: select_multiple
+        options:
+        - Financial Capital
+        - Human Resources
+        - Technology
+        - Physical Space
+        - Equipment
+        - Time
+        - Expertise
+        - None
+        required: true
+      - id: 24
+        name: most_critical_need
+        label: Most Critical Resource Need
+        hint: What resource do you need most
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: support_needed
+        label: Support Needed
+        hint: What help would overcome barriers
+        type: select_multiple
+        options:
+        - Consulting
+        - Training
+        - Funding
+        - Technology Solutions
+        - Hiring Support
+        - Marketing Help
+        - Strategic Planning
+        - Mentoring
+        - Other
+        required: true
+      - id: 26
+        name: barrier_impact
+        label: Impact of Barriers
+        hint: How do barriers affect business
+        type: select_one
+        options:
+        - Preventing Growth
+        - Slowing Growth
+        - Minor Impact
+        - No Significant Impact
+        required: true
+      - id: 27
+        name: confidence_overcoming
+        label: Confidence in Overcoming Barriers
+        hint: How confident are you
+        type: select_one
+        options:
+        - Very Confident
+        - Confident
+        - Somewhat Confident
+        - Not Confident
+        - Very Unconfident
+        required: true
+      - id: 28
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other insights
+        type: text
+        options: []
+        required: false

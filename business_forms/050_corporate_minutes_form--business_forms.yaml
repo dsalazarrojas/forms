@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Minutes Form
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: meeting_attendees
+      label: Meeting Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: meeting_topic
+      label: Meeting Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: meeting_outcome
+      label: Meeting Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: meeting_actions
+      label: Meeting Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: meeting_attachments
+      label: Meeting Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: meeting_decisions
+      label: Meeting Decisions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: meeting_status
+      label: Meeting Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

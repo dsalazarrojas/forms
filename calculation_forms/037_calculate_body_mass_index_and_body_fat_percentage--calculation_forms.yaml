@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calculate Body Mass Index And Body Fat Percentage
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For results
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: calculation_date
+      label: Calculation Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: Your age in years
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: height_unit
+      label: Height Unit
+      hint: What unit for height
+      type: select_one
+      options:
+      - Feet and inches
+      - Centimeters
+      - Meters
+      required: true
+    - id: 7
+      name: height_feet
+      label: Height in Feet
+      hint: Feet portion
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: height_inches
+      label: Height in Inches
+      hint: Inches portion
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: height_cm
+      label: Height in Centimeters
+      hint: Height in cm
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: weight_unit
+      label: Weight Unit
+      hint: What unit for weight
+      type: select_one
+      options:
+      - Pounds
+      - Kilograms
+      required: true
+    - id: 11
+      name: weight
+      label: Weight
+      hint: Your current weight
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: bmi_calculation_note
+      label: BMI Calculation
+      hint: Your BMI will be calculated automatically
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: waist_circumference
+      label: Waist Circumference
+      hint: Measure around your waist
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: waist_unit
+      label: Waist Measurement Unit
+      hint: What unit for waist
+      type: select_one
+      options:
+      - Inches
+      - Centimeters
+      required: false
+    - id: 15
+      name: neck_circumference
+      label: Neck Circumference
+      hint: Measure around your neck
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: hip_circumference
+      label: Hip Circumference
+      hint: Measure around your hips (females)
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: body_fat_calculation_note
+      label: Body Fat Calculation
+      hint: Body fat percentage will be estimated
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: activity_level
+      label: Activity Level
+      hint: Your typical activity
+      type: select_one
+      options:
+      - Sedentary
+      - Lightly active
+      - Moderately active
+      - Very active
+      - Extremely active
+      required: false
+    - id: 19
+      name: fitness_goal
+      label: Fitness Goal
+      hint: What is your goal
+      type: select_one
+      options:
+      - Weight loss
+      - Maintain weight
+      - Muscle gain
+      - Improve fitness
+      - General health
+      required: false
+    - id: 20
+      name: results_delivery
+      label: How to Receive Results
+      hint: How should we send results
+      type: select_one
+      options:
+      - Display on screen only
+      - Email results
+      - Both
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

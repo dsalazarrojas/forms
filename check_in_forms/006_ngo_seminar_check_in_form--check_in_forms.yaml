@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Seminar Check In Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: check_in_time
+      label: Check in time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: session_participation
+      label: Session participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: arrival_method
+      label: Arrival method
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      required: false
+    - id: 8
+      name: attendee_comments
+      label: Attendee comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: staff_comments
+      label: Staff comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: session_participation_1
+      label: Session 1 participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: session_participation_2
+      label: Session 2 participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: session_participation_3
+      label: Session 3 participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: session_participation_4
+      label: Session 4 participation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: attendee_type
+      label: Attendee type
+      hint: null
+      type: select_one
+      options:
+      - NGO
+      - Community
+      - Staff
+      - Others
+      - Guest
+      - Volunteer
+      required: false
+    - id: 15
+      name: attendee_status
+      label: Attendee status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Confirmed but did not attend
+      - No show
+      - Unable to attend
+      - Not yet confirmed
+      required: false
+    - id: 16
+      name: session_attended
+      label: Session attended
+      hint: null
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      required: false
+    - id: 17
+      name: session_1_session_attended
+      label: Session 1 session attended
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: session_2_session_attended
+      label: Session 2 session attended
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: session_3_session_attended
+      label: Session 3 session attended
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: session_4_session_attended
+      label: Session 4 session attended
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: session_1_attendance_status
+      label: Session 1 attendance status
+      hint: null
+      type: select_one
+      options:
+      - Attended
+      - Did not attend
+      - Unable to attend
+      - Not yet attended
+      required: false
+    - id: 23
+      name: session_2_attendance_status
+      label: Session 2 attendance status
+      hint: null
+      type: select_one
+      options:
+      - Attended
+      - Did not attend
+      - Unable to attend
+      - Not yet attended
+      required: false
+    - id: 24
+      name: session_3_attendance_status
+      label: Session 3 attendance status
+      hint: null
+      type: select_one
+      options:
+      - Attended
+      - Did not attend
+      - Unable to attend
+      - Not yet attended
+      required: false
+    - id: 25
+      name: session_4_attendance_status
+      label: Session 4 attendance status
+      hint: null
+      type: select_one
+      options:
+      - Attended
+      - Did not attend
+      - Unable to attend
+      - Not yet attended
+      required: false

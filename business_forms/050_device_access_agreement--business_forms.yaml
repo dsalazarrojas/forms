@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Access Agreement
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: device_info
+      label: Device Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usage_terms
+      label: Usage Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_title
+      label: Employee Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: device_type
+      label: Device Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: device_id
+      label: Device ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: device_status
+      label: Device Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 15
+      name: device_notes
+      label: Device Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: user_acknowledgement
+      label: User Acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 17
+      name: user_acknowledgement_other
+      label: Other Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_of_agreement
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: user_signature
+      label: User Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: time_signed
+      label: Time Signed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: printed_name
+      label: Printed Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: printed_title
+      label: Printed Title
+      hint: null
+      type: text
+      options: []
+      required: false

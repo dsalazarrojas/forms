@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Management Checklist
+    pages:
+    - id: 1
+      name: --organization_overview--
+      label: -- Organization Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Legal or operating name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Name of the AI lead or manager
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Work email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: strategic_alignment
+      label: AI strategic alignment with business goals
+      hint: Select the best match
+      type: select_one
+      options:
+      - Not defined
+      - Emerging
+      - Aligned to specific units
+      - Organization wide
+      required: true
+    - id: 6
+      name: data_strategy
+      label: Data strategy maturity
+      hint: Level of maturity for data governance
+      type: select_one
+      options:
+      - Nascent
+      - Developing
+      - Operational
+      - Mature
+      required: true
+    - id: 7
+      name: governance_policies
+      label: Governance policies in place
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Data privacy policy
+      - Model validation policy
+      - Security controls
+      - Ethical review board
+      required: false
+    - id: 8
+      name: talent_and_skills
+      label: Talent availability for AI projects
+      hint: Choose the statement that best describes current talent
+      type: select_one
+      options:
+      - No internal talent
+      - Small internal team
+      - External partners engaged
+      - Strong internal capability
+      required: true
+    - id: 9
+      name: budgeting
+      label: Budget allocated for AI initiatives this year
+      hint: Estimated annual budget in USD
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: risk_assessment
+      label: Key risks identified
+      hint: Short list of top risks
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Recommended next steps
+      hint: Suggested actions after completing this checklist
+      type: text
+      options: []
+      required: false

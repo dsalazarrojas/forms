@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Batch Sampling Frequency Report Form
+    pages:
+    - id: 1
+      name: report_id
+      label: Report ID
+      hint: Unique report identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: batch_id
+      label: Batch ID
+      hint: Batch being sampled
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_name
+      label: Product Name
+      hint: Product being sampled
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: production_line
+      label: Production Line
+      hint: Which production line
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sampling_technician
+      label: Sampling Technician
+      hint: Who performed sampling
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sampling_frequency
+      label: Sampling Frequency
+      hint: How often samples are taken
+      type: select_one
+      options:
+      - Every Hour
+      - Every 2 Hours
+      - Every 4 Hours
+      - Every 8 Hours
+      - Once Per Shift
+      - Once Per Day
+      - Once Per Batch
+      required: true
+    - id: 8
+      name: sample_size
+      label: Sample Size
+      hint: Quantity per sample
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: sampling_method
+      label: Sampling Method
+      hint: How samples are collected
+      type: select_one
+      options:
+      - Random Sampling
+      - Systematic Sampling
+      - Stratified Sampling
+      - Grab Sampling
+      - Composite Sampling
+      required: true
+    - id: 10
+      name: sampling_location
+      label: Sampling Location
+      hint: Where samples taken from
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: total_samples_taken
+      label: Total Samples Taken
+      hint: Number of samples in period
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: samples_passed
+      label: Samples Passed
+      hint: Number that passed
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: samples_failed
+      label: Samples Failed
+      hint: Number that failed
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: pass_rate
+      label: Pass Rate Percentage
+      hint: Percentage passing
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: parameters_tested
+      label: Parameters Tested
+      hint: What was tested
+      type: select_multiple
+      options:
+      - pH Level
+      - Viscosity
+      - Temperature
+      - Moisture Content
+      - Particle Size
+      - Chemical Composition
+      - Microbiological
+      - Physical Properties
+      required: true
+    - id: 16
+      name: deviations_noted
+      label: Were Deviations Noted
+      hint: Any out of spec results
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: deviation_details
+      label: Deviation Details
+      hint: Describe deviations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: trend_observed
+      label: Trend Observed
+      hint: Any patterns noticed
+      type: select_one
+      options:
+      - Stable
+      - Improving
+      - Declining
+      - Variable
+      required: true
+    - id: 19
+      name: recommendations
+      label: Recommendations
+      hint: Suggested actions
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: next_sampling_date
+      label: Next Scheduled Sampling
+      hint: When next sample due
+      type: date
+      options: []
+      required: true

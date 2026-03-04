@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Gear Checkout List Form
+    pages:
+    - id: 1
+      name: daily_gear_checkout_list_form
+      label: Borrowed Gear List
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: gear_list
+      label: Gear List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: gear_description_list
+      label: Gear Description List
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_borrowed
+      label: Date Borrowed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: date_returned
+      label: Date Returned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: checked_out_by
+      label: Checked Out By
+      hint: null
+      type: select_one
+      options:
+      - Assistant 1
+      - Assistant 2
+      - Assistant 3
+      required: false

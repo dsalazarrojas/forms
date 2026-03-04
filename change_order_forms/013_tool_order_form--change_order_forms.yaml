@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Order Form
+    pages:
+    - id: 1
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: damaged_tool_number
+      label: damaged_tool_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_tool_type
+      label: preferred_tool_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: order_notes
+      label: order_notes
+      hint: null
+      type: note
+      options: []
+      required: false

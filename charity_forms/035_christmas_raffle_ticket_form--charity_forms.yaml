@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Raffle Ticket Form
+    pages:
+    - id: 1
+      name: purchaser_info
+      label: -- Purchaser Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: organization_info
+      label: -- Organization Information (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: organization_name
+      label: Organization Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ticket_purchase
+      label: -- Raffle Ticket Purchase --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: number_of_tickets
+      label: Number of Tickets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: ticket_price
+      label: Price Per Ticket
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: prize_information
+      label: -- Prize Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: prize_interest
+      label: Which prize are you most interested in?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_section
+      label: -- Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Credit card
+      - Debit card
+      - Online payment
+      - Other
+      required: true
+    - id: 20
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid in full
+      - Partial payment
+      - Balance due
+      - Installments arranged
+      required: true
+    - id: 21
+      name: receipt_email
+      label: Send Receipt to Email
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Either
+      required: false
+    - id: 24
+      name: notification
+      label: Notify me if I win
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

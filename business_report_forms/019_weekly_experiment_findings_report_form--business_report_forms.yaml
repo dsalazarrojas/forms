@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Experiment Findings Report Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Weekly Experiment Findings Report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experiment_outcome
+      label: Experiment Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive'', ''value'': ''positive''}'
+      - '{''id'': 2, ''label'': ''Negative'', ''value'': ''negative''}'
+      - '{''id'': 3, ''label'': ''Neutral'', ''value'': ''neutral''}'
+      required: false
+    - id: 3
+      name: experiment_analysis
+      label: Experiment Analysis
+      hint: Provide detailed analysis of the experiment
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: progress
+      label: Weekly Progress
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: week
+      label: Week
+      hint: Select the week this report applies to
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': 1, ''value'': 1}'
+      - '{''id'': 2, ''label'': 2, ''value'': 2}'
+      - '{''id'': 3, ''label'': 3, ''value'': 3}'
+      - '{''id'': 4, ''label'': 4, ''value'': 4}'
+      - '{''id'': 5, ''label'': 5, ''value'': 5}'
+      required: false
+    - id: 7
+      name: team_members
+      label: Team Members
+      hint: List of people who participated in the experiment
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Team Member 1'', ''value'': ''team_member_1''}'
+      - '{''id'': 2, ''label'': ''Team Member 2'', ''value'': ''team_member_2''}'
+      - '{''id'': 3, ''label'': ''Team Member 3'', ''value'': ''team_member_3''}'
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other comments or notes
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false

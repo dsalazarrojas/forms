@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Checklist Form
+    pages:
+    - id: 1
+      name: equipment_checklist_form
+      label: equipment_checklist_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fireman_equipment_list
+      label: fireman_equipment_list
+      hint: null
+      type: select_multiple
+      options:
+      - Fireman Helmet
+      - Fireman Suit
+      - Fireman Gloves
+      required: true
+    - id: 3
+      name: law_enforcement_equipment
+      label: law_enforcement_equipment
+      hint: null
+      type: select_one
+      options:
+      - Police Helmet
+      - Police Vest
+      - Police Radio
+      required: true
+    - id: 4
+      name: other_equipment
+      label: other_equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: duty_hours
+      label: duty_hours
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: true
+    - id: 6
+      name: duty_location
+      label: duty_location
+      hint: null
+      type: select_multiple
+      options:
+      - Station
+      - City
+      - Town
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - Emergency 1
+      - Emergency 2
+      - Emergency 3
+      required: true
+    - id: 8
+      name: fireman_phone
+      label: fireman_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: law_enforcement_phone
+      label: law_enforcement_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Unknown
+      required: true
+    - id: 11
+      name: equipment_location
+      label: equipment_location
+      hint: null
+      type: select_multiple
+      options:
+      - Station
+      - City
+      - Town
+      required: false
+    - id: 12
+      name: equipment_description
+      label: equipment_description
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Unknown
+      required: true
+    - id: 13
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned
+      label: assigned
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

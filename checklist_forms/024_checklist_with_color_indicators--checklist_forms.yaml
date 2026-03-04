@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checklist With Color Indicators
+    pages:
+    - id: 1
+      name: section_task_definition
+      label: -- Task Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: core_task_description
+      label: Task Description
+      hint: What needs to be done
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_owner
+      label: Department Owner
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Design
+      - Marketing
+      - Support
+      - Finance
+      required: true
+    - id: 4
+      name: current_status_color
+      label: Status Color Indicator
+      hint: Visual status of the task
+      type: select_one
+      options:
+      - Green - On Track / Completed
+      - Yellow - Needs Attention
+      - Red - Critical / Blocked
+      - Blue - Planning / Upcoming
+      required: true
+    - id: 5
+      name: completion_percentage_int
+      label: Percent Complete (%)
+      hint: Enter a number from 0 to 100
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: section_timelines
+      label: -- Timelines --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: scheduled_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: estimated_completion_date
+      label: Estimated End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: actual_completion_date
+      label: Actual End Date
+      hint: Leave blank if not finished
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: section_priority_risks
+      label: -- Priority and Risk Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: task_priority_level
+      label: Priority Flag
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Urgent
+      - Immediate Action Required
+      required: true
+    - id: 12
+      name: identified_risk_factors
+      label: Identified Issues or Risks
+      hint: Describe anything hindering progress
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: dependency_on_other_tasks
+      label: Task Dependencies
+      hint: List other tasks this depends on
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: resource_allocation_check
+      label: Resource Allocation Confirmed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: section_reporting
+      label: -- Reporting Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reporting_staff_member
+      label: Reported By (Staff Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: report_timestamp_log
+      label: Report Submission Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: next_steps_action_plan
+      label: Next Steps Action Plan
+      hint: What will happen in the next 48 hours
+      type: text
+      options: []
+      required: false

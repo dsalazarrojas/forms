@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: partnership_facilities_audit_survey
+    pages:
+    - id: 1
+      name: partner_locations
+      label: Partner Locations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: compliance_ratings
+      label: Compliance Ratings
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: compliance_observations
+      label: Compliance Observations
+      hint: Please list any observations or notes related to compliance. For example,
+        “The fire extinguisher is not functioning properly.”
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: quality_ratings
+      label: Quality Ratings
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: audit_data
+      label: Audit Data
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_transition_confidence_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: This is an introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section1
+      label: Section 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: section2
+      label: Section 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4, ''label'': ''Option 7''}'
+      - '{''id'': 5, ''label'': ''Option 8''}'
+      required: false
+    - id: 4
+      name: section3
+      label: Section 3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: section4
+      label: Section 4
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: section5
+      label: Section 5
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: section6
+      label: Section 6
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: section7
+      label: Section 7
+      hint: null
+      type: text
+      options: []
+      required: false

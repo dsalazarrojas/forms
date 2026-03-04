@@ -1,0 +1,346 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campground Lease Agreement
+    pages:
+    - id: 1
+      name: lessor_name
+      label: Lessor Name
+      hint: Campground owner name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lessor_company
+      label: Lessor Company Name
+      hint: Company or organization
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lessor_address
+      label: Lessor Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lessor_city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: lessor_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: lessor_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: lessor_phone
+      label: Lessor Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lessor_email
+      label: Lessor Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: lessee_name
+      label: Lessee Name
+      hint: Renter full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: lessee_company
+      label: Lessee Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lessee_address
+      label: Lessee Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: lessee_city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lessee_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: lessee_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: lessee_phone
+      label: Lessee Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: lessee_email
+      label: Lessee Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: campground_name
+      label: Campground Name
+      hint: Name of property
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: campground_address
+      label: Campground Address
+      hint: Property address
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: leased_area
+      label: Leased Area Description
+      hint: What is being leased
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: lease_start_date
+      label: Lease Start Date
+      hint: When lease begins
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: lease_end_date
+      label: Lease End Date
+      hint: When lease ends
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: lease_duration
+      label: Lease Duration
+      hint: Select duration
+      type: select_one
+      options:
+      - Weekend (2-3 days)
+      - Weekly (7 days)
+      - Monthly
+      - Seasonal
+      - Annual
+      - Other
+      required: true
+    - id: 23
+      name: lease_purpose
+      label: Purpose of Lease
+      hint: What will it be used for
+      type: select_one
+      options:
+      - Recreational camping
+      - Group retreat
+      - Corporate event
+      - Family reunion
+      - Commercial use
+      - Other
+      required: true
+    - id: 24
+      name: maximum_occupancy
+      label: Maximum Occupancy
+      hint: Maximum number of people
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: maximum_vehicles
+      label: Maximum Number of Vehicles
+      hint: Vehicle limit
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: rental_fee
+      label: Total Rental Fee
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: security_deposit
+      label: Security Deposit
+      hint: Refundable deposit
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: payment_schedule
+      label: Payment Schedule
+      hint: Select schedule
+      type: select_one
+      options:
+      - Full payment due at signing
+      - 50 percent deposit - balance on arrival
+      - Monthly payments
+      - Other arrangement
+      required: true
+    - id: 29
+      name: utilities_included
+      label: Utilities Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Water
+      - Electricity
+      - Sewer
+      - Trash collection
+      - Internet
+      - Cable TV
+      - None
+      required: true
+    - id: 30
+      name: amenities_included
+      label: Amenities Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Restrooms
+      - Showers
+      - Fire pit
+      - Picnic table
+      - Grill
+      - Playground
+      - Swimming area
+      - Boat launch
+      - Other
+      required: true
+    - id: 31
+      name: pet_policy
+      label: Pet Policy
+      hint: Select policy
+      type: select_one
+      options:
+      - Pets allowed
+      - Pets allowed with deposit
+      - No pets allowed
+      - Service animals only
+      required: true
+    - id: 32
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Select policy
+      type: select_one
+      options:
+      - Full refund 30 days prior
+      - 50 percent refund 14 days prior
+      - No refund within 30 days
+      - Other
+      required: true
+    - id: 33
+      name: damage_responsibility
+      label: Lessee Accepts Responsibility for Damages
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I accept responsibility
+      - false
+      required: true
+    - id: 34
+      name: rules_and_regulations
+      label: Lessee Agrees to Follow Campground Rules
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - I agree
+      - false
+      required: true
+    - id: 35
+      name: insurance_required
+      label: Is Insurance Required
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - lessee must provide
+      - No - covered by lessor
+      - Recommended but not required
+      required: true
+    - id: 36
+      name: additional_terms
+      label: Additional Terms and Conditions
+      hint: Describe any special terms
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: lessor_signature
+      label: Lessor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: lessor_signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true
+    - id: 39
+      name: lessee_signature
+      label: Lessee Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 40
+      name: lessee_signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true
+    - id: 41
+      name: witness_name
+      label: Witness Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: witness_signature
+      label: Witness Signature
+      hint: Optional
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: BeBody Health And Fitness Coronavirus Self Assessment Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- COVID-19 Health Self-Assessment --
+      hint: Please complete this form before attending any fitness class.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: class_name_and_time
+      label: Fitness Class Name and Time
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: assessment_questions_header
+      label: -- Symptom and Exposure Check --
+      hint: If you answer YES to any of these, please stay home and consult a doctor.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: has_fever
+      label: Have you had a fever of 100.4 F or higher in the last 24 hours?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: has_respiratory_symptoms
+      label: Are you experiencing a new or worsening cough or shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: has_other_symptoms
+      label: Have you experienced sudden loss of taste or smell, or unusual fatigue?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: positive_contact
+      label: Have you been in close contact with someone who tested positive for COVID-19?
+      hint: In the last 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: travel_history
+      label: Have you traveled internationally or to a high-risk area recently?
+      hint: In the last 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: safety_agreement_header
+      label: -- Facility Safety Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: mask_policy_ack
+      label: I agree to wear a mask in all common areas of the facility
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 13
+      name: distancing_ack
+      label: I agree to maintain social distancing of 6 feet from other members
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 14
+      name: truthful_reporting_ack
+      label: I certify that my answers above are truthful to the best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 15
+      name: signature_name
+      label: Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submission_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Compliance Assessment Form
+    pages:
+    - id: 1
+      name: store_audit
+      label: store audit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: store_number
+      label: store_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_name
+      label: store name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: region
+      label: region
+      hint: null
+      type: select_one
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: false
+    - id: 5
+      name: store_type
+      label: store type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: store_type
+      label: store type
+      hint: null
+      type: select_multiple
+      options:
+      - A
+      - B
+      - C
+      required: false
+    - id: 7
+      name: compliance_standards
+      label: compliance standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: compliance_standards
+      label: compliance standards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photos
+      label: photos
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: photos
+      label: photos
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_completed
+      label: date completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: date_completed
+      label: date completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_completed
+      label: time completed
+      hint: null
+      type: time
+      options: []
+      required: false

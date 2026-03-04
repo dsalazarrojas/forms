@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_feedback_channel_survey
+    pages:
+    - id: 1
+      name: employee_feedback_channel
+      label: What feedback channel do you use for employee feedback
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: management_level
+      label: Management level
+      hint: Select one
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: frequency_of_use
+      label: How often do you use this feedback channel
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: communication_style
+      label: What is your communication style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: satisfaction_level
+      label: satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: communication_type
+      label: What type of communication would you like to have in this channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

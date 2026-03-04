@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Analytics Report Form
+    pages:
+    - id: 1
+      name: analytics_request
+      label: Requested metrics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: goal_alignment
+      label: Align goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: data_collection
+      label: Data collection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: standardize_data
+      label: Standardize
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: report_frequency
+      label: Report frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: website_performance
+      label: Website performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reporting_deadline
+      label: Reporting deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reporting_time
+      label: Reporting time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: report_type
+      label: Report type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: report_frequency_period
+      label: Report frequency period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: report_start_date
+      label: Report start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: report_end_date
+      label: Report end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: report_delivery
+      label: Report delivery
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: analytics_tool
+      label: Reporting tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: report_notes
+      label: Report notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: jotform_api_key
+      label: Jotform API Key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: report_frequency_unit
+      label: Report frequency unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reporting_team
+      label: Reporting Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reporting_agency
+      label: Reporting Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

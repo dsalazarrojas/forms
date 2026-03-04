@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Inclusivity Index Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics
+      label: demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_satisfaction
+      label: job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: team_satisfaction
+      label: team satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inclusivity
+      label: inclusivity
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 6
+      name: belonging
+      label: belonging
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: job_role
+      label: job role
+      hint: null
+      type: select_one
+      options:
+      - Management
+      - Non-management
+      - Other
+      required: false
+    - id: 10
+      name: job_type
+      label: job type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Intern
+      - Contractor
+      - Other
+      required: false
+    - id: 11
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_info
+      label: manager info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: work_hours
+      label: work hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: work_week
+      label: work week
+      hint: null
+      type: select_one
+      options:
+      - Monday to Friday
+      - Monday to Wednesday
+      - Tuesday to Thursday
+      - Wednesday to Friday
+      - Other
+      required: false
+    - id: 16
+      name: work_shift
+      label: work shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      - Rotating
+      - Flexible
+      required: false
+    - id: 17
+      name: breaks
+      label: breaks
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: work_from_home
+      label: work from home
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Sometimes
+      required: false
+    - id: 19
+      name: team_size
+      label: team size
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-20
+      - 21-50
+      - 51-100
+      - 101 or more
+      required: false
+    - id: 20
+      name: job_satisfaction_level
+      label: job satisfaction level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: team_satisfaction_level
+      label: team satisfaction level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: inclusivity_level
+      label: inclusivity level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: belonging_level
+      label: belonging level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: work_pace
+      label: work pace
+      hint: null
+      type: select_one
+      options:
+      - Fast
+      - Medium
+      - Slow
+      - Variable
+      - Don't know
+      required: false
+    - id: 25
+      name: submission
+      label: submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Prefer not to say
+      required: false

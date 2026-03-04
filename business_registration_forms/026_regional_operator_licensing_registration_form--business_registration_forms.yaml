@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regional Operator Licensing Registration Form
+    pages:
+    - id: 1
+      name: operator_info
+      label: Operator Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_info
+      label: Business Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: license_info
+      label: License Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: operator_business_type
+      label: Operator Business Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: operator_name
+      label: Operator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: license_expiration_date
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: license_status
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_business_email
+      label: Contact Business E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

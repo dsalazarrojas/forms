@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Onboarding Experience Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Vendor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_info
+      label: Supplier Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supplier_address
+      label: Supplier Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: onboarding_experience
+      label: Onboarding Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: time_to_first_shipment
+      label: Time To First Shipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: shipment_frequency
+      label: Shipment Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: first_shipment_date
+      label: First Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: first_shipment_time
+      label: First Shipment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: onboarding_process
+      label: Onboarding Process
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: onboarding_experience_rating
+      label: Onboarding Experience Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: shipment_frequency_rating
+      label: Shipment Frequency Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 13
+      name: onboarding_support
+      label: Onboarding Support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

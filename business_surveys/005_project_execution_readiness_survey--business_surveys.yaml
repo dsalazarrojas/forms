@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Execution Readiness Survey
+    pages:
+    - id: 1
+      name: project_launch_readiness
+      label: Project Launch Readiness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_readiness
+      label: Team Readiness
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resource_availability
+      label: Resource Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_launch_timing
+      label: Project Launch Timing
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: project_timeline
+      label: Project Timeline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active'', ''value'': ''Active''}'
+      - '{''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''label'': ''Completed'', ''value'': ''Completed''}'
+      required: true
+    - id: 8
+      name: business_case_for_change
+      label: Business Case for Change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: resource_plan
+      label: Resource Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_plan
+      label: Project Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_case_for_investment
+      label: Business Case for Investment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: change_mgt_process
+      label: Change Mgt Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stakeholder_engagement
+      label: Stakeholder Engagement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_scope
+      label: Project Scope
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: project_success_criteria
+      label: Project Success Criteria
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: resource_allocation
+      label: Resource Allocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_control
+      label: Project Control
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_close
+      label: Project Close
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_status_update
+      label: Project Status Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: project_risk_register
+      label: Project Risk Register
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_scope_change
+      label: Project Scope Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_closure
+      label: Project Closure
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      - '{''label'': ''Unknown'', ''value'': ''Unknown''}'
+      required: false
+    - id: 24
+      name: post_implementation_review
+      label: Post-Implementation Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied'', ''value'': ''Very Satisfied''}'
+      - '{''label'': ''Satisfied'', ''value'': ''Satisfied''}'
+      - '{''label'': ''Neutral'', ''value'': ''Neutral''}'
+      - '{''label'': ''Dissatisfied'', ''value'': ''Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied'', ''value'': ''Very Dissatisfied''}'
+      required: true

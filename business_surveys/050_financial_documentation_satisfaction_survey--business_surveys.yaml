@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Documentation Satisfaction Survey
+    pages:
+    - id: 1
+      name: financial_documentation_survey_form_1
+      label: What type of financial documentation do you need?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: financial_documentation_survey_form_2
+      label: How often do you use financial documentation?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: financial_documentation_survey_form_3
+      label: What is your satisfaction level with the current financial documentation?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: financial_documentation_survey_form_4
+      label: How would you rate the overall ease of use of the financial documentation?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: financial_documentation_survey_form_5
+      label: Do you have any suggestions for improving the financial documentation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: financial_documentation_survey_form_6
+      label: Do you have any suggestions for improving the overall financial documentation
+        process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: financial_documentation_survey_form_7
+      label: Is this form useful to you?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: financial_documentation_survey_form_8
+      label: Do you have any other comments about the financial documentation?
+      hint: null
+      type: note
+      options: []
+      required: false

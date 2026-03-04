@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Order Agreement
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: Date order is placed
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Date cake is needed
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: Time cake is needed
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: cake_description
+      label: Cake Description
+      hint: Detailed description of cake ordered
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: cake_size
+      label: Cake Size
+      hint: Dimensions or serving size
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cake_flavor
+      label: Cake Flavor
+      hint: Flavor of cake
+      type: select_one
+      options:
+      - Vanilla
+      - Chocolate
+      - Red Velvet
+      - Lemon
+      - Strawberry
+      - Carrot
+      - Marble
+      - Custom flavor
+      required: true
+    - id: 11
+      name: frosting_flavor
+      label: Frosting Flavor
+      hint: Flavor of frosting
+      type: select_one
+      options:
+      - Vanilla buttercream
+      - Chocolate buttercream
+      - Cream cheese
+      - Whipped cream
+      - Fondant
+      - Ganache
+      - Custom
+      required: true
+    - id: 12
+      name: filling_type
+      label: Filling Type
+      hint: Type of filling between layers
+      type: select_one
+      options:
+      - Buttercream
+      - Fruit preserve
+      - Custard
+      - Ganache
+      - Mousse
+      - None
+      required: false
+    - id: 13
+      name: design_specifications
+      label: Design Specifications
+      hint: Detailed design requirements
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: color_scheme
+      label: Color Scheme
+      hint: Colors for cake design
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cake_message
+      label: Cake Message
+      hint: Text to be written on cake
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: total_price
+      label: Total Price
+      hint: Total cost of order
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Required deposit paid
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: deposit_paid_date
+      label: Deposit Paid Date
+      hint: Date deposit was paid
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: balance_due
+      label: Balance Due
+      hint: Remaining balance
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: balance_due_date
+      label: Balance Due Date
+      hint: When balance must be paid
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: delivery_method
+      label: Delivery Method
+      hint: How cake will be received
+      type: select_one
+      options:
+      - Customer pickup
+      - Bakery delivery
+      - Third-party delivery
+      required: true
+    - id: 22
+      name: delivery_fee
+      label: Delivery Fee
+      hint: Additional delivery cost if applicable
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledgment
+      hint: Do you understand cancellation policy
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, need explanation
+      required: true
+    - id: 24
+      name: refund_policy
+      label: Refund Policy Acknowledgment
+      hint: Do you understand refund policy
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, need explanation
+      required: true
+    - id: 25
+      name: allergy_acknowledgment
+      label: Allergy Acknowledgment
+      hint: Do you understand cross-contamination risk
+      type: select_one
+      options:
+      - Yes, I understand
+      - Not applicable
+      required: true
+    - id: 26
+      name: customer_signature
+      label: Customer Signature
+      hint: Digital signature or typed name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of agreement
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: bakery_representative
+      label: Bakery Representative
+      hint: Name of bakery staff member
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_terms
+      label: Additional Terms
+      hint: Any special terms or conditions
+      type: text
+      options: []
+      required: false

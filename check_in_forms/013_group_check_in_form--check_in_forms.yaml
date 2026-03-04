@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Check In Form
+    pages:
+    - id: 1
+      name: group_check_in_form_group_name
+      label: Group Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: group_check_in_form_group_size
+      label: Group Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: group_check_in_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: group_check_in_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: group_check_in_form_arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: group_check_in_form_arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: group_check_in_form_arrival_location
+      label: Arrival Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: group_check_in_form_additional_info
+      label: Additional Info
+      hint: Write anything else we should know
+      type: text
+      options: []
+      required: false

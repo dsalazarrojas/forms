@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: qapi_form
+    pages:
+    - id: 1
+      name: form_section
+      label: form_section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: staff_member_name
+      label: staff_member_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: staff_member_role
+      label: staff_member_role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_room
+      label: patient_room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: visit_type
+      label: visit_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Home visit''}'
+      - '{''value'': ''Outpatient visit''}'
+      - '{''value'': ''Inpatient visit''}'
+      required: false
+    - id: 10
+      name: visit_duration
+      label: visit_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_visit
+      label: reason_for_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: staff_signature
+      label: staff_signature
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housekeeping Quick Estimate Template
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Required
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_requested
+      label: Services Requested
+      hint: null
+      type: select_one
+      options:
+      - Landscaping
+      - Pool Cleaning
+      - Lawn Maintenance
+      required: false
+    - id: 4
+      name: estimated_duration
+      label: Estimated Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: estimated_price
+      label: Estimated Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: site_visit_required
+      label: Site Visit Required
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Team Feedback Survey
+    pages:
+    - id: 1
+      name: header
+      label: -- Feedback form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tenure
+      label: Tenure with company
+      hint: Years with the organization
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: job_satisfaction
+      label: Job satisfaction level
+      hint: Rate overall job satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 5
+      name: team_support
+      label: Support from team
+      hint: Does the team provide needed support
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 6
+      name: management_communication
+      label: Management communication clarity
+      hint: How clear is communication from management
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Neutral
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 7
+      name: workload_balance
+      label: Workload balance
+      hint: Is workload distributed appropriately
+      type: select_one
+      options:
+      - true
+      - Sometimes
+      - false
+      required: true
+    - id: 8
+      name: training_needs
+      label: Training needs
+      hint: Areas where training would be helpful
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recognition_and_rewards
+      label: Recognition and rewards
+      hint: Are contributions recognized appropriately
+      type: select_one
+      options:
+      - Yes consistently
+      - Sometimes
+      - Rarely
+      required: false
+    - id: 10
+      name: suggestions_for_change
+      label: Suggestions for change
+      hint: Concrete suggestions to improve team functioning
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: further_comments
+      label: Further comments
+      hint: Any additional remarks
+      type: text
+      options: []
+      required: false

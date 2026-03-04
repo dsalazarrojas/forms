@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Defense Assessment Template
+    pages:
+    - id: 1
+      name: general_assessment
+      label: General Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: food_safety_plan
+      label: Food Safety Plan
+      hint: null
+      type: select_multiple
+      options:
+      - Food Defense
+      - Food Control
+      - Food Recall
+      - Food Recall Procedure
+      - Food Recall Plan
+      required: false
+    - id: 3
+      name: recall_plan
+      label: Recall Plan
+      hint: A recall plan is a procedure in place if contamination is found.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: corrective_action
+      label: Corrective Action
+      hint: Describe the corrective action taken to address the contamination.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: training_program
+      label: Training Program
+      hint: Is a training program in place?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: food_defense_plan
+      label: Food Defense Plan
+      hint: Is a food defense plan in place?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: corrective_action_plan
+      label: Corrective Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: food_control_measures
+      label: Food Control Measures
+      hint: null
+      type: select_multiple
+      options:
+      - Traceability
+      - Sop
+      - Hazard Analysis
+      required: false
+    - id: 10
+      name: monitoring_plan
+      label: Monitoring Plan
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: food_recalled_quantity
+      label: Quantity of Food Recalled
+      hint: null
+      type: select_multiple
+      options:
+      - '1000'
+      - '500'
+      - '100'
+      - 1-100
+      - 101-1000
+      required: false
+    - id: 12
+      name: food_recalled_quantity_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recall_date
+      label: Recall Date
+      hint: Date of the last recall.
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: last_recall_frequency
+      label: Last Recall Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Multiple
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 15
+      name: training_program_frequency
+      label: Training Program Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Multiple
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 16
+      name: food_defense_frequency
+      label: Food Defense Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 17
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 18
+      name: corrective_action_frequency
+      label: Corrective Action Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 19
+      name: corrective_action_status
+      label: Corrective Action Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Not Started
+      required: false
+    - id: 20
+      name: corrective_action_completed
+      label: Corrective Action Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: food_control_measures
+      label: Food Control Measures
+      hint: null
+      type: select_multiple
+      options:
+      - Traceability
+      - Sop
+      - Hazard
+      required: false
+    - id: 22
+      name: corrective_action_effectiveness
+      label: Corrective Action Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Effective
+      - Not Effective
+      required: false
+    - id: 23
+      name: food_recalled_quantity
+      label: Quantity of Food Recalled
+      hint: null
+      type: select_multiple
+      options:
+      - '1000'
+      - '500'
+      - '100'
+      - 1-100
+      - 101-1000
+      required: false
+    - id: 24
+      name: food_recalled_quantity_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: recall_date
+      label: Recall Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Harassment Complaint Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: harassment_description
+      label: Harassment Description
+      hint: Describe the incident in as much detail as you can.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: harassment_type
+      label: Harassment Type
+      hint: Select the type of harassment that occurred.
+      type: select_one
+      options:
+      - Harassment
+      - Bullying
+      - Discrimination
+      - Retaliation
+      - Hostile Work Environment
+      required: false
+    - id: 4
+      name: harasser
+      label: Harasser
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Supervisor
+      - Coworker
+      - Customer
+      - Vendor
+      - Client
+      - Other
+      required: false
+    - id: 5
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resolution
+      label: Resolution
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - Not Resolved
+      required: false
+    - id: 7
+      name: workplace_harassment_policy
+      label: Has Workplace Harassment Policy
+      hint: Does the workplace have an established policy on harassment?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: reported_to
+      label: Reported To
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - Supervisor
+      - Manager
+      - Security
+      - Other
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Home
+      - Remote
+      - Other
+      required: false
+    - id: 12
+      name: witness
+      label: Witness
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Supervisor
+      - Coworker
+      - Customer
+      - Vendor
+      - Client
+      - Other
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AK
+      - AL
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - ID
+      - IL
+      - IN
+      - IA
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MO
+      - MS
+      - MT
+      - NE
+      - NV
+      - NH
+      - NJ
+      - NM
+      - NY
+      - NC
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VA
+      - VT
+      - WA
+      - WV
+      - WI
+      - WY
+      required: false
+    - id: 19
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reporting_party
+      label: Reporting Party
+      hint: null
+      type: text
+      options: []
+      required: false

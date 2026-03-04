@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: mummy_and_me_contract
+    pages:
+    - id: 1
+      name: mummy_and_me_contract_form_data
+      label: Mummy &amp; Me Contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: customer_nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_nationality_list
+      label: Nationality List
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: customer_nationality_details
+      label: Nationality Details
+      hint: null
+      type: text
+      options: []
+      required: false

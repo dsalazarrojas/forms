@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: hardware_inventory_checklist_form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hardware_type
+      label: hardware_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: serial_number
+      label: serial_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: model_number
+      label: model_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manufacturer
+      label: manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: asset_status
+      label: asset_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: asset_status_options
+      label: asset_status_options
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Available''}'
+      - '{''label'': ''Maintenance''}'
+      - '{''label'': ''In Use''}'
+      - '{''label'': ''In Transit''}'
+      - '{''label'': ''Retired''}'
+      required: false
+    - id: 9
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Edge Banding Checklist
+    pages:
+    - id: 1
+      name: inspection_1
+      label: Inspect Edge Banding
+      hint: null
+      type: select_one
+      options:
+      - Edge Banding
+      - Not Inspected
+      - No Edge Banding
+      required: true
+    - id: 2
+      name: edge_banding_condition
+      label: Edge Banding Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: inspection_area
+      label: Inspection Area
+      hint: null
+      type: select_one
+      options:
+      - Area 1
+      - Area 2
+      - Area 3
+      required: true
+    - id: 4
+      name: edge_banding_status
+      label: Edge Banding Status
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_inspection
+      label: Time of Inspection
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: inspection_result
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: operator_signature
+      label: Operator Signature
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: select_one
+      options:
+      - Comments
+      - Other
+      required: false
+    - id: 13
+      name: edge_banding_comments
+      label: Edge Banding Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: edge_banding_checklist
+      label: Edge Banding Checklist
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: true

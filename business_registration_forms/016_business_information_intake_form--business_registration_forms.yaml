@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Information Intake Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Business Intake --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company name
+      hint: Legal trading name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: registration_number
+      label: Registration number
+      hint: Business registration or tax id
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: primary_contact
+      label: Primary contact name
+      hint: Person responsible for onboarding
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: Official email for communications
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_address
+      label: Business address
+      hint: Headquarters or mailing address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry_sector
+      label: Industry sector
+      hint: Primary industry of operation
+      type: select_one
+      options:
+      - Retail
+      - Manufacturing
+      - Services
+      - Technology
+      - Other
+      required: true
+    - id: 9
+      name: number_of_employees
+      label: Number of employees
+      hint: Approximate headcount
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: website
+      label: Website
+      hint: Company website URL if available
+      type: text
+      options: []
+      required: false

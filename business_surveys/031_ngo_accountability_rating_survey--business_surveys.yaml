@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Accountability Rating Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transparency
+      label: transparency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: engagement
+      label: engagement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accountability
+      label: accountability
+      hint: null
+      type: select_one
+      options:
+      - NGO Accountability Practices
+      - Stakeholder Engagement
+      required: false
+    - id: 5
+      name: ratings
+      label: ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: ratings_ngo_transparency
+      label: ngo_transparency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ratings_ngo_accountability
+      label: ngo_accountability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: ratings_ngo_engagement
+      label: ngo_engagement
+      hint: null
+      type: number
+      options: []
+      required: false

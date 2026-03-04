@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: rural_urban_migration_survey
+    pages:
+    - id: 1
+      name: migration_reasons
+      label: migration_reasons
+      hint: null
+      type: select_one
+      options:
+      - Financial reasons
+      - Job opportunities
+      - Family reasons
+      - Healthcare reasons
+      - Educational reasons
+      - Personal reasons
+      required: false
+    - id: 2
+      name: settlement_plans
+      label: settlement_plans
+      hint: null
+      type: select_multiple
+      options:
+      - Urban
+      - Rural
+      required: false
+    - id: 3
+      name: migration_challenges
+      label: migration_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Language barrier
+      - Job opportunities
+      - Housing difficulties
+      - Financial difficulties
+      - Safety and security concerns
+      required: false
+    - id: 4
+      name: settlement_duration
+      label: settlement_duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: settlement_time
+      label: settlement_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: migration_distance
+      label: migration_distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: migration_duration
+      label: migration_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: settlement_costs
+      label: settlement_costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: migration_challenges_reasons
+      label: migration_challenges_reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: settlement_plans_details
+      label: settlement_plans_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: migration_reasons_details
+      label: migration_reasons_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: settlement_costs_details
+      label: settlement_costs_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: note
+      hint: Enter any additional comments
+      type: note
+      options: []
+      required: false

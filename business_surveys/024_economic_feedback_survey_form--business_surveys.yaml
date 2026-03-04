@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Economic Feedback Survey Form
+    pages:
+    - id: 1
+      name: economic_conditions
+      label: economic_conditions
+      hint: This section covers economic conditions
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: priorities
+      label: Priorities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: outlook
+      label: Outlook
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: economic_priority_1
+      label: Economic Priority 1
+      hint: null
+      type: select_one
+      options:
+      - Economic Priority 1
+      - Economic Priority 2
+      - Economic Priority 3
+      required: true
+    - id: 9
+      name: economic_priority_2
+      label: Economic Priority 2
+      hint: null
+      type: text
+      options: []
+      required: true

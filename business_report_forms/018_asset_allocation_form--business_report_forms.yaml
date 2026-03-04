@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Allocation Form
+    pages:
+    - id: 1
+      name: investor_name
+      label: Investor Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: investor_id
+      label: Investor ID or Account Number
+      hint: Account identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: For age verification
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: investment_experience
+      label: Investment Experience
+      hint: How experienced are you
+      type: select_one
+      options:
+      - Beginner - New to Investing
+      - Intermediate - Some Experience
+      - Advanced - Very Experienced
+      - Professional - Expert Level
+      required: true
+    - id: 7
+      name: investment_objective
+      label: Primary Investment Objective
+      hint: What is your goal
+      type: select_one
+      options:
+      - Capital Preservation
+      - Income Generation
+      - Balanced Growth
+      - Aggressive Growth
+      - Speculation
+      required: true
+    - id: 8
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: How much risk can you accept
+      type: select_one
+      options:
+      - Conservative - Low Risk
+      - Moderate - Medium Risk
+      - Aggressive - High Risk
+      - Very Aggressive - Very High Risk
+      required: true
+    - id: 9
+      name: investment_timeframe
+      label: Investment Timeframe
+      hint: How long will you invest
+      type: select_one
+      options:
+      - Short Term - Less than 3 years
+      - Medium Term - 3 to 10 years
+      - Long Term - 10 to 20 years
+      - Very Long Term - Over 20 years
+      required: true
+    - id: 10
+      name: total_investment_amount
+      label: Total Investment Amount
+      hint: Amount to invest in dollars
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: stocks_percentage
+      label: Stocks Allocation Percentage
+      hint: Percent in stocks
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: bonds_percentage
+      label: Bonds Allocation Percentage
+      hint: Percent in bonds
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: cash_percentage
+      label: Cash Allocation Percentage
+      hint: Percent in cash equivalents
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: real_estate_percentage
+      label: Real Estate Allocation Percentage
+      hint: Percent in real estate
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: alternatives_percentage
+      label: Alternatives Allocation Percentage
+      hint: Percent in alternative investments
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: geographic_preference
+      label: Geographic Preference
+      hint: Where to invest
+      type: select_one
+      options:
+      - Domestic Only
+      - International Developed
+      - Emerging Markets
+      - Global Diversified
+      required: true
+    - id: 17
+      name: sector_preferences
+      label: Sector Preferences
+      hint: Preferred sectors
+      type: select_multiple
+      options:
+      - Technology
+      - Healthcare
+      - Financial Services
+      - Consumer Goods
+      - Energy
+      - Utilities
+      - Real Estate
+      - No Preference
+      required: false
+    - id: 18
+      name: income_needed
+      label: Do You Need Regular Income
+      hint: From investments
+      type: select_one
+      options:
+      - Yes - Primary Income Source
+      - Yes - Supplemental Income
+      - No - Reinvest All
+      required: true
+    - id: 19
+      name: tax_considerations
+      label: Tax Considerations
+      hint: Any tax concerns
+      type: select_one
+      options:
+      - Tax-Advantaged Accounts Only
+      - Taxable Accounts
+      - Tax Loss Harvesting Needed
+      - No Specific Concerns
+      required: false
+    - id: 20
+      name: liquidity_needs
+      label: Liquidity Needs
+      hint: How soon might you need money
+      type: select_one
+      options:
+      - High - Need Access Within 1 Year
+      - Medium - May Need in 1-5 Years
+      - Low - Won't Need for 5+ Years
+      required: true
+    - id: 21
+      name: existing_portfolio
+      label: Do You Have Existing Investments
+      hint: Current holdings
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: existing_portfolio_value
+      label: Existing Portfolio Value
+      hint: Approximate value
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: advisor_name
+      label: Financial Advisor Name
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: allocation_review_date
+      label: Next Review Date
+      hint: When to review allocation
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: investor_signature
+      label: Investor Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: advisor_signature
+      label: Advisor Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: false

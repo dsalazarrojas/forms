@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Daily Activity Log
+    pages:
+      - id: 1
+        name: caregiver_name
+        label: Caregiver Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: client_name
+        label: Client or Patient Name
+        hint: Person being cared for
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: log_date
+        label: Date of Log Entry
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: shift_start_time
+        label: Shift Start Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: shift_end_time
+        label: Shift End Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 6
+        name: overall_condition
+        label: Client Overall Condition
+        hint: General health and status for the day
+        type: select_one
+        options:
+          - Excellent - no concerns
+          - Good - routine day
+          - Fair - some concerns noted
+          - Poor - significant concerns
+          - Emergency - immediate attention needed
+        required: true
+      - id: 7
+        name: morning_routine
+        label: Morning Care and Hygiene
+        hint: Bathing, grooming, dressing, toileting
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: breakfast
+        label: Breakfast and Nutrition
+        hint: What was eaten, appetite level, concerns
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: medications_given
+        label: Medications Administered
+        hint: List medications given and times
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: medication_side_effects
+        label: Any Medication Side Effects or Concerns?
+        hint: Reactions or issues with medications
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: lunch
+        label: Lunch and Fluid Intake
+        hint: What was eaten/drunk, appetite
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: activities_engagement
+        label: Activities and Engagement
+        hint: Recreation, exercise, mental stimulation
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: social_interaction
+        label: Social Interaction and Mood
+        hint: Interactions with others, emotional state
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: toileting_bowel
+        label: Toileting - Bowel and Bladder
+        hint: Frequency, any concerns or changes
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: ambulation_mobility
+        label: Ambulation and Mobility
+        hint: Walking, transfers, any difficulties
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: falls_incidents
+        label: Falls or Incidents
+        hint: Any falls, injuries, or safety concerns
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: sleep_rest
+        label: Sleep and Rest
+        hint: Quality of sleep, rest periods
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: dinner_evening
+        label: Dinner and Evening Care
+        hint: Evening meal, evening routines
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: vital_signs
+        label: Vital Signs or Health Measurements
+        hint: Blood pressure, temperature, weight changes
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: skin_condition
+        label: Skin Condition and Wound Care
+        hint: Pressure sores, wounds, healing progress
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: emotional_behavioral
+        label: Emotional or Behavioral Concerns
+        hint: Mood changes, anxiety, confusion, agitation
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: pain_discomfort
+        label: Pain or Discomfort Reported
+        hint: Location, intensity, what helped
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: communication_status
+        label: Communication and Comprehension
+        hint: Ability to communicate, understanding level
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: family_interaction
+        label: Family Visits or Contact
+        hint: Who visited, interactions, any messages
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: medical_visits
+        label: Medical Appointments or Provider Visits
+        hint: Doctor visits, specialist appointments
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: tasks_completed
+        label: Tasks Completed Today
+        hint: Therapies, exercises, medical procedures
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: tasks_pending
+        label: Tasks or Items Needing Attention
+        hint: What still needs to be done or addressed
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: concerns_issues
+        label: Concerns or Issues to Report
+        hint: Anything requiring follow-up or attention
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: communication_next_shift
+        label: Communication for Next Shift
+        hint: Important information for incoming caregiver
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: additional_notes
+        label: Additional Notes or Observations
+        hint: Anything else important to document
+        type: text
+        options: []
+        required: false

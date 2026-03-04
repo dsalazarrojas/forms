@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment And Income Calculator
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: calculate
+      label: Calculate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: risk_score
+      label: Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: calculated_risk_score
+      label: Calculated Risk Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: risk_score_range
+      label: Risk Score Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: calculated_risk_score_range
+      label: Calculated Risk Score Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: risk_remarks
+      label: Risk Remarks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: calculated_risk_remarks
+      label: Calculated Risk Remarks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: risk_score_band
+      label: Risk Score Band
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: calculated_risk_score_band
+      label: Calculated Risk Score Band
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: calculated_risk_score_band_range
+      label: Calculated Risk Score Band Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: risk_score_band_description
+      label: Risk Score Band Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: calculated_risk_score_band_description
+      label: Calculated Risk Score Band Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: risk_assessment_band_description
+      label: Risk Assessment Band Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: calculated_risk_assessment_band_description
+      label: Calculated Risk Assessment Band Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: calculated_risk_assessment
+      label: Calculated Risk Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_assessment_band
+      label: Risk Assessment Band
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: calculated_risk_assessment_band
+      label: Calculated Risk Assessment Band
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: calculated_risk_assessment_band_range
+      label: Calculated Risk Assessment Band Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: calculated_risk_assessment_range
+      label: Calculated Risk Assessment Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

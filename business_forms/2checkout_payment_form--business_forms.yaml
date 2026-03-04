@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2Checkout Payment Form
+    pages:
+    - id: 1
+      name: section_header_payment
+      label: "--- Payment Details (Verifone / 2Checkout) ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer full name
+      hint: Enter the name on the billing information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer email
+      hint: Receipt will be sent to this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Customer phone number
+      hint: Include country code if outside the US
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: billing_address
+      label: Billing address
+      hint: Street, city, postal code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_description
+      label: Product or service description
+      hint: Short description for the transaction
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: invoice_number
+      label: Invoice or order number
+      hint: Optional internal reference
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: amount
+      label: Payment amount
+      hint: Enter total amount (numeric)
+      type: decimal
+      options: []
+      required: true
+    - id: 9
+      name: currency
+      label: Currency
+      hint: Select transaction currency
+      type: select_one
+      options:
+        - USD
+        - EUR
+        - GBP
+        - CAD
+        - AUD
+      required: true
+    - id: 10
+      name: payment_method
+      label: Payment method
+      hint: Verifone terminals typically used for in-person card capture
+      type: select_one
+      options:
+        - Card (tokenized)
+        - Apple Pay
+        - Google Pay
+        - Verifone Terminal
+        - ACH / Bank Transfer
+      required: true
+    - id: 11
+      name: verifone_terminal_id
+      label: Verifone terminal ID (if used)
+      hint: Terminal identifier provided by merchant
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transaction_date
+      label: Transaction date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: customer_notes
+      label: Additional notes for the order
+      hint: Optional instructions or references
+      type: text
+      options: []
+      required: false

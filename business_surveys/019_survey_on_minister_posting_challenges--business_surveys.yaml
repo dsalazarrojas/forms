@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survey On Minister Posting Challenges
+    pages:
+    - id: 1
+      name: minuter_experience
+      label: Minister experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: common_challenges
+      label: Common Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: uncommon_challenges
+      label: Uncommon Challenges
+      hint: Please list specific challenges.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: needed_support
+      label: Needed Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: posting_experiences
+      label: Posting Experiences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: posting_frequency
+      label: Posting Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: posting_location
+      label: Posting Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: posting_time_of_day
+      label: Posting Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: posting_day_of_week
+      label: Posting Day of Week
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: posting_month_of_year
+      label: Posting Month of Year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: posting_time_of_week
+      label: Posting Time of Week
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business School Advisory Committee Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Full Name
+      hint: Name of advisory committee member
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_title
+      label: Your Title or Position
+      hint: Your role or position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization Name
+      hint: Your affiliated organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: committee_tenure
+      label: Years on Advisory Committee
+      hint: How long have you served
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: survey_date
+      label: Survey Completion Date
+      hint: Date of this survey
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: curriculum_relevance
+      label: Curriculum Relevance to Industry
+      hint: How relevant is the curriculum
+      type: select_one
+      options:
+      - Highly Relevant
+      - Relevant
+      - Adequately Relevant
+      - Somewhat Outdated
+      - Outdated
+      required: true
+    - id: 7
+      name: skill_development
+      label: Graduate Skill Development
+      hint: Are graduates well-prepared
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 8
+      name: faculty_qualifications
+      label: Faculty Qualifications and Expertise
+      hint: Assessment of faculty quality
+      type: select_one
+      options:
+      - Outstanding
+      - Excellent
+      - Good
+      - Adequate
+      - Below Average
+      required: true
+    - id: 9
+      name: industry_connections
+      label: Industry Connections and Partnerships
+      hint: Strength of school-industry relationships
+      type: select_one
+      options:
+      - Very Strong
+      - Strong
+      - Adequate
+      - Weak
+      - Very Weak
+      required: true
+    - id: 10
+      name: program_competitiveness
+      label: Program Competitiveness
+      hint: How competitive is the program
+      type: select_one
+      options:
+      - Highly Competitive
+      - Very Competitive
+      - Competitive
+      - Somewhat Competitive
+      - Not Competitive
+      required: true
+    - id: 11
+      name: student_engagement
+      label: Student Engagement Level
+      hint: Are students well-engaged
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 12
+      name: student_outcomes
+      label: Student Employment Outcomes
+      hint: Success of graduate placement
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: technology_integration
+      label: Technology Integration in Curriculum
+      hint: How well is technology incorporated
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Needs Work
+      - Inadequate
+      required: true
+    - id: 14
+      name: program_strengths
+      label: Program Strengths
+      hint: What are the main strengths
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What needs to be improved
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: curriculum_recommendations
+      label: Curriculum Recommendations
+      hint: Suggested changes to curriculum
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: industry_trends
+      label: Important Industry Trends to Address
+      hint: Emerging topics the program should cover
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: advisory_effectiveness
+      label: Advisory Committee Effectiveness
+      hint: How effective is the committee
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Minimally Effective
+      - Ineffective
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Any other feedback or suggestions
+      type: text
+      options: []
+      required: false

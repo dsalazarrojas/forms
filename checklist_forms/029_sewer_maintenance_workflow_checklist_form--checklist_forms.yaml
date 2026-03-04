@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sewer Maintenance Workflow Checklist Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_orders
+      label: Work Orders
+      hint: null
+      type: select_multiple
+      options:
+      - Order Number
+      - Order Date
+      - Order Type
+      required: true
+    - id: 3
+      name: site_checks
+      label: Site Checks
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Abnormal
+      required: false
+    - id: 4
+      name: safety_reviews
+      label: Safety Reviews
+      hint: null
+      type: select_multiple
+      options:
+      - Review Type
+      - Review Date
+      - Review Result
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_created
+      label: Time Created
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: date_updated
+      label: Date Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time_updated
+      label: Time Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: user_created
+      label: User Created
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 14
+      name: user_updated
+      label: User Updated
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: files_uploaded
+      label: Files Uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - File 1
+      - File 2
+      - File 3
+      required: true
+    - id: 18
+      name: files_link
+      label: Files Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: file_uploaded_date
+      label: File Uploaded Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: file_uploaded_time
+      label: File Uploaded Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tags2
+      label: Tags2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: files_link2
+      label: Files Link 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: file_uploaded_date2
+      label: File Uploaded Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: file_uploaded_time2
+      label: File Uploaded Time 2
+      hint: null
+      type: time
+      options: []
+      required: false

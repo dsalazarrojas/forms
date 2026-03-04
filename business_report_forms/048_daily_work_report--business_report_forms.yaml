@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Work Report
+    pages:
+    - id: 1
+      name: daily_work_report
+      label: Work Summary
+      hint: Describe your work activities
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_summary
+      label: Work Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Your work email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: prophets phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned prophets
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Jane
+      - John
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other comments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_status
+      label: Work Status
+      hint: Active
+      type: select_multiple
+      options:
+      - -ประก Active - "Inactive" - "Vacation"
+      - Other
+      required: false
+    - id: 11
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Smith
+      - Jim Smith
+      required: false

@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Support Workshop Evaluation
+    pages:
+      - id: 1
+        name: session_header
+        label: -- Workshop Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: participant_name
+        label: Participant name
+        hint: Full name of attendee
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: organization
+        label: Organization or group
+        hint: Optional employer or community group
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: workshop_date
+        label: Workshop date
+        hint: Date of the workshop attended
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: overall_rating
+        label: Overall rating
+        hint: Rate the workshop quality
+        type: select_one
+        options: [Very poor, Poor, Fair, Good, Very good]
+        required: true
+      - id: 6
+        name: topics_most_useful
+        label: Topics that were most useful
+        hint: Select all that apply
+        type: select_multiple
+        options: [Care strategies, Self care, Communication, Community resources, Legal guidance]
+        required: false
+      - id: 7
+        name: facilitator_effectiveness
+        label: Facilitator effectiveness
+        hint: How well did the facilitator present material
+        type: select_one
+        options: [Not effective, Somewhat effective, Effective, Very effective]
+        required: true
+      - id: 8
+        name: most_valuable_takeaway
+        label: Most valuable takeaway
+        hint: Briefly describe one key point you will use
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: suggestions_for_improvement
+        label: Suggestions for improvement
+        hint: Ideas for future workshops or logistics
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: would_recommend
+        label: Would recommend to other caregivers
+        hint: Yes or no response
+        type: select_one
+        options: [Yes, No]
+        required: true

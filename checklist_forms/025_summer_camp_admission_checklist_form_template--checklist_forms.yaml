@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Admission Checklist Form Template
+    pages:
+    - id: 1
+      name: summer_camp_admission_checklist
+      label: Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: camp_name
+      label: Camp Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: camp_hours
+      label: Camp Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: camper_hours
+      label: Camper Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_first_name
+      label: Emergency Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_last_name
+      label: Emergency Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: allergies
+      label: Allergies
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Online Payment
+      required: true
+    - id: 18
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      required: true
+    - id: 19
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: camp_address
+      label: Camp Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: camper_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: camper_gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 23
+      name: camper_diet
+      label: Diet
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Non-Vegetarian
+      required: true
+    - id: 24
+      name: camper_medication
+      label: Medication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: camper_medication_notes
+      label: Medication Notes
+      hint: null
+      type: note
+      options: []
+      required: false

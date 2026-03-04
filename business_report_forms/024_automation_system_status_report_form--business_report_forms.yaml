@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation System Status Report Form
+    pages:
+    - id: 1
+      name: section_header_reporting
+      label: -- Reporting Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_period
+      label: Reporting Period
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 4
+      name: reporting_team
+      label: Reporting Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_system
+      label: -- System Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: system_name
+      label: Automation System Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: system_version
+      label: System Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: system_environment
+      label: Environment
+      hint: null
+      type: select_one
+      options:
+      - Production
+      - Staging
+      - Development
+      - Testing
+      required: true
+    - id: 9
+      name: section_header_status
+      label: -- System Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: overall_status
+      label: Overall System Status
+      hint: null
+      type: select_one
+      options:
+      - Operational
+      - Degraded
+      - Warning
+      - Critical
+      - Maintenance
+      required: true
+    - id: 11
+      name: uptime_percentage
+      label: Uptime Percentage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: availability_hours
+      label: Available Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_performance
+      label: -- Performance Metrics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: average_response_time
+      label: Average Response Time (milliseconds)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: peak_load_time
+      label: Peak Load Time (milliseconds)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: cpu_usage
+      label: Average CPU Usage (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: memory_usage
+      label: Average Memory Usage (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: error_rate
+      label: Error Rate (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_header_incidents
+      label: -- Incidents and Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: incidents_reported
+      label: Number of Incidents Reported
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: critical_incidents
+      label: Critical Incidents
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: incident_summary
+      label: Incident Summary
+      hint: Brief description of major issues
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_maintenance
+      label: -- Maintenance and Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: maintenance_performed
+      label: Maintenance Performed This Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: planned_maintenance
+      label: Planned Maintenance for Next Period
+      hint: null
+      type: text
+      options: []
+      required: false

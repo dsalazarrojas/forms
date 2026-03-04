@@ -1,0 +1,339 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Scheduling Feedback Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: -- Building Maintenance Scheduling Feedback Survey --
+        hint: Help us improve our maintenance scheduling process
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: department_area
+        label: Department or area
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: recent_maintenance
+        label: -- Recent Maintenance Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: had_maintenance
+        label: Did you have maintenance scheduled recently?
+        hint: null
+        type: select_one
+        options:
+          - Yes, within last month
+          - Yes, 1-3 months ago
+          - Yes, 3-6 months ago
+          - No recent maintenance
+          - Not applicable
+        required: true
+      - id: 7
+        name: maintenance_type
+        label: Type of maintenance
+        hint: null
+        type: select_one
+        options:
+          - HVAC service
+          - Plumbing repair
+          - Electrical work
+          - Cleaning
+          - Equipment replacement
+          - General maintenance
+          - Emergency repair
+          - Other
+        required: false
+      - id: 8
+        name: scheduling_experience
+        label: -- Scheduling Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: scheduling_ease
+        label: How easy was scheduling the maintenance?
+        hint: null
+        type: select_one
+        options:
+          - Very easy - Online or quick call
+          - Easy - Simple process
+          - Acceptable - Some hassle
+          - Difficult - Confusing process
+          - Very difficult - Frustrating
+        required: true
+      - id: 10
+        name: scheduling_method
+        label: How did you schedule the maintenance?
+        hint: null
+        type: select_one
+        options:
+          - Online portal
+          - Phone call
+          - Email request
+          - In-person request
+          - Text message
+          - Other
+        required: true
+      - id: 11
+        name: communication_quality
+        label: Quality of communication about scheduling
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Clear and timely
+          - Good - Adequate communication
+          - Adequate - Basic information
+          - Poor - Insufficient information
+          - Very poor - Confusing/unclear
+        required: true
+      - id: 12
+        name: notification_timeliness
+        label: Timeliness of notification
+        hint: How much advance notice did you get?
+        type: select_one
+        options:
+          - Excellent - 2+ weeks notice
+          - Good - 1-2 weeks notice
+          - Adequate - Several days notice
+          - Poor - Last minute notice
+          - Emergency - No advance notice
+        required: true
+      - id: 13
+        name: appointment_timing
+        label: -- Appointment Timing --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: time_slot_options
+        label: Were flexible time slot options available?
+        hint: null
+        type: select_one
+        options:
+          - Yes, many options
+          - Yes, some options
+          - Limited options
+          - No flexibility
+          - Only one time offered
+        required: true
+      - id: 15
+        name: time_window
+        label: Time window for appointment
+        hint: null
+        type: select_one
+        options:
+          - Specific time promised
+          - 1-2 hour window
+          - 2-4 hour window
+          - 4+ hour window
+          - All day notice
+          - Uncertain time
+        required: true
+      - id: 16
+        name: time_met
+        label: Did technician arrive at promised time?
+        hint: null
+        type: select_one
+        options:
+          - Yes, on time
+          - Yes, within 15 minutes
+          - Yes, within 30 minutes
+          - No, 30-60 minutes late
+          - No, more than 1 hour late
+          - Not applicable
+        required: false
+      - id: 17
+        name: time_window_preference
+        label: Preferred time for maintenance
+        hint: null
+        type: select_one
+        options:
+          - Early morning (6-9am)
+          - Late morning (9am-12pm)
+          - Early afternoon (12-3pm)
+          - Late afternoon (3-6pm)
+          - Evening (after 6pm)
+          - Flexible
+          - After hours preferred
+        required: true
+      - id: 18
+        name: frequency_scheduling
+        label: -- Scheduling Frequency --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: disruption_level
+        label: Level of disruption caused by scheduling
+        hint: null
+        type: select_one
+        options:
+          - No disruption - scheduled well
+          - Minimal disruption
+          - Moderate disruption
+          - Significant disruption
+          - Very disruptive
+        required: true
+      - id: 20
+        name: schedule_advance_notice
+        label: Ideal advance notice for scheduling
+        hint: null
+        type: select_one
+        options:
+          - 1-2 days
+          - 1 week
+          - 2 weeks
+          - 1 month
+          - As soon as possible
+          - Flexible
+        required: true
+      - id: 21
+        name: frequency_preference
+        label: Preference for maintenance frequency notifications
+        hint: null
+        type: select_one
+        options:
+          - All maintenance notified
+          - Only routine maintenance
+          - Emergency only
+          - Grouped notifications
+          - Flexible - depends on situation
+        required: true
+      - id: 22
+        name: satisfaction
+        label: -- Overall Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: overall_satisfaction
+        label: Overall satisfaction with scheduling process
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 24
+        name: would_recommend
+        label: Would you recommend current scheduling process?
+        hint: null
+        type: select_one
+        options:
+          - Yes, strongly recommend
+          - Yes, would recommend
+          - Neutral
+          - Would not recommend
+          - Would strongly discourage
+        required: true
+      - id: 25
+        name: improvements
+        label: -- Suggested Improvements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 26
+        name: main_issues
+        label: Main issues with scheduling process
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: improvement_suggestions
+        label: Suggestions for scheduling improvements
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 28
+        name: desired_changes
+        label: What would make scheduling better?
+        hint: null
+        type: select_multiple
+        options:
+          - More advance notice
+          - More time slot options
+          - Earlier scheduling availability
+          - Online scheduling system
+          - Same-day scheduling option
+          - Better communication
+          - Shorter service windows
+          - More convenient times
+          - Emergency scheduling
+          - Other
+        required: false
+      - id: 29
+        name: technology_interest
+        label: Interest in online scheduling system
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Interested
+          - Neutral
+          - Not interested
+          - Prefer phone contact
+        required: false
+      - id: 30
+        name: automation_preferences
+        label: Preferred notification methods
+        hint: null
+        type: select_multiple
+        options:
+          - Email
+          - Text message
+          - Phone call
+          - In-person notice
+          - Online portal
+          - Calendar reminder
+          - Other
+        required: false
+      - id: 31
+        name: additional_feedback
+        label: Additional feedback or comments
+        hint: null
+        type: text
+        options: []
+        required: false

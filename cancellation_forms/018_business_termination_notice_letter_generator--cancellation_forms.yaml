@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Termination Notice Letter Generator
+    pages:
+    - id: 1
+      name: sender_company_name
+      label: Your Company Name
+      hint: Name of the company sending the termination notice
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sender_address
+      label: Your Company Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sender_city_state
+      label: City, State, Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sender_contact_person
+      label: Contact Person Name
+      hint: Name of the person signing the letter
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sender_title
+      label: Contact Person Title
+      hint: Position or title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sender_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: sender_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recipient_company_name
+      label: Recipient Company or Vendor Name
+      hint: Name of the company being notified
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: recipient_contact_person
+      label: Recipient Contact Person Name
+      hint: Name of person to receive the notice
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recipient_address
+      label: Recipient Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: recipient_city_state
+      label: City, State, Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: agreement_type
+      label: Type of Agreement Being Terminated
+      hint: What is being terminated?
+      type: select_one
+      options:
+      - Service Agreement
+      - Vendor Contract
+      - Employment Agreement
+      - Lease Agreement
+      - Partnership Agreement
+      - Subscription or Membership
+      - Distribution Agreement
+      - Other Business Agreement
+      required: true
+    - id: 13
+      name: agreement_date
+      label: Original Agreement Date
+      hint: When was the original agreement signed?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: agreement_number
+      label: Agreement or Contract Number
+      hint: Reference number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: termination_date
+      label: Termination Effective Date
+      hint: When should the termination take effect?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: notice_period
+      label: Notice Period Given
+      hint: How many days or weeks notice?
+      type: select_one
+      options:
+      - Immediate
+      - 1 week
+      - 2 weeks
+      - 30 days
+      - 60 days
+      - 90 days
+      - Custom
+      required: true
+    - id: 17
+      name: termination_reason
+      label: Reason for Termination
+      hint: Brief explanation of why terminating
+      type: select_one
+      options:
+      - Business needs changed
+      - Performance issues
+      - Cost reduction
+      - Consolidation with other vendor
+      - End of business relationship
+      - Breach of contract
+      - Mutual agreement
+      - Other reason
+      required: true
+    - id: 18
+      name: termination_reason_details
+      label: Additional Details About Termination
+      hint: Further explanation or context
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: final_payment_details
+      label: Outstanding Payment Information
+      hint: Any final payments or settlements needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_terms
+      label: Additional Terms or Conditions
+      hint: Transition plans, return of materials, etc.
+      type: text
+      options: []
+      required: false

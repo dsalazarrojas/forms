@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Non Payment Information Survey
+    pages:
+    - id: 1
+      name: non_payment_reason
+      label: non_payment_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: non_payment_amount
+      label: non_payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: non_payment_frequency
+      label: non_payment_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 4
+      name: non_payment_method
+      label: non_payment_method
+      hint: null
+      type: select_one
+      options:
+      - Bank transfer
+      - Credit card
+      - Cheque
+      required: false
+    - id: 5
+      name: non_payment_service
+      label: non_payment_service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: non_payment_frequency_other
+      label: non_payment_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: non_payment_refund
+      label: non_payment_refund
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: non_payment_refund_status
+      label: non_payment_refund_status
+      hint: null
+      type: select_one
+      options:
+      - Applied
+      - In progress
+      - Not applied
+      required: false
+    - id: 9
+      name: non_payment_refund_amount
+      label: non_payment_refund_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: non_payment_other_info
+      label: non_payment_other_info
+      hint: null
+      type: text
+      options: []
+      required: false

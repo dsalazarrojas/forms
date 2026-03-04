@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: girl_scout_product_permission_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_info
+      label: Product Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_price
+      label: Product Price Range
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than $50'', ''value'': 1}'
+      - '{''label'': ''$50-$100'', ''value'': 2}'
+      - '{''label'': ''Over $100'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: quantity
+      label: Product Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cookie'', ''value'': 1}'
+      - '{''label'': ''Candy'', ''value'': 2}'
+      - '{''label'': ''Beverage'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''14 day'', ''value'': 1}'
+      - '{''label'': ''28 day'', ''value'': 2}'
+      - '{''label'': ''30 day'', ''value'': 3}'
+      required: false

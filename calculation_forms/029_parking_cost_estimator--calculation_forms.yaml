@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: parking cost estimator
+    pages:
+    - id: 1
+      name: parking_fee
+      label: Parking Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: daily_parking_rate
+      label: Daily Parking Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: hourly_parking_rate
+      label: Hourly Parking Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parking_duration
+      label: Parking Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: parking_fee_calculated
+      label: Parking Fee (Calculated)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: parking_fee_total
+      label: Parking Fee Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: parking_rate_type
+      label: Parking Rate Type
+      hint: null
+      type: select_one
+      options:
+      - Daily Rate
+      - Hourly Rate
+      - Other
+      required: false
+    - id: 8
+      name: other_parking_rate_type
+      label: Other Parking Rate Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

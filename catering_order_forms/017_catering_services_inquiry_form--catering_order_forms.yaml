@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Services Inquiry Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_organization
+      label: Company or Organization
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_event_info
+      label: -- Event Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_type
+      label: Type of Event
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Graduation
+      - Retirement Party
+      - Conference
+      - Holiday Party
+      - Other
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: guest_count
+      label: Expected Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_catering_preferences
+      label: -- Catering Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cuisine_type
+      label: Preferred Cuisine Type
+      hint: null
+      type: select_one
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Asian
+      - Mediterranean
+      - Indian
+      - French
+      - Mixed
+      - No preference
+      required: true
+    - id: 13
+      name: service_style
+      label: Preferred Service Style
+      hint: null
+      type: select_one
+      options:
+      - Buffet
+      - Plated Service
+      - Family Style
+      - Cocktail Reception
+      - Stations
+      - Combination
+      - Not sure
+      required: true
+    - id: 14
+      name: dietary_needs
+      label: Special Dietary Needs or Restrictions
+      hint: Vegetarian, vegan, gluten-free, allergies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: budget_estimate
+      label: Budget Per Guest (if known)
+      hint: Approximate budget range
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_services
+      label: -- Additional Services --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: additional_services_interested
+      label: Interested in Additional Services?
+      hint: null
+      type: select_multiple
+      options:
+      - Bar Service
+      - Beverage Service
+      - Setup and Decorations
+      - Linens and Place Settings
+      - Cleanup Service
+      - Staffing
+      - Entertainment Coordination
+      - None
+      required: false
+    - id: 18
+      name: section_timing_details
+      label: -- Timing Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: section_priorities
+      label: -- Priorities & Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: top_priorities
+      label: Top Priorities for This Event
+      hint: null
+      type: select_multiple
+      options:
+      - Food Quality
+      - Variety of Options
+      - Cost Efficiency
+      - Professional Service
+      - Unique Menu Items
+      - Quick Service
+      - Sustainability
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Themes, special dishes, unique requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: inquiry_urgency
+      label: How soon do you need catering services?
+      hint: null
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - More than 3 months away
+      required: true
+    - id: 25
+      name: follow_up_consent
+      label: I consent to receive follow-up contact about catering services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

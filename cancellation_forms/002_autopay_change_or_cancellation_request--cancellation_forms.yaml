@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autopay Change Or Cancellation Request
+    pages:
+    - id: 1
+      name: account_holder_name
+      label: Account Holder Name
+      hint: Name on the billing account
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_number
+      label: Account Number
+      hint: Provide billing account or customer number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Email associated with the account
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Optional preferred contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_type
+      label: Request Type
+      hint: Choose whether to change payment method or cancel autopay
+      type: select_one
+      options:
+      - Change payment method
+      - Cancel autopay
+      - Pause autopay temporarily
+      required: true
+    - id: 6
+      name: effective_date
+      label: Effective Date
+      hint: Date the change or cancellation should take effect
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: new_payment_method
+      label: New Payment Method
+      hint: If changing, provide last four digits or method description
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: authorization_signature
+      label: Authorization Name
+      hint: Type full name to authorize the request
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any special instructions or comments
+      type: text
+      options: []
+      required: false

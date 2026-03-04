@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Data Visualization Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: data_type
+      label: data-type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: What do you think about the tools you use for data visualization?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

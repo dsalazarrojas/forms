@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CAHPS Cancer Care Drug Therapy Survey
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: Your medical record number
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: survey_date
+      label: Survey Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: treatment_start_date
+      label: Drug Therapy Start Date
+      hint: When did treatment begin
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: doctor_communication
+      label: Doctor Explained Treatment Plans Clearly
+      hint: Rate communication quality
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      - Unsure
+      required: true
+    - id: 5
+      name: side_effects_discussion
+      label: Doctor Discussed Possible Side Effects
+      hint: Were potential side effects explained
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      - Not Applicable
+      required: true
+    - id: 6
+      name: side_effects_management
+      label: Help Managing Side Effects Provided
+      hint: Did staff help with side effect management
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      - No side effects experienced
+      required: true
+    - id: 7
+      name: emotional_support
+      label: Emotional or Mental Health Support Available
+      hint: Access to psychological support
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      - Did not need
+      required: true
+    - id: 8
+      name: appointment_accessibility
+      label: Easy to Get Appointments
+      hint: Ease of scheduling
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 9
+      name: wait_times
+      label: Wait Times Were Reasonable
+      hint: Acceptable appointment delays
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 10
+      name: staff_courtesy
+      label: Staff Were Courteous and Respectful
+      hint: Staff professionalism
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 11
+      name: pain_management
+      label: Pain Management Addressed
+      hint: Were pain concerns addressed
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      - No pain experienced
+      required: true
+    - id: 12
+      name: care_coordination
+      label: Different Providers Coordinated Care Well
+      hint: Good care coordination
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      - Only one provider
+      required: true
+    - id: 13
+      name: information_about_condition
+      label: Received Information About Condition
+      hint: Educational materials provided
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 14
+      name: treatment_effectiveness
+      label: How Effective Was Treatment
+      hint: Overall treatment effectiveness
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Effective
+      - Too Soon to Tell
+      required: true
+    - id: 15
+      name: overall_rating
+      label: Overall Rating of Care
+      hint: Rate your care experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: recommend_to_others
+      label: Would You Recommend This Care
+      hint: Likelihood to recommend
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

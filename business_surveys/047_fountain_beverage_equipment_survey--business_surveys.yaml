@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: FOUNTAIN_BEVERAGE_EQUIPMENT_SURVEY
+    pages:
+    - id: 1
+      name: fountainequipmentpage_1
+      label: Equipment Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fountainingpage_2
+      label: Pump Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: fountainingpage_3
+      label: Pump Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: true
+    - id: 4
+      name: fountainingpage_4
+      label: Water Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: fountainingpage_5
+      label: Leaks
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 6
+      name: fountainingpage_6
+      label: Filter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: fountainingpage_7
+      label: Drain Check
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: fountainingpage_8
+      label: Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: fountainingpage_9
+      label: Next Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: fountainingpage_10
+      label: Last Maintenance
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: fountainingpage_11
+      label: Maintenance Due
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: fountainingpage_12
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true

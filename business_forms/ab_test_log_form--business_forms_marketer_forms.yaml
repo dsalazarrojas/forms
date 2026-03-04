@@ -1,0 +1,178 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AB Test Log Form
+    pages:
+    - id: 1
+      name: section_header_overview
+      label: '--- Test Overview ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Enter a work email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_or_team
+      label: Company or team name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_name
+      label: Test name / identifier
+      hint: Use a concise identifier (e.g., hero_button_red_vs_blue)
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: test_type
+      label: Test type
+      hint: Choose the experiment methodology
+      type: select_one
+      options:
+      - A/B test
+      - Multivariate test
+      - Split URL test
+      - Personalization
+      - Bandit
+      required: true
+    - id: 7
+      name: hypothesis
+      label: Hypothesis
+      hint: One-sentence hypothesis describing expected outcome
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_metrics
+      label: Primary metric(s)
+      hint: Select one or more metrics tracked to evaluate the test
+      type: select_multiple
+      options:
+      - Conversion rate
+      - Revenue per visitor
+      - Click-through rate
+      - Signup rate
+      - Engagement time
+      - Bounce rate
+      required: true
+    - id: 9
+      name: baseline_conversion_rate
+      label: Baseline conversion rate (%)
+      hint: Enter percentage as a decimal (e.g., 2.5)
+      type: decimal
+      options: []
+      required: true
+    - id: 10
+      name: expected_lift
+      label: Expected lift (%)
+      hint: Estimated relative improvement (e.g., 15 for 15%)
+      type: decimal
+      options: []
+      required: false
+    - id: 11
+      name: sample_size_required
+      label: Sample size required (per variant)
+      hint: null
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: test_start_date
+      label: Test start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: test_end_date
+      label: Test end date
+      hint: Leave blank if open-ended
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: variant_details
+      label: Variant details (brief)
+      hint: Describe each variant concisely (A, B, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: statistical_significance
+      label: Statistical significance status
+      hint: Indicate if target significance was achieved
+      type: select_one
+      options:
+      - Achieved
+      - Not achieved
+      - Inconclusive
+      - Pending
+      required: true
+    - id: 16
+      name: variant_conversion_rate
+      label: Winning variant conversion rate (%)
+      hint: Enter the observed conversion rate for the winning variant
+      type: decimal
+      options: []
+      required: false
+    - id: 17
+      name: priority
+      label: Business priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 18
+      name: implementation_plan
+      label: Implementation plan and next steps
+      hint: Describe rollout plan, owners, and deadlines
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: analytics_contact
+      label: Analytics contact email
+      hint: Person responsible for metric validation
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional comments or learnings
+      hint: Include context, surprises, and recommendations
+      type: text
+      options: []
+      required: false

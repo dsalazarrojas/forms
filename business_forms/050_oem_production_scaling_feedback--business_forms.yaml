@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: oem_production_scaling_feedback
+    pages:
+    - id: 1
+      name: oem_partner
+      label: oem_partner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: production_capacity
+      label: production_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: scaling_challenges
+      label: scaling_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Scaling Capacity
+      - Quality Issues
+      - Production Delays
+      required: false
+    - id: 4
+      name: support_needs
+      label: support_needs
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Scheduling
+      - Quality
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: oem_contact_info
+      label: oem_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partner_feedback
+      label: partner_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_contact_info
+      label: vendor_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

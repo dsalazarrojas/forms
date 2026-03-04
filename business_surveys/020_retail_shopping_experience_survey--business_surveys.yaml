@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_shopping_experience_survey
+    pages:
+    - id: 1
+      name: store_visit
+      label: Store Visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: staff_helpfulness
+      label: Staff Helpfulness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: product_quality
+      label: Product Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: return_policy
+      label: Return Policy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: store_atm
+      label: Store ATM
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: store_layout
+      label: Store Layout
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: staff_friendly
+      label: Staff Friendly
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: product_selection
+      label: Product Selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

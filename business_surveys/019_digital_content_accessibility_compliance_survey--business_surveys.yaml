@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Content Accessibility Compliance Survey
+    pages:
+    - id: 1
+      name: form_submission_details
+      label: Form Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Technology Surveys'', ''value'': 1}'
+      - '{''name'': ''Business Surveys'', ''value'': 2}'
+      required: false
+    - id: 3
+      name: form_type
+      label: Form Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Compliance Survey'', ''value'': 1}'
+      - '{''name'': ''Access Survey'', ''value'': 2}'
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: accessibility_compliance_checklist
+      label: Accessibility Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''A11y'', ''value'': 1}'
+      - '{''name'': ''WCAG 2.1'', ''value'': 2}'
+      - '{''name'': ''PDF'', ''value'': 3}'
+      required: false
+    - id: 6
+      name: accessibility_practice
+      label: Accessibility Practice
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Automated'', ''value'': 1}'
+      - '{''name'': ''Manual'', ''value'': 2}'
+      required: false
+    - id: 7
+      name: accessibility_standards
+      label: Accessibility Standards
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''WAI-WCAG 2.1 Checklist of the Web Content'', ''value'': 1}'
+      - '{''name'': ''PDF/UA'', ''value'': 2}'
+      - '{''name'': ''EN 301 319 4 V 1'', ''value'': 3}'
+      required: false
+    - id: 8
+      name: date_of_last_review
+      label: Date of Last Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_review_date_checked
+      label: Last Review Date Checked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_reviewer
+      label: Last Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accessibility_comments
+      label: Accessibility Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submission_status
+      label: Form Submission Status
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Published'', ''value'': 1}'
+      - '{''name'': ''Unpublished'', ''value'': 2}'
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitter_email
+      label: Submitter E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: text
+      options: []
+      required: false

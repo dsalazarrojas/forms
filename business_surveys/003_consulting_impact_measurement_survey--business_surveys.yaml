@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Impact Measurement Survey
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: Enter your name or company name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: engagement_period
+        label: Engagement Period
+        hint: Month and year when the project took place
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: project_consultant
+        label: Project Consultant
+        hint: Who was your primary contact?
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: section_performance
+        label: -- Consultant Performance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: rating_professionalism
+        label: Professionalism and Communication
+        hint: Rate from 1 to 5
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Excellent
+        required: true
+      - id: 6
+        name: rating_expertise
+        label: Industry Knowledge and Expertise
+        hint: Rate from 1 to 5
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Excellent
+        required: true
+      - id: 7
+        name: rating_timeliness
+        label: Timeliness and Deadlines
+        hint: Rate from 1 to 5
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Excellent
+        required: true
+      - id: 8
+        name: section_impact
+        label: -- Project Impact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: primary_outcome
+        label: Primary Project Outcome
+        hint: What was the main result achieved?
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: impact_on_efficiency
+        label: Impact on Operational Efficiency
+        hint: How much did efficiency improve?
+        type: select_one
+        options:
+          - No Change
+          - 1% to 10%
+          - 11% to 25%
+          - More than 25%
+        required: true
+      - id: 11
+        name: impact_on_revenue
+        label: Impact on Company Revenue
+        hint: Did revenue increase as a result?
+        type: select_one
+        options:
+          - No Change
+          - Minor Increase
+          - Moderate Increase
+          - Significant Increase
+        required: true
+      - id: 12
+        name: net_promoter_score
+        label: Likelihood to Recommend
+        hint: Would you recommend our services to others?
+        type: select_one
+        options:
+          - 0 - Not at all likely
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5 - Neutral
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10 - Extremely likely
+        required: true
+      - id: 13
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could we have done better?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: future_needs
+        label: Future Consulting Needs
+        hint: What other areas would you like help with?
+        type: select_multiple
+        options:
+          - Strategic Planning
+          - Human Resources
+          - Financial Management
+          - Digital Transformation
+          - Market Entry
+        required: false
+      - id: 15
+        name: testimonial
+        label: Testimonial or Case Study
+        hint: May we use your feedback as a case study?
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Contact me first
+        required: false

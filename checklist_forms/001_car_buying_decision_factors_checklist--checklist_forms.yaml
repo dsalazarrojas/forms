@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Buying Decision Factors Checklist
+    pages:
+    - id: 1
+      name: car_make_model
+      label: What car make and model are you considering?
+      hint: e.g., Honda Civic, Toyota Camry
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: budget_range
+      label: Your budget range
+      hint: Enter the maximum amount you're willing to spend
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: fuel_type_preference
+      label: Preferred fuel type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
+      - Plug-in Hybrid
+      required: true
+    - id: 4
+      name: vehicle_condition
+      label: New or used vehicle?
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Certified Pre-Owned
+      - Used
+      required: true
+    - id: 5
+      name: transmission_type
+      label: Preferred transmission
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      - CVT
+      required: false
+    - id: 6
+      name: seating_capacity
+      label: Required seating capacity
+      hint: null
+      type: select_one
+      options:
+      - 2
+      - 4
+      - 5
+      - 6
+      - 7+
+      required: true
+    - id: 7
+      name: warranty_importance
+      label: How important is the warranty?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: false
+    - id: 8
+      name: safety_features_checklist
+      label: Which safety features are essential? (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Airbags
+      - Anti-lock Braking System
+      - Stability Control
+      - Backup Camera
+      - Lane Departure Warning
+      - Blind Spot Detection
+      - Collision Avoidance
+      - Adaptive Cruise Control
+      required: false
+    - id: 9
+      name: interior_features_preference
+      label: Most important interior features (select up to 3)
+      hint: null
+      type: select_multiple
+      options:
+      - Leather Seats
+      - Heated Seats
+      - Power Adjustable Seats
+      - Sunroof
+      - Panoramic Roof
+      - Navigation System
+      - Premium Sound System
+      - Mobile Device Integration
+      required: false
+    - id: 10
+      name: fuel_efficiency_priority
+      label: How important is fuel efficiency?
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Very Important
+      - Somewhat Important
+      - Not a Priority
+      required: false
+    - id: 11
+      name: towing_capacity_needed
+      label: Do you need towing capacity?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 12
+      name: maintenance_costs_consideration
+      label: Estimated maintenance costs - major concern?
+      hint: null
+      type: select_one
+      options:
+      - Very Concerned
+      - Somewhat Concerned
+      - Slightly Concerned
+      - Not Concerned
+      required: false
+    - id: 13
+      name: test_drive_scheduled
+      label: Have you scheduled a test drive?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Planning To
+      required: false
+    - id: 14
+      name: competing_options
+      label: Number of competing vehicle options you are considering
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: dealer_reputation_importance
+      label: How important is dealer reputation?
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Important
+      required: false
+    - id: 16
+      name: color_preference
+      label: Preferred color
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black
+      - Gray
+      - Silver
+      - Blue
+      - Red
+      - Brown
+      - Other
+      required: false
+    - id: 17
+      name: financing_option
+      label: Preferred financing option
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Financing from Dealer
+      - Bank Financing
+      - Leasing
+      required: true
+    - id: 18
+      name: trade_in_available
+      label: Do you have a vehicle to trade in?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: time_decision_deadline
+      label: When do you plan to make a purchase decision?
+      hint: null
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - No Specific Timeline
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Any additional preferences or concerns?
+      hint: Please provide any other factors important to your decision
+      type: text
+      options: []
+      required: false

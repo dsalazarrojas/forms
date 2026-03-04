@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: warehouse_inventory_checklist_form
+    pages:
+    - id: 1
+      name: items_to_check
+      label: item_to_check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_location
+      label: current_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: quantity_in_stock
+      label: quantity_in_stock
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reordering_point
+      label: reorder_point
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: last_inspection_date
+      label: last_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: next_inspection_date
+      label: next_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: current_quantity
+      label: current_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reorder_quantity
+      label: reorder_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reorder_point
+      label: reorder_point
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned
+      label: assigned
+      hint: null
+      type: select_multiple
+      options:
+      - manager
+      - assistant
+      - team
+      required: true

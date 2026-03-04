@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Registration Lead Form
+    pages:
+    - id: 1
+      name: registration_lead_form_1
+      label: Registration Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_first_name
+      label: Parent's First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: parent_last_name
+      label: Parent's Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: child_name
+      label: Child's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: child_age
+      label: Child's Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: camp_program
+      label: Camp Program
+      hint: null
+      type: select_one
+      options:
+      - Summer Camp 1
+      - Summer Camp 2
+      - Summer Camp 3
+      required: false
+    - id: 10
+      name: start_date
+      label: Session Start Date
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: session_duration
+      label: Session Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up
+      label: Schedule a Follow-up
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Day Camp
+      - Overnight Camp
+      - Enrichment Program
+      required: false
+    - id: 15
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly Payment Plan
+      - Single Payment
+      - No Payment Plan
+      required: false
+    - id: 16
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Account
+      - Cash
+      required: false
+    - id: 17
+      name: registration_date
+      label: Registration Date
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: false
+    - id: 19
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      required: false

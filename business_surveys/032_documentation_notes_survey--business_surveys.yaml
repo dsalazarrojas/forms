@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: documentation_notes_survey
+    pages:
+    - id: 1
+      name: business_surveys
+      label: business_surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: feedback_surveys
+      label: feedback_surveys
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: documentation_notes_survey_form
+      label: documentation_notes_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_or_process_documentation
+      label: product_or_process_documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: clarity
+      label: clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: usefulness
+      label: usefulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: target_improvements
+      label: target_improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: collected_by
+      label: collected_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: collected_by_other
+      label: collected_by_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: improvement_action
+      label: improvement_action
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

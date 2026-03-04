@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Development And Application Survey
+    pages:
+    - id: 1
+      name: section_header_info
+      label: '--- Respondent Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Must be a valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: Select your birth date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Home address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_name
+      label: Organization name
+      hint: Company or institution you work for
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Select your primary industry
+      type: select_one
+      options:
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Education
+      - Government
+      - Other
+      required: true
+    - id: 9
+      name: job_role
+      label: Job role
+      hint: Your primary professional title
+      type: select_one
+      options:
+      - Data Scientist
+      - AI Engineer
+      - Product Manager
+      - Business Analyst
+      - Researcher
+      - Manager
+      - Other
+      required: true
+    - id: 10
+      name: years_experience
+      label: Years of experience in AI/ML
+      hint: Enter a whole number
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: ai_experience_level
+      label: AI experience level
+      hint: Choose the level that best describes you
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 12
+      name: ai_use_cases
+      label: AI use cases implemented
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Customer Support
+      - Fraud Detection
+      - Recommendation Engine
+      - Predictive Maintenance
+      - Automated Content Generation
+      - Process Automation
+      - Other
+      required: false
+    - id: 13
+      name: ai_tools_used
+      label: AI tools or platforms used
+      hint: List comma‑separated (e.g., TensorFlow, Azure ML, Hugging Face)
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: ai_project_budget
+      label: Average project budget (USD)
+      hint: Use decimal format if needed
+      type: decimal
+      options: []
+      required: false
+    - id: 15
+      name: ai_project_timeline_months
+      label: Average project timeline (months)
+      hint: Enter whole months
+      type: integer
+      options: []
+      required: false
+    - id: 16
+      name: primary_challenge
+      label: Primary challenge in AI adoption
+      hint: Choose the most significant obstacle
+      type: select_one
+      options:
+      - Data Quality
+      - Talent Shortage
+      - Integration Complexity
+      - Cost
+      - Ethical Concerns
+      - Regulatory Compliance
+      - Lack of Strategy
+      - Other
+      required: true
+    - id: 17
+      name: anticipated_impact
+      label: Anticipated business impact
+      hint: Expected return on investment
+      type: select_one
+      options:
+      - High ROI
+      - Medium ROI
+      - Low ROI
+      - No ROI
+      - Unknown
+      required: true
+    - id: 18
+      name: satisfaction_rating
+      label: Overall satisfaction with AI initiatives
+      hint: 1 = Very Dissatisfied, 10 = Very Satisfied
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional comments or observations
+      hint: Share any extra insights
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent_header
+      label: '--- Consent ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: consent
+      label: Consent to share survey data
+      hint: By selecting "I agree", you consent to the use of your responses for research
+        purposes
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

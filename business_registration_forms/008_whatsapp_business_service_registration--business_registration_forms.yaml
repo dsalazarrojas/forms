@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: whatsapp_business_service_registration
+    pages:
+    - id: 1
+      name: business_service_details
+      label: Business Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: permissions
+      label: Permissions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Allow users to see your business profile''}'
+      - '{''id'': 2, ''label'': ''Allow users to see your business contact info''}'
+      - '{''id'': 3, ''label'': ''Allow users to chat with your business''}'
+      required: true
+    - id: 3
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: permissions
+      label: Contact Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_preferences
+      label: Client Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_number
+      label: Business Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false

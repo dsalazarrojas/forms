@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Record Keeping Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_size_hectares
+      label: Farm size in hectares
+      hint: Approximate cultivated area
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: record_types_kept
+      label: Record types kept
+      hint: Select all record types maintained
+      type: select_multiple
+      options:
+      - Planting dates
+      - Harvest volumes
+      - Input purchases
+      - Sales records
+      - Financial ledgers
+      required: false
+    - id: 4
+      name: record_format
+      label: Record keeping format
+      hint: How records are maintained
+      type: select_one
+      options:
+      - Paper
+      - Spreadsheet
+      - Farm management software
+      - Mobile app
+      required: true
+    - id: 5
+      name: record_frequency
+      label: Frequency of record updates
+      hint: How often records are updated
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Seasonally
+      required: true
+    - id: 6
+      name: challenges
+      label: Main challenges with record keeping
+      hint: Time, costs, literacy, or technology barriers
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interest_in_training
+      label: Interest in record keeping training
+      hint: Would the respondent attend training on record keeping
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 8
+      name: preferred_tools
+      label: Preferred record keeping tools
+      hint: Which tools would the respondent like to use
+      type: select_multiple
+      options:
+      - Mobile app
+      - Paper templates
+      - Spreadsheet templates
+      - SMS reporting
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback about record keeping
+      type: text
+      options: []
+      required: false

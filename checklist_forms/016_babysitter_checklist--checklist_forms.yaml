@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitter Checklist
+    pages:
+    - id: 1
+      name: emergency_contact_header
+      label: -- Emergency Contact Information --
+      hint: In case of any emergency, call these numbers immediately
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_parent_contact
+      label: Primary Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: secondary_parent_contact
+      label: Secondary Parent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_neighbor_contact
+      label: Trusted Neighbor Name and Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pediatrician_info
+      label: Pediatrician Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_needs_header
+      label: -- Child Specific Needs --
+      hint: Important information about our children
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: allergy_information
+      label: Food and Environmental Allergies
+      hint: List all known allergies or write None
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bedtime_routine
+      label: Bedtime Routine and Times
+      hint: "e.g., 7 PM Bath, 7:30 PM Reading, 8 PM Lights out"
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: allowed_meals_snacks
+      label: Permitted Meals and Snacks
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: medication_instructions
+      label: Medication Dosage and Timing
+      hint: Leave blank if no medication is needed
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rules_header
+      label: -- Household Rules and Boundaries --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: screen_time_limits
+      label: Screen Time and Device Limits
+      hint: TV, iPads, Video Games
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: disciplinary_guidelines
+      label: Disciplinary Approach and Guidelines
+      hint: How should you handle timeouts or issues?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: household_safety_notes
+      label: Household Safety and Access Notes
+      hint: e.g., alarm codes, locked doors, pool gate
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: checklist_acknowledgment
+      label: I have read and understand these instructions
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true

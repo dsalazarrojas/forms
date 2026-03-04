@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 12 Minute Affiliate System Marketing System
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: Auto-calculated if date of birth is provided
+      type: integer
+      options: []
+      required: false
+    - id: 5
+      name: mailing_address
+      label: Mailing address
+      hint: Include street, city, state, ZIP
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_contact_info
+      label: '--- Contact Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email address
+      hint: We will send confirmation and updates to this address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone number
+      hint: Include country code, e.g., +1 555 123 4567
+      type: phone
+      options: []
+      required: false
+    - id: 9
+      name: section_header_availability
+      label: '--- Availability ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: availability_day
+      label: Preferred day for onboarding
+      hint: Select the day you are most available
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 11
+      name: section_header_experience
+      label: '--- Experience & Channels ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: experience_level
+      label: Experience level with online marketing
+      hint: Choose the level that best describes you
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      required: true
+    - id: 13
+      name: marketing_channels
+      label: Primary marketing channels you plan to use
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social media
+      - Email marketing
+      - Affiliate networks
+      - SEO
+      - Paid ads
+      - Offline events
+      required: true
+    - id: 14
+      name: preferred_start_date
+      label: Preferred start date
+      hint: Date you would like to begin training
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: section_header_technical
+      label: '--- Technical Setup ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: technical_preference
+      label: Preferred level of technical involvement
+      hint: Select the option that best fits your comfort level
+      type: select_one
+      options:
+      - None
+      - Basic
+      - Advanced
+      required: true
+    - id: 17
+      name: has_website
+      label: Do you have an existing website?
+      hint: If yes, provide the URL below
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: website_url
+      label: Website URL
+      hint: "Include full URL, e.g., https://example.com"
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: payment_method
+      label: Preferred payment method for fees
+      hint: Select one payment option
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 20
+      name: agreement_terms
+      label: Terms and Conditions
+      hint: You must agree to proceed
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 21
+      name: consent_marketing
+      label: Marketing Consent
+      hint: Consent to receive marketing communications
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 22
+      name: section_header_comments
+      label: '--- Additional Comments ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Provide any extra information that will help us tailor your experience
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nanny Emergency Contact Form
+    pages:
+    - id: 1
+      name: family_member_name
+      label: Family Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_name
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_phone
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_address
+      label: Work Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: List any medical conditions that we should be aware of.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_treatment
+      label: Medical Treatment
+      hint: List any medical treatments that you are currently receiving.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_authorized
+      label: Authorized Emergency Contact
+      hint: Is there an authorized emergency contact?
+      type: select_one
+      options:
+      - Authorized
+      - Not Authorized
+      - Only in case of Emergency
+      - Other (explain in the comments)
+      required: true
+    - id: 13
+      name: other_authorized_contact
+      label: Other Authorized Contact
+      hint: If yes, please describe in the comments.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

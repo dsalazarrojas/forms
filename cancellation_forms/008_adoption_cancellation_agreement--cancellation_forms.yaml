@@ -1,0 +1,111 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Adoption Cancellation Agreement
+    pages:
+    - id: 1
+      name: section_cancellation
+      label: -- Cancellation Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: original_adopter_name
+      label: Original Adopter Name
+      hint: Name on the original adoption contract
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: pet_name_and_id
+      label: Pet Name and ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: original_adoption_date
+      label: Original Adoption Date
+      hint: When the pet was first taken home
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: cancellation_effective_date
+      label: Cancellation Effective Date
+      hint: Date the pet is returned or contract is voided
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_reason
+      label: -- Reason for Cancellation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_reason
+      label: Primary Reason
+      hint: Select the most accurate reason for cancellation
+      type: select_one
+      options:
+      - Financial difficulties
+      - Housing changes
+      - Pet behavioral issues
+      - Family allergies
+      - Health issues
+      - Other
+      required: true
+    - id: 8
+      name: detailed_explanation
+      label: Detailed Explanation
+      hint: Please provide more context regarding the decision
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pet_return_status
+      label: Pet Return Status
+      hint: Current location of the animal
+      type: select_one
+      options:
+      - Pet has been returned
+      - Pet is in foster care
+      - Pet is still with adopter
+      required: true
+    - id: 10
+      name: refund_requested
+      label: Refund Requested
+      hint: Based on our 30-day refund policy
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 11
+      name: electronic_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

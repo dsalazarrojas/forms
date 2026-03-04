@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business License Release Form
+    pages:
+    - id: 1
+      name: section_license_release_identity
+      label: -- License Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: license_holder_full_name_official
+      label: License Holder Name
+      hint: Name of the individual or entity holding the license
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_reg_number_release_ref
+      label: Business Registration Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: release_license_type_selection
+      label: Type of License
+      hint: Select the license being released
+      type: select_one
+      options:
+      - Standard Business Operating License
+      - Professional / Specialized Permit
+      - Health and Safety Certification
+      - Liquor / Food Service License
+      - Transportation / Fleet Permit
+      required: true
+    - id: 5
+      name: section_release_justification
+      label: -- Justification and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_release_request_choice
+      label: Reason for Release Request
+      hint: Why is the license being released or relinquished
+      type: select_one
+      options:
+      - Business Closure / Dissolution
+      - Transfer of Ownership
+      - Change of Primary Business Activity
+      - Relocation to Different Jurisdiction
+      required: true
+    - id: 7
+      name: proposed_license_release_date
+      label: Date of Proposed Release
+      hint: When should the license become inactive
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: acknowledgment_of_fees_check
+      label: Acknowledgment of Fees
+      hint: I understand that any outstanding fees must be paid before release
+      type: select_one
+      options:
+      - I Acknowledge and Agree
+      - Other
+      required: true
+    - id: 9
+      name: final_inspection_status_selection
+      label: Final Inspection Status
+      hint: Has a final site inspection been completed
+      type: select_one
+      options:
+      - Completed and Passed
+      - Scheduled
+      - Not Required for this Type
+      required: true
+    - id: 10
+      name: forwarding_address_final_notice_text
+      label: Forwarding Address for Final Notice
+      hint: Where should we send the confirmation of release
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_release_authorization
+      label: -- Release Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: release_auth_signature_name_full
+      label: Authorized Representative Signature
+      hint: Type full name to authorize the release
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: release_form_date_completed_official
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

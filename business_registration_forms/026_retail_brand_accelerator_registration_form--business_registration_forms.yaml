@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_brand_accelerator_registration_form
+    pages:
+    - id: 1
+      name: retail_brand_name
+      label: retail_brand_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: retail_brand_stage
+      label: retail_brand_stage
+      hint: null
+      type: select_one
+      options:
+      - Early Stage
+      - Late Stage
+      required: true
+    - id: 3
+      name: retail_brand_details
+      label: retail_brand_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: retail_program_type
+      label: retail_program_type
+      hint: null
+      type: select_one
+      options:
+      - Accelerator
+      - Incubator
+      - Retail
+      required: false
+    - id: 5
+      name: retail_goals
+      label: retail_goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: retail_business_stage
+      label: retail_business_stage
+      hint: null
+      type: select_one
+      options:
+      - Pre-Series A
+      - Series A
+      - Series B
+      - Series C
+      required: false
+    - id: 7
+      name: retail_email
+      label: retail_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: retail_phone
+      label: retail_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: retail_program_manager
+      label: retail_program_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: retail_program_url
+      label: retail_program_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: retail_program_duration
+      label: retail_program_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: retail_start_date
+      label: retail_start_date
+      hint: null
+      type: date
+      options: []
+      required: false

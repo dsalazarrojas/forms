@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Process Optimization Feedback Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      type: note
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional for feedback tracking
+      type: text
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      required: true
+    - id: 4
+      name: years_with_company
+      label: Years with Company
+      hint: How long have you worked here
+      type: number
+      required: false
+    - id: 5
+      name: section_process_improvements
+      label: -- Process Improvements --
+      type: note
+      required: false
+    - id: 6
+      name: improvements_implemented
+      label: Which Improvements Have Been Implemented
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Workflow Automation
+      - Digital Documentation
+      - Approval Streamlining
+      - Communication Enhancement
+      - Data Integration
+      - Time Management Tools
+      required: true
+    - id: 7
+      name: effectiveness_overall
+      label: Overall Effectiveness of Improvements
+      hint: How effective have the changes been
+      type: select_one
+      options:
+      - Very Ineffective
+      - Somewhat Ineffective
+      - Neutral
+      - Somewhat Effective
+      - Very Effective
+      required: true
+    - id: 8
+      name: section_workflow_feedback
+      label: -- Workflow Feedback --
+      type: note
+      required: false
+    - id: 9
+      name: workflow_clarity
+      label: Clarity of Optimized Workflows
+      hint: Are the new processes clear
+      type: select_one
+      options:
+      - Very Unclear
+      - Unclear
+      - Neutral
+      - Clear
+      - Very Clear
+      required: true
+    - id: 10
+      name: learning_curve
+      label: Ease of Learning New Processes
+      hint: How easy was the transition
+      type: select_one
+      options:
+      - Very Difficult
+      - Difficult
+      - Moderate
+      - Easy
+      - Very Easy
+      required: true
+    - id: 11
+      name: time_savings
+      label: Time Savings from Optimizations
+      hint: Are you saving time now
+      type: select_one
+      options:
+      - No change
+      - Minimal savings
+      - Moderate savings
+      - Significant savings
+      - Substantial savings
+      required: true
+    - id: 12
+      name: error_reduction
+      label: Error Reduction
+      hint: Have mistakes decreased
+      type: select_one
+      options:
+      - Errors increased
+      - No change
+      - Slight reduction
+      - Moderate reduction
+      - Significant reduction
+      required: true
+    - id: 13
+      name: section_satisfaction
+      label: -- Job Satisfaction Impact --
+      type: note
+      required: false
+    - id: 14
+      name: job_satisfaction_change
+      label: Change in Job Satisfaction
+      hint: How have optimizations affected your satisfaction
+      type: select_one
+      options:
+      - Decreased significantly
+      - Decreased slightly
+      - No change
+      - Improved slightly
+      - Improved significantly
+      required: true
+    - id: 15
+      name: motivation_level
+      label: Motivation and Engagement Level
+      hint: How is your engagement now
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Neutral
+      - High
+      - Very High
+      required: true
+    - id: 16
+      name: section_challenges
+      label: -- Challenges and Issues --
+      type: note
+      required: false
+    - id: 17
+      name: remaining_challenges
+      label: Remaining Process Challenges
+      hint: What issues still exist
+      type: text
+      required: false
+    - id: 18
+      name: feature_requests
+      label: Requested Features or Changes
+      hint: What else could be improved
+      type: text
+      required: false
+    - id: 19
+      name: section_recommendations
+      label: -- Recommendations --
+      type: note
+      required: false
+    - id: 20
+      name: additional_improvements
+      label: Suggestions for Further Improvement
+      hint: Your recommendations for optimization
+      type: text
+      required: false
+    - id: 21
+      name: willing_to_pilot
+      label: Willing to Pilot New Process Changes
+      hint: Would you help test new improvements
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: false

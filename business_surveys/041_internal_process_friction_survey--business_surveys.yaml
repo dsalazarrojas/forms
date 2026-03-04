@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Process Friction Survey
+    pages:
+    - id: 1
+      name: workflow_bottlenecks
+      label: Workflow bottlenecks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pain_points
+      label: Pain points
+      hint: null
+      type: select_multiple
+      options:
+      - Painful tasks
+      - Delays
+      - Inaccurate information
+      - Communication failures
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: workflow_bottlenecks_frequency
+      label: How often do bottlenecks happen
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: impact_frequency
+      label: Frequency of impact
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Often
+      - Always
+      required: false
+    - id: 5
+      name: workflow_bottlenecks_impact
+      label: How much impact do bottlenecks have
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Very high
+      required: false
+    - id: 6
+      name: pain_point_description
+      label: Describe the most painful point
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: suggested_solution
+      label: Suggested solution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: implementation_status
+      label: Implementation status
+      hint: null
+      type: select_one
+      options:
+      - Not started
+      - In progress
+      - Done
+      - Not applicable
+      required: false
+    - id: 9
+      name: implementation_barriers
+      label: Barriers to implementation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: implementation_comments
+      label: Comments about implementation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_size
+      label: Team size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_size_impact
+      label: Team size impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: process_complexity
+      label: Process complexity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: process_complexity_impact
+      label: Process complexity impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: process_complexity_description
+      label: Describe process complexity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: implementation_status_comments
+      label: Comments about implementation status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_lead
+      label: Team lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: team_lead_impact
+      label: Team lead impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: team_lead_description
+      label: Describe team lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team_member
+      label: Team member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_member_impact
+      label: Team member impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_member_description
+      label: Describe team member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_impact
+      label: Manager impact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_description
+      label: Describe manager
+      hint: null
+      type: text
+      options: []
+      required: false

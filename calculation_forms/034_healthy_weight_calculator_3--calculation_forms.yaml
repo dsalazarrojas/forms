@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthy Weight Calculator 3
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: height_unit
+      label: height_unit
+      hint: null
+      type: select_one
+      options:
+      - meter
+      - centimeter
+      - inch
+      required: false
+    - id: 6
+      name: weight_unit
+      label: weight_unit
+      hint: null
+      type: select_one
+      options:
+      - kilogram
+      - pound
+      - gram
+      required: false
+    - id: 7
+      name: calculate_weight_category
+      label: weight_category
+      hint: null
+      type: select_one
+      options:
+      - healthy
+      - underweight
+      - overweight
+      - obesity
+      - morbidly_obese
+      required: false
+    - id: 8
+      name: result
+      label: result
+      hint: null
+      type: note
+      options: []
+      required: false

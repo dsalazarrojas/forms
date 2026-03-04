@@ -1,0 +1,204 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Faucet Inspection Checklist
+    pages:
+    - id: 1
+      name: faucet_status
+      label: Faucet Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Disabled
+      - Leaking
+      required: true
+    - id: 2
+      name: faucet_leak_status
+      label: Leaking
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 3
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_last_checked
+      label: Date Last Checked
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_last_checked
+      label: Time Last Checked
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: checked_by
+      label: Checked By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: building_number
+      label: Building Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: floor_number
+      label: Floor Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: building_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: location_notes
+      label: Location Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: maintenance_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Assigned
+      required: true
+    - id: 16
+      name: completed_date
+      label: Completed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: location_notes
+      label: Location Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: photos_2
+      label: Photos 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: notes_2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: location_notes_2
+      label: Location Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: photos_3
+      label: Photos 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: completed_status
+      label: Completed Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

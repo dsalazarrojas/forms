@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Provision Management Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Provision Management Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: stock_types
+      label: Stock types
+      hint: null
+      type: select_multiple
+      options:
+      - Apples
+      - Bananas
+      - Oranges
+      required: true
+    - id: 3
+      name: restocking_frequency
+      label: Restocking frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_one
+      options:
+      - Lack of staff
+      - Stockouts
+      - Equipment issues
+      - Other
+      required: true
+    - id: 5
+      name: improvement_ideas
+      label: Improvement ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: survey_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: staff_feedback
+      label: Staff feedback prophets
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_form
+      label: Assigned form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_version
+      label: Form version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: form_status
+      label: Form status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      - Archived
+      required: true
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Business Surveys
+      - Other
+      required: true
+    - id: 15
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_date
+      label: Created date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: updated_by
+      label: Updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: updated_date
+      label: Updated date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: deleted_by
+      label: Deleted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: deleted_date
+      label: Deleted date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: comments_count
+      label: Comments count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: created_at
+      label: Created at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: updated_at
+      label: Updated at
+      hint: null
+      type: date
+      options: []
+      required: true

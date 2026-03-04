@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parish Book Distribution Survey
+    pages:
+    - id: 1
+      name: parish_book_distribution_survey_form
+      label: Parish Book Distribution Survey Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parishes
+      label: Parishes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: parish_book_distribution_status
+      label: Parish Book Distribution Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: received_books
+      label: Received Books
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: Enter feedback or comments
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: distribution_date
+      label: Distribution Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: church_location
+      label: Church Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: total_books_distributed
+      label: Total Books Distributed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: total_books_sent
+      label: Total Books Sent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: remaining_books
+      label: Remaining Books
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: distribution_status
+      label: Distribution Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: received_parish_name
+      label: Received Parish Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: received_parish_address
+      label: Received Parish Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: received_parish_email
+      label: Received Parish Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: received_parish_phone
+      label: Received Parish Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: received_parish_location
+      label: Received Parish Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: total_books_remaining
+      label: Total Books Remaining
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: received_books_count
+      label: Received Books Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: feedback_given
+      label: Given Feedback
+      hint: Enter feedback or comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: received_books_status
+      label: Received Books Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: distribution_date_sent
+      label: Distribution Date Sent
+      hint: null
+      type: date
+      options: []
+      required: true

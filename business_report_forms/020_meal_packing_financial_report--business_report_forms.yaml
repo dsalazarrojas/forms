@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meal Packing Financial Report
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: expenses
+      label: Expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: funding
+      label: Funding
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Donations''}'
+      - '{''value'': ''Grants''}'
+      - '{''value'': ''Sponsorship''}'
+      required: true
+    - id: 6
+      name: other_funding
+      label: Other Funding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file1
+      label: Financial Reports
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: file2
+      label: Receipts
+      hint: null
+      type: text
+      options: []
+      required: true

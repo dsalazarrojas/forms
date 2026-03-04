@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: urban_sustainability_awareness_survey
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: awareness
+      label: Awareness
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: behaviors
+      label: Behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 4
+      name: interest
+      label: Interest
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strong''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Not Very''}'
+      required: false
+    - id: 5
+      name: knowledge
+      label: Knowledge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: score_1
+      label: Score 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: score_2
+      label: Score 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: score_3
+      label: Score 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Toronto''}'
+      - '{''label'': ''Vancouver''}'
+      - '{''label'': ''New York''}'
+      - '{''label'': ''Montreal''}'
+      required: false
+    - id: 16
+      name: organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cities''}'
+      - '{''label'': ''NGOs''}'
+      - '{''label'': ''Schools''}'
+      - '{''label'': ''ESG Teams''}'
+      required: false
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''chatjimmy2''}'
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 19
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''034_urban_sustainability_awareness_survey--business_surveys''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 20
+      name: assigned_category
+      label: Assigned Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Business Surveys''}'
+      - '{''label'': ''other''}'
+      required: false

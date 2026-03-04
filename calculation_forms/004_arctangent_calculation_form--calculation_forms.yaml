@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arctangent Calculation Form
+    pages:
+    - id: 1
+      name: section_calculator_info
+      label: -- Arctangent Calculator --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: calculator_purpose
+      label: What are you calculating
+      hint: null
+      type: select_one
+      options:
+      - Angle from Y and X coordinates
+      - Inverse tangent value
+      - Direction/bearing calculation
+      - Engineering application
+      - Physics problem
+      - Other
+      required: false
+    - id: 3
+      name: section_input_values
+      label: -- Input Values --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: input_type
+      label: Input Format
+      hint: null
+      type: select_one
+      options:
+      - Y and X coordinates
+      - Single tangent value
+      - Angle in degrees
+      - Angle in radians
+      required: true
+    - id: 5
+      name: y_value
+      label: Y Coordinate or Numerator
+      hint: Enter the Y value
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: x_value
+      label: X Coordinate or Denominator
+      hint: Enter the X value
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: section_options
+      label: -- Calculation Options --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: output_format
+      label: Desired Output Format
+      hint: null
+      type: select_one
+      options:
+      - Degrees
+      - Radians
+      - Both
+      required: true
+    - id: 9
+      name: precision_decimal_places
+      label: Decimal Places for Result
+      hint: Number of decimal places
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: quadrant_awareness
+      label: Apply Quadrant Correction
+      hint: Use atan2 to handle all quadrants correctly
+      type: select_one
+      options:
+      - Yes - use atan2
+      - No - use standard atan
+      required: true
+    - id: 11
+      name: section_context
+      label: -- Application Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: application_domain
+      label: Application Domain
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Physics
+      - Navigation
+      - Computer graphics
+      - Robotics
+      - Mathematics education
+      - Other
+      required: false
+    - id: 13
+      name: reference_system
+      label: Reference System or Coordinate Type
+      hint: Cartesian, polar, or compass-based
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: unit_context
+      label: What units are your inputs
+      hint: null
+      type: select_one
+      options:
+      - Meters
+      - Feet
+      - Pixels
+      - Degrees
+      - Unitless ratios
+      - Other
+      required: false
+    - id: 15
+      name: section_notes
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: special_requirements
+      label: Any Special Requirements or Notes
+      hint: Rounding rules, angle constraints, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: save_calculation
+      label: Save this calculation for reference
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

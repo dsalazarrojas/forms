@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Land Use Survey
+    pages:
+    - id: 1
+      name: farm_name
+      label: Farm name
+      hint: Optional name for the farm or plot
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_contact
+      label: Respondent contact
+      hint: Phone or email for clarifying responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: land_area_hectares
+      label: Land area in hectares
+      hint: Total area used for agricultural production
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: primary_land_use
+      label: Primary land use
+      hint: Main activity on the land
+      type: select_one
+      options:
+      - Crop production
+      - Livestock grazing
+      - Agroforestry
+      - Fallow
+      - Mixed use
+      required: true
+    - id: 5
+      name: secondary_land_use
+      label: Secondary land use
+      hint: Any other significant land uses
+      type: select_multiple
+      options:
+      - Irrigation ponds
+      - Pasture
+      - Timber
+      - Other
+      required: false
+    - id: 6
+      name: irrigation_type
+      label: Irrigation type
+      hint: If irrigated, indicate method
+      type: select_one
+      options:
+      - Surface
+      - Sprinkler
+      - Drip
+      - None
+      required: false
+    - id: 7
+      name: soil_management_practices
+      label: Soil management practices
+      hint: Tillage, cover cropping, or conservation practices
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: conservation_measures
+      label: Conservation measures in place
+      hint: Erosion control, buffer zones, or reforestation
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: crop_rotation
+      label: Crop rotation details
+      hint: Sequence of crops by year or season
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Additional comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

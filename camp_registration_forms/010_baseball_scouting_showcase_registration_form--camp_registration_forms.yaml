@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Scouting Showcase Registration Form
+    pages:
+    - id: 1
+      name: player_personal_info
+      label: -- Player Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: graduation_year
+      label: High School Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: high_school
+      label: High School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: athletic_profile_header
+      label: -- Athletic Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_position
+      label: Primary Position
+      hint: null
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - First Base
+      - Second Base
+      - Third Base
+      - Shortstop
+      - Outfield
+      required: true
+    - id: 8
+      name: secondary_position
+      label: Secondary Position
+      hint: null
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - Infield
+      - Outfield
+      - None
+      required: true
+    - id: 9
+      name: height_weight
+      label: Height and Weight
+      hint: e.g. 6 foot 2 inches, 190 lbs
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: bats_throws
+      label: Bats / Throws
+      hint: null
+      type: select_one
+      options:
+      - R/R
+      - L/L
+      - S/R
+      - S/L
+      - R/L
+      - L/R
+      required: true
+    - id: 11
+      name: academic_header
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: gpa
+      label: Current GPA
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: sat_act_scores
+      label: SAT or ACT Scores
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recruitment_header
+      label: -- Recruitment Media --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: highlights_video_link
+      label: Link to Highlights Video
+      hint: YouTube, Vimeo, or recruiting profile
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: scout_invitation_code
+      label: Scouting Invitation Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shirt_size
+      label: Showcase Jersey Size
+      hint: null
+      type: select_one
+      options:
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 18
+      name: parent_contact_info
+      label: Parent or Guardian Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

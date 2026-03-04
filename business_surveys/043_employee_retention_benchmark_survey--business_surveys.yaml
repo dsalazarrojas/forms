@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Retention Benchmark Survey
+    pages:
+    - id: 1
+      name: employee_retention_benchmark_survey_form
+      label: employee_retention_benchmark_survey_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: turnover_rate
+      label: what_is_the_current_turnover_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: retention_strategies
+      label: what_retention_strategies_have_you_employed
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: challenges
+      label: what_challenges_do_employees_face
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''high_pay''}'
+      - '{''option'': ''lack_of_challenge''}'
+      required: false
+    - id: 5
+      name: strategies_used
+      label: what_retention_strategies_do_you_employ
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''training''}'
+      - '{''option'': ''mentorship''}'
+      - '{''option'': ''feedback''}'
+      required: false
+    - id: 6
+      name: employee_feedback
+      label: what_is_the_most_common_type_of_feedback_given_to_employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: organizational_challenges
+      label: what_is_the_most_common_type_of_organizational_challenge_you_face
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employee_departures
+      label: what_is_the_most_common_type_of_reason_for_employee_departures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: retention_programs
+      label: what_type_of_retention_programs_do_you_participate_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

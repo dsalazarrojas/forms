@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: daily_gear_checkout_list_form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: equipment_name
+      label: equipment_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: checkout_date
+      label: checkout_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: true
