@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Transaction Audit Request Form
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_contact
+      label: Vendor Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vendor_address
+      label: Vendor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_transaction
+      label: Reason for Transaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: review_details
+      label: Review Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

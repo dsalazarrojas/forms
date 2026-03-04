@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Training Checklist
+    pages:
+    - id: 1
+      name: fire_safety_session_participants
+      label: Session Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: fire_safety_session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: fire_safety_session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fire_safety_topics_covered
+      label: Covered Topics
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 5
+      name: fire_safety_session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: fire_safety_training_officer
+      label: Fire Safety Training Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fire_safety_session_status
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      - In Progress
+      required: false
+    - id: 8
+      name: fire_safety_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false

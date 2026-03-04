@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health And Safety Indicator Log
+    pages:
+    - id: 1
+      name: form_data
+      label: form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_event
+      label: date of event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: incident type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: hazard_location
+      label: hazard location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hazard_description
+      label: hazard description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: observation
+      label: observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_taken
+      label: action taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: follow up date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_status
+      label: follow up status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: next_follow_up
+      label: next follow up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_comments
+      label: follow up comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_frequency
+      label: follow up frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: follow_up_method
+      label: follow up method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: follow_up_responsible
+      label: follow up responsible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: follow_up_location
+      label: follow up location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_details
+      label: follow up details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_notes
+      label: follow up notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_attachments
+      label: follow up attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: safety_inspections
+      label: safety inspections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: safety_inspection_comments
+      label: safety inspection comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: safety_hazards
+      label: safety hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: safety_hazard_comments
+      label: safety hazards comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: safety_action_taken
+      label: safety action taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: safety_next_follow_up
+      label: safety next follow up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: safety_notes
+      label: safety notes
+      hint: null
+      type: text
+      options: []
+      required: false

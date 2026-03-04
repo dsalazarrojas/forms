@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Average Calculation Survey
+    pages:
+    - id: 1
+      name: respondent_type
+      label: Respondent Type
+      hint: What best describes you
+      type: select_one
+      options:
+      - Student
+      - Teacher/Educator
+      - Researcher
+      - Team member
+      - Manager/Supervisor
+      - Other
+      required: true
+    - id: 2
+      name: survey_purpose
+      label: Survey Purpose
+      hint: What is this survey for
+      type: select_one
+      options:
+      - Academic grading
+      - Performance evaluation
+      - Research data collection
+      - Customer satisfaction
+      - Employee feedback
+      - Product testing
+      - Other
+      required: true
+    - id: 3
+      name: respondent_name
+      label: Your Name
+      hint: Optional - enter your name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: For receiving results
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: organization_name
+      label: Organization or School Name
+      hint: Name of your institution or company
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_entry_1
+      label: Data Point 1
+      hint: Enter first numeric value
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: data_entry_2
+      label: Data Point 2
+      hint: Enter second numeric value
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: data_entry_3
+      label: Data Point 3
+      hint: Enter third numeric value
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: data_entry_4
+      label: Data Point 4
+      hint: Enter fourth numeric value
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: data_entry_5
+      label: Data Point 5
+      hint: Enter fifth numeric value
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: data_entry_6
+      label: Data Point 6
+      hint: Enter sixth numeric value
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: data_entry_7
+      label: Data Point 7
+      hint: Enter seventh numeric value
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: data_entry_8
+      label: Data Point 8
+      hint: Enter eighth numeric value
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: data_entry_9
+      label: Data Point 9
+      hint: Enter ninth numeric value
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: data_entry_10
+      label: Data Point 10
+      hint: Enter tenth numeric value
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: calculation_type
+      label: Calculation Type Needed
+      hint: What type of average do you need
+      type: select_one
+      options:
+      - Simple average (mean)
+      - Median
+      - Mode
+      - Weighted average
+      - All of the above
+      required: true
+    - id: 17
+      name: include_outliers
+      label: Include Outliers in Calculation
+      hint: Should extreme values be included
+      type: select_one
+      options:
+      - Yes, include all values
+      - No, exclude outliers
+      - Unsure
+      required: true
+    - id: 18
+      name: decimal_precision
+      label: Decimal Precision
+      hint: How many decimal places for results
+      type: select_one
+      options:
+      - Whole number (0 decimals)
+      - 1 decimal place
+      - 2 decimal places
+      - 3 decimal places
+      - Full precision
+      required: true
+    - id: 19
+      name: satisfaction_rating
+      label: Satisfaction with Survey Tool
+      hint: How satisfied are you with this tool
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 20
+      name: ease_of_use
+      label: Ease of Use Rating
+      hint: How easy was this to use
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 21
+      name: feature_requests
+      label: Feature Requests
+      hint: What features would you like to see added
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

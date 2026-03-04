@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Design Request Form
+    pages:
+    - id: 1
+      name: client_request
+      label: Client Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: design_type
+      label: Design Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: design_files
+      label: Design Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: design_description
+      label: Design Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: design_note
+      label: Design Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: design_deadline
+      label: Design Deadline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: design_status
+      label: Design Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Rejected
+      required: false
+    - id: 9
+      name: design_client
+      label: Design Client
+      hint: null
+      type: text
+      options: []
+      required: false

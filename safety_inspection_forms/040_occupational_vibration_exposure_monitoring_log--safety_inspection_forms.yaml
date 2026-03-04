@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: occupational_vibration_exposure_monitoring_log
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: employee_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_details
+      label: job_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vibration_exposure
+      label: Vibration Exposure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: monitoring_location
+      label: Monitoring Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_time
+      label: Date / Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: monitoring_frequency
+      label: Monitoring Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''User 1''}'
+      - '{''value'': 2, ''label'': ''User 2''}'
+      - '{''value'': 3, ''label'': ''User 3''}'
+      required: true

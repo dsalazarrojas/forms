@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advance On Inheritance Form
+    pages:
+    - id: 1
+      name: section_beneficiary
+      label: -- Beneficiary Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: beneficiary_full_name
+      label: Beneficiary Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: relationship_to_deceased
+      label: Relationship to Deceased
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: legal_counsel_contact_info
+      label: Legal Counsel Contact Info
+      hint: if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_inheritance
+      label: -- Inheritance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: estate_name_or_case_number
+      label: Estate Name or Case Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: total_estimated_inheritance_value
+      label: Total Estimated Inheritance Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: section_request
+      label: -- Advance Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: requested_advance_amount
+      label: Requested Advance Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: primary_reason_for_advance_request
+      label: Primary Reason for Advance Request
+      hint: Briefly explain the need for early distribution
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_fin
+      label: -- Financial Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: understanding_of_reduction
+      label: Understanding of Reduction
+      hint: null
+      type: select_one
+      options:
+      - I understand this advance reduces my final distribution
+      - I do not understand
+      required: true
+    - id: 13
+      name: repayment_terms_accepted
+      label: Repayment Terms Accepted
+      hint: If the estate is insufficient to cover the advance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: section_auth
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: beneficiary_signature
+      label: Beneficiary Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: executor_notary_verification
+      label: Executor and Notary Verification
+      hint: For office use - official name or stamp ID
+      type: text
+      options: []
+      required: false

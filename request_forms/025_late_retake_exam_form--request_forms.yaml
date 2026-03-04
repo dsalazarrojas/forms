@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Late Retake Exam Form
+    pages:
+    - id: 1
+      name: late_retake_exam_form
+      label: submit_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: class_1
+      label: class_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: class_2
+      label: class_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_requesting
+      label: reason_for_requesting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: write_your_reasons
+      label: write_your_reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: class_1_id
+      label: class_1_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: class_2_id
+      label: class_2_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: exam_date
+      label: exam_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: exam_time
+      label: exam_time
+      hint: null
+      type: time
+      options: []
+      required: false

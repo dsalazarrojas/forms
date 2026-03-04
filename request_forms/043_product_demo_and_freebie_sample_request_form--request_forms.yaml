@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_demo_and_freebie_sample_request_form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: demo_date
+      label: demo_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: demo_time
+      label: demo_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: sample_requests
+      label: sample_requests
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 10
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: request_confirmation
+      label: request_confirmation
+      hint: null
+      type: select_one
+      options:
+      - option_4
+      - option_5
+      - option_6
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: text
+      options: []
+      required: false

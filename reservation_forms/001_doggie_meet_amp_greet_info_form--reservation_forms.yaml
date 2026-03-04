@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doggie Meet & Greet Info Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dog_dob
+      label: dog_dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: dog_size
+      label: dog_size
+      hint: null
+      type: select_one
+      options:
+      - small
+      - medium
+      - large
+      - extra_large
+      required: true
+    - id: 7
+      name: appointment_time
+      label: appointment_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: meet_date
+      label: meet_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: sitter_phone
+      label: sitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sitter_email
+      label: sitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - Meet & Greet
+      - Walk
+      - Feed
+      - Sleep Over
+      required: true

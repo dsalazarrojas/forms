@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Fire Hydrant Inspection Form
+    pages:
+    - id: 1
+      name: urban_fire_hydrant_inspection_form
+      label: Urban Fire Hydrant Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''hydrant_1'', ''label'': ''Hydrant 1''}'
+      - '{''id'': 11, ''name'': ''hydrant_2'', ''label'': ''Hydrant 2''}'
+      - '{''id'': 12, ''name'': ''hydrant_3'', ''label'': ''Hydrant 3''}'
+      required: false
+    - id: 3
+      name: condition
+      label: Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 20, ''name'': ''good'', ''label'': ''Good''}'
+      - '{''id'': 21, ''name'': ''fair'', ''label'': ''Fair''}'
+      - '{''id'': 22, ''name'': ''poor'', ''label'': ''Poor''}'
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 50, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 6
+      name: date_visited
+      label: Date Visited
+      hint: MM/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_visited
+      label: Time Visited
+      hint: "hh:mm AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: inspector_id
+      label: Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false

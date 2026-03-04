@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Fund Drive Kickoff RSVP
+    pages:
+    - id: 1
+      name: guest_header
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For event confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_role
+      label: Organization Role
+      hint: Your role or title
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_header
+      label: -- RSVP Response --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attendance_confirmation
+      label: Will you attend the fund drive kickoff
+      hint: Confirm your attendance
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe - Still deciding
+      required: true
+    - id: 8
+      name: party_size
+      label: Number of Guests
+      hint: Total people in your party
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: guest_list
+      label: Names of Additional Guests
+      hint: If bringing others, list their names
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_details_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_date
+      label: Kickoff Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: What time does it start
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: event_location
+      label: Event Location
+      hint: Where the kickoff will be held
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dietary_header
+      label: -- Dietary Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any food restrictions
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vegetarian_vegan
+      label: Vegetarian or Vegan Option Needed
+      hint: Do you need plant-based meals
+      type: select_one
+      options:
+      - Yes, vegetarian
+      - Yes, vegan
+      - Yes, both options
+      - No, not needed
+      required: false
+    - id: 17
+      name: interest_header
+      label: -- Involvement and Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: involvement_interest
+      label: Interest in Fund Drive Involvement
+      hint: How involved do you want to be
+      type: select_one
+      options:
+      - Very interested - Want to lead
+      - Interested - Want to participate
+      - Somewhat interested - May help
+      - Not interested at this time
+      - Ask me more
+      required: false
+    - id: 19
+      name: volunteer_opportunities
+      label: Volunteer or Donor Interests
+      hint: What roles interest you
+      type: select_multiple
+      options:
+      - Event Planning Committee
+      - Donor Solicitation
+      - Marketing and Promotion
+      - Event Day Volunteer
+      - Major Donor Prospect
+      - Corporate Partnership
+      - Other Involvement
+      required: false
+    - id: 20
+      name: fundraising_ideas
+      label: Fundraising Ideas or Suggestions
+      hint: Any ideas for the fund drive
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: communication_header
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How you prefer to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Either email or phone
+      required: true
+    - id: 23
+      name: additional_info
+      label: Additional Information or Questions
+      hint: Any special requests or concerns
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: accessibility_needs
+      label: Accessibility or Special Needs
+      hint: Any accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: thank_you
+      label: -- Thank You --
+      hint: We appreciate your interest in supporting our mission
+      type: note
+      options: []
+      required: false

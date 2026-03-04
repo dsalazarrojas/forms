@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Appointment Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: appointment_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Scheduled
+      - Rescheduled
+      - Canceled
+      required: true
+    - id: 7
+      name: doctor_name_2
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false

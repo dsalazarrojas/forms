@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Rate Assessment Form
+    pages:
+    - id: 1
+      name: assessment_information
+      label: Assessment Information
+      hint: Details about the commission rate assessment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this rate assessment
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: assessment_id
+      label: Assessment ID
+      hint: Unique assessment reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sales_representative_info
+      label: Sales Representative Information
+      hint: Details about the sales representative
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sales_rep_name
+      label: Sales Representative Name
+      hint: Full name of the sales representative
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sales_rep_id
+      label: Sales Representative ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: territory_region
+      label: Territory Region
+      hint: Assigned sales territory or region
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_rate_info
+      label: Current Rate Information
+      hint: Details about current commission structure
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_commission_rate
+      label: Current Commission Rate
+      hint: Current commission percentage
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: current_rate_effective_date
+      label: Current Rate Effective Date
+      hint: When did current rate become effective
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: performance_metrics
+      label: Performance Metrics
+      hint: Sales performance data
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sales_last_quarter
+      label: Sales Last Quarter
+      hint: Total sales volume last quarter in USD
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: sales_year_to_date
+      label: Sales Year to Date
+      hint: Total sales volume YTD in USD
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: quota_attainment
+      label: Quota Attainment
+      hint: Percentage of quota achieved
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: performance_rating
+      label: Performance Rating
+      hint: Overall performance evaluation
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Below Expectations
+      - Needs Improvement
+      required: true
+    - id: 16
+      name: proposed_rate_info
+      label: Proposed Rate Information
+      hint: Details about proposed commission rate change
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: proposed_commission_rate
+      label: Proposed Commission Rate
+      hint: New proposed commission percentage
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: proposed_effective_date
+      label: Proposed Effective Date
+      hint: When should new rate take effect
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: rate_change_type
+      label: Rate Change Type
+      hint: Type of rate adjustment
+      type: select_one
+      options:
+      - Increase
+      - Decrease
+      - No Change
+      - Restructure
+      required: true
+    - id: 20
+      name: change_justification
+      label: Change Justification
+      hint: Reason for the proposed rate change
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: tier_structure_change
+      label: Tier Structure Change
+      hint: Is tier structure being modified
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: approval_workflow
+      label: Approval Workflow
+      hint: Approval status and routing
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: manager_name
+      label: Manager Name
+      hint: Name of requesting manager
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: approval_status
+      label: Approval Status
+      hint: Current approval status
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Denied
+      - Requires Revision
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any additional comments or considerations
+      type: text
+      options: []
+      required: false

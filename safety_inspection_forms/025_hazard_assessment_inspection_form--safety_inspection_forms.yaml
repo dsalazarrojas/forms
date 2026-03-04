@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: hazard_assessment_inspection_form
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hazard_type
+      label: hazard_type
+      hint: null
+      type: select_one
+      options:
+      - High Risk
+      - Moderate Risk
+      - Low Risk
+      required: false
+    - id: 3
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Moderate
+      - Low
+      required: false
+    - id: 4
+      name: control_measures
+      label: control_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mitigation_measures
+      label: mitigation_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: risk_factors
+      label: risk_factors
+      hint: null
+      type: select_multiple
+      options:
+      - Physical hazards
+      - Chemical hazards
+      - Biological hazards
+      - Ergonomic hazards
+      - Psychosocial hazards
+      required: false
+    - id: 7
+      name: observation_area
+      label: observation_area
+      hint: Enter area observed
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: observation_notes
+      label: observation_notes
+      hint: Enter notes for observation
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_plan
+      label: action_plan
+      hint: Enter action plan for mitigation
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: next_steps
+      hint: Enter next steps for follow-up
+      type: text
+      options: []
+      required: false

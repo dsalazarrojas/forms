@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Maintenance Request Form
+    pages:
+    - id: 1
+      name: facility_id
+      label: Facility Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_type_id
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - Equipment Maintenance
+      - Routine Maintenance
+      - Emergency Repair
+      required: false
+    - id: 3
+      name: maintenance_request_id
+      label: Maintenance Request Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: plant_id
+      label: Plant
+      hint: null
+      type: select_one
+      options:
+      - Plant A
+      - Plant B
+      - Plant C
+      required: false
+    - id: 5
+      name: priority_id
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - ChatJImmy
+      - Other
+      required: false

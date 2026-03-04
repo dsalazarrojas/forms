@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Chain Dining Experience Questionnaire
+    pages:
+    - id: 1
+      name: form_title
+      label: Restaurant Chain Dining Experience Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dining_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: food_quality
+      label: Food Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: will_visit_again
+      label: Will Visit Again
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 7
+      name: recommendations
+      label: Recommendations
+      hint: Please provide any recommendations
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

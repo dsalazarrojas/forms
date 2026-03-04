@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Rally RSVP Form
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendee_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendee_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Rally Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_time
+      label: Rally Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: event_location
+      label: Rally Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_rsvp
+      label: -- RSVP Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: will_attend
+      label: Will you be attending
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe, I am unsure
+      required: true
+    - id: 15
+      name: number_of_guests
+      label: Number of Guests Attending (including yourself)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_volunteer_info
+      label: -- Volunteer Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: interested_in_volunteering
+      label: Are you interested in volunteering at this rally
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 18
+      name: volunteer_roles
+      label: Volunteer roles interested in
+      hint: null
+      type: select_multiple
+      options:
+      - Registration
+      - Ushering
+      - Sound and Lighting
+      - Setup and Cleanup
+      - Fundraising
+      - Social Media
+      - Other
+      required: false
+    - id: 19
+      name: volunteer_hours_available
+      label: Hours you can volunteer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_special_needs
+      label: -- Special Needs and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: special_accommodations
+      label: Special accommodations needed
+      hint: Accessibility, dietary, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hearing_impaired_assistance
+      label: Do you need hearing assistance
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 23
+      name: wheelchair_accessible
+      label: Do you require wheelchair accessibility
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: how_heard_about_event
+      label: How did you hear about this rally
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - Word of Mouth
+      - Local News
+      - Campaign Website
+      - Other
+      required: false

@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Charity Dinner RSVP
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and event updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization or Company
+      hint: Your organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_status
+      label: Will You Attend?
+      hint: Please confirm your attendance
+      type: select_one
+      options:
+      - Yes, I Will Attend
+      - No, I Cannot Attend
+      - Maybe, Will Confirm Later
+      required: true
+    - id: 6
+      name: table_sponsor
+      label: Table Sponsorship
+      hint: Are you sponsoring a table?
+      type: select_one
+      options:
+      - Yes, Full Table
+      - Yes, Partial Table
+      - No, Individual Seat
+      - Not Sure
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total in your party including yourself
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: guest_names
+      label: Guest Names
+      hint: List names of all attendees
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergies
+      - Shellfish Allergies
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 10
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meal_selection
+      label: Meal Selection
+      hint: Choose your preferred entree
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - Chef Choice
+      required: true
+    - id: 12
+      name: beverage_preference
+      label: Beverage Preference
+      hint: What will you be drinking?
+      type: select_one
+      options:
+      - Wine Pairing
+      - Full Bar
+      - Beer and Wine
+      - Non-Alcoholic Only
+      - No Preference
+      required: false
+    - id: 13
+      name: donation_pledge
+      label: Donation Pledge
+      hint: Will you be making a donation?
+      type: select_one
+      options:
+      - Yes, Pledging
+      - Considering
+      - Not at This Time
+      required: false
+    - id: 14
+      name: pledge_amount
+      label: Pledge Amount
+      hint: Amount you wish to donate
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: auction_interest
+      label: Auction Interest
+      hint: Will you participate in the auction?
+      type: select_one
+      options:
+      - Yes, Active Bidder
+      - Maybe
+      - No, Just Observing
+      required: false
+    - id: 16
+      name: volunteer_interest
+      label: Volunteer Interest
+      hint: Would you like to volunteer at the event?
+      type: select_one
+      options:
+      - Yes, Interested
+      - No, Thank You
+      required: false
+    - id: 17
+      name: table_preferences
+      label: Table Preferences
+      hint: Any seating preferences?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: transportation_needed
+      label: Transportation Assistance Needed
+      hint: Do you need help with transportation?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking at the venue?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 21
+      name: photo_consent
+      label: Photo Consent
+      hint: May we use photos of you for marketing?
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, Please Do Not
+      required: true
+    - id: 22
+      name: how_heard
+      label: How Did You Hear About This Event?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Direct Invitation
+      - Email
+      - Social Media
+      - Website
+      - Word of Mouth
+      - Previous Attendee
+      - Media Coverage
+      - Other
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Any other needs or requests?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false

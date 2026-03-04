@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electric Power Transfer Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Electric Service Transfer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      required: true
+    - id: 5
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: transfer_time
+      label: Transfer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - ABC Electric
+      - DEF Electric
+      required: true
+    - id: 11
+      name: service_address
+      label: Service Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: transfer_amount
+      label: Transfer Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: transfer_reason
+      label: Transfer Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: customer_approval
+      label: Customer Approval
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

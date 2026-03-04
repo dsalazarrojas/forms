@@ -1,0 +1,83 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baby Registry Checklist
+    pages:
+      - id: 1
+        name: rsvp_section
+        label: -- RSVP and Gift Selection --
+        hint: Please let us know if you can attend and which gift you've selected
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: guest_full_name
+        label: Guest Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: rsvp_status
+        label: Will you be attending the baby shower?
+        hint: null
+        type: select_one
+        options:
+          - Yes, I'll be there!
+          - Sorry, I can't make it
+        required: true
+      - id: 4
+        name: gift_category
+        label: Gift Category Selected
+        hint: Select the category to see available items
+        type: select_one
+        options:
+          - Clothing and Textiles
+          - Feeding and Nursing
+          - Diapering and Bath
+          - Nursery and Decor
+          - Toys and Books
+          - Travel and Gear
+        required: false
+      - id: 5
+        name: specific_gift_item
+        label: Which item have you purchased or selected?
+        hint: This helps us avoid duplicate gifts
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: gift_delivery_method
+        label: How will you be sending the gift?
+        hint: null
+        type: select_one
+        options:
+          - Bringing to the shower
+          - Sending directly to parents' home
+          - Gift card only
+        required: false
+      - id: 7
+        name: message_for_parents
+        label: Leave a message for the parents-to-be
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: dietary_requirements
+        label: Any dietary requirements for the shower?
+        hint: e.g., Vegetarian, Gluten-free, etc.
+        type: text
+        options: []
+        required: false

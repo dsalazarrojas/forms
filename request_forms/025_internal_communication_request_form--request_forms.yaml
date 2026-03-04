@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: internal_communication_request_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - General
+      - IT
+      - Finance
+      - HR
+      - Facilities
+      required: true
+    - id: 6
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false

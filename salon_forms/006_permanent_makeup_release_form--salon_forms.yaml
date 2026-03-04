@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Permanent Makeup Release Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: photographer_name
+      label: Photographer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photograph_release
+      label: Photograph Release
+      hint: null
+      type: select_multiple
+      options:
+      - All photographs taken at our studio
+      - All photographs taken at your home or other location
+      - All photographs taken at other studio or location
+      required: false
+    - id: 5
+      name: video_release
+      label: Video Release
+      hint: null
+      type: select_multiple
+      options:
+      - All videos recorded at our studio
+      - All videos recorded at your home or other location
+      - All videos recorded at other studio or location
+      required: false
+    - id: 6
+      name: photo_or_video_use
+      label: Photo or Video Use
+      hint: null
+      type: select_multiple
+      options:
+      - Online advertising (social media, etc.)
+      - In studio advertising (e.g. website, brochures, etc.)
+      - Print advertising (magazines, newspapers, etc.)
+      - Educational or training purposes
+      - All of the above
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Online messaging (e.g. text, chat)
+      - In person
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Salon
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: other_specify
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_phone
+      label: Other (phone)
+      hint: null
+      type: text
+      options: []
+      required: false

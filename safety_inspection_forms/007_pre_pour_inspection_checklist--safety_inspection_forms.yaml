@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Pour Inspection Checklist
+    pages:
+    - id: 1
+      name: foundation_areas
+      label: Foundation Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: foundation_surface_type
+      label: Foundation Surface Type
+      hint: null
+      type: select_one
+      options:
+      - Concrete
+      - Aggregate
+      - Steel
+      - Brick
+      - Gravel
+      required: false
+    - id: 3
+      name: foundation_surface_condition
+      label: Foundation Surface Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: foundation_surface_damage
+      label: Foundation Surface Damage
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Hairline Cracks
+      - Spalls
+      - Settling
+      required: true
+    - id: 5
+      name: foundation_surface_clearance
+      label: Foundation Surface Clearance
+      hint: Measure in feet
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: foundation_surface_clearance_inch
+      label: Foundation Surface Clearance (Inch)
+      hint: Measure in inches
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: foundation_surface_levelness
+      label: Foundation Surface Levelness
+      hint: Measure in feet
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: foundation_surface_levelness_inch
+      label: Foundation Surface Levelness (Inch)
+      hint: Measure in inches
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: road_areas
+      label: Road Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: road_surface_type
+      label: Road Surface Type
+      hint: null
+      type: select_one
+      options:
+      - Asphalt
+      - Concrete
+      - Gravel
+      required: false
+    - id: 11
+      name: road_surface_condition
+      label: Road Surface Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: road_surface_damage
+      label: Road Surface Damage
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Hairline Cracks
+      - Spalls
+      - Settling
+      required: true
+    - id: 13
+      name: road_surface_clearance
+      label: Road Surface Clearance
+      hint: Measure in feet
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: road_surface_clearance_inch
+      label: Road Surface Clearance (Inch)
+      hint: Measure in inches
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: road_surface_levelness
+      label: Road Surface Levelness
+      hint: Measure in feet
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: road_surface_levelness_inch
+      label: Road Surface Levelness (Inch)
+      hint: Measure in inches
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: sidewalk_areas
+      label: Sidewalk Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sidewalk_surface_type
+      label: Sidewalk Surface Type
+      hint: null
+      type: select_one
+      options:
+      - Concrete
+      - Aggregate
+      - Steel
+      - Brick
+      - Gravel
+      required: false
+    - id: 19
+      name: sidewalk_surface_condition
+      label: Sidewalk Surface Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 20
+      name: sidewalk_surface_damage
+      label: Sidewalk Surface Damage
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Hairline Cracks
+      - Spalls
+      - Settling
+      required: true
+    - id: 21
+      name: sidewalk_surface_clearance
+      label: Sidewalk Surface Clearance
+      hint: Measure in feet
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: sidewalk_surface_clearance_inch
+      label: Sidewalk Surface Clearance (Inch)
+      hint: Measure in inches
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: sidewalk_surface_levelness
+      label: Sidewalk Surface Levelness
+      hint: Measure in feet
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: sidewalk_surface_levelness_inch
+      label: Sidewalk Surface Levelness (Inch)
+      hint: Measure in inches
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

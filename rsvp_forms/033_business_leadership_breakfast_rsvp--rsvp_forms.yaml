@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Leadership Breakfast RSVP
+    pages:
+    - id: 1
+      name: header
+      label: -- Event RSVP --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name for name badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or affiliation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For event updates and confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: number_of_guests
+      label: Number of guests
+      hint: Include yourself in count
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: dietary_requirements
+      label: Dietary requirements
+      hint: Any allergies or special diets
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendance_type
+      label: Attendance type
+      hint: Choose session attendance
+      type: select_one
+      options:
+      - In person
+      - Virtual
+      required: true
+    - id: 8
+      name: seating_preference
+      label: Seating preference
+      hint: Table or seating requests
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special requests
+      hint: Any additional event accommodations
+      type: text
+      options: []
+      required: false

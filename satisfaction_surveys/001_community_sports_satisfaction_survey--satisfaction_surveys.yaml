@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Sports Satisfaction Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Full Name
+      hint: Please enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: We may contact you for follow-up questions
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 12
+      - 12-17
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 and older
+      required: true
+    - id: 5
+      name: sport_program
+      label: Which sports program did you participate in?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Soccer
+      - Basketball
+      - Baseball/Softball
+      - Football
+      - Tennis
+      - Swimming
+      - Track and Field
+      - Volleyball
+      - Other
+      required: true
+    - id: 6
+      name: program_season
+      label: Program Season
+      hint: When did you participate?
+      type: select_one
+      options:
+      - Spring 2025
+      - Summer 2025
+      - Fall 2025
+      - Winter 2025
+      - Spring 2024
+      - Summer 2024
+      required: true
+    - id: 7
+      name: facility_rating
+      label: How would you rate the quality of sports facilities?
+      hint: Rate from poor to excellent
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 8
+      name: coaching_quality
+      label: How would you rate the quality of coaching?
+      hint: Consider knowledge, communication, and support
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 9
+      name: equipment_condition
+      label: How satisfied are you with the equipment provided?
+      hint: Balls, nets, goals, etc.
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: program_organization
+      label: How well organized was the program?
+      hint: Consider scheduling, communication, and logistics
+      type: select_one
+      options:
+      - Very Poorly
+      - Poorly
+      - Adequately
+      - Well
+      - Very Well
+      required: true
+    - id: 11
+      name: safety_measures
+      label: How would you rate the safety measures in place?
+      hint: First aid, supervision, equipment safety
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 12
+      name: value_for_money
+      label: Do you feel the program offered good value for the cost?
+      hint: Consider fees versus quality received
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 13
+      name: would_recommend
+      label: Would you recommend this program to others?
+      hint: Your honest opinion helps us improve
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Maybe
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 14
+      name: will_participate_again
+      label: Do you plan to participate in future programs?
+      hint: Let us know your intentions
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 15
+      name: best_aspect
+      label: What was the best aspect of the program?
+      hint: What did you enjoy most?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: areas_for_improvement
+      label: What areas need improvement?
+      hint: Please be specific about what could be better
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Any additional comments or suggestions?
+      hint: We value your feedback
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: survey_date
+      label: Date of Survey Completion
+      hint: Auto-filled with today's date
+      type: date
+      options: []
+      required: true

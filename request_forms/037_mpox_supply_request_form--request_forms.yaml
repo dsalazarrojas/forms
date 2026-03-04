@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Supply Request Form
+    pages:
+    - id: 1
+      name: mpox_supply_request_form
+      label: Mpox Supply Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_number
+      label: Item Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_type
+      label: Item Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: item_location
+      label: Item Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Archived
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - ChatSam
+      - ChatBob
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Save Draft
+      required: false
+    - id: 16
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false

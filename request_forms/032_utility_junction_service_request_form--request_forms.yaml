@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Junction Service Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_request
+      label: service_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Electricity'', ''value'': ''electricity''}'
+      - '{''id'': 2, ''name'': ''Water'', ''value'': ''water''}'
+      - '{''id'': 3, ''name'': ''Gas'', ''value'': ''gas''}'
+      required: true
+    - id: 4
+      name: service_area
+      label: service_area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''North'', ''value'': ''north''}'
+      - '{''id'': 2, ''name'': ''South'', ''value'': ''south''}'
+      - '{''id'': 3, ''name'': ''East'', ''value'': ''east''}'
+      - '{''id'': 4, ''name'': ''West'', ''value'': ''west''}'
+      required: true
+    - id: 5
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: utility_junction_service_request
+      label: utility_junction_service_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjประก'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 13
+      name: service_request_date
+      label: service_request_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: service_request_time
+      label: service_request_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: service_request_notes
+      label: service_request_notes
+      hint: null
+      type: text
+      options: []
+      required: false

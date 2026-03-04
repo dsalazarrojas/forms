@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automotive Safety Verification Request Form
+    pages:
+    - id: 1
+      name: section_header_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization or Fleet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_vehicle
+      label: -- Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: license_plate
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: mileage
+      label: Current Mileage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_header_inspection
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: requested_date
+      label: Requested Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: inspection_type
+      label: Type of Inspection Needed
+      hint: null
+      type: select_one
+      options:
+      - Emissions Testing
+      - Safety Inspection
+      - Full Vehicle Inspection
+      - Mechanical Safety Check
+      - Electrical Systems Check
+      - Brake System Inspection
+      required: true
+    - id: 16
+      name: inspection_reason
+      label: Reason for Inspection
+      hint: null
+      type: select_one
+      options:
+      - Routine Maintenance
+      - Pre-Purchase Inspection
+      - Accident Investigation
+      - Compliance Check
+      - Fleet Management
+      - Warranty Service
+      - Other
+      required: true
+    - id: 17
+      name: section_header_issues
+      label: -- Specific Issues or Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: reported_issues
+      label: Any Reported Issues or Concerns
+      hint: Describe any known problems
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: warning_lights
+      label: Are Any Warning Lights Illuminated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 20
+      name: accident_history
+      label: Vehicle Has Been in Accident
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 21
+      name: section_header_safety
+      label: -- Safety Concern Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Critical - Safety Risk
+      - High - Major Issue
+      - Medium - Routine
+      - Low - General Check
+      required: true
+    - id: 23
+      name: section_header_scheduling
+      label: -- Scheduling Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: preferred_time
+      label: Preferred Inspection Time
+      hint: null
+      type: select_one
+      options:
+      - Morning (8 AM - 12 PM)
+      - Afternoon (12 PM - 5 PM)
+      - Early Evening (5 PM - 7 PM)
+      - Flexible
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

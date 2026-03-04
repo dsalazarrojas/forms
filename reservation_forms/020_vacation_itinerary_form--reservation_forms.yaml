@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Itinerary Form
+    pages:
+    - id: 1
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: departure_city
+      label: Departure City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: arrival_city
+      label: Arrival City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_duration
+      label: Travel Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: travel_mode_options
+      label: None
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''flight''}'
+      - '{''option'': ''train''}'
+      - '{''option'': ''bus''}'
+      required: false
+    - id: 7
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''agency1''}'
+      - '{''option'': ''agency2''}'
+      required: false
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transaction Assistance Request Form
+    pages:
+    - id: 1
+      name: transaction_assistance_request_form
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 8
+      name: transaction_type
+      label: Transaction Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''cash'', ''value'': ''cash''}'
+      - '{''label'': ''check'', ''value'': ''check''}'
+      required: false
+    - id: 9
+      name: transaction_status
+      label: Transaction Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''pending'', ''value'': ''pending''}'
+      - '{''label'': ''complete'', ''value'': ''complete''}'
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Supply Chain Audit Form
+    pages:
+    - id: 1
+      name: supplier_name
+      label: supplier_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supplier_phone
+      label: supplier_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supplier_address
+      label: supplier_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_last_order
+      label: date_last_order
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: order_frequency
+      label: order_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: order_frequency_type
+      label: order_frequency_type
+      hint: null
+      type: select_one
+      options:
+      - Frequent
+      - Infrequent
+      - Rare
+      required: false
+    - id: 7
+      name: receiving_location
+      label: receiving_location
+      hint: null
+      type: select_multiple
+      options:
+      - Receiving Location 1
+      - Receiving Location 2
+      - Receiving Location 3
+      required: false
+    - id: 8
+      name: receiving_time
+      label: receiving_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: receiving_frequency
+      label: receiving_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: receiving_frequency_type
+      label: receiving_frequency_type
+      hint: null
+      type: select_one
+      options:
+      - Frequent
+      - Infrequent
+      - Rare
+      required: false
+    - id: 11
+      name: quality_control
+      label: quality_control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 12
+      name: followup_required
+      label: followup_required
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false

@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stadium Security Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: venue_details
+      label: Venue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: security_plan
+      label: Security Plan
+      hint: Please enter a short description of your current security plan
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: security_measures
+      label: Security Measures
+      hint: What measures do you have in place to address potential risks?
+      type: select_multiple
+      options:
+      - '{''value'': ''CCTV''}'
+      - '{''value'': ''Emergency Response Plan''}'
+      - '{''value'': ''First Aid Kit''}'
+      - '{''value'': ''Locks and Keys''}'
+      - '{''value'': ''Secure Communication''}'
+      - '{''value'': ''Access Control System''}'
+      - '{''value'': ''Alarm System''}'
+      - '{''value'': ''Other (please describe)''}'
+      required: true
+    - id: 6
+      name: emergency_contact_details
+      label: Emergency Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_report
+      label: Incident Report
+      hint: Describe any incidents that occurred during the assessment
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_security_rating
+      label: Overall Security Rating
+      hint: Rate the overall security readiness of this venue
+      type: select_one
+      options:
+      - '{''value'': ''1-2'', ''label'': ''Not Very Secure''}'
+      - '{''value'': ''2-3'', ''label'': ''Somewhat Secure''}'
+      - '{''value'': ''4-5'', ''label'': ''Very Secure''}'
+      - '{''value'': 5, ''label'': ''Extremely Secure''}'
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: Time of submission
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned to
+      hint: Who was the form submitted by
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_method
+      label: Submission Method
+      hint: How was the form submitted?
+      type: select_one
+      options:
+      - '{''value'': ''In Person'', ''label'': ''In Person''}'
+      - '{''value'': ''Via Email'', ''label'': ''Via Email''}'
+      - '{''value'': ''Online Submission'', ''label'': ''Online Submission''}'
+      required: true
+    - id: 21
+      name: submission_device
+      label: Submission Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false

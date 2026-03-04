@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: kathryns_color_match_form
+    pages:
+    - id: 1
+      name: color_match_form
+      label: Match Color Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: color_match_question
+      label: What color is your match?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: color_match_answer
+      label: Your color match is
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: color_match_description
+      label: Description
+      hint: Describe your match
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: color_match_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

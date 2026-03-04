@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Glue Ingredient Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ingredient_knowledge
+      label: ingredient_knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - Acrylic
+      - Cyanoacrylate
+      - Cyanoacrylate-based
+      - Latex
+      - Lash
+      - Polyurethane-based
+      - Polyvinylpyrrolidone-based
+      - Polyvinylpyrrolidone
+      - PVA
+      - PU-free
+      - Silicone
+      - Silicone-based
+      - Water-based
+      required: true
+    - id: 3
+      name: reaction
+      label: reaction
+      hint: null
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Severe
+      required: true
+    - id: 4
+      name: information_source
+      label: information_source
+      hint: null
+      type: select_multiple
+      options:
+      - Salon
+      - Brand website
+      - Social media
+      - Google
+      - Other
+      - None
+      required: true
+    - id: 5
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true

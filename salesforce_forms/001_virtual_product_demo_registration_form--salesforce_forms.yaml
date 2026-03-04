@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Product Demo Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_one_appointment
+      label: Select One Appoinmt
+      hint: null
+      type: select_one
+      options:
+      - 8:00 am - 9:00 am
+      - 9:00 am - 10:00 am
+      - 10:00 am - 11:00 am
+      required: true
+    - id: 6
+      name: select_multiple_appointments
+      label: Select Multiple Appoinmnts
+      hint: null
+      type: select_multiple
+      options:
+      - 8:00 am - 9:00 am
+      - 9:00 am - 10:00 am
+      - 10:00 am - 11:00 am
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backdate Request Form
+    pages:
+    - id: 1
+      name: backdate_request_header
+      label: -- Internal Transaction/Record Backdate Request --
+      hint: Use this form to request a retrospective date change for an official record
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name_backdate
+      label: Name of Requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_backdate
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: record_reference_id
+      label: Record or Transaction Reference ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_recorded_date
+      label: Current Date on Record
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: requested_backdate_target
+      label: Requested New (Retrospective) Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_backdating
+      label: Primary Reason for Request
+      hint: null
+      type: select_one
+      options:
+      - Clerical/Entry Error
+      - Delayed System Availability
+      - Document Received After Posting
+      - Correction of Previous Entry
+      - Other (Explain below)
+      required: true
+    - id: 8
+      name: detailed_justification
+      label: Detailed Justification for Backdate
+      hint: Explain why this change is necessary and accurate
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supporting_documentation_desc
+      label: Supporting Documentation Description
+      hint: Describe any files or emails that justify this request
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: impact_of_change
+      label: Impact of this change on other records
+      hint: e.g., will it affect financial reporting or payroll?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_approver_name
+      label: Name of Approving Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: requester_declaration_backdate
+      label: I certify that this request is made to ensure record accuracy
+      hint: Misrepresentation may lead to disciplinary action
+      type: select_one
+      options:
+      - I certify and agree
+      - Other
+      required: true
+    - id: 13
+      name: submission_date_backdate
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: request_status_internal
+      label: Request Status (For Admin Use)
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Documentation Requested
+      - Approved
+      - Denied
+      required: false

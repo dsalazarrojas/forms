@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waitlist Form
+    pages:
+    - id: 1
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 2
+      name: reservation_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reservation_method
+      label: Method
+      hint: null
+      type: select_one
+      options:
+      - Reservation
+      - Cancellation
+      required: false
+    - id: 6
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: select_multiple
+      options:
+      - Cancelled
+      - No Show
+      - Customer
+      - Other
+      required: false
+    - id: 7
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reservation_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - Waitlisted
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: customer_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: customer_address_2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_zip
+      label: Zip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: customer_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: status_update
+      label: Status Update
+      hint: null
+      type: select_one
+      options:
+      - Updated
+      - Not Updated
+      required: false
+    - id: 24
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - Updated By
+      - Not Updated
+      required: false
+    - id: 25
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false

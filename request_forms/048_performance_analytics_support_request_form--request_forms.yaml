@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Analytics Support Request Form
+    pages:
+    - id: 1
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - Analytics and dashboard support
+      - Data and reporting support
+      - Other
+      required: false
+    - id: 3
+      name: problem_description
+      label: problem_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: urgency
+      label: urgency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: expected_response_time
+      label: expected_response_time
+      hint: null
+      type: select_multiple
+      options:
+      - 1 hour
+      - 2 hours
+      - 4 hours
+      - 8 hours
+      required: false
+    - id: 6
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Request Forms
+      - Report Forms
+      - Other
+      required: false
+    - id: 8
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

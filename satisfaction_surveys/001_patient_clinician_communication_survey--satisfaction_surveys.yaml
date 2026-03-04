@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Clinician Communication Survey
+    pages:
+    - id: 1
+      name: patient_categorization
+      label: Patient Categorization
+      hint: null
+      type: select_one
+      options:
+      - Patient
+      - Clinician
+      - Other
+      required: false
+    - id: 2
+      name: provider_type
+      label: Provider Type
+      hint: null
+      type: select_one
+      options:
+      - General Practitioner
+      - Specialist
+      - Other
+      required: false
+    - id: 3
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Face-to-face
+      - Telephone
+      - Email
+      - SMS
+      required: false
+    - id: 4
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Sometimes
+      - Often
+      - Very Often
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: false
+    - id: 6
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Understanding
+      - Responsiveness
+      - Communication
+      - Other
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_ids
+      label: Form Ids
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Satisfaction Surveys
+      - Feedback Forms
+      required: false
+    - id: 12
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

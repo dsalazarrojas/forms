@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - service_type_1
+      - Other
+      required: false
+    - id: 5
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_multiple
+      options:
+      - hair_type_1
+      - hair_type_2
+      - hair_type_3
+      required: false
+    - id: 6
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - color_scheme_1
+      - color_scheme_2
+      - color_scheme_3
+      required: false
+    - id: 7
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_one
+      options:
+      - eye_color_1
+      - eye_color_2
+      - eye_color_3
+      required: false
+    - id: 8
+      name: lip_color
+      label: Lip Color
+      hint: null
+      type: select_one
+      options:
+      - lip_color_1
+      - lip_color_2
+      - lip_color_3
+      required: false
+    - id: 9
+      name: eye_brow_color
+      label: Eyebrow Color
+      hint: null
+      type: select_one
+      options:
+      - eye_brow_color_1
+      - eye_brow_color_2
+      - eye_brow_color_3
+      required: false
+    - id: 10
+      name: brow_type
+      label: Brow Type
+      hint: null
+      type: select_one
+      options:
+      - brow_type_1
+      - brow_type_2
+      - brow_type_3
+      required: false
+    - id: 11
+      name: brow_style
+      label: Brow Style
+      hint: null
+      type: select_one
+      options:
+      - brow_style_1
+      - brow_style_2
+      - brow_style_3
+      required: false
+    - id: 12
+      name: service_duration
+      label: Service Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: makeup_style
+      label: MakeUp Style
+      hint: null
+      type: select_one
+      options:
+      - make_up_style_1
+      - make_up_style_2
+      - make_up_style_3
+      required: false
+    - id: 14
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: note
+      options: []
+      required: false

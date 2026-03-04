@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Enrollment Request Form
+    pages:
+    - id: 1
+      name: section_applicant_info
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Full street address, city, state, and ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_account_details
+      label: -- Account Enrollment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: account_type
+      label: Account Type Requested
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Joint
+      - Student
+      - Non-profit
+      required: true
+    - id: 9
+      name: service_plan
+      label: Service Plan or Tier
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Standard
+      - Premium
+      - Enterprise
+      required: true
+    - id: 10
+      name: company_name
+      label: Company or Organization Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_id
+      label: Tax ID or EIN (for business accounts)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Referral from a friend
+      - Advertisement
+      - Trade show or event
+      - Other
+      required: false
+    - id: 13
+      name: preferred_start_date
+      label: Preferred Account Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: section_agreements
+      label: -- Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: terms_accepted
+      label: I Agree to the Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 16
+      name: privacy_policy_accepted
+      label: I Acknowledge the Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - false
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

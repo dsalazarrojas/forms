@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_document_archive_request_form
+    pages:
+    - id: 1
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Multi Family
+      - Townhouse
+      - Condo
+      - Commercial
+      - Other
+      required: true
+    - id: 3
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: date_of_request
+      label: date_of_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_transfer
+      label: date_of_transfer
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: document_details
+      label: document_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_multiple
+      options:
+      - Deed
+      - Lease
+      - Contract
+      - Other
+      required: false
+    - id: 11
+      name: document_date
+      label: document_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: document_number
+      label: document_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: requestor_comments
+      label: requestor_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: realtor_name
+      label: realtor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: realtor_license_number
+      label: realtor_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: realtor_phone
+      label: realtor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: requestor_signature
+      label: requestor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: realtor_signature
+      label: realtor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: requestor_name
+      label: requestor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: requestor_email
+      label: requestor_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: requestor_phone
+      label: requestor_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: requestor_address
+      label: requestor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: realtor_address
+      label: realtor_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: realtor_fax
+      label: realtor_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: realtor_company
+      label: realtor_company
+      hint: null
+      type: text
+      options: []
+      required: false

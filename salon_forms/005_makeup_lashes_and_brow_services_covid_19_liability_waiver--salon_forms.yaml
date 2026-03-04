@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup, Lashes And Brow Services COVID 19 Liability Waiver
+    pages:
+    - id: 1
+      name: salon_name
+      label: Salon Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: makeup_services
+      label: Makeup Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: services_selected
+      label: Select Services
+      hint: null
+      type: select_one
+      options:
+      - Lash Extensions
+      - Brow Services
+      - Makeup
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Required for contact purposes only
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: service_time
+      label: Service Time
+      hint: In minutes
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_services
+      label: Number of Services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date_of_signature
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: false

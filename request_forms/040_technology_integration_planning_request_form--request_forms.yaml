@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technology Integration Planning Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: it_request_form
+      label: IT Request Form
+      hint: null
+      type: select_multiple
+      options:
+      - IT Support
+      - IT Planning
+      required: false
+    - id: 3
+      name: technology_integration_planning_request_form
+      label: Technology Integration Planning Request Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: goals
+      label: Goals
+      hint: Briefly describe the goals of the new tool or platform.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: timelines
+      label: Timelines
+      hint: Provide the expected timelines for the new tool or platform.
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: support_needs
+      label: Support Needs
+      hint: List any support needs for the new tool or platform.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: operations_team
+      label: Operations Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: it_team
+      label: IT Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: description
+      label: Description
+      hint: Briefly describe the tool or platform.
+      type: text
+      options: []
+      required: false

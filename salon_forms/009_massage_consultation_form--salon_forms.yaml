@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: massage_consultation_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - High Blood Pressure
+      - Pregnancy
+      - Other
+      required: true
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: massage_therapy_goal
+      label: Massage Therapy Goal
+      hint: null
+      type: select_one
+      options:
+      - Pain Relief
+      - Relaxation
+      - Improved Flexibility
+      - Other
+      required: true
+    - id: 9
+      name: massage_frequency
+      label: Massage Frequency
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: true
+    - id: 10
+      name: massage_area
+      label: Massage Area
+      hint: null
+      type: select_multiple
+      options:
+      - Back
+      - Neck
+      - Head
+      - Shoulders
+      - Hips
+      required: true
+    - id: 11
+      name: additional_goals
+      label: Additional Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Pain Relief
+      - Relaxation
+      - Improved Flexibility
+      - Stress Reduction
+      required: false

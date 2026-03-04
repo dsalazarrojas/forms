@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: YoniVaginal Steam Intake Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact
+      label: Contact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      required: false
+    - id: 4
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Haircut'', ''value'': ''haircut''}'
+      - '{''label'': ''Color'', ''value'': ''color''}'
+      - '{''label'': ''Trim'', ''value'': ''trim''}'
+      - '{''label'': ''Style'', ''value'': ''style''}'
+      required: false
+    - id: 7
+      name: length
+      label: length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: duration
+      label: duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false

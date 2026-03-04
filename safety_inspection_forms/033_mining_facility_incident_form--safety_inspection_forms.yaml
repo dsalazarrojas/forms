@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mining Facility Incident Form
+    pages:
+    - id: 1
+      name: mining_facility_incident_form_page
+      label: Incident Report
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: Type of Incident
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_injuries
+      label: Injuries
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: incident_damage
+      label: Damage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: incident_weather
+      label: Weather
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: incident_employees_involved
+      label: Employees Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: incident_equipment_involved
+      label: Equipment Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: witness_list
+      label: Witness List
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: witness_notes
+      label: Witness Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: text
+      options: []
+      required: true

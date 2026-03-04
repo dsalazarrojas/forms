@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaker Request Form
+    pages:
+    - id: 1
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_email
+      label: Speaker Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: speaker_phone
+      label: Speaker Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: speaker_url
+      label: Speaker URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: speaker_bio
+      label: Speaker Bio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: speaker_topics
+      label: Speaker Topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: speaker_topics_2
+      label: Speaker Topics 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: speaker_image
+      label: Speaker Image
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: speaker_video
+      label: Speaker Video
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: speaker_audio
+      label: Speaker Audio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: speaker_date
+      label: Speaker Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: speaker_time
+      label: Speaker Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: speaker_location
+      label: Speaker Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: speaker_additional_info
+      label: Speaker Additional Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: form_output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_created_at
+      label: Form Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_updated_at
+      label: Form Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Armed Offender Response Checklist
+    pages:
+    - id: 1
+      name: section_incident_info
+      label: -- Incident Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Location of Incident
+      hint: Building, facility, or address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporting_officer
+      label: Officer or Staff Member Reporting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: report_date
+      label: Date Report Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_threat_assessment
+      label: -- Threat Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: offender_description
+      label: Description of offender
+      hint: Physical appearance, clothing, identifying marks
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: weapon_type
+      label: Type of weapon observed
+      hint: null
+      type: select_one
+      options:
+      - Firearm
+      - Knife
+      - Explosive device
+      - Blunt object
+      - Other weapon
+      - Unknown
+      required: true
+    - id: 10
+      name: weapon_confirmation
+      label: Is weapon still present
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 11
+      name: threat_level
+      label: Threat level assessment
+      hint: null
+      type: select_one
+      options:
+      - Low threat
+      - Medium threat
+      - High threat
+      - Critical threat
+      required: true
+    - id: 12
+      name: section_response
+      label: -- Response Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emergency_services_called
+      label: Emergency services called
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: true
+    - id: 14
+      name: evacuation_initiated
+      label: Evacuation initiated
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      - Not needed
+      required: true
+    - id: 15
+      name: lockdown_initiated
+      label: Lockdown or shelter-in-place initiated
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      - Not needed
+      required: true
+    - id: 16
+      name: communication_issued
+      label: Staff and occupant communication issued
+      hint: null
+      type: select_one
+      options:
+      - Yes - PA system
+      - Yes - email alert
+      - Yes - other method
+      - false
+      required: true
+    - id: 17
+      name: section_personnel
+      label: -- Personnel and Injuries --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: injuries_sustained
+      label: Any injuries sustained
+      hint: null
+      type: select_one
+      options:
+      - No injuries
+      - Minor injuries
+      - Moderate injuries
+      - Severe injuries
+      - Fatalities
+      required: true
+    - id: 19
+      name: persons_injured_count
+      label: Number of people injured
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: first_aid_provided
+      label: First aid provided
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In progress
+      required: false
+    - id: 21
+      name: section_documentation
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: witnesses_present
+      label: Witnesses present
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: witness_count
+      label: Number of witnesses
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: video_recorded
+      label: Incident recorded on security video
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: false
+    - id: 25
+      name: additional_details
+      label: Additional details or observations
+      hint: null
+      type: text
+      options: []
+      required: false

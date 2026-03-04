@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Product Delivery Satisfaction Survey
+    pages:
+    - id: 1
+      name: delivery_experience
+      label: Delivery Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_quality
+      label: Product Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very dissatisfied''}'
+      - '{''value'': 2, ''label'': ''Somewhat dissatisfied''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Somewhat satisfied''}'
+      - '{''value'': 5, ''label'': ''Very satisfied''}'
+      required: true
+    - id: 5
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: packaging
+      label: Packaging
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Excellent''}'
+      - '{''value'': 2, ''label'': ''Good''}'
+      - '{''value'': 3, ''label'': ''Fair''}'
+      required: true
+    - id: 7
+      name: product_condition
+      label: Product Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''New''}'
+      - '{''value'': 2, ''label'': ''Gently used''}'
+      - '{''value'': 3, ''label'': ''Used''}'
+      required: true
+    - id: 8
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''On time''}'
+      - '{''value'': 2, ''label'': ''Delayed''}'
+      - '{''value'': 3, ''label'': ''Cancelled''}'
+      required: true
+    - id: 9
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Phone''}'
+      - '{''value'': 2, ''label'': ''Email''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: delivery_person
+      label: Delivery Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_company
+      label: Delivery Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: product_type
+      label: Product Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Received''}'
+      - '{''value'': 2, ''label'': ''Not received''}'
+      required: true
+    - id: 18
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: delivery_person_note
+      label: Delivery Person Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: delivery_person_phone
+      label: Delivery Person Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: delivery_person_email
+      label: Delivery Person Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: delivery_person_comment
+      label: Delivery Person Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: delivery_person_company
+      label: Delivery Person Company
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: paypal_payment_form
+    pages:
+    - id: 1
+      name: payment_details
+      label: PayPal Payment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: country
+      label: country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - Mexico
+      required: false
+    - id: 6
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Visa
+      - Mastercard
+      required: false
+    - id: 8
+      name: confirm_payment
+      label: confirm_payment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: confirm_email
+      label: confirm_email
+      hint: null
+      type: email
+      options: []
+      required: false

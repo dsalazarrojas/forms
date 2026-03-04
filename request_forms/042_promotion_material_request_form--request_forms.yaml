@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotion Material Request Form
+    pages:
+    - id: 1
+      name: promotion_material_request
+      label: Promotion Material Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: material_requested
+      label: Material Requested
+      hint: null
+      type: select_one
+      options:
+      - Material A
+      - Material B
+      - Material C
+      required: false
+    - id: 4
+      name: purpose_event
+      label: Purpose of Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: example_designs
+      label: Example Designs
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: personal_informations
+      label: Personal Informations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

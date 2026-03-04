@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Formulary Activation Request
+    pages:
+    - id: 1
+      name: formulary_activation_request_form
+      label: formulary_activation_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_name
+      label: form_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_version
+      label: form_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_type
+      label: form_type
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Proposed
+      - Closed
+      required: false
+    - id: 5
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - General
+      - Specialty
+      required: false
+    - id: 6
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: review_by
+      label: review_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: approver
+      label: approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: approve_date
+      label: approve_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: reject_reason
+      label: reject_reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fax
+      label: fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_owner
+      label: form_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_owner_email
+      label: form_owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: form_owner_phone
+      label: form_owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_owner_fax
+      label: form_owner_fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_email
+      label: reviewer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_phone
+      label: reviewer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reviewer_fax
+      label: reviewer_fax
+      hint: null
+      type: text
+      options: []
+      required: false

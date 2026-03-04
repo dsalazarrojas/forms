@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Police Report Request Form
+    pages:
+    - id: 1
+      name: police_report_request_form
+      label: police_report_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_incident
+      label: date_of_incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_incident
+      label: time_of_incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: police_report_type
+      label: police_report_type
+      hint: null
+      type: select_one
+      options:
+      - Police Report 1
+      - Police Report 2
+      - Police Report 3
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: police_department
+      label: police_department
+      hint: null
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

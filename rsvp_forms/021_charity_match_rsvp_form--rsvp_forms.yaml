@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Match RSVP Form
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For event details
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_rsvp
+      label: -- Event RSVP --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Which event are you RSVPing for
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: rsvp_status
+      label: Will You Attend
+      hint: Your RSVP response
+      type: select_one
+      options:
+      - Yes, I Will Attend
+      - Maybe
+      - No, I Cannot Attend
+      required: true
+    - id: 10
+      name: party_size
+      label: Number of Guests in Your Party
+      hint: How many people will attend
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: guest_names
+      label: Names of Other Guests
+      hint: List names of people in your party
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_preferences
+      label: -- Preferences and Dietary Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: All restrictions for your group
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: seating_preference
+      label: Seating Preference
+      hint: Any special seating requests
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility Accommodations Needed
+      hint: Wheelchair access, hearing assistance, etc
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_interest
+      label: -- Interest and Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Would you like to help
+      type: select_one
+      options:
+      - 'Yes'
+      - Maybe
+      - 'No'
+      required: false
+    - id: 18
+      name: donation_interest
+      label: Interested in Making a Donation
+      hint: Would you consider donating
+      type: select_one
+      options:
+      - 'Yes'
+      - Maybe
+      - 'No'
+      required: false
+    - id: 19
+      name: donation_amount
+      label: Suggested Donation Amount
+      hint: If interested in donating
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: how_heard
+      label: How Did You Hear About This Event
+      hint: What is your information source
+      type: select_one
+      options:
+      - Email
+      - Social Media
+      - Word of Mouth
+      - Website
+      - Other
+      required: false
+    - id: 21
+      name: rsvp_date
+      label: Date of RSVP
+      hint: When are you submitting this
+      type: date
+      options: []
+      required: true

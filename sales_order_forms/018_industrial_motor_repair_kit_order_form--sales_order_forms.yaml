@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_motor_repair_kit_order_form
+    pages:
+    - id: 1
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Standard Shipping''}'
+      - '{''id'': 2, ''name'': ''Express Shipping''}'
+      - '{''id'': 3, ''name'': ''Pickup''}'
+      required: true
+    - id: 3
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_item
+      label: order_item
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Motor Repair Kit A''}'
+      - '{''id'': 2, ''name'': ''Motor Repair Kit B''}'
+      - '{''id'': 3, ''name'': ''Motor Repair Kit C''}'
+      required: true
+    - id: 9
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Credit Card''}'
+      - '{''id'': 2, ''name'': ''Bank Transfer''}'
+      required: true
+    - id: 10
+      name: payment_details
+      label: payment_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: payment_date
+      label: payment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: notes_2
+      label: notes_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: notes_3
+      label: notes_3
+      hint: null
+      type: note
+      options: []
+      required: false

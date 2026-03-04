@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Expense Reimbursement Form
+    pages:
+    - id: 1
+      name: employee_section
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: Your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_section
+      label: -- Request Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: Date form is being submitted
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: expense_period_start
+      label: Expense Period Start
+      hint: Start date of expenses
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: expense_period_end
+      label: Expense Period End
+      hint: End date of expenses
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: total_amount
+      label: Total Reimbursement Amount
+      hint: Total amount being requested
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: expense_breakdown_section
+      label: -- Expense Breakdown --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: travel_expenses
+      label: Travel Expenses
+      hint: Transportation, flights, etc.
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: lodging_expenses
+      label: Lodging Expenses
+      hint: Hotel and accommodation
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: meal_expenses
+      label: Meal Expenses
+      hint: Food and beverages
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: entertainment_expenses
+      label: Entertainment Expenses
+      hint: Client entertainment and events
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: office_expenses
+      label: Office Supplies and Equipment
+      hint: Supplies and office items
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: other_expenses
+      label: Other Expenses
+      hint: Any other business expenses
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: documentation_section
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: receipt_status
+      label: Receipt Status
+      hint: Do you have receipts?
+      type: select_one
+      options:
+      - Yes - all receipts
+      - Yes - most receipts
+      - Some receipts missing
+      - No receipts
+      required: true
+    - id: 20
+      name: missing_receipt_reason
+      label: Reason for missing receipts (if applicable)
+      hint: Explain why receipts are unavailable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: business_purpose
+      label: Business Purpose
+      hint: Why were these expenses incurred?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: business_benefit
+      label: Business Benefit
+      hint: How did this benefit the company?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approval_section
+      label: -- Approval and Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: certification
+      label: I certify all expenses are accurate and business-related
+      hint: You must certify to submit
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: reimbursement_method
+      label: Preferred Reimbursement Method
+      hint: How should you be reimbursed?
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check
+      - Corporate Card Credit
+      required: true

@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Reception Invitation Form
+    pages:
+    - id: 1
+      name: wedding_details
+      label: Wedding Details
+      hint: Enter the wedding date, time, and location
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp
+      label: RSVP
+      hint: Respond to this invitation
+      type: select_multiple
+      options:
+      - Attending
+      - Declining
+      - Maybe
+      required: false
+    - id: 3
+      name: rsvp_note
+      label: RSVP Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: List any special requests (e.g. dietary restrictions)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meal_preferences
+      label: Meal Preferences
+      hint: null
+      type: select_one
+      options:
+      - Beef
+      - Vegetarian
+      - Vegetarian
+      - Other
+      required: false
+    - id: 9
+      name: meal_note
+      label: Meal Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attending
+      label: Attending
+      hint: null
+      type: select_one
+      options:
+      - Attending
+      - Declining
+      - Maybe
+      required: false
+    - id: 12
+      name: meal_attendance
+      label: Meal Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - Beef
+      - Vegetarian
+      - Both
+      required: false
+    - id: 13
+      name: special_notes
+      label: Special Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dressing_code
+      label: Dressing Code
+      hint: null
+      type: select_multiple
+      options:
+      - Formal
+      - Casual
+      required: false
+    - id: 18
+      name: dress_code_note
+      label: Dress Code Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: transportation
+      label: Transportation
+      hint: null
+      type: select_one
+      options:
+      - By car
+      - By bus
+      - By train
+      required: false
+    - id: 20
+      name: transportation_note
+      label: Transportation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: accommodations
+      label: Accommodations
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Motel
+      - None
+      required: false
+    - id: 22
+      name: accommodations_note
+      label: Accommodations Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: special_dietary_needs
+      label: Special Dietary Needs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: other_special_requests
+      label: Other Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_note
+      label: Submit Note
+      hint: null
+      type: note
+      options: []
+      required: false

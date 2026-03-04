@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Selection For Phone Hold
+    pages:
+    - id: 1
+      name: music_selection
+      label: Music Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: phone_hold_approvals
+      label: Phone Hold Approvals
+      hint: null
+      type: select_one
+      options:
+      - Music Selection 1
+      - Music Selection 2
+      - Music Selection 3
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: music_preferences
+      label: Music Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: false
+    - id: 7
+      name: approval_comments
+      label: Approval Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: on_hold_duration
+      label: On Hold Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: on_hold_start_time
+      label: On Hold Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: on_hold_end_time
+      label: On Hold End Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: approved_at
+      label: Approved At
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: music_selection_id
+      label: Music Selection ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: approval_user
+      label: Approval User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: on_hold_id
+      label: On Hold ID
+      hint: null
+      type: number
+      options: []
+      required: false

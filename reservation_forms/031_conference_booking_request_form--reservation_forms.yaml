@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Booking Request Form
+    pages:
+    - id: 1
+      name: booking_header
+      label: Conference Booking Request
+      hint: Reserve your conference spot
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: conference_selection
+      label: Select Conference
+      hint: Choose event to attend
+      type: select_one
+      options:
+      - Technology Summit 2026
+      - Business Leadership Forum
+      - Healthcare Innovation Conference
+      - Education Excellence Summit
+      - Science Research Symposium
+      required: true
+    - id: 3
+      name: conference_date
+      label: Conference Date
+      hint: Event dates
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: attendee_info
+      label: Attendee Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: booking_details
+      label: Booking Details
+      hint: Registration options
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: registration_type
+      label: Registration Type
+      hint: Ticket category
+      type: select_one
+      options:
+      - Full Conference Pass
+      - Single Day Pass
+      - Virtual Attendance
+      - Group Package
+      - Student Rate
+      required: true
+    - id: 13
+      name: number_of_attendees
+      label: Number of Attendees
+      hint: Total guests
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: meal_preferences
+      label: Meal Preferences
+      hint: Catering options
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: breakfast_preference
+      label: Breakfast
+      hint: Morning meal
+      type: select_one
+      options:
+      - Continental Breakfast
+      - Full Hot Breakfast
+      - Vegetarian Option
+      - Vegan Option
+      - No Breakfast Needed
+      required: false
+    - id: 16
+      name: lunch_preference
+      label: Lunch
+      hint: Midday meal
+      type: select_one
+      options:
+      - Standard Lunch
+      - Vegetarian Lunch
+      - Vegan Lunch
+      - Gluten Free Lunch
+      - Kosher Lunch
+      - No Lunch Needed
+      required: false
+    - id: 17
+      name: dinner_preference
+      label: Dinner
+      hint: Evening meal
+      type: select_one
+      options:
+      - Conference Dinner
+      - Networking Dinner
+      - No Dinner Needed
+      required: false
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accommodation_needed
+      label: Accommodation Needed
+      hint: Hotel booking
+      type: select_one
+      options:
+      - Yes Need Hotel
+      - No I Have Hotel
+      required: false
+    - id: 20
+      name: hotel_nights
+      label: Number of Nights
+      hint: Hotel stay duration
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: room_type
+      label: Room Type
+      hint: Hotel room preference
+      type: select_one
+      options:
+      - Standard Single
+      - Standard Double
+      - Executive Suite
+      required: false
+    - id: 22
+      name: payment_info
+      label: Payment Information
+      hint: Billing details
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Invoice to Company
+      - Bank Transfer
+      - Check
+      required: true
+    - id: 24
+      name: special_requests
+      label: Special Requests
+      hint: Any additional needs
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: terms_acceptance
+      label: Terms Acceptance
+      hint: Agree to policies
+      type: select_one
+      options:
+      - I Accept Terms and Conditions
+      - I Do Not Accept
+      required: true

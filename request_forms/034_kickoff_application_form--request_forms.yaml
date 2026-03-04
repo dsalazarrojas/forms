@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kickoff Application Form
+    pages:
+    - id: 1
+      name: project_info
+      label: Project Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_info
+      label: Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_info
+      label: Team Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Team Lead''}'
+      - '{''value'': 2, ''label'': ''Team Member''}'
+      required: true
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: Describe the project in detail
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Active''}'
+      - '{''value'': 2, ''label'': ''In Progress''}'
+      - '{''value'': 3, ''label'': ''Completed''}'
+      required: true
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: request_deadline
+      label: Request Deadline
+      hint: Enter date in MM/DD/YYYY format
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: project_status2
+      label: Project Status2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Active''}'
+      - '{''value'': 2, ''label'': ''In Progress''}'
+      - '{''value'': 3, ''label'': ''Completed''}'
+      required: true
+    - id: 12
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Team Lead''}'
+      - '{''value'': 2, ''label'': ''Team Member''}'
+      required: true

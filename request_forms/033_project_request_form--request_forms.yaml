@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Request Form
+    pages:
+    - id: 1
+      name: project_request
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: objective
+      label: Objective
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_completion_date
+      label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: weekly_report
+      label: Weekly Report
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: content_materials
+      label: Content Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 9
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: project_purpose
+      label: Project Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_objective
+      label: Project Objective
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: completion_status
+      label: Completion Status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - Pending
+      required: true
+    - id: 13
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 14
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_requester
+      label: Project Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_approver
+      label: Project Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_owner
+      label: Project Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

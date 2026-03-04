@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outward Register
+    pages:
+    - id: 1
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: customer_note
+      label: customer_note
+      hint: Additional information
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: date_of_outward
+      label: Date Of Outward
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_outward
+      label: time_of_outward
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

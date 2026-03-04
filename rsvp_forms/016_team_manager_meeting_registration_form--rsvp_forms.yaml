@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Manager Meeting Registration Form
+    pages:
+    - id: 1
+      name: team_manager_meeting_registration_form_page
+      label: Team Manager Meeting Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp_details
+      label: RSVP Details
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Team Member
+      required: false
+    - id: 3
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: session_details
+      label: Session Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_comments
+      label: RSVP Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_member_availability
+      label: Team Member Availability
+      hint: null
+      type: number
+      options: []
+      required: false

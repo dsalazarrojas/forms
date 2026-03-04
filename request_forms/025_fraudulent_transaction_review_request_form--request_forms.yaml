@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: fraudulent_transaction_review_request_form
+    pages:
+    - id: 1
+      name: transaction_id
+      label: Transaction ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: suspicious_activity
+      label: Suspicious Activity
+      hint: Describe suspicious activity
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supporting_document
+      label: Supporting Document
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: review_requester
+      label: Review Requester
+      hint: null
+      type: select_one
+      options:
+      - Accountant
+      - Manager
+      - Supervisor
+      required: true
+    - id: 8
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reviewer_comment
+      label: Reviewer Comment
+      hint: null
+      type: text
+      options: []
+      required: false

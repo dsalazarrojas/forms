@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cell Phone Service Update Request Form
+    pages:
+    - id: 1
+      name: section_account_info
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: account_holder_name
+      label: Account Holder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number Associated with Account
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_request_type
+      label: -- Request Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: request_type
+      label: Type of Request
+      hint: null
+      type: select_one
+      options:
+      - Plan Change
+      - Device Upgrade
+      - Add New Line
+      - Remove Line
+      - Feature Addition
+      - Service Cancellation
+      - Billing Inquiry
+      - Technical Support
+      - Other
+      required: true
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_plan_details
+      label: -- Plan Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: current_plan
+      label: Current Plan
+      hint: Name or description of current plan
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: current_monthly_cost
+      label: Current Monthly Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: desired_plan
+      label: Desired Plan
+      hint: If requesting plan change
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: desired_monthly_cost
+      label: Desired Monthly Cost
+      hint: New plan cost
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_device_info
+      label: -- Device Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: current_device
+      label: Current Device Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: device_upgrade_desired
+      label: Desire Device Upgrade?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: new_device_preference
+      label: New Device Preference
+      hint: If upgrading
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_service_changes
+      label: -- Service Changes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: service_changes_requested
+      label: Service Changes Requested
+      hint: null
+      type: select_multiple
+      options:
+      - International Roaming
+      - Mobile Hotspot
+      - Streaming Services
+      - Family Plan Adjustment
+      - Enterprise Services
+      - Data Plan Increase
+      - Premium Support
+      - Other
+      required: false
+    - id: 20
+      name: section_effective_date
+      label: -- Effective Date --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: desired_effective_date
+      label: Desired Effective Date
+      hint: When should changes take effect
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: section_special_requirements
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: special_requirements
+      label: Special Requirements or Conditions
+      hint: Family coordination, bulk pricing, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: request_confirmation
+      label: I authorize this service update request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

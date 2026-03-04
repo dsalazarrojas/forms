@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitation Attestation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: location_visited
+      label: Location Visited
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: purpose_attestation
+      label: Purpose of Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: attestor_statement
+      label: Attestor Statement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: confirm_attestation
+      label: Confirm Attestation
+      hint: null
+      type: select_multiple
+      options:
+      - Option 4
+      - Option 5
+      required: true

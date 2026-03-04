@@ -1,0 +1,318 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birthday Reservation Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birthday Celebration Reservation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: Reserve your birthday celebration with us
+      hint: Complete this form to secure your date and time
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Person Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_birthday_info
+      label: -- Birthday Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: birthday_person_name
+      label: Birthday Person's Name
+      hint: Who is celebrating
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: birthday_person_age
+      label: Age Turning
+      hint: How old
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: actual_birthday_date
+      label: Actual Birth Date
+      hint: Real birthday
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_reservation_details
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: celebration_date
+      label: Celebration Date
+      hint: When is the celebration
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: celebration_start_time
+      label: Start Time
+      hint: What time should celebration begin
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: celebration_end_time
+      label: End Time
+      hint: What time will it end
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: guest_count
+      label: Number of Guests
+      hint: Total guests expected
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: children_count
+      label: Number of Children
+      hint: Children in attendance
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: adults_count
+      label: Number of Adults
+      hint: Adults in attendance
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_preferences
+      label: -- Celebration Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: celebration_type
+      label: Type of Celebration
+      hint: What kind of party
+      type: select_one
+      options:
+      - Casual Family Party
+      - Themed Party
+      - Dinner Celebration
+      - Activity-Based Party
+      - Outdoor Celebration
+      - Other
+      required: true
+    - id: 20
+      name: party_theme
+      label: Party Theme
+      hint: Any specific theme
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: dining_preference
+      label: Dining Preference
+      hint: What type of food service
+      type: select_one
+      options:
+      - Full Meal Service
+      - Appetizers and Drinks
+      - Dessert Only
+      - Buffet Style
+      - Catering Service
+      - No Food Service
+      required: true
+    - id: 22
+      name: cake_preference
+      label: Cake Preference
+      hint: What about the cake
+      type: select_one
+      options:
+      - Venue Provides Cake
+      - Bring Own Cake
+      - No Cake
+      - Dessert Alternative
+      required: false
+    - id: 23
+      name: entertainment_interest
+      label: Interest in Entertainment
+      hint: Want entertainment or activities
+      type: select_one
+      options:
+      - Yes, Entertainment
+      - Activities Only
+      - No Entertainment
+      required: false
+    - id: 24
+      name: special_requests
+      label: Special Requests or Preferences
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: dietary_needs
+      label: Dietary Restrictions
+      hint: Any dietary needs for guests
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut-Free
+      - Dairy-Free
+      - Other
+      - None
+      required: false
+    - id: 26
+      name: section_accommodations
+      label: -- Special Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Any accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: noise_sensitive
+      label: Noise Sensitivities
+      hint: Any sound-sensitive guests
+      type: select_one
+      options:
+      - Yes, Need Quiet Areas
+      - false
+      - Not Sure
+      required: false
+    - id: 29
+      name: section_payments
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: estimated_cost
+      label: Estimated Total Cost
+      hint: Expected expense
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: deposit_required
+      label: Deposit Amount
+      hint: Amount needed to hold reservation
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - PayPal
+      - Cash
+      required: true
+    - id: 33
+      name: payment_schedule
+      label: Payment Schedule
+      hint: When payment is due
+      type: select_one
+      options:
+      - Full Payment at Booking
+      - 50% Deposit, 50% on Day
+      - Monthly Payments
+      - Full Payment Before Event
+      required: true
+    - id: 34
+      name: section_agreement
+      label: -- Agreement and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: cancellation_policy
+      label: I understand the cancellation policy
+      hint: Check to acknowledge
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 36
+      name: refund_policy
+      label: I understand the refund policy
+      hint: Check to acknowledge
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 37
+      name: reservation_confirmation
+      label: I confirm this reservation request
+      hint: Final confirmation
+      type: select_one
+      options:
+      - Confirm Reservation
+      - Cancel Reservation
+      required: true
+    - id: 38
+      name: contact_confirmation
+      label: May we contact you about this reservation
+      hint: Permission to follow up
+      type: select_one
+      options:
+      - Yes, Contact Me
+      - No Contact
+      required: false

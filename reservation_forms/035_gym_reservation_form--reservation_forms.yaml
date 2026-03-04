@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Reservation Form
+    pages:
+    - id: 1
+      name: reservation_time
+      label: Select Date and Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reservation_facility
+      label: Select Facility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: selected_activities
+      label: Select Activities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: member_details
+      label: Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reservation_notes
+      label: Reservation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: confirmation_code
+      label: Confirmation Code
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: cancel_reservation
+      label: Cancel Reservation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

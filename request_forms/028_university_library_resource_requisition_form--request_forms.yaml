@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Library Resource Requisition Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: Information about the user requesting the resource
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resource_type
+      label: Resource Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Book''}'
+      - '{''text'': ''Journal''}'
+      - '{''text'': ''Database''}'
+      required: false
+    - id: 3
+      name: resource_quantity
+      label: Resource Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: user_email
+      label: User Email
+      hint: Email address of the user requesting the resource
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: priority_urgency
+      label: Priority/urgency
+      hint: Low, Medium, High
+      type: select_multiple
+      options:
+      - '{''text'': ''Low''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''High''}'
+      required: false
+    - id: 6
+      name: user_department
+      label: User Department
+      hint: Name of the department the user belongs to
+      type: select_one
+      options:
+      - '{''text'': ''Arts''}'
+      - '{''text'': ''Science''}'
+      - '{''text'': ''Engineering''}'
+      required: false
+    - id: 7
+      name: resource_name
+      label: Resource Name
+      hint: Name of the resource requested
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_status
+      label: Review Status
+      hint: Awaiting Review, Approved, Rejected
+      type: select_multiple
+      options:
+      - '{''text'': ''Awaiting Review''}'
+      - '{''text'': ''Approved''}'
+      - '{''text'': ''Rejected''}'
+      required: false

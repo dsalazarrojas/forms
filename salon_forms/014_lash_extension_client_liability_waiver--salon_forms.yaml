@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Extension Client Liability Waiver
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: Enter your contact number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: waiver_signed
+      label: Waiver Signed
+      hint: null
+      type: select_one
+      options:
+      - I have read and understand the waiver
+      - I have not read the waiver
+      required: true
+    - id: 6
+      name: waiver_signed_date
+      label: Waiver Signed Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: technician_name
+      label: Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: salon_staff
+      label: Salon Staff
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Manager
+      - Technician
+      required: true
+    - id: 10
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: salon_staff_signature
+      label: Salon Staff Signature
+      hint: null
+      type: text
+      options: []
+      required: false

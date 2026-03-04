@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Kit Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: usefulness
+      label: usefulness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: content_quality
+      label: content_quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ease_of_use
+      label: ease_of_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_usefulness
+      label: rating_usefulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_content_quality
+      label: rating_content_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_ease_of_use
+      label: rating_ease_of_use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_likely_to_recommend
+      label: likely_to_recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Likely''}'
+      - '{''label'': ''Not Likely''}'
+      - '{''label'': ''Not At All Likely''}'
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_other
+      label: contact_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_other_info
+      label: contact_other_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rating_very_difficult_to_use
+      label: very_difficult_to_use
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-3''}'
+      - '{''label'': ''1-6''}'
+      - '{''label'': ''7 or more''}'
+      required: false
+    - id: 18
+      name: rating_often_use
+      label: often_use
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Sometimes''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Always''}'
+      required: false
+    - id: 19
+      name: rating_worthwhile
+      label: worthwhile
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Worthwhile''}'
+      - '{''label'': ''Not Very Worthwhile''}'
+      - '{''label'': ''Somewhat Worthwhile''}'
+      - '{''label'': ''Very Worthwhile''}'
+      - '{''label'': ''Extremely Worthwhile''}'
+      required: false
+    - id: 20
+      name: rating_satisfied
+      label: satisfied
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Extremely Satisfied''}'
+      required: false
+    - id: 21
+      name: rating_likely_to_recommend_to_other
+      label: likely_to_recommend_to_other
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not Recommended''}'
+      - '{''label'': ''Recommended''}'
+      - '{''label'': ''Not Recommended to Anyone''}'
+      - '{''label'': ''Recommended to a Few''}'
+      - '{''label'': ''Recommended to Many''}'
+      - '{''label'': ''Recommended to All''}'
+      required: false
+    - id: 22
+      name: rating_very_helpful
+      label: very_helpful
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not Helpful''}'
+      - '{''label'': ''Somewhat Helpful''}'
+      - '{''label'': ''Very Helpful''}'
+      - '{''label'': ''Extremely Helpful''}'
+      - '{''label'': ''Not Helpful to Anyone''}'
+      - '{''label'': ''Helpful to a Few''}'
+      - '{''label'': ''Helpful to Many''}'
+      - '{''label'': ''Helpful to All''}'
+      required: false
+    - id: 23
+      name: rating_improve
+      label: improve
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Improve''}'
+      - '{''label'': ''Somewhat Improve''}'
+      - '{''label'': ''Very Improve''}'
+      - '{''label'': ''Extremely Improve''}'
+      required: false
+    - id: 24
+      name: rating_improve_area
+      label: improve_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rating_improve_other
+      label: improve_other
+      hint: null
+      type: text
+      options: []
+      required: false

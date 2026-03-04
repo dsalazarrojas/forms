@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: sales_order_form
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: product
+      label: product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: order_total
+      label: order_total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - order_status_1
+      - order_status_2
+      - order_status_3
+      required: true

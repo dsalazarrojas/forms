@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Election Advertising Request Form
+    pages:
+    - id: 1
+      name: election_advertising_request_form
+      label: Election Advertising Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: federal_election_request
+      label: Federal Election Request
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Federal Election''}'
+      - '{''text'': ''Statewide Election''}'
+      - '{''text'': ''County Municipal Election''}'
+      - '{''text'': ''School Union Election''}'
+      required: false
+    - id: 3
+      name: campaign_materials
+      label: Campaign Materials
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: advertising_platform
+      label: Advertising Platform
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Google''}'
+      - '{''text'': ''Facebook''}'
+      - '{''text'': ''Twitter''}'
+      - '{''text'': ''LinkedIn''}'
+      - '{''text'': ''Instagram''}'
+      required: false
+    - id: 6
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Federal''}'
+      - '{''text'': ''Statewide''}'
+      - '{''text'': ''County Municipal''}'
+      - '{''text'': ''School Union''}'
+      required: false
+    - id: 7
+      name: election_date
+      label: Election Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: campaign_duration
+      label: Campaign Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: campaign_materials
+      label: Campaign Materials
+      hint: null
+      type: note
+      options: []
+      required: false

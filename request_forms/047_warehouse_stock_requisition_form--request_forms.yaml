@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Stock Requisition Form
+    pages:
+    - id: 1
+      name: warehouse_stock_requisition_form_1
+      label: Requisition Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: warehouse_stock_requisition_form_2
+      label: Stock Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: warehouse_stock_requisition_form_3
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: warehouse_stock_requisition_form_4
+      label: UoM
+      hint: null
+      type: select_one
+      options:
+      - item_1
+      - item_2
+      - item_3
+      required: false
+    - id: 5
+      name: warehouse_stock_requisition_form_5
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: warehouse_stock_requisition_form_6
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: warehouse_stock_requisition_form_7
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: warehouse_stock_requisition_form_8
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: warehouse_stock_requisition_form_9
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: warehouse_stock_requisition_form_10
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

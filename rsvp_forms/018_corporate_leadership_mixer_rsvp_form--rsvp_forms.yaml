@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Leadership Mixer RSVP Form
+    pages:
+    - id: 1
+      name: rsvp_form
+      label: RSVP Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: will_attend
+      label: Will Attend
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: food_pref
+      label: Food Preference
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vegetarian'', ''value'': ''vegetarian''}'
+      - '{''label'': ''Non-Vegetarian'', ''value'': ''non-vegetarian''}'
+      - '{''label'': ''Omnivore'', ''value'': ''omnivore''}'
+      required: false
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: rsvp_by
+      label: RSVP by
+      hint: null
+      type: date
+      options: []
+      required: false

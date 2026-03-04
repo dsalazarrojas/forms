@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Execution Readiness Survey
+    pages:
+    - id: 1
+      name: project_execution_readiness_survey
+      label: Project Execution Readiness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: project_team_lead_name
+      label: project_team_lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_team_lead_email
+      label: project_team_lead_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_manager_name
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_manager_email
+      label: project_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: project_status_description
+      label: project_status_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: false

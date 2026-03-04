@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vineyard Guesthouse Booking Form
+    pages:
+    - id: 1
+      name: checkin
+      label: Checkin
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: checkout
+      label: Checkout
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: guests
+      label: Guests
+      hint: How many guests will be staying with you?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rooms
+      label: Rooms
+      hint: How many rooms would you like to book?
+      type: select_one
+      options:
+      - '{''name'': ''1''}'
+      - '{''name'': ''2''}'
+      - '{''name'': ''3''}'
+      - '{''name'': ''4''}'
+      required: true
+    - id: 5
+      name: adults
+      label: Adults
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: children
+      label: Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: booking_time
+      label: Booking Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: reservation_details
+      label: Reservation Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: reservation_dates
+      label: Reservations Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: reservation_times
+      label: Reservations Times
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: room_types
+      label: Room Types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: room_names
+      label: Room Names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: special_requests2
+      label: Special Requests2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: credit_card_num
+      label: Credit Card Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: cvv
+      label: CVV
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

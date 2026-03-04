@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flyers Printing Request Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_pages
+      label: Number of Pages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: paper_size
+      label: paper_size
+      hint: null
+      type: select_one
+      options:
+      - A4
+      - Letter
+      - Legal
+      - B1
+      - B2
+      - B3
+      - B4
+      - B5
+      - B6
+      - B7
+      - B8
+      - B8.5
+      - B9
+      - B10
+      - Tabloid
+      required: false
+    - id: 9
+      name: paper_orientation
+      label: paper_orientation
+      hint: null
+      type: select_multiple
+      options:
+      - Landscape
+      - Portrait
+      - Landscape
+      - Portrait
+      required: false
+    - id: 10
+      name: color_printing
+      label: color_printing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: color_type
+      label: color_type
+      hint: null
+      type: select_multiple
+      options:
+      - CMYK
+      - Pantone
+      - PMS
+      - CMYK
+      - Pantone
+      - PMS
+      required: false
+    - id: 12
+      name: finish
+      label: finish
+      hint: null
+      type: select_one
+      options:
+      - Matte
+      - Gloss
+      - Matte
+      - Gloss
+      required: false
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false

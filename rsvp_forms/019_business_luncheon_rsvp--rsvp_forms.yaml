@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Luncheon RSVP
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Your Name
+      hint: Full name as it should appear on name badge
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_email
+      label: Email Address
+      hint: Email for confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: attendee_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attendance_status
+      label: Attendance Status
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes - I will attend
+      - No - unable to attend
+      - Maybe - pending confirmation
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total attendees including yourself
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: guest_names
+      label: Guest Names
+      hint: Names of additional attendees
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: meal_preference
+      label: Meal Preference
+      hint: Select your meal choice
+      type: select_one
+      options:
+      - Chicken
+      - Beef
+      - Fish
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      required: true
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: List any allergies or dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: networking_interest
+      label: Networking Interest
+      hint: Are you interested in structured networking
+      type: select_one
+      options:
+      - Yes - very interested
+      - Yes - somewhat interested
+      - No - prefer informal mingling
+      required: false
+    - id: 12
+      name: table_preference
+      label: Table Preference
+      hint: Do you have a table preference
+      type: select_one
+      options:
+      - No preference
+      - With colleagues
+      - With industry peers
+      - Mixed seating
+      required: false
+    - id: 13
+      name: table_requests
+      label: Specific Table Requests
+      hint: List names of people you would like to sit with
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: business_card_exchange
+      label: Business Card Exchange
+      hint: Will you bring business cards
+      type: select_one
+      options:
+      - Yes - plenty available
+      - Yes - limited quantity
+      - No - do not have cards
+      required: false
+    - id: 15
+      name: presentation_interest
+      label: Presentation Interest
+      hint: Would you be interested in presenting at future events
+      type: select_one
+      options:
+      - Yes - definitely
+      - Maybe - depends on topic
+      - No - not interested
+      required: false
+    - id: 16
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: What topics would you like to hear about
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: referral_services
+      label: Referral Services
+      hint: Are you open to receiving business referrals
+      type: select_one
+      options:
+      - Yes - actively seeking
+      - Yes - open to opportunities
+      - No - not at this time
+      required: false
+    - id: 18
+      name: elevator_pitch
+      label: Elevator Pitch
+      hint: Briefly describe your business - 30 seconds
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Any accessibility needs we should know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How Did You Hear About This Event
+      hint: Source of event information
+      type: select_one
+      options:
+      - Email invitation
+      - Social media
+      - Colleague referral
+      - Website
+      - Previous attendee
+      - Other
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information or questions
+      type: text
+      options: []
+      required: false

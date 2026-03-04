@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Reengineering Pilot Application Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_lead_info
+      label: Team Lead Info
+      hint: Name of the Team Lead or Contact Person
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_description
+      label: Project Description
+      hint: Describe the project in a few sentences
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_case
+      label: Business Case
+      hint: Explain the business case for the project
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_details
+      label: Team Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_members
+      label: Team Members
+      hint: Name, Position, and Role of all team members involved in the project
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_stage
+      label: Project Stage
+      hint: null
+      type: select_one
+      options:
+      - Inception
+      - Planning
+      - Development
+      - Deployment
+      - Maintenance
+      - Aborted
+      required: false
+    - id: 10
+      name: project_type
+      label: Project Type
+      hint: Type of the project
+      type: select_one
+      options:
+      - Internal
+      - External
+      required: false
+    - id: 11
+      name: project_category
+      label: Project Category
+      hint: Category of the project
+      type: select_multiple
+      options:
+      - IT Project
+      - Non-IT Project
+      - Pilot
+      required: false
+    - id: 12
+      name: project_location
+      label: Project Location
+      hint: Location of the project (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_lead_email
+      label: Team Lead Email
+      hint: Email address of the Team Lead or Contact Person
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: Name of the contact person
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_deadline
+      label: Project Deadline
+      hint: Deadline for completion of the project
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: team_lead_phone
+      label: Team Lead Phone
+      hint: Phone number of the Team Lead or Contact Person
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_manager
+      label: Project Manager
+      hint: Project Manager Name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_approver
+      label: Project Approver
+      hint: Project Approver Name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: request_type
+      label: Request Type
+      hint: Type of the request
+      type: select_one
+      options:
+      - New Project
+      - Project Renewal
+      - Project Update
+      - Project Closure
+      required: false
+    - id: 20
+      name: project_status_update
+      label: Project Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: project_attachment
+      label: Project Attachment
+      hint: Any supporting attachments
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: review_status
+      label: Review Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: reviewer
+      label: Reviewer
+      hint: Name of the Reviewer
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: makeup-appointment-form
+    pages:
+    - id: 1
+      name: schedule_appointment
+      label: Schedule Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_choice
+      label: Service Type
+      hint: Select a service
+      type: select_one
+      options:
+      - Makeup Application
+      - Makeup Touch-up
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: salon_name
+      label: Salon Name
+      hint: null
+      type: text
+      options: []
+      required: false

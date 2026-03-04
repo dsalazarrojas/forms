@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pest Control Service Request Form
+    pages:
+    - id: 1
+      name: customer_service_request
+      label: Request a service
+      hint: null
+      type: select_one
+      options:
+      - Interior
+      - Exterior
+      required: false
+    - id: 2
+      name: treatment_request_date
+      label: Treatment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: treatment_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Living Room
+      - Kitchen
+      - Bedroom
+      required: false
+    - id: 4
+      name: pest_type
+      label: Type of pest
+      hint: null
+      type: select_one
+      options:
+      - Cockroach
+      - Rat
+      - Mouse
+      required: false
+    - id: 5
+      name: pest_description
+      label: Describe the pest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: Required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Email
+      hint: Required
+      type: email
+      options: []
+      required: false

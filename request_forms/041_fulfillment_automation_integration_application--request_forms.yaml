@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fulfillment Automation Integration Application
+    pages:
+    - id: 1
+      name: fulfillment_requests
+      label: Fulfillment Requests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vendor_requirements
+      label: Vendor Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: integration_documentation
+      label: Integration Documentation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: software_vendor
+      label: Software Vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ecommerce_brand
+      label: Ecommerce Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: logitics_team
+      label: Logistics Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: integration_methods
+      label: Integration Methods
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: integration_status
+      label: Integration Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: documentation_uploaded
+      label: Documentation Uploaded
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: form_ids
+      label: Form Ids
+      hint: null
+      type: text
+      options: []
+      required: false

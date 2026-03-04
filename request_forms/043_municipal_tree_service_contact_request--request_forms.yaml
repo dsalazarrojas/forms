@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipal Tree Service Contact Request
+    pages:
+    - id: 1
+      name: tree_service_request
+      label: Request for Tree Service
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tree_problem
+      label: Tree Problem
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photo_or_video
+      label: Photo or Video
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: service_requested
+      label: Service Requested
+      hint: null
+      type: select_one
+      options:
+      - Tree Trimming
+      - Tree Removal
+      - Tree Pruning
+      - Tree Planting
+      - Tree Maintenance
+      - Other (Please specify)
+      required: true
+    - id: 11
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

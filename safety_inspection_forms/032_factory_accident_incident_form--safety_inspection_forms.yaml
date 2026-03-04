@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Accident Incident Form
+    pages:
+    - id: 1
+      name: accident_date
+      label: Accident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: accident_type
+      label: Accident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: affected_employees
+      label: Affected Employees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness
+      label: Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_employee
+      label: Reporting Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_cause_code
+      label: Incident Cause Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: prevention_plan
+      label: Prevention Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: safety_measures
+      label: Safety Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: incident_status_code
+      label: Incident Status Code
+      hint: null
+      type: text
+      options: []
+      required: false

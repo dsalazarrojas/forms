@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pro Release Information Request
+    pages:
+    - id: 1
+      name: pro_release_request_form
+      label: Pro Release Information Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: urgency
+      label: Urgency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: pro_release_request_comments
+      label: Pro Release Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pro_release_request_date
+      label: Pro Release Request Date
+      hint: null
+      type: date
+      options: []
+      required: false

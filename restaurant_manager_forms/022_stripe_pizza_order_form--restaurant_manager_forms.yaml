@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: stripe_pizza_order_form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: toppings
+      label: Toppings
+      hint: Select your favorite topping(s)
+      type: select_multiple
+      options:
+      - Pepperoni
+      - Mushrooms
+      - Onions
+      - Olives
+      - Extra Cheese
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: size
+      label: Size
+      hint: Select your pizza size
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: false
+    - id: 5
+      name: crust_type
+      label: Crust Type
+      hint: null
+      type: select_one
+      options:
+      - Hand Tossed
+      - Hand Tossed Thin Crust
+      - Cheesy Crust
+      - Gluten Free
+      required: false
+    - id: 6
+      name: sauce
+      label: Sauce
+      hint: null
+      type: select_one
+      options:
+      - Marinara
+      - Alfredo
+      - BBQ
+      - Ranch
+      required: false
+    - id: 7
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Pick up
+      - Delivery
+      - In store pickup
+      required: false

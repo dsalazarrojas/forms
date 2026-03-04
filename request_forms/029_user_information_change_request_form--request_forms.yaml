@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: user_information_change_request_form
+    pages:
+    - id: 1
+      name: user_information_change_request_form_page
+      label: user_information_change_request_form_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_type
+      label: user_type
+      hint: null
+      type: select_multiple
+      options:
+      - User
+      - Customer
+      - Staff
+      - Admin
+      required: false
+    - id: 8
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Support
+      - Finance
+      required: false
+    - id: 9
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false

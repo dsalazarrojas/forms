@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Receiving Management Survey
+    pages:
+    - id: 1
+      name: receiving_management_survey_form
+      label: Receiving Management Survey Form
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 2
+      name: warehouse_location
+      label: warehouse_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: receiving_date
+      label: receiving_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: receiving_time
+      label: receiving_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: receiving_time_of_day
+      label: receiving_time_of_day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: receiving_shift
+      label: receiving_shift
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Morning''}'
+      - '{''id'': 2, ''label'': ''Afternoon''}'
+      - '{''id'': 3, ''label'': ''Night''}'
+      required: false
+    - id: 7
+      name: receiving_area
+      label: receiving_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: receiving_manager
+      label: receiving_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: receiving_notes
+      label: receiving_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: receiving_rating
+      label: receiving_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      - '{''id'': 4, ''label'': 4}'
+      - '{''id'': 5, ''label'': 5}'
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

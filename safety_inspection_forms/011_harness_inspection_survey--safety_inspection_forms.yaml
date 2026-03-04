@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harness Inspection Survey
+    pages:
+    - id: 1
+      name: harness_inspection_survey_1
+      label: Harness Check List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: safety_inspection_form_2
+      label: Safety Inspection Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: harness_inspection_outcomes_3
+      label: Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: site_name_4
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_5
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_6
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments_7
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to_8
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: team_members_9
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

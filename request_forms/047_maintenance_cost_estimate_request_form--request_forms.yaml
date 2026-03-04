@@ -1,0 +1,150 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Cost Estimate Request Form
+    pages:
+    - id: 1
+      name: mainpage
+      label: Maintenance Request
+      hint: Enter maintenance request details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_requester
+      label: requester name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_description
+      label: job description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: cost_estimate
+      label: cost estimate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: contact person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: email address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: job_status
+      label: job status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Completed
+      required: false
+    - id: 14
+      name: job_type
+      label: job type
+      hint: null
+      type: select_one
+      options:
+      - Maintenance
+      - Repair
+      - Installation
+      required: false
+    - id: 15
+      name: job_priority
+      label: job priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 16
+      name: job_category
+      label: job category
+      hint: null
+      type: select_one
+      options:
+      - Urgent
+      - Emergency
+      - Regular
+      required: false
+    - id: 17
+      name: job_frequency
+      label: job frequency
+      hint: null
+      type: select_one
+      options:
+      - One Time
+      - Reoccuring
+      - Regularly
+      required: false

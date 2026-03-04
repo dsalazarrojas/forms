@@ -1,0 +1,294 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Care Facility Resource Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Person making the request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_name
+      label: Facility Name
+      hint: Shelter, clinic, or organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_address
+      label: Facility Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_intro
+      label: Animal Care Facility Resource Request
+      hint: Use this form to request supplies and resources for your animal care facility
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: facility_type
+      label: Type of Facility
+      hint: Organization type
+      type: select_one
+      options:
+      - Animal shelter
+      - Veterinary clinic
+      - Animal hospital
+      - Rescue organization
+      - Foster network
+      - Sanctuary
+      - Research facility
+      - Other
+      required: true
+    - id: 9
+      name: animals_served
+      label: Approximate Number of Animals Served Monthly
+      hint: Volume
+      type: select_one
+      options:
+      - Less than 50
+      - 50-100
+      - 101-250
+      - 251-500
+      - 501-1000
+      - More than 1000
+      required: true
+    - id: 10
+      name: resource_category
+      label: Resource Category
+      hint: Type of resources needed
+      type: select_one
+      options:
+      - Medical supplies
+      - Food and nutrition
+      - Cleaning supplies
+      - Equipment
+      - Facility supplies
+      - Technology
+      - Other
+      required: true
+    - id: 11
+      name: medical_supplies
+      label: Medical Supplies Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Syringes and needles
+      - Bandages and gauze
+      - Antiseptics
+      - Medications
+      - IV supplies
+      - Surgical supplies
+      - Diagnostic tools
+      - PPE - gloves, masks
+      - None
+      required: false
+    - id: 12
+      name: food_supplies
+      label: Food and Nutrition Supplies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Dog food
+      - Cat food
+      - Puppy or kitten formula
+      - Special diet food
+      - Treats
+      - Food bowls
+      - Water bowls
+      - Feeding equipment
+      - None
+      required: false
+    - id: 13
+      name: cleaning_supplies
+      label: Cleaning Supplies Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Disinfectants
+      - Bleach
+      - Paper towels
+      - Trash bags
+      - Mops and brooms
+      - Laundry detergent
+      - Odor eliminators
+      - Cleaning equipment
+      - None
+      required: false
+    - id: 14
+      name: equipment_needed
+      label: Equipment Requests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cages or kennels
+      - Carriers
+      - Beds or blankets
+      - Leashes and collars
+      - Scales
+      - Examination tables
+      - Grooming equipment
+      - Exercise equipment
+      - None
+      required: false
+    - id: 15
+      name: facility_supplies
+      label: Facility Supplies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fencing materials
+      - Kennel panels
+      - Flooring materials
+      - HVAC supplies
+      - Plumbing supplies
+      - Electrical supplies
+      - Office supplies
+      - None
+      required: false
+    - id: 16
+      name: itemized_list
+      label: Itemized List of Requested Items
+      hint: Specific items and quantities
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: quantity_needed
+      label: Estimated Quantities
+      hint: How much of each item
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon is this needed
+      type: select_one
+      options:
+      - Critical - immediate need
+      - High - within 1 week
+      - Medium - within 2-4 weeks
+      - Low - when available
+      required: true
+    - id: 19
+      name: delivery_date
+      label: Requested Delivery Date
+      hint: When do you need this
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: budget_available
+      label: Is There a Budget Available for This Request
+      hint: Funding status
+      type: select_one
+      options:
+      - Yes - full funding
+      - Yes - partial funding
+      - No - seeking donation
+      - Applying for grants
+      required: true
+    - id: 22
+      name: budget_amount
+      label: Available Budget Amount
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_requests
+      label: Have You Submitted Resource Requests Before
+      hint: History
+      type: select_one
+      options:
+      - Yes - this is a renewal
+      - Yes - new request
+      - No - first time
+      required: false
+    - id: 24
+      name: justification
+      label: Justification for Request
+      hint: Why is this needed
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: impact_description
+      label: How Will These Resources Impact Animal Care
+      hint: Expected outcomes
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: alternative_sources
+      label: Have You Sought Resources from Other Sources
+      hint: Other efforts
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: contact_preference
+      label: Preferred Contact Method for Follow-up
+      hint: How to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Either
+      required: true
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: requestor_signature
+      label: Requestor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

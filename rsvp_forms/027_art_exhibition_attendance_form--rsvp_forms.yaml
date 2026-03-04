@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition Attendance Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: Full name for RSVP
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For confirmation and tickets
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event date
+      hint: Date of the exhibition
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: number_of_guests
+      label: Number of guests
+      hint: Total attendees in your party
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: access_requirements
+      label: Access requirements
+      hint: Accessibility or special needs
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ticket_type
+      label: Ticket type
+      hint: Choose ticket preference
+      type: select_one
+      options:
+      - General
+      - VIP
+      - Donor
+      required: true
+    - id: 8
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: For reception catering
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hearing_consent
+      label: Consent for photography
+      hint: Permission to use images for publicity
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other notes for organizers
+      type: text
+      options: []
+      required: false

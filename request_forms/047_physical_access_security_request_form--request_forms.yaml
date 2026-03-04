@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physical Access Security Request Form
+    pages:
+    - id: 1
+      name: user_type
+      label: User Type
+      hint: null
+      type: select_one
+      options:
+      - employees
+      - contractors
+      - visitors
+      - others
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Marketing
+      - Human Resources
+      - Operations
+      - Others
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: shift
+      label: Shift
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: approval_details
+      label: Approval Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false

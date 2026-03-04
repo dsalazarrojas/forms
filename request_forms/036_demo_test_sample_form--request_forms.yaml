@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: demo_test_sample_form
+    pages:
+    - id: 1
+      name: request_form
+      label: REQUEST FORM
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: demo_type
+      label: demo type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''demo''}'
+      - '{''value'': ''product''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 3
+      name: customer_details
+      label: customer details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_details
+      label: product details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: demo_request
+      label: demo request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: demo_time
+      label: demo time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: output file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''request_forms''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 15
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: demo_description
+      label: demo description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_note
+      label: customer note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: demo_notes
+      label: demo notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_notes
+      label: other notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: product_price
+      label: product price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: demo_price_range
+      label: demo price range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_details
+      label: product details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: demo_request_details
+      label: demo request details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: demo_requested_products
+      label: demo requested products
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: demo_status
+      label: demo status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending''}'
+      - '{''value'': ''done''}'
+      required: false

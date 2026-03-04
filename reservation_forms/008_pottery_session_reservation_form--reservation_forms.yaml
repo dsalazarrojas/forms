@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pottery Session Reservation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pottery_session
+      label: Pottery Session
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Session 1''}'
+      - '{''label'': ''Session 2''}'
+      - '{''label'': ''Session 3''}'
+      required: false
+    - id: 8
+      name: student_count
+      label: Student Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''John''}'
+      - '{''label'': ''Jane''}'
+      - '{''label'': ''Jim''}'
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''John''}'
+      - '{''label'': ''Jane''}'
+      - '{''label'': ''Jim''}'
+      required: false
+    - id: 15
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''John''}'
+      - '{''label'': ''Jane''}'
+      - '{''label'': ''Jim''}'
+      required: false
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Session 1''}'
+      - '{''label'': ''Session 2''}'
+      - '{''label'': ''Session 3''}'
+      required: false
+    - id: 20
+      name: submitter_ip
+      label: Submitter IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_useragent
+      label: Submitter User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_os
+      label: Submitter OS
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_browser
+      label: Submitter Browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_device
+      label: Submitter Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_referrer
+      label: Submitter Referrer
+      hint: null
+      type: text
+      options: []
+      required: false

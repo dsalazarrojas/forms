@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autograph Request Form
+    pages:
+    - id: 1
+      name: fan_info_header
+      label: -- Fan Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fan_name
+      label: Your Full Name
+      hint: Name of the requester
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For status updates on your request
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Best number for shipping questions
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_details_header
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: celebrity_name
+      label: Celebrity or Public Figure Name
+      hint: Who are you requesting an autograph from?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: personal_message
+      label: Personal Message Request
+      hint: Optional - max 15 words for the dedication
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: item_to_sign
+      label: Item to be Signed
+      hint: Select the medium for the autograph
+      type: select_one
+      options:
+      - Photo
+      - Poster
+      - Book
+      - Sports Equipment
+      - Fan Provided Item
+      required: true
+    - id: 9
+      name: delivery_details_header
+      label: -- Delivery Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: shipping_address
+      label: Shipping Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city_state_zip
+      label: City, State, and Zip
+      hint: Full location details
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_method
+      label: Shipping Method
+      hint: Select your preferred speed
+      type: select_one
+      options:
+      - Standard
+      - Express
+      - International
+      required: true
+    - id: 13
+      name: agree_shipping_costs
+      label: Agree to Shipping Costs
+      hint: I agree to cover all postage and handling fees
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: personal_use_agreement
+      label: I confirm this is for personal use and not for resale
+      hint: Legal acknowledgment
+      type: select_one
+      options:
+      - Yes - I agree
+      - Other
+      required: true
+    - id: 15
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

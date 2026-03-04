@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Classic Hair and Beauty COVID-19 Salon Services Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full name of the person receiving salon services
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: Valid email for contact
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact telephone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_date
+      label: Appointment Date
+      hint: Date of the salon service
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_header_health
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: fever_symptoms
+      label: Have you experienced fever or chills in the last 14 days?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 7
+      name: respiratory_symptoms
+      label: Have you had cough, shortness of breath, or difficulty breathing?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 8
+      name: taste_smell_symptoms
+      label: Have you noticed loss of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: muscle_ache_symptoms
+      label: Have you experienced muscle or body aches?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: headache_symptoms
+      label: Have you had a headache?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: gastrointestinal_symptoms
+      label: Have you experienced sore throat, nausea, vomiting, or diarrhea?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: section_header_exposure
+      label: -- Exposure Risk --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: covid_exposure
+      label: Have you been in close contact with someone confirmed to have COVID-19?
+      hint: In the last 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: travel_exposure
+      label: Have you traveled to a high-risk area recently?
+      hint: Within the last 14 days
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: section_header_vaccination
+      label: -- Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vaccination_status
+      label: COVID-19 Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      - Prefer Not to Disclose
+      required: true
+    - id: 17
+      name: booster_status
+      label: Have you received a booster dose?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Yet Eligible
+      required: false
+    - id: 18
+      name: section_header_consent
+      label: -- Consent and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: acknowledge_risks
+      label: I acknowledge that I have read and understand the COVID-19 risks
+      hint: I understand the potential risks of in-person salon services
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 20
+      name: health_declaration
+      label: I declare that the information provided above is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 21
+      name: consent_to_services
+      label: I consent to receiving salon services during the COVID-19 pandemic
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: signature_acknowledgment
+      label: I acknowledge that I have read this consent form
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 23
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true

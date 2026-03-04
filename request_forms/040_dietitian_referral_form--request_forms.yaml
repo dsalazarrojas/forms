@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dietitian Referral Form
+    pages:
+    - id: 1
+      name: referral_form
+      label: Referral Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: referral_type
+      label: Referral Type
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Non-Referred
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: referral_time
+      label: Referral Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_referral
+      label: Reason for referral
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referring_dietitian_name
+      label: Referring Dietitian Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_condition
+      label: Client Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: referral_notes
+      label: Referral Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiologist
+      - Endocrinologist
+      - Gastroenterologist
+      - Nephrologist
+      - Pulmonologist
+      required: false
+    - id: 14
+      name: dietetic_specialty
+      label: Dietetic Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - Diabetes
+      - Gastroenterology
+      - Kidney Disease
+      - Obesity
+      - Weight Management
+      required: false
+    - id: 15
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: number
+      options: []
+      required: false

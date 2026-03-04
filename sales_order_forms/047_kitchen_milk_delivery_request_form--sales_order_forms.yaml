@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: kitchen_milk_delivery_request_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: delivery_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_time
+      label: delivery_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: milk_type
+      label: milk_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: milk_quantity
+      label: milk_quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: milk_unit
+      label: milk_unit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: delivery_address
+      label: delivery_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: delivery_instructions
+      label: delivery_instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: delivery_status
+      label: delivery_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: delivery_contact
+      label: delivery_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: special_instructions
+      label: special_instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: delivery_notes
+      label: delivery_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: billing_info
+      label: billing_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: billing_contact
+      label: billing_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: billing_email
+      label: billing_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: billing_phone
+      label: billing_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: payment_status_label
+      label: payment_status_label
+      hint: null
+      type: text
+      options: []
+      required: true

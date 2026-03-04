@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electrical Safety Checklist Form
+    pages:
+    - id: 1
+      name: electrical_system_assessment
+      label: electrical_system_assessment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 2
+      name: circuit_breaker_inspection
+      label: circuit_breaker_inspection
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 3
+      name: electrical_system_documentation
+      label: electrical_system_documentation
+      hint: Document any necessary repairs
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: arc_flash_protection_device_inspection
+      label: arc_flash_protection_device_inspection
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 5
+      name: circuit_cables_and_wiring_inspection
+      label: circuit_cables_and_wiring_inspection
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 6
+      name: electrical_systems_testing
+      label: electrical_systems_testing
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 7
+      name: electrical_systems_labeling
+      label: electrical_systems_labeling
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 8
+      name: electrical_outlet_inspection
+      label: electrical_outlet_inspection
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 9
+      name: emergency_exit_lights_inspection
+      label: emergency_exit_lights_inspection
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 10
+      name: electrical_systems_certification
+      label: electrical_systems_certification
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 11
+      name: electrical_systems_certification_date
+      label: electrical_systems_certification_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: electrical_systems_certification_expiration_date
+      label: electrical_systems_certification_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: electrical_systems_certification_status
+      label: electrical_systems_certification_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: true
+    - id: 14
+      name: electrical_systems_certification_number
+      label: electrical_systems_certification_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: First name, Last name, Phone
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_person
+      label: emergency_contact_person
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Joe''}'
+      - '{''value'': ''Jane''}'
+      required: true
+    - id: 17
+      name: electrical_systems_certification_issue_date
+      label: electrical_systems_certification_issue_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: electrical_systems_certification_issue_description
+      label: electrical_systems_certification_issue_description
+      hint: Please include any relevant details or issues with your systems'
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: electrical_systems_certification_resolution_date
+      label: electrical_systems_certification_resolution_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: electrical_systems_certification_resolution_status
+      label: electrical_systems_certification_resolution_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: true
+    - id: 21
+      name: electrical_systems_certification_resolution_number
+      label: electrical_systems_certification_resolution_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: electrical_systems_certification_retest_date
+      label: electrical_systems_certification_retest_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: electrical_systems_certification_retest_status
+      label: electrical_systems_certification_retest_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''Inactive''}'
+      required: false
+    - id: 24
+      name: electrical_systems_certification_retest_number
+      label: electrical_systems_certification_retest_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: electrical_systems_certification_comments
+      label: electrical_systems_certification_comments
+      hint: Please provide any additional comments or observations'
+      type: text
+      options: []
+      required: false

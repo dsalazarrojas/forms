@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding rsvp template
+    pages:
+    - id: 1
+      name: guests_attending
+      label: Guests Attending
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rsvp_type
+      label: RSVP Type
+      hint: null
+      type: select_one
+      options:
+      - Wedding
+      - Not Attending
+      - Maybe
+      required: false
+    - id: 4
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_diet
+      label: Special Dietary Restrictions
+      hint: If you have any special dietary restrictions or requests, please specify
+        them.
+      type: select_multiple
+      options:
+      - Dairy Free
+      - Gluten Free
+      - No Special Requests
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rsvp_sent
+      label: RSVP Sent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Declined
+      required: false
+    - id: 13
+      name: rsvp_date_sent
+      label: Date Sent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: comments_sent
+      label: Comments Sent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: comments_received
+      label: Comments Received
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: comments_status
+      label: Comments Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false

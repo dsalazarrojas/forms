@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meal Reimbursement Form
+    pages:
+    - id: 1
+      name: meal_reimbursement_form_request
+      label: mealreimbursementformrequest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_request
+      label: dateofrequest
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: employeepassword
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: expense_category
+      label: expense_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: amount_claimed
+      label: amountclaimed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: date_approved
+      label: dateapproved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: remarks
+      label: remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

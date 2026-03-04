@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grill Box Order Form
+    pages:
+    - id: 1
+      name: delivery_option
+      label: Delivery Option
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      - Catering
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: order_details
+      label: Order Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pickup_time
+      label: Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: pickup_location
+      label: Pickup Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - Grilled Box
+      - Box
+      - Sandwich
+      required: false

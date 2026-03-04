@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Guest Preference Booking Form
+    pages:
+    - id: 1
+      name: form_start
+      label: form_start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: dietary_restrictions
+      label: dietary_restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_requirements
+      label: room_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_diet
+      label: guest_diet
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: guest_diet_other
+      label: other_diet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: room_type_other
+      label: other_room_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: departure_time
+      label: departure_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: arrival_date
+      label: arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_info_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: text
+      options: []
+      required: false

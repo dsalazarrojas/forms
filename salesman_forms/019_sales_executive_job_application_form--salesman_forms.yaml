@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Executive Job Application Form
+    pages:
+    - id: 1
+      name: sales_executive_job_application_form
+      label: Job Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Enter your job title
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - Software Sales
+      - Sales
+      - Service
+      required: true
+    - id: 5
+      name: job_category_other
+      label: Other Job Category
+      hint: If not listed above, enter your own job category
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resume
+      label: Resume
+      hint: Attach your resume
+      type: text
+      options: []
+      required: false

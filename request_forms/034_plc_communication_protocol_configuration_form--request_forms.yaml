@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: plc_communication_protocol_configuration_form
+    pages:
+    - id: 1
+      name: protocol_name
+      label: Protocol Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: protocol_version
+      label: Protocol Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_interface
+      label: Communication Interface
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Interface 1''}'
+      - '{''id'': 2, ''label'': ''Interface 2''}'
+      - '{''id'': 3, ''label'': ''Interface 3''}'
+      required: false
+    - id: 4
+      name: data_transmission_speed
+      label: Data Transmission Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: data_transmission_interval
+      label: Data Transmission Interval
+      hint: null
+      type: number
+      options: []
+      required: false

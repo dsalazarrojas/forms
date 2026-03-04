@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Inclusion Strategy Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_details
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: context
+      label: Workforce Inclusion Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: support_needs
+      label: Support Needs
+      hint: Please specify the support needs.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: strategy_guidance
+      label: Strategy Guidance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: strategy_recommendations
+      label: Strategy Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 8
+      name: next_steps
+      label: Next Steps
+      hint: Describe your next steps.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: Please provide a valid email.
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: submitter_phone
+      label: Submitter Phone
+      hint: Please provide a valid phone number.
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: veneer_comfort_and_speech_survey
+    pages:
+    - id: 1
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: comfort_level
+      label: comfort_level
+      hint: null
+      type: select_one
+      options:
+      - pain
+      - okay
+      - uncomfortable
+      required: true
+    - id: 3
+      name: sensitivity_issues
+      label: sensitivity_issues
+      hint: null
+      type: select_multiple
+      options:
+      - numbness
+      - tenderness
+      - sensitivity
+      - other
+      required: true
+    - id: 4
+      name: speech_changes
+      label: speech_changes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: speech_clarity
+      label: speech_clarity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction_level
+      label: overall_satisfaction_level
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: veneer_type
+      label: veneer_type
+      hint: null
+      type: select_one
+      options:
+      - anterior
+      - posterior
+      - full_molar
+      - full_metal_crown
+      required: true
+    - id: 8
+      name: speech_frequency
+      label: speech_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_appointment
+      label: follow_up_appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: dentist_name
+      label: dentist_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_of_treatment
+      label: date_of_treatment
+      hint: null
+      type: date
+      options: []
+      required: true

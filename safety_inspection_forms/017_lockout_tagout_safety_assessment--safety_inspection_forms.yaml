@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lockout Tagout Safety Assessment
+    pages:
+    - id: 1
+      name: lockout_tagout_safety_assessment
+      label: Lockout Tagout Safety Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_identification
+      label: Equipment Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lockout_tagout_procedure
+      label: Lockout Tagout Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - Lockout and Tagout
+      - Other - Specify
+      required: false
+    - id: 4
+      name: hazard_identification
+      label: Hazards Identified
+      hint: Please list any hazards identified during inspection
+      type: select_multiple
+      options:
+      - None
+      - Other - Specify
+      required: false
+    - id: 5
+      name: employee_responsibilities
+      label: Employee Responsibilities
+      hint: List any employee responsibilities identified during inspection
+      type: select_multiple
+      options:
+      - Supervisor
+      - Maintenance
+      - Other - Specify
+      required: false
+    - id: 6
+      name: equipment_location
+      label: Equipment Location
+      hint: Where was the equipment inspected?
+      type: select_one
+      options:
+      - Shop
+      - Field
+      - Other - Specify
+      required: false
+    - id: 7
+      name: equipment_type
+      label: Equipment Type
+      hint: What type of equipment was inspected?
+      type: select_one
+      options:
+      - Machine
+      - Tool
+      - Other - Specify
+      required: false
+    - id: 8
+      name: lockout_tagout_tag
+      label: Lockout/Tagout Tag
+      hint: What was the lockout/tagout tag used?
+      type: select_multiple
+      options:
+      - Red
+      - Green
+      - Yellow
+      - Other - Specify
+      required: false
+    - id: 9
+      name: lockout_tagout_tag_location
+      label: Lockout/Tagout Tag Location
+      hint: Where was the lockout/tagout tag located?
+      type: select_one
+      options:
+      - On Equipment
+      - Near Equipment
+      - Other - Specify
+      required: false
+    - id: 10
+      name: lockout_tagout_tag_number
+      label: Lockout/Tagout Tag Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lockout_tagout_tag_number_location
+      label: Lockout/Tagout Tag Number Location
+      hint: Where is the tag number located?
+      type: select_one
+      options:
+      - On Equipment
+      - Near Equipment
+      - Other - Specify
+      required: false
+    - id: 12
+      name: maintenance_supervision
+      label: Maintenance Supervision
+      hint: Who is responsible for maintenance supervision?
+      type: select_multiple
+      options:
+      - Maintenance Supervisor
+      - Production Supervisor
+      - Other - Specify
+      required: false
+    - id: 13
+      name: lockout_tagout_tag_verified
+      label: Lockout/Tagout Tag Verified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: lockout_tagout_procedure_documented
+      label: Lockout/Tagout Procedure Documented
+      hint: Is the lockout/tagout procedure documented?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: lockout_tagout_procedure_training
+      label: Lockout/Tagout Procedure Training
+      hint: Has the lockout/tagout procedure been trained?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: lockout_tagout_tag_location_verified
+      label: Lockout/Tagout Tag Location Verified
+      hint: Is the lockout/tagout tag location verified?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: lockout_tagout_tag_verification
+      label: Lockout/Tagout Tag Verification
+      hint: Is the lockout/tagout tag verification required?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: maintenance_supervision_verified
+      label: Maintenance Supervision Verified
+      hint: Is maintenance supervision verification required?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: lockout_tagout_tag_verified
+      label: Lockout Tagout Tag Verified
+      hint: Is the lockout/tagout tag verified?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: lockout_tagout_procedure_verified
+      label: Lockout/Tagout Procedure Verified
+      hint: Is the lockout/tagout procedure verified?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: lockout_tagout_safety_verified
+      label: Lockout Tagout Safety Verified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: lockout_tagout_safety_assessment_verified
+      label: Lockout Tagout Safety Assessment Verified
+      hint: Is the lockout/tagout safety assessment verified?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: document_resubmission_form
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''HR'', ''name'': ''Human Resources''}'
+      - '{''id'': 2, ''value'': ''Admin'', ''name'': ''Administrative''}'
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: uploaded_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resubmission_date
+      label: Resubmission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: resubmission_details
+      label: Resubmission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: resubmission_comments
+      label: Resubmission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: uploaded_file_2
+      label: Upload Additional File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Staff'', ''name'': ''Staff''}'
+      - '{''id'': 2, ''value'': ''Student'', ''name'': ''Student''}'
+      - '{''id'': 3, ''value'': ''Guest'', ''name'': ''Guest''}'
+      required: true
+    - id: 12
+      name: department_2
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''IT'', ''name'': ''Information Technology''}'
+      - '{''id'': 2, ''value'': ''Marketing'', ''name'': ''Marketing''}'
+      required: true
+    - id: 13
+      name: phone_2
+      label: Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: uploaded_file_3
+      label: Upload Additional File 2
+      hint: null
+      type: text
+      options: []
+      required: false

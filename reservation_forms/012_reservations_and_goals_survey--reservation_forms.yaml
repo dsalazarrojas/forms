@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: reservations_and_goals_survey
+    pages:
+    - id: 1
+      name: reservation_info
+      label: reservation_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reservation_type
+      label: reservation_type
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Restaurant
+      - Event
+      required: true
+    - id: 3
+      name: reservation_date
+      label: reservation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: message_to_host
+      label: message_to_host
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

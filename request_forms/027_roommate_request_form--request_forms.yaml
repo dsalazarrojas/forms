@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roommate Request Form
+    pages:
+    - id: 1
+      name: roommates_wanted
+      label: Roommates_wanted
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: move_in_date
+      label: Move_in_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: expected_move_out_date
+      label: Expected_move_out_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: preferred_rooms
+      label: Preferred_rooms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: house_rules
+      label: House_rules
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: roommates_wanted_other
+      label: Other_roommates_wanted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: roommates_wanted_other_hint
+      label: Other_roommates_wanted_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: chat_id
+      label: Chat_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: chat_jid
+      label: Jid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: chat_server
+      label: Server
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: chat_room
+      label: Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: chat_room_hint
+      label: Room_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: chat_channel
+      label: Channel
+      hint: null
+      type: text
+      options: []
+      required: false

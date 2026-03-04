@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Role Delegation Request Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Delegation Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delegated_user
+      label: Delegated User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: delegated_user_email
+      label: Delegated User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: delegated_user_phone
+      label: Delegated User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delegated_user_date
+      label: Delegated User Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_delegation
+      label: Reason for Delegation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_date
+      label: Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: form_reviewed_by
+      label: Form Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: form_approved_by
+      label: Form Approved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: form_declined_by
+      label: Form Declined By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

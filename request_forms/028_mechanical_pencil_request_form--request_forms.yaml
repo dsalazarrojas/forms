@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mechanical Pencil Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - HR
+      - Marketing
+      - Operations
+      - Sales
+      required: true
+    - id: 3
+      name: pencil_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: pencil_color
+      label: Pencil Color
+      hint: null
+      type: select_multiple
+      options:
+      - Black
+      - Blue
+      - Red
+      required: true
+    - id: 6
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: employee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

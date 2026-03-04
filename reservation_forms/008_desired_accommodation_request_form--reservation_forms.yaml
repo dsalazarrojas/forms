@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Desired Accommodation Request Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: check_in
+      label: Check In
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: check_out
+      label: Check Out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: accommodation_type
+      label: Type of Accommodation
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Hostel
+      - Motel
+      - Bungalows
+      - Other
+      required: false
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Triple
+      - Quadruple
+      - Suite
+      required: false
+    - id: 6
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reservation_source
+      label: Reservation Source
+      hint: null
+      type: select_one
+      options:
+      - Web
+      - Email
+      - Phone
+      - Social Media
+      required: false
+    - id: 8
+      name: accommodation_provider
+      label: Accommodation Provider
+      hint: null
+      type: select_one
+      options:
+      - Hotel
+      - Hostel
+      - Bungalow
+      - Resort
+      - Other
+      required: false
+    - id: 9
+      name: room_amenities
+      label: Room Amenities
+      hint: null
+      type: select_multiple
+      options:
+      - TV
+      - AC
+      - Fridge
+      - Internet
+      - Pool
+      required: false
+    - id: 10
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: accommodation_address
+      label: Accommodation Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

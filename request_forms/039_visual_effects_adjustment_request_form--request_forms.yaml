@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visual Effects Adjustment Request Form
+    pages:
+    - id: 1
+      name: visual_effects_adjustment_request_form
+      label: Visual Effects Adjustment Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: studio
+      label: Studio
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''ABC''}'
+      - '{''value'': ''DEF''}'
+      - '{''value'': ''GHI''}'
+      required: false
+    - id: 3
+      name: project
+      label: Project
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''ABC''}'
+      - '{''value'': ''DEF''}'
+      - '{''value'': ''GHI''}'
+      required: false
+    - id: 4
+      name: reason_for_request
+      label: Reason For Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_resolution_date
+      label: Expected Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expected_resolution_time
+      label: Expected Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: adjustment_request_details
+      label: Adjustment Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approve''}'
+      - '{''value'': ''Reject''}'
+      - '{''value'': ''In-Progress''}'
+      required: false
+    - id: 9
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New''}'
+      - '{''value'': ''In-Progress''}'
+      - '{''value'': ''Done''}'
+      required: false
+    - id: 14
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false

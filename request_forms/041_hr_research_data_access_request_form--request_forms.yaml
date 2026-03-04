@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Research Data Access Request Form
+    pages:
+    - id: 1
+      name: request_info
+      label: HR Research Data Access Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: employee_details
+      hint: Provide employee details
+      type: select_multiple
+      options:
+      - Full-time Employee
+      - Part-time Employee
+      - Freelance
+      required: false
+    - id: 3
+      name: employee_details_type
+      label: employee_details_type
+      hint: null
+      type: select_one
+      options:
+      - Full-time Employee
+      - Part-time Employee
+      - Freelance
+      required: true
+    - id: 4
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: purpose_of_request
+      label: purpose_of_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expected_outcome
+      label: expected_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 12
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: research_type
+      label: research_type
+      hint: null
+      type: select_one
+      options:
+      - HR Research
+      - Non-HR Research
+      - Non-Research
+      required: false

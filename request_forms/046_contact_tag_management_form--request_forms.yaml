@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Tag Management Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Tag Management Request --
+        hint: Use this form to request contact tagging or segmentation changes
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester name
+        hint: Name of the person requesting the tag change
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_email
+        label: Requester email
+        hint: Email for confirmation and follow up
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: system_or_tool
+        label: System or tool
+        hint: Which CRM or marketing tool is affected
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: contact_identifier
+        label: Contact identifier
+        hint: Email or ID for contacts to be tagged
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: tags_to_apply
+        label: Tags to apply
+        hint: List tags to assign to the contact
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: tags_to_remove
+        label: Tags to remove
+        hint: List tags to remove if applicable
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: reason_for_change
+        label: Reason for change
+        hint: Brief justification for the tagging update
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: effective_date
+        label: Effective date for change
+        hint: When should the tag change take effect
+        type: date
+        options: []
+        required: false
+      - id: 10
+        name: approval_needed
+        label: Approval needed from manager
+        hint: Is managerial approval required
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: additional_instructions
+        label: Additional instructions
+        hint: Any other details to help implement the change
+        type: text
+        options: []
+        required: false

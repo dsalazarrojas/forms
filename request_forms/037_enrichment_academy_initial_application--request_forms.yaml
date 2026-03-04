@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: enrichment_academy_initial_application
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_tour
+      label: schedule_tour
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: selected_date_tour
+      label: select
+      hint: null
+      type: select_one
+      options:
+      - '{9: 1}'
+      - '{10: 2}'
+      - '{11: 3}'
+      required: true
+    - id: 5
+      name: selected_time_tour
+      label: select
+      hint: null
+      type: select_one
+      options:
+      - '{12: 1}'
+      - '{13: 2}'
+      - '{14: 3}'
+      required: true
+    - id: 6
+      name: schedule_tour_time
+      label: schedule_tour_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

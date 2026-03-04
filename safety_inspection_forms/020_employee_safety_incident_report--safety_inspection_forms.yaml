@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Safety Incident Report
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - Accident
+      - Near Miss
+      - Other
+      required: false
+    - id: 4
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_description2
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_injuries
+      label: Injuries
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Minor
+      - Serious
+      required: false
+    - id: 9
+      name: incident_illnesses
+      label: Illnesses
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'Yes'
+      required: false
+    - id: 10
+      name: incident_property_damage
+      label: Property Damage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: incident_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_supporting_files
+      label: Supporting Files
+      hint: null
+      type: text
+      options: []
+      required: false

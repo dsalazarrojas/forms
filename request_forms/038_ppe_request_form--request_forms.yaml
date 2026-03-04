@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: ppe_request_form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requested_equipment
+      label: requested_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - PPE Jacket
+      - Safety Glasses
+      - Gloves
+      required: false
+    - id: 3
+      name: quantity_requested
+      label: quantity_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: request_details
+      label: request_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Administration
+      - Engineering
+      - Marketing
+      - Operations
+      - Sales
+      - Support
+      required: false
+    - id: 8
+      name: assigned_contact
+      label: assigned_contact
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 9
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_received
+      label: time_received
+      hint: null
+      type: time
+      options: []
+      required: false

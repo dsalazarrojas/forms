@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Project Request Form
+    pages:
+    - id: 1
+      name: point_of_contact_name
+      label: Point of Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: point_of_contact_email
+      label: Point of Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: point_of_contact_phone
+      label: Point of Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_graphics_research
+      label: Project Graphics Research
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_type
+      label: Type of Project
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''project_type_option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 11, ''name'': ''project_type_option_2'', ''label'': ''Option 2''}'
+      - '{''id'': 12, ''name'': ''project_type_option_3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: project_manager_company
+      label: Project Manager Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: project_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_manager_notes
+      label: Project Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 25, ''name'': ''contact_method_option_1'', ''label'': ''Option 1''}'
+      - '{''id'': 26, ''name'': ''contact_method_option_2'', ''label'': ''Option 2''}'
+      - '{''id'': 27, ''name'': ''contact_method_option_3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 20
+      name: contact_method_2
+      label: Contact Method 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 26, ''name'': ''contact_method_2_option_1'', ''label'': ''Option
+        1''}'
+      - '{''id'': 27, ''name'': ''contact_method_2_option_2'', ''label'': ''Option
+        2''}'
+      required: true

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: yoni-therapys-vaginal-steam-intake-form
+    pages:
+    - id: 1
+      name: treatment_type
+      label: Vaginal Steam Treatment Type
+      hint: null
+      type: select_one
+      options:
+      - Steam Treatment
+      - Other
+      required: false
+    - id: 2
+      name: steam_treatment_date
+      label: Date of Steam Treatment
+      hint: Enter date of steam treatment
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: treatment_outcome
+      label: Treatment Outcome
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Slightly Improved
+      - No Change
+      - Worse
+      required: false
+    - id: 4
+      name: symptoms
+      label: Current Symptoms
+      hint: Enter symptoms
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: treatment_duration
+      label: Treatment Duration
+      hint: Enter treatment duration
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: treatment_frequency
+      label: Frequency of Steam Treatments
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 7
+      name: previous_experience
+      label: Previous Steam Experience
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: Enter comments
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_treatment
+      label: Follow Up Treatment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: next_appointment
+      label: Next Appointment
+      hint: Enter date of next appointment
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residence Maintenance Request Form
+    pages:
+    - id: 1
+      name: maintenance_request
+      label: maintenance_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_occurrence
+      label: date_of_occurrence
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: description_of_issue
+      label: description_of_issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: maintenance_type
+      label: maintenance_type
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Request
+      - Maintenance Request
+      - Maintenance Request
+      required: true
+    - id: 5
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_status
+      label: maintenance_status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Pending
+      required: true
+    - id: 8
+      name: maintenance_requestor
+      label: maintenance_requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: requestor
+      label: requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_requester
+      label: maintenance_requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date_requested
+      label: date_requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Completed
+      required: false
+    - id: 19
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: completed_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: last_updated
+      label: last_updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachments
+      label: attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: custom_fields_1
+      label: custom_fields_1
+      hint: null
+      type: text
+      options: []
+      required: false

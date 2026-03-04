@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Movement Form
+    pages:
+    - id: 1
+      name: tool_moved_from
+      label: Tool Moved From
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: moved_to
+      label: Moved To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: tool_moved_by
+      label: Moved By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tool_name
+      label: Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: moved_date
+      label: Moved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: moved_time
+      label: Moved Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: moved_to_location
+      label: Moved To Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: moved_by_tool_type
+      label: Moved By Tool Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: moved_by_user
+      label: Moved By User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: reason_for_movement
+      label: Reason For Movement
+      hint: null
+      type: text
+      options: []
+      required: false

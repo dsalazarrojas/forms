@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Feedback Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For follow-up on your feedback
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: visit_date
+      label: Date of Visit
+      hint: When did you visit our cafe
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: visit_time
+      label: Time of Visit
+      hint: What time did you visit
+      type: select_one
+      options:
+      - Breakfast before 10am
+      - Brunch 10am-12pm
+      - Lunch 12pm-3pm
+      - Afternoon 3pm-5pm
+      - Dinner after 5pm
+      required: true
+    - id: 5
+      name: party_size
+      label: Party Size
+      hint: How many people in your group
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: dining_type
+      label: Dining Type
+      hint: How did you dine with us
+      type: select_one
+      options:
+      - Dine-in
+      - Takeout
+      - Delivery
+      - Drive-through
+      required: true
+    - id: 7
+      name: food_quality
+      label: Food Quality
+      hint: How would you rate the food quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: beverage_quality
+      label: Beverage Quality
+      hint: How would you rate drink quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Did not order
+      required: true
+    - id: 9
+      name: service_speed
+      label: Service Speed
+      hint: How was the speed of service
+      type: select_one
+      options:
+      - Very fast
+      - Fast
+      - Average
+      - Slow
+      - Very slow
+      required: true
+    - id: 10
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: How friendly was our staff
+      type: select_one
+      options:
+      - Very friendly
+      - Friendly
+      - Neutral
+      - Unfriendly
+      - Very unfriendly
+      required: true
+    - id: 11
+      name: staff_knowledge
+      label: Staff Knowledge
+      hint: How knowledgeable was staff about menu
+      type: select_one
+      options:
+      - Very knowledgeable
+      - Knowledgeable
+      - Average
+      - Not knowledgeable
+      - Very uninformed
+      required: false
+    - id: 12
+      name: cleanliness
+      label: Cleanliness
+      hint: How clean was the cafe
+      type: select_one
+      options:
+      - Very clean
+      - Clean
+      - Average
+      - Dirty
+      - Very dirty
+      required: true
+    - id: 13
+      name: atmosphere
+      label: Atmosphere
+      hint: How would you rate the ambiance
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: value_for_money
+      label: Value for Money
+      hint: How do you feel about our prices
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Overpriced
+      required: true
+    - id: 15
+      name: menu_variety
+      label: Menu Variety
+      hint: How was the selection of items
+      type: select_one
+      options:
+      - Excellent selection
+      - Good selection
+      - Average selection
+      - Limited selection
+      - Very limited
+      required: false
+    - id: 16
+      name: favorite_item
+      label: Favorite Item Ordered
+      hint: What was your favorite thing
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: least_favorite_item
+      label: Least Favorite Item
+      hint: What did you like least
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: overall_experience
+      label: Overall Experience
+      hint: How would you rate your overall visit
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: would_recommend
+      label: Would You Recommend Us
+      hint: Would you recommend our cafe
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 20
+      name: would_return
+      label: Will You Return
+      hint: Will you visit us again
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 21
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments or suggestions
+      type: text
+      options: []
+      required: false

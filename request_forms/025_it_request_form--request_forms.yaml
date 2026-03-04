@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_request_form
+    pages:
+    - id: 1
+      name: request_type
+      label: Request type
+      hint: null
+      type: select_one
+      options:
+      - software
+      - hardware
+      - other
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - high
+      - medium
+      - low
+      required: false
+    - id: 5
+      name: urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - immediate
+      - within_a_day
+      - within_a_week
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_one
+      options:
+      - chat
+      - phone
+      - email
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

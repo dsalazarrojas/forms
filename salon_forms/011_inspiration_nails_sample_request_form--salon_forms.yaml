@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Provide your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Provide your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Provide a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Provide a phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sample_request_date
+      label: Sample Request Date
+      hint: Provide a date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: sample_request_time
+      label: Sample Request Time
+      hint: Provide a time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: color_request
+      label: Sample Color
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Light Brown
+      - Dark Brown
+      - Pastel Pink
+      - Neon Pink
+      - Red
+      - Blue
+      - Green
+      - Purple
+      required: false
+    - id: 8
+      name: number_of_samples
+      label: Number of Samples
+      hint: Provide a number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_request
+      label: Follow-up Request
+      hint: Check all that apply
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe Later
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Leave a note
+      type: note
+      options: []
+      required: false

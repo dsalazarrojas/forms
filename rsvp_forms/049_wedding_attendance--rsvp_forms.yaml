@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Attendance
+    pages:
+    - id: 1
+      name: wedding_attendance_form
+      label: Wedding Attendance Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_many_attending
+      label: How Many Are Attending?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_attendance
+      label: Date of Attendance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_attendance
+      label: Time of Attendance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: number_of_people_attending
+      label: Number of People Attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: attending_participants
+      label: Attending Participants
+      hint: null
+      type: select_multiple
+      options:
+      - Guest 1
+      - Guest 2
+      - Guest 3
+      - Guest 4
+      - Guest 5
+      - Guest 6
+      - Guest 7
+      - Guest 8
+      - Guest 9
+      - Guest 10
+      required: true
+    - id: 11
+      name: rsvp_form_submission_status
+      label: RSVP Form Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Rejected
+      - In Progress
+      - Pending
+      - Declined
+      required: true
+    - id: 12
+      name: rsvp_form_submission_date
+      label: RSVP Form Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

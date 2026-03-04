@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Construction Property Reservation Contract
+    pages:
+    - id: 1
+      name: unit_selection
+      label: Unit Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: buyer_details
+      label: Buyer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reservation_dates
+      label: Reservation Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: e_signature
+      label: E-Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reservation_confirmation
+      label: Reservation Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: unit_price
+      label: Unit Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: buyer_name
+      label: Buyer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: buyer_email
+      label: Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: buyer_comments
+      label: Buyer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: buyer_address
+      label: Buyer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: unit_status
+      label: Unit Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_terms_other
+      label: Other Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms_description
+      label: Payment Terms Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: payment_terms_amount
+      label: Payment Terms Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: buyer_signature
+      label: Buyer Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: unit_price_other
+      label: Other Unit Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_terms_other_description
+      label: Other Payment Terms Description
+      hint: null
+      type: text
+      options: []
+      required: false

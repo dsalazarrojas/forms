@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back Number Reservation Form
+    pages:
+    - id: 1
+      name: player_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: team_name
+      label: Team Name
+      hint: Which team are you on
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: jersey_size
+      label: Jersey Size
+      hint: Select your size
+      type: select_one
+      options:
+      - Youth Small
+      - Youth Medium
+      - Youth Large
+      - Adult Small
+      - Adult Medium
+      - Adult Large
+      - Adult XL
+      - Adult XXL
+      required: true
+    - id: 6
+      name: preferred_number
+      label: Preferred Jersey Number
+      hint: First choice number
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: second_choice_number
+      label: Second Choice Number
+      hint: Backup number option
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: third_choice_number
+      label: Third Choice Number
+      hint: Third option
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_significance
+      label: Number Significance
+      hint: Why do you prefer this number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: previous_numbers
+      label: Numbers Worn Previously
+      hint: List numbers you have worn before
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: position_played
+      label: Position Played
+      hint: What position do you play
+      type: select_one
+      options:
+      - Goalkeeper
+      - Defender
+      - Midfielder
+      - Forward
+      - Utility
+      - Other
+      required: true
+    - id: 12
+      name: years_on_team
+      label: Years on Team
+      hint: How long have you been on this team
+      type: select_one
+      options:
+      - First year
+      - 1 to 2 years
+      - 2 to 4 years
+      - 4 plus years
+      required: true
+    - id: 13
+      name: priority_request
+      label: Is This a Priority Request
+      hint: Is this number important for special reason
+      type: select_one
+      options:
+      - Yes, special significance
+      - No, flexible
+      required: true
+    - id: 14
+      name: captain_or_coach
+      label: Are You Captain or Coach
+      hint: Do you have leadership role
+      type: select_one
+      options:
+      - Team Captain
+      - Assistant Captain
+      - Coach
+      - Player
+      required: true
+    - id: 15
+      name: agreement_terms
+      label: Agreement to Terms
+      hint: I agree to number assignment decision
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

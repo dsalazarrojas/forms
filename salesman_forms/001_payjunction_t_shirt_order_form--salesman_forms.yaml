@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: PayJunction T Shirt Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_1
+      label: Address 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''submit'', ''label'': ''Submit''}'
+      - '{''id'': 12, ''name'': ''cancel'', ''label'': ''Cancel''}'
+      - '{''id'': 13, ''name'': ''back'', ''label'': ''Back''}'
+      required: true

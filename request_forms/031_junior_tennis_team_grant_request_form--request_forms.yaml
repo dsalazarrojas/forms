@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junior Tennis Team Grant Request Form
+    pages:
+    - id: 1
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_lead
+      label: team_lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_address
+      label: team_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grant_amount_request
+      label: grant_amount_request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: grant_use
+      label: grant_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grant_start_date
+      label: grant_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: grant_end_date
+      label: grant_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: bank_account_name
+      label: bank_account_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: grant_purpose
+      label: grant_purpose
+      hint: null
+      type: select_one
+      options:
+      - Team Uniform
+      - Tournament Entry Fees
+      - Coaching and Equipment
+      - Miscellaneous
+      required: false
+    - id: 10
+      name: grant_type
+      label: grant_type
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment and Supplies
+      - Team Travel
+      - Team Training
+      - Miscellaneous
+      required: false
+    - id: 11
+      name: bank_name
+      label: bank_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: account_number
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,351 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft Cabin Safety Inspection Form
+    pages:
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspector_id
+      label: Inspector ID
+      hint: Employee or badge number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: aircraft_registration
+      label: Aircraft Registration
+      hint: Tail number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: aircraft_type
+      label: Aircraft Type
+      hint: Make and model
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: flight_number
+      label: Flight Number
+      hint: Flight identifier
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seat_condition
+      label: Passenger Seat Condition
+      hint: Overall seat condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs repair
+      required: true
+    - id: 8
+      name: seatbelts_check
+      label: Seatbelt Inspection
+      hint: All seatbelts functional
+      type: select_one
+      options:
+      - All functional
+      - Minor issues
+      - Major issues
+      - Not functional
+      required: true
+    - id: 9
+      name: seatbelt_count
+      label: Non-functional Seatbelts
+      hint: Number not working
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overhead_bins
+      label: Overhead Bins
+      hint: Condition and function
+      type: select_one
+      options:
+      - All functional
+      - Some damaged
+      - Multiple issues
+      - Not functional
+      required: true
+    - id: 11
+      name: emergency_exits
+      label: Emergency Exits
+      hint: Exit condition and access
+      type: select_one
+      options:
+      - All clear and functional
+      - Minor obstructions
+      - Major issues
+      - Not functional
+      required: true
+    - id: 12
+      name: exit_signage
+      label: Exit Signage
+      hint: Signs visible and lit
+      type: select_one
+      options:
+      - All visible and lit
+      - Some not lit
+      - Multiple issues
+      - Not visible
+      required: true
+    - id: 13
+      name: emergency_lighting
+      label: Emergency Lighting
+      hint: Floor path lighting
+      type: select_one
+      options:
+      - All functional
+      - Some not working
+      - Multiple failures
+      - Not functional
+      required: true
+    - id: 14
+      name: life_vests
+      label: Life Vests
+      hint: Presence and condition
+      type: select_one
+      options:
+      - All present and sealed
+      - Some missing
+      - Multiple issues
+      - Not adequate
+      required: true
+    - id: 15
+      name: oxygen_masks
+      label: Oxygen Masks
+      hint: Compartment condition
+      type: select_one
+      options:
+      - All compartments secure
+      - Some damaged
+      - Multiple issues
+      - Not adequate
+      required: true
+    - id: 16
+      name: fire_extinguishers
+      label: Fire Extinguishers
+      hint: Presence and charge
+      type: select_one
+      options:
+      - All present and charged
+      - Needs service
+      - Missing
+      - Not adequate
+      required: true
+    - id: 17
+      name: first_aid_kits
+      label: First Aid Kits
+      hint: Presence and sealed
+      type: select_one
+      options:
+      - All present and sealed
+      - Some opened
+      - Missing
+      - Not adequate
+      required: true
+    - id: 18
+      name: megaphone
+      label: Megaphone
+      hint: Present and functional
+      type: select_one
+      options:
+      - Present and functional
+      - Present, needs batteries
+      - Missing
+      - Not applicable
+      required: true
+    - id: 19
+      name: axe_crowbar
+      label: Emergency Axe Crowbar
+      hint: Present and accessible
+      type: select_one
+      options:
+      - Present and accessible
+      - Present, not accessible
+      - Missing
+      - Not applicable
+      required: true
+    - id: 20
+      name: slide_rafts
+      label: Slide Rafts
+      hint: Armed and ready
+      type: select_one
+      options:
+      - All armed and ready
+      - Some issues
+      - Not armed
+      - Not applicable
+      required: true
+    - id: 21
+      name: cabin_cleanliness
+      label: Cabin Cleanliness
+      hint: Overall cleanliness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 22
+      name: lavatory_condition
+      label: Lavatory Condition
+      hint: Cleanliness and function
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 23
+      name: galley_condition
+      label: Galley Condition
+      hint: Cleanliness and security
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 24
+      name: carpet_condition
+      label: Carpet Condition
+      hint: Wear and cleanliness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs replacement
+      required: true
+    - id: 25
+      name: panel_condition
+      label: Interior Panels
+      hint: Condition and security
+      type: select_one
+      options:
+      - All secure
+      - Some loose
+      - Multiple damaged
+      - Poor condition
+      required: true
+    - id: 26
+      name: window_condition
+      label: Window Condition
+      hint: Clean and undamaged
+      type: select_one
+      options:
+      - All good
+      - Some scratched
+      - Multiple damaged
+      - Poor condition
+      required: true
+    - id: 27
+      name: shade_condition
+      label: Window Shades
+      hint: Functional
+      type: select_one
+      options:
+      - All functional
+      - Some stuck
+      - Multiple broken
+      - Poor condition
+      required: true
+    - id: 28
+      name: tray_tables
+      label: Tray Tables
+      hint: Functional and clean
+      type: select_one
+      options:
+      - All functional
+      - Some damaged
+      - Multiple broken
+      - Poor condition
+      required: true
+    - id: 29
+      name: entertainment_system
+      label: Entertainment System
+      hint: Functional status
+      type: select_one
+      options:
+      - All functional
+      - Some not working
+      - Multiple failures
+      - Not functional
+      required: false
+    - id: 30
+      name: discrepancies_found
+      label: Discrepancies Found
+      hint: List all issues
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: corrective_action
+      label: Corrective Action Required
+      hint: Actions needed
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: priority_level
+      label: Priority Level
+      hint: Urgency of repairs
+      type: select_one
+      options:
+      - Immediate action required
+      - Action before next flight
+      - Action within 24 hours
+      - Schedule for maintenance
+      - Minor, no urgency
+      required: true
+    - id: 33
+      name: aircraft_cleared
+      label: Aircraft Cleared for Service
+      hint: Can aircraft operate
+      type: select_one
+      options:
+      - Yes, cleared
+      - Yes, with minor items
+      - No, requires repair
+      required: true
+    - id: 34
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Approval signature
+      type: text
+      options: []
+      required: false

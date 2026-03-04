@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_credit_limit_adjustment_request
+    pages:
+    - id: 1
+      name: company_request
+      label: Company Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: credit_limit_amount
+      label: Credit Limit Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: current_credit_limit
+      label: Current Credit Limit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: requested_credit_limit
+      label: Requested Credit Limit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: finance_contact
+      label: Finance Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Request Form
+    pages:
+    - id: 1
+      name: stock_request_form_form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stock_request_form_requester
+      label: requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stock_request_form_item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stock_request_form_item_type
+      label: item_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stock_request_form_quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: stock_request_form_unit_price
+      label: unit_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stock_request_form_total_price
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: stock_request_form_request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: stock_request_form_status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - In Progress
+      required: true
+    - id: 10
+      name: stock_request_form_comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: stock_request_form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: stock_request_form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

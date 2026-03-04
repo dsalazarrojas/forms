@@ -1,0 +1,274 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Coordination Effectiveness Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_role
+        label: Your Role
+        hint: null
+        type: select_one
+        options:
+          - Patient
+          - Family Member or Caregiver
+          - Primary Care Provider
+          - Specialist
+          - Nurse
+          - Social Worker
+          - Care Coordinator
+          - Administrator
+          - Other
+        required: true
+      - id: 3
+        name: organization_name
+        label: Organization Name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: survey_date
+        label: Survey Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: care_duration
+        label: How Long Have You Been Receiving Coordinated Care
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 4-6 months
+          - 7-12 months
+          - More than 1 year
+        required: true
+      - id: 6
+        name: communication_rating
+        label: How Would You Rate Communication Between Care Providers
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: information_sharing
+        label: How Well Is Health Information Shared Among Your Providers
+        hint: null
+        type: select_one
+        options:
+          - Very well - seamless sharing
+          - Well - minor gaps
+          - Adequately - some delays
+          - Poorly - frequent gaps
+          - Very poorly - no coordination
+        required: true
+      - id: 8
+        name: appointment_coordination
+        label: How Satisfied Are You With Appointment Scheduling Coordination
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 9
+        name: medication_management
+        label: How Well Are Your Medications Coordinated Across Providers
+        hint: null
+        type: select_one
+        options:
+          - Excellent - no conflicts or duplication
+          - Good - minor issues resolved quickly
+          - Fair - occasional conflicts
+          - Poor - frequent medication conflicts
+          - Very poor - no coordination
+        required: true
+      - id: 10
+        name: care_plan_clarity
+        label: How Clear Is Your Care Plan to You
+        hint: null
+        type: select_one
+        options:
+          - Very clear - I understand everything
+          - Clear - I understand most of it
+          - Somewhat clear - some confusion
+          - Unclear - I have many questions
+          - Very unclear - I do not understand my plan
+        required: true
+      - id: 11
+        name: access_to_services
+        label: How Easy Is It to Access Needed Services
+        hint: null
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Somewhat easy
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 12
+        name: wait_times
+        label: How Would You Rate Wait Times for Appointments
+        hint: null
+        type: select_one
+        options:
+          - Excellent - minimal wait
+          - Good - reasonable wait
+          - Fair - sometimes long waits
+          - Poor - frequently long waits
+          - Very poor - excessive waits
+        required: true
+      - id: 13
+        name: care_transitions
+        label: How Smooth Are Transitions Between Care Settings
+        hint: Hospital to home, specialist to PCP, etc.
+        type: select_one
+        options:
+          - Very smooth - well coordinated
+          - Smooth - minor issues
+          - Somewhat smooth - some gaps
+          - Rough - significant gaps
+          - Very rough - poor coordination
+        required: true
+      - id: 14
+        name: patient_involvement
+        label: How Involved Do You Feel in Care Decisions
+        hint: null
+        type: select_one
+        options:
+          - Very involved - my input is valued
+          - Involved - I participate in decisions
+          - Somewhat involved - occasional input
+          - Not very involved - limited input
+          - Not involved at all
+        required: true
+      - id: 15
+        name: support_services_awareness
+        label: Are You Aware of Available Support Services
+        hint: null
+        type: select_one
+        options:
+          - Yes - very aware
+          - Somewhat aware
+          - Not aware
+        required: true
+      - id: 16
+        name: support_services_utilization
+        label: Have You Used Any Support Services
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Care coordination
+          - Social work services
+          - Mental health support
+          - Nutrition counseling
+          - Physical therapy
+          - Transportation assistance
+          - Financial counseling
+          - Patient education
+          - None
+          - Not aware of services
+        required: true
+      - id: 17
+        name: overall_satisfaction
+        label: Overall Satisfaction With Care Coordination
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 18
+        name: health_outcomes
+        label: Have You Noticed Improvement in Your Health Outcomes
+        hint: Since receiving coordinated care
+        type: select_one
+        options:
+          - Significant improvement
+          - Moderate improvement
+          - Slight improvement
+          - No change
+          - Worsening
+        required: true
+      - id: 19
+        name: recommend_to_others
+        label: How Likely Are You to Recommend This Care Coordination Program
+        hint: null
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 20
+        name: biggest_strength
+        label: What Is the Biggest Strength of the Care Coordination
+        hint: Select one
+        type: select_one
+        options:
+          - Communication between providers
+          - Easy access to services
+          - Clear care planning
+          - Patient education
+          - Follow-up and monitoring
+          - Support services
+          - None stand out
+        required: true
+      - id: 21
+        name: areas_for_improvement
+        label: What Areas Need the Most Improvement
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Communication between providers
+          - Appointment scheduling
+          - Wait times
+          - Information sharing
+          - Patient education
+          - Care transitions
+          - Access to specialists
+          - Support services availability
+          - Medication management
+          - None - satisfied with all areas
+        required: true
+      - id: 22
+        name: additional_feedback
+        label: Additional Comments or Suggestions
+        hint: Optional
+        type: text
+        options: []
+        required: false

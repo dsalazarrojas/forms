@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Questionnaire
+    pages:
+    - id: 1
+      name: client_name_entity
+      label: Client or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: animation_project_type
+      label: Animation Project Type
+      hint: null
+      type: select_one
+      options:
+      - Explainer Video
+      - Television Commercial
+      - Social Media Advertisement
+      - Feature Film Segment
+      - Animated Logo and Branding
+      required: true
+    - id: 3
+      name: video_length_target
+      label: Desired Video Length - Seconds
+      hint: Approximate duration
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: target_audience_desc
+      label: Primary Target Audience
+      hint: Who is this video for?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: core_message_summary
+      label: Core Message or Call to Action
+      hint: What should viewers do after watching?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: brand_style_pref_choice
+      label: Brand Visual Style Preference
+      hint: null
+      type: select_one
+      options:
+      - Minimalist and Clean
+      - Traditional Corporate
+      - Stylized and Cartoony
+      - Hyper-Realistic
+      - Abstract and Artistic
+      required: true
+    - id: 7
+      name: style_reference_link
+      label: Reference Link for Visual Style
+      hint: Link to an existing video you like
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: voiceover_req_status
+      label: Is a Professional Voiceover Required?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Please provide options
+      - No - Not needed
+      - Provided - Client will provide audio
+      required: true
+    - id: 9
+      name: music_req_status
+      label: Is Custom Background Music Required?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Custom score needed
+      - Yes - Licensed track needed
+      - No - Not needed
+      required: true
+    - id: 10
+      name: budget_range_usd
+      label: Estimated Budget Range - USD
+      hint: Helps us scope the project effectively
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: delivery_deadline_target
+      label: Final Delivery Deadline
+      hint: null
+      type: date
+      options: []
+      required: true

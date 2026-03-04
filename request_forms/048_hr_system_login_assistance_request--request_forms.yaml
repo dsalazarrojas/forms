@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR System Login Assistance Request
+    pages:
+    - id: 1
+      name: issue_description
+      label: Issue description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: issue_urgency
+      label: Issue urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: issue_type
+      label: Issue type
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - IT
+      - Payroll
+      required: false
+    - id: 5
+      name: employee_email
+      label: Employee email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: issue_details
+      label: Issue details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_phone
+      label: Employee phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_solved
+      label: Issue solved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: issue_comments
+      label: Issue comments
+      hint: null
+      type: text
+      options: []
+      required: false

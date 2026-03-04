@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Workshop Series RSVP Form
+    pages:
+    - id: 1
+      name: workshop_name
+      label: Workshop Name
+      hint: Enter the workshop name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: attendee_name
+      label: Attendee Name
+      hint: Enter the attendee's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workshop_date
+      label: Workshop Date
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: workshop_time
+      label: Workshop Time
+      hint: "12:00 PM"
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: workshop_time_zone
+      label: Workshop Time Zone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: workshop_location
+      label: Workshop Location
+      hint: Enter the workshop location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: workshop_description
+      label: Workshop Description
+      hint: Enter the workshop description
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: workshop_language
+      label: Workshop Language
+      hint: Select a language
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 11
+      name: workshop_length
+      label: Workshop Length
+      hint: Enter the workshop length
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: minimalist
+      label: Minimalist
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter any additional comments
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm_workshop
+      label: Confirm Workshop
+      hint: Confirm if you will attend the workshop
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

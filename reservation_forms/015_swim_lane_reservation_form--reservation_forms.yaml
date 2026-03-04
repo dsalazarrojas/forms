@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Swim Lane Reservation Form
+    pages:
+    - id: 1
+      name: swim_lane_reservation_form_page_1
+      label: Swim Lane Reservation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: swim_lane_reservation_form_page_2
+      label: Reservation Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: swim_lane_reservation_form_page_3
+      label: Swim Lane Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: swim_lane_reservation_form_page_4
+      label: Select Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: swim_lane_reservation_form_page_5
+      label: Number of People
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: swim_lane_reservation_form_page_6
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: swim_lane_reservation_form_page_7
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: swim_lane_reservation_form_page_8
+      label: Swim Lane Availability Note
+      hint: null
+      type: note
+      options: []
+      required: false

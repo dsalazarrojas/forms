@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meet And Greet Request
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_type
+      label: Pet Type
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Other
+      required: false
+    - id: 4
+      name: pet_breed
+      label: Pet Breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pet_age
+      label: Pet Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: pet_diet
+      label: Pet Diet
+      hint: null
+      type: select_multiple
+      options:
+      - Grain free
+      - Limited
+      - Normal
+      required: false
+    - id: 7
+      name: pet_notes
+      label: Pet Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: owner_notes
+      label: Owner Notes
+      hint: null
+      type: note
+      options: []
+      required: false

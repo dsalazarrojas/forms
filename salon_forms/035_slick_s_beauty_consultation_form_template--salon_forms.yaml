@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Slicks_beauty_consultation_form_template
+    pages:
+    - id: 1
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Haircut
+      - Color
+      - Waxing
+      - Makeup
+      - Massage
+      - HairColor
+      - HairHighlight
+      - Eyelash
+      - Manicure
+      - Pedicure
+      - Tanning
+      - Nail
+      - Teeth Whitening
+      - Teeth Whitening-Plus
+      required: true
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - another_person
+      - another_person_else
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: service_price
+      label: service_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Bank
+      required: true
+    - id: 12
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Paid
+      - PartiallyPaid
+      required: true
+    - id: 13
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: client_notes
+      label: client_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: staff_notes
+      label: staff_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: photo_taken
+      label: photo_taken
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: photo_taken_notes
+      label: photo_taken_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: service_notes
+      label: service_notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: service_details
+      label: service_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: service_details2
+      label: service_details2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: service_details3
+      label: service_details3
+      hint: null
+      type: text
+      options: []
+      required: true

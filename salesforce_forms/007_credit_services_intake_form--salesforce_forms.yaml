@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Services Intake Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: credit_type
+      label: What type of credit are you applying for
+      hint: null
+      type: select_one
+      options:
+      - loan
+      - credit_card
+      - investment
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: annual_income
+      label: Annual Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Unemployed
+      required: false
+    - id: 10
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: loan_amount
+      label: Loan Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: loan_term
+      label: Loan Term
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: interest_rate
+      label: Interest Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: annual_interest
+      label: Annual Interest
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: fees
+      label: Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_schedule
+      label: Payment Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Online Banking
+      - Phone
+      - In-Person
+      required: false
+    - id: 18
+      name: credit_history
+      label: Credit History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employment_length
+      label: Employment Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Unemployed
+      required: false
+    - id: 21
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      required: false
+    - id: 22
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Annually
+      - Quarterly
+      required: false
+    - id: 23
+      name: income_verification
+      label: Income Verification
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: tax_id_number
+      label: Tax ID Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: other_credit_inquiries
+      label: Other Credit Inquiries
+      hint: null
+      type: text
+      options: []
+      required: false

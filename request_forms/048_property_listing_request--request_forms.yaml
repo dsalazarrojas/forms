@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Listing Request
+    pages:
+    - id: 1
+      name: property_listing_request_form
+      label: Property Listing Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - House
+      - Duplex
+      - Townhouse
+      - Land
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - '[''New York'']'
+      - '[''Los Angeles'']'
+      - '[''Chicago'']'
+      - '[''Houston'']'
+      - '[''Philadelphia'']'
+      required: false
+    - id: 4
+      name: number_of_bedrooms
+      label: Number Of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: number_of_bathrooms
+      label: Number Of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: lot_size
+      label: Lot Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: price_range
+      label: Price Range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: features
+      label: Features
+      hint: null
+      type: select_multiple
+      options:
+      - Garage
+      - Pool
+      - Yard
+      - Balcony
+      - Fireplace
+      required: false
+    - id: 11
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Sold
+      required: false
+    - id: 12
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agent_information
+      label: Agent Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_description
+      label: Property Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_price
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: false

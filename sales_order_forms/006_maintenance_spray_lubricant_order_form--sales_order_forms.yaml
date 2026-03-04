@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Spray Lubricant Order Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: spray_lubricant
+      label: Spray Lubricant
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Lubri 1'', ''label'': ''Lubri 1''}'
+      - '{''value'': ''Lubri 2'', ''label'': ''Lubri 2''}'
+      required: false
+    - id: 3
+      name: spray_concentration
+      label: Spray Concentration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''1%'', ''label'': ''1%''}'
+      - '{''value'': ''2%'', ''label'': ''2%''}'
+      - '{''value'': ''5%'', ''label'': ''5%''}'
+      required: false
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: Optional notes about this order
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned
+      label: Assigned
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''In Progress'', ''label'': ''In Progress''}'
+      - '{''value'': ''Completed'', ''label'': ''Completed''}'
+      required: false

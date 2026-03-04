@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Request Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher
+      label: teacher
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mr'', ''value'': ''m''}'
+      - '{''label'': ''Ms'', ''value'': ''ms''}'
+      - '{''label'': ''Dr'', ''value'': ''dr''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: student
+      label: student
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Mr'', ''value'': ''m''}'
+      - '{''label'': ''Ms'', ''value'': ''ms''}'
+      - '{''label'': ''Dr'', ''value'': ''dr''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 4
+      name: school
+      label: school
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject
+      label: subject
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Math'', ''value'': ''math''}'
+      - '{''label'': ''Science'', ''value'': ''science''}'
+      - '{''label'': ''English'', ''value'': ''english''}'
+      - '{''label'': ''History'', ''value'': ''history''}'
+      required: false
+    - id: 6
+      name: subject
+      label: subject
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_table_reservation_form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: table_number
+      label: table_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: guest_count
+      label: guest_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reservation_time
+      label: reservation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reservation_note
+      label: reservation_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: guest_email
+      label: guest_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: guest_phone
+      label: guest_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counselor Transfer Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_transfer
+      label: reason_for_transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: transfer_date
+      label: transfer_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: counselor_name
+      label: counselor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_school
+      label: current_school
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: true
+    - id: 7
+      name: new_school
+      label: new_school
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: true
+    - id: 8
+      name: new_program
+      label: new_program
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by_email
+      label: submitted_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option_1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option_2''}'
+      required: true
+    - id: 13
+      name: approved_by_email
+      label: approved_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: date_reviewed
+      label: date_reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: action
+      label: action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: action_date
+      label: action_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: notes_reviewed
+      label: notes_reviewed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approved_by_title
+      label: approved_by_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: transfer_request_id
+      label: transfer_request_id
+      hint: null
+      type: text
+      options: []
+      required: false

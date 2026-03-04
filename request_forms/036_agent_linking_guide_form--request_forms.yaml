@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Linking Guide Form
+    pages:
+    - id: 1
+      name: request_header
+      label: -- Linking Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Person requesting link
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: For communication about linking
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: agent_to_link
+      label: Agent to link
+      hint: Agent identifier or name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: systems_to_link
+      label: Systems to link
+      hint: List systems or accounts needing access
+      type: select_multiple
+      options: [CRM, Billing, Email, Support portal, Analytics]
+      required: true
+    - id: 6
+      name: access_level
+      label: Requested access level
+      hint: Scope of access required
+      type: select_one
+      options: [Read only, Edit, Admin]
+      required: true
+    - id: 7
+      name: justification
+      label: Justification for linking
+      hint: Business reason for access
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: requested_by_date
+      label: Requested by date
+      hint: Target date for linking
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: approver_name
+      label: Approver name
+      hint: Manager approving the link
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional technical details
+      type: text
+      options: []
+      required: false

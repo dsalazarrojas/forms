@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Meter Calibration Request Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: water_meter_details
+      label: Water Meter Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''3-1'', ''label'': ''Option 1''}'
+      - '{''id'': ''3-2'', ''label'': ''Option 2''}'
+      - '{''id'': ''3-3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 4
+      name: date_of_calibration
+      label: Date of Calibration
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: meter_reading
+      label: Meter Reading
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: meter_type
+      label: Meter Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: meter_model
+      label: Meter Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: meter_location
+      label: Meter Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''10-1'', ''label'': ''Option 1''}'
+      - '{''id'': ''10-2'', ''label'': ''Option 2''}'
+      - '{''id'': ''10-3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

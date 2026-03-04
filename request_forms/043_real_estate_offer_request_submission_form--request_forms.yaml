@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_offer_request_submission_form
+    pages:
+    - id: 1
+      name: real_estate_agency
+      label: Real Estate Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: offer_price
+      label: Offer Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: offer_date
+      label: Offer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_agent
+      label: Real Estate Agent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: real_estate_agent_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: real_estate_agent_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_message
+      label: Client Message
+      hint: null
+      type: text
+      options: []
+      required: false

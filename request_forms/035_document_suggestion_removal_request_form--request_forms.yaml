@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Suggestion Removal Request Form
+    pages:
+    - id: 1
+      name: document_suggestion_removal_request_form
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: content
+      label: what_is_the_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggested_by
+      label: who_suggested_it
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggested_date
+      label: when_was_it_suggested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason_for_removal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: document_type
+      label: what_type_of_document
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

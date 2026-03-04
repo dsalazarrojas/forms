@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drive Thru Meal Order Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_beverages
+      label: Order Beverages
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Water''}'
+      - '{''id'': 2, ''name'': ''Soda''}'
+      - '{''id'': 3, ''name'': ''Juice''}'
+      - '{''id'': 4, ''name'': ''Coffee''}'
+      - '{''id'': 5, ''name'': ''Tea''}'
+      required: true
+    - id: 3
+      name: order_side_sauce
+      label: Order Side Sauce
+      hint: Choose one or more
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Ketchup''}'
+      - '{''id'': 2, ''name'': ''Mustard''}'
+      - '{''id'': 3, ''name'': ''Hot Sauce''}'
+      - '{''id'': 4, ''name'': ''None''}'
+      required: true
+    - id: 4
+      name: order_entr_e
+      label: Order Entrée
+      hint: Choose one or more
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Burger''}'
+      - '{''id'': 2, ''name'': ''Fries''}'
+      - '{''id'': 3, ''name'': ''Salad''}'
+      - '{''id'': 4, ''name'': ''Chicken''}'
+      - '{''id'': 5, ''name'': ''Combo''}'
+      required: true
+    - id: 5
+      name: order_toppings
+      label: Order Toppings
+      hint: Choose one or more
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Cheese''}'
+      - '{''id'': 2, ''name'': ''Pickles''}'
+      - '{''id'': 3, ''name'': ''Onions''}'
+      - '{''id'': 4, ''name'': ''Tomatoes''}'
+      - '{''id'': 5, ''name'': ''Mayo''}'
+      - '{''id'': 6, ''name'': ''Ketchup''}'
+      - '{''id'': 7, ''name'': ''Mustard''}'
+      required: true
+    - id: 6
+      name: order_payment_method
+      label: Order Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Cash''}'
+      - '{''id'': 2, ''name'': ''Credit Card''}'
+      - '{''id'': 3, ''name'': ''Debit Card''}'
+      required: false
+    - id: 7
+      name: order_comment
+      label: Order Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: order_confirmation
+      label: Order Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Pending''}'
+      - '{''id'': 2, ''name'': ''In Progress''}'
+      - '{''id'': 3, ''name'': ''Complete''}'
+      - '{''id'': 4, ''name'': ''Cancelled''}'
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false

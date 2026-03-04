@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Quiz
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_info
+      label: Hair Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hair_condition
+      label: Hair Condition
+      hint: null
+      type: select_one
+      options:
+      - Baldness
+      - Dandruff
+      - Dryness
+      - Greasiness
+      - Normal
+      - Oilyness
+      - Thinning
+      required: true
+    - id: 4
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_multiple
+      options:
+      - Afro
+      - Bald
+      - Curly
+      - Fine
+      - Greasy
+      - Normal
+      - Straight
+      - Thin
+      required: false
+    - id: 5
+      name: skin_condition
+      label: Skin Condition
+      hint: null
+      type: select_one
+      options:
+      - Acne
+      - Allergies
+      - Eczema
+      - Normal
+      - Psoriasis
+      required: true
+    - id: 6
+      name: client_satisfaction
+      label: Client Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      required: false
+    - id: 7
+      name: hair_service
+      label: Hair Service
+      hint: null
+      type: select_one
+      options:
+      - Chemical Treatment
+      - Color
+      - Cut
+      - Haircut
+      - Normal
+      - Perm
+      - Relaxation
+      - Style
+      required: true
+    - id: 8
+      name: client_visit
+      label: Client Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_time
+      label: Service Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Home
+      - None
+      - Other
+      required: true
+    - id: 15
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scaffolding Safety Checklist
+    pages:
+    - id: 1
+      name: scaffolding_type
+      label: What type of scaffolding is being used?
+      hint: null
+      type: select_one
+      options:
+      - Scaffolding type
+      - Scaffold
+      - Support scaffolding
+      - Independent scaffolding
+      required: false
+    - id: 2
+      name: scaffolding_location
+      label: Is scaffolding located on a solid surface?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: access_holes
+      label: Are there adequate access holes?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: fall_protection
+      label: Are fall protection devices required?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: scaffolding_height
+      label: What is the maximum height of scaffolding?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: scaffolding_width
+      label: What is the maximum width of scaffolding?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: scaffold_access_path
+      label: Is there an access path available for the scaffolding?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: safety_signs
+      label: Are safety signs displayed at each level?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: scaffolding_training
+      label: Was a scaffold safety training given?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: emergency_plan
+      label: Is an emergency plan established?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

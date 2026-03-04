@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Certification Update Request Form
+    pages:
+    - id: 1
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_type
+      label: Farm Type
+      hint: null
+      type: select_one
+      options:
+      - Farm
+      - Ranch
+      - Orchard
+      - Nursery
+      - Dairy
+      - Poultry
+      required: false
+    - id: 3
+      name: farm_size
+      label: Farm Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: farm_certificate
+      label: Farm Certificate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_attachment
+      label: Document Attachment
+      hint: null
+      type: select_multiple
+      options:
+      - Attachment 1
+      - Attachment 2
+      - Attachment 3
+      required: false
+    - id: 6
+      name: farm_address
+      label: Farm Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: farm_notes
+      label: Farm Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: certification_update
+      label: Certification Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_certified
+      label: Date Certified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_certified
+      label: Time Certified
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

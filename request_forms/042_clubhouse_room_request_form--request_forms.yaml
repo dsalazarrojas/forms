@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clubhouse Room Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Person requesting the room
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization or Department Name
+      hint: Who is requesting the room
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requested_room_type
+      label: Room Type Needed
+      hint: Select the type of room
+      type: select_one
+      options:
+      - Meeting Room
+      - Conference Room
+      - Classroom
+      - Private Room
+      - Multi-Purpose Room
+      - Virtual Room
+      required: true
+    - id: 7
+      name: meeting_date
+      label: Desired Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: meeting_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: meeting_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: expected_capacity
+      label: Expected Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: meeting_purpose
+      label: Purpose of Meeting
+      hint: What is the meeting about
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recurring_meeting
+      label: Is This a Recurring Meeting
+      hint: null
+      type: select_one
+      options:
+      - No, One-Time
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Other Schedule
+      required: true
+    - id: 13
+      name: recurring_duration
+      label: Duration of Recurring Meetings
+      hint: If recurring, how long
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: equipment_needs
+      label: Equipment Needed
+      hint: Select all items needed
+      type: select_multiple
+      options:
+      - Projector and Screen
+      - Whiteboard
+      - Conference Phone
+      - Video Conference Setup
+      - WiFi Access
+      - Catering Service
+      - Recording Equipment
+      required: false
+    - id: 15
+      name: setup_requirements
+      label: Special Setup or Requirements
+      hint: Any special requests
+      type: text
+      options: []
+      required: false

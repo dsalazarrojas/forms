@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botulinum Toxin Medical History Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_header_medical
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: existing_conditions
+      label: Do you have any existing medical conditions
+      hint: Diabetes, hypertension, heart disease, etc.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Known Drug Allergies
+      hint: List all allergies including reactions
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: food_allergies
+      label: Food Allergies
+      hint: Any food sensitivities or allergies
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: bleeding_disorder
+      label: History of bleeding disorders
+      hint: Hemophilia, platelet disorders, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 10
+      name: section_header_medications
+      label: -- Current Medications and Supplements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: current_medications_list
+      label: Current Medications
+      hint: Include names and dosages
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: blood_thinners
+      label: Taking blood thinners or anticoagulants
+      hint: Warfarin, aspirin, ibuprofen, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 13
+      name: supplements
+      label: Dietary Supplements
+      hint: Vitamins, herbs, or other supplements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_neuromuscular
+      label: -- Neuromuscular Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: myasthenia_gravis
+      label: Myasthenia Gravis or similar condition
+      hint: Muscle weakness disease
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 16
+      name: lambert_eaton
+      label: Lambert-Eaton Myasthenic Syndrome
+      hint: Neuromuscular condition
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 17
+      name: section_header_reproductive
+      label: -- Reproductive Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: pregnancy_status
+      label: Are you pregnant
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      - Not applicable
+      required: true
+    - id: 19
+      name: breastfeeding_status
+      label: Are you breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 20
+      name: previous_botox
+      label: Previous Botox or similar treatments
+      hint: Any prior cosmetic injections
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 21
+      name: acknowledgment
+      label: I confirm all information is accurate
+      hint: Check to proceed
+      type: select_one
+      options:
+      - I agree
+      - I need to make corrections
+      required: true

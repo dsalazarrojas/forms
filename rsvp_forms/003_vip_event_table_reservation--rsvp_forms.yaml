@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: vip_event_table_reservation
+    pages:
+    - id: 1
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: reservation_notes
+      label: Reservation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_one
+      options:
+      - Food Allergy
+      - Dietary Restrictions
+      - Special Equipment
+      required: false
+    - id: 8
+      name: rsvp_method
+      label: RSVP Method
+      hint: null
+      type: select_one
+      options:
+      - Web
+      - Phone
+      - Email
+      required: true
+    - id: 9
+      name: assigned_contact
+      label: Assigned Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Event Organizer
+      - Event Manager
+      - Reservations Coordinator
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

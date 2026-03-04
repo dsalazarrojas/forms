@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cosmetology Client Consultation Form
+    pages:
+    - id: 1
+      name: client_consultation_form
+      label: Client Consultation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_needed
+      label: Service Needed
+      hint: null
+      type: select_one
+      options:
+      - Cutting
+      - Coloring
+      - Chemical Treatment
+      - Makeup
+      - Waxing
+      - Nail Care
+      - Facial
+      required: true
+    - id: 3
+      name: hair_length
+      label: Hair Length
+      hint: null
+      type: select_multiple
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 4
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Curly
+      - Wavy
+      - Straight
+      - Other
+      required: false
+    - id: 5
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_multiple
+      options:
+      - Brown
+      - Black
+      - Blond
+      - Red
+      - Other
+      required: false
+    - id: 6
+      name: prophet
+      label: Prophet
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_start_date
+      label: Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: service_start_time
+      label: Service Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: service_end_date
+      label: Service End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: service_end_time
+      label: Service End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: service_price
+      label: Service Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: stylist_name
+      label: Stylist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: stylist_phone
+      label: Stylist Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: salon_address
+      label: Salon Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: service_start
+      label: Service Start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: service_end
+      label: Service End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: stylist_note
+      label: Stylist Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: client_note
+      label: Client Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: service_notes
+      label: Service Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: salon_id
+      label: Salon ID
+      hint: null
+      type: text
+      options: []
+      required: true

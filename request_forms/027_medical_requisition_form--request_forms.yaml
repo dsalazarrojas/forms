@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Requisition Form
+    pages:
+    - id: 1
+      name: request_form_data
+      label: Request Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_requested
+      label: Equipment Requested
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Medical Cart''}'
+      - '{''value'': ''IV Stand''}'
+      - '{''value'': ''Blood Pressure Monitor''}'
+      - '{''value'': ''Defibrillator''}'
+      - '{''value'': ''Oxygen Tank''}'
+      - '{''value'': ''Surgical Light''}'
+      required: false
+    - id: 3
+      name: supplies_requested
+      label: Supplies Requested
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Gloves''}'
+      - '{''value'': ''Gown''}'
+      - '{''value'': ''Face Mask''}'
+      - '{''value'': ''Surgical Gauze''}'
+      required: false
+    - id: 4
+      name: medications_requested
+      label: Medications Requested
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Aspirin''}'
+      - '{''value'': ''Epinephrine''}'
+      - '{''value'': ''Fentanyl''}'
+      - '{''value'': ''Hydralazine''}'
+      - '{''value'': ''Metoprolol''}'
+      - '{''value'': ''Morphine''}'
+      - '{''value'': ''Naloxone''}'
+      - '{''value'': ''Oxytocin''}'
+      - '{''value'': ''Sulfamylon''}'
+      required: false
+    - id: 5
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hospital_name
+      label: Hospital Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_requested
+      label: Time Requested
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Donation Request Form
+    pages:
+    - id: 1
+      name: food_donation_request_form
+      label: Food Donation
+      hint: null
+      type: select_one
+      options:
+      - Food
+      - Non-Food
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Food Bank
+      - Shelter
+      - Pantry
+      required: false
+    - id: 5
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: type_of_donation
+      label: Type of Donation
+      hint: null
+      type: select_one
+      options:
+      - Canned Goods
+      - Fresh Fruits and Vegetables
+      - Baked Goods
+      required: false
+    - id: 7
+      name: available_date
+      label: Available Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: available_time
+      label: Available Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

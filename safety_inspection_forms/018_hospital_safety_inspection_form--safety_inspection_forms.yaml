@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Safety Inspection Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_risks
+      label: safety_risks
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Hazards
+      - Fall Hazards
+      - Chemical Spill
+      - Slip/Trip Hazards
+      - Other
+      required: false
+    - id: 3
+      name: risk_factor
+      label: risk_factor
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - Hospital
+      - Clinics
+      - Outpatient
+      - Laboratory
+      - Other
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_visited
+      label: date_visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_visited
+      label: time_visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: completed_by
+      label: completed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: completed_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: safety_inspectors
+      label: safety_inspectors
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Jane Doe
+      - Dr. John Doe
+      - Dr. Jane Roe
+      required: false
+    - id: 12
+      name: hospital_address
+      label: hospital_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: patient_phone
+      label: patient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_email
+      label: patient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: patient_room
+      label: patient_room
+      hint: null
+      type: select_multiple
+      options:
+      - Room 101
+      - Room 102
+      - Room 103
+      - Other
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

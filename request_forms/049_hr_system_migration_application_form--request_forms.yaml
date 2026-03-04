@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR System Migration Application Form
+    pages:
+    - id: 1
+      name: migration_request
+      label: Migration Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: objective_and_timeline
+      label: Objective and Timeline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hr_system_change_initiative
+      label: HR System Change Initiative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hr_system_migration_request_status
+      label: HR System Migration Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: hr_system_migration_request_priority
+      label: HR System Migration Request Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: hr_system_migration_request_category
+      label: HR System Migration Request Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: hr_system_migration_request_note
+      label: HR System Migration Request Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: hr_system_migration_request_email
+      label: HR System Migration Request Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: hr_system_migration_request_phone
+      label: HR System Migration Request Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: objective
+      label: Objective
+      hint: Describe the objective of the HR System migration request
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hr_system_migration_request_resources
+      label: HR System Migration Request Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: hr_system_migration_request_comments
+      label: HR System Migration Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: hr_system_migration_request_attachments
+      label: HR System Migration Request Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hr_system_migration_request_file
+      label: HR System Migration Request File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hr_system_migration_request_url
+      label: HR System Migration Request URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hr_system_migration_request_description
+      label: HR System Migration Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: hr_system_migration_request_keywords
+      label: HR System Migration Request Keywords
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

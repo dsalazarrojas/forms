@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Food Request Form
+    pages:
+    - id: 1
+      name: pet_food_request_form
+      label: Pet Food Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_species
+      label: Pet Species
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      required: false
+    - id: 4
+      name: food_type
+      label: Food Type
+      hint: null
+      type: select_multiple
+      options:
+      - Dry
+      - Canned
+      - Raw
+      required: false
+    - id: 5
+      name: food_subtype
+      label: Food Subtype
+      hint: null
+      type: select_multiple
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Turkey
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

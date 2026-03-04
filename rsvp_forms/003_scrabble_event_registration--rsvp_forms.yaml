@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: scrabble_event_registration
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participants
+      label: Participants
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Email
+      required: false
+    - id: 3
+      name: sign_up
+      label: Sign Up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: player_experience
+      label: Player Experience
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 7
+      name: game_nights
+      label: Game Nights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: game_nights_frequency
+      label: Game Nights Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tournament
+      label: Tournament
+      hint: null
+      type: select_one
+      options:
+      - Tournaments
+      - Club Nights
+      required: false
+    - id: 10
+      name: tournament_type
+      label: Tournament Type
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      required: false
+    - id: 11
+      name: tournament_size
+      label: Tournament Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: game
+      label: Game
+      hint: null
+      type: select_one
+      options:
+      - Boggle
+      - Scattergories
+      - Crosswords
+      required: false
+    - id: 13
+      name: check_in
+      label: Check In
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: check_out
+      label: Check Out
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 17
+      name: player_details
+      label: Player Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: player_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: player_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: player_experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rsvp_status_text
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: check_in_time
+      label: Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: event_details_text
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false

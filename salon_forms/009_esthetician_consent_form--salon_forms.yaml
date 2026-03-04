@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Esthetician Consent Form
+    pages:
+    - id: 1
+      name: salondetails
+      label: Salon Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: estheticianname
+      label: Esthetician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: estheticianemail
+      label: Esthetician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: estheticianeid
+      label: Esthetician ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: salondequipment
+      label: Salon Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: salonservices
+      label: Salon Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: salondates
+      label: Salon Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: saloncomments
+      label: Salon Comments
+      hint: null
+      type: note
+      options: []
+      required: false

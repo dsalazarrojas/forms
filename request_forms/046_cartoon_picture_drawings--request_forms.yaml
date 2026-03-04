@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cartoon Picture Drawings
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: your digital proofs will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: mailing_address
+      label: Shipping Address
+      hint: required if ordering physical prints
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_request_details
+      label: -- Drawing Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: drawing_style
+      label: Preferred Cartoon Style
+      hint: choose a specific look
+      type: select_one
+      options:
+      - Classic Disney
+      - Superhero or Comic
+      - Caricature
+      - Anime or Manga
+      - Minimalist or Flat
+      - Hand-Drawn Sketch
+      required: true
+    - id: 8
+      name: number_of_people
+      label: Number of People or Pets in Drawing
+      hint: total subjects to be illustrated
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: background_choice
+      label: Background Preference
+      hint: null
+      type: select_one
+      options:
+      - Solid Color
+      - Transparent
+      - Scenic or Themed
+      - From Photo
+      required: true
+    - id: 10
+      name: special_elements
+      label: Any special elements or props to include?
+      hint: e.g. holding a guitar, wearing a specific hat
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_uploads
+      label: -- Upload and References --
+      hint: help us get the likeness correct
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: photo_upload_count
+      label: How many reference photos will you provide?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: main_reference_desc
+      label: Description of the primary photo
+      hint: identify the main subject and clothing
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: facial_features_notes
+      label: Specific notes on facial features or expressions
+      hint: e.g. make sure to include the birthmark
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_delivery
+      label: -- Product and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: delivery_format
+      label: Final Product Format
+      hint: select your delivery method
+      type: select_one
+      options:
+      - Digital Only (High Res)
+      - Digital and Physical Print
+      - Canvas Wrap
+      - T-Shirt
+      - Coffee Mug
+      required: true
+    - id: 17
+      name: print_size
+      label: Physical Print Size (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - 5x7
+      - 8x10
+      - 11x14
+      - 16x20
+      - N/A
+      required: false
+    - id: 18
+      name: delivery_urgency
+      label: Delivery Urgency
+      hint: affects final price
+      type: select_one
+      options:
+      - Standard (7 to 10 days)
+      - Rush (2 to 3 days)
+      - Next Day (Express fee)
+      required: true
+    - id: 19
+      name: section_payment
+      label: -- Pricing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: estimated_total
+      label: Estimated Total
+      hint: for customer reference
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - AUD
+      - CAD
+      required: true
+    - id: 22
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Credit Card
+      - Venmo
+      - Apple Pay
+      required: true
+    - id: 23
+      name: section_terms
+      label: -- Terms and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: usage_terms
+      label: I understand this is for personal use only
+      hint: commercial licenses are available on request
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: digital_signature
+      label: Digital Signature for Order Confirmation
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

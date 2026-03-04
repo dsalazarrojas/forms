@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resolution Time Feedback Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: resolution_time
+      label: Resolution Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: resolution_speed
+      label: Resolution Speed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: How would you rate your resolution experience?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: resolution_team
+      label: Resolution Team
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Support''}'
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Chat''}'
+      - '{''label'': ''In person''}'
+      required: false
+    - id: 7
+      name: resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: resolution_time_comment
+      label: Resolution Time Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resolution_method_comment
+      label: Resolution Method Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: resolution_speed_comment
+      label: Resolution Speed Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resolution_time_satisfied
+      label: Were you satisfied with the resolution time?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 14
+      name: resolution_speed_satisfied
+      label: Were you satisfied with the resolution speed?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 15
+      name: resolution_time_feedback
+      label: Resolution Time Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: resolution_time_rating
+      label: Resolution Time Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: resolution_time_satisfaction
+      label: Resolution Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very''}'
+      - '{''label'': ''Somewhat''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 18
+      name: email_sent
+      label: Was email sent during the resolution?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 19
+      name: chat_journey
+      label: How many chats did you have with our team?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: chat_time
+      label: How much time did you spend on chat?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: resolution_speed_comment
+      label: Resolution Speed Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: resolution_method_escalation
+      label: Was the case escalated?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 23
+      name: resolution_speed_escalation
+      label: Was the resolution speed impacted by escalation?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: resolution_time_comment
+      label: Resolution Time Comment
+      hint: null
+      type: text
+      options: []
+      required: false

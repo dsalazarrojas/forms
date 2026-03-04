@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Service Quality Feedback
+    pages:
+    - id: 1
+      name: client_feedback_form
+      label: Client Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Highly Satisfied'', ''label'': ''Highly Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied'', ''label'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Not Satisfied'', ''label'': ''Not Satisfied''}'
+      required: false
+    - id: 2
+      name: service_quality_rating
+      label: Service Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: time_taken
+      label: Time Taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_rating
+      label: Communication Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: response_to_emergency
+      label: Response to Emergency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Highly Responsive'', ''label'': ''Highly Responsive''}'
+      - '{''value'': ''Somewhat Responsive'', ''label'': ''Somewhat Responsive''}'
+      - '{''value'': ''Not Responsive'', ''label'': ''Not Responsive''}'
+      required: false
+    - id: 6
+      name: legal_team_rating
+      label: Legal Team
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: communication_rating_2
+      label: Communication Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false

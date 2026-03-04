@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tree Sales Invoice Form
+    pages:
+    - id: 1
+      name: tree_sales_invoice_form_1
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sales_information
+      label: Sales Information
+      hint: null
+      type: select_multiple
+      options:
+      - Root and Stump
+      - Root and Tree and Stump
+      - Stump only
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 9
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Net 30
+      - Net 45
+      - Net 60
+      required: true
+    - id: 10
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: tree_type
+      label: Tree Type
+      hint: null
+      type: select_multiple
+      options:
+      - Bare Root
+      - Balled and Burlapped
+      - Balled and Banded
+      required: true
+    - id: 12
+      name: tree_quantity
+      label: Tree Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: price_per_tree
+      label: Price per Tree
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tree_sales_invoice_form_16
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Net 30
+      - Net 45
+      - Net 60
+      required: true
+    - id: 17
+      name: tree_sales_invoice_form_17
+      label: Payment Details
+      hint: null
+      type: note
+      options: []
+      required: false

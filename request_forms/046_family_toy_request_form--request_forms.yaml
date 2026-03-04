@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Toy Request Form
+    pages:
+    - id: 1
+      name: family_toy_request_form_input
+      label: Family Toy Request Form Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_toy_request_form_input
+      label: Family Toy Request Form Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: family_toy_request_form_submit
+      label: Family Toy Request Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: family_toy_request_form_additional_information
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: family_toy_request_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: family_toy_request_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: family_toy_request_form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: true
+    - id: 8
+      name: family_toy_request_form_additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_toy_request_form_requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: family_toy_request_form_requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: family_toy_request_form_requestor_address
+      label: Requestor Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: family_toy_request_form_requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: family_toy_request_form_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: family_toy_request_form_request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: family_toy_request_form_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - pending
+      - approved
+      - denied
+      required: true

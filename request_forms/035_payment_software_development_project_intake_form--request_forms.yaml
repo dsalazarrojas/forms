@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Software Development Project Intake Form
+    pages:
+    - id: 1
+      name: payment_software_development_project_intake
+      label: payment_software_development_project_intake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: payment_software_development_project_intake_name
+      label: payment_software_development_project_intake_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payment_software_development_project_intake_category
+      label: payment_software_development_project_intake_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: payment_software_development_project_intake_description
+      label: payment_software_development_project_intake_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: payment_software_development_project_intake_priority
+      label: payment_software_development_project_intake_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: payment_software_development_project_intake_deadline
+      label: payment_software_development_project_intake_deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: payment_software_development_project_intake_start_date
+      label: payment_software_development_project_intake_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: payment_software_development_project_intake_organisation
+      label: payment_software_development_project_intake_organisation
+      hint: null
+      type: text
+      options: []
+      required: true

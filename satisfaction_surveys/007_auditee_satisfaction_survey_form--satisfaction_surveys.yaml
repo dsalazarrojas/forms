@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Auditee Satisfaction Survey Form
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Date this survey is being completed
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: organization_name
+        label: Organization Name
+        hint: Name of the organization audited
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Respondent Name
+        hint: Name of the person completing survey
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: respondent_title
+        label: Your Title/Position
+        hint: Role within the organization
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: audit_date
+        label: Audit Date
+        hint: When was the audit conducted
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: audit_type
+        label: Type of Audit Received
+        hint: What kind of audit was conducted
+        type: select_one
+        options: ['Financial Audit', 'Operational Audit', 'Compliance Audit', 'Internal Audit', 'External Audit']
+        required: true
+      - id: 7
+        name: auditor_professionalism
+        label: Auditor Professionalism
+        hint: How professional was the audit team
+        type: select_one
+        options: ['Very Unprofessional', 'Unprofessional', 'Neutral', 'Professional', 'Very Professional']
+        required: true
+      - id: 8
+        name: auditor_competence
+        label: Auditor Competence and Expertise
+        hint: Technical knowledge of audit team
+        type: select_one
+        options: ['Very Incompetent', 'Incompetent', 'Adequate', 'Competent', 'Very Competent']
+        required: true
+      - id: 9
+        name: audit_fairness
+        label: Fairness of Audit Process
+        hint: Was the audit conducted fairly
+        type: select_one
+        options: ['Very Unfair', 'Unfair', 'Neutral', 'Fair', 'Very Fair']
+        required: true
+      - id: 10
+        name: respect_shown
+        label: Respect and Courtesy Shown
+        hint: Were you treated with respect
+        type: select_one
+        options: ['Very Disrespectful', 'Disrespectful', 'Neutral', 'Respectful', 'Very Respectful']
+        required: true
+      - id: 11
+        name: communication_effectiveness
+        label: Communication Effectiveness
+        hint: How well did auditors communicate
+        type: select_one
+        options: ['Very Ineffective', 'Ineffective', 'Neutral', 'Effective', 'Very Effective']
+        required: true
+      - id: 12
+        name: findings_appropriateness
+        label: Appropriateness of Findings
+        hint: Were findings fair and accurate
+        type: select_one
+        options: ['Very Inappropriate', 'Inappropriate', 'Somewhat Appropriate', 'Appropriate', 'Very Appropriate']
+        required: true
+      - id: 13
+        name: recommendations_usefulness
+        label: Usefulness of Recommendations
+        hint: Will recommendations help your organization
+        type: select_one
+        options: ['Not Useful', 'Slightly Useful', 'Moderately Useful', 'Useful', 'Very Useful']
+        required: true
+      - id: 14
+        name: audit_disruption
+        label: Level of Disruption Caused
+        hint: How much did audit disrupt operations
+        type: select_one
+        options: ['Severely Disruptive', 'Very Disruptive', 'Moderately Disruptive', 'Minimally Disruptive', 'No Disruption']
+        required: true
+      - id: 15
+        name: audit_duration
+        label: Appropriateness of Audit Duration
+        hint: Was the audit length appropriate
+        type: select_one
+        options: ['Much Too Long', 'Too Long', 'About Right', 'Too Short', 'Much Too Short']
+        required: true
+      - id: 16
+        name: time_efficiency
+        label: Auditor Time Management
+        hint: Were auditors efficient with their time
+        type: select_one
+        options: ['Very Inefficient', 'Inefficient', 'Neutral', 'Efficient', 'Very Efficient']
+        required: true
+      - id: 17
+        name: value_for_cost
+        label: Value Received for Cost
+        hint: Did audit provide good value
+        type: select_one
+        options: ['Very Poor Value', 'Poor Value', 'Average Value', 'Good Value', 'Excellent Value']
+        required: false
+      - id: 18
+        name: overall_satisfaction
+        label: Overall Satisfaction with Audit
+        hint: General satisfaction with the audit
+        type: select_one
+        options: ['Very Unsatisfied', 'Unsatisfied', 'Neutral', 'Satisfied', 'Very Satisfied']
+        required: true
+      - id: 19
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: How could the audit be improved
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: would_use_again
+        label: Would Use This Auditor Again
+        hint: Would you hire this auditor again
+        type: select_one
+        options: ['Definitely Not', 'Probably Not', 'Unsure', 'Probably Yes', 'Definitely Yes']
+        required: true
+      - id: 21
+        name: would_recommend
+        label: Would Recommend to Others
+        hint: Would you recommend this auditor
+        type: select_one
+        options: ['Definitely Not', 'Probably Not', 'Unsure', 'Probably Yes', 'Definitely Yes']
+        required: false

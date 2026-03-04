@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: power_backup_system_check_request_form
+    pages:
+    - id: 1
+      name: generator_id
+      label: Generator ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_request
+      label: Schedule Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: schedule_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: schedule_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false

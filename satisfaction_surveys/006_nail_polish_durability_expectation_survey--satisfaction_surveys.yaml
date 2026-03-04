@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Polish Durability Expectation Survey
+    pages:
+    - id: 1
+      name: polish_quality
+      label: Nail Polish Quality
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 2
+      name: wear_time
+      label: Wear Time
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than 1 month''}'
+      - '{''label'': ''More than 1 month''}'
+      - '{''label'': ''More than 3 months''}'
+      - '{''label'': ''More than 6 months''}'
+      required: false
+    - id: 3
+      name: polish_color
+      label: Polish Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Pink
+      - Purple
+      - Yellow
+      - Green
+      - Silver
+      - Brown
+      - Black
+      - White
+      required: false
+    - id: 4
+      name: polish_finish
+      label: Polish Finish
+      hint: null
+      type: select_multiple
+      options:
+      - Matte
+      - Glossy
+      - Semi-gloss
+      - Long-lasting Glossy
+      - Holographic
+      - Satin
+      required: false
+    - id: 5
+      name: wear_frequency
+      label: Wear Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: polish_brand
+      label: Polish Brand
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''OPI''}'
+      - '{''label'': ''Essie''}'
+      - '{''label'': ''Revlon''}'
+      - '{''label'': ''Sally Hansen''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: color_change
+      label: Color Change
+      hint: null
+      type: select_multiple
+      options:
+      - 'No'
+      - 'Yes'
+      - Yes with chipping
+      required: false
+    - id: 9
+      name: nail_type
+      label: Nail Type
+      hint: null
+      type: select_multiple
+      options:
+      - Natural
+      - Artificial
+      required: false
+    - id: 10
+      name: user_expectation
+      label: User Expectation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: polish_type
+      label: Polish Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Nail Lacquer''}'
+      - '{''label'': ''Nail Enamel''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: polish_condition
+      label: Polish Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: false
+    - id: 13
+      name: user_rating
+      label: User Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: polish_price
+      label: Polish Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: polish_stickiness
+      label: Polish Stickiness
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      - Medium
+      - Not sticky
+      required: false

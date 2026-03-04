@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: yx_working_session
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: Enter date
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: Enter time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      - '{''id'': 4, ''label'': ''Option 4''}'
+      - '{''id'': 5, ''label'': ''Option 5''}'
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: Enter your note
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_time
+      label: Date and Time
+      hint: Enter date and time
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: text
+      label: Text
+      hint: Enter text
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: integer
+      label: Integer
+      hint: Enter integer
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: decimal
+      label: Decimal
+      hint: Enter decimal
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: date_range
+      label: Date Range
+      hint: Enter date range
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: date_range_start
+      label: Start of range
+      hint: null
+      type: date
+      options: []
+      required: false

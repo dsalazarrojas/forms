@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Consultation And Health Intake Form
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: health_header
+      label: -- Health History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: medications
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: allergies
+      label: Known Allergies
+      hint: Include environmental, food, and product allergies
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: skin_allergies
+      label: Skin Product Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: previous_reactions
+      label: Previous Adverse Reactions to Beauty Products
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: reaction_details
+      label: Describe Previous Reactions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: surgeries
+      label: Recent Surgeries or Procedures
+      hint: Last 3 months
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: skin_header
+      label: -- Skin Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Normal
+      - Oily
+      - Combination
+      - Sensitive
+      required: true
+    - id: 18
+      name: skin_concerns
+      label: Primary Skin Concerns
+      hint: Acne, sensitivity, aging, etc.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: skin_conditions_current
+      label: Current Skin Conditions
+      hint: Eczema, psoriasis, rosacea, dermatitis, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: beauty_header
+      label: -- Beauty and Treatment Goals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: treatment_goals
+      label: Treatment Goals
+      hint: What would you like to achieve
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: previous_treatments
+      label: Previous Salon or Spa Treatments
+      hint: Type and frequency
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preferred_treatments
+      label: Preferred Treatment Types
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: consent_header
+      label: -- Consent and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: information_accuracy
+      label: I confirm the above information is accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 26
+      name: consent_treatment
+      label: I consent to the recommended treatments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 27
+      name: privacy_agreement
+      label: I agree to privacy and data handling terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

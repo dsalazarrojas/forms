@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farm Stay Reservation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: checkin_date
+      label: Checkin
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: checkout_date
+      label: Checkout
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: num_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: num_nights
+      label: Number of Nights
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: farmstay_type
+      label: Farm Stay Type
+      hint: null
+      type: select_one
+      options:
+      - Farm Stay
+      - Farm Stay Deluxe
+      - Farm Stay Suite
+      required: false
+    - id: 8
+      name: farmstay_type_other
+      label: Other Farm Stay Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reservation_message
+      label: Reservation Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lost Property Search Request Form
+    pages:
+    - id: 1
+      name: search_request
+      label: Search Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_location
+      label: item_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_category
+      label: item_category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Baggage''}'
+      - '{''label'': ''Electronics''}'
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Keys''}'
+      - '{''label'': ''Wallet''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: item_found
+      label: item_found
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_details
+      label: follow_up_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_message
+      label: contact_message
+      hint: null
+      type: text
+      options: []
+      required: false

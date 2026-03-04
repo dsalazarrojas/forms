@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: shabbos_chef_menu_4
+    pages:
+    - id: 1
+      name: menu_items
+      label: Menu Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer-info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: order_date
+      label: order-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_time
+      label: order-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: customer-address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: order-notes
+      hint: null
+      type: note
+      options: []
+      required: false

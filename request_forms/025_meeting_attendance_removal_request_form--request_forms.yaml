@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Attendance Removal Request Form
+    pages:
+    - id: 1
+      name: meeting_attendance_removal_request_form_page_1
+      label: Meeting details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_attendance_removal_request_form_page_2
+      label: Meeting date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: meeting_attendance_removal_request_form_page_3
+      label: Meeting time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: meeting_attendance_removal_request_form_page_4
+      label: Meeting location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: meeting_attendance_removal_request_form_page_5
+      label: Reason for removal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: meeting_attendance_removal_request_form_page_6
+      label: Requestor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: meeting_attendance_removal_request_form_page_7
+      label: Requestor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: meeting_attendance_removal_request_form_page_8
+      label: Meeting attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: meeting_attendance_removal_request_form_page_9
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: meeting_attendance_removal_request_form_page_10
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: meeting_attendance_removal_request_form_page_11
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: meeting_attendance_removal_request_form_page_12
+      label: Additional notes
+      hint: null
+      type: text
+      options: []
+      required: false

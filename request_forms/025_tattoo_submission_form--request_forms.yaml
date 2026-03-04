@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Submission Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Client
+      - Artist
+      required: true
+    - id: 3
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: artist_comments
+      label: Artist Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_files
+      label: Submission Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: artist_email
+      label: Artist Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: artist_phone
+      label: Artist Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: studio_info
+      label: Studio Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tattoo_info
+      label: Tattoo Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: artwork_info
+      label: Artwork Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Archived
+      required: true
+    - id: 19
+      name: artist_feedback
+      label: Artist Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_date2
+      label: Submission Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submission_time2
+      label: Submission Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: submission_notes2
+      label: Submission Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false

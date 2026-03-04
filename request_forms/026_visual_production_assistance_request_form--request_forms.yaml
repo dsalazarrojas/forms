@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visual Production Assistance Request Form
+    pages:
+    - id: 1
+      name: marketing_team
+      label: Marketing Team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: production_requirements
+      label: Production Requirements
+      hint: List specific production requirements for the project
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: deadline_date
+      label: Deadline Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: deadline_time
+      label: Deadline Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: file_upload
+      label: File Upload
+      hint: Please upload a file
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assistant
+      label: Assistant
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false

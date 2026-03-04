@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tour Reservation Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_packages
+      label: Select Tour Packages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: questions
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

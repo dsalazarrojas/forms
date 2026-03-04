@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: create_new_object_form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: Page 1 of 1
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Request Details
+      hint: Enter request details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_2_requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page_2_requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: page_2_requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_2_item_category
+      label: Item Category
+      hint: Select item category
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: page_2_item_type
+      label: Item Type
+      hint: Select item type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: page_2_item_status
+      label: Item Status
+      hint: Select item status
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: page_2_item_priority
+      label: Item Priority
+      hint: Select item priority
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: page_2_item_subtype
+      label: Item Subtype
+      hint: Select item subtype
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: page_2_request_date
+      label: Request Date
+      hint: Enter request date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: page_2_request_time
+      label: Request Time
+      hint: Enter request time
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: page_2_requester_note
+      label: Requester Note
+      hint: Enter requester note
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: page_2_requester_note_2
+      label: Requester Note 2
+      hint: Enter requester note 2
+      type: text
+      options: []
+      required: false

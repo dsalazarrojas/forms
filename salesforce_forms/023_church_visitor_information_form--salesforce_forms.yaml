@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Visitor Information Form
+    pages:
+    - id: 1
+      name: section_header_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_visit_info
+      label: -- Visit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: service_attended
+      label: Service or Event Attended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: first_time_visitor
+      label: Is This Your First Time Visiting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: visitor_source
+      label: How Did You Hear About Our Church
+      hint: null
+      type: select_one
+      options:
+      - Friend or family
+      - Internet search
+      - Social media
+      - Signage or flyer
+      - Drove by
+      - Community event
+      - Previous visit
+      - Other
+      required: true
+    - id: 17
+      name: section_header_family
+      label: -- Family Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: family_members_visiting
+      label: Number of Family Members Visiting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: children_count
+      label: Number of Children with You
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: children_ages
+      label: Ages of Children
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_interests
+      label: -- Interests and Connections --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: church_background
+      label: Prior Church Experience
+      hint: null
+      type: select_one
+      options:
+      - Active church member
+      - Occasional attendee
+      - Haven't attended church
+      - Exploring faith
+      required: false
+    - id: 23
+      name: spiritual_interests
+      label: Spiritual Interests (Select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Finding faith community
+      - Spiritual growth
+      - Music and worship
+      - Community service
+      - Children's programs
+      - Youth programs
+      - Bible study
+      required: false
+    - id: 24
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 25
+      name: volunteer_skills
+      label: Skills or Talents to Offer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_header_communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: contact_permission
+      label: May We Contact You with Information About Our Church
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Mail
+      - No preference
+      required: false
+    - id: 29
+      name: newsletter_signup
+      label: Sign Up for Our Newsletter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: section_header_feedback
+      label: -- Visitor Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: first_impression
+      label: What Was Your First Impression of Our Church
+      hint: null
+      type: text
+      options: []
+      required: false

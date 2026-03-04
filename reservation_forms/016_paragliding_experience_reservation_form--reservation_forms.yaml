@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paragliding Experience Reservation Form
+    pages:
+    - id: 1
+      name: first_page
+      label: welcome
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experience_details
+      label: experience_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''experience'', ''description'': ''Experience 1''}'
+      - '{''id'': 2, ''name'': ''experience'', ''description'': ''Experience 2''}'
+      - '{''id'': 3, ''name'': ''experience'', ''description'': ''Experience 3''}'
+      required: false
+    - id: 4
+      name: reservation_date
+      label: reservation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reservation_time
+      label: reservation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: number_of_adventurers
+      label: number_of_adventurers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: provider
+      label: provider
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Provider 1''}'
+      - '{''id'': 2, ''name'': ''Provider 2''}'
+      - '{''id'': 3, ''name'': ''Provider 3''}'
+      - '{''id'': 4, ''name'': ''Provider 4''}'
+      - '{''id'': 5, ''name'': ''Provider 5''}'
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

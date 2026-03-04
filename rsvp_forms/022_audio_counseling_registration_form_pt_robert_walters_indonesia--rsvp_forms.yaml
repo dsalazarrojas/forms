@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Counseling Registration Form PT. Robert Walters Indonesia
+    pages:
+    - id: 1
+      name: section_personal
+      label: -- Participant Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_name
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Human Resources
+      - Sales and Marketing
+      - IT and Engineering
+      - Operations
+      - Legal
+      required: true
+    - id: 5
+      name: contact_email
+      label: Professional Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: section_session
+      label: -- Session Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: preferred_session_date
+      label: Preferred Date for Counseling
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_session_time
+      label: Preferred Time Slot
+      hint: null
+      type: select_one
+      options:
+      - Morning (09:00 - 11:00)
+      - Mid-day (11:00 - 13:00)
+      - Afternoon (13:00 - 15:00)
+      - Late Afternoon (15:00 - 17:00)
+      required: true
+    - id: 9
+      name: section_background
+      label: -- Consultation Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: counseling_goal
+      label: What is your main goal for this session?
+      hint: e.g., Career guidance, Stress management, Conflict resolution
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: previous_experience
+      label: Have you participated in audio counseling before?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: specific_concerns
+      label: Any specific concerns you would like to address?
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_privacy
+      label: -- Privacy and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confidentiality_acknowledgment
+      label: I understand that all sessions are strictly confidential
+      hint: null
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 15
+      name: registration_date
+      label: Registration Date
+      hint: null
+      type: date
+      options: []
+      required: true

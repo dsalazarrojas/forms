@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Closing Dinner RSVP
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee name
+      hint: Full name as registered
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For RSVP confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: attending
+      label: Will you attend the closing dinner
+      hint: Choose attendance option
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 4
+      name: guest_count
+      label: Number of guests
+      hint: Include yourself in the count
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: meal_choices
+      label: Meal choices
+      hint: Select meal preference for each guest
+      type: select_multiple
+      options:
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      required: false
+    - id: 6
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: List any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: seating_requests
+      label: Seating requests
+      hint: Accessibility or table placement requests
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: transportation_needed
+      label: Transportation needed
+      hint: Shuttle or drop off required
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: special_occasions
+      label: Special occasions to note
+      hint: Anniversaries or celebrations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation_note
+      label: Confirmation note
+      hint: Read only RSVP confirmation details
+      type: note
+      options: []
+      required: false

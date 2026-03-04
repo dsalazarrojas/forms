@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Dinner Reservation Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and event updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_organization
+      label: Company or Organization
+      hint: Your organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reservation_type
+      label: Reservation Type
+      hint: What type of reservation?
+      type: select_one
+      options:
+      - Individual Seat
+      - Couple
+      - Full Table
+      - Partial Table
+      - VIP Table
+      required: true
+    - id: 6
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total in your party
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: guest_names
+      label: Guest Names
+      hint: List all attendees
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_date
+      label: Preferred Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: preferred_seating
+      label: Preferred Seating Time
+      hint: Select seating preference
+      type: select_one
+      options:
+      - Early Seating
+      - Standard Seating
+      - Late Seating
+      - No Preference
+      required: true
+    - id: 10
+      name: table_location
+      label: Table Location Preference
+      hint: Where would you like to sit?
+      type: select_one
+      options:
+      - No Preference
+      - Near Stage
+      - Near Entrance
+      - Near Window
+      - Quiet Area
+      - Center of Room
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergies
+      - Shellfish Allergies
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 12
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify any allergies
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meal_selection
+      label: Meal Selection
+      hint: Choose your preferred entree
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - Chef Choice
+      required: true
+    - id: 14
+      name: beverage_package
+      label: Beverage Package
+      hint: Select beverage preference
+      type: select_one
+      options:
+      - Open Bar
+      - Wine and Beer
+      - Wine Only
+      - Non-Alcoholic
+      - No Preference
+      required: false
+    - id: 15
+      name: special_occasion
+      label: Special Occasion
+      hint: Are you celebrating something?
+      type: select_one
+      options:
+      - None
+      - Birthday
+      - Anniversary
+      - Promotion
+      - Retirement
+      - Other
+      required: false
+    - id: 16
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: transportation_needed
+      label: Transportation Assistance
+      hint: Do you need transportation help?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Invoice
+      - Check
+      - At Door
+      required: true
+    - id: 20
+      name: special_requests
+      label: Special Requests
+      hint: Any other needs or requests?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: photo_consent
+      label: Photo Consent
+      hint: May we use photos for marketing?
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, Please Do Not
+      required: true

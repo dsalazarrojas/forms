@@ -1,0 +1,200 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Breaking Up Form
+    pages:
+      - id: 1
+        name: sender_name
+        label: Your Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: sender_email
+        label: Your Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: recipient_name
+        label: Recipient Name
+        hint: Name of the person you are breaking up with
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: relationship_duration
+        label: Relationship Duration
+        hint: How long were you together
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6 months to 1 year
+          - 1-2 years
+          - 2-5 years
+          - 5+ years
+        required: true
+      - id: 5
+        name: relationship_type
+        label: Relationship Type
+        hint: What type of relationship was this
+        type: select_one
+        options:
+          - Dating
+          - In a Relationship
+          - Engaged
+          - Married
+          - Long Distance
+          - Casual
+        required: true
+      - id: 6
+        name: breakup_reason
+        label: Main Reason for Breakup
+        hint: Select the main reason
+        type: select_one
+        options:
+          - Grew Apart
+          - Trust Issues
+          - Communication Problems
+          - Different Life Goals
+          - Lack of Compatibility
+          - External Circumstances
+          - Found Someone Else
+          - Need Time for Myself
+          - Other
+        required: true
+      - id: 7
+        name: breakup_reason_details
+        label: Explain Your Reason
+        hint: Please elaborate on your decision
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: feelings_statement
+        label: Personal Feelings Statement
+        hint: Share how you feel about this decision
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: positive_memories
+        label: Positive Memories
+        hint: Acknowledge good times you shared
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: attempted_solutions
+        label: Solutions You Tried
+        hint: What did you try to fix things
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: contact_preference
+        label: Future Contact Preference
+        hint: How do you want to handle contact
+        type: select_one
+        options:
+          - No Contact
+          - Limited Contact
+          - Friends Eventually
+          - Open to Talking
+          - Need Space First
+        required: true
+      - id: 12
+        name: belongings_return
+        label: Return of Belongings
+        hint: How should belongings be handled
+        type: select_one
+        options:
+          - I Will Return Their Things
+          - They Should Return My Things
+          - We Can Exchange Later
+          - No Belongings to Return
+        required: true
+      - id: 13
+        name: social_media_preference
+        label: Social Media Preference
+        hint: How should you handle social media
+        type: select_one
+        options:
+          - Unfriend or Unfollow
+          - Stay Connected
+          - Take a Break
+          - Not Sure Yet
+        required: true
+      - id: 14
+        name: mutual_friends
+        label: Mutual Friends
+        hint: How should you handle mutual friends
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: message_tone
+        label: Message Tone
+        hint: How do you want this message to come across
+        type: select_one
+        options:
+          - Compassionate and Kind
+          - Direct and Honest
+          - Formal and Respectful
+          - Brief and Clear
+        required: true
+      - id: 16
+        name: final_message
+        label: Final Message
+        hint: What final words do you want to share
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: delivery_method
+        label: Delivery Method
+        hint: How will you deliver this message
+        type: select_one
+        options:
+          - In Person
+          - Phone Call
+          - Video Call
+          - Text Message
+          - Email
+          - Letter
+        required: true
+      - id: 18
+        name: support_system
+        label: Do You Have Support
+        hint: Do you have people to talk to
+        type: select_one
+        options:
+          - Yes, Friends and Family
+          - Yes, Professional Support
+          - No, I Need Support
+        required: true
+      - id: 19
+        name: confirmation
+        label: Confirmation
+        hint: Are you sure about this decision
+        type: select_one
+        options:
+          - Yes, I Am Certain
+          - Yes, After Careful Thought
+          - I Have Doubts But Need to Proceed
+        required: true

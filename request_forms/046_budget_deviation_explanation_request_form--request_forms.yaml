@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Deviation Explanation Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request date
+      hint: Date of deviation request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Person requesting deviation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Department requesting the deviation
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: amount_deviation
+      label: Amount deviation
+      hint: Amount over or under budget in currency
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_deviation
+      label: Reason for deviation
+      hint: Explain why the budget deviated
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: proposed_action
+      label: Proposed action
+      hint: Suggested corrective or approval action
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: approval_status
+      label: Approval status
+      hint: Finance approval status
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: true
+    - id: 8
+      name: approver_comments
+      label: Approver comments
+      hint: Finance notes on the decision
+      type: text
+      options: []
+      required: false

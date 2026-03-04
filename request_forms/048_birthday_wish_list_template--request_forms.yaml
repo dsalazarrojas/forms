@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birthday Wish List Template
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birthday Wish List --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: Create your birthday wish list
+      hint: Share with friends and family what you'd love to receive
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_person_info
+      label: -- Birthday Person Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: birthday_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: birthday_date
+      label: Birthday Date
+      hint: When is your birthday
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: birthday_age
+      label: Age Turning
+      hint: How old are you turning
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_preferences
+      label: -- Gift Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: budget_preferences
+      label: Budget Range Preferences
+      hint: What is a comfortable gift price
+      type: select_one
+      options:
+      - Under 25 dollars
+      - 25 to 50 dollars
+      - 50 to 100 dollars
+      - 100 to 200 dollars
+      - 200 to 500 dollars
+      - 500 dollars plus
+      - Any Amount
+      required: true
+    - id: 11
+      name: gift_style
+      label: Gift Style Preferences
+      hint: What type of gifts do you like
+      type: select_multiple
+      options:
+      - Practical Items
+      - Luxury Items
+      - Experiences
+      - Entertainment
+      - Technology
+      - Fashion
+      - Home Goods
+      - Books or Media
+      - Sports or Hobbies
+      - Sentimental Gifts
+      - DIY or Handmade
+      required: true
+    - id: 12
+      name: size_measurements
+      label: Size and Measurements
+      hint: Clothing, shoe sizes, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: color_preferences
+      label: Color Preferences
+      hint: Favorite colors
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: interests_hobbies
+      label: Interests and Hobbies
+      hint: What are you passionate about
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_wish_items
+      label: -- Wish List Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: item1_name
+      label: Wish Item 1
+      hint: First thing you'd like
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: item1_description
+      label: Item 1 Description
+      hint: Details about the item
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: item1_price
+      label: Item 1 Price Range
+      hint: Approximate cost
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: item1_link
+      label: Item 1 Store Link
+      hint: Where to purchase
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: item2_name
+      label: Wish Item 2
+      hint: Second thing you'd like
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: item2_description
+      label: Item 2 Description
+      hint: Details about the item
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: item2_price
+      label: Item 2 Price Range
+      hint: Approximate cost
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: item3_name
+      label: Wish Item 3
+      hint: Third thing you'd like
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: item3_description
+      label: Item 3 Description
+      hint: Details about the item
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: item4_name
+      label: Wish Item 4
+      hint: Fourth item
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: item5_name
+      label: Wish Item 5
+      hint: Fifth item
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_experiences
+      label: -- Experience Wishes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: experience_wish1
+      label: Experience Wish 1
+      hint: What experience would you like
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: experience_wish2
+      label: Experience Wish 2
+      hint: Another experience
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: experience_wish3
+      label: Experience Wish 3
+      hint: More experiences
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: section_special
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: charitable_wish
+      label: Charitable Donation Wish
+      hint: Cause you care about
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: gift_recipient_details
+      label: Any Details for Gift Givers
+      hint: Special instructions for gifts
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: allergies_restrictions
+      label: Allergies or Restrictions
+      hint: Things to avoid
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: section_sharing
+      label: -- Sharing Your Wish List --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: share_publicly
+      label: Share This Wish List
+      hint: Who can see your list
+      type: select_one
+      options:
+      - Share with Everyone
+      - Share Link Only
+      - Private - Just for Me
+      - Share with Specific People
+      required: true
+    - id: 37
+      name: sharing_notes
+      label: Notes for Sharing
+      hint: Any message when sharing
+      type: text
+      options: []
+      required: false

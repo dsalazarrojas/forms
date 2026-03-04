@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Expense Report
+    pages:
+    - id: 1
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: destination
+      label: destination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: travel_mode
+      label: travel_mode
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: travel_cost
+      label: travel_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

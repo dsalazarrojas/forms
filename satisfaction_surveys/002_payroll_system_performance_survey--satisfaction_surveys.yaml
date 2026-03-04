@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll System Performance Survey
+    pages:
+    - id: 1
+      name: how_often_do_you_access_payroll_data
+      label: How often do you access payroll data
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: what_process_do_you_use_to_access_payroll_data
+      label: What process do you use to access payroll data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: how_often_do_you_use_payroll_system
+      label: How often do you use payroll system
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: what_features_do_you_find_most_important_in_payroll_system
+      label: What features do you find most important in payroll system
+      hint: null
+      type: select_multiple
+      options:
+      - Important
+      - Not Important
+      - Neutral
+      required: false
+    - id: 5
+      name: overall_satisfaction_with_current_payroll_system
+      label: Overall satisfaction with current payroll system
+      hint: null
+      type: number
+      options: []
+      required: true

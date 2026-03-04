@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Accommodation Request Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: student name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_email
+      label: student email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: accommodation_type
+      label: accommodation type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_request
+      label: accommodation request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_phone
+      label: student phone
+      hint: null
+      type: text
+      options: []
+      required: false

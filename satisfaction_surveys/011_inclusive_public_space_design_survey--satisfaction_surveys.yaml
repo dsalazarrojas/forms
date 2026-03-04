@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusive Public Space Design Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: Survey Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: building_characteristics
+      label: Building Characteristics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: public_space_characteristics
+      label: Public Space Characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: accessibility_features
+      label: Accessibility Features
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Wheelchair Accessible Entrances''}'
+      - '{''label'': ''Accessible Restrooms''}'
+      - '{''label'': ''Sign Language Interpretation''}'
+      - '{''label'': ''Assistive Technology''}'
+      required: false
+    - id: 5
+      name: public_space_usage
+      label: Public Space Usage
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Wheelchairs''}'
+      - '{''label'': ''Stairs''}'
+      - '{''label'': ''Elevators''}'
+      required: false
+    - id: 6
+      name: personal_assistance
+      label: Personal Assistance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wheelchair''}'
+      - '{''label'': ''Sign Language''}'
+      - '{''label'': ''Braille''}'
+      - '{''label'': ''Large Print Materials''}'
+      required: false
+    - id: 7
+      name: accessibility_barriers
+      label: Accessibility Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Architectural''}'
+      - '{''label'': ''Physical''}'
+      required: false
+    - id: 8
+      name: personal_support
+      label: Personal Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Service Animal''}'
+      - '{''label'': ''Sign Language''}'
+      - '{''label'': ''Visual Assistance''}'
+      required: false
+    - id: 9
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Braille''}'
+      - '{''label'': ''Large Print''}'
+      - '{''label'': ''Sign Language''}'
+      required: false
+    - id: 10
+      name: social_support
+      label: Social Support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wheelchair''}'
+      - '{''label'': ''Service Animal''}'
+      - '{''label'': ''Visual Assistance''}'
+      required: false
+    - id: 11
+      name: public_space_access
+      label: Public Space Access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wheelchairs''}'
+      - '{''label'': ''Wheelchair Accessible''}'
+      - '{''label'': ''Accessible Restrooms''}'
+      required: false
+    - id: 12
+      name: personal_space_access
+      label: Personal Space Access
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wheelchair''}'
+      - '{''label'': ''Service Animal''}'
+      - '{''label'': ''Service Animal Access''}'
+      required: false

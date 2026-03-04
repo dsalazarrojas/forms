@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Assistant / Online Business Manager Service Request
+    pages:
+    - id: 1
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: service_needed
+      label: Service Needed
+      hint: null
+      type: select_one
+      options:
+      - Virtual Assistant
+      - Online Business Manager
+      - Both
+      required: true
+    - id: 8
+      name: service_needed_other
+      label: Other Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-app
+      required: true
+    - id: 10
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: agreement_text
+      label: Agreement Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: submitter_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: submitter_agreement_text
+      label: Agreement Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submitter_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitter_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

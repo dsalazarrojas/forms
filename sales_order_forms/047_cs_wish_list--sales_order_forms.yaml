@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: CS Wish List
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: For wish list notifications
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_number
+      label: Customer Account Number
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wishlist_name
+      label: Wish List Name
+      hint: Title for your wish list
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: wishlist_occasion
+      label: Occasion or Purpose
+      hint: What is this wish list for
+      type: select_one
+      options:
+      - Birthday
+      - Holiday
+      - Wedding
+      - Baby shower
+      - Home improvement
+      - Personal interest
+      - Gift registry
+      - Other
+      required: true
+    - id: 7
+      name: wishlist_date
+      label: Desired Date for Items
+      hint: When do you need these items
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: item_1_name
+      label: Item 1 - Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: item_1_sku
+      label: Item 1 - Product SKU or Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: item_1_quantity
+      label: Item 1 - Quantity Desired
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: item_1_price
+      label: Item 1 - Approximate Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: item_2_name
+      label: Item 2 - Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: item_2_sku
+      label: Item 2 - Product SKU or Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: item_2_quantity
+      label: Item 2 - Quantity Desired
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: item_2_price
+      label: Item 2 - Approximate Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: item_3_name
+      label: Item 3 - Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: item_3_quantity
+      label: Item 3 - Quantity Desired
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: priority_items
+      label: Priority or Must-Have Items
+      hint: Which items are most important
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sharing_preference
+      label: Wish List Sharing Preference
+      hint: Who can see this wish list
+      type: select_one
+      options:
+      - Private
+      - Friends and family
+      - Public
+      - Shared link only
+      required: false
+    - id: 20
+      name: special_notes
+      label: Special Notes or Instructions
+      hint: Preferences, color, size, etc.
+      type: text
+      options: []
+      required: false

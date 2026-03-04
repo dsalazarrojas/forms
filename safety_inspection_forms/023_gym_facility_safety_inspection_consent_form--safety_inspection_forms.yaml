@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Facility Safety Inspection Consent Form
+    pages:
+    - id: 1
+      name: general
+      label: general
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: consent
+      hint: null
+      type: select_one
+      options:
+      - Client acknowledges the facility is safe for physical activity
+      - Client understands the safety inspection process
+      - Client consents to the safety inspection
+      required: true
+    - id: 3
+      name: facility_inspection_frequency
+      label: frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every 1 month
+      - Every 3 months
+      - Every 6 months
+      - Every 12 months
+      required: false
+    - id: 4
+      name: inspection_results
+      label: inspection_results
+      hint: Please describe your inspection results
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: facility_inspector
+      label: facility_inspector
+      hint: null
+      type: select_one
+      options:
+      - Facility Manager
+      - Facility Supervisor
+      - Facility Safety Officer
+      required: true
+    - id: 9
+      name: client_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_id
+      label: facility_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: client_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: facility_inspector_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: client_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_review
+      label: review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: facility_signature
+      label: signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: facility_facility_inspector
+      label: facility_facility_inspector
+      hint: null
+      type: select_one
+      options:
+      - Facility Manager
+      - Facility Supervisor
+      - Facility Safety Officer
+      required: true
+    - id: 22
+      name: facility_facility_inspector_email
+      label: facility_facility_inspector_email
+      hint: null
+      type: select_one
+      options:
+      - Facility Manager Email
+      - Facility Supervisor Email
+      - Facility Safety Officer Email
+      required: true
+    - id: 23
+      name: facility_inspection_type
+      label: inspection_type
+      hint: null
+      type: select_one
+      options:
+      - General Safety Inspection
+      - Specialized Safety Inspection
+      - Fire Safety Inspection
+      required: true
+    - id: 24
+      name: facility_inspection_frequency_type
+      label: inspection_frequency_type
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annual
+      - Annual
+      required: true
+    - id: 25
+      name: facility_inspection_frequency
+      label: inspection_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every 1 month
+      - Every 3 months
+      - Every 6 months
+      - Every 12 months
+      required: true

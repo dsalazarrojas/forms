@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Snow Conditions Report
+    pages:
+    - id: 1
+      name: snow_depth
+      label: snow_depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: snow_ice_cover
+      label: snow_ice_cover
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: snow_surface_type
+      label: snow_surface_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: avalanche_forecast
+      label: avalanche_forecast
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: snow_snowpack
+      label: snow_snowpack
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: snow_temperature
+      label: snow_temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: snow_wind
+      label: snow_wind
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: snow_comments
+      label: snow_comments
+      hint: null
+      type: note
+      options: []
+      required: false

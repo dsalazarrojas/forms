@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prayer Request Form Template
+    pages:
+    - id: 1
+      name: user_name
+      label: UserName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prayer_requester_email
+      label: PrayerRequesterEmail
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: prayer_request
+      label: Prayer Request
+      hint: Your prayer request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: prayer_requester_name
+      label: PrayerRequesterName
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: prayer_requester_number
+      label: PrayerRequesterNumber
+      hint: Enter your number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: candle_request
+      label: Candle Request
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Candle 1''}'
+      - '{''id'': 2, ''name'': ''Candle 2''}'
+      - '{''id'': 3, ''name'': ''Candle 3''}'
+      required: false
+    - id: 7
+      name: prayer_type
+      label: Prayer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Prayer 1''}'
+      - '{''id'': 2, ''name'': ''Prayer 2''}'
+      - '{''id'': 3, ''name'': ''Prayer 3''}'
+      required: false
+    - id: 8
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: donation_currency
+      label: Donation Currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''USD''}'
+      - '{''id'': 2, ''name'': ''EUR''}'
+      required: false
+    - id: 10
+      name: prayer_date
+      label: Prayer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: prayer_time
+      label: Prayer Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: prayer_status
+      label: Prayer Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      required: true
+    - id: 14
+      name: assign_to
+      label: Assign To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''User''}'
+      - '{''id'': 2, ''name'': ''Group''}'
+      - '{''id'': 3, ''name'': ''Admin''}'
+      required: true
+    - id: 15
+      name: prayer_category
+      label: Prayer Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Category 1''}'
+      - '{''id'': 2, ''name'': ''Category 2''}'
+      - '{''id'': 3, ''name'': ''Category 3''}'
+      required: true
+    - id: 16
+      name: assign_to_user
+      label: Assign To User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: prayer_requester_notes
+      label: Prayer Requester Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: prayer_status_update
+      label: Prayer Status Update
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: assigned_by_user
+      label: Assigned By User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''User 1''}'
+      - '{''id'': 2, ''name'': ''User 2''}'
+      required: false
+    - id: 22
+      name: assigned_at_time
+      label: Assigned At Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: assigned_by_ip
+      label: Assigned By IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_by_email
+      label: Assigned By Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_by_organisation
+      label: Assigned By Organisation
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: post_event_cleaning_request_form
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_cleaning_time
+      label: Preferred Cleaning Time
+      hint: null
+      type: select_one
+      options:
+      - 8am-10am
+      - 10am-12pm
+      - 12pm-2pm
+      - 2pm-4pm
+      - 4pm-6pm
+      - 6pm-8pm
+      - 8pm-10pm
+      - 10pm-12am
+      required: false
+    - id: 3
+      name: preferred_day
+      label: Preferred Day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_needs
+      label: Service Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaning
+      - Supplies
+      - Equipment
+      - Trash Removal
+      required: true
+    - id: 7
+      name: service_needs_description
+      label: Service Needs Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_description
+      label: Event Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_notes
+      label: Event Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

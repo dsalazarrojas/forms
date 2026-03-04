@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wood Pellet User Survey
+    pages:
+    - id: 1
+      name: wood_pellet_survey_form
+      label: Wood Pellet User Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pellet_usage_habits
+      label: Pellet Usage Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pellet_purchasing_habits
+      label: Pellet Purchasing Habits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: pellet_type
+      label: Pellet Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: pellet_size
+      label: Pellet Size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: pellet_color
+      label: Pellet Color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pellet_brand
+      label: Pellet Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pellet_weight
+      label: Pellet Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: pellet_cost
+      label: Pellet Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: pellet_frequency
+      label: Pellet Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: pellet_purchasing_channels
+      label: Pellet Purchasing Channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

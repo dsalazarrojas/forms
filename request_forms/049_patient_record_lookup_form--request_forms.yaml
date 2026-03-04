@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: patient_record_lookup_form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''ABC Medical Group''}'
+      - '{''value'': 2, ''label'': ''DEF Medical Group''}'
+      - '{''value'': 3, ''label'': ''GHI Medical Group''}'
+      required: true
+    - id: 6
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''General Medicine''}'
+      - '{''value'': 2, ''label'': ''General Surgery''}'
+      - '{''value'': 3, ''label'': ''General Surgery (Pediatrics)''}'
+      required: false
+    - id: 9
+      name: date_of_death
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_of_death_certified
+      label: Date of Death Certified
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: patient_category
+      label: Patient Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Active''}'
+      - '{''value'': 2, ''label'': ''Inactive''}'
+      - '{''value'': 3, ''label'': ''Denied''}'
+      required: true
+    - id: 12
+      name: date_of_submission
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submitter_id
+      label: Submitter ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_provider_name
+      label: Medical Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_provider_title
+      label: Medical Provider Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_group_name
+      label: Medical Group Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_condition_name
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false

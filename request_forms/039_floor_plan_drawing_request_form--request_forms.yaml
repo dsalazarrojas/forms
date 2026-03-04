@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floor Plan Drawing Request Form
+    pages:
+    - id: 1
+      name: floor_plan_drawing_request_form
+      label: Floor Plan Drawing Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - Building Type
+      - Other
+      required: true
+    - id: 3
+      name: building_style
+      label: Building Style
+      hint: null
+      type: select_multiple
+      options:
+      - Modern
+      - Post-Modern
+      - Art Deco
+      required: true
+    - id: 4
+      name: building_size
+      label: Building Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: floor_dimensions
+      label: Floor Dimensions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: building_orientation
+      label: Building Orientation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: floor_plan_drawing_scale
+      label: Floor Plan Drawing Scale
+      hint: null
+      type: select_one
+      options:
+      - Scale 1:1
+      - Scale 1:5
+      - Scale 1:10
+      required: true
+    - id: 8
+      name: floor_plan_drawing_units
+      label: Floor Plan Drawing Units
+      hint: null
+      type: select_multiple
+      options:
+      - Square Feet
+      - Square Meters
+      required: true
+    - id: 9
+      name: drawing_request_date
+      label: Drawing Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: drawing_request_time
+      label: Drawing Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: drawing_requester
+      label: Drawing Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: drawing_requester_email
+      label: Drawing Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: building_city
+      label: Building City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: building_state
+      label: Building State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: building_zip
+      label: Building Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: building_country
+      label: Building Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: building_phone
+      label: Building Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: floor_plan_drawing_request_comments
+      label: Floor Plan Drawing Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: floor_plan_drawing_request_attachments
+      label: Floor Plan Drawing Request Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 23
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: assigned_user_email
+      label: Assigned User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user_phone
+      label: Assigned User Phone
+      hint: null
+      type: text
+      options: []
+      required: true

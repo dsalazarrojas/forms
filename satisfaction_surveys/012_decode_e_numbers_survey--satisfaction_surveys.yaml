@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Decode E Numbers Survey
+    pages:
+    - id: 1
+      name: introduction_page
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: e_numbers_familiarity
+      label: E-Numbers Familiarity
+      hint: Which of the following E-Numbers are you familiar with?
+      type: select_one
+      options:
+      - E-Number 1
+      - E-Number 2
+      - E-Number 3
+      - E-Number 4
+      - E-Number 5
+      - E-Number 6
+      - E-Number 7
+      - E-Number 8
+      required: true
+    - id: 3
+      name: awareness
+      label: Awareness Of E-Numbers
+      hint: How aware are you of E-Numbers?
+      type: select_one
+      options:
+      - Not at all aware
+      - Somewhat aware
+      - Aware
+      - Very aware
+      required: true
+    - id: 4
+      name: concerns
+      label: Concerns About E-Numbers
+      hint: Which of the following concerns about E-Numbers do you have?
+      type: select_multiple
+      options:
+      - Health concerns
+      - Allergens concerns
+      - Environmental concerns
+      - Other
+      required: true
+    - id: 5
+      name: behaviors
+      label: Behaviors When Seeing E-Numbers
+      hint: What do you do when you see E-Numbers?
+      type: select_multiple
+      options:
+      - Ignore
+      - Check the ingredients
+      - Look for alternative products
+      - Avoid
+      - Other
+      required: false
+    - id: 6
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United Kingdom
+      - Ireland
+      - United States
+      - Other
+      required: true
+    - id: 7
+      name: age
+      label: Age
+      hint: Age
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: education_level
+      label: Education Level
+      hint: Highest educational level achieved
+      type: select_one
+      options:
+      - Secondary
+      - Tertiary
+      - University
+      - Other
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirm_email
+      label: Confirm Email
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: confirm_phone
+      label: Confirm Phone
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

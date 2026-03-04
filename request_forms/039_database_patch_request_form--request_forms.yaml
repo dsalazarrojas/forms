@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Database Patch Request Form
+    pages:
+    - id: 1
+      name: database_patch_request_form
+      label: Database Patch Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file
+      label: file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: fix_type
+      label: fix_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: file_upload
+      label: file_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fix_description
+      label: fix_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false

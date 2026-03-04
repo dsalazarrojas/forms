@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Knife Sharpening Service Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: knife_quantity
+      label: Knife Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: sharpening_service
+      label: Sharpening Service
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Deluxe
+      - Premium
+      required: false
+    - id: 5
+      name: sharpening_frequency
+      label: Sharpening Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 6
+      name: drop_off_date
+      label: Drop Off Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: pick_up_date
+      label: Pick Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      required: false
+    - id: 9
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false

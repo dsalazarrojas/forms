@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Feedback Channel Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_channel
+      label: Feedback Channel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''email'', ''value'': ''email''}'
+      - '{''id'': 2, ''label'': ''manager'', ''value'': ''manager''}'
+      - '{''id'': 3, ''label'': ''HR'', ''value'': ''hr''}'
+      - '{''id'': 4, ''label'': ''team leader'', ''value'': ''team_leaders''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

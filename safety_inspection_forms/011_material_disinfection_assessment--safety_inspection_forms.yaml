@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Material Disinfection Assessment
+    pages:
+    - id: 1
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Chemical
+      - Biological
+      - Radioactive
+      - Other
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disinfection_method
+      label: Disinfection Method
+      hint: null
+      type: select_one
+      options:
+      - Steam
+      - Chemical
+      - Other
+      - None
+      required: false
+    - id: 4
+      name: follow_up_action
+      label: Follow Up Action
+      hint: null
+      type: select_one
+      options:
+      - No Follow-up Required
+      - Additional Training Required
+      - Corrective Action Required
+      - Other
+      required: false
+    - id: 5
+      name: rating1
+      label: Rating 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating2
+      label: Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_details
+      label: Follow-Up Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: next_step
+      label: Next Step
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Escalate
+      - Review
+      required: false
+    - id: 9
+      name: next_step_details
+      label: Next Step Details
+      hint: null
+      type: text
+      options: []
+      required: false

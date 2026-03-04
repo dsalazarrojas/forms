@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Recycling Form
+    pages:
+    - id: 1
+      name: waste_recycling_form
+      label: Waste Recycling Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: waste_type
+      label: Waste Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false

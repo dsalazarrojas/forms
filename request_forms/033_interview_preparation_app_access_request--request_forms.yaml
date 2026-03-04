@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interview Preparation App Access Request
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User Name
+      hint: Enter user name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_title
+      label: User Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Interview Prep App Access
+      - Other
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: select_multiple
+      options:
+      - Access for Training
+      - Access for Career Development
+      - Access for Hiring
+      required: false
+    - id: 10
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 11
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: select_one
+      options:
+      - I have read and agree to the terms and conditions
+      - I do not have the required documents
+      required: false
+    - id: 13
+      name: support_team
+      label: Support Team
+      hint: null
+      type: select_multiple
+      options:
+      - Training Support Team
+      - Hiring Support Team
+      - Other Support Team
+      required: false
+    - id: 14
+      name: other_support_team
+      label: Other Support Team
+      hint: Enter other support team name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: review_comments
+      label: Review Comments
+      hint: Enter comments for review
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Awaiting Review
+      required: false
+    - id: 17
+      name: reviewed_by
+      label: Reviewed By
+      hint: null
+      type: select_multiple
+      options:
+      - Training Support Team
+      - Hiring Support Team
+      - Other Support Team
+      required: false
+    - id: 18
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: reviewed_by_title
+      label: Reviewed By Title
+      hint: null
+      type: select_one
+      options:
+      - Training Support Team Title
+      - Hiring Support Team Title
+      - Other Support Team Title
+      required: false

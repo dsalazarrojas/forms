@@ -1,0 +1,312 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enterprise Healthcare Client Insights Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: enterprise_healthcare_client_insights_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_rating
+      label: satisfaction_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: improvement_ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referral_intent
+      label: referral_intent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit''}'
+      - '{''label'': ''Save and Continue''}'
+      - '{''label'': ''Cancel''}'
+      required: false
+    - id: 12
+      name: form_referral_intent_yes
+      label: 'True'
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: true
+    - id: 13
+      name: form_referral_intent_reasons
+      label: referral_intent_reasons
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''For Referral''}'
+      - '{''label'': ''Not for Referral''}'
+      - '{''label'': ''Maybe for Referral''}'
+      required: true
+    - id: 14
+      name: form_referral_intent_referral_source
+      label: referral_intent_referral_source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Referrals from Google''}'
+      - '{''label'': ''Referrals from Social Media''}'
+      - '{''label'': ''Referrals from Word of Mouth''}'
+      - '{''label'': ''Referrals from Email''}'
+      - '{''label'': ''Referrals from Other''}'
+      required: true
+    - id: 15
+      name: form_referral_intent_referral_channels
+      label: referral_intent_referral_channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''In Person''}'
+      required: true
+    - id: 16
+      name: form_referral_intent_referral_sources
+      label: referral_intent_referral_sources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Referrals from Google''}'
+      - '{''label'': ''Referrals from Social Media''}'
+      - '{''label'': ''Referrals from Word of Mouth''}'
+      - '{''label'': ''Referrals from Email''}'
+      - '{''label'': ''Referrals from Other''}'
+      required: true
+    - id: 17
+      name: form_referral_intent_referral_channels_sources
+      label: referral_intent_referral_channels_sources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''In Person''}'
+      required: true
+    - id: 18
+      name: form_referral_intent_referral_channels_sources_2
+      label: referral_intent_referral_channels_sources_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Referrals from Google''}'
+      - '{''label'': ''Referrals from Social Media''}'
+      - '{''label'': ''Referrals from Word of Mouth''}'
+      - '{''label'': ''Referrals from Email''}'
+      - '{''label'': ''Referrals from Other''}'
+      required: true
+    - id: 19
+      name: form_referral_intent_referral_channels_sources_3
+      label: referral_intent_referral_channels_sources_3
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''In Person''}'
+      required: true
+    - id: 20
+      name: form_referral_intent_referral_channels_sources_4
+      label: referral_intent_referral_channels_sources_4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Referrals from Google''}'
+      - '{''label'': ''Referrals from Social Media''}'
+      - '{''label'': ''Referrals from Word of Mouth''}'
+      - '{''label'': ''Referrals from Email''}'
+      - '{''label'': ''Referrals from Other''}'
+      required: true
+    - id: 21
+      name: form_referral_intent_referral_channels_sources_5
+      label: referral_intent_referral_channels_sources_5
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''In Person''}'
+      required: true
+    - id: 22
+      name: form_referral_intent_referral_channels_sources_6
+      label: referral_intent_referral_channels_sources_6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Referrals from Google''}'
+      - '{''label'': ''Referrals from Social Media''}'
+      - '{''label'': ''Referrals from Word of Mouth''}'
+      - '{''label'': ''Referrals from Email''}'
+      - '{''label'': ''Referrals from Other''}'
+      required: true
+    - id: 23
+      name: form_referral_intent_referral_channels_sources_7
+      label: referral_intent_referral_channels_sources_7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Online''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''In Person''}'
+      required: true
+    - id: 24
+      name: form_referral_intent_referral_channels_sources_8
+      label: referral_intent_referral_channels_sources_8
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Referrals from Google''}'
+      - '{''label'': ''Referrals from Social Media''}'
+      - '{''label'': ''Referrals from Word of Mouth''}'
+      - '{''label'': ''Referrals from Email''}'
+      - '{''label'': ''Referrals from Other''}'
+      required: true
+    - id: 25
+      name: form_submit_2
+      label: submit_2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Submit''}'
+      - '{''label'': ''Save and Continue''}'
+      - '{''label'': ''Cancel''}'
+      required: false
+    - id: 26
+      name: form_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: form_comments_2
+      label: comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: form_comments_3
+      label: comments_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: form_comments_4
+      label: comments_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: form_comments_5
+      label: comments_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: form_comments_6
+      label: comments_6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: form_comments_7
+      label: comments_7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: form_comments_8
+      label: comments_8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: form_comments_9
+      label: comments_9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: form_comments_10
+      label: comments_10
+      hint: null
+      type: text
+      options: []
+      required: false

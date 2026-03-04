@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Data Sharing Request Form
+    pages:
+    - id: 1
+      name: non_profit
+      label: Non-Profit Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usage
+      label: Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_access_request
+      label: Data Access Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: policy_agreement
+      label: Policy Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: non_profit_data_sharing_policies
+      label: Non-Profit Data Sharing Policies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: data_sharing_terms
+      label: Data Sharing Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: request_review
+      label: Request Review
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: request_creation_date
+      label: Request Creation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: last_updated_date
+      label: Last Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

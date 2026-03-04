@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Safety Evaluation Registration
+    pages:
+    - id: 1
+      name: machine_safety_evaluation_form
+      label: machine_safety_evaluation_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: machine_type
+      label: machine_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hazard_location
+      label: hazard_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hazard
+      label: hazard
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: corrective_action_effective_date
+      label: corrective_action_effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: compliance_status
+      label: compliance_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_assigned
+      label: date_assigned
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: completion_status
+      label: completion_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: safety_rating
+      label: safety_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 16
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: review_by
+      label: review_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: completed
+      label: completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: completed_by
+      label: completed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: completed_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: machine_type
+      label: machine_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: hazard
+      label: hazard
+      hint: null
+      type: text
+      options: []
+      required: true

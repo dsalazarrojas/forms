@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return Exchange Authorization Form
+    pages:
+    - id: 1
+      name: return_exchange_authorization_form_first_page
+      label: Request Return or Exchange
+      hint: null
+      type: select_one
+      options:
+      - Return
+      - Exchange
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: seller_notes
+      label: Seller Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: return_reason
+      label: Reason for Return or Exchange
+      hint: null
+      type: select_multiple
+      options:
+      - Damaged or Defective
+      - Product not as described
+      - Size too big/small
+      required: false
+    - id: 6
+      name: exchange_product
+      label: Exchange Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: exchange_product_details
+      label: Exchange Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exchange_reason
+      label: Reason for Exchange
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: seller_confirmation
+      label: Seller Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: customer_confirmation
+      label: Customer Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: return_shipping_details
+      label: Return Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: exchange_shipping_details
+      label: Exchange Shipping Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: exchange_date
+      label: Exchange Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: return_time
+      label: Return Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: exchange_time
+      label: Exchange Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_note
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: seller_note
+      label: Seller Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: product_details
+      label: Product Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: return_reason_details
+      label: Return Reason Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_images
+      label: Product Images
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: product_video
+      label: Product Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: product_return
+      label: Product Return
+      hint: null
+      type: select_multiple
+      options:
+      - Damaged
+      - Defective
+      - Not as described
+      required: false
+    - id: 25
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Request Form
+    pages:
+    - id: 1
+      name: school_id
+      label: school_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Certificate
+      - Transcript
+      - Letter
+      required: true
+    - id: 3
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: document_requested_id
+      label: Document Requested Id
+      hint: null
+      type: number
+      options: []
+      required: false

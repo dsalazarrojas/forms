@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Reservation Form
+    pages:
+    - id: 1
+      name: reservation_details_header
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter the primary contact or guest name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization or company
+      hint: Provide affiliated organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Used for reservation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Include country code if international
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: check_in_date
+      label: Check in date
+      hint: Expected arrival date at the venue or lodging
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: check_out_date
+      label: Check out date
+      hint: Expected departure date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: room_type
+      label: Room type
+      hint: Select preferred accommodation
+      type: select_one
+      options:
+      - Single room
+      - Double room
+      - Suite
+      required: true
+    - id: 9
+      name: number_of_attendees
+      label: Number of attendees
+      hint: Count of guests covered by this reservation
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: av_requirements
+      label: Audio visual requirements
+      hint: Select required equipment for sessions
+      type: select_multiple
+      options:
+      - Projector
+      - Wired microphone
+      - Wireless microphone
+      - Sound system
+      - Video conferencing
+      required: false
+    - id: 11
+      name: catering_needed
+      label: Catering needed
+      hint: Specify if meals or refreshments are required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: dietary_restrictions
+      label: Dietary restrictions or preferences
+      hint: List any allergies or special diets
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special requests
+      hint: Accessibility needs or other accommodations
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: billing_reference
+      label: Billing reference or PO number
+      hint: Optional reference for invoicing
+      type: text
+      options: []
+      required: false

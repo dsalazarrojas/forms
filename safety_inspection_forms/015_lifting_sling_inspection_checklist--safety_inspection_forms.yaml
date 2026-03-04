@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lifting Sling Inspection Checklist
+    pages:
+    - id: 1
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: sling_capacity
+      label: Sling Capacity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: safety_factor
+      label: Safety Factor
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Review
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concierge Service
+    pages:
+    - id: 1
+      name: service_introduction
+      label: Concierge Service Order
+      hint: Premium personal assistance services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_category
+      label: Service Category
+      hint: Type of concierge service
+      type: select_one
+      options:
+      - Personal Shopping
+      - Travel Planning
+      - Event Planning
+      - Household Management
+      - Business Support
+      - Lifestyle Management
+      - Full Service Package
+      required: true
+    - id: 3
+      name: service_level
+      label: Service Level
+      hint: Tier of service
+      type: select_one
+      options:
+      - Basic
+      - Premium
+      - Executive
+      - Platinum
+      required: true
+    - id: 4
+      name: service_duration
+      label: Service Duration
+      hint: How long do you need service
+      type: select_one
+      options:
+      - One Time Service
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annual
+      required: true
+    - id: 5
+      name: client_information
+      label: Client Information
+      hint: Your personal details
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_title
+      label: Title or Prefix
+      hint: Mr Mrs Ms Dr etc
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Ms
+      - Dr
+      - Prof
+      - Other
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_primary
+      label: Primary Phone
+      hint: Main contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: phone_secondary
+      label: Secondary Phone
+      hint: Alternate number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: address_information
+      label: Address Information
+      hint: Service location
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: street_address
+      label: Street Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: state
+      label: State or Province
+      hint: Region
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 18
+      name: service_requirements
+      label: Service Requirements
+      hint: Specific needs
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: priority_services
+      label: Priority Services
+      hint: Most important tasks
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: Best time to reach you
+      type: select_one
+      options:
+      - Morning 8 AM to 12 PM
+      - Afternoon 12 PM to 5 PM
+      - Evening 5 PM to 9 PM
+      - Any Time
+      required: false
+    - id: 21
+      name: special_instructions
+      label: Special Instructions
+      hint: Any important notes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: pricing_information
+      label: Pricing Information
+      hint: Service costs
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: monthly_budget
+      label: Monthly Budget
+      hint: Estimated budget range
+      type: select_one
+      options:
+      - Under 500 Dollars
+      - 500 to 1000 Dollars
+      - 1000 to 2500 Dollars
+      - 2500 to 5000 Dollars
+      - Over 5000 Dollars
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: Preferred payment
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Check
+      - Corporate Billing
+      required: true
+    - id: 25
+      name: contract_terms
+      label: Contract Terms
+      hint: Accept service agreement
+      type: select_one
+      options:
+      - I Accept Terms
+      - I Do Not Accept
+      required: true

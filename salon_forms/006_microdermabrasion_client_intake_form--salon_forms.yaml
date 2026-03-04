@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microdermabrasion Client Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Client Name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_info
+      label: Information about client?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Acne
+      - Normal
+      - Other
+      required: true
+    - id: 7
+      name: skin_concerns
+      label: Skin Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - Fine Lines
+      - Pores
+      - Acne
+      - Hyper-pigmentation
+      - Aging
+      - Rosacea
+      required: true
+    - id: 8
+      name: practice_goals
+      label: Practice Goals
+      hint: What do you want to achieve with the microdermabrasion practice?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: microdermabrasion_procedure
+      label: Microdermabrasion Procedure
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: next_visit
+      label: Next Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: select_one
+      options:
+      - Initial Consultation
+      - Follow Up
+      - Initial Consultation
+      required: true
+    - id: 14
+      name: practitioner_signature
+      label: Practitioner Signature
+      hint: null
+      type: select_one
+      options:
+      - Initial Consultation
+      - Follow Up
+      - Initial Consultation
+      required: true
+    - id: 15
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: true
+    - id: 16
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Other
+      required: true
+    - id: 17
+      name: medication
+      label: Medication
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: medical_procedure
+      label: Medical Procedure
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: microdermabrasion_procedure
+      label: Microdermabrasion Procedure
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: num_sessions
+      label: Number of Sessions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: num_procedures
+      label: Number of Procedures
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: num_sessions
+      label: Number of Sessions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: true

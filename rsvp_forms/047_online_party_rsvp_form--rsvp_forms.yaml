@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Party RSVP Form
+    pages:
+    - id: 1
+      name: party_details
+      label: Party Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp_details
+      label: RSVP Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rsvp_response
+      label: RSVP Response
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: 'Format: (123) 456-7890'
+      type: text
+      options: []
+      required: false

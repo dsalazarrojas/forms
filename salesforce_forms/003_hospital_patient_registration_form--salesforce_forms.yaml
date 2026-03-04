@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Patient Registration Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: medical_specialist
+      label: Medical Specialist
+      hint: null
+      type: select_multiple
+      options:
+      - Doctor
+      - Nurse
+      - Surgeon
+      required: false
+    - id: 8
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Aspirin
+      - Penicillin
+      - Egg
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Asthma
+      required: false
+    - id: 10
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: medical_test_results
+      label: Medical Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_insurance
+      label: Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_group
+      label: Medical Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: false
+    - id: 16
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: blood_type
+      label: Blood Type
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - AB
+      - O
+      required: false
+    - id: 18
+      name: doctor_specialist
+      label: Doctor Specialist
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiologist
+      - Endocrinologist
+      - Nephrologist
+      required: false
+    - id: 19
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: select_multiple
+      options:
+      - Hospital
+      - Clinic
+      - Rehabilitation Center
+      required: false

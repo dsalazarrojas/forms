@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Value Information Request Form
+    pages:
+    - id: 1
+      name: request_information_section
+      label: -- Request Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: request_number
+      label: Request Number
+      hint: Reference identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_information_section
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: requestor_name
+      label: Requestor Name
+      hint: Person making the request
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requestor_title
+      label: Job Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requestor_organization
+      label: Organization or Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: requestor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: requestor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: item_information_section
+      label: -- Item or Property Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: item_description
+      label: Item or Property Description
+      hint: Detailed description of what you need valued
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: item_quantity
+      label: Quantity
+      hint: How many items?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: item_condition
+      label: Item Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Used
+      - Damaged
+      required: true
+    - id: 14
+      name: acquisition_date
+      label: Date of Acquisition
+      hint: MM/DD/YYYY (if known)
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: valuation_request_section
+      label: -- Valuation Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: valuation_purpose
+      label: Purpose of Valuation
+      hint: Select the main reason
+      type: select_one
+      options:
+      - Insurance Claim
+      - Asset Appraisal
+      - Donation Documentation
+      - Tax Deduction
+      - Legal Proceedings
+      - Resale Estimate
+      - Estate Settlement
+      - Other
+      required: true
+    - id: 17
+      name: valuation_date_needed
+      label: Date Valuation Needed By
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: market_research_section
+      label: -- Market Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: comparable_items
+      label: Similar Items Recently Sold
+      hint: What comparable prices have you seen?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: original_purchase_price
+      label: Original Purchase Price (if known)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: current_listing_price
+      label: Current Market Listing Prices
+      hint: Where are similar items priced?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: appraisal_section
+      label: -- Appraisal Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: professional_appraisal_needed
+      label: Is a Professional Appraisal Needed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, required
+      - Yes, would be helpful
+      - No, estimate sufficient
+      - Unsure
+      required: true
+    - id: 24
+      name: supporting_documentation
+      label: Supporting Documentation Available
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Original Receipt
+      - Invoice
+      - Photos
+      - Condition Report
+      - Certification
+      - None Available
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

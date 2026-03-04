@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Visit Safety Checklist
+    pages:
+    - id: 1
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - Home Care
+      - Social Services
+      - Property Team
+      required: false
+    - id: 2
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_visited
+      label: Time Visited
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: visit_notes
+      label: Notes
+      hint: Please take note of any observations or issues identified during the home
+        visit
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: safety_assessments
+      label: Safety Assessments
+      hint: null
+      type: select_multiple
+      options:
+      - Smoke and fire hazards
+      - Slip and fall hazards
+      - Sharp objects or hazards
+      - Electrical or gas hazards
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - History of falls
+      - History of fires
+      - History of medical conditions
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Advised client to
+      - Installed safety measures
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_visit_date
+      label: Next Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_visit_time
+      label: Next Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Not Reviewed
+      - In Progress
+      - Complete
+      required: false
+    - id: 18
+      name: notes_for_reviewer
+      label: Notes for Reviewer
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_status
+      label: Reviewer Status
+      hint: null
+      type: select_one
+      options:
+      - Not Reviewed
+      - Complete
+      - Partially Reviewed
+      required: false
+    - id: 21
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: review_time
+      label: Review Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: next_review_date
+      label: Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: next_review_time
+      label: Next Review Time
+      hint: null
+      type: time
+      options: []
+      required: false

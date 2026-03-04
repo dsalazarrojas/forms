@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Sales Application Form
+    pages:
+    - id: 1
+      name: buyer_id_header
+      label: -- Buyer Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_full_name
+      label: Buyer Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ssn_tax_id
+      label: SSN or Tax ID
+      hint: Required for financing applications
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dob
+      label: Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For sales updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Mobile or home number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vehicle_interest_header
+      label: -- Vehicle of Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: stock_number
+      label: Vehicle Stock Number
+      hint: Internal dealership ID if known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_desc
+      label: Vehicle Make, Model, and Year
+      hint: The vehicle you wish to purchase
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: purchase_type
+      label: Purchase Type
+      hint: How do you intend to pay?
+      type: select_one
+      options:
+      - Financing
+      - Cash
+      - Lease
+      required: true
+    - id: 11
+      name: financial_info_header
+      label: -- Financial Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: down_payment
+      label: Estimated Down Payment
+      hint: Amount you can pay upfront
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: employer_name
+      label: Employer Name
+      hint: Current place of work
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: gross_monthly_income
+      label: Gross Monthly Income
+      hint: Your income before taxes
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: trade_in_header
+      label: -- Trade-In Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: trade_in_available
+      label: Trade-In Available
+      hint: Do you have a vehicle to trade in?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: trade_in_details
+      label: Trade-In Details
+      hint: Make, Model, Year, and Mileage
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: authorize_credit_check
+      label: Authorize Credit Check
+      hint: I authorize the dealership to verify my credit history
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

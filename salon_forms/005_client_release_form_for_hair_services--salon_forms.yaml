@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Release Form For Hair Services
+    pages:
+    - id: 1
+      name: form_intro
+      label: Hair Service Release and Consent Form
+      hint: This form releases liability and confirms your consent for hair services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: health_section
+      label: -- Health and Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Do you have any known allergies to hair products or chemicals?
+      hint: List any allergies if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: scalp_conditions
+      label: Do you have any scalp conditions or sensitivities?
+      hint: Examples - dandruff, eczema, psoriasis
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: previous_treatments
+      label: Have you had previous chemical treatments to your hair?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 9
+      name: treatment_type_section
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: services_requested
+      label: What services are you requesting today?
+      hint: null
+      type: select_multiple
+      options:
+      - Hair Cut
+      - Hair Coloring
+      - Chemical Relaxer
+      - Perm
+      - Hair Styling
+      - Extensions
+      - Other Treatment
+      required: true
+    - id: 11
+      name: color_processing
+      label: Will you be using color or chemical processing?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: desired_result
+      label: Describe the desired result or style you are requesting
+      hint: Be as specific as possible
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: patch_test
+      label: Have you completed a patch test for color or chemical treatments?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: false
+    - id: 14
+      name: consent_section
+      label: -- Release and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: understand_risks
+      label: I understand that hair services may carry risks including breakage, color
+        results variation, or scalp sensitivity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: release_liability
+      label: I hereby release the salon and stylists from liability related to hair
+        services performed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: professional_judgment
+      label: I trust the professional judgment of my stylist to recommend what is
+        best for my hair health
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: aftercare_agreement
+      label: I agree to follow professional aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: photo_consent
+      label: May we take photos of your hair for salon portfolio or marketing purposes?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: stylist_name
+      label: Stylist Name
+      hint: Your assigned stylist
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: service_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true

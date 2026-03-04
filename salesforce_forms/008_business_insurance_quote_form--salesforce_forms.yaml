@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Insurance Quote Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Email for quote delivery
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Direct phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_address
+      label: Business Address
+      hint: Full business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: industry_type
+      label: Industry Type
+      hint: Primary business industry
+      type: select_one
+      options:
+      - Accounting
+      - Advertising
+      - Architecture
+      - Auto repair
+      - Beauty salon
+      - Cleaning service
+      - Construction
+      - Consulting
+      - Contractor
+      - Dentist
+      - Doctor
+      - Electrician
+      - Engineering
+      - Landscaping
+      - Law firm
+      - Manufacturing
+      - Plumbing
+      - Real estate
+      - Retail
+      - Restaurant
+      - Technology
+      - Other
+      required: true
+    - id: 7
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: employee_count
+      label: Number of Employees
+      hint: Total employees
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: annual_revenue
+      label: Annual Revenue
+      hint: Approximate gross revenue
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: desired_coverage_types
+      label: Desired Coverage Types
+      hint: Select needed coverage
+      type: select_multiple
+      options:
+      - General liability
+      - Professional liability
+      - Property insurance
+      - Workers compensation
+      - Commercial auto
+      - Cyber insurance
+      - Business owner policy
+      - Umbrella coverage
+      required: true
+    - id: 11
+      name: coverage_limits
+      label: Desired Coverage Limits
+      hint: Preferred limit amount
+      type: select_one
+      options:
+      - $500K
+      - $1 million
+      - $2 million
+      - $5 million
+      - $10 million
+      - Custom amount
+      required: true
+    - id: 12
+      name: current_coverage
+      label: Current Insurance Status
+      hint: Do you have current coverage
+      type: select_one
+      options:
+      - Yes - seeking better rates
+      - Yes - policy expiring soon
+      - No - new business
+      - No - lapsed coverage
+      required: true
+    - id: 13
+      name: current_carrier
+      label: Current Insurance Carrier
+      hint: Name of current provider
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: policy_expiration_date
+      label: Policy Expiration Date
+      hint: When does current policy expire
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: claims_history_years
+      label: Claims Free Years
+      hint: Years without claims
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: additional_insureds
+      label: Additional Insureds Required
+      hint: Do you need additional insured endorsements
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 17
+      name: certificate_requirements
+      label: Certificate of Insurance Requirements
+      hint: Will you need certificates for clients
+      type: select_one
+      options:
+      - Yes - frequently
+      - Yes - occasionally
+      - false
+      required: true
+    - id: 18
+      name: quote_timeline
+      label: Quote Timeline
+      hint: When do you need coverage
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 week
+      - Within 2 weeks
+      - Within 30 days
+      - Just shopping
+      required: true
+    - id: 19
+      name: payment_preference
+      label: Payment Preference
+      hint: Preferred payment method
+      type: select_one
+      options:
+      - Monthly installments
+      - Quarterly payments
+      - Annual payment
+      - Not sure
+      required: true
+    - id: 20
+      name: additional_services
+      label: Additional Services Interested In
+      hint: Select other services of interest
+      type: select_multiple
+      options:
+      - Risk management consultation
+      - Safety training
+      - Claims support
+      - Policy review
+      - None
+      required: false
+    - id: 21
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Online search
+      - Referral
+      - Advertisement
+      - Social media
+      - Other
+      required: false

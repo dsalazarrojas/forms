@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farmers' Market Event RSVP Form
+    pages:
+    - id: 1
+      name: vendor_details
+      label: Vendor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: visitor_count
+      label: Number of Visitors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vendor_count
+      label: Number of Vendors
+      hint: null
+      type: number
+      options: []
+      required: false

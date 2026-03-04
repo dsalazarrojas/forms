@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Report Review Request Form
+    pages:
+    - id: 1
+      name: lab_report_review_request_form
+      label: Request form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lab_report_review_request_id
+      label: request_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reviewer_email
+      label: reviewer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: lab_report
+      label: lab_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_upload
+      label: file_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Review in Progress''}'
+      - '{''label'': ''Reviewed''}'
+      - '{''label'': ''Rejected''}'
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_affiliation
+      label: submitter_affiliation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: lab_report_file_type
+      label: lab_report_file_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Lab Report''}'
+      - '{''label'': ''Other''}'
+      required: false

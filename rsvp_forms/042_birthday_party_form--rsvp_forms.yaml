@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birthday Party Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birthday Party RSVP --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: Please RSVP for the birthday party
+      hint: Complete this form to confirm your attendance
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_party_details
+      label: -- Party Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: birthday_celebrant
+      label: Birthday Celebrant Name
+      hint: Who is having the birthday
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: party_date
+      label: Party Date
+      hint: When is the party
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: party_time
+      label: Party Time
+      hint: What time does it start
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: party_location
+      label: Party Location
+      hint: Where is the party
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: guest_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: guest_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: guest_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_rsvp
+      label: -- RSVP Response --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: rsvp_response
+      label: Will You Attend
+      hint: Your RSVP response
+      type: select_one
+      options:
+      - Yes, I Will Attend
+      - No, I Cannot Attend
+      - Maybe, I Will Let You Know
+      required: true
+    - id: 14
+      name: number_attending
+      label: Number of People in Your Party
+      hint: How many are coming
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: children_attending
+      label: Number of Children
+      hint: How many children in your group
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: adults_attending
+      label: Number of Adults
+      hint: How many adults in your group
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: names_of_attendees
+      label: Names of People Attending
+      hint: List names of all attendees
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_preferences
+      label: -- Preferences and Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary needs or allergies
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut-Free
+      - Dairy-Free
+      - Other
+      - None
+      required: false
+    - id: 20
+      name: dietary_details
+      label: Dietary Details
+      hint: Describe specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Preferences
+      hint: Any other requests
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: allergies_warning
+      label: Allergies to Inform Party Host
+      hint: Important safety information
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: gift_registry
+      label: Gift Registry Information
+      hint: Where gifts can be purchased
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: shirt_size
+      label: Shirt Size
+      hint: For party favor or t-shirt
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 2XL
+      - 3XL
+      - Not Needed
+      required: false
+    - id: 26
+      name: transportation_needed
+      label: Need Transportation
+      hint: Do you need help with transportation
+      type: select_one
+      options:
+      - No, I Have Transportation
+      - Yes, Need Ride
+      - Maybe
+      required: false
+    - id: 27
+      name: plus_one_allowed
+      label: Can You Bring a Plus One
+      hint: Is a guest allowed
+      type: select_one
+      options:
+      - No, Just Me
+      - Yes, With Plus One
+      - Already Included in Count
+      required: true
+    - id: 28
+      name: special_occasion_note
+      label: Special Message or Note for Birthday Person
+      hint: Any message you'd like to share
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: confirmation_message
+      label: I confirm this RSVP information is accurate
+      hint: Check to confirm
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 31
+      name: contact_permission
+      label: May We Contact You to Confirm
+      hint: Permission to send confirmation
+      type: select_one
+      options:
+      - Yes, Contact Me
+      - No Contact Needed
+      required: false

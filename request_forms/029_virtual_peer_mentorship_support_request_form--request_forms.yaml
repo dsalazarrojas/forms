@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Peer Mentorship Support Request Form
+    pages:
+    - id: 1
+      name: request_form_1
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: school_program_name
+      label: school_program_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: program_duration
+      label: program_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: expected_start_date
+      label: expected_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: support_needed
+      label: support_needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mentorship_type
+      label: mentorship_type
+      hint: null
+      type: select_one
+      options:
+      - Virtual
+      - In-person
+      required: true
+    - id: 10
+      name: school_name
+      label: school_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: false

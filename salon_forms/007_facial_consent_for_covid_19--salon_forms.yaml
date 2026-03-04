@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facial Consent For COVID 19
+    pages:
+    - id: 1
+      name: consent_form
+      label: consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salon_info
+      label: salon_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_info
+      label: service_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: confirm_consent
+      label: confirm_consent
+      hint: null
+      type: select_one
+      options:
+      - Client understands and confirms that the above information is correct
+      - I do not confirm the above information
+      required: false
+    - id: 8
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false

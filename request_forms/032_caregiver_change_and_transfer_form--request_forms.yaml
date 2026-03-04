@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Change and Transfer Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client or Patient Name
+      hint: Person receiving care
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_id
+      label: Client ID Number
+      hint: Patient or account number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: effective_date
+      label: Effective Date of Change
+      hint: When should change take effect?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: requesting_party
+      label: Requesting Party
+      hint: Who is requesting this change?
+      type: select_one
+      options:
+      - Client or patient
+      - Family member
+      - Healthcare provider
+      - Care coordinator
+      - Agency staff
+      - Other
+      required: true
+    - id: 6
+      name: requesting_party_name
+      label: Name of Person Making Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requesting_party_phone
+      label: Contact Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: change_type
+      label: Type of Change Requested
+      hint: What change is being requested?
+      type: select_one
+      options:
+      - Substitute caregiver temporarily
+      - Permanent caregiver change
+      - Additional caregiver
+      - Reduce caregiver visits
+      - Change schedule or hours
+      - Transfer to different agency
+      - Caregiver reassignment
+      - Other
+      required: true
+    - id: 9
+      name: current_caregiver
+      label: Current Caregiver Name
+      hint: Person currently providing care
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_caregiver_id
+      label: Current Caregiver ID
+      hint: Employee or staff number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: new_caregiver
+      label: New Caregiver Name
+      hint: Proposed replacement or additional caregiver
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: new_caregiver_id
+      label: New Caregiver ID
+      hint: Employee or staff number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_change
+      label: Reason for Change Request
+      hint: Why is this change being requested?
+      type: select_one
+      options:
+      - Caregiver departure or termination
+      - Client preference or request
+      - Schedule conflict
+      - Personality or compatibility issue
+      - Skill or care level mismatch
+      - Client health or behavior change
+      - Increased care needs
+      - Decreased care needs
+      - Relocation
+      - Other reason
+      required: true
+    - id: 14
+      name: reason_details
+      label: Detailed Explanation of Reason
+      hint: Provide additional context
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_preference_stated
+      label: Client Preference Regarding Change
+      hint: Does client want this change?
+      type: select_one
+      options:
+      - Client requested change
+      - Client approves change
+      - Client neutral about change
+      - Client opposes change
+      - Client unable to express preference
+      required: true
+    - id: 16
+      name: family_notification
+      label: Has Family Been Notified?
+      hint: Notify family of pending change
+      type: select_one
+      options:
+      - Yes - family has been notified
+      - No - notification pending
+      - N/A - no family involvement
+      required: true
+    - id: 17
+      name: agency_approval
+      label: Agency or Provider Approval Status
+      hint: Has change been approved by agency?
+      type: select_one
+      options:
+      - Approved
+      - Pending approval
+      - Requires supervisor review
+      - Not yet submitted
+      required: true
+    - id: 18
+      name: temporary_coverage
+      label: If Temporary - Substitute Caregiver Details
+      hint: Name and availability
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: transition_plan
+      label: Transition Plan
+      hint: How will change be managed and transitioned?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: overlap_training
+      label: Overlap Period or Training Needed
+      hint: Will caregivers work together for transition?
+      type: select_one
+      options:
+      - Yes - overlap period scheduled
+      - No - direct handoff
+      - Yes - training required
+      - Undecided
+      required: false
+    - id: 21
+      name: overlap_duration
+      label: Overlap Duration
+      hint: How long for transition period?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: continuing_services
+      label: Services to Continue Uninterrupted
+      hint: What services must not be disrupted?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_instructions
+      label: Special Instructions for New Caregiver
+      hint: Important information for incoming caregiver
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: client_contact_method
+      label: How Will Client Be Notified?
+      hint: null
+      type: select_one
+      options:
+      - In-person meeting
+      - Phone call
+      - Email
+      - Family notification
+      - Combination of methods
+      required: true
+    - id: 25
+      name: documentation_location
+      label: Location of Client Care Documentation
+      hint: Where are care records kept?
+      type: select_one
+      options:
+      - Electronic health record
+      - Physical file at agency
+      - Client home
+      - Multiple locations
+      required: false
+    - id: 26
+      name: authorization_confirmation
+      label: I Authorize This Change Request
+      hint: Required for processing
+      type: select_one
+      options:
+      - Yes, I authorize
+      - No, I do not authorize
+      required: true
+    - id: 27
+      name: additional_notes
+      label: Additional Notes or Special Considerations
+      hint: Any other important information
+      type: text
+      options: []
+      required: false

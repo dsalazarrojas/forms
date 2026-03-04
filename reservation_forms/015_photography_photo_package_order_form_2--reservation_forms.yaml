@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Photo Package Order Form 2
+    pages:
+    - id: 1
+      name: reservation_event_type
+      label: Reservation Event Type
+      hint: null
+      type: select_one
+      options:
+      - Weddings, Birthday, Bridal shower, Baby Shower
+      - Other
+      required: false
+    - id: 2
+      name: photo_package
+      label: Package Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: photo_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: package_details
+      label: Package Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Easter Giveaway Form
+    pages:
+    - id: 1
+      name: easter_giveaway_form
+      label: easter giveaway form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: select one
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''label'': ''option1''}'
+      - '{''id'': 7.2, ''label'': ''option2''}'
+      - '{''id'': 7.3, ''label'': ''option3''}'
+      required: false
+    - id: 8
+      name: select_multiple
+      label: select multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8.1, ''label'': ''option1''}'
+      - '{''id'': 8.2, ''label'': ''option2''}'
+      - '{''id'': 8.3, ''label'': ''option3''}'
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: confirm email
+      hint: null
+      type: email
+      options: []
+      required: false

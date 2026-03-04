@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bachelorette Party Invitation Form
+    pages:
+    - id: 1
+      name: invitation_intro
+      label: -- You're Invited to Celebrate our Bride-to-Be! --
+      hint: Join us for a night to remember
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendance_rsvp
+      label: Can you make it?
+      hint: null
+      type: select_one
+      options:
+      - Yes, count me in!
+      - Sadly, I can't attend
+      required: true
+    - id: 4
+      name: party_guest_count
+      label: Total number of guests in your party
+      hint: Including yourself
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: dinner_preference
+      label: Dinner Choice
+      hint: null
+      type: select_one
+      options:
+      - Chicken Florentine
+      - Grilled Salmon
+      - Mushroom Risotto (Vegetarian)
+      - No preference
+      required: true
+    - id: 6
+      name: drink_of_choice
+      label: What's your favorite celebratory drink?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dietary_restrictions_party
+      label: Any allergies or dietary restrictions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: song_request_dance
+      label: Must-play song for the dance floor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: message_to_bride
+      label: Leave a sweet message for the Bride-to-be
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rsvp_confirmation_email
+      label: Your Email Address
+      hint: To send you the final itinerary and details
+      type: email
+      options: []
+      required: true

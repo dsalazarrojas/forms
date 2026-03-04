@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Resource Efficiency Application Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: resource_efficiency_project_name
+      label: Resource Efficiency Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: resource_request
+      label: Resource Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: resource_allocation
+      label: Resource Allocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resource_availability
+      label: Resource Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Completed
+      required: false
+    - id: 17
+      name: resource_requester
+      label: Resource Requester
+      hint: null
+      type: select_multiple
+      options:
+      - Store Manager
+      - District Manager
+      - Regional Manager
+      - Corporate
+      required: false

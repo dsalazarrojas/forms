@@ -1,0 +1,375 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Ambulance Check Form
+    pages:
+    - id: 1
+      name: ems_agency_name
+      label: EMS Agency Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: unit_number
+      label: Unit Number
+      hint: Ambulance identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: check_date
+      label: Check Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: check_time
+      label: Check Time
+      hint: Time of inspection
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: emt_name
+      label: EMT Name
+      hint: Performing inspection
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: emt_id
+      label: EMT ID Number
+      hint: Employee ID
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: partner_name
+      label: Partner Name
+      hint: Partner on duty
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: shift
+      label: Shift
+      hint: Current shift
+      type: select_one
+      options:
+      - Day Shift
+      - Evening Shift
+      - Night Shift
+      - 24 Hour Shift
+      required: true
+    - id: 9
+      name: section_header_1
+      label: -- Vehicle Exterior --
+      hint: Check all items
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: exterior_condition
+      label: Exterior Condition
+      hint: Body damage check
+      type: select_one
+      options:
+      - Good - No damage
+      - Fair - Minor damage noted
+      - Poor - Major damage
+      required: true
+    - id: 11
+      name: lights_sirens
+      label: Lights and Sirens
+      hint: Emergency equipment
+      type: select_one
+      options:
+      - Functional
+      - Partially Functional
+      - Not Functional
+      required: true
+    - id: 12
+      name: tires
+      label: Tires
+      hint: Condition and pressure
+      type: select_one
+      options:
+      - Good
+      - Fair - Monitor
+      - Poor - Needs replacement
+      required: true
+    - id: 13
+      name: fuel_level
+      label: Fuel Level
+      hint: Tank status
+      type: select_one
+      options:
+      - Full
+      - Three quarters
+      - Half
+      - Quarter
+      - Needs refueling
+      required: true
+    - id: 14
+      name: section_header_2
+      label: -- Vehicle Interior --
+      hint: Cabin and patient compartment
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: cab_cleanliness
+      label: Cab Cleanliness
+      hint: Driver area
+      type: select_one
+      options:
+      - Clean
+      - Needs cleaning
+      - Dirty
+      required: true
+    - id: 16
+      name: patient_compartment
+      label: Patient Compartment
+      hint: Condition and cleanliness
+      type: select_one
+      options:
+      - Clean and Ready
+      - Needs cleaning
+      - Not Ready
+      required: true
+    - id: 17
+      name: stretcher_condition
+      label: Stretcher Condition
+      hint: Functionality check
+      type: select_one
+      options:
+      - Fully Functional
+      - Minor Issues
+      - Major Issues
+      - Out of Service
+      required: true
+    - id: 18
+      name: section_header_3
+      label: -- Medical Equipment --
+      hint: All medical devices
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: oxygen_system
+      label: Oxygen System
+      hint: Supply and delivery
+      type: select_one
+      options:
+      - Full and Functional
+      - Adequate Supply
+      - Low - Needs refill
+      - Not Functional
+      required: true
+    - id: 20
+      name: bag_valve_mask
+      label: Bag Valve Mask
+      hint: BVM availability
+      type: select_one
+      options:
+      - Available and Functional
+      - Available - Needs check
+      - Missing
+      required: true
+    - id: 21
+      name: suction_unit
+      label: Suction Unit
+      hint: Portable and fixed
+      type: select_one
+      options:
+      - Functional
+      - Needs service
+      - Not Functional
+      - Not Available
+      required: true
+    - id: 22
+      name: defibrillator
+      label: Defibrillator Monitor
+      hint: AED or manual
+      type: select_one
+      options:
+      - Ready and Charged
+      - Ready - Low battery
+      - Not Ready
+      - Missing
+      required: true
+    - id: 23
+      name: airway_equipment
+      label: Airway Equipment
+      hint: Intubation supplies
+      type: select_one
+      options:
+      - Complete
+      - Partially Complete
+      - Incomplete
+      required: true
+    - id: 24
+      name: iv_supplies
+      label: IV Supplies
+      hint: Catheters fluids
+      type: select_one
+      options:
+      - Fully Stocked
+      - Adequate
+      - Low
+      - Depleted
+      required: true
+    - id: 25
+      name: medications
+      label: Medications
+      hint: Check expiration dates
+      type: select_one
+      options:
+      - All Present and Valid
+      - Present - Some expiring
+      - Missing medications
+      - Expired medications found
+      required: true
+    - id: 26
+      name: section_header_4
+      label: -- COVID-19 Specific Checks --
+      hint: Pandemic protocols
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: ppe_supply
+      label: PPE Supply
+      hint: Masks gloves gowns
+      type: select_one
+      options:
+      - Fully Stocked
+      - Adequate
+      - Low
+      - Critical - Needs restock
+      required: true
+    - id: 28
+      name: n95_masks
+      label: N95 Masks
+      hint: Quantity available
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: disinfectant_supplies
+      label: Disinfectant Supplies
+      hint: Cleaning materials
+      type: select_one
+      options:
+      - Fully Stocked
+      - Adequate
+      - Low
+      - Depleted
+      required: true
+    - id: 30
+      name: negative_pressure
+      label: Negative Pressure System
+      hint: If equipped
+      type: select_one
+      options:
+      - Functional
+      - Not Equipped
+      - Not Functional
+      - Not Tested
+      required: true
+    - id: 31
+      name: cab_barrier
+      label: Cab Barrier
+      hint: Partition condition
+      type: select_one
+      options:
+      - Installed and Good
+      - Installed - Needs repair
+      - Not Installed
+      required: true
+    - id: 32
+      name: section_header_5
+      label: -- Documentation --
+      hint: Required forms
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: run_reports
+      label: Run Report Forms
+      hint: PCR forms
+      type: select_one
+      options:
+      - Stocked
+      - Low
+      - Depleted
+      required: true
+    - id: 34
+      name: radio_functional
+      label: Radio Communication
+      hint: Test all channels
+      type: select_one
+      options:
+      - Fully Functional
+      - Partially Functional
+      - Not Functional
+      required: true
+    - id: 35
+      name: gps_functional
+      label: GPS System
+      hint: Navigation
+      type: select_one
+      options:
+      - Functional
+      - Not Functional
+      - Not Equipped
+      required: true
+    - id: 36
+      name: issues_found
+      label: Issues Found
+      hint: Describe any problems
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: corrective_action
+      label: Corrective Action Taken
+      hint: What was done
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: vehicle_status
+      label: Vehicle Status
+      hint: Overall readiness
+      type: select_one
+      options:
+      - In Service - Ready
+      - In Service - With Notes
+      - Out of Service
+      required: true
+    - id: 39
+      name: supervisor_notification
+      label: Supervisor Notification Required
+      hint: Does supervisor need to know
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 40
+      name: emt_signature
+      label: EMT Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 41
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false

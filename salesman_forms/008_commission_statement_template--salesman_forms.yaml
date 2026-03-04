@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Statement Template
+    pages:
+    - id: 1
+      name: statement_period_start
+      label: Statement period start date
+      hint: Start of earnings period
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: statement_period_end
+      label: Statement period end date
+      hint: End of earnings period
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: agent_name
+      label: Agent name
+      hint: Salesperson receiving statement
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: total_sales
+      label: Total sales for period
+      hint: Enter whole number currency amount
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: commission_rate
+      label: Commission rate percent
+      hint: Numeric percent used to calculate commission
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: commission_earned
+      label: Commission earned amount
+      hint: Calculated amount for the period
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: adjustments
+      label: Adjustments or deductions
+      hint: List any adjustments applied
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: net_payable
+      label: Net payable commission
+      hint: Final amount after adjustments
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_date
+      label: Payment date
+      hint: Planned commission payment date
+      type: date
+      options: []
+      required: false

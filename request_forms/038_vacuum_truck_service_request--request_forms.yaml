@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacuum Truck Service Request
+    pages:
+    - id: 1
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_requested
+      label: Service Requested
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Service 1'', ''value'': ''Service 1''}'
+      - '{''label'': ''Service 2'', ''value'': ''Service 2''}'
+      - '{''label'': ''Service 3'', ''value'': ''Service 3''}'
+      required: false
+    - id: 3
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Service 1'', ''value'': ''Service 1''}'
+      - '{''label'': ''Service 2'', ''value'': ''Service 2''}'
+      required: false
+    - id: 4
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location_of_service
+      label: Location of Service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Location 1'', ''value'': ''Location 1''}'
+      - '{''label'': ''Location 2'', ''value'': ''Location 2''}'
+      - '{''label'': ''Location 3'', ''value'': ''Location 3''}'
+      required: false
+    - id: 7
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Service 1'', ''value'': ''Service 1''}'
+      - '{''label'': ''Service 2'', ''value'': ''Service 2''}'
+      - '{''label'': ''Service 3'', ''value'': ''Service 3''}'
+      required: false

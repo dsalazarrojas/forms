@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Safety Checklist
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_handler_certification
+      label: Food Handler Certification
+      hint: Name of food handler certification
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: food_safety_training
+      label: Food Safety Training
+      hint: Date of food safety training
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: facility_safety_inspections
+      label: Facility Safety Inspections
+      hint: Number of facility safety inspections
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: equipment_cleaning_schedules
+      label: Equipment Cleaning Schedules
+      hint: Frequency of equipment cleaning
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: personal_protective_equipment
+      label: Personal Protective Equipment
+      hint: 'Examples: gloves, hairnets, etc.'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_procedures
+      label: Emergency Procedures
+      hint: Is there an emergency procedure?
+      type: select_multiple
+      options:
+      - Fire Evacuation Plan
+      - Allergen Response Plan
+      - Chemical Spill Response Plan
+      required: false
+    - id: 8
+      name: employee_training
+      label: Employee Training
+      hint: Date of employee training
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: employee_compliance
+      label: Employee Compliance
+      hint: null
+      type: select_one
+      options:
+      - All Employees
+      - Some Employees
+      - No Employees
+      required: false
+    - id: 10
+      name: food_hazard_planning
+      label: Food Hazard Planning
+      hint: Is food hazard planning in place?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: critical_control_points
+      label: Critical Control Points
+      hint: Number of critical control points
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: record_keeping
+      label: Record Keeping
+      hint: Types of record keeping (e.g. logs, journals, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pest_control
+      label: Pest Control
+      hint: null
+      type: select_multiple
+      options:
+      - Ants
+      - Flies
+      - Spiders
+      required: false
+    - id: 14
+      name: waste_disposal
+      label: Waste Disposal
+      hint: null
+      type: select_one
+      options:
+      - Composting
+      - Incineration
+      - Landfill
+      required: false
+    - id: 15
+      name: allergen_control
+      label: Allergen Control
+      hint: Is allergen control in place?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: food_temperature_control
+      label: Food Temperature Control
+      hint: Is food temperature control in place?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: food_handling
+      label: Food Handling
+      hint: Is food handling in place?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: food_storage_and_handling
+      label: Food Storage and Handling
+      hint: Is food storage and handling in place?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: food_handling_and_preparation
+      label: Food Handling and Preparation
+      hint: Is food handling and preparation in place?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: food_preparation_hygiene
+      label: Food Preparation Hygiene
+      hint: Is food preparation hygiene in place?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: food_storage_and_preparation
+      label: Food Storage and Preparation
+      hint: Is food storage and preparation in place?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: critical_control_points
+      label: Critical Control Points
+      hint: Types of critical control points (e.g. hand washing, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: corrective_action
+      label: Corrective Action
+      hint: Is corrective action in place?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: corrective_action_plan
+      label: Corrective Action Plan
+      hint: Is corrective action plan in place?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: corrective_action_reporting
+      label: Corrective Action Reporting
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

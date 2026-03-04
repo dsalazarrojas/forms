@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Attraction Satisfaction Assessment
+    pages:
+    - id: 1
+      name: tour_rating
+      label: Tour Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: staff_interaction
+      label: Staff Interaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attraction_impression
+      label: Attraction Impression
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: attraction_quality
+      label: Attraction Quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Great
+      - Excellent
+      required: false
+    - id: 6
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Great
+      - Excellent
+      required: false
+    - id: 7
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: visit_time
+      label: Visit Time
+      hint: null
+      type: time
+      options: []
+      required: false

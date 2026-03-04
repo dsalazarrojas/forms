@@ -1,0 +1,221 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Skin And Hair Care Consultation Form
+    pages:
+    - id: 1
+      name: skin_and_hair_care_form
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Normal'', ''value'': ''normal''}'
+      - '{''id'': 2, ''label'': ''Oily'', ''value'': ''oily''}'
+      - '{''id'': 3, ''label'': ''Sensitive'', ''value'': ''sensitive''}'
+      required: true
+    - id: 2
+      name: skin_condition_form
+      label: Skin Condition
+      hint: Describe your skin condition
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hair_condition_form
+      label: Hair Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fine'', ''value'': ''fine''}'
+      - '{''id'': 2, ''label'': ''Thinning'', ''value'': ''thinning''}'
+      - '{''id'': 3, ''label'': ''Damaged'', ''value'': ''damaged''}'
+      required: false
+    - id: 4
+      name: treatment_history_form
+      label: Treatment History
+      hint: Please provide your treatment history
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_conditions_form
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medications_form
+      label: Medications
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Acetaminophen'', ''value'': ''acetaminophen''}'
+      - '{''id'': 2, ''label'': ''Advil'', ''value'': ''advil''}'
+      - '{''id'': 3, ''label'': ''Ibuprofen'', ''value'': ''ibuprofen''}'
+      required: false
+    - id: 7
+      name: medical_allergies_form
+      label: Medical Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Penicillin'', ''value'': ''penicillin''}'
+      - '{''id'': 2, ''label'': ''Eczema'', ''value'': ''eczema''}'
+      - '{''id'': 3, ''label'': ''Latex'', ''value'': ''latex''}'
+      required: false
+    - id: 8
+      name: hair_treatment_form
+      label: Hair Treatment
+      hint: Please select your current hair treatment
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Shampoo'', ''value'': ''shampoo''}'
+      - '{''id'': 2, ''label'': ''Conditioner'', ''value'': ''conditioner''}'
+      - '{''id'': 3, ''label'': ''Serum'', ''value'': ''serum''}'
+      required: true
+    - id: 9
+      name: skin_care_plan_form
+      label: Skin Care Plan
+      hint: Describe your skin care plan
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hair_care_plan_form
+      label: Hair Care Plan
+      hint: Describe your hair care plan
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_form
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: notes_form
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skin_care_products_form
+      label: Skin Care Products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Moisturizer'', ''value'': ''moisturizer''}'
+      - '{''id'': 2, ''label'': ''Exfoliant'', ''value'': ''exfoliant''}'
+      - '{''id'': 3, ''label'': ''Cleanser'', ''value'': ''cleanser''}'
+      required: false
+    - id: 14
+      name: hair_care_products_form
+      label: Hair Care Products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Shampoo'', ''value'': ''shampoo''}'
+      - '{''id'': 2, ''label'': ''Conditioner'', ''value'': ''conditioner''}'
+      - '{''id'': 3, ''label'': ''Serum'', ''value'': ''serum''}'
+      required: false
+    - id: 15
+      name: skin_care_frequency_form
+      label: Skin Care Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly'', ''value'': ''monthly''}'
+      required: false
+    - id: 16
+      name: hair_care_frequency_form
+      label: Hair Care Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''daily''}'
+      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly'', ''value'': ''monthly''}'
+      required: false
+    - id: 17
+      name: follow_up_date_form
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: follow_up_time_form
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_contact_method_form
+      label: Follow Up Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 2, ''label'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 3, ''label'': ''Text'', ''value'': ''text''}'
+      required: true
+    - id: 20
+      name: client_name_form
+      label: Client Name
+      hint: Please enter client name
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: client_phone_number_form
+      label: Client Phone Number
+      hint: Please enter client phone number
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: client_email_form
+      label: Client Email
+      hint: Please enter client email
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: client_address_form
+      label: Client Address
+      hint: Please enter client address
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: practitioner_name_form
+      label: Practitioner Name
+      hint: Please enter practitioner name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: practitioner_phone_number_form
+      label: Practitioner Phone Number
+      hint: Please enter practitioner phone number
+      type: text
+      options: []
+      required: true

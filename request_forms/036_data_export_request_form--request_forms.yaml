@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Export Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: select_one
+      label: How do you want to receive your data?
+      hint: null
+      type: select_one
+      options:
+      - Export via CSV
+      - Export via Excel
+      - Export via Google Sheets
+      required: true
+    - id: 7
+      name: select_multiple
+      label: What data do you want to export?
+      hint: null
+      type: select_multiple
+      options:
+      - Data from database
+      - Data from API
+      - Data from another source
+      required: true
+    - id: 8
+      name: note
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false

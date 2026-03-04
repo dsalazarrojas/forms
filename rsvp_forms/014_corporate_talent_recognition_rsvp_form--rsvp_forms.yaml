@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_talent_recognition_rsvp_form
+    pages:
+    - id: 1
+      name: rsvp_details
+      label: rsvp_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: guest_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: guest_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guest_phone
+      label: guest_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferences
+      label: preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: true
+    - id: 6
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rsvp_time
+      label: rsvp_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: guest_count
+      label: guest_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: is_attending
+      label: is_attending
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': False, ''value'': False}'
+      - '{''label'': True, ''value'': True}'
+      required: true
+    - id: 12
+      name: will_brings
+      label: will_brings
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 13
+      name: will_share
+      label: will_share
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 14
+      name: will_dance
+      label: will_dance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 15
+      name: will_eat
+      label: will_eat
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 16
+      name: will_drink
+      label: will_drink
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 17
+      name: will_park
+      label: will_park
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 18
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: will_help
+      label: will_help
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Option 1'', ''value'': ''option1''}'
+      - '{''label'': ''Option 2'', ''value'': ''option2''}'
+      required: false
+    - id: 20
+      name: rsvp_date
+      label: rsvp_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: host_name
+      label: host_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: host_email
+      label: host_email
+      hint: null
+      type: email
+      options: []
+      required: false

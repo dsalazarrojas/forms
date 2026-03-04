@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laboratory Requisition Form
+    pages:
+    - id: 1
+      name: laboratory_request
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_request
+      label: Test Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_clinic
+      label: Medical Clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: test_name
+      label: Test Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_multiple
+      options:
+      - Blood Test
+      - Urine Test
+      - Other
+      required: false
+    - id: 6
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_one
+      options:
+      - Ordered
+      - Received
+      - Cancelled
+      required: false
+    - id: 7
+      name: lab_test_request
+      label: Lab Test Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: laboratory_requisition_date
+      label: Laboratory Requisition Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: laboratory_test_requester
+      label: Laboratory Test Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: test_ordering_date
+      label: Test Ordering Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: lab_test_requested_by
+      label: Lab Test Requested by
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: laboratory_requisition_form_id
+      label: Laboratory Requisition Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 15
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Pending
+      required: false
+    - id: 16
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: laboratory_requisition_status
+      label: Laboratory Requisition Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Completed
+      required: false
+    - id: 18
+      name: test_ordering_time
+      label: Test Ordering Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: laboratory_requester_info
+      label: Laboratory Requester Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: test_ordered_by
+      label: Test Ordered by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lab_test_results
+      label: Lab Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: laboratory_test_result_status
+      label: Laboratory Test Result Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Cancelled
+      required: false
+    - id: 23
+      name: test_requested_time
+      label: Test Requested Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: laboratory_requisition_form_category
+      label: Laboratory Requisition Form Category
+      hint: null
+      type: select_one
+      options:
+      - Request Forms
+      - Laboratory Forms
+      required: false
+    - id: 25
+      name: laboratory_test_requested_time
+      label: Laboratory Test Requested Time
+      hint: null
+      type: time
+      options: []
+      required: false

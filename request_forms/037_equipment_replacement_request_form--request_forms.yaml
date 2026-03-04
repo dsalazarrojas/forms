@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Replacement Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_name
+      label: Equipment Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_replacement
+      label: Reason for Replacement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: part_number
+      label: Part Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: requestor_email
+      label: Requestor E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: requestor_phone
+      label: Requestor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: asset_number
+      label: Asset Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: asset_serial_number
+      label: Asset Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: asset_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: asset_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: true
+    - id: 18
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Repair
+      required: true
+    - id: 19
+      name: assigned_to
+      label: Assinged To
+      hint: null
+      type: select_multiple
+      options:
+      - Chatjimmy
+      - Other
+      required: false
+    - id: 20
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - High
+      - Low
+      required: true
+    - id: 21
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_email
+      label: Submitter E-mail
+      hint: null
+      type: email
+      options: []
+      required: true

@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Media Partner Luncheon RSVP
+    pages:
+    - id: 1
+      name: media_partner_luncheon_rsvp
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: media_partner_luncheon_rsvp_guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: media_partner_luncheon_rsvp_dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''label'': ''Gluten-free''}, {''value'': ''gluten-free''},
+        {''label'': ''Vegetarian''}, {''value'': ''vegetarian''}, {''label'': ''Vegan''},
+        {''value'': ''vegan''}]}'
+      - Other
+      required: true
+    - id: 4
+      name: media_partner_luncheon_rsvp_guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: media_partner_luncheon_rsvp_dietary_comment
+      label: Dietary Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: media_partner_luncheon_rsvp_dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''No Restrictions'', ''value'': ''no_restrictions''}'
+      - '{''label'': ''Gluten-free'', ''value'': ''gluten-free''}'
+      - '{''label'': ''Vegetarian'', ''value'': ''vegetarian''}'
+      - '{''label'': ''Vegan'', ''value'': ''vegan''}'
+      required: false
+    - id: 7
+      name: media_partner_luncheon_rsvp_special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: media_partner_luncheon_rsvp_rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Accept'', ''value'': ''accept''}'
+      - '{''label'': ''Decline'', ''value'': ''decline''}'
+      required: true
+    - id: 9
+      name: media_partner_luncheon_rsvp_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: media_partner_luncheon_rsvp_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: media_partner_luncheon_rsvp_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: media_partner_luncheon_rsvp_guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: media_partner_luncheon_rsvp_organization
+      label: Organization
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': ''none''}'
+      - '{''label'': ''Company 1'', ''value'': ''company-1''}'
+      - '{''label'': ''Company 2'', ''value'': ''company-2''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 14
+      name: media_partner_luncheon_rsvp_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: media_partner_luncheon_rsvp_function
+      label: Function
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''None'', ''value'': ''none''}'
+      - '{''label'': ''CEO'', ''value'': ''ceo''}'
+      - '{''label'': ''CFO'', ''value'': ''cfo''}'
+      - '{''label'': ''CTO'', ''value'': ''cto''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 16
+      name: media_partner_luncheon_rsvp_dietary_special_requests
+      label: Dietary Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: media_partner_luncheon_rsvp_dietary_restrictions_comment
+      label: Dietary Restrictions Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: media_partner_luncheon_rsvp_dietary_restrictions_2
+      label: Dietary Restrictions 2
+      hint: null
+      type: text
+      options: []
+      required: false

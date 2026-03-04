@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strategic Cost Analysis Request Form
+    pages:
+    - id: 1
+      name: form_request
+      label: Form Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: budget
+      label: Budget
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_status_note
+      label: Project Status Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_request_note
+      label: Form Request Note
+      hint: null
+      type: note
+      options: []
+      required: false

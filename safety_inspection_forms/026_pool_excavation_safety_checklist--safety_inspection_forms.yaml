@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pool Excavation Safety Checklist
+    pages:
+    - id: 1
+      name: pool_excavation_safety_checklist_form
+      label: Pool Excavation
+      hint: Checklist for pool excavation inspections
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_name
+      label: Supervisor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_email
+      label: Supervisor's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_phone
+      label: Supervisor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: pool_type
+      label: Pool Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Other
+      required: false
+    - id: 8
+      name: hazards_observed
+      label: Hazards Observed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: hazards_corrected
+      label: Hazards Corrected
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

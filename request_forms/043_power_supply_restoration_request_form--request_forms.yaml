@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Supply Restoration Request Form
+    pages:
+    - id: 1
+      name: facility_manager_id
+      label: Facility Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: outage_date
+      label: Outage Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: outage_time
+      label: Outage Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: affected_customers
+      label: Affected Customers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: power_supply_systems_affected
+      label: Power Supply Systems Affected
+      hint: null
+      type: select_multiple
+      options:
+      - Power Lines
+      - Transformer
+      - Distribution
+      - Transmission
+      required: false
+    - id: 9
+      name: restoration_status
+      label: Restoration Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Cancelled
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: number
+      options: []
+      required: false

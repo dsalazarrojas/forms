@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Escalator Incident Form
+    pages:
+    - id: 1
+      name: escalator_incident_form_1
+      label: escalator_incident_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: escalator_incident_description
+      label: escalator_incident_description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: escalator_location
+      label: escalator_location_label
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: escalation_procedure
+      label: escalation_procedure_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: escalator_mechanic
+      label: escalator_mechanic
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: escalator_rider
+      label: escalator_rider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: escalator_date
+      label: escalator_date_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: escalator_time
+      label: escalator_time_label
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: escalator_note
+      label: escalator_note_label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: escalator_email
+      label: escalator_email_label
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: escalator_phone
+      label: escalator_phone_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: escalator_incident_image
+      label: escalator_incident_image_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: escalator_incident_video
+      label: escalator_incident_video_label
+      hint: null
+      type: text
+      options: []
+      required: false

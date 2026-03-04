@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heat Stress Survey
+    pages:
+    - id: 1
+      name: workplace_location
+      label: Workplace Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workday
+      label: Workday
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_worked
+      label: Time Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: heat_stress_level
+      label: Heat Stress Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: heat_stress_symptoms
+      label: Heat Stress Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: heat_stress_precautions
+      label: Heat Stress Precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false

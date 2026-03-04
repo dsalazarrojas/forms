@@ -1,0 +1,229 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cable Hauling Safety Assessment
+    pages:
+      - id: 1
+        name: inspector_name
+        label: Inspector Name
+        hint: Name of safety inspector
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: inspection_date
+        label: Inspection Date
+        hint: Date of safety assessment
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: site_location
+        label: Site Location
+        hint: Work site or project location
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: company_name
+        label: Company Name
+        hint: Contracting company name
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: cable_system_type
+        label: Cable System Type
+        hint: Type of cable hauling system
+        type: select_one
+        options:
+          - Temporary cableway
+          - Permanent installation
+          - Portable system
+          - Tower crane cable
+          - Other
+        required: true
+      - id: 6
+        name: cable_diameter
+        label: Cable Diameter
+        hint: Size of main cable
+        type: select_one
+        options:
+          - Under 1 inch
+          - 1-2 inches
+          - 2-3 inches
+          - Over 3 inches
+          - Not measured
+        required: false
+      - id: 7
+        name: cable_condition
+        label: Cable Condition
+        hint: Overall state of cable
+        type: select_one
+        options:
+          - Excellent - no wear
+          - Good - minor wear
+          - Fair - monitor closely
+          - Poor - replace soon
+          - Critical - replace immediately
+        required: true
+      - id: 8
+        name: anchor_points_inspected
+        label: Anchor Points Inspected
+        hint: Were all anchor points checked
+        type: select_one
+        options:
+          - Yes, all secure
+          - Yes, minor concerns
+          - No, some inaccessible
+          - Critical issues found
+        required: true
+      - id: 9
+        name: tension_check
+        label: Cable Tension Check
+        hint: Is cable properly tensioned
+        type: select_one
+        options:
+          - Proper tension
+          - Slightly loose
+          - Too loose
+          - Over-tensioned
+          - Not checked
+        required: true
+      - id: 10
+        name: pulley_system_condition
+        label: Pulley System Condition
+        hint: State of pulleys and sheaves
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair - needs lubrication
+          - Poor - needs replacement
+          - Not inspected
+        required: true
+      - id: 11
+        name: load_capacity_verified
+        label: Load Capacity Verified
+        hint: Has load capacity been confirmed
+        type: select_one
+        options:
+          - Yes, within limits
+          - Yes, at maximum
+          - Unknown
+          - Not verified
+        required: true
+      - id: 12
+        name: safety_devices_present
+        label: Safety Devices Present
+        hint: Are all safety devices in place
+        type: select_one
+        options:
+          - All present and functional
+          - Present but some faulty
+          - Some missing
+          - None present
+        required: true
+      - id: 13
+        name: emergency_brake_tested
+        label: Emergency Brake Tested
+        hint: Has emergency brake been tested
+        type: select_one
+        options:
+          - Yes, passed
+          - Yes, failed
+          - Not tested
+          - Not applicable
+        required: true
+      - id: 14
+        name: operator_certification
+        label: Operator Certification
+        hint: Is operator properly certified
+        type: select_one
+        options:
+          - Certified and current
+          - Certified but expired
+          - In training
+          - Not certified
+        required: true
+      - id: 15
+        name: ppe_compliance
+        label: PPE Compliance
+        hint: Are workers wearing proper PPE
+        type: select_one
+        options:
+          - Full compliance
+          - Minor violations
+          - Multiple violations
+          - Non-compliant
+        required: true
+      - id: 16
+        name: weather_conditions
+        label: Weather Conditions
+        hint: Weather during inspection
+        type: select_one
+        options:
+          - Clear and dry
+          - Overcast
+          - Light rain
+          - Heavy rain
+          - High winds
+          - Other
+        required: false
+      - id: 17
+        name: hazards_identified
+        label: Hazards Identified
+        hint: List any safety hazards found
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: corrective_actions
+        label: Corrective Actions Required
+        hint: What actions must be taken
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: overall_assessment
+        label: Overall Safety Assessment
+        hint: Is system safe to operate
+        type: select_one
+        options:
+          - Safe to operate
+          - Safe with minor corrections
+          - Restricted operation
+          - Unsafe - do not operate
+        required: true
+      - id: 20
+        name: next_inspection_date
+        label: Next Inspection Date
+        hint: When is next required inspection
+        type: date
+        options: []
+        required: false
+      - id: 21
+        name: inspector_signature
+        label: Inspector Signature
+        hint: Digital signature or initials
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other safety observations
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporate_event_pass_reservation
+    pages:
+    - id: 1
+      name: corporate_event_pass_reservation
+      label: Corporate Event Pass Reservation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reservation_info
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pass_info
+      label: pass_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type 1''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      - '{''id'': 3, ''label'': ''Type 3''}'
+      required: false
+    - id: 4
+      name: attendee_details
+      label: attendee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: pass_type
+      label: pass_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_date
+      label: event_date
+      hint: null
+      type: text
+      options: []
+      required: false

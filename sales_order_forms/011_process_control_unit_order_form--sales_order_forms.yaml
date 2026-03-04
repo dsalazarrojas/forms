@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Control Unit Order Form
+    pages:
+    - id: 1
+      name: unit_selections
+      label: Unit Selections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payments
+      label: Payments
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online Payment''}'
+      - '{''id'': 2, ''label'': ''Offline Payment''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 4
+      name: unit_selections_1
+      label: Unit Selections 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: unit_selections_2
+      label: Unit Selections 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Unit 1''}'
+      - '{''id'': 2, ''label'': ''Unit 2''}'
+      required: false
+    - id: 6
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false

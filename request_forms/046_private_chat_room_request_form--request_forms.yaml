@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Chat Room Request Form
+    pages:
+    - id: 1
+      name: new_private_chat_room_request_form_page_one
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: new_private_chat_room_request_form_page_two
+      label: Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: private_chat_room_purposes
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: private_chat_room_access_preferences
+      label: Access Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: private_chat_room_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: new_private_chat_room_request_form_page_three
+      label: Review and Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: new_private_chat_room_request_form_review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: new_private_chat_room_request_form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotion Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporting_manager_confirmation
+      label: Manager Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: promotion_status
+      label: Promotion Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: Employee email address
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: reporting_manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reporting_manager_ext
+      label: Manager Extension
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reporting_manager_ext_type
+      label: Extension Type
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      required: true
+    - id: 18
+      name: reporting_manager_ext_id
+      label: Extension ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: job_title_id
+      label: Job Title ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reporting_manager_id
+      label: Reporting Manager ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: department_id
+      label: Department ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: job_title_name
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reporting_manager_name
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false

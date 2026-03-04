@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boundary Cancellation Request Form
+    pages:
+    - id: 1
+      name: requester_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_title
+      label: Title or Position
+      hint: Your job title or position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_address
+      label: Organization Address
+      hint: Complete business address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: requester_email
+      label: Email Address
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: boundary_type
+      label: Boundary Type
+      hint: What type of boundary needs cancellation
+      type: select_one
+      options:
+      - Property boundary
+      - Service area boundary
+      - Jurisdictional boundary
+      - Administrative boundary
+      - Voting district boundary
+      - School district boundary
+      - Utility service boundary
+      - Other
+      required: true
+    - id: 10
+      name: boundary_identifier
+      label: Boundary Identifier
+      hint: Official boundary name or number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: cancellation_reason
+      label: Reason for Cancellation
+      hint: Why is this boundary being cancelled
+      type: select_one
+      options:
+      - Merger with adjacent area
+      - Administrative reorganization
+      - Legal requirement
+      - Property sale or transfer
+      - Error in original boundary
+      - No longer needed
+      - Other
+      required: true
+    - id: 12
+      name: cancellation_reason_detail
+      label: Detailed Explanation
+      hint: Provide detailed explanation for cancellation
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: affected_area
+      label: Affected Area
+      hint: Description of area affected by cancellation
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: affected_area_size
+      label: Affected Area Size
+      hint: Approximate size in acres or square feet
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: legal_description
+      label: Legal Description
+      hint: Legal description of property or area
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: parcel_numbers
+      label: Parcel Numbers
+      hint: Any relevant parcel or lot numbers
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List documents attached to support request
+      type: select_multiple
+      options:
+      - Survey map
+      - Legal deed
+      - Property title
+      - Court order
+      - Government resolution
+      - Authorization letter
+      - Other documentation
+      required: true
+    - id: 18
+      name: stakeholder_notification
+      label: Stakeholder Notification
+      hint: Have affected parties been notified
+      type: select_one
+      options:
+      - Yes, all notified
+      - Partially notified
+      - No notification yet
+      - Not applicable
+      required: true
+    - id: 19
+      name: public_hearing_required
+      label: Public Hearing Required
+      hint: Is a public hearing needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 20
+      name: public_hearing_date
+      label: Public Hearing Date
+      hint: If applicable, scheduled date
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: effective_date
+      label: Requested Effective Date
+      hint: When should cancellation take effect
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: replacement_boundary
+      label: Replacement Boundary
+      hint: Will a new boundary replace this one
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: replacement_boundary_details
+      label: Replacement Boundary Details
+      hint: Describe the new boundary if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: authorization_level
+      label: Authorization Level Required
+      hint: What level of approval is needed
+      type: select_one
+      options:
+      - Department level
+      - Manager level
+      - Director level
+      - Executive level
+      - Board approval
+      - Government approval
+      required: true
+    - id: 25
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

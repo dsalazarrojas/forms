@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: volunteer-break-schedule-request-form
+    pages:
+    - id: 1
+      name: volunteer_break_schedule_request
+      label: Volunteer Break Schedule Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_break_schedule_date
+      label: volunteer_break_schedule_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_break_duration
+      label: volunteer_break_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_break_start_time
+      label: volunteer_break_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_break_end_time
+      label: volunteer_break_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_break_type
+      label: volunteer_break_type
+      hint: null
+      type: select_one
+      options:
+      - Morning Break
+      - Lunch
+      - Afternoon Break
+      required: true
+    - id: 7
+      name: volunteer_name
+      label: volunteer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_email
+      label: volunteer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_phone
+      label: volunteer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_contact_method
+      label: manager_contact_method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      required: true
+    - id: 14
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: manager_approvals
+      label: manager_approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Defensive Driving Safety Quiz
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Car
+      - Motorcycle
+      - Truck
+      required: true
+    - id: 7
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_one
+      options:
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      required: false
+    - id: 8
+      name: vehicle_makes
+      label: Vehicle Make
+      hint: null
+      type: select_multiple
+      options:
+      - Toyota
+      - Honda
+      - Ford
+      - Chevrolet
+      required: false
+    - id: 9
+      name: vehicle_models
+      label: Vehicle Model
+      hint: null
+      type: select_multiple
+      options:
+      - Camry
+      - Civic
+      - Mustang
+      required: false
+    - id: 10
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: null
+      type: select_multiple
+      options:
+      - '12345678'
+      - '98765431'
+      - '4198234'
+      required: false
+    - id: 11
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: instructor_title
+      label: Instructor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 14
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: course_hours
+      label: Course Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: score_1
+      label: Score 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: score_2
+      label: Score 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: score_3
+      label: Score 3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: score_4
+      label: Score 4
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: score_5
+      label: Score 5
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

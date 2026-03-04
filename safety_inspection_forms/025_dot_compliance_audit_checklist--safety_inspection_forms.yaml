@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: DOT Compliance Audit Checklist
+    pages:
+    - id: 1
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: true
+    - id: 2
+      name: driver_license
+      label: Driver License
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: vehicle_inspection
+      label: Vehicle Inspection
+      hint: null
+      type: select_one
+      options:
+      - Passed
+      - Failed
+      required: true
+    - id: 4
+      name: vehicle_equipment
+      label: Vehicle Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: vehicle_maintenance
+      label: Vehicle Maintenance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: vehicle_defect
+      label: Vehicle Defect
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'Yes'
+      required: true
+    - id: 7
+      name: driver_training
+      label: Driver Training
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_length
+      label: Vehicle Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: vehicle_width
+      label: Vehicle Width
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_height
+      label: Vehicle Height
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: vehicle_speed_limit
+      label: Vehicle Speed Limit
+      hint: null
+      type: select_one
+      options:
+      - '0'
+      - '10'
+      - '20'
+      - '30'
+      required: true
+    - id: 13
+      name: vehicle_gross_weight_rating
+      label: Vehicle Gross Weight Rating
+      hint: null
+      type: select_one
+      options:
+      - Class A
+      - Class B
+      - Class C
+      required: true
+    - id: 14
+      name: vehicle_use
+      label: Vehicle Use
+      hint: null
+      type: select_multiple
+      options:
+      - Passenger
+      - Cargo
+      required: true
+    - id: 15
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: vehicle_make
+      label: Make
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_model
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: driver_address
+      label: Driver Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Tractor
+      - Trailer
+      required: false
+    - id: 22
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: driver_license_state
+      label: Driver License State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: vehicle_inspection_date
+      label: Vehicle Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true

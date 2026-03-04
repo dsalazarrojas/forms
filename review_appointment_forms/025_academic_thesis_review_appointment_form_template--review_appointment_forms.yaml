@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Thesis Review Appointment Form Template
+    pages:
+    - id: 1
+      name: form_header
+      label: -- Academic Thesis Review Appointment Form --
+      hint: Schedule your thesis review meeting with your advisor. Please fill in
+        all required fields.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Student email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: student_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: Student ID number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: degree_program
+      label: Degree program
+      hint: null
+      type: select_one
+      options:
+      - Masters Thesis
+      - Doctoral Dissertation
+      - Honors Thesis
+      - Capstone Project
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: thesis_title
+      label: Thesis or dissertation title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: advisor_name
+      label: Thesis advisor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: advisor_email
+      label: Thesis advisor email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: review_type
+      label: Type of review requested
+      hint: null
+      type: select_one
+      options:
+      - Proposal review
+      - Chapter draft review
+      - Full draft review
+      - Final defense preparation
+      - Formatting and submission review
+      required: true
+    - id: 13
+      name: preferred_date
+      label: Preferred appointment date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: preferred_time
+      label: Preferred appointment time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: alternative_date
+      label: Alternative date (if first choice is unavailable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: meeting_format
+      label: Preferred meeting format
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Video call
+      - Phone call
+      - No preference
+      required: true
+    - id: 17
+      name: discussion_topics
+      label: Specific topics or questions you want to discuss during the review
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_notes
+      label: Any additional notes for your advisor
+      hint: null
+      type: text
+      options: []
+      required: false

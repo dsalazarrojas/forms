@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_app_integration_request_form
+    pages:
+    - id: 1
+      name: app_details
+      label: App Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: app_id
+      label: app_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: domain
+      label: domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: use_cases
+      label: use_cases
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: documentation
+      label: documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: integration_type
+      label: integration_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''saas''}'
+      - '{''id'': 2, ''label'': ''partner''}'
+      - '{''id'': 3, ''label'': ''custom''}'
+      required: false
+    - id: 8
+      name: team
+      label: team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''saas''}'
+      - '{''id'': 2, ''label'': ''partner''}'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

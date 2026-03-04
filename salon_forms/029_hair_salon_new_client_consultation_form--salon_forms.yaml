@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Salon New Client Consultation Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: style_preferences
+      label: Style Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Dry Hair
+      - Oily Hair
+      - Curly Hair
+      - Straight Hair
+      required: true
+    - id: 4
+      name: hair_texture
+      label: Hair Texture
+      hint: null
+      type: select_multiple
+      options:
+      - Fine
+      - Coarse
+      - Medium
+      required: true
+    - id: 5
+      name: face_shape
+      label: Face Shape
+      hint: null
+      type: select_one
+      options:
+      - Oval
+      - Round
+      - Square
+      - Heart-Shaped
+      required: true
+    - id: 6
+      name: hair_length
+      label: Hair Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_color_scheme
+      label: Preferred Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Neutral
+      - Bright
+      - Vibrant
+      required: true
+    - id: 9
+      name: hair_styling_frequency
+      label: Hair Styling Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      required: true
+    - id: 15
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: stylist_name
+      label: Stylist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: stylist_phone
+      label: Stylist Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: stylist_email
+      label: Stylist Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: appointment_duration
+      label: Appointment Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: additional_staff
+      label: Additional Staff
+      hint: null
+      type: select_multiple
+      options:
+      - Stylist
+      - Barber
+      required: true
+    - id: 22
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: select_multiple
+      options:
+      - Color
+      - Cut
+      - Style
+      required: false
+    - id: 23
+      name: special_services
+      label: Special Services
+      hint: null
+      type: select_multiple
+      options:
+      - Haircut
+      - Coloring
+      - Highlights
+      required: false
+    - id: 24
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Haircut
+      - Coloring
+      - Highlights
+      required: true
+    - id: 25
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

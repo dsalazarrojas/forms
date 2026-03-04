@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Renewable Fuel Usage Application Form
+    pages:
+    - id: 1
+      name: project_request
+      label: Project Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fuel_type
+      label: Fuel Type
+      hint: null
+      type: select_one
+      options:
+      - Natural Gas
+      - Diesel
+      - Ethanol
+      - Propane
+      required: true
+    - id: 3
+      name: quantity_used
+      label: Quantity Used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: fuel_usage_notes
+      label: Fuel Usage Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_documents
+      label: Submit Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Document 1
+      - Document 2
+      - Document 3
+      required: true
+    - id: 9
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_manager_name
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_manager_title
+      label: Project Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false

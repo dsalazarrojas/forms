@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: itw_inventory_form
+    pages:
+    - id: 1
+      name: form_group_1
+      label: first page
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: group_2
+      label: second page
+      hint: Select multiple items
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      - item4
+      - item5
+      - item6
+      - item7
+      required: true
+    - id: 3
+      name: group_2
+      label: third page
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      - item3
+      required: true
+    - id: 4
+      name: group_2
+      label: fourth page
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: group_5
+      label: fifth page
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: group_6
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: group_7
+      label: seventh page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: group_8
+      label: eighth page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: group_9
+      label: ninth page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: group_10
+      label: tenth page
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: group_11
+      label: eleventh page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: group_12
+      label: twelfth page
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      - item3
+      required: true
+    - id: 13
+      name: group_13
+      label: thirteenth page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: group_14
+      label: fourteenth page
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: group_15
+      label: fifteenth page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

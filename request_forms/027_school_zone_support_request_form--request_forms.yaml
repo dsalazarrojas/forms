@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Zone Support Request Form
+    pages:
+    - id: 1
+      name: school_zone_support_request_form
+      label: School Zone Support Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: school_zone_name
+      label: School Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: school_zone_location
+      label: School Zone Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: school_zone_issue_description
+      label: School Zone Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_zone_assistance_request
+      label: School Zone Assistance Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_zone_support_request_date
+      label: School Zone Support Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: school_zone_support_request_time
+      label: School Zone Support Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: school_zone_contact_person
+      label: School Zone Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_zone_email
+      label: School Zone Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: school_zone_phone
+      label: School Zone Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_zone_comments
+      label: School Zone Comments
+      hint: null
+      type: note
+      options: []
+      required: false

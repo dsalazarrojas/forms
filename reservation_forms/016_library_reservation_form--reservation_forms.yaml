@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Reservation Form
+    pages:
+    - id: 1
+      name: library_reservation_form
+      label: Reservation Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: author
+      label: Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: publication_date
+      label: Publication Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: book_copy_condition
+      label: Book Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Damaged
+      required: false
+    - id: 7
+      name: book_status
+      label: Book Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Unvailable
+      - Reserved
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

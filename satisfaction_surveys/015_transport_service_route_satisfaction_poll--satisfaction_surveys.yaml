@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Transport Service Route Satisfaction Poll
+    pages:
+    - id: 1
+      name: route_performance
+      label: how_was_the_route_performance
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      - Fair
+      required: false
+    - id: 2
+      name: route_usefulness
+      label: how_useful_was_the_route
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: route_satisfaction
+      label: how_satisfied_are_you_with_the_route
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: route_frequency
+      label: how_frequently_do_you_use_this_route
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 5
+      name: route_recommendation
+      label: would_you_recommend_this_route_to_a_friend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: route_suggestions
+      label: do_you_have_any_suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: route_comments
+      label: any_comments_about_the_route
+      hint: null
+      type: note
+      options: []
+      required: false

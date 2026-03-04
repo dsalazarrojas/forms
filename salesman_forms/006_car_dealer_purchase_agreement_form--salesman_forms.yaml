@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Dealer Purchase Agreement Form
+    pages:
+    - id: 1
+      name: buyer_information
+      label: Buyer Information
+      hint: Please provide buyer details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: buyer_first_name
+      label: Buyer First Name
+      hint: Legal first name of buyer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_last_name
+      label: Buyer Last Name
+      hint: Legal last name of buyer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: buyer_email
+      label: Buyer Email
+      hint: Email address for contract communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: buyer_phone
+      label: Buyer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: buyer_address
+      label: Buyer Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: buyer_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: buyer_state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: buyer_zip
+      label: ZIP Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: buyer_license_number
+      label: Driver's License Number
+      hint: Buyer's driver's license number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: buyer_license_state
+      label: License State
+      hint: State that issued the license
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: co_buyer_information
+      label: Co-Buyer Information (Optional)
+      hint: If applicable
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: co_buyer_name
+      label: Co-Buyer Name
+      hint: Full name of co-buyer
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: co_buyer_email
+      label: Co-Buyer Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_information
+      label: Vehicle Information
+      hint: Details of the vehicle being purchased
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year of vehicle
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: vehicle_vin
+      label: VIN
+      hint: Vehicle Identification Number
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: vehicle_color
+      label: Vehicle Color
+      hint: Exterior color
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: vehicle_mileage
+      label: Current Mileage
+      hint: Odometer reading at time of sale
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: vehicle_stock_number
+      label: Stock Number
+      hint: Dealer stock number
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: purchase_details
+      label: Purchase Details
+      hint: Financial details of the purchase
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: purchase_price
+      label: Purchase Price
+      hint: Agreed purchase price in dollars
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: trade_in_vehicle
+      label: Trade-In Vehicle
+      hint: Is there a trade-in?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: trade_in_value
+      label: Trade-In Value
+      hint: Agreed trade-in value
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: down_payment
+      label: Down Payment
+      hint: Amount paid upfront
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: financing_method
+      label: Financing Method
+      hint: How will the vehicle be financed?
+      type: select_one
+      options:
+      - Cash
+      - Dealer Financing
+      - Bank Loan
+      - Credit Union
+      - Lease
+      required: true
+    - id: 29
+      name: additional_fees
+      label: Additional Fees
+      hint: Any additional fees or add-ons
+      type: select_multiple
+      options:
+      - Documentation Fee
+      - Registration Fee
+      - Title Fee
+      - Extended Warranty
+      - Gap Insurance
+      - Protection Package
+      - None
+      required: false
+    - id: 30
+      name: dealer_information
+      label: Dealer Information
+      hint: Dealership details
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: dealership_name
+      label: Dealership Name
+      hint: Name of the dealership
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: salesman_name
+      label: Salesperson Name
+      hint: Name of the salesperson
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: salesman_id
+      label: Salesperson ID
+      hint: Salesperson identification number
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: agreement_date
+      label: Agreement Date
+      hint: Date of this agreement
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: buyer_signature
+      label: Buyer Signature Confirmation
+      hint: Confirm buyer agrees to terms
+      type: select_one
+      options:
+      - I agree to the terms and conditions of this purchase
+      - I do not agree
+      required: true
+    - id: 36
+      name: dealer_signature
+      label: Dealer Signature Confirmation
+      hint: Confirm dealer authorization
+      type: select_one
+      options:
+      - Authorized by the dealership
+      - Not authorized
+      required: true

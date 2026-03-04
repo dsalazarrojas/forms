@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_policy_template
+    pages:
+    - id: 1
+      name: services_agreed
+      label: services_agreed
+      hint: null
+      type: select_multiple
+      options:
+      - Services
+      - Other
+      required: true
+    - id: 2
+      name: cancellation_policy
+      label: cancellation_policy
+      hint: 'Our cancellation policy is as follows: ...'
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: financial_responsibilities
+      label: financial_responsibilities
+      hint: null
+      type: select_one
+      options:
+      - Payment terms
+      - Cancellation charges
+      - Other
+      required: true
+    - id: 4
+      name: e_signature
+      label: e_signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: client_agreement
+      label: client_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - I disagree
+      required: true
+    - id: 6
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

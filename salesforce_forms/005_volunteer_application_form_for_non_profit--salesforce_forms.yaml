@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Application Form For Non Profit
+    pages:
+    - id: 1
+      name: non_profit_name
+      label: non_profit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_hours
+      label: volunteer_hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: volunteer_start_date
+      label: volunteer_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: volunteer_end_date
+      label: volunteer_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_frequency
+      label: volunteer_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''biweekly''}'
+      - '{''value'': ''monthly''}'
+      required: true
+    - id: 8
+      name: volunteer_status
+      label: volunteer_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: true
+    - id: 9
+      name: volunteer_shifts
+      label: volunteer_shifts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''morning''}'
+      - '{''value'': ''afternoon''}'
+      - '{''value'': ''evening''}'
+      - '{''value'': ''night''}'
+      required: true
+    - id: 10
+      name: volunteer_skills
+      label: volunteer_skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''communication''}'
+      - '{''value'': ''leadership''}'
+      - '{''value'': ''problem_solving''}'
+      - '{''value'': ''time_management''}'
+      required: true
+    - id: 11
+      name: volunteer_references
+      label: volunteer_references
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: volunteer_vehicles_available
+      label: volunteer_vehicles_available
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 13
+      name: volunteer_notes
+      label: volunteer_notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Advisor Follow Up Form
+    pages:
+    - id: 1
+      name: service_advisor_follow_up_form
+      label: ServiceAdvisorFollowUpForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_advisor_follow_up_form_question
+      label: HowdidItGo
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''very_satisfied'', ''label'': ''very_satisfied''}'
+      - '{''id'': 12, ''name'': ''somewhat_satisfied'', ''label'': ''somewhat_satisfied''}'
+      - '{''id'': 13, ''name'': ''not_satisfied'', ''label'': ''not_satisfied''}'
+      required: false
+    - id: 3
+      name: service_advisor_follow_up_form_question
+      label: HowdidItGo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_advisor_follow_up_form_question
+      label: WillYouUseUsAgain
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''name'': True, ''label'': True}'
+      - '{''id'': 22, ''name'': False, ''label'': False}'
+      required: false
+    - id: 5
+      name: service_advisor_follow_up_form_question
+      label: WhatCouldWeHaveDoneBetter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_advisor_follow_up_form_question
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_advisor_follow_up_form_question
+      label: ContactNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_advisor_follow_up_form_question
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

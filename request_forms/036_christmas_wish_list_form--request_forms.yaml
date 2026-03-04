@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Wish List Form
+    pages:
+    - id: 1
+      name: child_name
+      label: Child Full Name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Childs date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Boy
+      - Girl
+      - Prefer not to say
+      required: true
+    - id: 4
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Full name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: For delivery coordination
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_child_info
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: address_line1
+      label: Street Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_address
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: clothing_size
+      label: Clothing Size
+      hint: Childs clothing size
+      type: select_one
+      options:
+      - 2T-3T
+      - 4T-5T
+      - 6-7 years
+      - 8-10 years
+      - 12-14 years
+      - 16-18 years
+      - Not sure
+      required: true
+    - id: 14
+      name: favorite_colors
+      label: Favorite Colors
+      hint: What colors do they like
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Pink
+      - Purple
+      - Orange
+      - Yellow
+      - Black
+      - White
+      - No preference
+      required: false
+    - id: 15
+      name: section_preferences
+      label: -- Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: toy_preferences
+      label: Toy Preferences
+      hint: What types of toys do they like
+      type: select_multiple
+      options:
+      - Action Figures
+      - Dolls
+      - Building Blocks
+      - Stuffed Animals
+      - Arts and Crafts
+      - Board Games
+      - Video Games
+      - Outdoor Toys
+      - Educational Toys
+      - Books
+      - Music
+      - Sports Equipment
+      required: true
+    - id: 17
+      name: wish_item_1
+      label: First Wish Item
+      hint: What they want most
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: wish_item_2
+      label: Second Wish Item
+      hint: Another item they would like
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: wish_item_3
+      label: Third Wish Item
+      hint: Another option
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_wishlist
+      label: -- Wish List Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: shoe_size
+      label: Shoe Size
+      hint: If shoes are needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: hobbies_interests
+      label: Hobbies and Interests
+      hint: What do they enjoy doing
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: favorite_characters
+      label: Favorite Characters
+      hint: Movie, TV, or book characters
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_interests
+      label: -- Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: siblings_count
+      label: Number of Siblings
+      hint: How many brothers and sisters
+      type: select_one
+      options:
+      - 0 only child
+      - 1 sibling
+      - 2 siblings
+      - 3 siblings
+      - 4 or more siblings
+      required: false
+    - id: 26
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: If receiving food gifts
+      type: select_multiple
+      options:
+      - None
+      - Nut Allergy
+      - Gluten-Free
+      - Dairy-Free
+      - Other
+      required: false
+    - id: 27
+      name: special_needs
+      label: Special Needs
+      hint: Any accommodations to consider
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: how_heard
+      label: How Did You Hear About Program
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Community Center
+      - Church
+      - Social Services
+      - Friend or Family
+      - Social Media
+      - Other
+      required: true
+    - id: 30
+      name: agree_terms
+      label: Agree to Program Terms
+      hint: I confirm information is accurate
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true

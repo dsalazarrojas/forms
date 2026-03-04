@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Advise Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: topic
+      label: Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: advisor
+      label: Advisor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 8
+      name: mentorship_type
+      label: Mentorship Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 9
+      name: programs
+      label: Programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: related_programs
+      label: Related Programs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: request_for
+      label: Request For
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''label'': ''Option 2''}'
+      required: false
+    - id: 13
+      name: related_topics
+      label: Related Topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: related_programs_other
+      label: Related Programs Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: agree_to_terms
+      label: Agree to Terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: agree_to_privacy
+      label: Agree to Privacy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

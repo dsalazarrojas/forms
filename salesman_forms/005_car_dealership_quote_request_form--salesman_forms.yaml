@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Dealership Quote Request Form
+    pages:
+    - id: 1
+      name: customer_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: interest_vehicle_type
+      label: What type of vehicle interests you?
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Coupe
+      - Hatchback
+      - Wagon
+      - Van
+      - Sports Car
+      - Convertible
+      required: true
+    - id: 6
+      name: preferred_make
+      label: Preferred vehicle make
+      hint: e.g., Honda, Toyota, Ford
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_model
+      label: Preferred vehicle model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_year
+      label: Preferred vehicle year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: new_or_used
+      label: New or used vehicle?
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Certified Pre-Owned
+      - Used
+      required: true
+    - id: 10
+      name: budget_range_low
+      label: Budget range - low
+      hint: Minimum amount willing to spend
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: budget_range_high
+      label: Budget range - high
+      hint: Maximum amount willing to spend
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: desired_features
+      label: Desired features (select all that apply)
+      hint: null
+      type: select_multiple
+      options:
+      - Leather Interior
+      - Sunroof
+      - Navigation System
+      - All-Wheel Drive
+      - Premium Sound System
+      - Backup Camera
+      - Heated Seats
+      - Remote Start
+      required: false
+    - id: 13
+      name: fuel_type_preference
+      label: Preferred fuel type
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
+      required: false
+    - id: 14
+      name: transmission_type
+      label: Transmission preference
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      - CVT
+      - No Preference
+      required: false
+    - id: 15
+      name: color_preference
+      label: Preferred color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: financing_method
+      label: Financing method
+      hint: null
+      type: select_one
+      options:
+      - Cash Purchase
+      - Dealership Financing
+      - Bank Financing
+      - Leasing
+      - Trade-in Credit
+      required: true
+    - id: 17
+      name: trade_in_vehicle
+      label: Do you have a vehicle to trade in?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: trade_in_details
+      label: Trade-in vehicle details
+      hint: Year, make, model, and condition
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: urgency_level
+      label: How soon do you need a vehicle?
+      hint: null
+      type: select_one
+      options:
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - Within 3 months
+      - No Rush
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional notes or questions
+      hint: null
+      type: text
+      options: []
+      required: false

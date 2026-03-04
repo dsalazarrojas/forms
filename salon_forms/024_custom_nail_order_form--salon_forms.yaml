@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: custom_nail_order_form
+    pages:
+    - id: 1
+      name: color_name
+      label: Color Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nail_type
+      label: Nail Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: nail_color
+      label: Nail Color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Orange
+      - Yellow
+      - Green
+      required: true
+    - id: 5
+      name: nail_size
+      label: Nail Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

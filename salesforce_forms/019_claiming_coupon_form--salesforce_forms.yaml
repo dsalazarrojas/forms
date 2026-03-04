@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claiming Coupon Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_id
+      label: Customer ID
+      hint: If you have one with us
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: coupon_header
+      label: -- Coupon Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: coupon_code
+      label: Coupon Code
+      hint: Enter the unique code from your coupon
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: coupon_type
+      label: Coupon Type
+      hint: null
+      type: select_one
+      options:
+      - Percentage discount
+      - Fixed amount discount
+      - Buy one get one
+      - Free item
+      - Bundle deal
+      - Free shipping
+      - Other
+      required: true
+    - id: 9
+      name: discount_amount
+      label: Discount Amount or Percentage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expiration_date
+      label: Coupon Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: claim_header
+      label: -- Claim Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: claim_date
+      label: Date of Claim
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: purchase_amount
+      label: Original Purchase Amount
+      hint: Before discount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: product_category
+      label: Product Category
+      hint: What products does this coupon apply to
+      type: select_one
+      options:
+      - Electronics
+      - Clothing and Fashion
+      - Home and Garden
+      - Health and Beauty
+      - Food and Beverages
+      - Sports and Outdoors
+      - Books and Media
+      - Multiple categories
+      - Other
+      required: false
+    - id: 15
+      name: items_purchased
+      label: Items Purchased
+      hint: List items or description
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: promotional_header
+      label: -- Promotional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: promotional_source
+      label: Where did you find this coupon
+      hint: null
+      type: select_one
+      options:
+      - Email newsletter
+      - Website or online ad
+      - Social media
+      - Print media
+      - In-store promotion
+      - Friend or family referral
+      - Mobile app
+      - Other
+      required: true
+    - id: 18
+      name: first_time_customer
+      label: Is this your first purchase with us
+      hint: null
+      type: select_one
+      options:
+      - Yes, first purchase
+      - No, returning customer
+      required: false
+    - id: 19
+      name: payment_method
+      label: Payment Method Used
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Digital wallet
+      - Check or money order
+      - Other
+      required: true
+    - id: 20
+      name: terms_accepted
+      label: I agree to the coupon terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

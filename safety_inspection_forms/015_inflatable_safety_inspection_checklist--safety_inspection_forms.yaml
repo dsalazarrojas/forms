@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inflatable Safety Inspection Checklist
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_inspection
+      label: Time of Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: inflatable_model_number
+      label: Inflatable Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manufacturer
+      label: Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: condition_of_equipment
+      label: Condition of Equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Excellent''}'
+      - '{''id'': 2, ''value'': ''Fair''}'
+      - '{''id'': 3, ''value'': ''Poor''}'
+      - '{''id'': 4, ''value'': ''N/A''}'
+      required: false
+    - id: 8
+      name: safety_harnesses_used
+      label: Safety Harnesses Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      - '{''id'': 3, ''value'': ''Not Applicable''}'
+      required: false
+    - id: 9
+      name: inspection_results
+      label: Inspection Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: certification_status
+      label: Certification Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Certified''}'
+      - '{''id'': 2, ''value'': ''Non-Certified''}'
+      - '{''id'': 3, ''value'': ''Unknown''}'
+      - '{''id'': 4, ''value'': ''N/A''}'
+      required: false
+    - id: 12
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Completed''}'
+      - '{''id'': 2, ''value'': ''Not Completed''}'
+      - '{''id'': 3, ''value'': ''Not Required''}'
+      - '{''id'': 4, ''value'': ''N/A''}'
+      required: false
+    - id: 13
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: certification_expiration_date
+      label: Certification Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: training_hours_completed
+      label: Training Hours Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: first_aid_kit
+      label: First Aid Kit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Available''}'
+      - '{''id'': 2, ''value'': ''Not Available''}'
+      - '{''id'': 3, ''value'': ''Partially Available''}'
+      - '{''id'': 4, ''value'': ''N/A''}'
+      required: false
+    - id: 17
+      name: fire_extinguisher
+      label: Fire Extinguisher
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Available''}'
+      - '{''id'': 2, ''value'': ''Not Available''}'
+      - '{''id'': 3, ''value'': ''Partially Available''}'
+      - '{''id'': 4, ''value'': ''N/A''}'
+      required: false
+    - id: 18
+      name: emergency_exits
+      label: Emergency Exits
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Clearly Marked''}'
+      - '{''id'': 2, ''value'': ''Not Clearly Marked''}'
+      - '{''id'': 3, ''value'': ''Partially Clearly Marked''}'
+      - '{''id'': 4, ''value'': ''N/A''}'
+      required: false
+    - id: 19
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_person
+      label: Emergency Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: evacuation_routine
+      label: Evacuation Routine
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewed_by
+      label: Reviewed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: completed_by
+      label: Completed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 26
+      name: attachment_1
+      label: Attachment 1
+      hint: null
+      type: text
+      options: []
+      required: false

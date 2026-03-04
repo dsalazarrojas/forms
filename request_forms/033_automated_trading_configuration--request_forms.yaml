@@ -1,0 +1,462 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Trading Configuration
+    pages:
+    - id: 1
+      name: introduction
+      label: Automated Trading Configuration
+      hint: Configure your automated trading settings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trader_info
+      label: Trader Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: account_number
+      label: Trading Account Number
+      hint: Your account number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Individual
+      - Joint
+      - Corporate
+      - IRA
+      - Trust
+      - Other
+      required: true
+    - id: 9
+      name: platform_info
+      label: Platform Information
+      hint: Trading platform details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: trading_platform
+      label: Trading Platform
+      hint: Which platform
+      type: select_one
+      options:
+      - MetaTrader 4
+      - MetaTrader 5
+      - TradingView
+      - ThinkOrSwim
+      - Interactive Brokers
+      - E-Trade
+      - TD Ameritrade
+      - Other
+      required: true
+    - id: 11
+      name: broker_name
+      label: Broker Name
+      hint: Your broker
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: strategy_info
+      label: Strategy Information
+      hint: Trading strategy details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: strategy_type
+      label: Strategy Type
+      hint: What strategy
+      type: select_one
+      options:
+      - Trend Following
+      - Mean Reversion
+      - Breakout
+      - Scalping
+      - Day Trading
+      - Swing Trading
+      - Position Trading
+      - Arbitrage
+      - Grid Trading
+      - Martingale
+      - Other
+      required: true
+    - id: 14
+      name: strategy_name
+      label: Strategy Name
+      hint: Custom name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: trading_instruments
+      label: Trading Instruments
+      hint: What to trade
+      type: select_multiple
+      options:
+      - Forex Pairs
+      - Stocks
+      - Indices
+      - Commodities
+      - Cryptocurrencies
+      - Options
+      - Futures
+      - ETFs
+      required: true
+    - id: 16
+      name: specific_symbols
+      label: Specific Symbols
+      hint: List symbols
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: timeframe
+      label: Trading Timeframe
+      hint: Chart timeframe
+      type: select_one
+      options:
+      - 1 Minute
+      - 5 Minutes
+      - 15 Minutes
+      - 30 Minutes
+      - 1 Hour
+      - 4 Hours
+      - Daily
+      - Weekly
+      required: true
+    - id: 18
+      name: trading_hours
+      label: Trading Hours
+      hint: When to trade
+      type: select_one
+      options:
+      - 24 Hours
+      - Market Hours Only
+      - Specific Sessions
+      - Custom Hours
+      required: true
+    - id: 19
+      name: risk_management
+      label: Risk Management
+      hint: Risk settings
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: risk_per_trade
+      label: Risk Per Trade
+      hint: Percentage of account
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: max_daily_loss
+      label: Maximum Daily Loss
+      hint: Percentage limit
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: max_drawdown
+      label: Maximum Drawdown
+      hint: Percentage limit
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: stop_loss_type
+      label: Stop Loss Type
+      hint: Type of stop loss
+      type: select_one
+      options:
+      - Fixed Pips
+      - Percentage
+      - Trailing
+      - ATR Based
+      - Support Resistance
+      - None
+      required: true
+    - id: 24
+      name: stop_loss_value
+      label: Stop Loss Value
+      hint: Default value
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: take_profit_type
+      label: Take Profit Type
+      hint: Type of take profit
+      type: select_one
+      options:
+      - Fixed Pips
+      - Percentage
+      - Risk Reward Ratio
+      - Trailing
+      - Multiple Targets
+      - None
+      required: true
+    - id: 26
+      name: take_profit_value
+      label: Take Profit Value
+      hint: Default value
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: risk_reward_ratio
+      label: Risk Reward Ratio
+      hint: Minimum ratio
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: position_sizing
+      label: Position Sizing Method
+      hint: How to size positions
+      type: select_one
+      options:
+      - Fixed Lot
+      - Percentage of Equity
+      - Risk Based
+      - Kelly Criterion
+      - Fixed Dollar
+      required: true
+    - id: 29
+      name: fixed_lot_size
+      label: Fixed Lot Size
+      hint: If using fixed
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: max_positions
+      label: Maximum Open Positions
+      hint: Limit on positions
+      type: number
+      options: []
+      required: true
+    - id: 31
+      name: investment_info
+      label: Investment Information
+      hint: Capital details
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: initial_capital
+      label: Initial Capital
+      hint: Starting amount
+      type: number
+      options: []
+      required: true
+    - id: 33
+      name: currency
+      label: Account Currency
+      hint: Base currency
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      - CHF
+      - AUD
+      - CAD
+      - Other
+      required: true
+    - id: 34
+      name: leverage
+      label: Leverage
+      hint: Trading leverage
+      type: select_one
+      options:
+      - 61
+      - 70
+      - 90
+      - 110
+      - 1:100
+      - 1:200
+      - 1:500
+      required: false
+    - id: 35
+      name: automation_settings
+      label: Automation Settings
+      hint: How to automate
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: automation_level
+      label: Level of Automation
+      hint: How automated
+      type: select_one
+      options:
+      - Fully Automated
+      - Semi-Automated
+      - Signal Based
+      - Manual Confirmation Required
+      required: true
+    - id: 37
+      name: trade_execution
+      label: Trade Execution
+      hint: How to execute
+      type: select_one
+      options:
+      - Market Order
+      - Limit Order
+      - Stop Order
+      - Best Available
+      required: true
+    - id: 38
+      name: slippage_tolerance
+      label: Slippage Tolerance
+      hint: Maximum slippage
+      type: number
+      options: []
+      required: false
+    - id: 39
+      name: notifications
+      label: Notifications
+      hint: Alert settings
+      type: select_multiple
+      options:
+      - Trade Opened
+      - Trade Closed
+      - Stop Loss Hit
+      - Take Profit Hit
+      - Daily Summary
+      - Weekly Report
+      - Margin Alert
+      - Error Notifications
+      required: false
+    - id: 40
+      name: notification_method
+      label: Notification Method
+      hint: How to notify
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Push Notification
+      - All of Above
+      required: false
+    - id: 41
+      name: backtesting
+      label: Backtesting
+      hint: Testing preferences
+      type: note
+      options: []
+      required: false
+    - id: 42
+      name: backtest_required
+      label: Backtest Required
+      hint: Before live trading
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 43
+      name: backtest_period
+      label: Backtest Period
+      hint: Time period
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - 2 Years
+      - 5 Years
+      - Max Available
+      required: false
+    - id: 44
+      name: demo_period
+      label: Demo Trading Period
+      hint: Test on demo first
+      type: select_one
+      options:
+      - 1 Week
+      - 2 Weeks
+      - 1 Month
+      - Skip Go Live
+      required: false
+    - id: 45
+      name: additional_parameters
+      label: Additional Parameters
+      hint: Any other settings
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: terms_acceptance
+      label: Terms and Conditions
+      hint: I agree to terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 47
+      name: risk_disclosure
+      label: Risk Disclosure Acknowledgment
+      hint: I understand the risks
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Do Not Acknowledge
+      required: true
+    - id: 48
+      name: trader_signature
+      label: Trader Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 49
+      name: configuration_date
+      label: Configuration Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

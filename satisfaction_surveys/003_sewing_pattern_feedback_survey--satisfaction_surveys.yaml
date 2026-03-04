@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sewing Pattern Feedback Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page-label
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pattern_category
+      label: pattern-category-label
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Knit''}'
+      - '{''id'': 2, ''name'': ''Print''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: false
+    - id: 3
+      name: pattern_type
+      label: pattern-type-label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''A-line''}'
+      - '{''id'': 2, ''name'': ''A-line (with curves)''}'
+      - '{''id'': 3, ''name'': ''A-line with curves and pockets''}'
+      - '{''id'': 4, ''name'': ''B-line''}'
+      - '{''id'': 5, ''name'': ''B-line with curves''}'
+      - '{''id'': 6, ''name'': ''B-line with pockets''}'
+      - '{''id'': 7, ''name'': ''B-line with curves and pockets''}'
+      - '{''id'': 8, ''name'': ''C-line''}'
+      - '{''id'': 9, ''name'': ''C-line with curves''}'
+      - '{''id'': 10, ''name'': ''C-line with pockets''}'
+      required: false
+    - id: 4
+      name: pattern_size
+      label: pattern-size-label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''XS-S''}'
+      - '{''id'': 2, ''name'': ''S''}'
+      - '{''id'': 3, ''name'': ''M''}'
+      - '{''id'': 4, ''name'': ''L''}'
+      - '{''id'': 5, ''name'': ''XL''}'
+      - '{''id'': 6, ''name'': ''XXL''}'
+      - '{''id'': 7, ''name'': ''Custom''}'
+      required: false
+    - id: 5
+      name: pattern_features
+      label: pattern-features-label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Knit''}'
+      - '{''id'': 2, ''name'': ''Crochet''}'
+      - '{''id'': 3, ''name'': ''Print''}'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false

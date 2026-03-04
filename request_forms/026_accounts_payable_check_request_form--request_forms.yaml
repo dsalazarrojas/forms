@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounts Payable Check Request Form
+    pages:
+    - id: 1
+      name: payee_name
+      label: Payee Name
+      hint: Name of the person or vendor to receive payment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: vendor_id
+      label: Vendor ID
+      hint: internal system code if known
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: invoice_number
+      label: Invoice Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: invoice_date
+      label: Invoice Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: total_amount
+      label: Total Amount
+      hint: Currency amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: How should the payment be issued?
+      type: select_one
+      options:
+      - Physical Check
+      - Direct Deposit
+      - Wire
+      required: true
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Urgent
+      required: true
+    - id: 8
+      name: expense_description
+      label: Expense Description
+      hint: Purpose of the expenditure
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: gl_account_code
+      label: GL Account Code
+      hint: General Ledger code for tracking
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: signature_header
+      label: -- Authorized Signatures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: department_head_signature
+      label: Department Head Signature
+      hint: Type name to approve
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: finance_manager_approval
+      label: Finance Manager Approval
+      hint: For accounting use only
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

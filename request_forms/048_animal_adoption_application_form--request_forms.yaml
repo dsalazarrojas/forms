@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Adoption Application Form
+    pages:
+    - id: 1
+      name: section_adoption_header
+      label: -- Animal Adoption Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_adopter_background
+      label: -- Adopter Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: address_line_1
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_state_zip
+      label: City, State, and Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: type_of_animal_interested_in
+      label: Type of Animal Interested In
+      hint: null
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Small Animal
+      required: true
+    - id: 9
+      name: specific_animal_name_if_known
+      label: Specific Animal Name (If Known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_care_environment
+      label: -- Care and Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: where_will_animal_spend_most_time
+      label: Where will the animal spend most of its time?
+      hint: null
+      type: select_one
+      options:
+      - Indoors
+      - Outdoors
+      - Both
+      required: true
+    - id: 12
+      name: hours_animal_will_be_alone_per_day
+      label: Number of hours the animal will be alone per day
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: plan_for_animal_exercise
+      label: Primary plan for providing animal exercise
+      hint: null
+      type: select_one
+      options:
+      - Daily Walks
+      - Fenced Yard
+      - Professional Walker
+      - Other
+      required: true
+    - id: 14
+      name: section_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: veterinarian_name_and_phone
+      label: Current or Previous Veterinarian Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: personal_reference_name_and_phone
+      label: Personal Reference Name and Phone Number
+      hint: Non-family member
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: consent_to_home_visit
+      label: Do you consent to a scheduled home visit by shelter staff?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

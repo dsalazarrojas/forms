@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Feedback Form
+    pages:
+    - id: 1
+      name: fire_safety_training_received
+      label: What fire safety training received
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_training
+      label: date_of_training
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: fire_safety_protocol_understood
+      label: fire_safety_protocol_understood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 4
+      name: fire_safety_equipment_used
+      label: fire_safety_equipment_used
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Extinguisher
+      - Fire Alarm
+      - Emergency Exit
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fire_safety_protocol_improvement_ideas
+      label: fire_safety_protocol_improvement_ideas
+      hint: null
+      type: text
+      options: []
+      required: false

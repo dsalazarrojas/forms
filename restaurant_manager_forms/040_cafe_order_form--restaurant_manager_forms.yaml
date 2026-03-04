@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cafe Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: For pickup or delivery
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact phone
+      hint: Required for delivery updates
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_items
+      label: Order items and quantities
+      hint: List items with quantities
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pickup_or_delivery
+      label: Pickup or delivery
+      hint: Choose fulfillment method
+      type: select_one
+      options:
+      - Pickup
+      - Delivery
+      required: true
+    - id: 5
+      name: pickup_time
+      label: Preferred pickup time
+      hint: Time for pickup or delivery window
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery address
+      hint: Required if delivery selected
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment method
+      hint: Card cash or online
+      type: select_one
+      options:
+      - Card
+      - Cash
+      - Online payment
+      required: true
+    - id: 8
+      name: special_instructions
+      label: Special instructions for order
+      hint: Allergies or preferences
+      type: text
+      options: []
+      required: false

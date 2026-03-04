@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Register Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: visitor_type
+      label: Visitor Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Student''}'
+      - '{''id'': 2, ''label'': ''Staff''}'
+      - '{''id'': 3, ''label'': ''Guest''}'
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: visitor_image
+      label: Visitor Image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_form_notes
+      label: Contact Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: visitor_signature
+      label: Visitor Signature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 13, ''label'': ''Signature 1''}'
+      - '{''id'': 14, ''label'': ''Signature 2''}'
+      - '{''id'': 15, ''label'': ''Signature 3''}'
+      required: false
+    - id: 12
+      name: date_visit
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: staff_sign_in
+      label: Staff Sign In
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: staff_sign_in_time
+      label: Staff Sign In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: staff_sign_out
+      label: Staff Sign Out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_sign_out_time
+      label: Staff Sign Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: visitor_id
+      label: Visitor Id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: visitor_id2
+      label: Visitor Id 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: visitor_id3
+      label: Visitor Id 3
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bathroom Store Returns Request Form
+    pages:
+    - id: 1
+      name: order_reference_header
+      label: -- Order and Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_full_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_number
+      label: Order Number
+      hint: Found on your receipt or confirmation email
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: purchase_date
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_for_refund
+      label: Email Address
+      hint: For status updates on your return
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: return_items_header
+      label: -- Return Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: item_name_to_return
+      label: Item(s) to be Returned
+      hint: e.g. Modern Chrome Faucet - SKU 1234
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: return_reason
+      label: Reason for Return
+      hint: null
+      type: select_one
+      options:
+      - Defective / Damaged
+      - Changed Mind
+      - Wrong Item Shipped
+      - Item Not as Described
+      - Quality Not Satisfactory
+      - Arrived Late
+      required: true
+    - id: 9
+      name: item_condition
+      label: Current Condition of the Item
+      hint: null
+      type: select_one
+      options:
+      - Brand New (Unopened)
+      - Like New (Opened, original packaging)
+      - Used (Functioning)
+      - Damaged (Non-functional)
+      required: true
+    - id: 10
+      name: package_condition
+      label: Is original packaging available?
+      hint: null
+      type: select_one
+      options:
+      - Yes, intact
+      - Yes, but damaged
+      - No packaging
+      required: true
+    - id: 11
+      name: preference_header
+      label: -- Refund and Processing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: resolution_requested
+      label: Desired Resolution
+      hint: null
+      type: select_one
+      options:
+      - Full Refund to Original Payment
+      - Store Credit
+      - Exchange for Same Item
+      - Exchange for Different Item
+      required: true
+    - id: 13
+      name: preferred_return_method
+      label: How will you return the item?
+      hint: null
+      type: select_one
+      options:
+      - Drop off at Store
+      - Prepaid Shipping Label Request
+      - Schedule a Pickup (Large Items Only)
+      required: true
+    - id: 14
+      name: return_policy_ack
+      label: I understand that returns may be subject to a restocking fee
+      hint: null
+      type: select_one
+      options:
+      - I Understand and Agree
+      - Other
+      required: true
+    - id: 15
+      name: submission_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

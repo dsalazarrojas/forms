@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anti Slip Mat Supply Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date of order placement
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name or company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for order questions
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_type
+      label: Customer Type
+      hint: What type of customer are you
+      type: select_one
+      options:
+      - Individual consumer
+      - Retail business
+      - Restaurant or food service
+      - Industrial facility
+      - Healthcare facility
+      - Educational institution
+      - Government agency
+      required: true
+    - id: 7
+      name: mat_type
+      label: Mat Type
+      hint: Select the type of anti-slip mat
+      type: select_one
+      options:
+      - Rubber entrance mat
+      - Vinyl anti-fatigue mat
+      - PVC drainage mat
+      - Carpet entrance mat
+      - Interlocking tile mat
+      - Custom cut mat
+      - Other
+      required: true
+    - id: 8
+      name: mat_size
+      label: Mat Size
+      hint: Dimensions needed
+      type: select_one
+      options:
+      - Small (2x3 feet)
+      - Medium (3x5 feet)
+      - Large (4x6 feet)
+      - Extra large (6x10 feet)
+      - Custom size
+      required: true
+    - id: 9
+      name: custom_dimensions
+      label: Custom Dimensions
+      hint: Length x Width in feet
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mat_thickness
+      label: Mat Thickness
+      hint: Thickness preference
+      type: select_one
+      options:
+      - Standard (3/8 inch)
+      - Heavy duty (1/2 inch)
+      - Industrial (3/4 inch)
+      - Extra thick (1 inch)
+      required: true
+    - id: 11
+      name: color_preference
+      label: Color Preference
+      hint: Select color
+      type: select_one
+      options:
+      - Black
+      - Gray
+      - Blue
+      - Red
+      - Green
+      - Brown
+      - No preference
+      required: true
+    - id: 12
+      name: quantity
+      label: Quantity
+      hint: Number of mats
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: unit_price
+      label: Unit Price
+      hint: Price per mat
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_price
+      label: Total Price
+      hint: Total before shipping
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: shipping_address_section
+      label: -- Shipping Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: shipping_name
+      label: Shipping Name
+      hint: Name for delivery
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: shipping_address
+      label: Street Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shipping_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shipping_method
+      label: Shipping Method
+      hint: Delivery speed
+      type: select_one
+      options:
+      - Standard ground (5-7 days)
+      - Expedited (3-5 days)
+      - Express (2 days)
+      - Overnight
+      - Freight delivery
+      required: true
+    - id: 22
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Special delivery notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Purchase order
+      - Check
+      - Net 30 account
+      required: true
+    - id: 24
+      name: po_number
+      label: Purchase Order Number
+      hint: PO number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: billing_address_same
+      label: Billing Address Same as Shipping
+      hint: Is billing address the same
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional requirements
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you agree to terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 28
+      name: order_confirmation
+      label: Order Confirmation Preference
+      hint: How to receive confirmation
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Mail
+      required: true

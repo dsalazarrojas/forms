@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Center Closure Feedback
+    pages:
+    - id: 1
+      name: closure_impact
+      label: Closure Impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: communication_quality
+      label: Communication Quality
+      hint: null
+      type: select_one
+      options:
+      - poor
+      - average
+      - good
+      - excellent
+      required: false
+    - id: 3
+      name: intend_to_return
+      label: Intend to Return
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reopen_decision
+      label: Reopen Decision
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      - unsure
+      required: false

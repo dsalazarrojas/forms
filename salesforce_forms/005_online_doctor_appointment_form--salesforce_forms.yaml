@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_doctor_appointment_form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Select Date
+      hint: Choose an available date for your appointment
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: appointment_time
+      label: Select Time
+      hint: Choose a start time for your appointment
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: doctor_name
+      label: Doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: appointment_duration
+      label: Appointment Duration
+      hint: Select how long you want your appointment to be
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: appointment_reason
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 9, ''name'': ''Initial Consultation'', ''value'': ''initial_consultation''}'
+      - '{''id'': 10, ''name'': ''Follow-up'', ''value'': ''follow_up''}'
+      required: true
+    - id: 9
+      name: patient_email
+      label: Patient Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: patient_phone
+      label: Patient Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_phone
+      label: Doctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

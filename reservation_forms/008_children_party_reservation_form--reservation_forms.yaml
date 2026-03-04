@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children Party Reservation Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_information
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: child_name
+      label: Child Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_age
+      label: Child Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Total Number of Guests
+      hint: Including the birthday child
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: party_details
+      label: -- Party Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: party_date
+      label: Preferred Party Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: party_time
+      label: Preferred Party Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: party_duration
+      label: Party Duration
+      hint: null
+      type: select_one
+      options:
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2.5 hours
+      - 3 hours
+      - Custom
+      required: true
+    - id: 13
+      name: party_theme
+      label: Party Theme
+      hint: null
+      type: select_one
+      options:
+      - Princess
+      - Superhero
+      - Sports
+      - Science
+      - Arts and Crafts
+      - Video Games
+      - Adventure
+      - Other
+      required: true
+    - id: 14
+      name: party_location
+      label: Party Location
+      hint: null
+      type: select_one
+      options:
+      - At our facility
+      - At home
+      - Park or outdoor
+      - Custom location
+      required: true
+    - id: 15
+      name: services_section
+      label: -- Services and Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: include_catering
+      label: Include catering service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: food_preferences
+      label: Food preferences and allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: entertainment
+      label: Entertainment services needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - DJ or Music
+      - Face Painting
+      - Balloon Artist
+      - Magician
+      - Games and Activities
+      - Character Appearance
+      required: false
+    - id: 19
+      name: decorations
+      label: Include party decorations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: cake_service
+      label: Include cake and desserts
+      hint: null
+      type: select_one
+      options:
+      - Yes, from your bakery
+      - Yes, custom cake
+      - No, providing own
+      required: true
+    - id: 21
+      name: special_requests
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: dietary_restrictions
+      label: Any guest dietary restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: special_needs
+      label: Any special accommodations needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_requests
+      label: Any additional requests or preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: agree_terms
+      label: I agree to the party reservation terms and conditions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Piano Sales Agreement Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: piano_model
+      label: Piano Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: piano_condition
+      label: Piano Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Fair''}'
+      - '{''id'': 3, ''name'': ''Poor''}'
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: buyer_signature
+      label: Buyer Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: seller_signature
+      label: Seller Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: agreement
+      label: Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: buyer_acceptance
+      label: Buyer Acceptance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: agreement_accepted
+      label: Agreement Accepted
+      hint: null
+      type: date
+      options: []
+      required: false

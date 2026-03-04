@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Pause Request Form
+    pages:
+    - id: 1
+      name: subscription_pause_request_form_1
+      label: pause or stop subscription
+      hint: null
+      type: select_multiple
+      options:
+      - pause
+      - stop
+      required: false
+    - id: 2
+      name: reason_for_pause
+      label: reason for pause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expected_date_of_resume
+      label: expected date of resume
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false

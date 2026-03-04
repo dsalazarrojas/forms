@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childhood Celebration Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- About You --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: your_age_group
+      label: Your Age Group
+      hint: null
+      type: select_one
+      options:
+      - 20-30
+      - 31-40
+      - 41-50
+      - 51-60
+      - 60+
+      required: true
+    - id: 6
+      name: event_memories
+      label: -- Event Memories --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: favorite_childhood_event
+      label: What is your favorite childhood celebration memory
+      hint: Describe a memorable event or party
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_type
+      label: Type of Celebration
+      hint: null
+      type: select_multiple
+      options:
+      - Birthday Party
+      - Holiday Celebration
+      - School Event
+      - Family Reunion
+      - Community Festival
+      - Graduation
+      required: true
+    - id: 9
+      name: event_age
+      label: How old were you during this memory
+      hint: Approximate age
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Approximate date of the event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Where did the celebration take place
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: organizer_info
+      label: -- About the Organizer --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: who_organized
+      label: Who organized this celebration
+      hint: null
+      type: select_one
+      options:
+      - Parent
+      - Grandparent
+      - Other Family
+      - School
+      - Community Organization
+      - Multiple people
+      required: true
+    - id: 14
+      name: organizer_effort
+      label: How much effort do you think went into organizing this event
+      hint: Rate 1-5
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: satisfaction_section
+      label: -- Satisfaction and Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: satisfaction_level
+      label: How satisfied were you with the celebration
+      hint: Rate 1 (not satisfied) to 5 (very satisfied)
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: best_part
+      label: What was the best part of the celebration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: decorations
+      label: How important were the decorations
+      hint: Rate 1 (not important) to 5 (very important)
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: food_memories
+      label: Do you remember any special food from the celebration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ideas_section
+      label: -- Ideas for Modern Celebrations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: modern_ideas
+      label: What elements would you include in a similar celebration today
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tech_integration
+      label: Would you include technology in modern celebrations
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe, in some ways
+      - No, keep it traditional
+      - Not sure
+      required: false
+    - id: 23
+      name: share_permission
+      label: May we share your memory in our collection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

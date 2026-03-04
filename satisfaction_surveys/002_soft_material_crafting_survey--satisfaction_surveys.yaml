@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soft Material Crafting Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Soft Material Crafting Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: fabric_type
+      label: What type of fabric do you use?
+      hint: null
+      type: select_one
+      options:
+      - Wool
+      - Cotton
+      - Synthetic
+      - Other
+      required: false
+    - id: 3
+      name: fabric_weight
+      label: How much fabric do you use for this project?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_type
+      label: What type of project is this for?
+      hint: null
+      type: select_one
+      options:
+      - Home Decor
+      - Clothing
+      - Accessories
+      - Other
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: How satisfied are you with the material?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      - Very Dissatisfied
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_name
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_description
+      label: Project description
+      hint: null
+      type: text
+      options: []
+      required: false

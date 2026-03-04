@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Safety Workshop RSVP Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: workshop_type
+      label: Workshop Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: workshop_date
+      label: Workshop Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''attending'', ''label'': ''Attending''}'
+      - '{''value'': ''not_attending'', ''label'': ''Not Attending''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rsvp_by
+      label: RSVP By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Jimmy'', ''label'': ''Jimmy''}'
+      - '{''value'': ''John'', ''label'': ''John''}'
+      - '{''value'': ''Jane'', ''label'': ''Jane''}'
+      required: false
+    - id: 12
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: created_at
+      label: Created At
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

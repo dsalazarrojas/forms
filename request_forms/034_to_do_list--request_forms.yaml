@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: to_do_list
+    pages:
+    - id: 1
+      name: to_do_item
+      label: to-do-item
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: due_date
+      label: due-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: completed
+      label: completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

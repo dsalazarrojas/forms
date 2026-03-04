@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Reservation Form
+    pages:
+    - id: 1
+      name: reservation_form
+      label: Reservation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_info
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_type
+      label: Room Type
+      hint: Select a room type
+      type: select_one
+      options:
+      - '{''label'': ''Single room''}'
+      - '{''label'': ''Double room''}'
+      - '{''label'': ''Suite''}'
+      required: false
+    - id: 4
+      name: checkin_date
+      label: Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: checkout_date
+      label: Check-out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: room_number
+      label: Room Number
+      hint: Enter a room number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Add any additional notes
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

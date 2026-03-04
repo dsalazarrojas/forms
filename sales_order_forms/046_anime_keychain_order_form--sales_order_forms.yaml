@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anime Keychain Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Shipping Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: keychain_series
+      label: Anime Series
+      hint: Which anime series
+      type: select_one
+      options:
+      - Naruto
+      - One Piece
+      - Attack on Titan
+      - My Hero Academia
+      - Demon Slayer
+      - Dragon Ball
+      - Pokemon
+      - Sailor Moon
+      - Death Note
+      - Fullmetal Alchemist
+      - Jujutsu Kaisen
+      - Chainsaw Man
+      - Spy x Family
+      - Other
+      required: true
+    - id: 10
+      name: character_name
+      label: Character Name
+      hint: Which character
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: keychain_style
+      label: Keychain Style
+      hint: null
+      type: select_one
+      options:
+      - Acrylic Charm
+      - Metal Engraved
+      - Rubber PVC
+      - Plush Mini
+      - LED Light-Up
+      - Holographic
+      - Glitter Filled
+      - Other
+      required: true
+    - id: 12
+      name: keychain_size
+      label: Keychain Size
+      hint: null
+      type: select_one
+      options:
+      - Small - 1 inch
+      - Medium - 2 inches
+      - Large - 3 inches
+      - Extra Large - 4 inches
+      required: true
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: Number of keychains
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: unit_price
+      label: Price Per Keychain
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: customization
+      label: Customization Options
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Custom Text
+      - Custom Colors
+      - Special Packaging
+      - Gift Box
+      - Name Engraving
+      - Date Engraving
+      - None
+      required: false
+    - id: 16
+      name: customization_details
+      label: Customization Details
+      hint: Describe your customizations
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipping_method
+      label: Shipping Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping - 5-7 Days
+      - Express Shipping - 2-3 Days
+      - Overnight Shipping
+      - International Shipping
+      - Pick Up In Store
+      required: true
+    - id: 18
+      name: shipping_cost
+      label: Shipping Cost
+      hint: Calculated at checkout
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: gift_order
+      label: Is This a Gift Order
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: gift_message
+      label: Gift Message
+      hint: Optional message to include
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Apple Pay
+      - Google Pay
+      - Bank Transfer
+      required: true
+    - id: 22
+      name: card_type
+      label: Card Type
+      hint: If paying by card
+      type: select_one
+      options:
+      - Visa
+      - MasterCard
+      - American Express
+      - Discover
+      required: false
+    - id: 23
+      name: card_number
+      label: Card Number
+      hint: Enter card number
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: expiration_date
+      label: Expiration Date
+      hint: MM-YYYY
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: cvv
+      label: Security Code
+      hint: CVV on back of card
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: billing_address
+      label: Billing Address
+      hint: If different from shipping
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: promo_code
+      label: Promo Code
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: order_total
+      label: Order Total
+      hint: Including tax and shipping
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: terms_acceptance
+      label: I Accept the Terms and Conditions
+      hint: null
+      type: select_one
+      options:
+      - Yes I Accept
+      - No I Do Not Accept
+      required: true
+    - id: 30
+      name: refund_policy
+      label: I Understand the Refund Policy
+      hint: Custom items are non-refundable
+      type: select_one
+      options:
+      - Yes I Understand
+      - No I Need Information
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Additional Comments or Special Requests
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: customer_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true

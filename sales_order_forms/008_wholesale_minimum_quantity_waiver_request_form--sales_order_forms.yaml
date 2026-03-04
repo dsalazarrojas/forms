@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wholesale Minimum Quantity Waiver Request Form
+    pages:
+    - id: 1
+      name: product_sku
+      label: Product SKU
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: waiver_type
+      label: Waiver Type
+      hint: null
+      type: select_one
+      options:
+      - Waiver Type 1
+      - Waiver Type 2
+      - Waiver Type 3
+      required: false

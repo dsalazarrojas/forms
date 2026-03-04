@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Equipment Setup Request Form
+    pages:
+    - id: 1
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shoot_date
+      label: shoot date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_description
+      label: location description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_needed
+      label: equipment needed
+      hint: null
+      type: select_multiple
+      options:
+      - Camera
+      - Lenses
+      - Lighting
+      - Sound
+      - Grip
+      - Rigging
+      - Electrical
+      - Special Effects
+      required: false
+    - id: 7
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Manager
+      - Team
+      - Client
+      required: false
+    - id: 12
+      name: submitted_to
+      label: submitted to
+      hint: null
+      type: select_one
+      options:
+      - Production Team
+      - Client
+      - Manager
+      - Team
+      required: false
+    - id: 13
+      name: submitted_at
+      label: submitted at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: equipment_type
+      label: equipment type
+      hint: null
+      type: select_one
+      options:
+      - Film
+      - Television
+      - Commercial
+      - Live Event
+      - Other
+      required: false
+    - id: 15
+      name: equipment_model
+      label: equipment model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: equipment_size
+      label: equipment size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_label
+      label: submitted by label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_to_label
+      label: submitted to label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_at_label
+      label: submitted at
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_name
+      label: submitted by name
+      hint: null
+      type: text
+      options: []
+      required: false

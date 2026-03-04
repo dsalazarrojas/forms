@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Tint Waiver
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: previous_tinting
+      label: Have you had brow tinting before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 7
+      name: tint_brand
+      label: Preferred or previous tint brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Oily
+      - Dry
+      - Combination
+      - Sensitive
+      - Normal
+      required: true
+    - id: 9
+      name: known_allergies
+      label: Known allergies to dyes or chemicals
+      hint: Especially PPD or other hair dyes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergic_reactions
+      label: Have you had allergic reactions to dyes
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 11
+      name: skin_conditions
+      label: Current skin conditions around brows
+      hint: Rash, eczema, psoriasis, dermatitis, etc
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: eye_conditions
+      label: Any eye conditions or sensitivities
+      hint: Dry eyes, sensitivity to products, etc
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_medications
+      label: Current medications affecting skin
+      hint: Blood thinners, antibiotics, retinoids, etc
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: recent_procedures
+      label: Recent procedures on face or eyes
+      hint: Last 2 weeks
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pregnancy_status
+      label: Pregnancy or nursing status
+      hint: null
+      type: select_one
+      options:
+      - Pregnant
+      - Nursing
+      - Neither
+      - Prefer not to answer
+      required: true
+    - id: 16
+      name: patch_test
+      label: A patch test was performed
+      hint: Required before tinting
+      type: select_one
+      options:
+      - Yes, passed
+      - Yes, minor reaction
+      - Not yet completed
+      required: true
+    - id: 17
+      name: acknowledge_risks
+      label: I understand the risks of brow tinting
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: sign_waiver
+      label: I waive all liability and consent to tinting
+      hint: null
+      type: select_one
+      options:
+      - Yes, I waive liability
+      - false
+      required: true
+    - id: 19
+      name: signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

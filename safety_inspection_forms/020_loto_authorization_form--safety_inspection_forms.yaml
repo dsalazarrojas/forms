@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: LOTO Authorization Form
+    pages:
+    - id: 1
+      name: lockout_request
+      label: Lockout Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: request_reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lockout_tagging
+      label: Lockout Tagging
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: false
+    - id: 4
+      name: personnel_involved
+      label: Personnel Involved
+      hint: List all personnel involved in lockout/tagout activity
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_id
+      label: Equipment ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location_prophet
+      label: Location
+      hint: Room/Section/Equipment Location
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lockout_device
+      label: Lockout Device
+      hint: null
+      type: select_one
+      options:
+      - Lockout Switch
+      - Lockout Valve
+      - Lockout Valve and Switch
+      required: false
+    - id: 9
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: maintenance_type_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lockout_authorizer
+      label: Lockout Authorizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: lockout_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: lockout_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: lockout_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: lockout_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - Cancelled
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: review_due_by
+      label: Review Due
+      hint: Lockout Review Due Date
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      - Cancelled
+      required: false
+    - id: 21
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: reviewer_designation
+      label: Reviewer Designation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: reviewer_position
+      label: Reviewer Position
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

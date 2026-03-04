@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: sales_appointment_confirmation_form
+    pages:
+    - id: 1
+      name: sales_agent
+      label: Sales Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lead_status
+      label: lead_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''lead''}'
+      - '{''value'': ''customer''}'
+      required: true
+    - id: 5
+      name: scheduled_time
+      label: scheduled_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: scheduled_date
+      label: scheduled_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: appointment_duration
+      label: appointment_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: appointment_note
+      label: appointment_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sync_zoom
+      label: sync_zoom
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 10
+      name: sync_google_calendar
+      label: sync_google_calendar
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 11
+      name: sync_google_calendar_event
+      label: sync_google_calendar_event
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''new''}'
+      - '{''value'': ''update''}'
+      required: true
+    - id: 12
+      name: sync_zoom_meeting_id
+      label: sync_zoom_meeting_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sync_gmail_event
+      label: sync_gmail_event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: sync_gmail_id
+      label: sync_gmail_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sync_outlook_calendar
+      label: sync_outlook_calendar
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: sync_outlook_id
+      label: sync_outlook_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sync_crm_integration
+      label: sync_crm_integration
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true

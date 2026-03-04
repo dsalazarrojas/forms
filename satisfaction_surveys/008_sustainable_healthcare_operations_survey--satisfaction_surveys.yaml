@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Healthcare Operations Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sustainability_initiatives
+      label: What sustainability initiatives do you have in place at your organization?
+      hint: null
+      type: select_one
+      options:
+      - Label1
+      - Label2
+      - Label3
+      required: false
+    - id: 3
+      name: success_stories
+      label: Can you tell us about a success story?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: challenges
+      label: challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: staff_feedback
+      label: staff-feedback
+      hint: null
+      type: number
+      options: []
+      required: false

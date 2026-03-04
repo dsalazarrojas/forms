@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restroom Rental Agreement Form
+    pages:
+    - id: 1
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rental_period
+      label: Rental Period
+      hint: Rental start and end dates
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rental_location
+      label: Rental Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rental_units
+      label: Units
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: rental_price
+      label: Rental Price
+      hint: Price per day or per hour
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Bank
+      required: true
+    - id: 7
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: event_contact
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: approval_person
+      label: Approval Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: approval_location
+      label: Approval Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: approval_comments
+      label: Approval Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_city
+      label: Customer City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_state
+      label: Customer State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_country
+      label: Customer Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: customer_comments
+      label: Customer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aquatic Safety Quick Check Form
+    pages:
+    - id: 1
+      name: inspection_details
+      label: Inspection Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: check_date
+      label: Date of Safety Check
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: check_time
+      label: Time of Check
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location_area
+      label: Area or Pool Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: safety_checks
+      label: Safety Checks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: water_clarity
+      label: Water Clarity Acceptable
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: chemical_levels
+      label: Chemical Levels Within Range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Tested
+      required: true
+    - id: 10
+      name: equipment_functional
+      label: All Equipment Functional
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: deck_hazards
+      label: Deck Free of Hazards
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: lifeguard_present
+      label: Lifeguard Present and Alert
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 13
+      name: emergency_equipment
+      label: Emergency Equipment Available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: issues_found
+      label: Issues or Concerns Found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: action_required
+      label: Action Required
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor Maintenance
+      - Immediate Attention
+      required: true

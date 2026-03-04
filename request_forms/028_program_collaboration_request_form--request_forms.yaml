@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Collaboration Request Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_type
+      label: Collaboration Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Collaboration Type 1''}'
+      - '{''id'': 2, ''text'': ''Collaboration Type 2''}'
+      - '{''id'': 3, ''text'': ''Collaboration Type 3''}'
+      required: false
+    - id: 3
+      name: objectives
+      label: Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: timelines
+      label: Timelines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Review Status 1''}'
+      - '{''id'': 2, ''text'': ''Review Status 2''}'
+      - '{''id'': 3, ''text'': ''Review Status 3''}'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

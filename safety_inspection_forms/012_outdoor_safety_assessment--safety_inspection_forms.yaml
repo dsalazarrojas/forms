@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Outdoor Safety Assessment
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazard_location
+      label: Hazard Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hazard_description
+      label: Hazard Description
+      hint: Please provide a detailed description of the hazard
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hazard_risk_level
+      label: Hazard Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: hazard_precautions
+      label: Hazard Precautions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Hard Hat
+      - Safety Glasses
+      - Steel Toe Boots
+      - First Aid Kit
+      - Fire Extinguisher
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Provide the emergency contact person's name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_phone
+      label: Emergency Phone
+      hint: Please enter your emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

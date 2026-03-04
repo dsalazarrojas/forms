@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: lead_acid_battery_safety_assessment
+    pages:
+    - id: 1
+      name: storage_conditions
+      label: Storage Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: battery_location
+      label: battery_location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Location 1''}'
+      - '{''label'': ''Location 2''}'
+      - '{''label'': ''Location 3''}'
+      required: false
+    - id: 3
+      name: training_readiness
+      label: training_readiness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Ready''}'
+      - '{''label'': ''Not Ready''}'
+      required: false
+    - id: 4
+      name: storage_facilities
+      label: storage_facilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Facility 1''}'
+      - '{''label'': ''Facility 2''}'
+      - '{''label'': ''Facility 3''}'
+      required: false
+    - id: 5
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Equipment 1''}'
+      - '{''label'': ''Equipment 2''}'
+      - '{''label'': ''Equipment 3''}'
+      required: false
+    - id: 6
+      name: battery_characteristics
+      label: battery_characteristics
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: storage_area
+      label: storage_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

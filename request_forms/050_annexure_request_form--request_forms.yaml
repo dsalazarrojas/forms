@@ -1,0 +1,291 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annexure Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee or Member ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: annexure_type
+      label: Type of Annexure Requested
+      hint: null
+      type: select_one
+      options:
+      - Contract Addendum
+      - Policy Appendix
+      - Technical Specification
+      - Financial Statement
+      - Legal Document
+      - Report Supplement
+      - Drawing or Diagram
+      - Data Attachment
+      - Certificate
+      - Other
+      required: true
+    - id: 9
+      name: annexure_number
+      label: Annexure Number or Reference
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: related_document
+      label: Related Main Document
+      hint: Document this annexure relates to
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: document_reference
+      label: Document Reference Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: request_purpose
+      label: Purpose of Request
+      hint: Why do you need this annexure
+      type: select_one
+      options:
+      - Review and Approval
+      - Information Only
+      - Legal Compliance
+      - Audit Requirements
+      - Contract Amendment
+      - Record Keeping
+      - Reference Material
+      - Other
+      required: true
+    - id: 13
+      name: purpose_details
+      label: Please Describe Purpose
+      hint: Additional details
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Urgent - Within 24 Hours
+      - High - Within 3 Days
+      - Normal - Within 1 Week
+      - Low - Within 2 Weeks
+      - No Rush
+      required: true
+    - id: 15
+      name: required_by_date
+      label: Required By Date
+      hint: When do you need this
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: format_preference
+      label: Preferred Format
+      hint: null
+      type: select_one
+      options:
+      - Digital PDF
+      - Digital Word Document
+      - Digital Excel
+      - Physical Copy
+      - Both Digital and Physical
+      required: true
+    - id: 17
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Internal Mail
+      - Courier
+      - Pick Up In Person
+      - Shared Drive
+      required: true
+    - id: 18
+      name: access_level
+      label: Access Level Required
+      hint: null
+      type: select_one
+      options:
+      - View Only
+      - Edit Access
+      - Print Access
+      - Full Access
+      required: true
+    - id: 19
+      name: confidentiality
+      label: Confidentiality Requirements
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Internal Use Only
+      - Confidential
+      - Highly Confidential
+      - Restricted
+      required: true
+    - id: 20
+      name: authorization_needed
+      label: Does This Require Special Authorization
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 21
+      name: authorizing_person
+      label: Authorizing Person Name
+      hint: If authorization needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: authorizing_signature
+      label: Authorizing Signature
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cost_center
+      label: Cost Center or Budget Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_requests
+      label: Have You Requested This Annexure Before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: previous_request_date
+      label: Previous Request Date
+      hint: If yes when
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: additional_documents
+      label: Are Additional Documents Needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: additional_documents_list
+      label: List Additional Documents
+      hint: If yes specify
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: notification_preference
+      label: How Should You Be Notified
+      hint: When annexure is ready
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Internal Message
+      required: true
+    - id: 30
+      name: requester_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: terms_acceptance
+      label: I Agree to Use This Annexure According to Policy
+      hint: null
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 32
+      name: requester_signature
+      label: Electronic Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movie Screening Reservation Form
+    pages:
+    - id: 1
+      name: select_film
+      label: Select Film
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: select_prophets_date
+      label: Select Screening Time
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: select_seat
+      label: Select Seat
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: select_seat
+      label: Select Seats
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: select_date
+      label: Select Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: select_time
+      label: Select Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: select_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

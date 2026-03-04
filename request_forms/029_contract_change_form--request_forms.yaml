@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Change Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_title
+      label: Requestor Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contract_reference
+      label: Contract Reference
+      hint: Contract name or number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contract_date
+      label: Contract Date
+      hint: Original contract date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: vendor_or_contractor
+      label: Vendor or Contractor
+      hint: Other party name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: change_category
+      label: Change Category
+      hint: Type of change
+      type: select_one
+      options:
+      - Scope of work
+      - Pricing
+      - Timeline
+      - Deliverables
+      - Terms and conditions
+      - Personnel
+      - Other
+      required: true
+    - id: 9
+      name: change_description
+      label: Change Description
+      hint: Describe the requested change
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why is this change needed?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: change_initiated_by
+      label: Change Initiated By
+      hint: Who requested this?
+      type: select_one
+      options:
+      - Our organization
+      - Vendor or contractor
+      - Mutual agreement
+      - External requirement
+      required: true
+    - id: 12
+      name: cost_impact
+      label: Cost Impact
+      hint: Financial effect
+      type: select_one
+      options:
+      - No cost impact
+      - Cost increase
+      - Cost decrease
+      - Cost neutral
+      required: true
+    - id: 13
+      name: cost_impact_amount
+      label: Cost Impact Amount
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: schedule_impact
+      label: Schedule Impact
+      hint: Timeline effect
+      type: select_one
+      options:
+      - No delay
+      - Minor delay
+      - Moderate delay
+      - Significant delay
+      required: true
+    - id: 15
+      name: schedule_impact_days
+      label: Schedule Impact Days
+      hint: Number of days
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: quality_impact
+      label: Quality Impact
+      hint: Effect on quality
+      type: select_one
+      options:
+      - No impact
+      - Positive impact
+      - Negative impact
+      - Unknown
+      required: true
+    - id: 17
+      name: risk_assessment
+      label: Risk Assessment
+      hint: Risk level of change
+      type: select_one
+      options:
+      - Low risk
+      - Medium risk
+      - High risk
+      - Critical risk
+      required: true
+    - id: 18
+      name: alternatives_considered
+      label: Alternatives Considered
+      hint: Other options explored
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stakeholder_impact
+      label: Stakeholder Impact
+      hint: Who is affected?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: recommended_action
+      label: Recommended Action
+      hint: What do you recommend?
+      type: select_one
+      options:
+      - Approve as requested
+      - Approve with modifications
+      - Deny
+      - Defer for more information
+      required: true
+    - id: 21
+      name: approvals_needed
+      label: Approvals Needed
+      hint: Who must approve?
+      type: select_multiple
+      options:
+      - Project manager
+      - Department head
+      - Finance
+      - Legal
+      - Executive
+      - Board
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

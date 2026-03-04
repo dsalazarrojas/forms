@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Security Expert Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_one
+      label: What is your primary role in the security industry?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Security Manager''}'
+      - '{''value'': ''Security Analyst''}'
+      - '{''value'': ''Security Consultant''}'
+      - '{''value'': ''Security Specialist''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: question_one
+      label: What is your primary role in the security industry?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Security Manager''}'
+      - '{''value'': ''Security Analyst''}'
+      - '{''value'': ''Security Consultant''}'
+      required: false
+    - id: 4
+      name: contact_info
+      label: How often do you have contact with customers?
+      hint: Daily, weekly or monthly
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: 123-123-1234
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: 2022-07-25
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: 870
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: question_two
+      label: Can you please provide the best way to contact you?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''In-Person''}'
+      required: false
+    - id: 10
+      name: question_three
+      label: How do you usually contact your customers?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Phone''}'
+      - '{''value'': ''Email''}'
+      - '{''value'': ''In-Person''}'
+      required: false
+    - id: 11
+      name: question_four
+      label: What time of the day do you usually contact customers?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: question_five
+      label: On average how many hours do you usually spend working with customers
+        per week?
+      hint: null
+      type: number
+      options: []
+      required: false

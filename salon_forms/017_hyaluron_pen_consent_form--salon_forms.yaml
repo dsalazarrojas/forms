@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hyaluron Pen Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: medical
+      label: Medical
+      hint: null
+      type: select_one
+      options:
+      - Medical
+      - Surgical
+      - Cosmetic
+      - Other
+      required: true
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: treatment_consent
+      label: Treatment Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: treatment_details
+      label: Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Penicillin
+      - Latex
+      - Other
+      required: false
+    - id: 11
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: treatment_area
+      label: Treatment Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: treatment_length
+      label: Treatment Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_session_cost
+      label: Total Session Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_method_details
+      label: Contact Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: treatment_procedure
+      label: Treatment Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: treatment_area_other
+      label: Treatment Area Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: treatment_notes
+      label: Treatment Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_method_other
+      label: Other Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: signature_other
+      label: Other Signature
+      hint: null
+      type: text
+      options: []
+      required: false

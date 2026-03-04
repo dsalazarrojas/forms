@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sponsor Promotion Material Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Request Information
+      hint: null
+      type: select_multiple
+      options:
+      - Sponsor Material
+      - Promotion
+      - Other
+      required: true
+    - id: 2
+      name: form_2
+      label: Material Type 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: Material Type 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: Material Type 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: Material Quantity 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: Material Quantity 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: Material Quantity 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: Material Color 1
+      hint: null
+      type: select_one
+      options:
+      - Color 1
+      - Color 2
+      - Color 3
+      required: false
+    - id: 9
+      name: form_9
+      label: Report 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: Report 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: Report 3
+      hint: null
+      type: date
+      options: []
+      required: false

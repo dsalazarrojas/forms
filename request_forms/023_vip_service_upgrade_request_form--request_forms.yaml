@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: .report_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: service_upgrade_request
+      label: Service Upgrade Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vip_service_upgrade_request_form_1
+      label: VIP Service Upgrade Request Form 1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 8
+      name: vip_service_upgrade_request_form_2
+      label: VIP Service Upgrade Request Form 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: report_form
+      label: Report Form
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 13
+      name: vip_service_upgrade_request_form_3
+      label: VIP Service Upgrade Request Form 3
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 14
+      name: vip_service_upgrade_request_form_4
+      label: VIP Service Upgrade Request Form 4
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 15
+      name: vip_service_upgrade_request_form_5
+      label: VIP Service Upgrade Request Form 5
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 16
+      name: vip_service_upgrade_request_form_6
+      label: VIP Service Upgrade Request Form 6
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 17
+      name: vip_service_upgrade_request_form_7
+      label: VIP Service Upgrade Request Form 7
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 18
+      name: vip_service_upgrade_request_form_8
+      label: VIP Service Upgrade Request Form 8
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 19
+      name: vip_report_form
+      label: vip Report Form
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 20
+      name: vip_service_upgrade_request_form
+      label: VIP Service Upgrade Request Form
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 21
+      name: vip_service_upgrade_request_form_9
+      label: VIP Service Upgrade Request Form 9
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 22
+      name: vip_service_upgrade_request_form_10
+      label: VIP Service Upgrade Request Form 10
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 23
+      name: vip_service_upgrade_request_form_11
+      label: VIP Service Upgrade Request Form 11
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 24
+      name: vip_service_upgrade_request_form_12
+      label: VIP Service Upgrade Request Form 12
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true
+    - id: 25
+      name: vip_service_upgrade_request_form_13
+      label: VIP Service Upgrade Request Form 13
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2'', ''label'': ''Option 2''}'
+      - '{''value'': ''Option 3'', ''label'': ''Option 3''}'
+      required: true

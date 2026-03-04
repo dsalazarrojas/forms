@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: sales_operations_handover_checklist
+    pages:
+    - id: 1
+      name: sales_order_details
+      label: Sales Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sale_stage
+      label: Sale Stage
+      hint: null
+      type: select_one
+      options:
+      - Onboarding
+      - Qualified
+      - Qualified and Negotiating
+      - Qualified and Qualified but no Decision Made
+      required: false
+    - id: 4
+      name: account_manager
+      label: Account Manager
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 5
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 6
+      name: sales_team
+      label: Sales Team
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Team 1
+      - Sales Team 2
+      - Sales Team 3
+      required: false
+    - id: 7
+      name: deal_size
+      label: Deal Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 8
+      name: deal_status
+      label: Deal Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Closed
+      - Lost
+      required: false
+    - id: 9
+      name: sales_stage_details
+      label: Sales Stage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: deal_value
+      label: Deal Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: sales_order_date
+      label: Sales Order Date
+      hint: null
+      type: date
+      options: []
+      required: false

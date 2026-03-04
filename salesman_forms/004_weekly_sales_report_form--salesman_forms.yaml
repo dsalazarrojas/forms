@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Sales Report Form
+    pages:
+    - id: 1
+      name: weekly_sales_report_form
+      label: Weekly Sales Report Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sales_region
+      label: Sales Region
+      hint: Select one or more sales regions
+      type: select_multiple
+      options:
+      - Sales Region 1
+      - Sales Region 2
+      - Sales Region 3
+      required: false
+    - id: 4
+      name: weekly_sales_date
+      label: Weekly Sales Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: sales_rep_name
+      label: Sales Rep Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: total_sales
+      label: Total Sales
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: sales_region_2
+      label: Sales Region 2
+      hint: null
+      type: select_one
+      options:
+      - Sales Region 1
+      - Sales Region 2
+      - Sales Region 3
+      required: false
+    - id: 8
+      name: sales_region_3
+      label: Sales Region 3
+      hint: null
+      type: select_one
+      options:
+      - Sales Region 1
+      - Sales Region 2
+      - Sales Region 3
+      required: false
+    - id: 9
+      name: sales_region_4
+      label: Sales Region 4
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Region 1
+      - Sales Region 2
+      - Sales Region 3
+      required: false

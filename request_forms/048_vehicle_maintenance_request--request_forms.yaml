@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: vehicle-maintenance-request
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: vehicle-make
+      hint: null
+      type: select_one
+      options:
+      - Toyota
+      - Honda
+      - Ford
+      - Nissan
+      - BMW
+      - Tesla
+      required: true
+    - id: 3
+      name: vehicle_model
+      label: vehicle-model
+      hint: null
+      type: select_one
+      options:
+      - Model T
+      - Model S
+      - Model 3
+      - Model X
+      - Model Y
+      - Model A
+      required: true
+    - id: 4
+      name: vehicle_year
+      label: vehicle-year
+      hint: null
+      type: select_one
+      options:
+      - '1990'
+      - '1991'
+      - '1992'
+      - '1993'
+      - '1994'
+      - '1995'
+      required: true
+    - id: 5
+      name: description
+      label: description
+      hint: Brief description of the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_identified
+      label: issue-identified
+      hint: Check all issues that apply
+      type: select_multiple
+      options:
+      - Issue 1
+      - Issue 2
+      - Issue 3
+      - Issue 4
+      - Issue 5
+      required: true
+    - id: 7
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: phone-number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: email-address
+      hint: null
+      type: email
+      options: []
+      required: false

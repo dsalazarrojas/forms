@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Fill Interval Preference Survey
+    pages:
+    - id: 1
+      name: lash_fill_frequency
+      label: Frequency of lash fills
+      hint: null
+      type: select_multiple
+      options:
+      - Once a week
+      - Twice a month
+      - Once a month
+      - Quarterly
+      - Never
+      required: false
+    - id: 2
+      name: lash_fill_satisfaction
+      label: Satisfaction with lash fills
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: lash_fill_influencing_factors
+      label: What factors influence your decision on frequency of lash fills?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      required: false
+    - id: 4
+      name: lash_fill_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: lash_fills_last_fill
+      label: How often do you get lashes fills?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: lash_fill_satisfaction_last_fill
+      label: How satisfied are you with your last fill?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 7
+      name: lash_fill_influencing_factors_last_fill
+      label: What factors influence your last lash fill decision?
+      hint: null
+      type: select_one
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      required: false
+    - id: 8
+      name: lash_frequency_influence
+      label: Which factor influences the frequency of your lash fills?
+      hint: null
+      type: select_one
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      required: false
+    - id: 9
+      name: lash_frequency_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: lash_fill_satisfaction_influence
+      label: Which factor influences your satisfaction with lash fills?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      - Quality of service
+      required: false
+    - id: 11
+      name: lash_frequency_satisfaction
+      label: How satisfied are you with the frequency of your lash fills?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 12
+      name: lash_influence
+      label: What factors influence your desire for lash fills?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      - Quality of service
+      required: false
+    - id: 13
+      name: lash_salon_frequency
+      label: How often do you want your lashes to be filled at the salon?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: lash_satisfaction_salon
+      label: How satisfied would you be with this frequency?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 15
+      name: lash_influence_salon
+      label: What factors influence your desire for this frequency?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      - Quality of service
+      required: false
+    - id: 16
+      name: lash_salon_frequency_satisfaction
+      label: How satisfied would you be with this frequency?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 17
+      name: lash_influence_salon
+      label: What factors influence your desire for this frequency?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      - Quality of service
+      required: false
+    - id: 18
+      name: minimalist_salon_frequency
+      label: How often do you want to visit for lash fills?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: lash_influence_minimalist
+      label: What makes you visit more or less frequently?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      - Quality of service
+      required: false
+    - id: 20
+      name: minimalist_frequency
+      label: What influences your visit frequency?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      - Quality of service
+      required: false
+    - id: 21
+      name: lash_frequency_minimalist
+      label: How satisfied are you with visiting for lash fills?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 22
+      name: lash_influence_minimalist
+      label: What influences your satisfaction with visiting for lash fills?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      - Quality of service
+      required: false
+    - id: 23
+      name: minimalist_frequency_satisfaction
+      label: How satisfied are you with visiting for lash fills?
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 24
+      name: lash_frequency_minimalist_influence
+      label: What influences your satisfaction with visiting for lash fills?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      - Quality of service
+      required: false
+    - id: 25
+      name: minimalist_frequency_influence
+      label: What factors influence your desire to visit more or less frequently?
+      hint: null
+      type: select_multiple
+      options:
+      - Price
+      - Convenience
+      - Appointment availability
+      - Quality of service
+      required: false

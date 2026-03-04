@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: personal_trainer_request_form
+    pages:
+    - id: 1
+      name: request_info
+      label: Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: best_contact_method
+      label: Best Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Contact
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: trainer_info
+      label: Trainer Info
+      hint: null
+      type: text
+      options: []
+      required: false

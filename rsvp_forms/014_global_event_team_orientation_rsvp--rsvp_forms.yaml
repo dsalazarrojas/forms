@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Event Team Orientation RSVP
+    pages:
+    - id: 1
+      name: global_event_team_orientation_rsvp_form
+      label: Event Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp_role
+      label: RSVP Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rsvp_roles_rsvp_role_options
+      label: RSVP Role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rsvp_attend
+      label: Attendee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_attendee
+      label: Attendee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_session_preference
+      label: Session Preference
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: rsvp_special_reqs
+      label: Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_special_reqs
+      label: Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rsvp_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rsvp_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: rsvp_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

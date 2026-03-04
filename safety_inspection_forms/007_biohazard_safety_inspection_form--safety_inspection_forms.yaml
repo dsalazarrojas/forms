@@ -1,0 +1,117 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Biohazard Safety Inspection Form
+    pages:
+      - id: 1
+        name: inspection_overview
+        label: -- Inspection Overview --
+        hint: Use this form to document biohazard safety inspections and corrective actions
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: inspector_name
+        label: Inspector name
+        hint: Full name of the inspector
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: inspection_date
+        label: Inspection date
+        hint: Date inspection was performed
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: facility_location
+        label: Facility location
+        hint: Building and room or lab identifier
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: area_or_unit
+        label: Area or unit inspected
+        hint: Specific area such as hood, lab bench, storage
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: compliance_ppe
+        label: PPE compliance
+        hint: Are personnel using required PPE
+        type: select_one
+        options:
+          - Compliant
+          - Non compliant
+          - Not applicable
+        required: true
+      - id: 7
+        name: biohazard_waste_storage
+        label: Biohazard waste storage condition
+        hint: Evaluate segregation and labeling
+        type: select_one
+        options:
+          - Acceptable
+          - Needs attention
+          - Unacceptable
+        required: true
+      - id: 8
+        name: spill_or_incident_observed
+        label: Spill or incident observed
+        hint: Indicate if evidence of spills or incidents was found
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 9
+        name: immediate_actions
+        label: Immediate actions taken
+        hint: Describe any actions taken at the time of inspection
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: corrective_actions_required
+        label: Corrective actions required
+        hint: Indicate if corrective actions are required
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 11
+        name: corrective_action_details
+        label: Corrective action details
+        hint: Provide tasks, responsible party, and due dates
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: follow_up_date
+        label: Follow up date
+        hint: Target date for verification of corrective actions
+        type: date
+        options: []
+        required: false
+      - id: 13
+        name: inspector_comments
+        label: Inspector comments
+        hint: Additional notes or recommendations
+        type: text
+        options: []
+        required: false

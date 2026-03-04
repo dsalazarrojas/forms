@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Benevolence Fund Request Form
+    pages:
+    - id: 1
+      name: section_requester
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_request
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: request_type
+      label: Type of Assistance Needed
+      hint: null
+      type: select_one
+      options:
+      - Medical Expenses
+      - Housing Assistance
+      - Food Assistance
+      - Utilities
+      - Education
+      - Disaster Relief
+      - Emergency Assistance
+      - Other
+      required: true
+    - id: 13
+      name: amount_requested
+      label: Amount of Funds Requested
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: justification
+      label: Justification for Request
+      hint: Explain why you need this assistance
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon do you need this assistance
+      type: select_one
+      options:
+      - Immediate (within days)
+      - Urgent (within 1-2 weeks)
+      - Soon (within 1 month)
+      - Not Urgent
+      required: true
+    - id: 16
+      name: section_impact
+      label: -- Impact and Circumstances --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: current_situation
+      label: Current Financial Situation
+      hint: Brief description of your circumstances
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: other_resources
+      label: Other Resources or Assistance
+      hint: Have you sought help elsewhere
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: family_status
+      label: Family Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Single Parent
+      - Other
+      required: false
+    - id: 20
+      name: number_dependents
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: section_agreement
+      label: -- Acknowledgment and Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: truthfulness
+      label: I Certify All Information Is True
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 23
+      name: privacy_consent
+      label: I Consent to Information Being Used for Evaluation
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 24
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

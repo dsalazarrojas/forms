@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checkout Display Light Order Form
+    pages:
+    - id: 1
+      name: store_name
+      label: Store Name
+      hint: Name of the retail store
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: store_location
+      label: Store Location
+      hint: Full address of the store
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: Name of the store contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address for order communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for order inquiries
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: Order Date
+      hint: Date of this order
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: delivery_date
+      label: Required Delivery Date
+      hint: When do you need the order delivered
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: display_type
+      label: Display Type
+      hint: Type of display light needed
+      type: select_one
+      options:
+      - LED Strip Lights
+      - Spotlight Display
+      - Backlit Panel
+      - Neon Sign
+      - Light Box
+      - Custom Display
+      required: true
+    - id: 9
+      name: display_size
+      label: Display Size
+      hint: Size specifications for the display
+      type: select_one
+      options:
+      - Small (under 2 ft)
+      - Medium (2-4 ft)
+      - Large (4-6 ft)
+      - Extra Large (over 6 ft)
+      - Custom size
+      required: true
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: Number of display lights to order
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: color_temperature
+      label: Color Temperature
+      hint: Preferred light color
+      type: select_one
+      options:
+      - Warm White (2700K-3000K)
+      - Natural White (4000K)
+      - Cool White (5000K-6500K)
+      - RGB Color Changing
+      - Custom
+      required: true
+    - id: 12
+      name: brightness_level
+      label: Brightness Level
+      hint: Desired brightness
+      type: select_one
+      options:
+      - Low (ambient)
+      - Medium (standard)
+      - High (bright)
+      - Dimmable
+      required: true
+    - id: 13
+      name: power_requirements
+      label: Power Requirements
+      hint: Power specifications
+      type: select_one
+      options:
+      - Standard 110V
+      - 220V
+      - Battery powered
+      - USB powered
+      - Custom
+      required: true
+    - id: 14
+      name: mounting_type
+      label: Mounting Type
+      hint: How will the display be mounted
+      type: select_one
+      options:
+      - Wall mount
+      - Ceiling mount
+      - Floor stand
+      - Counter display
+      - Hanging
+      required: true
+    - id: 15
+      name: custom_branding
+      label: Custom Branding
+      hint: Do you need custom branding or logo
+      type: select_one
+      options:
+      - Yes, with logo
+      - Yes, with text
+      - No custom branding
+      required: true
+    - id: 16
+      name: branding_details
+      label: Branding Details
+      hint: Describe your branding requirements
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: installation_required
+      label: Installation Required
+      hint: Do you need professional installation
+      type: select_one
+      options:
+      - Yes, professional installation
+      - No, self-install
+      required: true
+    - id: 18
+      name: shipping_method
+      label: Shipping Method
+      hint: Preferred shipping option
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Overnight shipping
+      - Store pickup
+      required: true
+    - id: 19
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for this order
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Purchase order
+      - Bank transfer
+      - Check
+      required: true
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special delivery or installation notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_total
+      label: Estimated Order Total
+      hint: Estimated total cost if known
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I accept the terms and conditions
+      type: select_one
+      options:
+      - Yes, I accept
+      - false
+      required: true

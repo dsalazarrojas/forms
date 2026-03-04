@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botulinum Toxin Aftercare Form
+    pages:
+    - id: 1
+      name: section_header_client
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: treatment_date
+      label: Treatment Date
+      hint: Date of botulinum toxin injection
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_header_instructions
+      label: -- Aftercare Instructions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: avoid_exercise
+      label: Avoid strenuous exercise for 24 hours
+      hint: Follow post-treatment care guidelines
+      type: select_one
+      options:
+      - Understood
+      - Need clarification
+      required: true
+    - id: 6
+      name: avoid_alcohol
+      label: Avoid alcohol and blood thinners for 24 hours
+      hint: Reduces bruising risk
+      type: select_one
+      options:
+      - Understood
+      - Need clarification
+      required: true
+    - id: 7
+      name: avoid_touching
+      label: Do not touch or massage treated areas
+      hint: Prevents product migration
+      type: select_one
+      options:
+      - Understood
+      - Need clarification
+      required: true
+    - id: 8
+      name: upright_position
+      label: Stay upright for at least 4 hours
+      hint: Helps product settle properly
+      type: select_one
+      options:
+      - Understood
+      - Need clarification
+      required: true
+    - id: 9
+      name: section_header_side_effects
+      label: -- Expected Effects --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: minor_swelling
+      label: Minor swelling or redness expected
+      hint: Usually resolves within hours
+      type: select_one
+      options:
+      - Acknowledged
+      - Questions
+      required: true
+    - id: 11
+      name: bruising_possible
+      label: Slight bruising may occur
+      hint: Typically fades within 1-2 weeks
+      type: select_one
+      options:
+      - Acknowledged
+      - Questions
+      required: true
+    - id: 12
+      name: results_timeline
+      label: Full results appear within
+      hint: Usually 7-14 days after treatment
+      type: select_one
+      options:
+      - 2-3 days
+      - 5-7 days
+      - 7-14 days
+      - 2-3 weeks
+      required: true
+    - id: 13
+      name: section_header_skincare
+      label: -- Skincare Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: moisturizer_use
+      label: Use gentle moisturizer regularly
+      hint: Keeps skin hydrated and healthy
+      type: select_one
+      options:
+      - Will follow
+      - Already doing
+      - Prefer not to
+      required: true
+    - id: 15
+      name: sunscreen_use
+      label: Apply SPF 30+ sunscreen daily
+      hint: Protects skin from UV damage
+      type: select_one
+      options:
+      - Will follow
+      - Already doing
+      - Prefer not to
+      required: true
+    - id: 16
+      name: avoid_products
+      label: Avoid harsh skincare products for 24 hours
+      hint: No retinol, acids, or vitamin C serums
+      type: select_one
+      options:
+      - Will avoid
+      - Already aware
+      - Have questions
+      required: true
+    - id: 17
+      name: section_header_contact
+      label: -- Follow-up --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: contact_phone
+      label: Best Contact Number
+      hint: For follow-up questions
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_email
+      label: Email Address
+      hint: For sending aftercare reminders
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_date
+      label: Recommended Follow-up Visit Date
+      hint: Typically 2 weeks post-treatment
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: client_signature
+      label: Client understands aftercare instructions
+      hint: Check box to confirm
+      type: select_one
+      options:
+      - I agree and understand
+      - I have questions
+      required: true

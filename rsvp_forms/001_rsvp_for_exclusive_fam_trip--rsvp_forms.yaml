@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: RSVP For Exclusive FAM Trip
+    pages:
+    - id: 1
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rsvp_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 3
+      name: attendee_first_name
+      label: Attendee First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: attendee_last_name
+      label: Attendee Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: travel_agency_details
+      label: Travel Agency Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: attendee_preferred_airport
+      label: Attendee Preferred Airport
+      hint: null
+      type: select_multiple
+      options:
+      - Amsterdam
+      - Atlanta
+      - Chicago
+      - Dallas
+      - Houston
+      - Los Angeles
+      - Miami
+      - New York
+      - Paris
+      - Washington D.C.
+      required: false
+    - id: 9
+      name: travel_agent_details
+      label: Travel Agent Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: travel_agent_name
+      label: Travel Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: rsvp_confirmation
+      label: RSVP Confirmation
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: rsvp_confirmation_details
+      label: Confirmation Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: confirmation_deadline
+      label: Confirmation Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: trip_dates
+      label: Trip Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: trip_type
+      label: Trip Type
+      hint: null
+      type: select_one
+      options:
+      - FAM Trip
+      - Non-FAM Trip
+      required: false
+    - id: 17
+      name: trip_status
+      label: Trip Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      required: false
+    - id: 18
+      name: travel_agent_phone
+      label: Travel Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: travel_agent_email
+      label: Travel Agent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Conference
+      - Meeting
+      - Event
+      - Trade Show
+      required: false
+    - id: 23
+      name: trip_lead_name
+      label: Trip Lead Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: trip_lead_phone
+      label: Trip Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: trip_lead_email
+      label: Trip Lead Email
+      hint: null
+      type: email
+      options: []
+      required: true

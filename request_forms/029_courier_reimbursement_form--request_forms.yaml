@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Courier Reimbursement Form
+    pages:
+    - id: 1
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gas_costs
+      label: Gas Costs
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: additional_purchases
+      label: Additional Purchases
+      hint: null
+      type: select_multiple
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: false
+    - id: 5
+      name: time_card
+      label: Time Card
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

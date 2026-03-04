@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scentsy Monthly Pre Order
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - American Express
+      - Discover
+      - Mastercard
+      - PayPal
+      required: true
+    - id: 12
+      name: customer_rep
+      label: Customer Rep
+      hint: null
+      type: select_multiple
+      options:
+      - Jim
+      - John
+      - Jane
+      - Joe
+      required: true
+    - id: 13
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: sales_rep_notes
+      label: Sales Rep Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: order_source
+      label: Order Source
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Event
+      - In-Store
+      - Mailer
+      required: true
+    - id: 18
+      name: order_source_other
+      label: Order Source Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_source
+      label: Customer Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_source_other
+      label: Customer Source Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: date_of_sale
+      label: Date of Sale
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sales_rep_id
+      label: Sales Rep ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

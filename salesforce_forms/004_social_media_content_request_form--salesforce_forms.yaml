@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Content Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: content_requester
+      label: Content Requester
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Video''}'
+      - '{''text'': ''Image''}'
+      - '{''text'': ''Post''}'
+      required: true
+    - id: 4
+      name: content_description
+      label: Content Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: content_location
+      label: Content Location
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Facebook''}'
+      - '{''text'': ''Twitter''}'
+      - '{''text'': ''Instagram''}'
+      required: true
+    - id: 6
+      name: content_publishing_schedule
+      label: Content Publishing Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Daily''}'
+      - '{''text'': ''Weekly''}'
+      - '{''text'': ''Bi-Weekly''}'
+      - '{''text'': ''Monthly''}'
+      required: false
+    - id: 7
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: content_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: content_request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: content_requester_email
+      label: Content Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: content_requester_phone
+      label: Content Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: content_requester_notes
+      label: Content Requester Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: request_deadline
+      label: Request Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_deadline
+      label: Review Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: approval_required
+      label: Approval Required
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: content_requester_department
+      label: Content Requester Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: approval_result
+      label: Approval Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Approved''}'
+      - '{''text'': ''Rejected''}'
+      - '{''text'': ''Pending''}'
+      required: true
+    - id: 20
+      name: request_notes
+      label: Request Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: content_requester_company
+      label: Content Requester Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: content_requester_jobtitle
+      label: Content Requester Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: content_requester_location
+      label: Content Requester Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reviewer_name
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false

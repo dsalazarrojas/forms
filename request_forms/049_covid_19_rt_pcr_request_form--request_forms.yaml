@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 RT PCR Request Form
+    pages:
+    - id: 1
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_test_request
+      label: -- Test Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_test
+      label: Reason for RT-PCR Test
+      hint: null
+      type: select_one
+      options:
+      - Symptomatic
+      - Asymptomatic screening
+      - Close contact screening
+      - Pre-procedure screening
+      - Travel requirement
+      - Workplace requirement
+      - Surveillance
+      - Other
+      required: true
+    - id: 10
+      name: symptom_onset
+      label: Date Symptoms Started (if applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: symptoms
+      label: Current Symptoms
+      hint: null
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of breath
+      - Sore throat
+      - Loss of taste or smell
+      - Fatigue
+      - Body aches
+      - Asymptomatic
+      - Other
+      required: false
+    - id: 12
+      name: section_test_timing
+      label: -- Test Timing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_test_date
+      label: Preferred Test Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: urgent_testing
+      label: Urgent testing needed?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 15
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: previous_covid_test
+      label: Previous COVID-19 Test Result
+      hint: null
+      type: select_one
+      options:
+      - Never tested
+      - Negative
+      - Positive
+      - Inconclusive
+      - Unknown
+      required: true
+    - id: 17
+      name: previous_test_date
+      label: Date of Previous Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: covid_diagnosis
+      label: Previous COVID-19 Diagnosis
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 19
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
+      - Boosted
+      required: true
+    - id: 20
+      name: section_contact_info
+      label: -- Contact and Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: preferred_location
+      label: Preferred Testing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: result_notification
+      label: How would you prefer to receive results?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Patient portal
+      - Mail
+      required: true
+    - id: 23
+      name: request_date
+      label: Request Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

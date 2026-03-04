@@ -1,0 +1,116 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Issue Record Request Form
+    pages:
+    - id: 1
+      name: requestor
+      label: Requestor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Auto''}'
+      - '{''id'': 2, ''value'': ''Home''}'
+      - '{''id'': 3, ''value'': ''Medical''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      - '{''id'': 5, ''value'': "Workers'' Compensation"}'
+      required: true
+    - id: 5
+      name: coverage_type
+      label: Coverage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Auto''}'
+      - '{''id'': 2, ''value'': ''Home''}'
+      - '{''id'': 3, ''value'': ''Medical''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      - '{''id'': 5, ''value'': "Workers'' Compensation"}'
+      required: true
+    - id: 6
+      name: issue_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Active''}'
+      - '{''id'': 2, ''value'': ''Closed''}'
+      - '{''id'': 3, ''value'': ''Pending''}'
+      required: true
+    - id: 9
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Active''}'
+      - '{''id'': 2, ''value'': ''Closed''}'
+      - '{''id'': 3, ''value'': ''Pending''}'
+      required: true
+    - id: 10
+      name: claim_number
+      label: Claim Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: issue_record
+      label: Issue Record
+      hint: null
+      type: text
+      options: []
+      required: false

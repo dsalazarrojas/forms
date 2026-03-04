@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: opportunity_request_form_requesting_a_job_to_be_posted
+    pages:
+    - id: 1
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - full_time
+      - part_time
+      - contract
+      required: true
+    - id: 5
+      name: employment_type_full_time
+      label: Full time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employment_type_part_time
+      label: Part time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employment_type_contract
+      label: Contract
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: benefits
+      label: Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - medical
+      - dental
+      - vision
+      required: true
+    - id: 10
+      name: benefits_medical
+      label: Medical
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: benefits_dental
+      label: Dental
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: benefits_vision
+      label: Vision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_posting
+      label: Job Posting
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: job_posting_date
+      label: Job Posting Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - open
+      - close
+      required: true
+    - id: 16
+      name: job_status_open
+      label: Open
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_status_close
+      label: Close
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: job_openings_k
+      label: Job Openings
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: job_openings_per_year
+      label: Job Openings Per Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_openings_job_opening
+      label: Job Openings - Job Opening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_opening
+      label: Job Opening
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

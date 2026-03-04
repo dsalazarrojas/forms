@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disposable Menu Order Form
+    pages:
+    - id: 1
+      name: menu_name
+      label: menu-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: menu_type
+      label: menu-type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: order_date
+      label: order-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_time
+      label: order-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false

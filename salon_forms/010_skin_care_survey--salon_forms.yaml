@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Care Survey
+    pages:
+    - id: 1
+      name: skin_care_routine
+      label: Skin Care Routine
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: skin_treatment_frequency
+      label: Skin Treatment Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: skin_care_goals
+      label: Skin Care Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: concerns
+      label: Concerns
+      hint: What specific concerns do you have about your skin?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: perceptions
+      label: Perceptions
+      hint: How would you describe your skin?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: skin_treatment_behavior
+      label: Skin Treatment Behavior
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: skin_treatment_clinics
+      label: Skin Treatment Clinics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: skin_treatment_products
+      label: Skin Treatment Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

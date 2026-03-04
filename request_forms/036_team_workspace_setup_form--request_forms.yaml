@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Workspace Setup Form
+    pages:
+    - id: 1
+      name: team_leads
+      label: Team Leads
+      hint: List team leads that will be granted access
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: List team members that will be granted access
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: workspace_name
+      label: Workspace Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: workspace_description
+      label: Workspace Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collaboration_needs
+      label: Collaboration Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Member
+      - Observer
+      required: false
+    - id: 7
+      name: workspace_type
+      label: Workspace Type
+      hint: null
+      type: select_one
+      options:
+      - Team Workspace
+      - Personal Workspace
+      - Project Workspace
+      required: false
+    - id: 8
+      name: setup_date
+      label: Setup Date
+      hint: null
+      type: date
+      options: []
+      required: false

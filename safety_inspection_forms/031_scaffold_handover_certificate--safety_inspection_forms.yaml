@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scaffold Handover Certificate
+    pages:
+    - id: 1
+      name: scaffolding_details
+      label: scaffold_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inspection_status
+      label: inspection_status
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Rejected
+      required: false
+    - id: 3
+      name: site_manager
+      label: site_manager_name
+      hint: null
+      type: select_multiple
+      options:
+      - Construction Supervisor
+      - Site Manager
+      - Project Manager
+      required: false
+    - id: 4
+      name: acceptance_date
+      label: acceptance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: site_location
+      label: site_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: site_manager_email
+      label: site_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: site_manager_phone
+      label: site_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false

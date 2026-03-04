@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Obituary Information Request
+    pages:
+    - id: 1
+      name: family_members
+      label: Family Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: name_of_deceased
+      label: Name Of Deceased
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_death
+      label: Date Of Death
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: place_of_death
+      label: Place Of Death
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: funeral_home
+      label: Funeral Home
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: obituary_text
+      label: Obituary Text
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: share_obituary
+      label: Share Obituary
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      required: true
+    - id: 8
+      name: share_obituary_link
+      label: Share Obituary Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: obituary_link
+      label: Obituary Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: form_submitter_email
+      label: Form Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

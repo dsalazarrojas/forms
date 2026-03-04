@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Desktop Access License Request Form
+    pages:
+    - id: 1
+      name: virtual_desktop_access_license_request_form
+      label: Virtual Desktop Access License Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: user_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supporting_document
+      label: supporting_document
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approval
+      label: approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: manager_approval_date
+      label: manager_approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: manager_approval_time
+      label: manager_approval_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_comments
+      label: user_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true

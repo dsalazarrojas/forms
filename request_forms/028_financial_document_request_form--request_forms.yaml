@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Document Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Invoice''}'
+      - '{2: ''Receipt''}'
+      - '{3: ''Statement''}'
+      - '{4: ''Other''}'
+      - '{5: ''Unknown''}'
+      required: false
+    - id: 3
+      name: file_uploader
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Text''}'
+      - '{2: ''Image''}'
+      - '{3: ''Audio''}'
+      - '{4: ''Video''}'
+      - '{5: ''Other''}'
+      required: false
+    - id: 6
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: file_location
+      label: File Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Pending''}'
+      - '{2: ''Approved''}'
+      - '{3: ''Rejected''}'
+      - '{4: ''Completed''}'
+      - '{5: ''Unknown''}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: financial_institution
+      label: Financial Institution
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Bank of America''}'
+      - '{2: ''Wells Fargo''}'
+      - '{3: ''Chase''}'
+      - '{4: ''Citi''}'
+      required: false
+    - id: 13
+      name: branch
+      label: Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_description_2
+      label: File Description 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: file_description_3
+      label: File Description 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: file_description_4
+      label: File Description 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: file_description_5
+      label: File Description 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: file_description_6
+      label: File Description 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: file_description_7
+      label: File Description 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: file_description_8
+      label: File Description 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

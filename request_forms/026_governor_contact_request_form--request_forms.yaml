@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Governor Contact Request Form
+    pages:
+    - id: 1
+      name: constituent_input
+      label: Constituent Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Email''}'
+      - '{''id'': 2, ''value'': ''Phone''}'
+      - '{''id'': 3, ''value'': ''In-Person''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: contact_request
+      label: Contact Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: constituent_outreach
+      label: Constituent Outreach
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: governor_response
+      label: Governor Response
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: route_contact
+      label: Route Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''New''}'
+      - '{''id'': 2, ''value'': ''Open''}'
+      - '{''id'': 3, ''value'': ''In Progress''}'
+      - '{''id'': 4, ''value'': ''Closed''}'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

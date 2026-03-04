@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: RV Parking Spot Reservation Form
+    pages:
+    - id: 1
+      name: rv_parking_spot_reservation_form
+      label: RV Parking Spot Reservation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: rv_type
+      label: RV Type
+      hint: null
+      type: select_one
+      options:
+      - Motorhome
+      - Trailer
+      - Caravan
+      - Tent
+      - Other
+      required: false
+    - id: 5
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Text
+      - Chat
+      required: false
+    - id: 7
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 10
+      name: payment_method_other
+      label: Other Payment Method
+      hint: null
+      type: text
+      options: []
+      required: false

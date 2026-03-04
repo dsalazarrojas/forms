@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Offer Sheet
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name
+      hint: Person making the offer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company or Organization Name
+      hint: Business making the offer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: artist_name
+      label: Artist or Performer Name
+      hint: Who is being offered?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artist_email
+      label: Artist Email
+      hint: Email to send the offer to
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: artist_phone
+      label: Artist Phone Number
+      hint: Artist contact number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Event or Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: event_name
+      label: Event or Project Name
+      hint: Name of the engagement
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_type
+      label: Type of Event or Project
+      hint: Concert, corporate event, gig, etc.
+      type: select_one
+      options:
+      - Concert or Music Festival
+      - Corporate Event
+      - Club or Bar Gig
+      - Wedding
+      - Private Party
+      - Theater Production
+      - Touring Show
+      - Recording Session
+      - Other
+      required: true
+    - id: 13
+      name: event_date
+      label: Event Date
+      hint: When is the event?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: event_location
+      label: Event Location or Venue
+      hint: Where will the event take place?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Performance or Work Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: performance_description
+      label: Description of Work Required
+      hint: What will the artist do?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: performance_duration
+      label: Duration of Performance or Work
+      hint: How long should it be?
+      type: select_one
+      options:
+      - 30 minutes
+      - 1 hour
+      - 1.5 hours
+      - 2 hours
+      - 2.5 hours
+      - 3+ hours
+      - Project-based
+      required: true
+    - id: 18
+      name: section_header_5
+      label: -- Offer Terms and Compensation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: offer_amount
+      label: Offered Compensation Amount (GBP)
+      hint: What are you offering to pay?
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: compensation_type
+      label: Type of Compensation
+      hint: How will payment be made?
+      type: select_one
+      options:
+      - Full payment upfront
+      - Half payment upfront, half on completion
+      - Payment on completion
+      - Percentage of revenue
+      - Other arrangement
+      required: true
+    - id: 21
+      name: section_header_6
+      label: -- Venue or Event Conditions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: physical_conditions
+      label: Physical Conditions or Requirements
+      hint: Stage size, equipment, setup, etc.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: audience_info
+      label: Expected Audience or Event Scale
+      hint: Size of expected audience
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_acceptance
+      label: Artist Agrees to These Offer Terms
+      hint: Confirm acceptance of the offer
+      type: select_one
+      options:
+      - Offer Accepted
+      - Offer Pending Review
+      - Offer Declined
+      required: true
+    - id: 25
+      name: offer_date
+      label: Date of This Offer
+      hint: When is the offer being made?
+      type: date
+      options: []
+      required: true

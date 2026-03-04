@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Crew Appreciation Party RSVP Form
+    pages:
+    - id: 1
+      name: rsvp_details
+      label: RSVP Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_type
+      label: RSVP Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Attending''}'
+      - '{''label'': ''Unable to Attend''}'
+      - '{''label'': ''Maybe''}'
+      required: true
+    - id: 7
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vegetarian''}'
+      - '{''label'': ''Vegan''}'
+      - '{''label'': ''Gluten-free''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: rsvp_by
+      label: RSVP By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: false

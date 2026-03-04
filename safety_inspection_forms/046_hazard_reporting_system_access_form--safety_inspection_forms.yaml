@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hazard Reporting System Access Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reporting_time
+      label: Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: hazard_description
+      label: Hazard Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Warehouse
+      - Manufacturing
+      - Laboratory
+      - Other
+      required: false
+    - id: 18
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Under Construction
+      - Closed
+      required: false
+    - id: 19
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Hazard
+      - Near Miss
+      - Incident
+      - Other
+      required: false
+    - id: 20
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: select_multiple
+      options:
+      - Facility 1
+      - Facility 2
+      - Facility 3
+      - Facility 4
+      - Facility 5
+      required: false
+    - id: 21
+      name: reporting_reason
+      label: Reporting Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Update
+      - Closed
+      required: false
+    - id: 23
+      name: facility_size
+      label: Facility Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: false
+    - id: 24
+      name: facility_capacity
+      label: Facility Capacity
+      hint: null
+      type: select_multiple
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101+
+      required: false
+    - id: 25
+      name: facility_hazard
+      label: Facility Hazard
+      hint: null
+      type: select_multiple
+      options:
+      - Electrical
+      - Fire
+      - Chemical
+      - Physical
+      - Other
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Testing Instrument Order Form
+    pages:
+    - id: 1
+      name: instrument_order
+      label: Instrument Order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: select_one
+      options:
+      - Instrument
+      - Service
+      - Other
+      required: false
+    - id: 3
+      name: payment
+      label: Payment
+      hint: null
+      type: select_multiple
+      options:
+      - Instrument
+      - Service
+      - Other
+      required: false
+    - id: 4
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: ship_date
+      label: Ship Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: instrument_type
+      label: Instrument Type
+      hint: null
+      type: select_one
+      options:
+      - Instrument
+      - Service
+      - Other
+      required: false
+    - id: 12
+      name: instrument_description
+      label: Instrument Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: quantity
+      label: Quantity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: instrument_price
+      label: Instrument Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: discount
+      label: Discount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: subtotal
+      label: Subtotal
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_price
+      label: Total Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Other
+      required: false
+    - id: 22
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: bank_account_number
+      label: Bank Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Declined
+      required: false
+    - id: 25
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - In Process
+      - Complete
+      - Cancelled
+      required: false

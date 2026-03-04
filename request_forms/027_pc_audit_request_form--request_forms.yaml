@@ -1,0 +1,91 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: PC Audit Request Form
+    pages:
+    - id: 1
+      name: pc_audit_request_form_data
+      label: Pc audit request form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Location 1''}'
+      - '{''label'': ''Location 2''}'
+      - '{''label'': ''Location 3''}'
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Department 1''}'
+      - '{''label'': ''Department 2''}'
+      - '{''label'': ''Department 3''}'
+      required: false
+    - id: 4
+      name: pc_type
+      label: pc type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Type 1''}'
+      - '{''label'': ''Type 2''}'
+      - '{''label'': ''Type 3''}'
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: Brief description of the request
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: scheduled_check
+      label: Scheduled check
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: scheduled_date
+      label: Scheduled date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hazardous Spill Event Report Form
+    pages:
+    - id: 1
+      name: spill_location
+      label: Spill Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: spill_date
+      label: Spill Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: spill_type
+      label: Spill Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: materials_hazardous
+      label: Materials
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: spill_description
+      label: Spill Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: spill_location_coordinates
+      label: Spill Location Coordinates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: spill_volume
+      label: Spill Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: spill_impact
+      label: Spill Impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: environmental_media
+      label: Environmental Media
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: spill_containment
+      label: Spill Containment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: spill_cleanup_action
+      label: Spill Cleanup Action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: spill_containment_method
+      label: Spill Containment Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: spill_containment_location
+      label: Spill Containment Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: spill_cleanup_cost
+      label: Spill Cleanup Cost
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: spill_status
+      label: Spill Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

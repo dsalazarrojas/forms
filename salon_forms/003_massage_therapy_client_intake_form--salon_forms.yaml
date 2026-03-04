@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Massage Therapy Client Intake Form
+    pages:
+    - id: 1
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: medical_allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_conditions
+      label: Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medical_procedures
+      label: Procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: massage_preferences
+      label: Massage Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: appointment_preferences
+      label: Appointment Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: massage_length
+      label: Massage Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: massage_frequency
+      label: Massage Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: client_goals
+      label: Client Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: massage_style
+      label: Massage Style
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: massage_duration
+      label: Massage Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: massage_fees
+      label: Massage Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: payment_info
+      label: Payment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: insurance_info
+      label: Insurance Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: massage_provider
+      label: Massage Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Veterinary Permit Request Form
+    pages:
+    - id: 1
+      name: species_select
+      label: Select Species
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: species_id
+      label: Species ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: owner_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: owner_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: treatment_name
+      label: Treatment Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_dosage
+      label: Dosage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: treatment_details
+      label: Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_agreement
+      label: Submit Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submit_name
+      label: Submit Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit_email
+      label: Submit Email
+      hint: null
+      type: email
+      options: []
+      required: false

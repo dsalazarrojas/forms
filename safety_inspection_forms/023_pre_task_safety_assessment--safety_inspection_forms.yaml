@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Task Safety Assessment
+    pages:
+    - id: 1
+      name: pre_task_safety_assessment
+      label: Pre-Task Safety Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hazards
+      label: hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: control_measures
+      label: control_measures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: safety_briefings
+      label: safety_briefings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: task_description
+      label: task_description
+      hint: Briefly describe the task
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: task_id
+      label: task_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_id
+      label: supervisor_id
+      hint: Enter the ID of the supervisor
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: start_time
+      hint: Enter start time in 24 hour format
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: end_time
+      label: end_time
+      hint: Enter end time in 24 hour format
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: risk_level
+      label: risk_level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false

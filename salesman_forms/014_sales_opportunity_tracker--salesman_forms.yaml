@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Opportunity Tracker
+    pages:
+    - id: 1
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_source_category
+      label: Lead Source Category
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Referral
+      - Social Media
+      - Other
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Enter contact name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Enter contact email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter contact phone
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: opportunity_status
+      label: Opportunity Status
+      hint: Select status
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Won
+      - Lost
+      required: false
+    - id: 7
+      name: deal_stage
+      label: Deal Stage
+      hint: null
+      type: select_one
+      options:
+      - Qualification
+      - Needs Analysis
+      - Proposal
+      - Qualification
+      - Decision
+      - Qualification
+      - Closed Won
+      - Closed Lost
+      required: false
+    - id: 8
+      name: sales_channel
+      label: Sales Channel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_rep
+      label: Sales Rep
+      hint: Enter sales representative name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lead_date
+      label: Lead Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_date
+      label: Follow Up Date
+      hint: Enter follow up date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: close_date
+      label: Close Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: close_reason
+      label: Close Reason
+      hint: Enter close reason
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sales_amount
+      label: Sales Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: Enter notes
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: lead_source_id
+      label: Lead Source ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sales_rep_id
+      label: Sales Rep ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: opportunity_id
+      label: Opportunity ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: close_reason_id
+      label: Close Reason ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: sales_amount_id
+      label: Sales Amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lead_date_id
+      label: Lead Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_date_id
+      label: Follow Up Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: close_date_id
+      label: Close Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes_id
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: lead_source_category_id
+      label: Lead Source Category
+      hint: null
+      type: text
+      options: []
+      required: false

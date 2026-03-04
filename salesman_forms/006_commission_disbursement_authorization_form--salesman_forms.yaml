@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Disbursement Authorization Form
+    pages:
+    - id: 1
+      name: authorization_information
+      label: Authorization Information
+      hint: Details about the commission disbursement
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of this authorization request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: authorization_id
+      label: Authorization ID
+      hint: Unique authorization reference number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_information
+      label: Employee Information
+      hint: Details about the commission earner
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: Full legal name of the employee
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_email
+      label: Employee Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: Employee department or division
+      type: select_one
+      options:
+      - Sales
+      - Business Development
+      - Real Estate
+      - Insurance
+      - Financial Services
+      - Other
+      required: true
+    - id: 9
+      name: commission_details
+      label: Commission Details
+      hint: Information about the commission being disbursed
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: commission_period
+      label: Commission Period
+      hint: Time period this commission covers
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: gross_commission_amount
+      label: Gross Commission Amount
+      hint: Total commission amount before deductions in USD
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: commission_rate
+      label: Commission Rate
+      hint: Commission percentage earned
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: sales_volume
+      label: Sales Volume
+      hint: Total sales volume that generated this commission
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: disbursement_information
+      label: Disbursement Information
+      hint: Where should the commission be sent
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: disbursement_method
+      label: Disbursement Method
+      hint: How should the commission be paid
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check
+      - Wire Transfer
+      - Payroll
+      required: true
+    - id: 16
+      name: third_party_recipient
+      label: Third Party Recipient
+      hint: Is commission being sent to a third party
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: recipient_name
+      label: Recipient Name
+      hint: Full name of third party recipient
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recipient_type
+      label: Recipient Type
+      hint: Type of third party recipient
+      type: select_one
+      options:
+      - Bank Account
+      - Investment Firm
+      - Collection Agency
+      - Legal Representative
+      - Family Member
+      - Other
+      required: false
+    - id: 19
+      name: disbursement_percentage
+      label: Disbursement Percentage
+      hint: Percentage of commission being disbursed to third party
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: disbursement_amount
+      label: Disbursement Amount
+      hint: Dollar amount being disbursed to third party
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: recipient_account_info
+      label: Recipient Account Information
+      hint: Account details for third party payment
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: authorization_reason
+      label: Authorization Reason
+      hint: Reason for third party disbursement
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_signature_date
+      label: Employee Signature Date
+      hint: Date of employee authorization
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: manager_approval
+      label: Manager Approval
+      hint: Has manager approved this disbursement
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Denied
+      required: true
+    - id: 25
+      name: manager_name
+      label: Manager Name
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: false

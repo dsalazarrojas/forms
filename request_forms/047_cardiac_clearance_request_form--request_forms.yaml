@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cardiac Clearance Request Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: -- PATIENT INFORMATION --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: patient_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: patient_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: medical_record_number
+      label: Medical record number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: clearance_reason
+      label: -- CLEARANCE REQUEST DETAILS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_clearance
+      label: Reason for cardiac clearance
+      hint: null
+      type: select_one
+      options:
+      - Surgery Clearance
+      - Exercise Program
+      - Sports Participation
+      - Travel
+      - Return to Work
+      - Pregnancy
+      - Other Medical Procedure
+      required: true
+    - id: 9
+      name: procedure_date
+      label: Planned procedure or activity date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: cardiac_history
+      label: -- CARDIAC HISTORY --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: previous_cardiac_events
+      label: Previous cardiac events or conditions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Heart Attack
+      - Arrhythmia
+      - Heart Failure
+      - Valve Disease
+      - High Blood Pressure
+      - High Cholesterol
+      - Other
+      required: false
+    - id: 12
+      name: cardiac_procedures
+      label: Previous cardiac procedures
+      hint: Bypass, stent, pacemaker, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: current_medications
+      label: Current cardiac medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: family_cardiac_history
+      label: Family history of cardiac disease?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: false
+    - id: 15
+      name: current_symptoms
+      label: -- CURRENT SYMPTOMS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: chest_pain
+      label: Chest pain or discomfort?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Occasionally
+      required: true
+    - id: 17
+      name: shortness_of_breath
+      label: Shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - With Exertion Only
+      required: true
+    - id: 18
+      name: palpitations
+      label: Heart palpitations?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Occasionally
+      required: true
+    - id: 19
+      name: dizziness_syncope
+      label: Dizziness or fainting spells?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Occasionally
+      required: false
+    - id: 20
+      name: edema
+      label: Swelling in legs or ankles?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Occasionally
+      required: false
+    - id: 21
+      name: lifestyle_assessment
+      label: -- LIFESTYLE AND RISK FACTORS --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: smoking_status
+      label: Smoking status
+      hint: null
+      type: select_one
+      options:
+      - Never Smoked
+      - Former Smoker
+      - Current Smoker
+      required: true
+    - id: 23
+      name: exercise_frequency
+      label: Current exercise frequency
+      hint: null
+      type: select_one
+      options:
+      - Sedentary
+      - 1-2 times weekly
+      - 3-4 times weekly
+      - Daily
+      required: false
+    - id: 24
+      name: additional_medical_conditions
+      label: Other medical conditions
+      hint: Diabetes, kidney disease, lung disease, etc.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: authorization_and_signature
+      label: I authorize the release of my cardiac information for clearance purposes
+      hint: null
+      type: select_one
+      options:
+      - Yes - I Authorize
+      - No - I Do Not Authorize
+      required: true

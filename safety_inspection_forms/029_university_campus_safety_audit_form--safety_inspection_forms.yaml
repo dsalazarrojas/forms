@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Campus Safety Audit Form
+    pages:
+    - id: 1
+      name: general
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building
+      label: Which Building?
+      hint: null
+      type: select_one
+      options:
+      - 123 Main St
+      - 456 Elm St
+      - 789 Oak St
+      required: false
+    - id: 3
+      name: floor
+      label: Floor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: zone
+      label: Zone
+      hint: null
+      type: select_one
+      options:
+      - Ground Floor
+      - Upper Floor
+      - Basement
+      required: false
+    - id: 5
+      name: date
+      label: Date of Audit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time of Audit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hazards
+      label: Hazards
+      hint: List all hazards found on site
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: priority_improvement
+      label: Priority Improvement
+      hint: What improvement will you make on site?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 13
+      name: next_audit
+      label: Next Audit Date
+      hint: When will be the next scheduled audit?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: next_audit_time
+      label: Next Audit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false
+    - id: 17
+      name: next_audit_location
+      label: Next Audit Location
+      hint: null
+      type: select_one
+      options:
+      - 123 Main St
+      - 456 Elm St
+      - 789 Oak St
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: building_condition
+      label: Building Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 20
+      name: zone_condition
+      label: Zone Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 21
+      name: floor_condition
+      label: Floor Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 22
+      name: next_action
+      label: Next Action
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 23
+      name: next_action_date
+      label: Next Action Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: next_action_time
+      label: Next Action Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: false

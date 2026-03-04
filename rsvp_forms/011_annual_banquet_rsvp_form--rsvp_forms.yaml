@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Banquet RSVP Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Please enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For confirmation and event updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_affiliation
+      label: Organization Affiliation
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: table_assignment
+      label: Table Assignment
+      hint: Have you been assigned to a table?
+      type: select_one
+      options:
+      - Yes, Assigned
+      - No, Need Assignment
+      - Not Applicable
+      required: true
+    - id: 6
+      name: table_number
+      label: Table Number
+      hint: If assigned, what table number?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_status
+      label: Will You Attend?
+      hint: Please confirm your attendance
+      type: select_one
+      options:
+      - Yes, I Will Attend
+      - No, I Cannot Attend
+      - Maybe, Will Confirm Later
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total in your party including yourself
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: guest_names
+      label: Guest Names
+      hint: List names of all attendees
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergies
+      - Shellfish Allergies
+      - Kosher
+      - Halal
+      - Diabetic-Friendly
+      - Low Sodium
+      - Other
+      required: true
+    - id: 11
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: meal_selection
+      label: Meal Selection
+      hint: Choose your preferred entree
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - No Preference
+      required: true
+    - id: 13
+      name: beverage_package
+      label: Beverage Package
+      hint: Select your beverage preference
+      type: select_one
+      options:
+      - Open Bar
+      - Wine and Beer
+      - Non-Alcoholic
+      - No Preference
+      required: false
+    - id: 14
+      name: program_participation
+      label: Program Participation
+      hint: Will you participate in any program elements?
+      type: select_multiple
+      options:
+      - None
+      - Award Presentation
+      - Speech or Toast
+      - Entertainment Performance
+      - Auction Participation
+      - Raffle Participation
+      - Other
+      required: false
+    - id: 15
+      name: transportation_needed
+      label: Transportation Assistance Needed
+      hint: Do you need help with transportation?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 16
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking at the venue?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: accessibility_requirements
+      label: Accessibility Requirements
+      hint: Any special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: arrival_time
+      label: Expected Arrival Time
+      hint: When do you plan to arrive?
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: donation_interest
+      label: Donation Interest
+      hint: Interested in making a donation?
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: auction_interest
+      label: Auction Interest
+      hint: Will you participate in the auction?
+      type: select_one
+      options:
+      - Yes, Bidding
+      - Just Observing
+      - Not Interested
+      required: false
+    - id: 21
+      name: photo_consent
+      label: Photo Consent
+      hint: May we use photos of you for marketing?
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, Please Do Not
+      required: true
+    - id: 22
+      name: special_requests
+      label: Special Requests
+      hint: Any other needs or requests?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency contact number
+      type: text
+      options: []
+      required: false

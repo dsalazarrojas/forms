@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graphite Monitoring Log Form
+    pages:
+    - id: 1
+      name: graphite_monitoring_log_form
+      label: Graphite Monitoring Log Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_monitoring
+      label: Date of Monitoring
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location_of_monitoring
+      label: Location of Monitoring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: monitoring_type
+      label: Monitoring Type
+      hint: null
+      type: select_one
+      options:
+      - Graphite Monitoring
+      - Air Monitoring
+      - Water Monitoring
+      required: false
+    - id: 5
+      name: monitoring_level
+      label: Monitoring Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: output_file_name
+      label: Output File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: output_file_comments
+      label: Output File Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: output_file_size
+      label: Output File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: output_file_format
+      label: Output File Format
+      hint: null
+      type: select_one
+      options:
+      - pdf
+      - excel
+      - csv
+      required: false
+    - id: 15
+      name: output_file_path
+      label: Output File Path
+      hint: null
+      type: text
+      options: []
+      required: false

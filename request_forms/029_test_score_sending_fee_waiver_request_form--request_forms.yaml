@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Test Score Sending Fee Waiver Request Form
+    pages:
+    - id: 1
+      name: test_score_sending_fee_waiver_request_form
+      label: What is your current status in our program
+      hint: e.g., pending, active, etc.
+      type: select_one
+      options:
+      - pending, active, etc.
+      - Other
+      required: false
+    - id: 2
+      name: name_of_the_student_applicant
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name_of_the_guardian_or_parent
+      label: Guardian/Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_of_the_student
+      label: Student Email
+      hint: Required
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: student_phone_number
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name_of_school_or_institution
+      label: School/Institution Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: year_of_attendance
+      label: Year of Attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_of_attendance_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_of_attendance_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: type_of_test_score_sending_fee_waiver_requests
+      label: Type of Score Sending Fee Waiver Requests
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Test scores, etc., and any other documents
+      - Score reports, etc., and any other documents
+      - Transcripts, etc., and any other documents
+      - Other (please specify)
+      required: false
+    - id: 11
+      name: documentation_of_test_score_sending_fee_waiver_requests
+      label: Documentation of Score Sending Fee Waiver Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: e_signature_of_guardian_or_parent
+      label: eSignature of Guardian/Parent
+      hint: null
+      type: text
+      options: []
+      required: false

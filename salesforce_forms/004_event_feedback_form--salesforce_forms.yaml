@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_feedback_form
+    pages:
+    - id: 1
+      name: event_feedback
+      label: Event Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: presenter_name
+      label: Presenter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: presenter
+      label: Presenter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: services
+      label: Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_services
+      label: Additional Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: georgie-lemon-bomb
+    pages:
+    - id: 1
+      name: form_page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What's your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: What's your favorite food?
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Banana
+      - Orange
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_3
+      label: How old are you?
+      hint: Age is optional
+      type: number
+      options: []
+      required: false

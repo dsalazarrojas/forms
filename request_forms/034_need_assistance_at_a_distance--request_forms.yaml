@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Need Assistance At A Distance
+    pages:
+    - id: 1
+      name: user_input
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: medical_problem
+      label: Medical Problem
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: best_doctors
+      label: Best Doctors
+      hint: Select multiple doctors
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Johnson
+      - Dr. Williams
+      - Dr. Davis
+      required: true
+    - id: 8
+      name: contact_form
+      label: Contact Form
+      hint: null
+      type: note
+      options: []
+      required: true

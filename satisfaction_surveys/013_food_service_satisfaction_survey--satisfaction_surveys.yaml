@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: food_service_satisfaction_survey
+    pages:
+    - id: 1
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: food_service_quality
+      label: Food Service Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 3
+      name: food_price
+      label: Food Price
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Overpriced''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Underpriced''}'
+      - '{''label'': ''Not applicable''}'
+      required: false
+    - id: 4
+      name: food_portion
+      label: Food Portion
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Too small''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Too large''}'
+      - '{''label'': ''Not applicable''}'
+      required: false
+    - id: 5
+      name: food_appearance
+      label: Food Appearance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not attractive''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Attractive''}'
+      - '{''label'': ''Not applicable''}'
+      required: false
+    - id: 6
+      name: service_friendliness
+      label: Service Friendliness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Not friendly''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Friendly''}'
+      - '{''label'': ''Not applicable''}'
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Extremely Satisfied''}'
+      required: false
+    - id: 8
+      name: food_service_satisfaction
+      label: Food Service Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Extremely Satisfied''}'
+      required: false

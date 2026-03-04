@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Policy Modernization Review Request Form
+    pages:
+    - id: 1
+      name: policy_modernization_review_request_form_title
+      label: policy modernization review request form title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Request Forms
+      - Other Category
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: review_date
+      label: review date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: review_time
+      label: review time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Knowledge Base Item Update Request Form
+    pages:
+    - id: 1
+      name: knowledge_base_item_update_request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      - item3
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      required: false
+    - id: 5
+      name: knowledge_base_item_update_request_form_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: is_prophet
+      label: Prophet
+      hint: null
+      type: select_multiple
+      options:
+      - Item1
+      - Item2
+      required: false
+    - id: 9
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: knowledge_base_item_update_request_form_report
+      label: Report
+      hint: null
+      type: select_multiple
+      options:
+      - Item1
+      - Item2
+      required: true
+    - id: 13
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      - item3
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - item1
+      - item2
+      - item3
+      required: true
+    - id: 17
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: submitted_note
+      label: Submitted Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 20
+      name: submitted_user
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitted_status
+      label: Submitted Status
+      hint: null
+      type: text
+      options: []
+      required: true

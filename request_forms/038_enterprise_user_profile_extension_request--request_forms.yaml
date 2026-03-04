@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enterprise User Profile Extension Request
+    pages:
+    - id: 1
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 2
+      name: user_id
+      label: User Id
+      hint: Required
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Required
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_id
+      label: Manager Id
+      hint: Required
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_approval_reason
+      label: Manager Approval Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Under Review
+      required: false
+    - id: 10
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false

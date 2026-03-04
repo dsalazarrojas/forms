@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Inspection Photography Consent Form
+    pages:
+    - id: 1
+      name: safety_inspection_photography_consent_form
+      label: Photography Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: capture_photographs
+      label: Capture Photographs
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

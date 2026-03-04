@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving RSVP
+    pages:
+    - id: 1
+      name: thanksgiving_rsvp
+      label: Will you be coming?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: will_bring
+      label: Will you be bringing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_count
+      label: How many guests will you be bringing?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: food_item
+      label: What food will you be bringing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: drinks
+      label: Will you be bringing drinks?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: dinner_time
+      label: What time would you like to come for dinner?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_by
+      label: Will you rsvp by?
+      hint: null
+      type: time
+      options: []
+      required: false

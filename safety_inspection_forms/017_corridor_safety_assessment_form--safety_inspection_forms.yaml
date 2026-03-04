@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corridor Safety Assessment Form
+    pages:
+    - id: 1
+      name: corridor_hazards
+      label: Corridor Hazards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_severity
+      label: Risk Severity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_inspection_date
+      label: Safety Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager 1''}'
+      - '{''id'': 2, ''label'': ''Manager 2''}'
+      - '{''id'': 3, ''label'': ''Manager 3''}'
+      required: false
+    - id: 6
+      name: building_condition
+      label: Building Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hazard_type
+      label: Hazard Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Equipment 1''}'
+      - '{''id'': 2, ''label'': ''Equipment 2''}'
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Additional Score Report Request Form
+    pages:
+    - id: 1
+      name: student_identity_header
+      label: -- Candidate / Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID / Candidate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exam_details_header
+      label: -- Exam and Score Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: exam_type
+      label: Type of Standardized Exam
+      hint: null
+      type: select_one
+      options:
+      - SAT / ACT
+      - GRE / GMAT
+      - TOEFL / IELTS
+      - Professional Certification
+      - State Licensing Exam
+      - Other
+      required: true
+    - id: 8
+      name: exam_date
+      label: Date of Exam
+      hint: Approximate date if exact is unknown
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: scores_to_include
+      label: Scores to be Reported
+      hint: e.g. Overall Score, Section Scores
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: recipient_header
+      label: -- Recipient Information --
+      hint: Where should the score report be sent?
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recipient_institution
+      label: Institution / Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: recipient_address
+      label: Recipient Mailing Address / Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: report_format
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Electronic Delivery (Secure PDF)
+      - Physical Mail (Standard)
+      - Physical Mail (Express/Tracked)
+      required: true
+    - id: 14
+      name: fee_acknowledgment
+      label: I acknowledge the fee for additional score reports
+      hint: $15.00 per report standard delivery
+      type: select_one
+      options:
+      - I Acknowledge and Agree
+      - Other
+      required: true
+    - id: 15
+      name: request_reason
+      label: Reason for Additional Report
+      hint: null
+      type: select_one
+      options:
+      - College / University Application
+      - Employment Verification
+      - Professional Licensing
+      - Personal Records
+      required: true
+    - id: 16
+      name: signature_ack
+      label: I authorize the release of my test scores to the recipient above
+      hint: null
+      type: select_one
+      options:
+      - I Authorize
+      - Other
+      required: true
+    - id: 17
+      name: submission_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

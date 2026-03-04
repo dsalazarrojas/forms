@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mary's Color Street Sample Request Form
+    pages:
+    - id: 1
+      name: form_details
+      label: Sample request form for Marys Color Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_note
+      label: Customer note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatbotty
+      - chatron
+      required: false
+    - id: 11
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false

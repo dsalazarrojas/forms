@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Repair Warranty Request Form
+    pages:
+    - id: 1
+      name: service_repair_warranty_form
+      label: Service Repair Warranty Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: repair_warranty_request
+      label: Repair / Warranty Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_repair_description
+      label: Service / Repair Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: repair_request_status
+      label: Repair / Request Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Done
+      required: true
+    - id: 10
+      name: service_repair_priority
+      label: Service / Repair Priority
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 11
+      name: service_repair_type
+      label: Service / Repair Type
+      hint: null
+      type: select_one
+      options:
+      - Repair
+      - Service
+      - Warranty
+      required: true
+    - id: 12
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: select_one
+      options:
+      - Repair
+      - Service
+      - Warranty
+      required: false
+    - id: 13
+      name: service_repair_date
+      label: Service / Repair Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: service_repair_time
+      label: Service / Repair Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - Technician 1
+      - Technician 2
+      - Technician 3
+      required: false
+    - id: 17
+      name: service_repair_status_update
+      label: Service / Repair Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: service_repair_requester
+      label: Service / Requester
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Internal
+      required: true
+    - id: 19
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: internal_signature
+      label: Internal Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: service_repair_warranty_requester
+      label: Service / Repair / Warranty Requester
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Internal
+      required: true
+    - id: 22
+      name: request_date2
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: request_time2
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: internal_notes
+      label: Internal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: service_repair_description2
+      label: Service / Repair Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Removal Request Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Agent Removal Request --
+      hint: documenting and authorizing the removal of an agent from systems and rolls
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Requested by - Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: office_location
+      label: Department or Office Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: agent_header
+      label: -- Agent to be Removed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: agent_name
+      label: Agent Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: agent_id
+      label: Agent Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: removal_type
+      label: Type of Removal - Termination, Resignation, Internal Transfer, Leave of Absence
+      hint: select the nature of the departure
+      type: select_one
+      options:
+      - Termination of Employment
+      - Voluntary Resignation
+      - Internal Transfer / Promotion
+      - Extended Leave of Absence
+      - Retirement
+      required: true
+    - id: 9
+      name: effective_date
+      label: Effective Date of Removal
+      hint: last working day
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: removal_reason
+      label: Reason for removal - provide details
+      hint: explain the circumstances of the departure
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: access_revocation
+      label: Access to be revoked - Email, CRM, Office Keys, VPN
+      hint: select all systems that must be disabled
+      type: select_multiple
+      options:
+      - Corporate Email Account
+      - CRM / Lead Database
+      - Physical Office Keys / Badges
+      - VPN and Remote Access
+      - Company Credit Card
+      required: true
+    - id: 12
+      name: exit_interview
+      label: Exit interview scheduled?
+      hint: null
+      type: select_one
+      options:
+      - Yes, completed
+      - Yes, scheduled
+      - No, not required
+      - Not applicable
+      required: true
+    - id: 13
+      name: executive_name
+      label: Name of Authorizing Executive
+      hint: signature authority for the removal
+      type: text
+      options: []
+      required: true

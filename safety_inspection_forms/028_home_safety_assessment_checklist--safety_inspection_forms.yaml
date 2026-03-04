@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Safety Assessment Checklist
+    pages:
+    - id: 1
+      name: home_safety_assessment_checklist_form
+      label: Home Safety Assessment Checklist Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_manager_info
+      label: Property Manager Information
+      hint: Enter property manager's contact information
+      type: select_one
+      options:
+      - Property Manager 1
+      - Property Manager 2
+      - Property Manager 3
+      required: false
+    - id: 3
+      name: residence_safety_evaluation
+      label: Residence Safety Evaluation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: residence_safety_hazards
+      label: Identified Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - Hazard 1
+      - Hazard 2
+      - Hazard 3
+      required: false
+    - id: 5
+      name: residence_safety_improvements
+      label: Safety Improvements
+      hint: null
+      type: select_multiple
+      options:
+      - Improvement 1
+      - Improvement 2
+      - Improvement 3
+      required: false
+    - id: 6
+      name: residence_safety_plan
+      label: Residence Safety Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_safety_assessment
+      label: Date of Safety Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_safety_assessment
+      label: Time of Safety Assessment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Additional Notes
+      hint: Add any additional notes about the property
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: safety_inspection_questions
+      label: Safety Inspection Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Question 1
+      - Question 2
+      - Question 3
+      required: false
+    - id: 14
+      name: safety_inspection_answers
+      label: Safety Inspection Answers
+      hint: null
+      type: select_multiple
+      options:
+      - Answer 1
+      - Answer 2
+      - Answer 3
+      required: false
+    - id: 15
+      name: home_safety_equipment
+      label: Home Safety Equipment
+      hint: List safety equipment used
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: home_safety_equipment_types
+      label: Types of Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Equipment Type 1
+      - Equipment Type 2
+      - Equipment Type 3
+      required: false
+    - id: 17
+      name: home_safety_equipment_used
+      label: Used
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: home_safety_equipment_conditions
+      label: Safety Equipment Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Condition 1
+      - Condition 2
+      - Condition 3
+      required: false
+    - id: 19
+      name: home_safety_equipment_maintenance
+      label: Maintenance Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Maintenance 1
+      - Maintenance 2
+      - Maintenance 3
+      required: false
+    - id: 20
+      name: home_safety_equipment_maintenance_freq
+      label: Maintenance Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: home_safety_equipment_maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_multiple
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 22
+      name: fire_safety_equipment_maintenance
+      label: Fire Safety Equipment Maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: fire_safety_equipment_maintenance_freq
+      label: Fire Safety Equipment Maintenance Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: smoke_detectors
+      label: Smoke Detectors
+      hint: Check if smoke detectors are working properly
+      type: select_multiple
+      options:
+      - Working
+      - Not working
+      required: false
+    - id: 25
+      name: fire_extinguishers
+      label: Fire Extinguisher
+      hint: Check if fire extinguishers are available and accessible
+      type: select_multiple
+      options:
+      - Available
+      - Not available
+      required: false

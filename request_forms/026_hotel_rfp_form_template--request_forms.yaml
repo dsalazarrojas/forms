@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel RFP Form Template
+    pages:
+    - id: 1
+      name: rfp_form
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rfp_details
+      label: RFP Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rfp_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Draft''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Cancelled''}'
+      required: false
+    - id: 8
+      name: rfp_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Marketing''}'
+      - '{''label'': ''Operations''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: rfp_due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rfp_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: rfp_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: rfp_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rfp_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: rfp_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rfp_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rfp_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: rfp_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rfp_attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Image''}'
+      - '{''label'': ''Document''}'
+      - '{''label'': ''Video''}'
+      - '{''label'': ''Audio''}'
+      - '{''label'': ''Other''}'
+      required: false

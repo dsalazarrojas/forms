@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Place Guest Book Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: funeral_home
+      label: Funeral Home
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: false
+    - id: 7
+      name: service_date
+      label: Service Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: message_2
+      label: Message 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: funeral_service
+      label: Funeral Service
+      hint: null
+      type: select_multiple
+      options:
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      required: false
+    - id: 11
+      name: funeral_service_1
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      required: false
+    - id: 12
+      name: funeral_service_2
+      label: Other 1
+      hint: null
+      type: select_one
+      options:
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      required: false
+    - id: 13
+      name: funeral_service_3
+      label: Other 2
+      hint: null
+      type: select_one
+      options:
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      required: false
+    - id: 14
+      name: funeral_service_4
+      label: Other 3
+      hint: null
+      type: select_one
+      options:
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

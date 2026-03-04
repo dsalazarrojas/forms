@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instructional Design Consulting Request Form
+    pages:
+    - id: 1
+      name: request_information
+      label: Request Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What are the learning objectives of this project?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: target_audience
+      label: Target Audience
+      hint: Who is this project targeted at?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: project_location
+      label: Project Location
+      hint: Where will the project be conducted?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: project_start_date
+      label: Project Start Date
+      hint: When will the project start?
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_end_date
+      label: Project End Date
+      hint: When will the project end?
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_hours
+      label: Project Hours
+      hint: How many hours will the project require?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_cost
+      label: Project Cost
+      hint: What is the budget for this project?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_status
+      label: Project Status
+      hint: Is this project active?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: consultant_name
+      label: Consultant Name
+      hint: Who will be working on this project?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: consultant_contact_info
+      label: Consultant Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consultant_email
+      label: Consultant Email
+      hint: What is the consultant email?
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_contact_info
+      label: Client Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_note
+      label: Project Note
+      hint: Additional project notes
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submission
+      label: Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: deadline
+      label: Deadline
+      hint: What is the deadline for this project?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 19
+      name: priority
+      label: Project Priority
+      hint: How urgent is this project?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: submitter
+      label: Submitter
+      hint: Who submitted the project?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 21
+      name: submit_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submit_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitter_ip
+      label: Submitter IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_device
+      label: Submitter Device
+      hint: null
+      type: text
+      options: []
+      required: false

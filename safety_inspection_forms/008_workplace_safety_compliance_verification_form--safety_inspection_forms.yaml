@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety Compliance Verification Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_training
+      label: Employee Training
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''Partially Trained''}'
+      required: true
+    - id: 3
+      name: safety_practices
+      label: Safety Practices
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 4
+      name: regulatory_requirements
+      label: Regulatory Requirements
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: hazards
+      label: Hazards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_reporting
+      label: Incident Reporting
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 7
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Complete''}'
+      - '{''id'': 2, ''name'': ''Partially''}'
+      - '{''id'': 3, ''name'': ''None''}'
+      required: false
+    - id: 8
+      name: employee_involvement
+      label: Employee Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 9
+      name: training_programs
+      label: Training Programs
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Complete''}'
+      - '{''id'': 2, ''name'': ''Partial''}'
+      required: false
+    - id: 10
+      name: safety_equipment_testing
+      label: Safety Equipment Testing
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 11
+      name: safety_inspection_frequency
+      label: Safety Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Daily''}'
+      - '{''id'': 2, ''name'': ''Weekly''}'
+      - '{''id'': 3, ''name'': ''Monthly''}'
+      - '{''id'': 4, ''name'': ''Quarterly''}'
+      - '{''id'': 5, ''name'': ''Other''}'
+      - '{''id'': 6, ''name'': ''Never''}'
+      required: false

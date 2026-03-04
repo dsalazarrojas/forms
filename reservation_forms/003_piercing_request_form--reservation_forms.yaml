@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Piercing Request Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: piercing_type
+      label: Piercing Type
+      hint: null
+      type: select_one
+      options:
+      - Derby
+      - Nose
+      - Ear
+      - Eyebellum
+      - Industrial
+      - Rook
+      - Surface
+      - Surface 2
+      - Surface 3
+      required: false
+    - id: 3
+      name: piercing_date
+      label: Piercing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: text
+      options: []
+      required: false

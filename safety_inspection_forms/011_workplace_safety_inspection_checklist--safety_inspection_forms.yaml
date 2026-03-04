@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety Inspection Checklist
+    pages:
+    - id: 1
+      name: general_safety
+      label: General Safety
+      hint: null
+      type: select_one
+      options:
+      - Fire Extinguisher
+      - Fire Exits
+      - Safety Signs
+      - Warning Signs
+      required: false
+    - id: 2
+      name: hazardous_materials
+      label: Hazardous Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Toxic
+      - Flammable
+      - Corrosive
+      required: false
+    - id: 3
+      name: electrical
+      label: Electrical
+      hint: null
+      type: select_one
+      options:
+      - Circuit Breakers
+      - Ground Fault Circuit Interrupters
+      - Lighting
+      required: false
+    - id: 4
+      name: emergency_equipment
+      label: Emergency Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - First Aid Kit
+      - Emergency Exit Sign
+      - Emergency Phone
+      required: false
+    - id: 5
+      name: fire
+      label: Fire
+      hint: null
+      type: select_one
+      options:
+      - Fire Alarm System
+      - Fire Drills
+      - Fire Extinguisher
+      required: false
+    - id: 6
+      name: walkways
+      label: Walkways
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: floor_height
+      label: Floor Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: stairs_handrails
+      label: Stairs Handrails
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: handrails
+      label: Handrails
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: exit_paths
+      label: Exit Paths
+      hint: null
+      type: select_one
+      options:
+      - Clear Exit Path
+      - Clear Exit Width
+      required: false
+    - id: 11
+      name: electrical_outlets
+      label: Electrical Outlets
+      hint: null
+      type: select_multiple
+      options:
+      - Ground Fault Circuit Interrupters
+      - Arc Fault Circuit Interrupters
+      required: false
+    - id: 12
+      name: emergency_stairwell
+      label: Emergency Stairwell
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: stairwell_height
+      label: Stairwell Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: stairwell_handrails
+      label: Stairwell Handrails
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: electrical_outlets_stair
+      label: Electrical Outlets Stair
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: emergency_lighting
+      label: Emergency Lighting
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency Exit Signs
+      - Emergency Light
+      required: false
+    - id: 17
+      name: emergency_exit_signs
+      label: Emergency Exit Sign
+      hint: null
+      type: select_multiple
+      options:
+      - Exit Signs
+      - Emergency Exit Signs
+      - Directional Signs
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Supply Chain Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Veterinary Supply Chain Satisfaction Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supplier
+      label: Supplier
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: On a scale from 1 to 10
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: delivery
+      label: Delivery
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: quality
+      label: Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 6
+      name: service
+      label: Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

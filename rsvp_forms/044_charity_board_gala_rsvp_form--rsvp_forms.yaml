@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Board Gala RSVP Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Gala RSVP --
+      hint: Manage guest attendance and meal preferences for the gala
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: guest name
+      hint: full name for seating and name badge
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: confirmation and event updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: number_of_guests
+      label: number of guests
+      hint: include the primary guest if applicable
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: meal_choice
+      label: meal choice
+      hint: select meal preferences for each guest
+      type: select_one
+      options:
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      required: true
+    - id: 6
+      name: dietary_restrictions
+      label: dietary restrictions
+      hint: specify any allergies or dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: donation_option
+      label: donation option
+      hint: optional donation during RSVP
+      type: select_one
+      options:
+      - Yes please
+      - Not at this time
+      required: false
+    - id: 8
+      name: seating_requests
+      label: seating requests
+      hint: request preferred seating or table
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accessibility_needs
+      label: accessibility needs
+      hint: indicate any accommodation needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation
+      label: confirmation
+      hint: confirm attendance and details
+      type: select_one
+      options:
+      - Confirmed
+      - Not attending
+      required: true

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dungeon Master Session Reservation Form
+    pages:
+    - id: 1
+      name: reservation_form
+      label: reservation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_details
+      label: player_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Player 1''}'
+      - '{''text'': ''Player 2''}'
+      - '{''text'': ''Player 3''}'
+      required: false
+    - id: 3
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: player_email
+      label: player_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: player_phone
+      label: player_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: session_time
+      label: session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: game_duration
+      label: game_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: game_system
+      label: game_system
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''D&D 5th''}'
+      - '{''text'': ''Pathfinder''}'
+      - '{''text'': ''Others''}'
+      required: false
+    - id: 10
+      name: game_level
+      label: game_level
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Beginner''}'
+      - '{''text'': ''Intermediate''}'
+      - '{''text'': ''Advanced''}'
+      required: false
+    - id: 11
+      name: game_frequency
+      label: game_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Weekly''}'
+      - '{''text'': ''Bi-Weekly''}'
+      - '{''text'': ''Monthly''}'
+      required: false
+    - id: 12
+      name: game_time
+      label: game_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: game_day
+      label: game_day
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Monday''}'
+      - '{''text'': ''Tuesday''}'
+      - '{''text'': ''Wednesday''}'
+      - '{''text'': ''Thursday''}'
+      - '{''text'': ''Friday''}'
+      - '{''text'': ''Saturday''}'
+      - '{''text'': ''Sunday''}'
+      required: false
+    - id: 14
+      name: game_start_time
+      label: game_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: game_end_time
+      label: game_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: game_notes
+      label: game_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: player_notes
+      label: player_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: dms_notes
+      label: dms_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: game_store
+      label: game_store
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: game_store_location
+      label: game_store_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: game_store_phone
+      label: game_store_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: game_store_email
+      label: game_store_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: dms_name
+      label: dms_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: dms_phone
+      label: dms_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: dms_email
+      label: dms_email
+      hint: null
+      type: email
+      options: []
+      required: false

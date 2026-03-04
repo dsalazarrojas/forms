@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Supply Drill Feedback Survey
+    pages:
+    - id: 1
+      name: water_supply_drill_feedback
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: location_name
+      label: Location Name
+      hint: Enter location name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location_address
+      label: Location Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: evaluators_participated
+      label: Evaluators Participated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evaluators_count
+      label: Evaluators Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: location_id
+      label: Location ID
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: evaluator_comments
+      label: Evaluator Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: water_quality
+      label: Water Quality
+      hint: Please rate the water quality
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: water_temperature
+      label: Water Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: drill_duration
+      label: Drill Duration
+      hint: null
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30-60 minutes
+      - 60-90 minutes
+      - More than 90 minutes
+      required: false
+    - id: 13
+      name: water_pressure
+      label: Water Pressure
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: water_flow
+      label: Water Flow
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: drill_start
+      label: Drill Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: drill_end
+      label: Drill End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: drill_location
+      label: Drill Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: drill_status
+      label: Drill Status
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - Incomplete
+      - Not Started
+      required: false
+    - id: 19
+      name: evaluators_attended
+      label: Evaluators Attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: total_points
+      label: Total Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: total_points_max
+      label: Max Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_points_min
+      label: Min Points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: evaluators_score
+      label: Evaluators Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false

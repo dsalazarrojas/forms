@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Letter Of Authorization Request Form
+    pages:
+    - id: 1
+      name: medical_letter_of_authorization_request_form_patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_letter_of_authorization_request_form_medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_letter_of_authorization_request_form_treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_letter_of_authorization_request_form_authorization_type
+      label: Authorization Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: medical_letter_of_authorization_request_form_expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false

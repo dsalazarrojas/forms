@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lab Request Form
+    pages:
+    - id: 1
+      name: test_type
+      label: Test Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: sample_id
+      label: Sample ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: test_name
+      label: Test Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: test_description
+      label: Test Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - Blood
+      - Urine
+      - Tissue
+      required: false
+    - id: 7
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: result_note
+      label: Test Result
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: lab_technician
+      label: Lab Technician
+      hint: null
+      type: select_one
+      options:
+      - Lab Tech 1
+      - Lab Tech 2
+      - Lab Tech 3
+      required: false
+    - id: 10
+      name: result_status
+      label: Result Status
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - Incomplete
+      - Not Started
+      required: false
+    - id: 11
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      required: false
+    - id: 12
+      name: patient_age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: sample_received_date
+      label: Sample Received Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: test_priority
+      label: Test Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 15
+      name: test_due_date
+      label: Test Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: test_result_comment
+      label: Test Result Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: test_remarks
+      label: Test Remarks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - In Progress
+      - Not Started
+      required: false
+    - id: 20
+      name: sample_weight
+      label: Sample Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: patient_sex
+      label: Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 22
+      name: test_comment
+      label: Test Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lab_comment
+      label: Lab Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: result_date
+      label: Result Date
+      hint: null
+      type: date
+      options: []
+      required: false

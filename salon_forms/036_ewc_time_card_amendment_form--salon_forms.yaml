@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: ewc_time_card_amendment_form
+    pages:
+    - id: 1
+      name: time_card_date
+      label: Time Card Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: salutation
+      label: Salutation
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Ms
+      - Dr
+      - Prof
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: salutation_value
+      label: Salutation Value
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Ms
+      - Dr
+      - Prof
+      required: true
+    - id: 6
+      name: email
+      label: EMail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 10
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by_id
+      label: Submitted By ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit_user
+      label: Submit User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_id
+      label: Submitter ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_salutation
+      label: Submitter Salutation
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Ms
+      - Dr
+      - Prof
+      required: true
+    - id: 21
+      name: submitter_salutation_value
+      label: Submitter Salutation Value
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Ms
+      - Dr
+      - Prof
+      required: true
+    - id: 22
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false

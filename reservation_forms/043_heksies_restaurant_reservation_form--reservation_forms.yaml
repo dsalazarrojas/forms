@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heksies Restaurant Reservation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reservation_date
+      label: Reservation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reservation_time
+      label: Reservation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: reservation_length
+      label: Reservation length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: guests
+      label: Number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: reservation_note
+      label: Reservation note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reservation_type
+      label: Reservation type
+      hint: null
+      type: select_one
+      options:
+      - Table
+      - Outdoor
+      - Indoor
+      - Private room
+      required: false
+    - id: 13
+      name: reservation_status
+      label: Reservation status
+      hint: null
+      type: select_multiple
+      options:
+      - Confirmed
+      - Pending
+      - Cancelled
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false

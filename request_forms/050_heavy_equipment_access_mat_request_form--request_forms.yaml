@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heavy Equipment Access Mat Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_manager
+      label: Site Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: mat_number
+      label: Mat Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mat_type
+      label: Mat Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_number
+      label: Job Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contractor
+      label: Contractor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: rental_provider
+      label: Rental Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: job_manager
+      label: Job Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: mat_comment
+      label: Mat Comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: site_manager_comment
+      label: Site Manager Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: job_manager_comment
+      label: Job Manager Comment
+      hint: null
+      type: note
+      options: []
+      required: false

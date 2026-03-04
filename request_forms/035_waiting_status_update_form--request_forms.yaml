@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waiting Status Update Form
+    pages:
+    - id: 1
+      name: waiting_status_update_form
+      label: Waiting Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Ticket''}'
+      - '{''id'': 2, ''label'': ''Order''}'
+      - '{''id'': 3, ''label'': ''Application''}'
+      required: true
+    - id: 3
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Open''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      - '{''id'': 3, ''label'': ''Waiting''}'
+      required: true
+    - id: 4
+      name: update_status
+      label: Update Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_details
+      label: Follow Up Details
+      hint: Provide detailed follow-up information
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: update_time
+      label: Update Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: Phone number or email of person to follow up
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User A''}'
+      - '{''id'': 2, ''label'': ''User B''}'
+      - '{''id'': 3, ''label'': ''User C''}'
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_user
+      label: Follow Up User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User A''}'
+      - '{''id'': 2, ''label'': ''User B''}'
+      - '{''id'': 3, ''label'': ''User C''}'
+      required: true
+    - id: 13
+      name: follow_up_user_name
+      label: Follow Up User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_user_email
+      label: Follow Up User E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Request Form Template
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For communication about your request
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_service
+      label: -- Service Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Type of Cleaning Service Requested
+      hint: What cleaning do you need?
+      type: select_one
+      options:
+      - Residential Cleaning
+      - Deep Cleaning
+      - Move-In/Move-Out Cleaning
+      - Window Cleaning
+      - Carpet Cleaning
+      - Office Cleaning
+      - Commercial Cleaning
+      - Other
+      required: true
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: What type of property?
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment
+      - Condo
+      - Office Space
+      - Commercial Building
+      - Other
+      required: true
+    - id: 9
+      name: property_address
+      label: Property Address
+      hint: Full address of property needing cleaning
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_size
+      label: Property Size
+      hint: Approximate square footage
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_details
+      label: -- Details About Your Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_date
+      label: Preferred Cleaning Date
+      hint: When do you need the service?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: What time works best?
+      type: select_one
+      options:
+      - Early Morning (6-9 AM)
+      - Morning (9 AM - 12 PM)
+      - Afternoon (12-5 PM)
+      - Evening (5-8 PM)
+      - Flexible
+      required: true
+    - id: 14
+      name: frequency
+      label: Service Frequency
+      hint: How often do you need this service?
+      type: select_one
+      options:
+      - One-Time Service
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - As Needed
+      required: true
+    - id: 15
+      name: recurring_start_date
+      label: When Should Recurring Service Start?
+      hint: If not a one-time service
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: section_header_areas
+      label: -- Areas to be Cleaned --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: areas_to_clean
+      label: Which Areas Need Cleaning?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Kitchen
+      - Bathrooms
+      - Bedrooms
+      - Living/Dining Areas
+      - Hallways
+      - Floors
+      - Windows
+      - Carpets
+      - All Areas
+      required: true
+    - id: 18
+      name: section_header_requests
+      label: -- Special Requests and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: additional_services
+      label: Additional Services Requested
+      hint: Any special cleaning tasks?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions or Preferences
+      hint: Specific cleaning preferences or concerns
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: allergies_sensitivities
+      label: Allergies or Product Sensitivities
+      hint: Any cleaning products to avoid?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_access
+      label: -- Property Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: access_method
+      label: How Will the Cleaning Crew Access the Property?
+      hint: null
+      type: select_one
+      options:
+      - I will be home
+      - Hidden key location
+      - Keypad/Door code
+      - Garage door opener
+      - Other arrangement
+      required: true
+    - id: 24
+      name: access_instructions
+      label: Detailed Access Instructions
+      hint: If needed for key location or code
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: pets
+      label: Pets in the Property
+      hint: null
+      type: select_one
+      options:
+      - No Pets
+      - Dogs
+      - Cats
+      - Other
+      required: true
+    - id: 26
+      name: pet_details
+      label: Pet Details
+      hint: Breed, temperament, or special care needed
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_header_contact_pref
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Either
+      required: true
+    - id: 29
+      name: best_time_to_contact
+      label: Best Time to Contact You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_header_urgency
+      label: -- Urgency and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: urgency_level
+      label: How Urgent Is Your Request?
+      hint: null
+      type: select_one
+      options:
+      - Not Urgent - Future Date
+      - Somewhat Urgent - Within 2 weeks
+      - Urgent - Within 1 week
+      - Very Urgent - ASAP
+      required: true
+    - id: 32
+      name: budget_range
+      label: Budget Range
+      hint: Approximate budget for service
+      type: select_one
+      options:
+      - Under 100
+      - 100 - 250
+      - 250 - 500
+      - 500 - 1000
+      - 1000+
+      - No Preference
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

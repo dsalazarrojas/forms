@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request Customized Analysis
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: estimated_hours
+      label: Estimated Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: actual_hours
+      label: Actual Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_message
+      label: Submitter Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submitter_message_to_manager
+      label: Submitter Message to Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: submitter_message_to_manager_message
+      label: Submitter Message to Manager Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_message_to_manager_email
+      label: Submitter Message to Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: submitter_message_to_manager_phone
+      label: Submitter Message to Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_message_to_manager_message
+      label: Submitter Message to Manager Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_message_to_manager_notes
+      label: Submitter Message to Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_message_to_manager_department
+      label: Submitter Message to Manager Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

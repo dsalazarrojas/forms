@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request A Photoshoot Form
+    pages:
+    - id: 1
+      name: photographer_website
+      label: Do you have a website?
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services_offered
+      label: What services do you offer?
+      hint: None
+      type: select_multiple
+      options:
+      - Wedding
+      - Event
+      - Newborn
+      - Family
+      - Other
+      required: false
+    - id: 3
+      name: quote_request
+      label: Are you looking for a quote?
+      hint: None
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: name_of_photographer
+      label: Name of photographer
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: photographer_email
+      label: Email of photographer
+      hint: None
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: photographer_phone
+      label: Phone number of photographer
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photoshoot_date
+      label: Date of photoshoot
+      hint: None
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: photoshoot_time
+      label: Time of photoshoot
+      hint: None
+      type: time
+      options: []
+      required: false

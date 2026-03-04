@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barbershop Service Request
+    pages:
+    - id: 1
+      name: welcome_note
+      label: Welcome to the Shop
+      hint: Please fill out this request form to help us get you into the chair faster.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mobile_number
+      label: Mobile Number
+      hint: We will text you when your barber is ready
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: walk_in_status
+      label: Do you have a scheduled appointment?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Scheduled for today
+      - No - I am a walk-in
+      required: true
+    - id: 5
+      name: requested_services_header
+      label: -- Requested Services --
+      hint: Select all services needed today
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: main_service
+      label: Haircut Services
+      hint: null
+      type: select_one
+      options:
+      - Standard Haircut
+      - Skin Fade
+      - Buzz Cut (One length)
+      - Long Hair / Scissor Cut
+      - Kids Cut
+      - Senior Cut
+      - No Haircut Needed
+      required: true
+    - id: 7
+      name: beard_shave_service
+      label: Beard and Shave Services
+      hint: null
+      type: select_one
+      options:
+      - Beard Trim and Line-up
+      - Full Beard Sculpting
+      - Hot Towel Shave
+      - Head Shave
+      - None
+      required: true
+    - id: 8
+      name: add_on_services
+      label: Service Add-ons
+      hint: null
+      type: select_multiple
+      options:
+      - Shampoo and Conditioning
+      - Charcoal Face Mask
+      - Gray Blending / Color
+      - Eyebrow Shaping
+      - Ear / Nose Waxing
+      required: false
+    - id: 9
+      name: preference_header
+      label: -- Barber Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: specific_barber
+      label: Would you like a specific barber?
+      hint: Choosing "Next Available" is usually faster
+      type: select_one
+      options:
+      - Next Available
+      - Request Specific Barber
+      required: true
+    - id: 11
+      name: requested_barber_name
+      label: Name of Requested Barber
+      hint: Only if you selected specific barber above
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: wait_time_ack
+      label: Current Wait Time Acknowledgement
+      hint: I understand the estimated wait time is subject to change
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 13
+      name: photo_consent_header
+      label: -- Portfolio Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: photo_consent
+      label: May we take a photo of your finished cut for our social media?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Tag me!
+      - Yes - But don't tag me
+      - No - I prefer no photos
+      required: true
+    - id: 15
+      name: social_handle
+      label: Social Media Handle (Instagram)
+      hint: e.g., @yourname
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: entry_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: entry_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: true

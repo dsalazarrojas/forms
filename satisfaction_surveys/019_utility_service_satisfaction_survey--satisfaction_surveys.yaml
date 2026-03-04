@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Service Satisfaction Survey
+    pages:
+    - id: 1
+      name: service_satisfaction
+      label: How would you rate the service overall
+      hint: 'Scale: 0-100'
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: service_reliability
+      label: Service reliability
+      hint: How likely are you to recommend
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Not Likely
+      - Not at All Likely
+      required: false
+    - id: 3
+      name: service_quality
+      label: Service quality
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Overall satisfaction
+      hint: 'Scale: 0-100'
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: suggestions
+      label: Have any suggestions
+      hint: Please provide details
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Your email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Your phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: utility_service
+      label: Utility service
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: improvement_areas
+      label: Improvement areas
+      hint: Please provide details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: Would you like to be contacted for follow up
+      hint: Please select an option
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: Please provide details
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time
+      label: Time
+      hint: "hh:mm"
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: category
+      label: Category
+      hint: Select category
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: location
+      label: Location
+      hint: Enter address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: name
+      label: Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: company
+      label: Company
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: Department
+      hint: Department name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: role
+      label: Role
+      hint: Role in the company
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_id
+      label: Employee ID
+      hint: Employee ID
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: utility_number
+      label: Utility Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: meter_number
+      label: Meter Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: reference
+      label: Reference
+      hint: Reference
+      type: text
+      options: []
+      required: false

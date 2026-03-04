@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Appointment Confirmation Form
+    pages:
+    - id: 1
+      name: lead_info
+      label: Lead Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: appointment_type
+      label: Type of Appointment
+      hint: null
+      type: select_one
+      options:
+      - Appointment
+      - Demo
+      - Meeting
+      required: false
+    - id: 5
+      name: salesperson
+      label: Sales Person
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_multiple
+      options:
+      - New Lead
+      - Existing Lead
+      - Qualified Lead
+      required: false
+    - id: 7
+      name: sync_calendar
+      label: Sync with Calendar
+      hint: null
+      type: select_one
+      options:
+      - Zoom
+      - Google Calendar
+      - iCal
+      required: false
+    - id: 8
+      name: sync_sales_system
+      label: Sync with Sales System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: custom_fields
+      label: Custom Fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: custom_field_1
+      label: Custom Field 1
+      hint: null
+      type: text
+      options: []
+      required: false

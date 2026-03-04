@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Designer Luncheon RSVP Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: attending
+      label: Attending
+      hint: null
+      type: select_one
+      options:
+      - Will Attend
+      - Won't Attend
+      required: true
+    - id: 6
+      name: guest_list
+      label: Guest List
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

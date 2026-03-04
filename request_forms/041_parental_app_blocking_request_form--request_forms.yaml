@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental App Blocking Request Form
+    pages:
+    - id: 1
+      name: parent_request
+      label: Parent Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: child_device_id
+      label: child_device
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_block
+      label: reason_for_block
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: blocked_app_id
+      label: blocked_app
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: blocked_app_list
+      label: blocked_app_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: blocked_app_version
+      label: blocked_app_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_blocked
+      label: date_blocked
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_blocked
+      label: blocked_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: blocked_user
+      label: blocked_user
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: blocked_reason
+      label: blocked_reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: approver_notes
+      label: approver_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: approver_name
+      label: approver
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: approver_email
+      label: approver_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: approver_phone
+      label: approver_phone
+      hint: null
+      type: text
+      options: []
+      required: true

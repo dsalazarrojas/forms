@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Menu Screen Order Form
+    pages:
+    - id: 1
+      name: dinein
+      label: Dinein
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: pickup
+      label: Pickup
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: delivery
+      label: Delivery
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

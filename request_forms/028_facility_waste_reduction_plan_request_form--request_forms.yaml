@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Waste Reduction Plan Request Form
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: first_page_2
+      label: first_page_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: project_start_date
+      label: project_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: project_end_date
+      label: project_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: first_page_3
+      label: first_page_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: facility
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_address_2
+      label: facility_address_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: facility_city
+      label: facility_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_state
+      label: facility_state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: facility_zip
+      label: facility_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: facility_country
+      label: facility_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_contact
+      label: facility_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: facility_note
+      label: facility_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: facility_signature
+      label: facility_signature
+      hint: null
+      type: text
+      options: []
+      required: true

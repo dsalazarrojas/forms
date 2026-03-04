@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote System Scan Scheduling
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scan_request_details
+      label: Scan Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: scan_type
+      label: Scan Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: schedule_time
+      label: Schedule Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: schedule_duration
+      label: Schedule Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: time_slot
+      label: Time Slot
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: scan_location
+      label: Scan Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: scan_frequency
+      label: Scan Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_members
+      label: Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_team
+      label: Manager Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: scan_requestor
+      label: Scan Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: scan_request_status
+      label: Scan Request Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 23
+      name: scan_type_status
+      label: Scan Type Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 24
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 25
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: time_zone_offset
+      label: Time Zone Offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: timezone_offset
+      label: Time Zone Offset
+      hint: null
+      type: text
+      options: []
+      required: false

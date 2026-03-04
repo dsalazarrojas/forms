@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_drill_report_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drill_location
+      label: Drill Location
+      hint: Where did the drill take place?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_equipment_checked
+      label: Is Safety Equipment Available
+      hint: Check this only if the required safety equipment is available
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 4
+      name: drill_conducted
+      label: Was A Drill Conducted
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 5
+      name: drill_frequency
+      label: How Often
+      hint: How often do drills occur at this location?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      - '{''id'': 4, ''label'': ''Quarterly''}'
+      - '{''id'': 5, ''label'': ''Rarely''}'
+      required: false
+    - id: 6
+      name: drill_duration
+      label: Drill Duration
+      hint: How long did the drill last?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: drill_participants
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: drill_supervisors
+      label: Number of Supervisors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: drill_observers
+      label: Number of Observers
+      hint: null
+      type: number
+      options: []
+      required: false

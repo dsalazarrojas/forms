@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service And Hospitality Survey
+    pages:
+    - id: 1
+      name: service_and_hospitality_survey_page_1
+      label: Service And Hospitality Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: service_quality_score
+      label: Service Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: cleanliness_score
+      label: Cleanliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: staff_attentiveness_score
+      label: Staff Attentiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication_score
+      label: Communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: staff_friendliness_score
+      label: Staff Friendliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: facilities_score
+      label: Facilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: customer_experience
+      label: Customer Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: will_return
+      label: Will Return
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

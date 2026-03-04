@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preschool Classroom Safety Checklist
+    pages:
+    - id: 1
+      name: teacher_signature
+      label: Teacher Signature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_hazards
+      label: Fire Hazards
+      hint: Check for fire hazards, such as frayed electrical cords and exposed wiring.
+      type: select_one
+      options:
+      - '{''option1'': ''Fire Alarm System''}'
+      - '{''option2'': ''Working Light''}'
+      - '{''option3'': ''Working Fire Extinguisher''}'
+      required: false
+    - id: 4
+      name: electrical_hazards
+      label: Electrical Hazards
+      hint: Check for electrical hazards, such as exposed wiring and frayed cords.
+      type: select_one
+      options:
+      - '{''option1'': ''Working Electrical Outlet''}'
+      - '{''option2'': ''Fused Outlet''}'
+      - '{''option3'': ''Extension Cord''}'
+      required: false
+    - id: 5
+      name: physical_hazards
+      label: Physical Hazards
+      hint: Check for physical hazards, such as sharp objects or heavy furniture.
+      type: select_one
+      options:
+      - '{''option1'': ''Sharp Objects''}'
+      - '{''option2'': ''Heavy Furniture''}'
+      - '{''option3'': ''Broken Glass''}'
+      required: false
+    - id: 6
+      name: chemical_hazards
+      label: Chemical Hazards
+      hint: Check for chemical hazards, such as cleaning supplies and paints.
+      type: select_one
+      options:
+      - '{''option1'': ''Cleaning Supplies''}'
+      - '{''option2'': ''Paints''}'
+      - '{''option3'': ''Chemicals''}'
+      required: false
+    - id: 7
+      name: other_hazards
+      label: Other Hazards
+      hint: Check for any other hazards, such as slippery floors or uneven surfaces.
+      type: select_one
+      options:
+      - '{''option1'': ''Slippery Floors''}'
+      - '{''option2'': ''Uneven Surfaces''}'
+      - '{''option3'': ''Broken Glass''}'
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: Date of last inspection
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: Time of last inspection
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: remarks
+      label: Remarks
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false

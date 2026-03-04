@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Prayer Requests
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prayer_requester
+      label: Prayer Requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: prayer_requester
+      label: Prayer Requester
+      hint: null
+      type: select_multiple
+      options:
+      - Prayer Requester 1
+      - Prayer Requester 2
+      - Prayer Requester 3
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

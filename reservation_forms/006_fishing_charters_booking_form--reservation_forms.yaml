@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fishing Charters Booking Form
+    pages:
+    - id: 1
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trip_details
+      label: trip details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trip_type
+      label: trip type
+      hint: null
+      type: select_one
+      options:
+      - '{''type'': ''freshwater''}'
+      - '{''type'': ''saltwater''}'
+      - '{''type'': ''combination''}'
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: captain
+      label: captain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

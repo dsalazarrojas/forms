@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contract Review Appointment Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full legal name of the client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: Primary email address for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of client organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_appointment
+      label: -- Appointment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: Select your preferred date for the review
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred Appointment Time
+      hint: Select your preferred time slot
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: appointment_type
+      label: Appointment Type
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - In-Person Meeting
+      - Video Conference
+      - Phone Call
+      required: true
+    - id: 9
+      name: alternative_date
+      label: Alternative Date
+      hint: Second choice for appointment date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: section_contract_details
+      label: -- Contract Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: contract_type
+      label: Type of Contract
+      hint: What type of contract needs review
+      type: select_one
+      options:
+      - Employment Contract
+      - Service Agreement
+      - Lease Agreement
+      - Purchase Agreement
+      - Non-Disclosure Agreement
+      - Partnership Agreement
+      - Other
+      required: true
+    - id: 12
+      name: contract_value
+      label: Contract Value
+      hint: Estimated value of the contract if applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contract_length
+      label: Contract Duration
+      hint: Length of the contract term
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: How soon do you need the review completed
+      type: select_one
+      options:
+      - Urgent - Within 24 hours
+      - High - Within 3 days
+      - Normal - Within 1 week
+      - Low - No rush
+      required: true
+    - id: 15
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: specific_concerns
+      label: Specific Concerns or Focus Areas
+      hint: Are there particular clauses or sections you want us to focus on
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_review
+      label: Has this contract been reviewed before
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: other_parties_involved
+      label: Number of Other Parties Involved
+      hint: How many other parties are part of this contract
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special accommodations or requirements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: how_did_you_hear
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Referral
+      - Online Search
+      - Social Media
+      - Advertisement
+      - Previous Client
+      - Other
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information we should know
+      type: text
+      options: []
+      required: false

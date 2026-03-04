@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Reopening Survey
+    pages:
+    - id: 1
+      name: restaurant_reopening_survey_1
+      label: Is your restaurant open?
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Limited
+      - Closed
+      required: false
+    - id: 2
+      name: what_days
+      label: Which days is your restaurant open?
+      hint: null
+      type: select_multiple
+      options:
+      - Mon
+      - Tue
+      - Wed
+      - Thu
+      - Fri
+      - Sat
+      - Sun
+      required: false
+    - id: 3
+      name: what_time
+      label: What time does your restaurant open?
+      hint: 12h or 24h format
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: what_time_close
+      label: What time does your restaurant close?
+      hint: 12h or 24h format
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: how_many_people
+      label: How many people do you allow in?
+      hint: Number of customers allowed at once
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: social_distance
+      label: Social distancing measures in place?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: safety_measures
+      label: Safety measures in place?
+      hint: null
+      type: select_multiple
+      options:
+      - Temperature checks
+      - Sanitizing
+      - Mask mandates
+      - Hand sanitizer available
+      - Reduced capacity
+      required: false
+    - id: 8
+      name: safety_precautions
+      label: Are there any specific safety precautions we should be aware of?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Any other comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false

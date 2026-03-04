@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Layout Feedback Survey
+    pages:
+    - id: 1
+      name: layout_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: usage_insights
+      label: how_do_you_use_layout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very Good''}'
+      - '{''value'': 2, ''label'': ''Good''}'
+      - '{''value'': 3, ''label'': ''Average''}'
+      - '{''value'': 4, ''label'': ''Bad''}'
+      - '{''value'': 5, ''label'': ''Very Bad''}'
+      required: false
+    - id: 4
+      name: improvement_suggestions
+      label: have_any_improvement_suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Add or remove features''}'
+      - '{''value'': 2, ''label'': ''Change layout''}'
+      - '{''value'': 3, ''label'': ''Improve navigation''}'
+      - '{''value'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

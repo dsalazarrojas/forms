@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Launch Event RSVP
+    pages:
+    - id: 1
+      name: guest_information
+      label: Guest Information
+      hint: Please provide your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For event confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_organization
+      label: Company or Organization
+      hint: Your company name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: Event Details
+      hint: Your attendance preferences
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attendance_status
+      label: Attendance Status
+      hint: Will you be attending?
+      type: select_one
+      options:
+      - Yes - I will attend
+      - No - unable to attend
+      - Maybe - pending confirmation
+      required: true
+    - id: 10
+      name: number_of_guests
+      label: Number of Guests
+      hint: Including yourself
+      type: select_one
+      options:
+      - 1 (just me)
+      - 2
+      - 3
+      - 4
+      - 5 or more
+      required: true
+    - id: 11
+      name: guest_names
+      label: Guest Names
+      hint: Names of additional guests
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_session
+      label: Preferred Session
+      hint: Which session do you prefer?
+      type: select_one
+      options:
+      - Morning Session - 10 AM
+      - Afternoon Session - 2 PM
+      - Evening Session - 6 PM
+      - No preference
+      required: true
+    - id: 13
+      name: vip_attendance
+      label: VIP Access
+      hint: Do you have VIP access?
+      type: select_one
+      options:
+      - Yes - VIP guest
+      - No - general admission
+      required: true
+    - id: 14
+      name: catering_preferences
+      label: Catering Preferences
+      hint: Meal preferences
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: meal_preference
+      label: Meal Preference
+      hint: Your meal choice
+      type: select_one
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - No preference
+      required: true
+    - id: 16
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or restrictions
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Shellfish allergy
+      - Other
+      required: true
+    - id: 17
+      name: dietary_notes
+      label: Dietary Notes
+      hint: Additional details
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: beverage_preference
+      label: Beverage Preference
+      hint: Drink preference
+      type: select_one
+      options:
+      - Open bar
+      - Wine and beer only
+      - Non-alcoholic only
+      - No preference
+      required: false
+    - id: 19
+      name: transportation
+      label: Transportation
+      hint: How will you arrive?
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need shuttle service?
+      type: select_one
+      options:
+      - Yes - need shuttle
+      - No - driving myself
+      - No - rideshare/taxi
+      required: true
+    - id: 21
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: vehicle_interest
+      label: Vehicle Interest
+      hint: What interests you about the launch?
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: vehicle_category_interest
+      label: Vehicle Category of Interest
+      hint: Which category?
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Sports Car
+      - Electric Vehicle
+      - Hybrid
+      - Luxury
+      - All categories
+      required: false
+    - id: 24
+      name: purchase_intent
+      label: Purchase Intent
+      hint: Are you considering a purchase?
+      type: select_one
+      options:
+      - Yes - very interested
+      - Maybe - exploring options
+      - No - just attending
+      - Media/Press only
+      required: false
+    - id: 25
+      name: media_attendance
+      label: Media Attendance
+      hint: Are you attending as media?
+      type: select_one
+      options:
+      - Yes - media/press
+      - false
+      required: true
+    - id: 26
+      name: media_outlet
+      label: Media Outlet
+      hint: Name of publication/station
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_requests
+      label: Additional Requests
+      hint: Any special requests or needs
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: how_heard_about_event
+      label: How Did You Hear About This Event
+      hint: Your referral source
+      type: select_one
+      options:
+      - Email invitation
+      - Social media
+      - Dealer invitation
+      - Press release
+      - Friend/colleague
+      - Website
+      - Other
+      required: false
+    - id: 29
+      name: rsvp_date
+      label: RSVP Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

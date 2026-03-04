@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banking Error Correction Request Form
+    pages:
+    - id: 1
+      name: customer_full_name
+      label: Customer Full Name
+      hint: Account holder name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: Affected account
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Credit Card
+      - Investment
+      - Loan
+      - Other
+      required: true
+    - id: 7
+      name: error_type
+      label: Type of Error
+      hint: What kind of error occurred
+      type: select_one
+      options:
+      - Incorrect Transaction Amount
+      - Duplicate Transaction
+      - Unauthorized Transaction
+      - Missing Deposit
+      - Incorrect Fee Charged
+      - Wrong Account Posted
+      - Balance Error
+      - Other
+      required: true
+    - id: 8
+      name: error_date
+      label: Error Date
+      hint: When did the error occur
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: transaction_amount
+      label: Transaction Amount
+      hint: Dollar amount involved
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: transaction_description
+      label: Transaction Description
+      hint: As it appears on statement
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: error_details
+      label: Error Details
+      hint: Describe what went wrong
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: expected_correction
+      label: Expected Correction
+      hint: What should happen
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Do you have documentation
+      type: select_one
+      options:
+      - Yes, will attach
+      - Yes, will mail
+      - No, but can provide
+      - No documents available
+      required: true
+    - id: 14
+      name: document_type
+      label: Document Type
+      hint: What documents do you have
+      type: select_multiple
+      options:
+      - Receipts
+      - Bank Statements
+      - Email Correspondence
+      - Screenshots
+      - Cancelled Checks
+      - Other
+      required: false
+    - id: 15
+      name: previous_contact
+      label: Previous Contact About This Issue
+      hint: Have you contacted us before
+      type: select_one
+      options:
+      - Yes, this is a follow-up
+      - No, first contact
+      required: true
+    - id: 16
+      name: previous_contact_date
+      label: Previous Contact Date
+      hint: When did you contact us
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: urgency
+      label: Urgency
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Standard
+      - Urgent
+      - Critical
+      required: true
+    - id: 18
+      name: preferred_resolution_method
+      label: Preferred Resolution Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      required: true
+    - id: 19
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 20
+      name: authorization
+      label: Authorization
+      hint: Do you authorize investigation
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 21
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

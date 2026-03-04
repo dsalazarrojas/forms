@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Loyalty Rewards Form
+    pages:
+    - id: 1
+      name: form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: loyalty_points
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reward_type
+      label: reward_type
+      hint: null
+      type: select_one
+      options:
+      - Loyalty Voucher
+      - Free Product
+      - Discount
+      required: false
+    - id: 7
+      name: reward_amount
+      label: reward_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: store_visited_count
+      label: store_visited_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: store_visited_count_hint
+      hint: This field only counts visits within a certain period of time.
+      type: note
+      options: []
+      required: false

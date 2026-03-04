@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Script Rights Usage Request Form
+    pages:
+    - id: 1
+      name: script_rights_usage_request_form
+      label: Script Rights Usage Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: script_name
+      label: Script Name
+      hint: Enter script name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: usage_date
+      label: Usage Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: usage_duration
+      label: Usage Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: requester_info
+      label: Requester Info
+      hint: Enter requestor information
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: Enter company name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: script_version
+      label: Script Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: script_rights
+      label: Script Rights
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true

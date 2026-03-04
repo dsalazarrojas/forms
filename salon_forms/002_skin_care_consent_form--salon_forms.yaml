@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Care Consent Form
+    pages:
+    - id: 1
+      name: skin_care_consent_form
+      label: skin_care_consent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: procedure_name
+      label: procedure_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: consent_given
+      label: consent_given
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true

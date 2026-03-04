@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporary Structure Safety Inspection Form
+    pages:
+    - id: 1
+      name: page1
+      label: event_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section1
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: structure_type
+      label: Structure Type
+      hint: null
+      type: select_one
+      options:
+      - Temporary Structure
+      - Permanent Structure
+      - Other
+      required: true
+    - id: 4
+      name: structure_location
+      label: Structure Location
+      hint: null
+      type: select_multiple
+      options:
+      - Field
+      - Stage
+      - Field and Stage
+      required: true
+    - id: 5
+      name: structure_description
+      label: structure_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hazard_found
+      label: Hazard Found
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 8
+      name: control_measures
+      label: control_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - Chat Jimmy
+      - Other
+      required: true
+    - id: 12
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: completed_at
+      label: Completed At
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Filing Experience Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: tax_filing_experience_survey_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: introduction_section
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: challenges_encountered
+      label: challenges_encountered
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 5
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tax_firm_performance
+      label: tax_firm_performance
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 7
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: tax_filing_process_experience
+      label: tax_filing_process_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: challenges_solved
+      label: challenges_solved
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false

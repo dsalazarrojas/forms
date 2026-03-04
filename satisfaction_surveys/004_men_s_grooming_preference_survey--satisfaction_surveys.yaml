@@ -1,0 +1,273 @@
+inputSchema:
+  type: object
+  properties:
+    title: men_s_grooming_preference_survey
+    pages:
+    - id: 1
+      name: intro
+      label: men_s_grooming_preference_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: hair_haircut_style
+      label: hair_haircut_style
+      hint: null
+      type: select_one
+      options:
+      - Beard
+      - Bald
+      - Crew
+      - Pompadour
+      - Fade
+      - Quiff
+      required: false
+    - id: 4
+      name: hair_haircut_frequency
+      label: hair_haircut_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 times a week
+      - 3-4 times a week
+      - Daily
+      - Never
+      required: false
+    - id: 5
+      name: beard_maintenance
+      label: beard_maintenance
+      hint: null
+      type: select_one
+      options:
+      - Trims
+      - Oils
+      - Waxes
+      - Never
+      required: false
+    - id: 6
+      name: beard_maintenance_frequency
+      label: beard_maintenance_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - 1-2 times a week
+      - 3-4 times a week
+      - Rarely
+      required: false
+    - id: 7
+      name: skincare
+      label: skincare
+      hint: null
+      type: select_multiple
+      options:
+      - Cleanser
+      - Moisturiser
+      - Serum
+      - Sunscreen
+      required: false
+    - id: 8
+      name: skincare_frequency
+      label: skincare_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - 1-2 times a week
+      - 3-4 times a week
+      - Rarely
+      required: false
+    - id: 9
+      name: shaving
+      label: shaving
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 1-2 times a week
+      - 3-4 times a week
+      - Never
+      required: false
+    - id: 10
+      name: shaving_frequency
+      label: shaving_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - 1-2 times a week
+      - 3-4 times a week
+      required: false
+    - id: 11
+      name: fragrance
+      label: fragrance
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 1-2 times a week
+      - 3-4 times a week
+      - Never
+      required: false
+    - id: 12
+      name: fragrance_frequency
+      label: fragrance_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - 1-2 times a week
+      - 3-4 times a week
+      - Rarely
+      required: false
+    - id: 13
+      name: skincare_product
+      label: skincare_product
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: skincare_price
+      label: skincare_price
+      hint: null
+      type: select_one
+      options:
+      - Less than $10
+      - $10-$20
+      - $21-$30
+      - $31 or more
+      required: false
+    - id: 15
+      name: hair_haircut_cost
+      label: hair_haircut_cost
+      hint: null
+      type: select_one
+      options:
+      - Less than $10
+      - $10-$20
+      - $21-$30
+      - $31 or more
+      required: false
+    - id: 16
+      name: skincare_tools
+      label: skincare_tools
+      hint: null
+      type: select_multiple
+      options:
+      - Razors
+      - Clippers
+      - Trimmers
+      - Brushes
+      - Other
+      required: false
+    - id: 17
+      name: beard_tools
+      label: beard_tools
+      hint: null
+      type: select_multiple
+      options:
+      - Trimmers
+      - Combs
+      - Brushes
+      - Razors
+      - Other
+      required: false
+    - id: 18
+      name: skincare_brand
+      label: skincare_brand
+      hint: null
+      type: select_one
+      options:
+      - L
+      - P
+      - D
+      - K
+      - Other
+      required: false
+    - id: 19
+      name: hair_haircut_brand
+      label: hair_haircut_brand
+      hint: null
+      type: select_one
+      options:
+      - L
+      - P
+      - D
+      - K
+      - Other
+      required: false
+    - id: 20
+      name: skincare_haircut
+      label: skincare_haircut
+      hint: null
+      type: select_one
+      options:
+      - L
+      - P
+      - D
+      - K
+      required: false
+    - id: 21
+      name: hair_haircut_frequency
+      label: hair_haircut_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 1-2 times a week
+      - 3-4 times a week
+      - Never
+      required: false
+    - id: 22
+      name: skincare_product_size
+      label: skincare_product_size
+      hint: null
+      type: select_one
+      options:
+      - Less than 100ml
+      - 100-200ml
+      - More than 200ml
+      required: false
+    - id: 23
+      name: skincare_product_type
+      label: skincare_product_size
+      hint: null
+      type: select_one
+      options:
+      - Cream
+      - Gel
+      - Spray
+      - Serum
+      - Other
+      required: false
+    - id: 24
+      name: skincare_product_form
+      label: skincare_product_form
+      hint: null
+      type: select_one
+      options:
+      - Pump
+      - Bottle
+      - Tube
+      - Tube
+      - Other
+      required: false
+    - id: 25
+      name: skincare_product_size_form
+      label: skincare_product_size
+      hint: null
+      type: select_one
+      options:
+      - 10-20ml
+      - 21-40ml
+      - 41-60ml
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Fire Escape Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_exit_route
+      label: fire_exit_route
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: escape_route_conditions
+      label: escape_route_conditions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: urgent_issues
+      label: urgent_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: escape_route_status
+      label: escape_route_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 6
+      name: emergency_exit_door_condition
+      label: emergency_exit_door_condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: emergency_exit_door_rating
+      label: emergency_exit_door_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: fire_extinguisher
+      label: fire_extinguisher
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: fire_extinguisher_rating
+      label: fire_extinguisher_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: fire_alarm
+      label: fire_alarm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: emergency_exit_light
+      label: emergency_exit_light
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: fire_extinguisher_location
+      label: fire_extinguisher_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: fire_exit_route_location
+      label: fire_exit_route_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: exit_door
+      label: exit_door
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_call_point
+      label: emergency_call_point
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: emergency_exit_point
+      label: emergency_exit_point
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: user_signature
+      label: User Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

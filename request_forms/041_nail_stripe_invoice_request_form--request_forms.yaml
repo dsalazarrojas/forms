@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: nail_stripe_invoice_request_form
+    pages:
+    - id: 1
+      name: stripe_color
+      label: stripe_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stripe_width
+      label: stripe_width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: stripe_length
+      label: stripe_length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: stripe_style
+      label: stripe_style
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: stripe_material
+      label: stripe_material
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 6
+      name: stripe_price
+      label: stripe_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: stripe_quantity
+      label: stripe_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: stripe_color_price
+      label: stripe_color_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: stripe_quantity_price
+      label: stripe_quantity_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: stripe_total_price
+      label: stripe_total_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: stripe_tax
+      label: stripe_tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: stripe_note
+      label: stripe_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: stripe_requester_email
+      label: requesters_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: stripe_requester_phone
+      label: requester_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Sale Pre Approval Request Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Condo
+      - Townhouse
+      - Single Family
+      - Duplex
+      - Multi Unit
+      - Single Family Home
+      required: false
+    - id: 6
+      name: property_status
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Sold
+      - Pending
+      - Under Agreement
+      - Pre-Approve
+      - Sold Pre-Approved
+      required: false
+    - id: 7
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pre_approval_request
+      label: Pre-Approval Request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: sale_price
+      label: Sale Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: down_payment
+      label: Down Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sale_terms
+      label: Sale Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sale_date
+      label: Sale Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agent_phone
+      label: Agent Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agent_email
+      label: Agent Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: pre_approve_reason
+      label: Pre-Approve Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: sale_status
+      label: Sale Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Sold
+      - Pending
+      - Under Agreement
+      - Pre-Approve
+      - Sold Pre-Approved
+      required: false
+    - id: 18
+      name: sale_notes
+      label: Sale Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: property_type_2
+      label: Property Type 2
+      hint: null
+      type: select_one
+      options:
+      - Condo
+      - Townhouse
+      - Single Family
+      - Duplex
+      - Multi Unit
+      - Single Family Home
+      required: false
+    - id: 20
+      name: property_status_2
+      label: Property Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Sold
+      - Pending
+      - Under Agreement
+      - Pre-Approve
+      - Sold Pre-Approved
+      required: false
+    - id: 21
+      name: sale_price_2
+      label: Sale Price 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: down_payment_2
+      label: Down Payment 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: sale_terms_2
+      label: Sale Terms 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: sale_date_2
+      label: Sale Date 2
+      hint: null
+      type: date
+      options: []
+      required: false

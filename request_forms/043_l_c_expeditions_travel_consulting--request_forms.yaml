@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: l_c_expeditions_travel_consulting_request_forms
+    pages:
+    - id: 1
+      name: travel_consultation_form
+      label: What is your trip/vacation type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: travel_consultation_form
+      label: Destination
+      hint: null
+      type: select_one
+      options:
+      - Beach
+      - City
+      - Mountain
+      required: true
+    - id: 3
+      name: travel_consultation_form
+      label: DepartureDate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: travel_consultation_form
+      label: DepartureTime
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: travel_consultation_form
+      label: ArrivalDate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_consultation_form
+      label: ArrivalTime
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: travel_consultation_form
+      label: travel_consultation_form
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: travel_consultation_form
+      label: Number of people
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: travel_consultation_form
+      label: travel_consultation_form
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Flight
+      - Car
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

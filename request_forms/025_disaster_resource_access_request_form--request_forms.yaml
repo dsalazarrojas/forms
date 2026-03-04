@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Resource Access Request Form
+    pages:
+    - id: 1
+      name: disaster_resource_access_request_form
+      label: Emergency Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_relationship
+      label: relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resource_requested_description
+      label: resource_requested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resource_requested_quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false

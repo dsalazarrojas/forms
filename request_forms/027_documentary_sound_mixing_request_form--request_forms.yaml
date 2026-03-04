@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Sound Mixing Request Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: form_mixer
+      label: Mixer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - '{''id'': 2, ''label'': ''Mike''}'
+      - '{''id'': 3, ''label'': ''Sally''}'
+      required: false
+    - id: 4
+      name: client_name
+      label: Client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_number
+      label: Project
+      hint: Project number (if known)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Video''}'
+      - '{''id'': 2, ''label'': ''TV Show''}'
+      - '{''id'': 3, ''label'': ''Commercial''}'
+      required: false
+    - id: 7
+      name: mix_type
+      label: Mix Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Stereo''}'
+      - '{''id'': 2, ''label'': ''Mono''}'
+      - '{''id'': 3, ''label'': ''Surround Sound''}'
+      required: false
+    - id: 8
+      name: mix_version
+      label: Mix Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mix_status
+      label: Mix Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Completed''}'
+      - '{''id'': 3, ''label'': ''In Review''}'
+      required: false
+    - id: 10
+      name: mix_comments
+      label: Mix Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mix_notes
+      label: Mix Notes
+      hint: null
+      type: note
+      options: []
+      required: false

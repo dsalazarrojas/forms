@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Sales Customer Application Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: drivers_license_state
+      label: Driver License State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_address
+      label: -- Current Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_employment
+      label: -- Employment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      required: true
+    - id: 14
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: annual_income
+      label: Annual Income
+      hint: Gross annual income
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_header_trade_in
+      label: -- Trade-In Vehicle Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: have_trade_in
+      label: Do you have a vehicle to trade-in
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: trade_in_year
+      label: Trade-In Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: trade_in_make
+      label: Trade-In Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: trade_in_model
+      label: Trade-In Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_header_desired_vehicle
+      label: -- Desired Vehicle --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_type
+      label: Vehicle Type of Interest
+      hint: null
+      type: select_one
+      options:
+      - Sedan
+      - SUV
+      - Truck
+      - Crossover
+      - Van
+      - Other
+      required: true
+    - id: 23
+      name: new_or_used
+      label: New or Used Vehicle
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - No Preference
+      required: true
+    - id: 24
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: select_one
+      options:
+      - Under 15000
+      - 15000-25000
+      - 25000-40000
+      - 40000-60000
+      - 60000+
+      required: true
+    - id: 25
+      name: financing_required
+      label: Financing Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true

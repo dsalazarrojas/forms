@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brow Lamination Tint Information And Waiver Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client name
+      hint: Full client name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact number
+      hint: Phone for appointment follow up
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: medical_history
+      label: Medical history
+      hint: Relevant health conditions allergies or sensitivities
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: procedure_understanding
+      label: Procedure understanding
+      hint: Confirm understanding of lamination and tint process
+      type: select_one
+      options:
+      - I understand
+      - I do not understand
+      required: true
+    - id: 5
+      name: prior_treatments
+      label: Prior treatments
+      hint: Recent chemical or cosmetic procedures
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent_signature_email
+      label: Consent confirmation email
+      hint: Email to confirm signed waiver
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: aftercare_instructions
+      label: Aftercare instructions
+      hint: Read only aftercare steps for client
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional notes
+      hint: Any other remarks
+      type: text
+      options: []
+      required: false

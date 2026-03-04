@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Dinner Reservation Form
+    pages:
+    - id: 1
+      name: guest_header
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_guest_name
+      label: Primary Guest Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For reservation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization or Company
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reservation_header
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: dinner_date
+      label: Dinner Date
+      hint: When is the dinner
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: dinner_time
+      label: Dinner Time
+      hint: What time is the dinner
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many people in your party
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: table_preference
+      label: Table Location Preference
+      hint: Where would you like to sit
+      type: select_one
+      options:
+      - Near window
+      - Center of room
+      - Quiet corner
+      - Near stage or entrance
+      - No preference
+      required: false
+    - id: 11
+      name: dining_preferences_header
+      label: -- Dining Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: entrée_selection
+      label: Primary Guest Entrée Selection
+      hint: Choose your main course
+      type: select_one
+      options:
+      - Filet Mignon
+      - Grilled Salmon
+      - Herb Roasted Chicken
+      - Vegetarian Pasta
+      - Vegan Option
+      - Surf and Turf
+      - Other
+      required: true
+    - id: 13
+      name: additional_guests_entrees
+      label: Entrée Selections for Additional Guests
+      hint: If bringing guests, describe choices
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any food allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: beverage_preference
+      label: Beverage Preferences
+      hint: Wine, beer, soft drink, other
+      type: select_multiple
+      options:
+      - Red Wine
+      - White Wine
+      - Beer
+      - Soft Drinks
+      - Non-Alcoholic
+      - Sparkling Water
+      - Coffee or Tea
+      required: false
+    - id: 16
+      name: special_occasions_header
+      label: -- Special Occasions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: celebrating_occasion
+      label: Celebrating Special Occasion
+      hint: Is this a special celebration
+      type: select_one
+      options:
+      - Birthday
+      - Anniversary
+      - Promotion or Achievement
+      - Anniversary of Dinner Series
+      - Corporate Celebration
+      - No special occasion
+      required: false
+    - id: 18
+      name: honoree_name
+      label: Person Being Celebrated
+      hint: Name of person being honored
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requests_header
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: seating_restrictions
+      label: Seating Restrictions
+      hint: People who need to sit together or apart
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_accommodations
+      label: Accessibility or Other Needs
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_preferences_header
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Either email or phone
+      required: true
+    - id: 24
+      name: send_reminders
+      label: Send Reminder Messages
+      hint: Want reminder before dinner
+      type: select_one
+      options:
+      - Yes, send reminders
+      - No, do not send
+      required: true
+    - id: 25
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

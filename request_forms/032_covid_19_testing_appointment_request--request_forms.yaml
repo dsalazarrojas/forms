@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Testing Appointment Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: State
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_status
+      label: Do you have health insurance
+      hint: Insurance coverage
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: insurance_provider
+      label: Insurance Provider
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Member ID
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: primary_care_physician
+      label: Primary Care Physician Name
+      hint: Your doctor
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: physician_phone
+      label: Physician Phone
+      hint: Office number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reason_for_testing
+      label: Why do you want to get tested
+      hint: Select primary reason
+      type: select_one
+      options:
+      - Experiencing symptoms
+      - Close contact with positive case
+      - Work requirement
+      - School requirement
+      - Travel requirement
+      - Medical procedure requirement
+      - Event requirement
+      - Personal peace of mind
+      - Healthcare provider recommendation
+      required: true
+    - id: 18
+      name: current_symptoms
+      label: Are you currently experiencing any symptoms
+      hint: Symptom status
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 19
+      name: symptom_list
+      label: Which symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - Nausea or vomiting
+      - Diarrhea
+      required: false
+    - id: 20
+      name: symptom_onset_date
+      label: When did symptoms start
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: exposure_history
+      label: Have you been exposed to someone with COVID-19
+      hint: Exposure history
+      type: select_one
+      options:
+      - false
+      - true
+      - Not sure
+      required: true
+    - id: 22
+      name: preferred_appointment_date
+      label: Preferred Appointment Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: preferred_appointment_time
+      label: Preferred Appointment Time
+      hint: Time preference
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: alternative_appointment_date
+      label: Alternative Appointment Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: appointment_type_preference
+      label: Appointment Type Preference
+      hint: Testing method
+      type: select_one
+      options:
+      - Drive-through testing
+      - Walk-in testing
+      - Scheduled appointment
+      - Home collection
+      required: true
+    - id: 26
+      name: testing_location_preference
+      label: Preferred Testing Location
+      hint: Where to test
+      type: select_one
+      options:
+      - Main testing center
+      - Satellite location
+      - Mobile testing unit
+      - Any available location
+      required: true
+    - id: 27
+      name: transportation_needs
+      label: Do you need transportation assistance
+      hint: Transportation access
+      type: select_one
+      options:
+      - No I have transportation
+      - Yes I need assistance
+      required: false
+    - id: 28
+      name: interpreter_needed
+      label: Do you need an interpreter
+      hint: Language assistance
+      type: select_one
+      options:
+      - false
+      - Yes Spanish
+      - Yes other language
+      required: false
+    - id: 29
+      name: language_preference
+      label: Preferred Language
+      hint: For communications
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - Vietnamese
+      - Korean
+      - Other
+      required: true
+    - id: 30
+      name: special_accommodations
+      label: Do you need any special accommodations
+      hint: Accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Other information
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: contact_preference
+      label: How should we contact you for appointment confirmation
+      hint: Contact method
+      type: select_one
+      options:
+      - Phone call
+      - Text message
+      - Email
+      required: true
+    - id: 33
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

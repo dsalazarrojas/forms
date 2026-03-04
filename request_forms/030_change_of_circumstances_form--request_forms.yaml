@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Of Circumstances Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: person_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: For verification
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: identification_number
+      label: Identification Number
+      hint: Government ID or SSN
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: changes_occurring
+      label: Changes in Circumstances
+      hint: Select changes that apply
+      type: select_multiple
+      options:
+      - Change of Address
+      - Change of Name
+      - Change of Employment
+      - Marital Status Change
+      - Change of Income
+      - Family Status Change
+      - Change of Contact Information
+      - Other
+      required: true
+    - id: 8
+      name: effective_date
+      label: Effective Date of Changes
+      hint: When do changes take effect
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: address_change
+      label: New Address (if applicable)
+      hint: If address is changing
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name_change_details
+      label: Name Change Details
+      hint: New name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employment_change
+      label: Employment Change Details
+      hint: New job title, employer, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: marital_status
+      label: New Marital Status
+      hint: Current marital status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Domestic Partnership
+      required: false
+    - id: 13
+      name: marriage_date
+      label: Marriage Date (if applicable)
+      hint: When married
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: spouse_name
+      label: Spouse Name (if applicable)
+      hint: Name of spouse
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: family_changes
+      label: Family Status Changes
+      hint: New dependents, children, etc.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: income_change
+      label: Income Change Details
+      hint: New income information
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: supporting_documentation
+      label: Supporting Documentation Provided
+      hint: Copies of certificates, licenses, etc.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: documentation_type
+      label: Type of Documentation Included
+      hint: What documents are attached
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reason_for_submission
+      label: Reason for Submitting This Form
+      hint: Why are you reporting changes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: certification
+      label: I Certify the Information is Accurate
+      hint: Confirm truthfulness of information
+      type: select_one
+      options:
+      - Yes, I Certify
+      - 'No'
+      required: true

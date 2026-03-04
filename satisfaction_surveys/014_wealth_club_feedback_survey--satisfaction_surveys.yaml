@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wealth Club Feedback Survey
+    pages:
+    - id: 1
+      name: survey_page
+      label: Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_1
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_2
+      label: How often do you participate in our meetings?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_3
+      label: Have you recommended this program to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 5
+      name: improvement_suggestion
+      label: What suggestions do you have for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: referral_intent
+      label: Intent to Refer
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

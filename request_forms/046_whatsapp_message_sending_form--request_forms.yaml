@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: WhatsApp Message Sending Form
+    pages:
+    - id: 1
+      name: send_message
+      label: send message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recipient
+      label: Recipient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: scheduled_outreach
+      label: Scheduled Outreaches
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: scheduled_outreaches
+      label: scheduled_outreaches
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: schedule_outreach
+      label: Schedule Outreaches
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: send_at
+      label: Send at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: send_at_time
+      label: sendAtTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: schedule_outreach_at
+      label: schedule_outreach_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: send_message_to
+      label: Send Message To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: send_message_at
+      label: Send Message At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: message_id
+      label: Message ID
+      hint: null
+      type: text
+      options: []
+      required: false

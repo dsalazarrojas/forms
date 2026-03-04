@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fuel Storage Tank Inspection Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tank_id
+      label: tank_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tank_size
+      label: Tank Size
+      hint: null
+      type: select_one
+      options:
+      - 1 minimalist
+      - 2 medium
+      - 3 large
+      required: false
+    - id: 4
+      name: tank_contents
+      label: Tank Contents
+      hint: null
+      type: select_multiple
+      options:
+      - Diesel Fuel
+      - Jet Fuel
+      - Other
+      required: false
+    - id: 5
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: inspection_status
+      label: Inspection Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Partial
+      - Not Started
+      required: false
+    - id: 8
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false

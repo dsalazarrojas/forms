@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Requisition Form Template
+    pages:
+    - id: 1
+      name: requisition_form_template
+      label: requisition_form_template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_description
+      label: item_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_cost
+      label: item_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_requested
+      label: service_requested
+      hint: null
+      type: select_multiple
+      options:
+      - '{}'
+      - Other
+      required: false
+    - id: 5
+      name: requisition_date
+      label: requisition_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requisitioner_name
+      label: requisitioner_name
+      hint: null
+      type: text
+      options: []
+      required: false

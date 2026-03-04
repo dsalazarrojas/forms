@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meal Reimbursement Form
+    pages:
+    - id: 1
+      name: meal_reimbursement_form_1
+      label: meal_reimbursement_form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_meal
+      label: date_of_meal
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: select_one
+      options:
+      - '1234567890'
+      - '9876543210'
+      required: false
+    - id: 4
+      name: amount_claimed
+      label: amount_claimed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: category
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Transportation
+      - Other
+      required: false
+    - id: 6
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_one
+      options:
+      - Breakfast
+      - Lunch
+      - Dinner
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_claimed
+      label: date_claimed
+      hint: null
+      type: date
+      options: []
+      required: false

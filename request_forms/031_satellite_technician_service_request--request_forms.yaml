@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Satellite Technician Service Request
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_request_details
+      label: Service Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: scheduled_date
+      label: Scheduled Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: scheduled_time
+      label: Scheduled Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: technician_confirmation
+      label: Technician Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Accept''}'
+      - '{''label'': ''Decline''}'
+      required: false
+    - id: 10
+      name: customer_confirmation
+      label: Customer Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Accept''}'
+      - '{''label'': ''Decline''}'
+      required: false
+    - id: 11
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

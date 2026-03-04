@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Consent And Appointment Form
+    pages:
+    - id: 1
+      name: client_full_name
+      label: Client Full Name
+      hint: Legal name as it appears on ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Primary phone for appointment reminders
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: For appointment confirmations
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: Select your preferred date
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: appointment_time
+      label: Preferred Appointment Time
+      hint: Select your preferred time slot
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: service_selection
+      label: Service Requested
+      hint: Choose the service you want to book
+      type: select_one
+      options:
+      - Standard Haircut
+      - Haircut and Beard Trim
+      - Beard Trim Only
+      - Traditional Shave
+      - Haircut and Shave
+      - Kids Haircut
+      - Senior Haircut
+      required: true
+    - id: 7
+      name: barber_preference
+      label: Barber Preference
+      hint: Select your preferred barber or any available
+      type: select_one
+      options:
+      - No preference
+      - Request specific barber
+      required: true
+    - id: 8
+      name: specific_barber_name
+      label: Specific Barber Name
+      hint: If you requested a specific barber, enter their name
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: first_time_client
+      label: Is This Your First Visit
+      hint: Let us know if you are new to our shop
+      type: select_one
+      options:
+      - Yes, first time
+      - No, returning client
+      required: true
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions or Skin Issues
+      hint: Any conditions we should be aware of
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service_consent
+      label: Service Consent Agreement
+      hint: By selecting yes, you consent to the services
+      type: select_one
+      options:
+      - Yes, I consent to the requested services
+      - No, I do not consent
+      required: true
+    - id: 12
+      name: photo_consent
+      label: Photo Consent
+      hint: May we take before and after photos for our portfolio
+      type: select_one
+      options:
+      - Yes, I consent to photos
+      - No, I do not consent to photos
+      required: true
+    - id: 13
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledgment
+      hint: We require 24 hours notice for cancellations
+      type: select_one
+      options:
+      - I understand and agree to the cancellation policy
+      - I do not agree
+      required: true
+    - id: 14
+      name: liability_waiver
+      label: Liability Waiver
+      hint: We are not liable for dissatisfaction after you leave
+      type: select_one
+      options:
+      - I accept the liability terms
+      - I do not accept
+      required: true
+    - id: 15
+      name: minor_client
+      label: Is the Client Under 18
+      hint: Parental consent required for minors
+      type: select_one
+      options:
+      - Yes, client is a minor
+      - No, client is 18 or older
+      required: true
+    - id: 16
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Required if client is under 18
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: special_requests_notes
+      label: Special Requests or Notes
+      hint: Any additional information for your appointment
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reminder_preference
+      label: Appointment Reminder Preference
+      hint: How would you like to be reminded
+      type: select_one
+      options:
+      - Text message
+      - Email
+      - Phone call
+      - No reminders needed
+      required: true
+    - id: 20
+      name: marketing_consent
+      label: Marketing Communications
+      hint: Receive promotions and special offers
+      type: select_one
+      options:
+      - Yes, send me promotions
+      - No, do not send marketing
+      required: true

@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asbestos Removal Safety Plan Form
+    pages:
+    - id: 1
+      name: project_manager_asb
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: abatement_site_address
+      label: Abatement Site Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: planned_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: estimated_duration_days
+      label: Estimated Duration in Days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: containment_strategy
+      label: Containment and Isolation Strategy
+      hint: e.g. Negative pressure, 6-mil poly barriers
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: ppe_requirements_checklist
+      label: Required Personal Protective Equipment
+      hint: Select all required for this site
+      type: select_multiple
+      options:
+      - HEPA Filtered Respirator
+      - Disposable Coveralls
+      - Nitrile Gloves
+      - Safety Goggles
+      - Steel-toe Boots
+      required: true
+    - id: 7
+      name: decontamination_proc
+      label: Decontamination Procedures for Workers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: waste_disposal_plan_asb
+      label: Waste Disposal and Transportation Plan
+      hint: State licensed landfill destination
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: air_monitoring_plan
+      label: Air Monitoring and Clearance Strategy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: site_emergency_phone
+      label: Emergency Contact Number for Site
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: worker_certification_conf
+      label: All workers on site are licensed for asbestos abatement
+      hint: null
+      type: select_one
+      options:
+      - Yes, Confirmed
+      - Other
+      required: true
+    - id: 12
+      name: safety_officer_sign_off
+      label: Safety Officer Initial
+      hint: null
+      type: text
+      options: []
+      required: true

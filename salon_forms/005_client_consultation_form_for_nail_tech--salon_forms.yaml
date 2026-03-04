@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Consultation Form For Nail Tech
+    pages:
+    - id: 1
+      name: client_name
+      label: Client full name
+      hint: Name for appointment and records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact phone
+      hint: Best number to reach client
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email address
+      hint: For booking confirmations
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: treatment_requested
+      label: Treatment requested
+      hint: Select primary service requested
+      type: select_one
+      options:
+      - Manicure
+      - Pedicure
+      - Gel service
+      - Acrylics
+      - Nail repair
+      required: true
+    - id: 5
+      name: nail_shape_preference
+      label: Nail shape preference
+      hint: Preferred style for finished nails
+      type: select_one
+      options:
+      - Square
+      - Round
+      - Almond
+      - Coffin
+      - Stiletto
+      required: false
+    - id: 6
+      name: allergies_or_conditions
+      label: Allergies or skin conditions
+      hint: List any allergies or sensitivities
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: current_products
+      label: Current nail products used
+      hint: Brands or home removal methods
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_service_date
+      label: Date of last nail service
+      hint: Helps determine service needs
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special instructions or preferences
+      hint: Anything the technician should know
+      type: text
+      options: []
+      required: false

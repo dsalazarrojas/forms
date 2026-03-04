@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theater Property Inventory Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Theater Property Inventory Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Category 1''}'
+      - '{''id'': 2, ''label'': ''Category 2''}'
+      - '{''id'': 3, ''label'': ''Category 3''}'
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe the prop and set pieces to be collected.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false

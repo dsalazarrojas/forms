@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Table Reservation Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reservation_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Cancelled
+      - Confirmed
+      - Pending
+      required: false
+    - id: 7
+      name: reservation_note
+      label: Reservation Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: restaurant_reservation_id
+      label: Restaurant Reservation ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false

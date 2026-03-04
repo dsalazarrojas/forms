@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydromassage Liability Waiver
+    pages:
+    - id: 1
+      name: waiver_details
+      label: Waiver Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: massage_treatment
+      label: Massage Treatment
+      hint: null
+      type: select_multiple
+      options:
+      - Massage 1
+      - Massage 2
+      - Massage 3
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: waiver_signature
+      label: Waiver Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: date_of_massage
+      label: Date of Massage
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: client_email
+      label: Client E-Mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_city
+      label: Client City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: client_state
+      label: Client State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_zip
+      label: Client ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: provider_address
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: provider_city
+      label: Provider City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: provider_state
+      label: Provider State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: provider_zip
+      label: Provider ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: client_dob
+      label: Client DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: provider_license
+      label: Provider License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: client_medical_conditions
+      label: Client Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: provider_license_number
+      label: Provider License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: client_medical_insurance
+      label: Client Medical Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: client_other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false

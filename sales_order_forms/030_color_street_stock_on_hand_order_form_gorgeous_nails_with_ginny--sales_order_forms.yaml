@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Stock On Hand Order Form - Gorgeous Nails With Ginny
+    pages:
+    - id: 1
+      name: section_ginny_intro
+      label: -- Gorgeous Nails With Ginny - Stock Order Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ginny_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ginny_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: ginny_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ginny_phone
+      label: Cell Phone
+      hint: For order questions only
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_ginny_selection
+      label: -- Stock Selection --
+      hint: If an item is out of stock, I will contact you for a replacement
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: ginny_sets_list
+      label: List the sets you want from my current stock
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: ginny_total_sets
+      label: Total Number of Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: ginny_b3g1_promo
+      label: B3G1 Deal applied?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: section_ginny_checkout
+      label: -- Payment and Shipping --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: ginny_payment_method
+      label: How are you paying?
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - PayPal
+      - Zelle
+      required: true
+    - id: 12
+      name: ginny_payment_id
+      label: Payment Username
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: ginny_delivery_choice
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - Shipping ($4.00)
+      - Pick-up (Free)
+      required: true
+    - id: 14
+      name: ginny_host_name
+      label: Hostess Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: ginny_message
+      label: Message for Ginny
+      hint: null
+      type: text
+      options: []
+      required: false

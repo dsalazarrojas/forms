@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Disclosure Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: section_liability
+      label: -- Service Disclosure and Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: clothing_damage_ack
+      label: I understand Beauty By Britt INC. is not liable for any damage to clothing
+        during the service
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I understand
+      required: true
+    - id: 5
+      name: allergy_disclosure_ack
+      label: I acknowledge that I must inform my stylist of any known allergies or
+        sensitivities
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I acknowledge
+      required: true
+    - id: 6
+      name: cancellation_policy_ack
+      label: I agree to the 24-hour cancellation policy and any associated fees
+      hint: null
+      type: select_one
+      options:
+      - true
+      - I agree
+      required: true
+    - id: 7
+      name: section_media
+      label: -- Photo and Social Media Release --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: photo_release
+      label: I consent to having before and after photos taken for professional use
+        and social media
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: digital_signature
+      label: Client Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true

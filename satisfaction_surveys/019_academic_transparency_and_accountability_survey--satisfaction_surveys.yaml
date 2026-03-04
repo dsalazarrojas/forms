@@ -1,0 +1,158 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Transparency And Accountability Survey
+    pages:
+    - id: 1
+      name: section_role
+      label: -- Role Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: institutional_role
+      label: What is your primary role?
+      hint: Select your current affiliation
+      type: select_one
+      options:
+      - Student
+      - Faculty Member
+      - Administrative Staff
+      - Alumni
+      required: true
+    - id: 3
+      name: department_affiliation
+      label: Department or Division Affiliation
+      hint: e.g. Dept of Physics
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_transparency
+      label: -- Decision-Making Transparency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: decision_clarity
+      label: How clearly are institutional decisions communicated to you?
+      hint: Overall effectiveness of communication
+      type: select_one
+      options:
+      - Very Clearly
+      - Somewhat Clearly
+      - Neutral
+      - Unclear
+      required: true
+    - id: 6
+      name: faculty_involvement
+      label: Rate the level of faculty involvement in strategic decision-making
+      hint: Engagement in governance
+      type: select_one
+      options:
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 7
+      name: student_representation
+      label: Do you feel students are adequately represented in governance?
+      hint: Presence in committees and boards
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 8
+      name: section_accountability
+      label: -- Accountability and Fairness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: budget_transparency
+      label: Rate the transparency of the institutional budget process
+      hint: Access to financial information
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: fairness_in_resource_allocation
+      label: How fair is the allocation of resources across departments?
+      hint: Equity in funding and staffing
+      type: select_one
+      options:
+      - Very Fair
+      - Fair
+      - Unfair
+      - Very Unfair
+      required: true
+    - id: 11
+      name: whistleblower_confidence
+      label: How confident are you in the institutions whistleblower protections?
+      hint: Safety in reporting concerns
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Neutral
+      - Not Confident
+      required: true
+    - id: 12
+      name: section_feedback
+      label: -- Open Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: transparency_improvements
+      label: Suggest one way to improve transparency in the institution
+      hint: Constructive suggestions welcome
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: accountability_concerns
+      label: List any specific concerns regarding accountability
+      hint: Areas needing more oversight
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_final
+      label: -- Final Thoughts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_interest
+      label: Would you be willing to participate in a focus group on this topic?
+      hint: Optional further engagement
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true

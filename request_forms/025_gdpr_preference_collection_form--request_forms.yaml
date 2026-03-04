@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: GDPR Preference Collection Form
+    pages:
+    - id: 1
+      name: user_agreement
+      label: Accept Our User Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: gdpr_declaration
+      label: Confirm Your GDPR Declaration
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: Provide your email address here
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: email_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - Email 1
+      - Email 2
+      - Email 3
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Provide your phone number here
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Mobile
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: Provide your address here
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: data_sharing
+      label: Data Sharing
+      hint: How would you like to share your data?
+      type: select_multiple
+      options:
+      - With our partners
+      - With other services
+      required: true
+    - id: 10
+      name: marketing
+      label: Marketing
+      hint: How would you like to be contacted for marketing purposes?
+      type: select_multiple
+      options:
+      - Newsletter
+      - Social Media
+      required: false
+    - id: 11
+      name: unsubscribe
+      label: Unsubscribe
+      hint: null
+      type: select_multiple
+      options:
+      - From all emails
+      - From all newsletters
+      required: true
+    - id: 12
+      name: legal
+      label: Legal
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: privacy_policy
+      label: Privacy Policy
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: note
+      options: []
+      required: false

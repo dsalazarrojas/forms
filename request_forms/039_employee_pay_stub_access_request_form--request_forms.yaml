@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Pay Stub Access Request Form
+    pages:
+    - id: 1
+      name: period_selection
+      label: Period Selection
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 2
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: period_start_date
+      label: Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: period_end_date
+      label: Period End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Phone
+      - In Person
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - Chat
+      - HR
+      - Payroll Team
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Complete
+      required: false
+    - id: 10
+      name: comments_required
+      label: Comments Required
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

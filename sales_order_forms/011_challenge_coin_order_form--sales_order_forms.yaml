@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Challenge Coin Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: When the order is placed
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name of person placing order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization Name
+      hint: Business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_type
+      label: Order Type
+      hint: Custom or stock design
+      type: select_one
+      options:
+      - Custom Design Coin
+      - Stock Design Coin
+      - Custom with Stock Elements
+      required: true
+    - id: 7
+      name: coin_quantity
+      label: Quantity of Coins Ordered
+      hint: Number of coins
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: coin_size
+      label: Coin Size
+      hint: Diameter in inches or mm
+      type: select_one
+      options:
+      - 1.25 inch
+      - 1.5 inch
+      - 2 inch
+      - 2.5 inch
+      - Custom Size
+      required: true
+    - id: 9
+      name: metal_type
+      label: Metal Type
+      hint: Material composition
+      type: select_one
+      options:
+      - Zinc Alloy
+      - Brass
+      - Bronze
+      - Silver Plated
+      - Gold Plated
+      - Custom
+      required: true
+    - id: 10
+      name: finish_type
+      label: Finish Type
+      hint: How the coin will look
+      type: select_one
+      options:
+      - Polished
+      - Antique
+      - Matte
+      - 3D
+      - Enamel Filled
+      required: true
+    - id: 11
+      name: color_options
+      label: Color or Enamel Colors
+      hint: Specific colors requested
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: design_description
+      label: Design Description
+      hint: Describe the design or upload file
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: design_file_attached
+      label: Design File Attached
+      hint: Is artwork/design file provided
+      type: select_one
+      options:
+      - 'Yes'
+      - No - Need Design Help
+      required: true
+    - id: 14
+      name: text_on_coin
+      label: Text or Inscription
+      hint: Any text to be engraved or printed
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: edge_type
+      label: Edge Type
+      hint: Smooth, milled, or lettered
+      type: select_one
+      options:
+      - Smooth
+      - Milled
+      - Lettered
+      - No Preference
+      required: false
+    - id: 16
+      name: packaging_preference
+      label: Packaging Preference
+      hint: How coins should be packaged
+      type: select_one
+      options:
+      - Bulk Bag
+      - Individual Cases
+      - Custom Packaging
+      - Gift Boxes
+      required: false
+    - id: 17
+      name: shipping_address
+      label: Shipping Address
+      hint: Full delivery address
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: shipping_method
+      label: Shipping Method
+      hint: Standard or expedited
+      type: select_one
+      options:
+      - Standard Shipping
+      - Expedited
+      - Overnight
+      - Local Pickup
+      required: true
+    - id: 19
+      name: total_cost_estimate
+      label: Total Cost Estimate
+      hint: Approximate total in USD
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions or Notes
+      hint: Any additional details
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_terms
+      label: Payment Terms
+      hint: Deposit or full payment
+      type: select_one
+      options:
+      - Full Payment
+      - 50 Percent Deposit
+      - Custom Payment Plan
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: rsvp_for_event_giveaway_entry
+    pages:
+    - id: 1
+      name: rsvp_form
+      label: RSVP Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_info
+      label: event_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_place
+      label: event_place
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: give_away_prize
+      label: give_away_prize
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: giveaway_description
+      label: giveaway_description
+      hint: null
+      type: text
+      options: []
+      required: false

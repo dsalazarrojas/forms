@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: plastic_access_request_form
+    pages:
+    - id: 1
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility
+      label: Facility
+      hint: null
+      type: select_one
+      options:
+      - Facility A
+      - Facility B
+      - Facility C
+      required: false
+    - id: 4
+      name: lab
+      label: Lab
+      hint: null
+      type: select_multiple
+      options:
+      - Lab 1
+      - Lab 2
+      - Lab 3
+      required: false
+    - id: 5
+      name: date_needed
+      label: Date Needed
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_needed
+      label: Time Needed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reason
+      label: Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 12
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: declined_by
+      label: Declined By
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 14
+      name: declined_date
+      label: Declined Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Requestor
+      - Manager 1
+      - Manager 2
+      required: false
+    - id: 16
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: facility_approved
+      label: Facility Approved
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 18
+      name: facility_declined
+      label: Facility Declined
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 19
+      name: lab_approved
+      label: Lab Approved
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 20
+      name: lab_declined
+      label: Lab Declined
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 21
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Declined
+      required: false
+    - id: 22
+      name: facility_submitted
+      label: Facility Submitted
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false
+    - id: 23
+      name: lab_submitted
+      label: Lab Submitted
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: false

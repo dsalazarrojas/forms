@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internet Service Request Form
+    pages:
+    - id: 1
+      name: internet_service_request_form
+      label: internet_service_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: service_requests
+      label: service_requests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_requests_description
+      label: service_requests_description
+      hint: Briefly describe the type of service you need
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - In-person
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requested_time
+      label: requested_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: requested_date
+      label: requested_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 12
+      name: other_assigned_tool
+      label: other_assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false

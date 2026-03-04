@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surprise Birthday Invitation
+    pages:
+    - id: 1
+      name: guests
+      label: Guests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: greeting_card_message
+      label: report-card
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: rsvp_starts
+      label: RSVP starts at
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rsvp_ends
+      label: RSVP ends at
+      hint: Please select a valid time range
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: birthday_recipient
+      label: Birthday recipient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_message
+      label: Guest's message
+      hint: Optional message from the guest
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_closes_at
+      label: RSVP closes at
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: rsvp_open_at
+      label: RSVP open at
+      hint: Please select a valid time
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

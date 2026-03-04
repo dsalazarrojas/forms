@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Book Request Form
+    pages:
+    - id: 1
+      name: request_book_form
+      label: request_book_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: book_isbn
+      label: book_isbn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: book_title
+      label: book_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: book_author
+      label: book_author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: book_publisher
+      label: book_publisher
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: book_year
+      label: book_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: book_format
+      label: book_format
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Hardcover'', ''value'': ''Hardcover''}'
+      - '{''label'': ''Paperback'', ''value'': ''Paperback''}'
+      - '{''label'': ''E-book'', ''value'': ''E-book''}'
+      required: false
+    - id: 8
+      name: book_requestor_info
+      label: book_requestor_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_message
+      label: request_message
+      hint: null
+      type: text
+      options: []
+      required: false

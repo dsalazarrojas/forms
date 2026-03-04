@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest House Reservation Form
+    pages:
+    - id: 1
+      name: guest_house_reservation_form_1
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_house_reservation_form_2
+      label: guest_house
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_house_reservation_form_3
+      label: check_in
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: guest_house_reservation_form_4
+      label: check_out
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: guest_house_reservation_form_5
+      label: guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: guest_house_reservation_form_6
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Suite
+      required: true
+    - id: 7
+      name: guest_house_reservation_form_7
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - Breakfast
+      - Wi-Fi
+      - Parking
+      required: true
+    - id: 8
+      name: guest_house_reservation_form_8
+      label: additional_services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: guest_house_reservation_form_9
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: guest_house_reservation_form_10
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: guest_house_reservation_form_11
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: guest_house_reservation_form_12
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Bank Transfer
+      - Cash
+      required: true
+    - id: 13
+      name: guest_house_reservation_form_13
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: guest_house_reservation_form_14
+      label: payment_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: guest_house_reservation_form_15
+      label: guest_house_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: guest_house_reservation_form_16
+      label: guest_house_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: guest_house_reservation_form_17
+      label: guest_house_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: guest_house_reservation_form_18
+      label: reservation_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: guest_house_reservation_form_19
+      label: reservation_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: guest_house_reservation_form_20
+      label: cancellation
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 3 Days
+      - 1 Week
+      required: true
+    - id: 21
+      name: guest_house_reservation_form_21
+      label: guest_houseประก
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: guest_house_reservation_form_22
+      label: guest_house_reservation_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: guest_house_reservation_form_23
+      label: guest_house_confirmation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: guest_house_reservation_form_24
+      label: guest_house_additional_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: guest_house_reservation_form_25
+      label: confirmation_method
+      hint: null
+      type: select_one
+      options:
+      - Mail
+      - Message
+      - Call
+      - SMS
+      required: true

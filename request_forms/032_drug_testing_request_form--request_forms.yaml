@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: drug_testing_request_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - Random Oral Test
+      - Pre-employment Test
+      - Random Urine Test
+      - Post-accident Test
+      - Return-to-work Test
+      - Other
+      required: false
+    - id: 4
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_tested
+      label: Date Tested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_tested
+      label: Time Tested
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: test_employer
+      label: Test Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_result
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: test_type_other
+      label: Other Test Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: test_note
+      label: Test Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

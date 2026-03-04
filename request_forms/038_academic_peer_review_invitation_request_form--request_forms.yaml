@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Review Invitation Request Form
+    pages:
+    - id: 1
+      name: manuscript_information
+      label: -- Manuscript Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of the editor or author requesting review
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester email
+      hint: Contact email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: manuscript_title
+      label: Manuscript title
+      hint: Provide the working title of the submission
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manuscript_abstract
+      label: Manuscript abstract
+      hint: Brief abstract or summary, up to 300 words
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggested_reviewer_expertise
+      label: Reviewer expertise required
+      hint: Indicate key topics or methods
+      type: select_multiple
+      options:
+        - Quantitative methods
+        - Qualitative methods
+        - Theoretical analysis
+        - Pedagogy
+        - Policy analysis
+      required: true
+    - id: 7
+      name: preferred_timeline
+      label: Preferred review timeline
+      hint: Typical turnaround in weeks
+      type: select_one
+      options:
+        - 2 weeks
+        - 4 weeks
+        - 6 weeks
+      required: true
+    - id: 8
+      name: conflicts_of_interest
+      label: Conflicts of interest to disclose
+      hint: List any affiliations or relationships
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_for_contact
+      label: Consent to contact suggested reviewers
+      hint: Permission to reach out directly
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

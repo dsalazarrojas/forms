@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mocktail Party Registration
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: headcount
+      label: Headcount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: preferences
+      label: Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Soft drink
+      - Juice
+      - Water
+      required: false
+    - id: 5
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false

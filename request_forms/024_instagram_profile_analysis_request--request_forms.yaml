@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: instagram_profile_analysis_request
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: analysis_requested_by
+      label: Analysis Requested By
+      hint: null
+      type: select_one
+      options:
+      - Creator
+      - Brand
+      - Agency
+      required: true
+    - id: 6
+      name: profile_url
+      label: Profile URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: specific_details
+      label: Specific Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submitter_ip_address
+      label: Submitter IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_multiple
+      options:
+      - Mobile
+      - Desktop
+      - Tablet
+      required: false
+    - id: 12
+      name: browser_type
+      label: Browser Type
+      hint: null
+      type: select_multiple
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      required: false
+    - id: 13
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_multiple
+      options:
+      - Windows
+      - macOS
+      - Linux
+      required: false
+    - id: 14
+      name: submission_country
+      label: Submission Country
+      hint: null
+      type: select_multiple
+      options:
+      - USA
+      - Canada
+      - Mexico
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Safety Checklist
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: water_quality_issues
+      label: Water Quality Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Algae or slime growth in pipes
+      - Coliforms or E. coli
+      - Dissolved oxygen levels low
+      - Other
+      required: true
+    - id: 4
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - Fire extinguisher
+      - First aid kit
+      - Life jacket
+      - Other
+      required: true
+    - id: 5
+      name: trained_personnel
+      label: Trained Personnel
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: facility_capacity
+      label: Facility Capacity
+      hint: Maximum number of people allowed in the area
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: emergency_procedure
+      label: Emergency Procedures
+      hint: List emergency procedures and contact numbers
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: Next Follow-Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: other_issues
+      label: Other Issues
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: water_temperature
+      label: Water Temperature
+      hint: Maximum temperature in degrees Fahrenheit
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: other_equipment
+      label: Other Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Water testing equipment
+      - Other
+      required: false
+    - id: 17
+      name: other_emergency_procedure
+      label: Other Emergency Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - First aid kit
+      - Fire extinguisher
+      - Other
+      required: false
+    - id: 18
+      name: follow_up_notes
+      label: Follow-Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_status
+      label: Follow-Up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Required
+      - Scheduled
+      required: true
+    - id: 21
+      name: follow_up_by
+      label: Follow-Up By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_contact
+      label: Follow-Up Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_date_2
+      label: Follow-Up Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_time
+      label: Follow-Up Time
+      hint: null
+      type: time
+      options: []
+      required: false

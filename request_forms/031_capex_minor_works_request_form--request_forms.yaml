@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capex Minor Works Request Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capital Expenditure Minor Works Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Submit a request for budget allocation for minor works, upgrades, or
+        equipment purchases.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: requester_info_header
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_approval
+      label: Direct Manager Name
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: request_info_header
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: request_type
+      label: Type of Request
+      hint: Select one
+      type: select_one
+      options:
+      - Minor Works
+      - Venue Upgrade
+      - Equipment Purchase
+      - Repairs
+      - Maintenance
+      - Infrastructure Improvement
+      - Other
+      required: true
+    - id: 14
+      name: project_title
+      label: Project Title
+      hint: Brief title for the project
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_description
+      label: Detailed Project Description
+      hint: Explain the project scope
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: scope_of_work_header
+      label: -- Scope of Work --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: work_breakdown
+      label: Work Breakdown Structure
+      hint: Describe work items
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: venue_location
+      label: Venue or Location
+      hint: Where work will occur
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: duration
+      label: Project Duration
+      hint: Estimated time required
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: justification_header
+      label: -- Business Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: business_case
+      label: Business Case for Request
+      hint: Why is this needed
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: expected_benefits
+      label: Expected Benefits
+      hint: Describe outcomes and benefits
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: impact_if_not_approved
+      label: Impact if Request Not Approved
+      hint: Consequences if not funded
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: budget_header
+      label: -- Budget Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: estimated_cost
+      label: Estimated Total Cost
+      hint: Total project cost
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: cost_breakdown
+      label: Cost Breakdown
+      hint: Detail cost components
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: budget_available
+      label: Budget Available?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, fully funded
+      - Partially funded
+      - No, requesting allocation
+      required: true
+    - id: 28
+      name: cost_center
+      label: Cost Center/Account Code
+      hint: For billing purposes
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: timeline_header
+      label: -- Timeline and Priority --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: requested_start_date
+      label: Requested Start Date
+      hint: When should work begin
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: priority_level
+      label: Priority Level
+      hint: Select one
+      type: select_one
+      options:
+      - Critical - Immediate
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 32
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Optional
+      type: text
+      options: []
+      required: false

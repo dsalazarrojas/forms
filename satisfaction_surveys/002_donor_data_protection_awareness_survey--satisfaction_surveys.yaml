@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Data Protection Awareness Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_protection
+      label: Data protection
+      hint: null
+      type: select_one
+      options:
+      - Data Protection
+      - Non-Data Protection
+      - Not sure
+      required: true
+    - id: 7
+      name: data_collection
+      label: Data collection
+      hint: null
+      type: select_multiple
+      options:
+      - Data Collection
+      - No Data Collection
+      - Both
+      required: true
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

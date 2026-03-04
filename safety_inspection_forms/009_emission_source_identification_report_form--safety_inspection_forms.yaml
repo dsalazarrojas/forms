@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emission Source Identification Report Form
+    pages:
+    - id: 1
+      name: observed_emission_sources
+      label: Observed Emission Sources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: emission_source_id
+      label: Emission Source ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1 day
+      - 1 week
+      - Monthly
+      required: false
+    - id: 5
+      name: reporting_frequency_other
+      label: Other Reporting Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reported_time
+      label: Reported Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reporting_location
+      label: Reporting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporter_contact
+      label: Reporter Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_notes
+      label: Reporting Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emission_source_name
+      label: Emission Source Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emission_source_address
+      label: Emission Source Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emission_source_phone
+      label: Emission Source Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: emission_source_email
+      label: Emission Source Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: emission_source_notes
+      label: Emission Source Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 23
+      name: emission_source_status
+      label: Emission Source Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 24
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Industrial
+      - Commercial
+      - Residential
+      required: false
+    - id: 25
+      name: emission_source_type
+      label: Emission Source Type
+      hint: null
+      type: select_one
+      options:
+      - Industrial
+      - Commercial
+      - Residential
+      required: false
+    - id: 26
+      name: facility_category
+      label: Facility Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: emission_source_category
+      label: Emission Source Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

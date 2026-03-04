@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Interlock Bypass Request Form
+    pages:
+    - id: 1
+      name: safety_interlock_bypass_request_form
+      label: safety_interlock_bypass_request_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: maintenance_team
+      label: maintenance_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: route_description
+      label: route_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: risk_controls
+      label: risk_controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_review_date
+      label: safety_review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: approver
+      label: approver
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approved_status
+      label: approved_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

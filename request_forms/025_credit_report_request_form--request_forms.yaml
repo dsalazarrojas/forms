@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: credit_report_request_form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: credit_report
+      label: Credit Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: true
+    - id: 6
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: credit_history
+      label: Credit History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Report
+      - Credit Inquiry Report
+      - Credit Verification Report
+      required: true
+    - id: 9
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 10
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: save_and_preview
+      label: Save and Preview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: delete
+      label: Delete
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: saved
+      label: Saved
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: updated
+      label: Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: created
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: deleted
+      label: Deleted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false

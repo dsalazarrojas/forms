@@ -1,0 +1,160 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bishop Feedback Survey
+    pages:
+      - id: 1
+        name: respondent_info
+        label: Respondent Information
+        hint: Please provide your contact details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: Your complete name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: So we can follow up if needed
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: parish_name
+        label: Parish Name
+        hint: Name of your parish community
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: years_in_parish
+        label: Years in Parish
+        hint: How long have you been a member
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 4-7 years
+          - 8-15 years
+          - More than 15 years
+        required: true
+      - id: 6
+        name: leadership_rating
+        label: Overall Leadership Rating
+        hint: Rate the bishop overall leadership effectiveness
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: communication_effectiveness
+        label: Communication Effectiveness
+        hint: How well does the bishop communicate with the faithful
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 8
+        name: homily_quality
+        label: Homily Quality
+        hint: Rate the quality and relevance of homilies
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: pastoral_visits
+        label: Pastoral Visits Frequency
+        hint: How often does the bishop visit your parish
+        type: select_one
+        options:
+          - Regularly
+          - Occasionally
+          - Rarely
+          - Never
+        required: true
+      - id: 10
+        name: community_engagement
+        label: Community Engagement
+        hint: Rate engagement with parish community
+        type: select_one
+        options:
+          - Very Engaged
+          - Engaged
+          - Neutral
+          - Disengaged
+          - Very Disengaged
+        required: true
+      - id: 11
+        name: transparency_rating
+        label: Transparency in Decision Making
+        hint: How transparent are diocesan decisions
+        type: select_one
+        options:
+          - Very Transparent
+          - Transparent
+          - Somewhat Transparent
+          - Not Transparent
+          - Very Opaque
+        required: true
+      - id: 12
+        name: strengths
+        label: Bishop Strengths
+        hint: What are the bishop greatest strengths
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What areas need improvement
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback you would like to share
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: recommend_to_others
+        label: Would You Recommend This Bishop
+        hint: To other parishes or dioceses
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true

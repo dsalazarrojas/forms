@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Reference Material Request Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Name of person requesting materials
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Internal Audit
+      - External Audit
+      - Finance
+      - Accounting
+      - Compliance
+      - Risk Management
+      - Legal
+      - Other
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: audit_reference
+      label: Audit Reference
+      hint: Audit name or reference number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: material_type
+      label: Material Type
+      hint: What type of material is needed?
+      type: select_one
+      options:
+      - Prior audit reports
+      - Working papers
+      - Policies and procedures
+      - Regulations and standards
+      - Industry benchmarks
+      - Training materials
+      - Templates and forms
+      - Other
+      required: true
+    - id: 8
+      name: material_description
+      label: Material Description
+      hint: Detailed description of materials needed
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: material_period
+      label: Material Period
+      hint: What time period should materials cover?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgently are materials needed?
+      type: select_one
+      options:
+      - Immediate
+      - Within 24 hours
+      - Within 3 days
+      - Within 1 week
+      - No rush
+      required: true
+    - id: 11
+      name: needed_by_date
+      label: Needed By Date
+      hint: When do you need the materials?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: delivery_method
+      label: Delivery Method
+      hint: How should materials be delivered?
+      type: select_one
+      options:
+      - Email
+      - Secure file transfer
+      - Shared drive access
+      - Physical copies
+      - In-person pickup
+      required: true
+    - id: 13
+      name: format_preference
+      label: Format Preference
+      hint: Preferred format for materials
+      type: select_one
+      options:
+      - PDF
+      - Excel
+      - Word
+      - Original format
+      - No preference
+      required: true
+    - id: 14
+      name: access_restrictions
+      label: Access Restrictions
+      hint: Are there any access restrictions?
+      type: select_one
+      options:
+      - None
+      - Confidential handling required
+      - Limited distribution
+      - Need-to-know basis
+      required: true
+    - id: 15
+      name: quantity_needed
+      label: Quantity Needed
+      hint: Approximate quantity or volume
+      type: select_one
+      options:
+      - Single document
+      - Less than 10 documents
+      - 10-50 documents
+      - 50+ documents
+      - Full file or archive
+      required: true
+    - id: 16
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: What is the purpose of this request?
+      type: select_one
+      options:
+      - Current audit work
+      - Reference and research
+      - Training purposes
+      - Compliance review
+      - Other
+      required: true
+    - id: 17
+      name: return_required
+      label: Return Required
+      hint: Will materials need to be returned?
+      type: select_one
+      options:
+      - Yes, physical return required
+      - Yes, digital deletion required
+      - No, copies made
+      - Not applicable
+      required: true
+    - id: 18
+      name: return_date
+      label: Return Date
+      hint: When will materials be returned?
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special instructions or notes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_approval
+      label: Manager Approval
+      hint: Has your manager approved this request?
+      type: select_one
+      options:
+      - Yes, approved
+      - Pending approval
+      - Not required
+      required: true

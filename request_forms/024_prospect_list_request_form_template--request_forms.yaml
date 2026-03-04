@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prospect List Request Form Template
+    pages:
+    - id: 1
+      name: prospect_list_request_form
+      label: List Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sales_stage
+      label: Sales Stage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: sales_stage_options
+      label: Sales Stage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sales_stage_values
+      label: Sales Stage Values
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Request Form
+    pages:
+    - id: 1
+      name: payment_request_form_fields
+      label: payment_request_form_fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: payment_frequency
+      label: Payment Frequency
+      hint: null
+      type: select_one
+      options:
+      - one-time
+      - recurring
+      required: false
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - payment_term_1
+      - payment_term_2
+      required: false
+    - id: 5
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - method_1
+      - method_2
+      required: false
+    - id: 7
+      name: payment_notes
+      label: Payment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - status_1
+      - status_2
+      - status_3
+      required: false
+    - id: 9
+      name: payment_amount_due
+      label: Payment Amount Due
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: payment_total
+      label: Payment Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_date_due
+      label: Payment Date Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: payment_method_other
+      label: Payment Method Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_terms_other
+      label: Payment Terms Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_status_other
+      label: Payment Status Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_request
+      label: Payment Request
+      hint: null
+      type: select_one
+      options:
+      - request_1
+      - request_2
+      required: false

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stay On Campus Request Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: reason
+      label: Why are you requesting to stay on campus
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: departure_time
+      label: What time do you plan to leave campus
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: student_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: student_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resident_advisor
+      label: Resident Advisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resident_advisor_phone
+      label: Resident Advisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: student_signature_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: resident_advisor_note
+      label: Resident Advisor Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submitter_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submitter_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false

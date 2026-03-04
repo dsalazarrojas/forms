@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Air Filtration Upgrade Request Form
+    pages:
+    - id: 1
+      name: requester_info_header
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or Unit
+      hint: Who is paying?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: Building and Room Number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: upgrade_details_header
+      label: -- Upgrade Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason for Upgrade
+      hint: Why is this needed?
+      type: select_one
+      options:
+      - Health / Safety Concern
+      - Equipment End of Life
+      - Compliance / Policy Change
+      - New Room Usage
+      - Odor Control
+      required: true
+    - id: 7
+      name: current_system
+      label: Current System Type
+      hint: If known
+      type: select_one
+      options:
+      - Standard HVAC Filter
+      - Standalone Purifier
+      - Window Unit
+      - Unknown
+      required: false
+    - id: 8
+      name: desired_upgrade
+      label: Desired Upgrade Level
+      hint: Target filtration
+      type: select_one
+      options:
+      - MERV 13 Upgrade
+      - HEPA Filtration
+      - UV-C Sanitization
+      - Portable Air Scrubber
+      required: true
+    - id: 9
+      name: urgency
+      label: Urgency
+      hint: Timeline for install
+      type: select_one
+      options:
+      - Low (Planning phase)
+      - Medium (Next quarter)
+      - High (Immediate need)
+      required: true
+    - id: 10
+      name: budget_code
+      label: Budget Code
+      hint: Internal billing code
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Additional Comments
+      hint: Specific requirements
+      type: text
+      options: []
+      required: false

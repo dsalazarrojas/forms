@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acting School Material Request Form
+    pages:
+    - id: 1
+      name: requester_information
+      label: -- Requester information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of person requesting materials
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for delivery and follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: production_or_class
+      label: Production or class
+      hint: Name of production or class needing materials
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: item_requested
+      label: Item requested
+      hint: Script, prop, costume or other
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity_needed
+      label: Quantity needed
+      hint: Number of items required
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: required_by_date
+      label: Required by date
+      hint: When materials are needed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: delivery_method
+      label: Delivery method
+      hint: How the items should be delivered
+      type: select_one
+      options:
+      - Pickup
+      - Campus delivery
+      - Mail
+      required: false
+    - id: 9
+      name: special_instructions
+      label: Special instructions
+      hint: Any notes about sizing, color or setup
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: budget_code
+      label: Budget code
+      hint: Account or cost center for the request
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approval_name
+      label: Approval name
+      hint: Manager or director approving the request
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

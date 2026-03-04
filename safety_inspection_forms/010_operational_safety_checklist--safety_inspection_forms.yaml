@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Operational Safety Checklist
+    pages:
+    - id: 1
+      name: equipment_status
+      label: is_equipment_in_good_working_order
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Partial''}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 2
+      name: area_checked
+      label: area_checked
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hazard_identified
+      label: hazard_identified
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_measures
+      label: safety_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: next_actions
+      label: next_actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: area_comments
+      label: area_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User 1''}'
+      - '{''label'': ''User 2''}'
+      - '{''label'': ''User 3''}'
+      required: true
+    - id: 9
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: last_updated
+      label: last_updated
+      hint: null
+      type: date
+      options: []
+      required: false

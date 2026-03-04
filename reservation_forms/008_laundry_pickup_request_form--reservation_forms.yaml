@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Laundry Pickup Request Form
+    pages:
+    - id: 1
+      name: laundry_service_type
+      label: Wash Service Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 2
+      name: pick_up_date
+      label: Pick Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: pick_up_time
+      label: Pick Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: laundry_service_provider
+      label: Laundry Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: laundry_collection_address
+      label: Laundry Collection Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: laundry_collection_instructions
+      label: Laundry Collection Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: laundry_type
+      label: Laundry Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false

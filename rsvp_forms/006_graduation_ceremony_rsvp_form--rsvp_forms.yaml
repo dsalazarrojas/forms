@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Ceremony RSVP Form
+    pages:
+    - id: 1
+      name: event_details
+      label: Graduation Ceremony Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact E
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guests_attending
+      label: Guests Attending
+      hint: null
+      type: select_multiple
+      options:
+      - Guest 1
+      - Guest 2
+      - Guest 3
+      required: false
+    - id: 7
+      name: attending_message
+      label: Message for Guest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - Attending
+      - Not Attending
+      - Maybe
+      required: false

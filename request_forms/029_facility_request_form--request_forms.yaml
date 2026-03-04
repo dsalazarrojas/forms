@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: facility_request_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_request_details
+      label: facility_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: facility_status
+      label: facility_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: facility_location
+      label: facility_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: facility_contact
+      label: facility_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: facility_email
+      label: facility_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: facility_request_type
+      label: facility_request_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: facility_request_date
+      label: facility_request_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: facility_request_time
+      label: facility_request_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: facility_comments
+      label: facility_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: facility_attachment
+      label: facility_attachment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: facility_notes
+      label: facility_notes
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Gathering Schedule
+    pages:
+    - id: 1
+      name: holiday_gathering_schedule
+      label: Holiday Gathering Schedule
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: host_name
+      label: host_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_list
+      label: Guest List
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

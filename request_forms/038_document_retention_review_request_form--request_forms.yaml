@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Document Retention Review Request Form
+    pages:
+    - id: 1
+      name: document_retention_request_form
+      label: Request Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Records''}'
+      - '{''value'': ''Correspondence''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 3
+      name: document_location
+      label: Document Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_requesting_review
+      label: Reason For Requesting Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_id
+      label: Submitter ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reviewer_id
+      label: Reviewer ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Pending''}'
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Denied''}'
+      required: true

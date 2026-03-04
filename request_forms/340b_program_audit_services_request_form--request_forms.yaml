@@ -1,0 +1,199 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 340B Program Audit Services Request Form
+    pages:
+    - id: 1
+      name: header_section
+      label: '--- 340B Program Audit Request ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Full legal name of the healthcare organization requesting audit services
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary contact person
+      hint: Name of the individual responsible for this audit request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Official email for audit correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone number
+      hint: Include area code
+      type: phone
+      options: []
+      required: true
+    - id: 6
+      name: entity_type
+      label: Type of covered entity
+      hint: Select the classification of your organization
+      type: select_one
+      options:
+      - Hospital
+      - Outpatient Clinic
+      - Children's Hospital
+      - Critical Access Hospital
+      - Cancer Center
+      - Other
+      required: true
+    - id: 7
+      name: audit_purpose
+      label: Purpose of audit request
+      hint: What specific aspect of 340B compliance needs review?
+      type: select_one
+      options:
+      - Annual compliance review
+      - Pre-audit preparation
+      - Post-dispensing audit
+      - Policy evaluation
+      - Internal investigation
+      - Vendor assessment
+      required: true
+    - id: 8
+      name: previous_audits
+      label: Previous 340B audits conducted
+      hint: How many prior audits has your organization undergone?
+      type: integer
+      options: []
+      required: false
+    - id: 9
+      name: audit_scope
+      label: Scope of audit requested
+      hint: Select all areas that require examination
+      type: select_multiple
+      options:
+      - Patient definition compliance
+      - Duplicate discount prevention
+      - Contract pharmacy oversight
+      - Pediatric dispensing
+      - Off-site dispensing
+      - Record keeping
+      - Eligibility verification
+      - Pricing accuracy
+      required: true
+    - id: 10
+      name: preferred_dates
+      label: Preferred audit dates
+      hint: Indicate your preferred timeframe for the audit
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: estimated_volume
+      label: Estimated prescription volume (monthly)
+      hint: Approximate number of prescriptions processed monthly
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: contract_pharmacies
+      label: Number of contract pharmacies
+      hint: How many external pharmacies participate in your program?
+      type: integer
+      options: []
+      required: false
+    - id: 13
+      name: special_requirements
+      label: Special requirements or considerations
+      hint: Any unique aspects of your organization that auditors should know
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: budget_range
+      label: Budget range for audit services
+      hint: Expected budget allocated for this audit engagement
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000-$25,000
+      - $25,000-$50,000
+      - $50,000-$100,000
+      - Over $100,000
+      required: false
+    - id: 15
+      name: timeline_expectations
+      label: Timeline expectations
+      hint: When do you need the audit completed?
+      type: select_one
+      options:
+      - Within 30 days
+      - Within 60 days
+      - Within 90 days
+      - No specific deadline
+      required: true
+    - id: 16
+      name: reporting_preference
+      label: Reporting preference
+      hint: How would you like audit findings delivered?
+      type: select_one
+      options:
+      - Written report only
+      - Written report + presentation
+      - Executive summary + detailed report
+      - Interactive dashboard
+      required: false
+    - id: 17
+      name: additional_services
+      label: Additional services needed
+      hint: Check any supplementary services required
+      type: select_multiple
+      options:
+      - Policy development
+      - Staff training
+      - Remediation planning
+      - Ongoing monitoring
+      - Legal consultation
+      - Technology assessment
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: Emergency contact information
+      hint: 24-hour contact for urgent audit matters
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reference_number
+      label: Reference number (if applicable)
+      hint: Internal tracking number for this request
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Additional comments or special instructions
+      hint: Any other information relevant to your audit request
+      type: text
+      options: []
+      required: false

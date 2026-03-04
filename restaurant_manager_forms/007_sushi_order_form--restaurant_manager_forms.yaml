@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: sushi_order_form
+    pages:
+    - id: 1
+      name: pickup_location
+      label: Home address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pickup_time
+      label: Pickup time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: pickup_date
+      label: Pickup date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: order_type
+      label: Report type
+      hint: null
+      type: select_one
+      options:
+      - Sushi
+      - Sushi and drinks
+      - Drinks only
+      required: false
+    - id: 5
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_details
+      label: Order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: total_items
+      label: Total items
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: order_id
+      label: Order ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_address
+      label: Customer address
+      hint: null
+      type: text
+      options: []
+      required: false

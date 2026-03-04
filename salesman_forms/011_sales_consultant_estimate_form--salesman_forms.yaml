@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Consultant Estimate Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_consultant_name
+      label: Sales Consultant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_consultant_email
+      label: Sales Consultant Email
+      hint: Enter sales consultant email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: sales_consultant_phone
+      label: Sales Consultant Phone
+      hint: Enter sales consultant phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_message
+      label: Customer Message
+      hint: Enter customer message
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: estimated_date
+      label: Estimated Date
+      hint: Enter estimated date
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: estimated_time
+      label: Estimated Time
+      hint: Enter estimated time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: services
+      label: Services
+      hint: Select services
+      type: select_multiple
+      options:
+      - minimalist analysis
+      - comprehensive analysis
+      - consulting
+      - strategy development
+      - sales strategy
+      required: false
+    - id: 9
+      name: price
+      label: Price
+      hint: Enter price
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool_id
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

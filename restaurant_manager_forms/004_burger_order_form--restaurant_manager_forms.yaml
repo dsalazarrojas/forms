@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Burger Order Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name for order
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Email for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: order_type
+      label: Order Type
+      hint: Dine-in, Takeout, or Delivery
+      type: select_one
+      options:
+      - Dine In
+      - Takeout
+      - Delivery
+      required: true
+    - id: 6
+      name: burger_selection
+      label: -- Burger Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: burger_type
+      label: Burger Type
+      hint: Choose your burger
+      type: select_one
+      options:
+      - Classic Cheeseburger
+      - Double Burger
+      - Bacon Burger
+      - Mushroom Swiss Burger
+      - Specialty Burger
+      - Veggie Burger
+      required: true
+    - id: 8
+      name: burger_quantity
+      label: Quantity
+      hint: How many burgers would you like
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: cooking_preference
+      label: Cooking Preference
+      hint: How would you like it cooked
+      type: select_one
+      options:
+      - Rare
+      - Medium Rare
+      - Medium
+      - Medium Well
+      - Well Done
+      required: true
+    - id: 10
+      name: cheese_type
+      label: Cheese Type
+      hint: Select cheese or none
+      type: select_one
+      options:
+      - American
+      - Cheddar
+      - Swiss
+      - Pepper Jack
+      - No Cheese
+      required: false
+    - id: 11
+      name: extras_toppings
+      label: Extra Toppings
+      hint: Select any additional toppings
+      type: select_multiple
+      options:
+      - Lettuce
+      - Tomato
+      - Onion
+      - Pickles
+      - Jalapeños
+      - Bacon
+      - Mushrooms
+      - Avocado
+      required: false
+    - id: 12
+      name: condiments
+      label: Condiments
+      hint: Choose your preferred condiments
+      type: select_multiple
+      options:
+      - Ketchup
+      - Mustard
+      - Mayonnaise
+      - Barbecue Sauce
+      - Hot Sauce
+      - Special Sauce
+      required: false
+    - id: 13
+      name: sides
+      label: -- Sides and Drinks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: side_order
+      label: Side Dish
+      hint: Choose a side dish
+      type: select_one
+      options:
+      - French Fries
+      - Sweet Potato Fries
+      - Onion Rings
+      - Coleslaw
+      - Salad
+      - None
+      required: false
+    - id: 15
+      name: side_quantity
+      label: Side Quantity
+      hint: Number of sides
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 16
+      name: drink_type
+      label: Beverage
+      hint: Select a drink
+      type: select_one
+      options:
+      - Cola
+      - Lemonade
+      - Iced Tea
+      - Milkshake
+      - Coffee
+      - Water
+      - None
+      required: false
+    - id: 17
+      name: drink_size
+      label: Drink Size
+      hint: Size of beverage
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 18
+      name: delivery_info
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: delivery_address
+      label: Delivery Address
+      hint: Full delivery address if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash on Delivery
+      - Digital Wallet
+      required: true

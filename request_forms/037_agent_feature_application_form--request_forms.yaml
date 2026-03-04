@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Feature Application Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Agent Feature Request and Application --
+      hint: centralized intake for product innovation and feature requests
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_name
+      label: Team or Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: for status updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: proposal_header
+      label: -- Feature Proposal --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feature_name
+      label: Proposed Feature Name
+      hint: short descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: impact_level
+      label: Impact Level - Low, Medium, High, Critical
+      hint: null
+      type: select_one
+      options:
+      - Critical (Affects all users)
+      - High (Major efficiency gain)
+      - Medium (General improvement)
+      - Low (Niche use case)
+      required: true
+    - id: 8
+      name: problem_statement
+      label: Problem this feature solves
+      hint: what pain point are we addressing
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: feature_description
+      label: Detailed description of feature functionality
+      hint: describe how the feature should work
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: affected_platforms
+      label: Platforms affected - Web, Mobile, API, Desktop
+      hint: select all target environments
+      type: select_multiple
+      options:
+      - Web Dashboard
+      - iOS App
+      - Android App
+      - Public API
+      - Desktop Client
+      required: true
+    - id: 11
+      name: user_benefit_count
+      label: Estimated number of users benefited
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: development_priority
+      label: Priority for development
+      hint: requester's perspective
+      type: select_one
+      options:
+      - Top Priority (Next Sprint)
+      - High (Current Quarter)
+      - Medium (Roadmap item)
+      - Low (Backlog)
+      required: true
+    - id: 13
+      name: supporting_research
+      label: Links to supporting research or examples
+      hint: URLs to documentation or competitor examples
+      type: text
+      options: []
+      required: false

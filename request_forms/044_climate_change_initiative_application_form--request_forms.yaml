@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Change Initiative Application Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Climate Change Initiative Application
+      hint: Apply for support of your climate change project
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: null
+      type: select_one
+      options:
+      - Non-Profit
+      - Government Agency
+      - Private Company
+      - Academic Institution
+      - Community Group
+      - Coalition
+      - Other
+      required: true
+    - id: 5
+      name: contact_person
+      label: Primary Contact Person
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization_website
+      label: Organization Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_info
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_description
+      label: Detailed Project Description
+      hint: What is your project about?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_focus_area
+      label: Primary Focus Area
+      hint: null
+      type: select_one
+      options:
+      - Carbon Reduction
+      - Renewable Energy
+      - Sustainable Agriculture
+      - Forest Conservation
+      - Climate Justice
+      - Adaptation and Resilience
+      - Clean Transportation
+      - Water Conservation
+      - Education and Advocacy
+      - Other
+      required: true
+    - id: 13
+      name: climate_impacts
+      label: Climate Impacts Being Addressed
+      hint: null
+      type: select_multiple
+      options:
+      - Greenhouse Gas Emissions
+      - Climate Resilience
+      - Biodiversity Loss
+      - Water Scarcity
+      - Food Security
+      - Environmental Justice
+      - Economic Impact
+      - Health Impact
+      required: true
+    - id: 14
+      name: geography
+      label: Geographic Focus Area
+      hint: Local, regional, national, global
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: beneficiaries
+      label: -- Project Beneficiaries --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: affected_population
+      label: Primary Affected Population
+      hint: Who benefits from this project?
+      type: select_multiple
+      options:
+      - Local Communities
+      - Farmers
+      - Indigenous Peoples
+      - Low-Income Households
+      - Youth
+      - Women
+      - Businesses
+      - Society as a Whole
+      required: true
+    - id: 17
+      name: beneficiary_count
+      label: Estimated Number of Beneficiaries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: social_impact
+      label: Expected Social Impact
+      hint: Describe the human impact
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: timeline_budget
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: project_duration
+      label: Project Duration
+      hint: In months or years
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: start_date
+      label: Planned Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: end_date
+      label: Planned End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: total_budget
+      label: Total Project Budget
+      hint: In currency units
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: funding_requested
+      label: Funding Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: budget_breakdown
+      label: Budget Breakdown by Category
+      hint: Personnel, equipment, operations, etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: co_funding
+      label: Other Funding Sources or Co-Funding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: impact_outcomes
+      label: -- Expected Outcomes and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: key_outcomes
+      label: Key Expected Outcomes
+      hint: What will the project achieve?
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: carbon_reduction
+      label: Estimated Carbon Reduction or Offset
+      hint: In tons of CO2 or equivalent
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: success_metrics
+      label: How Will Success Be Measured?
+      hint: Key performance indicators
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: sustainability_plan
+      label: Long-Term Sustainability Plan
+      hint: How will the project continue after funding ends?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Zoom Party Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Maybe''}'
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_arrival
+      label: Time of Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guest_relationship
+      label: Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Spouse''}'
+      - '{''value'': ''Friend''}'
+      - '{''value'': ''Family''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 11
+      name: rsvp_type
+      label: RSVP Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Host''}'
+      - '{''value'': ''Guest''}'
+      - '{''value'': ''Both''}'
+      required: true
+    - id: 12
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Vegetarian''}'
+      - '{''value'': ''Vegan''}'
+      - '{''value'': ''Gluten-free''}'
+      - '{''value'': ''None''}'
+      required: true
+    - id: 15
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: guest_message
+      label: Guest Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: number_of_attending
+      label: Number of Attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: rsvp_by
+      label: RSVP By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: guest_attending
+      label: Guest Attending
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Guest 1''}'
+      - '{''value'': ''Guest 2''}'
+      - '{''value'': ''Guest 3''}'
+      required: true
+    - id: 22
+      name: host_message
+      label: Host Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

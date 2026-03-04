@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Private Prayer Request Form
+    pages:
+    - id: 1
+      name: prayer_request_form
+      label: Prayer Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: prayer_request
+      label: Prayer Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: prayer_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: prayer_request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: prayer_request_blessing
+      label: Blessing Requested
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: true
+    - id: 8
+      name: prayer_requester_comments
+      label: Requester Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: prayer_requester_blessing
+      label: Requester Blessings
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 10
+      name: prayer_requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: prayer_requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: prayer_requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false

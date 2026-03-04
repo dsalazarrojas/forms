@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Sales Report
+    pages:
+    - id: 1
+      name: sales_rep
+      label: Sales Rep
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Sales Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sales_total
+      label: Sales Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_a
+      label: Product A
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''Product A'', ''value'': ''Product A''}'
+      - '{''id'': 20, ''name'': ''Product B'', ''value'': ''Product B''}'
+      - '{''id'': 30, ''name'': ''Product C'', ''value'': ''Product C''}'
+      required: false
+    - id: 5
+      name: product_b
+      label: Product B
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''name'': ''Product A'', ''value'': ''Product A''}'
+      - '{''id'': 20, ''name'': ''Product B'', ''value'': ''Product B''}'
+      - '{''id'': 30, ''name'': ''Product C'', ''value'': ''Product C''}'
+      - '{''id'': 40, ''name'': ''Product D'', ''value'': ''Product D''}'
+      required: false
+    - id: 6
+      name: note
+      label: Notes
+      hint: Notes about sales
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Sales Rep Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Sales Rep Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_time
+      label: Sales Date Time
+      hint: null
+      type: time
+      options: []
+      required: false

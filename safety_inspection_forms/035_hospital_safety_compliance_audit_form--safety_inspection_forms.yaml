@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Safety Compliance Audit Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_phone
+      label: facility_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_email
+      label: facility_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: facility_date
+      label: facility_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: facility_time
+      label: facility_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: safety_team_lead
+      label: safety_team_lead
+      hint: null
+      type: select_one
+      options:
+      - Safety Team Lead 1
+      - Safety Team Lead 2
+      - Safety Team Lead 3
+      required: false
+    - id: 9
+      name: safety_team_members
+      label: safety_team_members
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Team Member 1
+      - Safety Team Member 2
+      - Safety Team Member 3
+      required: false
+    - id: 10
+      name: safety_inspector
+      label: safety_inspector
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Inspector 1
+      - Safety Inspector 2
+      - Safety Inspector 3
+      required: false
+    - id: 11
+      name: audit_date
+      label: audit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: audit_time
+      label: audit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: completed_by
+      label: completed_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_by
+      label: review_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

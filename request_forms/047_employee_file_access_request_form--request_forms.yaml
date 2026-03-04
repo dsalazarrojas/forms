@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee File Access Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_request_type
+      label: Access Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Employee File Access
+      - Client File Access
+      - Other (specify below)
+      required: false
+    - id: 4
+      name: access_request_date
+      label: Date of Access
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: requestor_signature
+      label: Requestor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: file_path
+      label: File Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false

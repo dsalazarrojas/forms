@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Energy Source Review Request Form
+    pages:
+    - id: 1
+      name: general_info
+      label: factory_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_use
+      label: current_energy_use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: energy_planning
+      label: planned_energy_changes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sustainability_initiatives
+      label: sustainability_initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: production_planning
+      label: production_planning
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: energy_assessments
+      label: energy_assessments
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: energy_teams
+      label: energy_teams
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_by
+      label: submitted_by
+      hint: null
+      type: email
+      options: []
+      required: false

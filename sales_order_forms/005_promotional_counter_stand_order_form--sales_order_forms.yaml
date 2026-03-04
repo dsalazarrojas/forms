@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotional_counter_stand_order_form
+    pages:
+    - id: 1
+      name: artwork
+      label: Artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payments
+      label: Payments
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 4
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: artwork_description
+      label: Artwork Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: shipping_notes
+      label: Shipping Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_type
+      label: Payment Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''value'': ''Option 3''}'
+      required: false
+    - id: 14
+      name: customer
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

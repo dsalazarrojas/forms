@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multi Purpose Guest Issue Form
+    pages:
+    - id: 1
+      name: unsatisfied_with_associate
+      label: Unsatisfied With Associate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_issue
+      label: Service Issue
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: unsatisfied_with_service
+      label: Unsatisfied With Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_issue
+      label: Facility Issue
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: other_guest_issue
+      label: Other Guest Issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issues_resolved_action_taken
+      label: Issues Resolved/Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_charged_incorrectly
+      label: Guest Charged Incorrectly
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: unsatisfied_with_facility
+      label: Unsatisfied With Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: touch_up_form
+      label: Touch Up Form
+      hint: null
+      type: text
+      options: []
+      required: false

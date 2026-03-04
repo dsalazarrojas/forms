@@ -1,0 +1,306 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botulinum Toxin Medical History Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: Legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: Legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select your gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: For appointment communications
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_physician
+      label: Primary Physician Name
+      hint: Name of your primary care doctor
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: physician_phone
+      label: Physician Phone
+      hint: Doctor's contact number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_treatment
+      label: Reason for Seeking Treatment
+      hint: What concerns bring you to us
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: neuromuscular_disorders
+      label: Neuromuscular Disorders
+      hint: Do you have any neuromuscular conditions
+      type: select_one
+      options:
+      - false
+      - Myasthenia gravis
+      - ALS
+      - Lambert-Eaton syndrome
+      - Multiple sclerosis
+      - Muscular dystrophy
+      - Other
+      required: true
+    - id: 13
+      name: bleeding_disorders
+      label: Bleeding or Clotting Disorders
+      hint: Do you have any bleeding disorders
+      type: select_one
+      options:
+      - false
+      - Hemophilia
+      - Von Willebrand disease
+      - Thrombocytopenia
+      - Other
+      required: true
+    - id: 14
+      name: allergies
+      label: Known Allergies
+      hint: List all allergies including medications
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: allergy_to_botulinum
+      label: Allergy to Botulinum Toxin
+      hint: Have you ever had an allergic reaction to Botox or similar
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 16
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: Are you currently pregnant or breastfeeding
+      type: select_one
+      options:
+      - Not pregnant, not breastfeeding
+      - Currently pregnant
+      - Currently breastfeeding
+      - Planning pregnancy soon
+      required: true
+    - id: 17
+      name: current_medications
+      label: Current Medications
+      hint: List all prescription medications
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: blood_thinners
+      label: Blood Thinner Use
+      hint: Are you taking any blood thinning medications
+      type: select_one
+      options:
+      - false
+      - Warfarin
+      - Heparin
+      - Aspirin
+      - Clopidogrel
+      - Other anticoagulant
+      required: true
+    - id: 19
+      name: supplements
+      label: Supplements and Vitamins
+      hint: List any supplements you take regularly
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: antibiotics
+      label: Recent Antibiotic Use
+      hint: Have you taken antibiotics in the past 2 weeks
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 21
+      name: muscle_relaxants
+      label: Muscle Relaxant Use
+      hint: Do you take muscle relaxant medications
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 22
+      name: sleep_aids
+      label: Sleep Aid Use
+      hint: Do you take sleep aids or sedatives
+      type: select_one
+      options:
+      - false
+      - true
+      required: false
+    - id: 23
+      name: previous_cosmetic_procedures
+      label: Previous Cosmetic Procedures
+      hint: Have you had cosmetic procedures before
+      type: select_multiple
+      options:
+      - None
+      - Botox injections
+      - Dermal fillers
+      - Chemical peels
+      - Laser treatments
+      - Surgical procedures
+      required: true
+    - id: 24
+      name: previous_botox_complications
+      label: Previous Botox Complications
+      hint: Have you ever had complications from Botox
+      type: select_one
+      options:
+      - Never had Botox
+      - No complications
+      - Yes, had complications
+      required: true
+    - id: 25
+      name: complications_description
+      label: Complications Description
+      hint: Describe any previous complications
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: facial_surgery_history
+      label: Facial Surgery History
+      hint: Have you had any facial surgeries
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 27
+      name: surgery_details
+      label: Surgery Details
+      hint: Describe any facial surgeries
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: skin_conditions
+      label: Skin Conditions
+      hint: Do you have any skin conditions
+      type: select_multiple
+      options:
+      - None
+      - Acne
+      - Rosacea
+      - Eczema
+      - Psoriasis
+      - Dermatitis
+      - Active infection
+      required: true
+    - id: 29
+      name: medical_conditions_other
+      label: Other Medical Conditions
+      hint: List any other medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: tobacco_use
+      label: Tobacco Use
+      hint: Do you use tobacco products
+      type: select_one
+      options:
+      - Never
+      - Former smoker
+      - Current smoker
+      - Vaping
+      required: true
+    - id: 31
+      name: alcohol_consumption
+      label: Alcohol Consumption
+      hint: How often do you consume alcohol
+      type: select_one
+      options:
+      - Never
+      - Occasionally
+      - Moderately
+      - Regularly
+      required: false
+    - id: 32
+      name: information_accuracy
+      label: Information Accuracy
+      hint: I certify that all information provided is accurate
+      type: select_one
+      options:
+      - Yes, all information is accurate
+      - false
+      required: true
+    - id: 33
+      name: patient_signature
+      label: Patient Signature
+      hint: Type your full legal name as signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: signature_date
+      label: Signature Date
+      hint: Date of signing
+      type: date
+      options: []
+      required: true

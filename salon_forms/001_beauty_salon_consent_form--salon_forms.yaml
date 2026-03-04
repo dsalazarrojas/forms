@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Salon Consent Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will use this to contact you with updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: current_hair_color
+      label: Current Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Blonde
+      - Red
+      - Gray
+      - Other
+      required: true
+    - id: 6
+      name: desired_hair_color
+      label: Desired Hair Color
+      hint: What color would you like?
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Blonde
+      - Red
+      - Highlights
+      - Lowlights
+      - Other
+      required: true
+    - id: 7
+      name: hair_cut_style
+      label: Preferred Hair Cut Style
+      hint: Describe your preferred cut or choose from common styles
+      type: select_one
+      options:
+      - Bob
+      - Pixie
+      - Layers
+      - Straight
+      - Blunt Bangs
+      - Side-Swept
+      - Other
+      required: true
+    - id: 8
+      name: hair_length_preference
+      label: Hair Length Preference
+      hint: null
+      type: select_one
+      options:
+      - Very Short
+      - Short
+      - Medium
+      - Long
+      - Extra Long
+      required: false
+    - id: 9
+      name: allergies_sensitivities
+      label: Known Allergies or Sensitivities
+      hint: List any allergies to hair products or treatments
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: previous_treatments
+      label: Previous Chemical Treatments
+      hint: Have you had perms, relaxers, or color treatments?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: false
+    - id: 11
+      name: scalp_condition
+      label: Scalp Condition
+      hint: Describe any scalp issues
+      type: select_one
+      options:
+      - Sensitive
+      - Dry
+      - Oily
+      - Normal
+      - Combination
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Any Medical Conditions Affecting Hair
+      hint: Include thyroid issues, alopecia, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: consent_agreement
+      label: I consent to the beauty services and understand the risks involved
+      hint: You must agree to proceed
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 14
+      name: aftercare_instructions
+      label: I have received and understood aftercare instructions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: signature_date
+      label: Date of Consent
+      hint: Today's date
+      type: date
+      options: []
+      required: true

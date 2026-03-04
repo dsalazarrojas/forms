@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_account_linking_support_request
+    pages:
+    - id: 1
+      name: social_media_account_linking_support_request_form
+      label: Social Media Account Linking Support Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_type
+      label: What Type Of Account
+      hint: null
+      type: select_one
+      options:
+      - Account
+      - Page
+      - Profile
+      required: false
+    - id: 3
+      name: account_id
+      label: What Is The Account ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_media_platform
+      label: Social Media Platform
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      required: false
+    - id: 5
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false

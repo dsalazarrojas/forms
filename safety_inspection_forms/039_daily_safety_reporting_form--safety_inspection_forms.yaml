@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Safety Reporting Form
+    pages:
+    - id: 1
+      name: incident_occurred
+      label: Incident occurred
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: incident_location
+      label: Incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Description of the incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Date of incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: report_by
+      label: Report by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reported_by
+      label: Reported by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: safety_hazards
+      label: Safety Hazards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_escalated
+      label: Was the incident escalated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_outcome
+      label: Outcome of the incident
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: incident_remediation
+      label: Remediation taken for the incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_follow_up
+      label: Follow up actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

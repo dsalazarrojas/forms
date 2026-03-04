@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Credit Card Issuance Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee full name
+      hint: Name as it should appear on the card
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Internal identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Department requesting the card
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: card_type
+      label: Card type requested
+      hint: Business or procurement card
+      type: select_one
+      options:
+      - Corporate card
+      - Procurement card
+      - Travel card
+      required: true
+    - id: 5
+      name: monthly_limit
+      label: Requested monthly limit
+      hint: Proposed spending limit
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: justification
+      label: Justification for card issuance
+      hint: Business need for card
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_approval
+      label: Manager name for approval
+      hint: Manager who will approve the card
+      type: text
+      options: []
+      required: true

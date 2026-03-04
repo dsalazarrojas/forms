@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel_partner_appreciation_event_rsvp_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_type
+      label: Guest Type
+      hint: null
+      type: select_multiple
+      options:
+      - Business Partner
+      - Client
+      - Family Member
+      required: true
+    - id: 5
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: travel_location
+      label: Travel Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_partner_name
+      label: Travel Partner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_partner_appreciation_event_details
+      label: Travel Partner Appreciation Event Details
+      hint: null
+      type: text
+      options: []
+      required: false

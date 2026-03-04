@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oil Field Operations Survey
+    pages:
+    - id: 1
+      name: shift_conditions
+      label: Shift Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: safety_observation
+      label: Safety Observation
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, no hazards found
+      - No, minor hazards found
+      - No, major hazards found
+      required: false
+    - id: 3
+      name: performance_issues
+      label: Performance Issues
+      hint: null
+      type: select_one
+      options:
+      - No issues reported
+      - Equipment not functioning as expected
+      - Team was delayed due to issues
+      required: false
+    - id: 4
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_day
+      label: Time Of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: crew_size
+      label: Crew Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: equipment_count
+      label: Equipment Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: personnel_injured
+      label: Personnel Injured
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicles_moving
+      label: Vehicles Moving
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, with personnel
+      - Yes, without personnel
+      - 'No'
+      required: false
+    - id: 10
+      name: vehicles_parked
+      label: Vehicles Parked
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, on site
+      - 'No'
+      required: false
+    - id: 11
+      name: vehicles_operational
+      label: Vehicles Operational
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, on site
+      - 'No'
+      required: false
+    - id: 12
+      name: vehicles_maintanance
+      label: Vehicles Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, on site
+      - 'No'
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Collateral Request Form
+    pages:
+    - id: 1
+      name: marketing_collateral_request_form
+      label: Marketing Collateral Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_owner
+      label: Business Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: marketing_collateral_type
+      label: Marketing Collateral Type
+      hint: null
+      type: select_one
+      options:
+      - Marketing Brochure
+      - Brochure
+      - Catalog
+      - Sell Sheet
+      - Trade Show Display
+      - Presentation Folder
+      - Roll-Up Banner
+      - Product Insert
+      - Other
+      required: false
+    - id: 8
+      name: marketing_collateral_quantity
+      label: Marketing Collateral Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,278 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affordable Community Expansion Application Form
+    pages:
+    - id: 1
+      name: applicant_organization_information_section
+      label: Applicant/Organization Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Name of the organization applying for the expansion project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization applying
+      type: select_one
+      options:
+      - Non-profit Housing Organization
+      - Community Development Corporation
+      - Government Agency
+      - Private Developer
+      - Cooperative
+      - Faith-based Organization
+      - Other
+      required: true
+    - id: 4
+      name: organization_address
+      label: Organization Address
+      hint: Complete address of the organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Name of the primary contact person for this application
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Job title of the primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Email address for primary contact
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Phone number for primary contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_overview_section
+      label: Project Overview
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_name
+      label: Project Name
+      hint: Name of the affordable community expansion project
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_location
+      label: Project Location
+      hint: Complete address where the expansion will take place
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_description
+      label: Project Description
+      hint: Brief description of the proposed expansion project
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_timeline
+      label: Project Timeline
+      hint: Expected start and completion dates for the project
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: housing_units_details_section
+      label: Housing Units Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: total_units_planned
+      label: Total Units Planned
+      hint: Total number of housing units planned in the expansion
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: unit_types_breakdown
+      label: Unit Types Breakdown
+      hint: Breakdown of unit types (studios, 1BR, 2BR, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: affordable_units_count
+      label: Affordable Units Count
+      hint: Number of units designated as affordable housing
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: affordability_levels
+      label: Affordability Levels
+      hint: Income levels the units will serve (AMI percentages)
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: target_population
+      label: Target Population
+      hint: Who is the intended population for these units?
+      type: select_multiple
+      options:
+      - Low-income families
+      - Elderly seniors
+      - Disabled individuals
+      - Veterans
+      - Young adults
+      - Students
+      - Working families
+      - Homeless individuals
+      required: true
+    - id: 20
+      name: funding_financing_section
+      label: Funding and Financing
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: total_project_cost
+      label: Total Project Cost
+      hint: Estimated total cost of the expansion project
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: requested_funding_amount
+      label: Requested Funding Amount
+      hint: Amount of funding being requested for this project
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: funding_sources
+      label: Other Funding Sources
+      hint: List other funding sources committed or anticipated
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: financing_structure
+      label: Financing Structure
+      hint: How will the project be financed?
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: community_impact_section
+      label: Community Impact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: jobs_created
+      label: Jobs Created
+      hint: Number of construction and permanent jobs to be created
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: community_services
+      label: Community Services
+      hint: What community services will be provided with the expansion?
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: sustainability_features
+      label: Sustainability Features
+      hint: What sustainable or green features will be included?
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: community_engagement
+      label: Community Engagement
+      hint: How has the community been involved in planning?
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: compliance_regulations_section
+      label: Compliance and Regulations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: zoning_compliance
+      label: Zoning Compliance
+      hint: Is the project compliant with local zoning regulations?
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending Approval
+      required: true
+    - id: 32
+      name: environmental_clearance
+      label: Environmental Clearance
+      hint: Has environmental clearance been obtained or applied for?
+      type: select_one
+      options:
+      - true
+      - false
+      - In Progress
+      required: true
+    - id: 33
+      name: fair_housing_compliance
+      label: Fair Housing Compliance
+      hint: How will the project ensure fair housing compliance?
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: application_review_section
+      label: Application Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: supporting_documents_attached
+      label: Supporting Documents Attached
+      hint: List of supporting documents included with the application
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: authorization_signature
+      label: Authorization Signature
+      hint: Electronic signature of authorized representative
+      type: text
+      options: []
+      required: true

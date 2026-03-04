@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unmute Permission Request Form
+    pages:
+    - id: 1
+      name: unmuterequest
+      label: Unmute Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_id
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: unmuterequestmessage
+      hint: null
+      type: text
+      options: []
+      required: false

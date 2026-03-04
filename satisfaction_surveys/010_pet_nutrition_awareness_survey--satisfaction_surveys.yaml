@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Nutrition Awareness Survey
+    pages:
+    - id: 1
+      name: pet_nutrition_awareness_survey_page_1
+      label: Pet Nutrition Awareness Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pet_feeding_habits
+      label: Feeding Habits
+      hint: null
+      type: select_multiple
+      options:
+      - Feeding frequency 1-3 times a day
+      - Feeding frequency 4-5 times a day
+      - Feeding frequency 6-7 times a day
+      - Other
+      required: false
+    - id: 3
+      name: nutrient_knowledge
+      label: Nutrient Knowledge
+      hint: What kind of nutrients are you aware of?
+      type: select_one
+      options:
+      - Protein
+      - Fat
+      - Carbohydrates
+      - Fiber
+      - Vitamins and minerals
+      - Other
+      required: false
+    - id: 4
+      name: pet_nutrition_label
+      label: What is a healthy pet label?
+      hint: null
+      type: select_multiple
+      options:
+      - High-quality commercial pet food
+      - Natural or homemade pet food
+      - Combination of both
+      - Other
+      required: false
+    - id: 5
+      name: feeding_frequency_label
+      label: How often do you feed your pet?
+      hint: null
+      type: select_one
+      options:
+      - 1-2 cups per day
+      - 2-3 cups per day
+      - 4-5 cups per day
+      - Other
+      required: false
+    - id: 6
+      name: pet_size
+      label: What is your pet's size?
+      hint: null
+      type: select_multiple
+      options:
+      - Small (under 20 lbs)
+      - Medium (21-50 lbs)
+      - Large (51-100 lbs)
+      - Giant (over 100 lbs)
+      - Other
+      required: false
+    - id: 7
+      name: age
+      label: What is your pet's age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: age_range
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Mail
+      - Phone
+      - Email
+      - Other
+      required: false
+    - id: 10
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: owner_email
+      label: Owner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: owner_phone
+      label: Owner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: owner_city
+      label: Owner City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: owner_state
+      label: Owner State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_zip
+      label: Owner Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: owner_country
+      label: Owner Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: owner_notes
+      label: Owner Notes
+      hint: null
+      type: text
+      options: []
+      required: false

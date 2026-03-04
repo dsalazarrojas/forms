@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Favorite Dishes Feedback Form
+    pages:
+    - id: 1
+      name: feedback
+      label: favorite dishes feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: your rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''1/5''}'
+      - '{''id'': 2, ''label'': ''2/5''}'
+      - '{''id'': 3, ''label'': ''3/5''}'
+      - '{''id'': 4, ''label'': ''4/5''}'
+      - '{''id'': 5, ''label'': ''5/5''}'
+      required: true
+    - id: 3
+      name: dish
+      label: dish name
+      hint: name of the dish you ordered
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dish_rating
+      label: dish rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: menu_category
+      label: menu category
+      hint: e.g. appetizer, entree, dessert
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Appetizers''}'
+      - '{''id'': 2, ''label'': ''Entrees''}'
+      - '{''id'': 3, ''label'': ''Desserts''}'
+      required: false

@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waste Bin Weight Audit Form
+    pages:
+    - id: 1
+      name: waste_bin_weight_audit_form
+      label: Waste Bin Weight Audit Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bin_number
+      label: Bin Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: weight
+      label: Weight (kg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: audit_date
+      label: Audit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: select_one
+      label: Which of the following best describes the bin condition?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: select_multiple
+      label: Which of the following apply?
+      hint: null
+      type: select_multiple
+      options:
+      - Overfilled
+      - Not Clean
+      - Broken
+      - Leaking
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_1
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: remarks_1
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false

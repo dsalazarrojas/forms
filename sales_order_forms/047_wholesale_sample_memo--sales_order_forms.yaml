@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wholesale Sample Memo
+    pages:
+    - id: 1
+      name: wholesale_sample_memo_form
+      label: wholesale_sample_memo_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: product_info
+      label: product_info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

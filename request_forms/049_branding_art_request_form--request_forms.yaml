@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Branding Art Request Form
+    pages:
+    - id: 1
+      name: requestor_info_header
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: req_full_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: team_dept_name
+      label: Team / Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: req_email_addr
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: art_details_header
+      label: -- Art / Design Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: merch_type_select
+      label: Type of Branding Material
+      hint: null
+      type: select_one
+      options:
+      - Social Media Graphics
+      - Presentation Template
+      - Digital Banner
+      - Print Flyer / Brochure
+      - Iconography
+      required: true
+    - id: 7
+      name: request_desc
+      label: Detailed Description of the Art Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: use_case_desc
+      label: Purpose and Use Case Examples
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: specs_header
+      label: -- Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: var_qty
+      label: Number of Variations / Quantities
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: technical_specs_desc
+      label: Dimensions and Technical Specifications
+      hint: e.g. 1080x1080px
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: priority_select
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 13
+      name: guidelines_header
+      label: -- Brand Guidelines --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: guideline_ack
+      label: I have reviewed the current brand guidelines for this request
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: final_deadline_dt
+      label: Deadline for Final Delivery
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: inspo_links
+      label: Links to inspiration or moodboards
+      hint: null
+      type: text
+      options: []
+      required: false

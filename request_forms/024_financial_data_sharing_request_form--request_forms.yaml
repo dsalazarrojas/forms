@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Data Sharing Request Form
+    pages:
+    - id: 1
+      name: finance_teams
+      label: finance_teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: accounting_firms
+      label: accounting_firms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: businesses
+      label: businesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: data_purpose
+      label: data_purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: time_period
+      label: time_period
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 6
+      name: data_type
+      label: data_type
+      hint: null
+      type: select_one
+      options:
+      - financial_statements
+      - financial_accounts
+      - financial_reports
+      required: false
+    - id: 7
+      name: access_level
+      label: access_level
+      hint: null
+      type: select_one
+      options:
+      - read
+      - write
+      - edit
+      required: true
+    - id: 8
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - denied
+      - expired
+      required: false
+    - id: 10
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false

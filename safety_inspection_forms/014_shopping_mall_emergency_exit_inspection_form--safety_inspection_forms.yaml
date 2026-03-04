@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: shopping_mall_emergency_exit_inspection_form
+    pages:
+    - id: 1
+      name: emergency_exit_path
+      label: Emergency Exit Path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exit_signs
+      label: Exit Signs
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Exit
+      - Emergency Exit
+      - Safety Exit
+      required: true
+    - id: 3
+      name: exit_doors
+      label: Exit Doors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: emergency_alarm_system
+      label: Emergency Alarm System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 5
+      name: fire_extinguishers
+      label: Fire Extinguisher
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not Available
+      - N/A
+      required: true
+    - id: 6
+      name: emergency_exits_marked
+      label: Emergency Exits Marked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 7
+      name: fire_drills
+      label: Fire Drills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 8
+      name: emergency_exit_signs_visible
+      label: Emergency Exit Signs Visible
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 9
+      name: fire_extinguisher_in_room
+      label: Fire Extinguisher in Room
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 10
+      name: emergency_exit_path_well_lit
+      label: Emergency Exit Path Well Lit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 11
+      name: emergency_exit_signs_in_room
+      label: Emergency Exit Signs in Room
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 12
+      name: exit_doors_opened
+      label: Exit Doors Opened
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 13
+      name: fire_extinguishers_in_room
+      label: Fire Extinguishers in Room
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: true
+    - id: 14
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: employee_signoff
+      label: Employee Signoff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - N/A
+      required: false

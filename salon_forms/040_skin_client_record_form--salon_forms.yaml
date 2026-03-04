@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Client Record Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: client_number
+      label: Client Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Service Provider 1''}'
+      - '{''id'': 2, ''name'': ''Service Provider 2''}'
+      - '{''id'': 3, ''name'': ''Service Provider 3''}'
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: client_email
+      label: Client EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_of_last_visit
+      label: Date Of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: skin_report_date
+      label: Skin Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: skin_condition
+      label: Skin Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Acne''}'
+      - '{''id'': 2, ''name'': ''Aging''}'
+      - '{''id'': 3, ''name'': ''Blackheads''}'
+      - '{''id'': 4, ''name'': ''Bumps''}'
+      - '{''id'': 5, ''name'': ''Burns''}'
+      - '{''id'': 6, ''name'': ''Cold Sores''}'
+      - '{''id'': 7, ''name'': ''Eczema''}'
+      - '{''id'': 8, ''name'': ''Keloids''}'
+      - '{''id'': 9, ''name'': ''Moles''}'
+      - '{''id'': 10, ''name'': ''Pigmentation''}'
+      - '{''id'': 11, ''name'': ''Psoriasis''}'
+      - '{''id'': 12, ''name'': ''Rosacea''}'
+      - '{''id'': 13, ''name'': ''Skin Tag''}'
+      - '{''id'': 14, ''name'': ''Warts''}'
+      required: false
+    - id: 11
+      name: recommended_products
+      label: Recommended Products
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Product 1''}'
+      - '{''id'': 2, ''name'': ''Product 2''}'
+      - '{''id'': 3, ''name'': ''Product 3''}'
+      required: false
+    - id: 12
+      name: recommended_services
+      label: Recommended Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Service 1''}'
+      - '{''id'': 2, ''name'': ''Service 2''}'
+      - '{''id'': 3, ''name'': ''Service 3''}'
+      required: false
+    - id: 13
+      name: recommended_providers
+      label: Recommended Providers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Provider 1''}'
+      - '{''id'': 2, ''name'': ''Provider 2''}'
+      - '{''id'': 3, ''name'': ''Provider 3''}'
+      required: false
+    - id: 14
+      name: recommended_appointments
+      label: Recommended Appointments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Appointment 1''}'
+      - '{''id'': 2, ''name'': ''Appointment 2''}'
+      - '{''id'': 3, ''name'': ''Appointment 3''}'
+      required: false
+    - id: 15
+      name: recommended_reviews
+      label: Recommended Reviews
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Review 1''}'
+      - '{''id'': 2, ''name'': ''Review 2''}'
+      - '{''id'': 3, ''name'': ''Review 3''}'
+      required: false
+    - id: 16
+      name: recommended_articles
+      label: Recommended Articles
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Article 1''}'
+      - '{''id'': 2, ''name'': ''Article 2''}'
+      - '{''id'': 3, ''name'': ''Article 3''}'
+      required: false
+    - id: 17
+      name: recommended_videos
+      label: Recommended Videos
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Video 1''}'
+      - '{''id'': 2, ''name'': ''Video 2''}'
+      - '{''id'': 3, ''name'': ''Video 3''}'
+      required: false
+    - id: 18
+      name: recommended_websites
+      label: Recommended Websites
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Website 1''}'
+      - '{''id'': 2, ''name'': ''Website 2''}'
+      - '{''id'': 3, ''name'': ''Website 3''}'
+      required: false
+    - id: 19
+      name: recommended_books
+      label: Recommended Books
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Book 1''}'
+      - '{''id'': 2, ''name'': ''Book 2''}'
+      - '{''id'': 3, ''name'': ''Book 3''}'
+      required: false
+    - id: 20
+      name: recommended_blogs
+      label: Recommended Blogs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Blog 1''}'
+      - '{''id'': 2, ''name'': ''Blog 2''}'
+      - '{''id'': 3, ''name'': ''Blog 3''}'
+      required: false
+    - id: 21
+      name: skin_condition_note
+      label: Skin Condition Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: recommended_products_note
+      label: Recommended Products Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: recommended_services_note
+      label: Recommended Services Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: recommended_providers_note
+      label: Recommended Providers Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: recommended_appointments_note
+      label: Recommended Appointments Note
+      hint: null
+      type: note
+      options: []
+      required: false

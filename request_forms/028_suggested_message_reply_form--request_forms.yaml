@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Suggested Message Reply Form
+    pages:
+    - id: 1
+      name: suggested_message_reply_form
+      label: Suggested Message Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_message
+      label: customer_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: message_preferences
+      label: message_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 10, ''name'': ''message_preferences_1'', ''label'': ''Option 1''}'
+      - '{''id'': 11, ''name'': ''message_preferences_2'', ''label'': ''Option 2''}'
+      - '{''id'': 12, ''name'': ''message_preferences_3'', ''label'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: reply_subject
+      label: reply_subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reply_body
+      label: reply_body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''name'': ''email'', ''label'': ''Email''}'
+      - '{''id'': 14, ''name'': ''phone'', ''label'': ''Phone''}'
+      - '{''id'': 15, ''name'': ''text'', ''label'': ''Text''}'
+      required: false
+    - id: 8
+      name: send_reply
+      label: send_reply
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 16, ''name'': True, ''label'': True}'
+      - '{''id'': 17, ''name'': False, ''label'': False}'
+      required: false
+    - id: 9
+      name: preferred_language
+      label: preferred_language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 18, ''name'': ''en'', ''label'': ''English''}'
+      - '{''id'': 19, ''name'': ''es'', ''label'': ''Espanol''}'
+      - '{''id'': 20, ''name'': ''fr'', ''label'': ''Francais''}'
+      - '{''id'': 21, ''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: other_language
+      label: other_language
+      hint: null
+      type: text
+      options: []
+      required: false

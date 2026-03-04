@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: HYROX Event Feedback Survey
+    pages:
+    - id: 1
+      name: participant_score
+      label: Participant Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: location_rating
+      label: Location Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Excellent''}'
+      - '{''id'': 2, ''text'': ''Good''}'
+      - '{''id'': 3, ''text'': ''Fair''}'
+      - '{''id'': 4, ''text'': ''Poor''}'
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: improvement_suggestions
+      label: Improvement Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_suggestions
+      label: Participant Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false

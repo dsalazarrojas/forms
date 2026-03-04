@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annuity Withdrawal Form
+    pages:
+    - id: 1
+      name: account_holder_name
+      label: Account Holder Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: social_security
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: account_number
+      label: Annuity Account Number
+      hint: Policy or account number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: account_establishment_date
+      label: Account Establishment Date
+      hint: When annuity was opened
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: annuity_type
+      label: Type of Annuity
+      hint: null
+      type: select_one
+      options:
+      - Fixed annuity
+      - Variable annuity
+      - Indexed annuity
+      - Immediate annuity
+      - Deferred annuity
+      required: true
+    - id: 9
+      name: current_balance
+      label: Current Account Balance
+      hint: Approximate value
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: withdrawal_type
+      label: Type of Withdrawal Requested
+      hint: null
+      type: select_one
+      options:
+      - Full withdrawal - entire account
+      - Partial withdrawal - lump sum
+      - Surrender the annuity
+      - Change to different payment option
+      - Systematic withdrawal plan
+      required: true
+    - id: 11
+      name: withdrawal_amount
+      label: Withdrawal Amount
+      hint: Dollar amount requested
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: withdrawal_reason
+      label: Reason for Withdrawal
+      hint: null
+      type: select_one
+      options:
+      - Financial hardship
+      - Change in financial goals
+      - Need for funds
+      - Account restructuring
+      - Roll over to another investment
+      - Other
+      required: true
+    - id: 13
+      name: reason_details
+      label: Detailed Explanation
+      hint: Additional details about withdrawal
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: withdrawal_timing
+      label: Withdrawal Timing
+      hint: When do you need the funds
+      type: select_one
+      options:
+      - Immediate
+      - Within 1 week
+      - Within 1 month
+      - By specific date
+      - Flexible
+      required: true
+    - id: 15
+      name: specific_date
+      label: Specific Withdrawal Date
+      hint: If you selected specific date
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: tax_implications_aware
+      label: I understand potential tax implications
+      hint: Withdrawal may trigger taxes
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - provide information
+      required: true
+    - id: 17
+      name: early_withdrawal_penalty_aware
+      label: I understand early withdrawal penalties may apply
+      hint: null
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - provide information
+      required: true
+    - id: 18
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Direct deposit to bank account
+      - Check by mail
+      - Wire transfer
+      - Rollover to another financial institution
+      required: true
+    - id: 19
+      name: bank_account_info
+      label: Bank Account Information
+      hint: For direct deposit withdrawals
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: spousal_consent
+      label: Spouse consent required for this withdrawal
+      hint: Some states require spouse consent
+      type: select_one
+      options:
+      - Not applicable - single
+      - Obtained and attached
+      - In process
+      - Not applicable - community property waiver
+      required: false
+    - id: 21
+      name: beneficiary_notifications
+      label: Beneficiary notifications needed
+      hint: Change in account due to withdrawal
+      type: select_one
+      options:
+      - No change to beneficiary
+      - Yes - update beneficiary
+      - Yes - notify beneficiary of change
+      required: false
+    - id: 22
+      name: financial_advisor_coordination
+      label: Coordinating with financial advisor
+      hint: null
+      type: select_one
+      options:
+      - No advisor
+      - Advisor informed
+      - Please notify advisor
+      - Advisor signature required
+      required: false
+    - id: 23
+      name: request_certification
+      label: I request this withdrawal and understand the terms
+      hint: null
+      type: select_one
+      options:
+      - I agree and request withdrawal
+      - I need more information
+      - I want to cancel this request
+      required: true

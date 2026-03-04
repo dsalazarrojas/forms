@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Payment Form
+    pages:
+    - id: 1
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: travel_name
+      label: Travel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: traveler_name
+      label: Traveler Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_multiple
+      options:
+      - Expense Type 1
+      - Expense Type 2
+      - Expense Type 3
+      required: false
+    - id: 5
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Bank Transfer
+      - Cash
+      required: false
+    - id: 8
+      name: traveler_count
+      label: Traveler Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: total_amount
+      label: Total Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false
+    - id: 12
+      name: payment_status_note
+      label: Payment Status Note
+      hint: null
+      type: note
+      options: []
+      required: false

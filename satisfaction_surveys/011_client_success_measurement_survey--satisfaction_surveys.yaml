@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Success Measurement Survey
+    pages:
+    - id: 1
+      name: respondent_section
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: account_manager
+      label: Your Account Manager
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: engagement_section
+      label: -- Engagement and Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: engagement_level
+      label: Overall engagement level with our services
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 7
+      name: relationship_health
+      label: Health of our business relationship
+      hint: null
+      type: select_one
+      options:
+      - At Risk
+      - Concerning
+      - Stable
+      - Strong
+      - Excellent
+      required: true
+    - id: 8
+      name: communication_frequency
+      label: Frequency of communication with your team
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As needed
+      required: false
+    - id: 9
+      name: value_section
+      label: -- Value Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: value_delivered
+      label: Value delivered by our services
+      hint: null
+      type: select_one
+      options:
+      - Well Below Expectations
+      - Below Expectations
+      - Meets Expectations
+      - Exceeds Expectations
+      - Far Exceeds Expectations
+      required: true
+    - id: 11
+      name: roi_achieved
+      label: Have you achieved your intended ROI?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Partially
+      - Mostly
+      - Completely
+      required: true
+    - id: 12
+      name: success_metrics
+      label: What success metrics matter most to you?
+      hint: Profitability, efficiency, growth, etc.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: performance_section
+      label: -- Performance Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: quality_rating
+      label: Quality of deliverables
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: timeliness_rating
+      label: Timeliness of deliverables
+      hint: 1=Poor, 10=Excellent
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: responsiveness_rating
+      label: Team responsiveness and support
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: satisfaction_section
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: overall_satisfaction
+      label: Overall satisfaction with our partnership
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 19
+      name: continuation
+      label: Likelihood to continue this partnership
+      hint: null
+      type: select_one
+      options:
+      - Very Unlikely
+      - Unlikely
+      - Neutral
+      - Likely
+      - Very Likely
+      required: true
+    - id: 20
+      name: recommendations_section
+      label: -- Future Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: improvement_areas
+      label: Areas for improvement
+      hint: Optional feedback
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: expansion_opportunities
+      label: Additional services or opportunities
+      hint: null
+      type: text
+      options: []
+      required: false

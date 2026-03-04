@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Review Appointment Form Template
+    pages:
+    - id: 1
+      name: section_requester_info
+      label: -- Requester Information --
+      hint: Please provide the details of the individual or entity requesting the
+        review.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_full_name
+      label: Requester Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_entity_name
+      label: Organization or Entity Name
+      hint: Full legal name of the entity being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: example@organization.com
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: (###)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_category
+      label: Review Category
+      hint: Select the type of compliance review required.
+      type: select_one
+      options:
+      - Annual Compliance Audit
+      - Regulatory Change Review
+      - Data Privacy Assessment
+      - Environmental Impact Review
+      - Financial Reporting Audit
+      - Ethics and Conduct Review
+      required: true
+    - id: 7
+      name: preferred_appointment_date_1
+      label: Preferred Appointment Date (Option 1)
+      hint: Select your first choice for the review date.
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: preferred_time_slot_1
+      label: Preferred Time Slot (Option 1)
+      hint: Select your first choice for the review time.
+      type: select_one
+      options:
+      - Morning (9:00 AM - 12:00 PM)
+      - Afternoon (1:00 PM - 4:00 PM)
+      - Full Day (9:00 AM - 5:00 PM)
+      required: true
+    - id: 9
+      name: preferred_appointment_date_2
+      label: Preferred Appointment Date (Option 2)
+      hint: Select your second choice for the review date.
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: preferred_time_slot_2
+      label: Preferred Time Slot (Option 2)
+      hint: Select your second choice for the review time.
+      type: select_one
+      options:
+      - Morning (9:00 AM - 12:00 PM)
+      - Afternoon (1:00 PM - 4:00 PM)
+      - Full Day (9:00 AM - 5:00 PM)
+      required: false
+    - id: 11
+      name: review_location_method
+      label: Review Location or Method
+      hint: Select your preferred review setting.
+      type: select_one
+      options:
+      - On-site (at Organization Location)
+      - Virtual (via Video Conference)
+      - Off-site (at Compliance Office)
+      required: true
+    - id: 12
+      name: key_personnel_present
+      label: Key Personnel Attending
+      hint: List the names and roles of key personnel who will be present.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: documentation_readiness
+      label: Documentation Readiness
+      hint: Are all necessary documents prepared and available for the review?
+      type: select_one
+      options:
+      - Yes - All documents are ready.
+      - Mostly Ready - In final stages of preparation.
+      - No - Documents are still being compiled.
+      required: true
+    - id: 14
+      name: special_instructions_concerns
+      label: Special Instructions or Concerns
+      hint: Please detail any specific areas of focus or concerns for the review.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: appointment_confirmation_consent
+      label: Appointment Confirmation Consent
+      hint: I acknowledge that this request is subject to confirmation by the compliance
+        office.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

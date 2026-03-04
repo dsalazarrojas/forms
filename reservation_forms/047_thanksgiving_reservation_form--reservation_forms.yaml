@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thanksgiving Reservation Form
+    pages:
+    - id: 1
+      name: reservation_form
+      label: reservation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: party_size
+      label: party_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: reservation_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reservation_time
+      label: reservation_time
+      hint: null
+      type: select_one
+      options:
+      - 9am
+      - 10am
+      - 11am
+      - 12pm
+      - 1pm
+      - 2pm
+      - 3pm
+      - 4pm
+      - 5pm
+      - 6pm
+      - 7pm
+      - 8pm
+      - 9pm
+      required: false

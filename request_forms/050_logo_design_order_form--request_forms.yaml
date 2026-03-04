@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logo Design Order Form
+    pages:
+    - id: 1
+      name: logo_design_form
+      label: Logo Design Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: logo_description
+      label: Logo Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: logo_type
+      label: Logo Type
+      hint: null
+      type: select_one
+      options:
+      - Logo with Icon
+      - Logo without Icon
+      - Custom Icon
+      required: true
+    - id: 4
+      name: color_scheme
+      label: Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Monochromatic
+      - Duotone
+      - Tricolor
+      - Polychrome
+      required: false
+    - id: 5
+      name: font_size
+      label: Font Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: font_type
+      label: Font Type
+      hint: null
+      type: select_one
+      options:
+      - Sans-Serif
+      - Serif
+      - Script
+      required: true
+    - id: 7
+      name: background_color
+      label: Background Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: text_color
+      label: Text Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: logo_position
+      label: Logo Position
+      hint: null
+      type: select_multiple
+      options:
+      - Left
+      - Right
+      - Center
+      - None
+      required: true
+    - id: 10
+      name: logo_file
+      label: Logo File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - District of Columbia
+      - Florida
+      - Georgia
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      required: true
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: order_type
+      label: Order Type
+      hint: null
+      type: select_one
+      options:
+      - One time order
+      - Ongoing order
+      required: false
+    - id: 22
+      name: order_frequency
+      label: Order Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - One-time
+      required: false
+    - id: 23
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

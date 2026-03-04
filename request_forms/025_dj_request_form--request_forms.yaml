@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: DJ Request Form
+    pages:
+    - id: 1
+      name: dance_type
+      label: Dance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Dance''}'
+      - '{''value'': ''Event''}'
+      - '{''value'': ''Party''}'
+      - '{''value'': ''Wedding''}'
+      required: false
+    - id: 2
+      name: song_type
+      label: Song Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Pop''}'
+      - '{''value'': ''Rock''}'
+      - '{''value'': ''Hip-Hop''}'
+      required: false
+    - id: 3
+      name: song_name
+      label: Song Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dj_name
+      label: DJ Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_ids
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool_id
+      label: Assigned Tool ID
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 16
+      name: output_file_id
+      label: Output File ID
+      hint: null
+      type: text
+      options: []
+      required: false

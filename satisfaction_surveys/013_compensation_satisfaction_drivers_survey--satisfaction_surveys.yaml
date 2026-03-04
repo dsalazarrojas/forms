@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Satisfaction Drivers Survey
+    pages:
+    - id: 1
+      name: header
+      label: -- Employee Satisfaction Survey --
+      hint: help us understand what drives compensation satisfaction
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: job role or title
+      hint: optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: overall satisfaction with compensation
+      hint: 1 low 5 high
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: most_valued_element
+      label: most valued element of compensation
+      hint: choose one
+      type: select_one
+      options:
+      - Salary
+      - Benefits
+      - Bonuses
+      - Work life balance
+      - Career development
+      required: true
+    - id: 5
+      name: improvement_priority
+      label: highest priority for improvement
+      hint: choose one
+      type: select_one
+      options:
+      - Increase salary
+      - Improve benefits
+      - More transparency
+      - More recognition
+      required: false
+    - id: 6
+      name: comments
+      label: comments on compensation
+      hint: optional open feedback
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: willing_to_consult
+      label: willing to speak with HR
+      hint: may be contacted if yes
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: submission_date
+      label: submission date
+      hint: date of response
+      type: date
+      options: []
+      required: true

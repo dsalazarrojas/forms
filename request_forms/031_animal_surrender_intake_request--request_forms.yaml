@@ -1,0 +1,309 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Surrender/Intake Request
+    pages:
+    - id: 1
+      name: section_owner_info
+      label: -- Current Owner Information --
+      hint: Information about the person surrendering the animal
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_name
+      label: Owner Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: owner_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: owner_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: owner_address
+      label: Street Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: owner_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: owner_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: owner_zip
+      label: Zip Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_animal_info
+      label: -- Animal Information --
+      hint: Details about the animal
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: animal_name
+      label: Animal Name
+      hint: Pet's name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: animal_type
+      label: Type of Animal
+      hint: Species
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Rabbit
+      - Bird
+      - Hamster
+      - Guinea Pig
+      - Reptile
+      - Other
+      required: true
+    - id: 12
+      name: animal_breed
+      label: Breed
+      hint: Breed or mixed breed
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: animal_age
+      label: Age
+      hint: Age in years or months
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: animal_weight
+      label: Weight
+      hint: Weight in pounds
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: animal_color
+      label: Color or Markings
+      hint: Physical description
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: animal_gender
+      label: Gender
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 17
+      name: section_socialization
+      label: -- Socialization and Behavior --
+      hint: How the animal behaves
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: good_with_dogs
+      label: Good with Other Dogs
+      hint: Behavior around other dogs
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      - Not Applicable
+      required: false
+    - id: 19
+      name: good_with_cats
+      label: Good with Cats
+      hint: Behavior around cats
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      - Not Applicable
+      required: false
+    - id: 20
+      name: good_with_children
+      label: Good with Children
+      hint: Behavior around kids
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      - Not Applicable
+      required: false
+    - id: 21
+      name: behavioral_notes
+      label: Behavioral Notes
+      hint: Description of personality and behavior
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: known_issues
+      label: Known Behavioral Issues
+      hint: Any aggression, anxiety, or problems
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: house_trained
+      label: House Trained
+      hint: For dogs and cats, are they house trained
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      - Not Applicable
+      required: false
+    - id: 24
+      name: section_health
+      label: -- Health Information --
+      hint: Medical history and current health
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: spay_neuter
+      label: Spayed or Neutered
+      hint: Whether the animal has been spayed or neutered
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 26
+      name: vaccinations_current
+      label: Vaccinations Current
+      hint: Are vaccinations up to date
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 27
+      name: medical_history
+      label: Medical History
+      hint: Any health conditions or past issues
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: current_medications
+      label: Current Medications
+      hint: Any medications the animal takes
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: allergies_food
+      label: Food Allergies or Sensitivities
+      hint: Any dietary restrictions
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: section_reason
+      label: -- Reason for Surrender --
+      hint: Why the animal is being surrendered
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: reason_for_surrender
+      label: Reason for Surrender
+      hint: Main reason
+      type: select_one
+      options:
+      - Moving
+      - Allergies
+      - Financial
+      - Behavior
+      - Time Constraints
+      - Illness
+      - Not a Good Fit
+      - Other
+      required: true
+    - id: 32
+      name: reason_details
+      label: Details About Reason
+      hint: Explain the situation
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: length_of_ownership
+      label: Length of Ownership
+      hint: How long you have owned the animal
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: previous_owners
+      label: Previous Owner Count
+      hint: Number of owners before you
+      type: number
+      options: []
+      required: false
+    - id: 35
+      name: section_request_details
+      label: -- Intake Request Details --
+      hint: Specific requests for the animal
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: requested_outcome
+      label: Preferred Outcome
+      hint: What you hope happens to the animal
+      type: select_one
+      options:
+      - Adoption
+      - Rescue Transfer
+      - Sanctuary
+      - Any Safe Outcome
+      - Other
+      required: false
+    - id: 37
+      name: special_notes
+      label: Special Notes or Instructions
+      hint: Important information to communicate
+      type: text
+      options: []
+      required: false

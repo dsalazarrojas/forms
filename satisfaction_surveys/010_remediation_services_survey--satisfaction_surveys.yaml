@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remediation Services Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Remediation Services Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Category 1''}'
+      - '{''id'': 2, ''label'': ''Category 2''}'
+      - '{''id'': 3, ''label'': ''Category 3''}'
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      - '{''id'': 4, ''label'': 4}'
+      - '{''id'': 5, ''label'': 5}'
+      required: true
+    - id: 5
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''label'': ''chatjane''}'
+      - '{''id'': 3, ''label'': ''chatjohn''}'
+      required: true
+    - id: 11
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: email_sent
+      label: Email Sent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 18
+      name: email_date
+      label: Email Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: email_time
+      label: Email Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: email_notes
+      label: Email Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: phone_sent
+      label: Phone Sent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 22
+      name: phone_date
+      label: Phone Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: phone_time
+      label: Phone Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: phone_notes
+      label: Phone Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''pending''}'
+      - '{''id'': 2, ''label'': ''completed''}'
+      - '{''id'': 3, ''label'': ''cancelled''}'
+      required: true

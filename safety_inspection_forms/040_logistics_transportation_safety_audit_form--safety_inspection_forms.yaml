@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Transportation Safety Audit Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: driver_name
+      label: driverName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_registration_number
+      label: vehicleRegistrationNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_make
+      label: vehicleMake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_model
+      label: vehicleModel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_year
+      label: vehicleYear
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: odometer_reading
+      label: odometerReading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: safety_equipment
+      label: safetyEquipment
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Extinguisher
+      - First Aid Kit
+      - Safety Vest
+      required: false
+    - id: 9
+      name: safety_equipment_status
+      label: safetyEquipmentStatus
+      hint: null
+      type: select_one
+      options:
+      - Working
+      - Not Working
+      - N/A
+      required: false
+    - id: 10
+      name: vehicle_condition
+      label: vehicleCondition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_location
+      label: vehicleLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_maintenance
+      label: vehicleMaintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: safety_incident
+      label: safetyIncident
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: safety_incident_detail
+      label: safetyIncidentDetail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_check_date
+      label: vehicleCheckDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_check_time
+      label: vehicleCheckTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_check_by
+      label: vehicleCheckBy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - Signature Required
+      - Not Required
+      required: false
+    - id: 20
+      name: email_address
+      label: emailAddress
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: phone_number
+      label: phoneNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: vehicle_status
+      label: vehicleStatus
+      hint: null
+      type: select_one
+      options:
+      - In Use
+      - Out of Use
+      - N/A
+      required: false
+    - id: 23
+      name: vehicle_make_year
+      label: vehicleMakeYear
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: vehicle_body_type
+      label: vehicleBodyType
+      hint: null
+      type: select_one
+      options:
+      - Truck
+      - Tractor
+      - N/A
+      required: false
+    - id: 25
+      name: vehicle_body_length
+      label: vehicleBodyLength
+      hint: null
+      type: number
+      options: []
+      required: false

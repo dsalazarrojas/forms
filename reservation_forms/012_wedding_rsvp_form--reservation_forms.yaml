@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding rsvp form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: Guest email
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - Guest attending
+      - Not attending
+      - Unable to RSVP
+      required: true
+    - id: 4
+      name: number_guests
+      label: Number of guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: special_requests
+      label: Special requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_method
+      label: RSVP method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In person
+      required: true
+    - id: 8
+      name: contact_method
+      label: Contact method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: Form ID
+      hint: Your reservation number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: contact_time
+      label: Contact time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: contact_date
+      label: Contact date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: contact_method_2
+      label: Contact method 2
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: contact_address
+      label: Contact address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_city
+      label: Contact city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_state
+      label: Contact state
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - NY
+      - NJ
+      required: false
+    - id: 23
+      name: contact_zip
+      label: Contact zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_country
+      label: Contact country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_comments
+      label: Contact comments
+      hint: null
+      type: text
+      options: []
+      required: false

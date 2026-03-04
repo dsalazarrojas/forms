@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Expansion Launch RSVP Form
+    pages:
+    - id: 1
+      name: rsvp_date
+      label: RSVP Date
+      hint: Date of RSVP submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Full name of primary guest
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: Email address for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Guest Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Company or organization name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: title
+      label: Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attendance_status
+      label: Attendance Status
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes - Will Attend
+      - No - Cannot Attend
+      - Maybe
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: Total number in your party
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: guest_names_list
+      label: Guest Names List
+      hint: Names of all guests attending
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: Select the event date you will attend
+      type: select_one
+      options:
+      - Opening Night - VIP Reception
+      - Public Opening Day
+      - Weekend Gala Event
+      - Closing Reception
+      required: true
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary restrictions or allergies
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 12
+      name: dietary_details
+      label: Dietary Details
+      hint: Please specify other dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Do you require any accessibility accommodations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Please describe accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: parking_needed
+      label: Parking Needed
+      hint: Will you need parking
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 16
+      name: transportation_method
+      label: Transportation Method
+      hint: How will you arrive at the event
+      type: select_one
+      options:
+      - Personal Vehicle
+      - Rideshare
+      - Public Transit
+      - Taxi
+      - Walking
+      required: false
+    - id: 17
+      name: hotel_accommodation
+      label: Hotel Accommodation
+      hint: Do you need hotel recommendations
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: interested_in
+      label: Interested In
+      hint: Select your areas of interest
+      type: select_multiple
+      options:
+      - New Gallery Tours
+      - Artist Meet and Greet
+      - Wine and Cheese Reception
+      - Live Music
+      - Art Demonstrations
+      - Silent Auction
+      - Networking
+      required: false
+    - id: 19
+      name: donation_interest
+      label: Donation Interest
+      hint: Are you interested in making a donation
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 20
+      name: membership_interest
+      label: Membership Interest
+      hint: Are you interested in gallery membership
+      type: select_one
+      options:
+      - true
+      - false
+      - Already a Member
+      required: false
+    - id: 21
+      name: how_heard
+      label: How Heard
+      hint: How did you hear about this event
+      type: select_one
+      options:
+      - Email Invitation
+      - Social Media
+      - Website
+      - Friend or Colleague
+      - Press or Media
+      - Other
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any questions or special requests
+      type: text
+      options: []
+      required: false

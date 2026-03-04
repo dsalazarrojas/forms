@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Exhibition Attendance Form
+    pages:
+    - id: 1
+      name: name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: visit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: visit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: rsvp
+      label: attending
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 71, ''label'': True}'
+      - '{''id'': 711, ''label'': False}'
+      required: false
+    - id: 8
+      name: event_details
+      label: event_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 81, ''label'': ''exhibition_info''}'
+      - '{''id'': 82, ''label'': ''exhibition_notes''}'
+      required: false
+    - id: 9
+      name: attendee_details
+      label: attendee_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: event_organizer
+      label: event_organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: exhibition_name
+      label: exhibition_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: event_time
+      label: event_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: event_date_range
+      label: event_date_range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: event_time_range
+      label: event_time_range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: event_details
+      label: event_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 161, ''label'': ''exhibition_details''}'
+      - '{''id'': 162, ''label'': ''exhibition_notes''}'
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Hotel Suite Reservation Form
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Enter guest name in format "First and Last Name"
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guest_phone
+      label: Guest Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Suite
+      required: false
+    - id: 6
+      name: room_count
+      label: Room Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: arrival_date
+      label: Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: departure_date
+      label: Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: guest_message
+      label: Guest Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Card
+      - Bank Transfer
+      required: false
+    - id: 11
+      name: reservation_status
+      label: Reservation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Confirmed
+      - Cancelled
+      required: false
+    - id: 12
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: payment_currency
+      label: Payment Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 14
+      name: guest_additional_info
+      label: Guest Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: suite_number
+      label: Suite Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: suite_type
+      label: Suite Type
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Luxurious
+      - Deluxe
+      required: false
+    - id: 18
+      name: suite_features
+      label: Suite Features
+      hint: null
+      type: select_multiple
+      options:
+      - Balcony
+      - Gym
+      - Pool
+      required: false
+    - id: 19
+      name: booking_source
+      label: Booking Source
+      hint: null
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      required: false
+    - id: 20
+      name: guest_country
+      label: Guest Country
+      hint: null
+      type: select_one
+      options:
+      - USA
+      - CAN
+      - MEX
+      required: false
+    - id: 21
+      name: guest_city
+      label: Guest City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: guest_postal_code
+      label: Guest Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: payment_time
+      label: Payment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: payment_total
+      label: Payment Total
+      hint: null
+      type: number
+      options: []
+      required: false

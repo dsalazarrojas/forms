@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salon Equipment Entry Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Equipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: main_page_1
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Hairdryer''}'
+      - '{''id'': 2, ''name'': ''Towel warmer''}'
+      - '{''id'': 3, ''name'': ''Hair trimmer''}'
+      required: true
+    - id: 3
+      name: main_page_1_1
+      label: Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: main_page_1_2
+      label: Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: main_page_1_3
+      label: Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''New''}'
+      - '{''id'': 2, ''name'': ''Old''}'
+      - '{''id'': 3, ''name'': ''Refurbished''}'
+      required: true
+    - id: 6
+      name: main_page_1_4
+      label: Serial number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: main_page_1_5
+      label: Last inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: main_page_1_6
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: main_page_1_7
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive''}'
+      - '{''id'': 3, ''name'': ''Sold''}'
+      required: true
+    - id: 10
+      name: main_page_1_8
+      label: Last updated
+      hint: null
+      type: time
+      options: []
+      required: false

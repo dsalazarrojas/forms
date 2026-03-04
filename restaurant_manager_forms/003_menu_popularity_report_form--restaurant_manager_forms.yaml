@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Popularity Report Form
+    pages:
+    - id: 1
+      name: restaurant_manager_forms
+      label: restaurant_manager_forms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Form 1: Menu Performance'
+      - 'Form 2: Menu Trend'
+      - 'Form 3: Menu Analysis'
+      required: false
+    - id: 2
+      name: restaurant_manager_forms_2
+      label: restaurant_manager_forms_2
+      hint: This form is for restaurants and multi-location teams
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: monthly_dish_performance
+      label: monthly_dish_performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: staff_insights
+      label: staff_insights
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: data_collection
+      label: data_collection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: compare_menu_trends
+      label: compare_menu_trends
+      hint: null
+      type: select_one
+      options:
+      - Form 1
+      - Form 2
+      - Form 3
+      required: false

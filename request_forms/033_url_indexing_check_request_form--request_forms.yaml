@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: URL Indexing Check Request Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Homepage''}'
+      - '{''text'': ''Blog''}'
+      - '{''text'': ''E-commerce''}'
+      required: true
+    - id: 6
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Low''}'
+      - '{''text'': ''Medium''}'
+      - '{''text'': ''High''}'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

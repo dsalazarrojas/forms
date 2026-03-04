@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claim_type
+      label: Claim type
+      hint: Select type of claim
+      type: select_one
+      options:
+      - Property
+      - Health
+      - Travel
+      - Other
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident date
+      hint: Date when event occurred
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_description
+      label: Incident description
+      hint: Provide details of the claim
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: amount_claimed
+      label: Amount claimed
+      hint: Enter amount if known
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: supporting_documents_note
+      label: Supporting documents note
+      hint: Upload receipts reports photos via portal
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact email
+      hint: For claim correspondence
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: declaration
+      label: Declaration
+      hint: Confirm accuracy of information
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

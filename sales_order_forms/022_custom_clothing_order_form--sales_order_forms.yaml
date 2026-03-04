@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Clothing Order Form
+    pages:
+    - id: 1
+      name: customer_info
+      label: customer_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shipping_address
+      label: shipping_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: order_date
+      label: order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: order_comments
+      label: order_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: shipping_method
+      label: shipping_method
+      hint: null
+      type: select_one
+      options:
+      - Shipping by Mail
+      - Shipping by Hand Delivery
+      - Local Pickup
+      required: true
+    - id: 9
+      name: shipping_cost
+      label: shipping_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: order_status
+      label: order_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Processing
+      - Delivered
+      - Cancelled
+      required: true
+    - id: 12
+      name: customer_gender
+      label: customer_gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 13
+      name: customer_age
+      label: customer_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: customer_height
+      label: customer_height
+      hint: null
+      type: number
+      options: []
+      required: false

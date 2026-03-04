@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Birthday Celebration RSVP
+    pages:
+    - id: 1
+      name: pet_owners_name
+      label: pet_owners_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: celebration_date
+      label: celebration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: celebration_time
+      label: celebration_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: attending_rsvp
+      label: attending_rsvp
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: food_preferences
+      label: food_preferences
+      hint: Select your favorite food options
+      type: select_multiple
+      options:
+      - Burgers
+      - Pizza
+      - Tacos
+      - Ice Cream
+      - Other
+      required: false
+    - id: 8
+      name: rsvp_message
+      label: rsvp_message
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reenlistment Request Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: military_service
+      label: Military Service
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: reenlistment_date
+      label: Reenlistment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: sign
+      label: Sign
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

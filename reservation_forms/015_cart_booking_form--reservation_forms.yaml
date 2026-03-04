@@ -1,0 +1,301 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cart Booking Form
+    pages:
+    - id: 1
+      name: booking_header
+      label: Cart Booking Request
+      hint: Reserve a cart for your needs
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: booking_reference
+      label: Booking Reference
+      hint: Confirmation number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: booking_date
+      label: Booking Date
+      hint: Date of reservation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_info
+      label: Customer Information
+      hint: Renter details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Email Address
+      hint: For booking confirmation
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: organization
+      label: Organization or Company
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: cart_type
+      label: Type of Cart Needed
+      hint: Select cart category
+      type: select_one
+      options:
+      - Golf cart
+      - Utility cart
+      - Luggage cart
+      - Shopping cart
+      - Service cart
+      - Maintenance cart
+      - Other
+      required: true
+    - id: 10
+      name: cart_quantity
+      label: Number of Carts Needed
+      hint: Quantity required
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: rental_purpose
+      label: Purpose of Rental
+      hint: What will you use carts for
+      type: select_one
+      options:
+      - Golf outing
+      - Event transportation
+      - Facility maintenance
+      - Guest services
+      - Commercial use
+      - Personal use
+      - Other
+      required: true
+    - id: 12
+      name: rental_details
+      label: Rental Details
+      hint: Timing information
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: pickup_date
+      label: Pickup Date
+      hint: When to collect
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: pickup_time
+      label: Pickup Time
+      hint: Preferred time
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: return_date
+      label: Return Date
+      hint: When to return
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: return_time
+      label: Return Time
+      hint: Preferred return time
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: rental_duration
+      label: Rental Duration
+      hint: Total rental period
+      type: select_one
+      options:
+      - Hourly
+      - Half day
+      - Full day
+      - Weekend
+      - Weekly
+      - Monthly
+      - Extended term
+      required: true
+    - id: 18
+      name: location_info
+      label: Location Information
+      hint: Where will carts be used
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: pickup_location
+      label: Pickup Location
+      hint: Collection point
+      type: select_one
+      options:
+      - Main facility
+      - North gate
+      - South gate
+      - Clubhouse
+      - Pro shop
+      - Delivery requested
+      - Other
+      required: true
+    - id: 20
+      name: usage_area
+      label: Primary Usage Area
+      hint: Where carts will operate
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: delivery_needed
+      label: Is Delivery Required
+      hint: Transport service
+      type: select_one
+      options:
+      - Yes - deliver to location
+      - No - will pick up
+      required: true
+    - id: 22
+      name: delivery_address
+      label: Delivery Address
+      hint: If delivery needed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cart_features
+      label: Required Cart Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Standard seating
+      - Enclosed cab
+      - Cargo bed
+      - Passenger seat
+      - Cup holders
+      - Storage compartment
+      - GPS enabled
+      - Electric powered
+      - Gas powered
+      - Other
+      required: false
+    - id: 24
+      name: accessories_needed
+      label: Accessories Needed
+      hint: Additional items
+      type: select_multiple
+      options:
+      - None
+      - Golf bag holders
+      - Cooler
+      - Umbrella holder
+      - Tow bar
+      - Cargo liner
+      - Weather enclosure
+      - Other
+      required: false
+    - id: 25
+      name: driver_requirements
+      label: Driver Requirements
+      hint: Operator qualifications
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: licensed_drivers
+      label: Number of Licensed Drivers
+      hint: Qualified operators
+      type: number
+      options: []
+      required: true
+    - id: 27
+      name: driver_age_minimum
+      label: All Drivers Meet Age Requirement
+      hint: Minimum age confirmation
+      type: select_one
+      options:
+      - Yes - all drivers 18 plus
+      - Yes - all drivers 21 plus
+      - No - underage drivers
+      required: true
+    - id: 28
+      name: insurance_info
+      label: Insurance Coverage
+      hint: Liability confirmation
+      type: select_one
+      options:
+      - Covered by facility insurance
+      - Personal insurance
+      - Event insurance
+      - Other coverage
+      required: true
+    - id: 29
+      name: payment_info
+      label: Payment Information
+      hint: Billing details
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Company account
+      - Invoice billing
+      required: true
+    - id: 31
+      name: deposit_paid
+      label: Security Deposit
+      hint: Deposit requirement
+      type: select_one
+      options:
+      - Yes - included
+      - Will pay at pickup
+      - Waived - account holder
+      required: true
+    - id: 32
+      name: special_requests
+      label: Special Requests or Instructions
+      hint: Any additional needs
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: terms_accepted
+      label: I Accept Terms and Conditions
+      hint: Agreement to rental terms
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true

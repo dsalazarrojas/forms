@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Lock Removal Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: request_id
+      label: Request ID
+      hint: Auto-generated reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requester_name
+      label: Requester name
+      hint: Person requesting lock removal
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_role
+      label: Requester role
+      hint: Your position or relationship to device
+      type: select_one
+      options:
+      - Device owner
+      - Authorized representative
+      - Administrator
+      - IT support
+      - Other
+      required: true
+    - id: 7
+      name: device_type
+      label: Device type
+      hint: What device has the app lock
+      type: select_one
+      options:
+      - iPhone
+      - iPad
+      - Android phone
+      - Android tablet
+      - Other
+      required: true
+    - id: 8
+      name: device_model
+      label: Device model
+      hint: Specific model or version
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: device_serial
+      label: Device serial number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: app_name
+      label: App with lock to be removed
+      hint: Name of the locked app
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: lock_type
+      label: Type of app lock
+      hint: null
+      type: select_one
+      options:
+      - Activation lock
+      - Screen lock
+      - App password
+      - Biometric lock
+      - MDM enrollment lock
+      - Other
+      required: true
+    - id: 12
+      name: lock_reason
+      label: Reason for lock removal request
+      hint: Why lock needs to be removed
+      type: select_one
+      options:
+      - Device ownership change
+      - Forgotten password or credentials
+      - Device transfer
+      - Device repair
+      - Software update
+      - Account recovery
+      - Other
+      required: true
+    - id: 13
+      name: lock_reason_details
+      label: Additional details about reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: device_ownership_proof
+      label: Proof of device ownership
+      hint: Method of verification
+      type: select_one
+      options:
+      - Original receipt or invoice
+      - Apple ID or Google account
+      - Device IMEI verification
+      - Account information
+      - Other documentation
+      required: true
+    - id: 15
+      name: supporting_documentation
+      label: Supporting documentation provided
+      hint: null
+      type: select_one
+      options:
+      - Yes, attached
+      - Will provide
+      - No documentation
+      required: true
+    - id: 16
+      name: device_last_sync
+      label: Last known device synchronization
+      hint: When device was last synced
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: previous_lock_removal_attempts
+      label: Previous lock removal attempts
+      hint: null
+      type: select_one
+      options:
+      - No previous attempts
+      - One previous attempt
+      - Multiple previous attempts
+      - Unknown
+      required: true
+    - id: 18
+      name: authorization_confirmation
+      label: I confirm I am authorized to request this removal
+      hint: null
+      type: select_one
+      options:
+      - Yes, I am authorized
+      - No, I am not authorized
+      required: true
+    - id: 19
+      name: identification_method
+      label: Preferred identification verification method
+      hint: null
+      type: select_one
+      options:
+      - Video verification
+      - Photo ID upload
+      - Knowledge questions
+      - Email verification
+      - Phone verification
+      required: true
+    - id: 20
+      name: additional_information
+      label: Additional information or notes
+      hint: null
+      type: text
+      options: []
+      required: false

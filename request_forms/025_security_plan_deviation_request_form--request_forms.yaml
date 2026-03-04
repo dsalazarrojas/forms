@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_plan_deviation_request_form
+    pages:
+    - id: 1
+      name: risk_context
+      label: Risk Context
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: route_requesters
+      label: Route Requesters
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''IT''}'
+      - '{''label'': ''Operations''}'
+      - '{''label'': ''Both''}'
+      required: true
+    - id: 3
+      name: reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''IT''}'
+      - '{''label'': ''Operations''}'
+      - '{''label'': ''Both''}'
+      required: true
+    - id: 4
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: security_plan
+      label: Security Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: deviation_date
+      label: Deviation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

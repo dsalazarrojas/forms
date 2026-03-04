@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seminar RSVP
+    pages:
+    - id: 1
+      name: seminar_rsvp_status
+      label: Is attending seminar
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 2
+      name: attending_number
+      label: Number attending
+      hint: Enter number of attendees
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: Contact information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

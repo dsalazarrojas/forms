@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Catering Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: food_quality
+      label: food_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Food Quality''}'
+      - '{''id'': ''Food Variety''}'
+      - '{''id'': ''Food Presentation''}'
+      - '{''id'': ''Food Taste''}'
+      - '{''id'': ''Food Value''}'
+      required: true
+    - id: 3
+      name: beverages_quality
+      label: beverages_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Beverages Variety''}'
+      - '{''id'': ''Beverages Availability''}'
+      - '{''id'': ''Beverages Quality''}'
+      - '{''id'': ''Beverages Value''}'
+      required: true
+    - id: 4
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''Service Friendliness''}'
+      - '{''id'': ''Service Efficiency''}'
+      - '{''id'': ''Service Quality''}'
+      - '{''id'': ''Service Value''}'
+      required: true
+    - id: 5
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''Very Satisfied''}'
+      - '{''id'': ''Somewhat Satisfied''}'
+      - '{''id'': ''Neutral''}'
+      - '{''id'': ''Somewhat Dissatisfied''}'
+      - '{''id'': ''Very Dissatisfied''}'
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''No Phone Number''}'
+      - '{''id'': ''Phone Number''}'
+      required: true

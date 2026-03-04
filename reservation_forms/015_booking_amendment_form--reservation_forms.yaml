@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booking Amendment Form
+    pages:
+    - id: 1
+      name: booking_reference
+      label: Booking Reference Number
+      hint: Your original booking reference
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Name on the original booking
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_email
+      label: Email Address
+      hint: Email associated with the booking
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: guest_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: original_checkin_date
+      label: Original Check-in Date
+      hint: Current booking check-in date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: original_checkout_date
+      label: Original Check-out Date
+      hint: Current booking check-out date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: amendment_type
+      label: What would you like to change
+      hint: Type of amendment needed
+      type: select_one
+      options:
+      - Change dates
+      - Change room type
+      - Change number of guests
+      - Cancel booking
+      - Add services
+      - Other
+      required: true
+    - id: 8
+      name: new_checkin_date
+      label: New Check-in Date
+      hint: If changing dates
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: new_checkout_date
+      label: New Check-out Date
+      hint: If changing dates
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: new_number_of_guests
+      label: New Number of Guests
+      hint: If changing guest count
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: new_room_type
+      label: New Room Type
+      hint: If changing room
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Twin
+      - Suite
+      - Deluxe
+      - Standard
+      - Other
+      required: false
+    - id: 12
+      name: additional_services
+      label: Additional Services Needed
+      hint: Select any services to add
+      type: select_multiple
+      options:
+      - Breakfast
+      - Spa treatment
+      - Airport transfer
+      - Late checkout
+      - Room upgrade
+      - Parking
+      - Other
+      required: false
+    - id: 13
+      name: reason_for_amendment
+      label: Reason for Amendment
+      hint: Why are you making this change
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_requests
+      label: Special Requests
+      hint: Any special instructions or notes
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      required: true

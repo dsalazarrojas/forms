@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm System Monthly Check
+    pages:
+    - id: 1
+      name: monthly_check_page
+      label: Monthly Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_status
+      label: System Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Working''}'
+      - '{''id'': 2, ''label'': ''Not Working''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 3
+      name: system_tested_page
+      label: System Tested
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 4
+      name: system_tested_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fire_alarm_tested
+      label: Fire Alarm
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: fire_alarm_tested_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: battery_status_page
+      label: Battery Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 8
+      name: battery_capacity_page
+      label: Battery Capacity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: true
+    - id: 9
+      name: inspection_frequency_page
+      label: Inspection Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Monthly''}'
+      - '{''id'': 2, ''label'': ''Bi-Monthly''}'
+      - '{''id'': 3, ''label'': ''Quarterly''}'
+      required: true
+    - id: 10
+      name: inspection_next_scheduled
+      label: Inspection Next Scheduled
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: inspection_next_scheduled_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: last_tested_page
+      label: Last Tested
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 1}'
+      - '{''id'': 2, ''label'': 2}'
+      - '{''id'': 3, ''label'': 3}'
+      required: true
+    - id: 13
+      name: last_tested_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: technician_name
+      label: Technician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: technician_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature_page
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: building
+      label: Building
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: action_plan_implementation
+      label: Implementation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: next_action_page
+      label: Next Action
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''None''}'
+      - '{''id'': 2, ''label'': ''Scheduled''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      required: true

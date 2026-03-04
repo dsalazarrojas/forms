@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: easter_treats_order_form
+    pages:
+    - id: 1
+      name: easter_treats_order_form
+      label: Easter Treats Order Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: easter_treats_egg
+      label: Easter Egg
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: easter_treats_flavor
+      label: Easter Treat Flavors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: easter_treats_price
+      label: Easter Treat Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: easter_treats_description
+      label: Easter Treat Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: easter_treats_image
+      label: Easter Treat Image
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: easter_treats_price_subtotal
+      label: Easter Treat Price Subtotal
+      hint: null
+      type: text
+      options: []
+      required: false

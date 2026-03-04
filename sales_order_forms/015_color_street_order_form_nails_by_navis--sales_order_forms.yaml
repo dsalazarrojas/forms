@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Order Form - Nails By Navis
+    pages:
+    - id: 1
+      name: section_navis_preorder
+      label: -- Nails By Navis - Pre-Order and Stock Form --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: navis_customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: navis_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: navis_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: navis_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_navis_selection
+      label: -- Polish Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: navis_set_names
+      label: Name of Sets you want to pre-order or buy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: navis_total_sets
+      label: Total Number of Sets
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: navis_sample_request
+      label: Do you need a sample (twosie) sent?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: section_navis_checkout
+      label: -- Payment and Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: navis_payment_type
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Venmo
+      - PayPal
+      - Cash (Local)
+      required: true
+    - id: 12
+      name: navis_payment_username
+      label: Payment Username/ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: navis_delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Standard Shipping ($4.00)
+      - Priority Shipping ($8.00)
+      - Porch Pick-up (Free)
+      required: true
+    - id: 14
+      name: navis_hostess_name
+      label: If this is for a party, who is the hostess?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: navis_notes
+      label: Anything else for Navis?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: demo_submission_form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: demo_interest
+      label: What interests you about this service?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: preferred_time
+      label: Preferred time for the demo
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_date
+      label: Preferred date for the demo
+      hint: null
+      type: date
+      options: []
+      required: false

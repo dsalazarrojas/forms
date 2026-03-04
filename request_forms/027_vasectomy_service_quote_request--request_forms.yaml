@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: vasectomy_service_quote_request
+    pages:
+    - id: 1
+      name: request_information
+      label: Request Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''SMS''}'
+      required: false
+    - id: 3
+      name: inquiry_details
+      label: Inquiry Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: quote_request
+      label: Quote Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Fair Exhibitor RSVP Form
+    pages:
+    - id: 1
+      name: exhibitor_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: We will send event details here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: For event coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_name
+      label: Organization or Business Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: Select your organization type
+      type: select_one
+      options:
+      - Publisher
+      - Bookstore
+      - Author
+      - Illustrator
+      - Library
+      - School
+      - Nonprofit
+      - Vendor
+      - Other
+      required: true
+    - id: 6
+      name: website
+      label: Website URL
+      hint: Your website address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Your main social media handle
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fair_date
+      label: Book Fair Date
+      hint: Select the fair date
+      type: select_one
+      options:
+      - March 21-22 2026
+      - April 18-19 2026
+      - May 16-17 2026
+      - June 20-21 2026
+      required: true
+    - id: 9
+      name: rsvp_status
+      label: RSVP Status
+      hint: Will you be exhibiting
+      type: select_one
+      options:
+      - Yes Attending
+      - No Cannot Attend
+      - Maybe Tentative
+      required: true
+    - id: 10
+      name: booth_size
+      label: Preferred Booth Size
+      hint: Select your booth size
+      type: select_one
+      options:
+      - Small Table 6ft
+      - Medium Booth 10x10 ft
+      - Large Booth 10x20 ft
+      - Extra Large 20x20 ft
+      - No Booth Needed
+      required: true
+    - id: 11
+      name: booth_location_preference
+      label: Booth Location Preference
+      hint: Any location preference
+      type: select_one
+      options:
+      - No Preference
+      - Near Entrance
+      - High Traffic Area
+      - Quiet Corner
+      - Near Food Area
+      - Near Stage
+      required: false
+    - id: 12
+      name: electricity_needed
+      label: Do You Need Electricity
+      hint: Select if you need power
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      - Would Be Nice
+      required: true
+    - id: 13
+      name: table_chairs_needed
+      label: Table and Chairs Needed
+      hint: Select if provided by organizer
+      type: select_one
+      options:
+      - Yes Please Provide
+      - No I Will Bring
+      - Table Only
+      - Chairs Only
+      required: true
+    - id: 14
+      name: display_materials
+      label: Display Materials
+      hint: What will you be displaying
+      type: select_multiple
+      options:
+      - Books for Sale
+      - Books for Display
+      - Promotional Materials
+      - Digital Presentations
+      - Interactive Displays
+      - Signage
+      required: false
+    - id: 15
+      name: number_of_representatives
+      label: Number of Representatives
+      hint: How many people will staff your booth
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: representative_names
+      label: Names of Representatives
+      hint: List all staff names
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: setup_time_needed
+      label: Setup Time Needed
+      hint: When do you need to setup
+      type: select_one
+      options:
+      - Day Before Event
+      - Early Morning Same Day
+      - Standard Setup Time
+      - Minimal Setup
+      required: true
+    - id: 18
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participating_in_activities
+      label: Participating in Activities
+      hint: Select activities you will join
+      type: select_multiple
+      options:
+      - Author Readings
+      - Panel Discussions
+      - Book Signings
+      - Workshops
+      - Networking Events
+      - None
+      required: false
+    - id: 20
+      name: sponsorship_interest
+      label: Interested in Sponsoring
+      hint: Would you like to sponsor the event
+      type: select_one
+      options:
+      - Yes Please Send Info
+      - Maybe
+      - No Thanks
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method for Booth Fee
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - Invoice Requested
+      required: false
+    - id: 22
+      name: dietary_requirements
+      label: Dietary Requirements
+      hint: For provided refreshments
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - None
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: terms_agreement
+      label: I Agree to Exhibitor Terms
+      hint: By selecting yes you agree to all terms
+      type: select_one
+      options:
+      - Yes I agree
+      - No I do not agree
+      required: true
+    - id: 25
+      name: rsvp_date
+      label: RSVP Date
+      hint: Date of this RSVP
+      type: date
+      options: []
+      required: true

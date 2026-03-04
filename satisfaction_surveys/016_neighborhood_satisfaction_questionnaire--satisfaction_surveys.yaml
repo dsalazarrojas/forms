@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Neighborhood Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: neighborhood_satisfaction
+      label: Neighborhood Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: cleanliness
+      label: cleanliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: amenities
+      label: amenities
+      hint: null
+      type: select_multiple
+      options:
+      - Parks
+      - Community Events
+      - Public Restrooms
+      - Security
+      required: false
+    - id: 5
+      name: safety
+      label: safety
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 7
+      name: engagement
+      label: engagement
+      hint: null
+      type: select_multiple
+      options:
+      - Very Engaged
+      - Somewhat Engaged
+      - Not Engaged
+      required: false
+    - id: 8
+      name: community_feeling
+      label: community_feeling
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: community_involvement
+      label: community_involvement
+      hint: null
+      type: select_multiple
+      options:
+      - Very Involved
+      - Somewhat Involved
+      - Not Involved
+      required: false
+    - id: 10
+      name: neighborhood_satisfaction_score
+      label: neighborhood_satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

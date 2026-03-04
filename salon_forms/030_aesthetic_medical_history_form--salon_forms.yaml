@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aesthetic Medical History Form
+    pages:
+    - id: 1
+      name: patient_info_header
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: medical_history_header
+      label: -- Medical History --
+      hint: Please answer truthfully for your safety.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: current_medications
+      label: Current Medications
+      hint: List all prescription and over-the-counter drugs.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: List any drug or latex allergies.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pregnancy_status
+      label: Are you pregnant or breastfeeding?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 9
+      name: skin_conditions
+      label: Skin Conditions
+      hint: Do you have any of the following?
+      type: select_multiple
+      options:
+      - Eczema
+      - Psoriasis
+      - Active Acne
+      - Cold Sores / Herpes Simplex
+      - Rosacea
+      - Keloid Scarring
+      - None
+      required: true
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Diabetes
+      - Heart Condition
+      - Autoimmune Disease
+      - Bleeding Disorder
+      - Hepatitis
+      - HIV / AIDS
+      - Epilepsy
+      required: false
+    - id: 11
+      name: previous_treatments_header
+      label: -- Aesthetic History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: previous_procedures
+      label: Previous Aesthetic Procedures
+      hint: Have you had any of these before?
+      type: select_multiple
+      options:
+      - Botox / Neuromodulators
+      - Dermal Fillers
+      - Chemical Peels
+      - Laser Treatments
+      - Microneedling
+      - Plastic Surgery
+      required: false
+    - id: 13
+      name: reaction_history
+      label: History of Adverse Reactions
+      hint: Have you ever had a bad reaction to a treatment?
+      type: select_one
+      options:
+      - false
+      - Yes (Please describe)
+      required: true
+    - id: 14
+      name: consent_header
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accuracy_confirmation
+      label: Confirmation of Accuracy
+      hint: I confirm the above information is true and complete.
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 16
+      name: signature_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

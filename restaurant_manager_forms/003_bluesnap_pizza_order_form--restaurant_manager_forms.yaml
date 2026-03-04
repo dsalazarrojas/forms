@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: BlueSnap Pizza Order Form
+    pages:
+    - id: 1
+      name: order_type
+      label: Order Type
+      hint: How would you like to receive your order?
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      - Dine-In
+      required: true
+    - id: 2
+      name: pizza_size
+      label: Pizza Size
+      hint: Select your preferred size
+      type: select_one
+      options:
+      - Small (10 inch)
+      - Medium (12 inch)
+      - Large (14 inch)
+      - Extra Large (16 inch)
+      required: true
+    - id: 3
+      name: crust_type
+      label: Crust Type
+      hint: Choose your crust preference
+      type: select_one
+      options:
+      - Hand Tossed
+      - Thin Crust
+      - Thick Crust
+      - Stuffed Crust
+      - Gluten-Free
+      required: true
+    - id: 4
+      name: pizza_style
+      label: Pizza Style
+      hint: Select a style or build your own
+      type: select_one
+      options:
+      - Cheese Only
+      - Pepperoni
+      - Margherita
+      - Hawaiian
+      - Meat Lovers
+      - Veggie Deluxe
+      - Build Your Own
+      required: true
+    - id: 5
+      name: additional_toppings
+      label: Additional Toppings
+      hint: Add extra toppings to your pizza
+      type: select_multiple
+      options:
+      - Extra Cheese
+      - Mushrooms
+      - Onions
+      - Bell Peppers
+      - Sausage
+      - Bacon
+      - Black Olives
+      - Spinach
+      - Tomatoes
+      - Jalapenos
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: How many pizzas would you like?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: add_side_items
+      label: Add Side Items
+      hint: Would you like to add sides to your order?
+      type: select_multiple
+      options:
+      - Garlic Bread
+      - Chicken Wings
+      - Mozzarella Sticks
+      - Caesar Salad
+      - Garden Salad
+      - Breadsticks
+      - None
+      required: false
+    - id: 8
+      name: add_beverages
+      label: Add Beverages
+      hint: Would you like to add drinks?
+      type: select_multiple
+      options:
+      - Coca-Cola
+      - Sprite
+      - Fanta
+      - Diet Coke
+      - Bottled Water
+      - Iced Tea
+      - None
+      required: false
+    - id: 9
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: For order confirmation and delivery updates
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email Address
+      hint: For order receipt
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: delivery_address
+      label: Delivery Address
+      hint: Full street address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_instructions
+      label: Delivery Instructions
+      hint: Gate codes, building numbers, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: special_requests
+      label: Special Requests
+      hint: Any allergies or special instructions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - PayPal
+      - Cash on Delivery
+      - Cash on Pickup
+      required: true
+    - id: 16
+      name: card_number
+      label: Card Number
+      hint: Enter your card details
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tip_amount
+      label: Tip Amount
+      hint: Show appreciation for our staff
+      type: select_one
+      options:
+      - No Tip
+      - $2
+      - $5
+      - $10
+      - 15%
+      - 20%
+      - Custom Amount
+      required: false
+    - id: 18
+      name: promo_code
+      label: Promo Code
+      hint: Enter if you have a discount code
+      type: text
+      options: []
+      required: false

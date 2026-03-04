@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Road Sign Placement Application Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: road_sign_type
+      label: Road Sign Type
+      hint: null
+      type: select_one
+      options:
+      - Bollard
+      - Guidepost
+      - Traffic Island
+      - Other
+      required: false
+    - id: 3
+      name: request_location
+      label: Request Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location_name
+      label: Location Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location_details
+      label: Location Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: road_name
+      label: Road Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: road_number
+      label: Road Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: street_directions
+      label: Street Directions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: landmark_or_reference_point
+      label: Landmark or Reference Point
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: location_map
+      label: Location Map
+      hint: null
+      type: select_multiple
+      options:
+      - Google Maps
+      - Google Street View
+      required: false
+    - id: 11
+      name: requestor_info
+      label: Requestor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submitter_signature
+      label: Submitter's Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submitter_date
+      label: Submitter's Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: submitter_name
+      label: Submitter's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitter_contact
+      label: Submitter's Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_title
+      label: Submitter's Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_email
+      label: Submitter's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: submitter_phone
+      label: Submitter's Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submitter_address
+      label: Submitter's Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitter_organization
+      label: Submitter's Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitter_message
+      label: Submitter's Message
+      hint: null
+      type: note
+      options: []
+      required: false

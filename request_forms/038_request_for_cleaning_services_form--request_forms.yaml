@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Cleaning Services Form
+    pages:
+    - id: 1
+      name: request_for_cleaning_services_form
+      label: Request for cleaning services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Cleaning
+      - Laundry
+      - Ironing
+      required: true
+    - id: 4
+      name: date_of_service
+      label: Date of service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_service
+      label: Time of service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true

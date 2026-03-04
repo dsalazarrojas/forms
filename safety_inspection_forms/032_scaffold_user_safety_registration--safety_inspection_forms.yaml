@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scaffold User Safety Registration
+    pages:
+    - id: 1
+      name: scaffolddetails
+      label: scaffold details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: userconfirm
+      label: user confirm
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''confirmed''}'
+      - '{''id'': 2, ''label'': ''not confirmed''}'
+      required: false
+    - id: 6
+      name: safetystatus
+      label: safety status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''confirmed''}'
+      - '{''id'': 2, ''label'': ''not confirmed''}'
+      - '{''id'': 3, ''label'': ''unknown''}'
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

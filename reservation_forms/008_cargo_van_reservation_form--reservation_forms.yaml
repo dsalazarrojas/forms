@@ -1,0 +1,292 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cargo Van Reservation Form
+    pages:
+    - id: 1
+      name: reservation_header
+      label: Cargo Van Reservation Request
+      hint: Complete all fields to reserve a cargo van
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reservation_number
+      label: Reservation Number
+      hint: Confirmation number if modifying
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reservation_date
+      label: Reservation Date
+      hint: Date of booking
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_info
+      label: Customer Information
+      hint: Primary renter details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: customer_name
+      label: Full Name
+      hint: Legal name of renter
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: Email Address
+      hint: For reservation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: customer_phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: customer_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: customer_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must meet minimum age requirement
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: driver_license
+      label: Driver License Information
+      hint: Valid license required
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: license_number
+      label: Driver License Number
+      hint: License number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: license_state
+      label: License State or Province
+      hint: Issuing state
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: license_expiry
+      label: License Expiration Date
+      hint: Must be current
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: rental_details
+      label: Rental Details
+      hint: Reservation specifics
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: pickup_location
+      label: Pickup Location
+      hint: Where to collect van
+      type: select_one
+      options:
+      - Main branch
+      - Airport location
+      - Downtown branch
+      - North side branch
+      - South side branch
+      - Other location
+      required: true
+    - id: 19
+      name: pickup_date
+      label: Pickup Date
+      hint: When to collect van
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: pickup_time
+      label: Pickup Time
+      hint: Preferred time
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: return_location
+      label: Return Location
+      hint: Where to return van
+      type: select_one
+      options:
+      - Same as pickup
+      - Main branch
+      - Airport location
+      - Downtown branch
+      - North side branch
+      - South side branch
+      - Other location
+      required: true
+    - id: 22
+      name: return_date
+      label: Return Date
+      hint: When to return van
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: return_time
+      label: Return Time
+      hint: Preferred return time
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: van_type
+      label: Van Type Needed
+      hint: Select vehicle size
+      type: select_one
+      options:
+      - Compact cargo van
+      - Standard cargo van
+      - High roof cargo van
+      - Extended cargo van
+      - Refrigerated van
+      required: true
+    - id: 25
+      name: rental_purpose
+      label: Purpose of Rental
+      hint: What will you transport
+      type: select_one
+      options:
+      - Business delivery
+      - Personal moving
+      - Equipment transport
+      - Event setup
+      - Commercial use
+      - Other
+      required: true
+    - id: 26
+      name: additional_drivers
+      label: Will There Be Additional Drivers
+      hint: Other authorized drivers
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: additional_driver_names
+      label: Additional Driver Names
+      hint: List all additional drivers
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: insurance_info
+      label: Insurance Information
+      hint: Coverage details
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: insurance_type
+      label: Insurance Coverage Type
+      hint: Select coverage option
+      type: select_one
+      options:
+      - Use personal insurance
+      - Purchase rental insurance
+      - Use company insurance
+      - Use credit card coverage
+      required: true
+    - id: 30
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: policy_number
+      label: Policy Number
+      hint: Insurance policy number
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_services
+      label: Additional Services
+      hint: Optional add-ons
+      type: select_multiple
+      options:
+      - GPS navigation
+      - Moving blankets
+      - Hand truck or dolly
+      - Cargo straps
+      - Additional insurance
+      - Fuel service option
+      - Roadside assistance plus
+      - None needed
+      required: false
+    - id: 33
+      name: payment_info
+      label: Payment Information
+      hint: Billing method
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Company account
+      - Cash deposit
+      required: true
+    - id: 35
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any additional needs
+      type: text
+      options: []
+      required: false

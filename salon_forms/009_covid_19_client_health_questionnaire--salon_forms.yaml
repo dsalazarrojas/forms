@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Client Health Questionnaire
+    pages:
+    - id: 1
+      name: client_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Being Requested
+      hint: null
+      type: select_one
+      options:
+      - Hair Cut
+      - Hair Color
+      - Styling
+      - Salon Spa
+      - Nails
+      - Other
+      required: true
+    - id: 7
+      name: health_section
+      label: -- Health Screening --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: current_symptoms
+      label: Current COVID-19 symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Shortness of Breath
+      - Fatigue
+      - No Symptoms
+      required: true
+    - id: 9
+      name: has_fever
+      label: Temperature above 100.4F in past 24 hours
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: recent_exposure
+      label: Exposed to someone with COVID-19 in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 11
+      name: positive_test
+      label: Tested positive for COVID-19 in past 10 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      required: true
+    - id: 13
+      name: immune_conditions
+      label: Immunocompromised or underlying health conditions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: condition_details
+      label: Describe health conditions if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: wellness_confirmation
+      label: Confirm you are healthy to receive services
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Am Healthy
+      - No, I Am Not Healthy
+      required: true
+    - id: 16
+      name: agreement
+      label: I understand and agree to all COVID-19 safety protocols
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

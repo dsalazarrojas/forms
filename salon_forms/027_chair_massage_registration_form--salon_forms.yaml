@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chair Massage Registration Form
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of massage registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: Full name of client
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Email for confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Client date of birth
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: preferred_therapist
+      label: Preferred Therapist
+      hint: Do you have a preferred massage therapist
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: appointment_date
+      label: Preferred Appointment Date
+      hint: When would you like your appointment
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: appointment_time
+      label: Preferred Appointment Time
+      hint: Preferred time slot
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: massage_duration
+      label: Massage Duration
+      hint: How long would you like your session
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      required: true
+    - id: 10
+      name: massage_type
+      label: Massage Type
+      hint: Type of chair massage
+      type: select_one
+      options:
+      - Relaxation massage
+      - Deep tissue
+      - Sports massage
+      - Stress relief
+      - Neck and shoulder focus
+      - Back focus
+      - Full chair massage
+      required: true
+    - id: 11
+      name: pressure_preference
+      label: Pressure Preference
+      hint: Preferred pressure level
+      type: select_one
+      options:
+      - Light pressure
+      - Medium pressure
+      - Firm pressure
+      - Deep pressure
+      - Variable pressure
+      required: true
+    - id: 12
+      name: first_time_client
+      label: First Time Client
+      hint: Is this your first chair massage with us
+      type: select_one
+      options:
+      - Yes - First time
+      - No - Returning client
+      required: true
+    - id: 13
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Do you have any medical conditions we should know about
+      type: select_one
+      options:
+      - No medical conditions
+      - Yes - Will specify in comments
+      required: true
+    - id: 14
+      name: current_injuries
+      label: Current Injuries or Pain Areas
+      hint: Are you experiencing any current pain or injuries
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: Are you currently pregnant
+      type: select_one
+      options:
+      - false
+      - Yes - First trimester
+      - Yes - Second trimester
+      - Yes - Third trimester
+      - Prefer not to say
+      required: false
+    - id: 16
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Online search
+      - Social media
+      - Friend or family
+      - Workplace event
+      - Advertisement
+      - Previous client
+      - Other
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests or accommodations
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Cash
+      - Insurance
+      - Employer sponsored
+      required: true
+    - id: 19
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: I understand the cancellation policy
+      type: select_one
+      options:
+      - Yes - I understand
+      - No - I do not understand
+      required: true
+    - id: 20
+      name: client_signature
+      label: Client Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_date
+      label: Signature Date
+      hint: Date of registration
+      type: date
+      options: []
+      required: true

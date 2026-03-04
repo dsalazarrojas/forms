@@ -1,0 +1,376 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Medical Record Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: medical_record_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - Request Forms
+      - Patient Information
+      - Insurance Information
+      required: false
+    - id: 3
+      name: description
+      label: form_description
+      hint: A form template designed to enable patients to request their medical records
+        from one healthcare provider or facility to another.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_category_label
+      label: category_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_category_placeholder
+      label: category_placeholder
+      hint: Select the category of information to request
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_dob
+      label: patient_dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_city
+      label: facility_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_state
+      label: facility_state
+      hint: null
+      type: select_one
+      options:
+      - CA
+      - TX
+      - NY
+      - FL
+      required: false
+    - id: 12
+      name: facility_zip
+      label: facility_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: patient_signature
+      label: patient_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: healthcare_provider_name
+      label: healthcare_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: healthcare_provider_name_label
+      label: healthcare_provider_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: healthcare_provider_name_placeholder
+      label: healthcare_provider_name_placeholder
+      hint: Enter the name of the healthcare provider
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: healthcare_provider_signature
+      label: healthcare_provider_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: healthcare_facility
+      label: healthcare_facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: healthcare_facility_label
+      label: healthcare_facility_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: healthcare_facility_placeholder
+      label: healthcare_facility_placeholder
+      hint: Enter the healthcare facility name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date_requested
+      label: date_requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: date_received
+      label: date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_verified
+      label: date_verified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - Release
+      - Copy
+      required: false
+    - id: 25
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: patient_name_label
+      label: patient_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: patient_name_placeholder
+      label: patient_name_placeholder
+      hint: Enter the name of the patient
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: patient_dob_label
+      label: patient_dob_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: patient_dob_placeholder
+      label: patient_dob_placeholder
+      hint: Enter the date of birth of the patient
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: facility_name_label
+      label: facility_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: facility_name_placeholder
+      label: facility_name_placeholder
+      hint: Enter the name of the facility
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: facility_address_label
+      label: facility_address_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: facility_address_placeholder
+      label: facility_address_placeholder
+      hint: Enter the address of the facility
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: facility_city_label
+      label: facility_city_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: facility_city_placeholder
+      label: facility_city_placeholder
+      hint: Enter the city of the facility
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: facility_state_label
+      label: facility_state_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: facility_state_label2
+      label: facility_state_label2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: facility_state_placeholder
+      label: facility_state_placeholder
+      hint: Enter the state of the facility
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: facility_zip_label
+      label: facility_zip_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: facility_zip_placeholder
+      label: facility_zip_placeholder
+      hint: Enter the zip of the facility
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: patient_signature_label
+      label: patient_signature_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: patient_signature_placeholder
+      label: patient_signature_placeholder
+      hint: Enter the signature of the patient
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: date_requested_label
+      label: date_requested_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: date_requested_placeholder
+      label: date_requested_placeholder
+      hint: Enter the date requested
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: date_received_label
+      label: date_received_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: date_received_placeholder
+      label: date_received_placeholder
+      hint: Enter the date received
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: date_verified_label
+      label: date_verified_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: date_verified_placeholder
+      label: date_verified_placeholder
+      hint: Enter the date verified
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: reason_for_request_label
+      label: reason_for_request_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: reason_for_request_placeholder
+      label: reason_for_request_placeholder
+      hint: Enter the reason for requesting medical record release.
+      type: text
+      options: []
+      required: false

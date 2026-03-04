@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Fee Clarification Request Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer and Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: The account where the fee was charged
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: fee_details_header
+      label: -- Fee Details --
+      hint: Please provide the exact details from your bank statement
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: fee_date
+      label: Date of Fee Charge
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: fee_amount
+      label: Exact Fee Amount
+      hint: e.g., 35.00
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: fee_description_statement
+      label: Fee Description on Statement
+      hint: e.g., OVERDRAFT FEE, MONTHLY SERVICE CHG
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: inquiry_type_header
+      label: -- Inquiry Reason --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: inquiry_type
+      label: Why are you requesting clarification?
+      hint: Select the most appropriate category
+      type: select_one
+      options:
+      - Unknown Fee / Description is Unclear
+      - Fee amount seems incorrect
+      - Fee was supposed to be waived
+      - Disputing the validity of the fee
+      - Requesting a one-time courtesy refund
+      required: true
+    - id: 12
+      name: detailed_explanation
+      label: Detailed Explanation of Inquiry
+      hint: Provide any additional context that will help us investigate
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: resolution_request
+      label: Requested Resolution
+      hint: What outcome are you looking for?
+      type: select_one
+      options:
+      - Clarification only
+      - Full refund of fee
+      - Partial refund of fee
+      - Correction of future fee setup
+      required: true
+    - id: 14
+      name: communication_preference_header
+      label: -- Follow-up Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: response_channel
+      label: How should we contact you with the result?
+      hint: null
+      type: select_one
+      options:
+      - Email (Preferred)
+      - Phone Call
+      - Mobile App Message
+      - Physical Mail
+      required: true
+    - id: 16
+      name: acknowledgement
+      label: Inquiry Submission Acknowledgement
+      hint: I understand that an inquiry does not guarantee a refund or reversal
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true
+    - id: 17
+      name: submission_date
+      label: Request Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

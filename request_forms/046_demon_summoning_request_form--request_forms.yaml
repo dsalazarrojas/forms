@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Demon Summoning Request Form
+    pages:
+    - id: 1
+      name: demon_summoning_request_form
+      label: Demon Summoning Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: scheduling_preferences
+      label: Scheduling Preferences
+      hint: null
+      type: select_one
+      options:
+      - Scheduling Option 1
+      - Scheduling Option 2
+      - Scheduling Option 3
+      required: true
+    - id: 3
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_info
+      label: Requestor Information
+      hint: null
+      type: select_multiple
+      options:
+      - Name
+      - Email
+      - Phone Number
+      required: true
+    - id: 5
+      name: event_info
+      label: Event Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: scheduling_preferences_2
+      label: Scheduling Preferences 2
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: practitioner_info
+      label: Practitioner Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: practitioner_availability
+      label: Practitioner Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Practitioner Availability 1
+      - Practitioner Availability 2
+      - Practitioner Availability 3
+      required: true
+    - id: 11
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event Type 1
+      - Event Type 2
+      - Event Type 3
+      required: true
+    - id: 12
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: practitioner_name
+      label: Practitioner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: practitioner_title
+      label: Practitioner Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: practitioner_email
+      label: Practitioner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: practitioner_phone
+      label: Practitioner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: practitioner_availability_2
+      label: Practitioner Availability 2
+      hint: null
+      type: select_multiple
+      options:
+      - Practitioner Availability 2 Option 1
+      - Practitioner Availability 2 Option 2
+      - Practitioner Availability 2 Option 3
+      required: false
+    - id: 23
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Submission Status 1
+      - Submission Status 2
+      - Submission Status 3
+      required: true
+    - id: 24
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: note
+      options: []
+      required: false

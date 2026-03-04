@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Database Storage Limit Increase Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: Enter a comma separated list of team members who need access to the increased
+        storage limit
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expected_increase
+      label: Expected Storage Increase
+      hint: Enter expected increase in storage limit
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: additional_info
+      label: Additional Info
+      hint: Please provide any additional information about the request
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: approval_time
+      label: Approval Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reviewer
+      label: Reviewer
+      hint: null
+      type: select_one
+      options:
+      - IT Team
+      - Database Team
+      - Manager
+      required: false
+    - id: 9
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - IT Team
+      - Manager
+      required: false

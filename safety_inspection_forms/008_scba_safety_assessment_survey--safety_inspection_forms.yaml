@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: SCBA Safety Assessment Survey
+    pages:
+    - id: 1
+      name: scba_status
+      label: Scba Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 2
+      name: scba_equipment
+      label: Scba Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: scba_location
+      label: Scba Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: scba_last_use_date
+      label: Scba Last Use Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: scba_last_maintenance_date
+      label: Scba Last Maintenance Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: scba_last_inspection_date
+      label: Scba Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: scba_status_notes
+      label: Scba Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: scba_assessor_name
+      label: Scba Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: scba_inspection_type
+      label: Scba Inspection Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canteen Subscription Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Canteen Subscription Enrollment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Enroll in our nutritious daily meal program. Select your subscription
+        plan and meal preferences.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: student_info_header
+      label: -- Student Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: School issued ID
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grade_level
+      label: Grade or Class Level
+      hint: Select one
+      type: select_one
+      options:
+      - Grade 1-3
+      - Grade 4-6
+      - Grade 7-9
+      - Grade 10-12
+      - College/University
+      - Other
+      required: true
+    - id: 8
+      name: class_section
+      label: Class or Section
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Name of parent/guardian
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: parent_email
+      label: Parent or Guardian Email
+      hint: Parent email for updates
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: parent_phone
+      label: Parent or Guardian Phone
+      hint: Parent contact number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: subscription_plan_header
+      label: -- Subscription Plan Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: subscription_type
+      label: Subscription Type
+      hint: Select one
+      type: select_one
+      options:
+      - Daily (5 meals per week)
+      - Three Days (3 meals per week)
+      - Two Days (2 meals per week)
+      - Custom Plan
+      required: true
+    - id: 17
+      name: subscription_duration
+      label: Subscription Duration
+      hint: Select one
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annual
+      - Custom dates
+      required: true
+    - id: 18
+      name: start_date
+      label: Start Date
+      hint: When subscription begins
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: meal_preferences_header
+      label: -- Meal Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Shellfish allergy
+      - Egg allergy
+      - Soy allergy
+      - Other allergies
+      - No restrictions
+      required: false
+    - id: 21
+      name: allergy_details
+      label: Detailed Allergy Information
+      hint: If needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: meal_type_preference
+      label: Preferred Meal Types
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - South Indian
+      - North Indian
+      - Continental
+      - Chinese
+      - Mexican
+      - Italian
+      - Asian Fusion
+      - Vegetarian Special
+      required: false
+    - id: 23
+      name: spice_level
+      label: Spice Level Preference
+      hint: Select one
+      type: select_one
+      options:
+      - Mild
+      - Medium
+      - Spicy
+      - Very Spicy
+      - No preference
+      required: false
+    - id: 24
+      name: disliked_items
+      label: Foods to Avoid
+      hint: List items you dislike
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special Meal Requests
+      hint: Any special preparations
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: payment_info_header
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: subscription_cost
+      label: Subscription Cost (Display Only)
+      hint: Will be calculated based on plan
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: payment_method
+      label: Preferred Payment Method
+      hint: Select one
+      type: select_one
+      options:
+      - Online payment portal
+      - Bank transfer
+      - Credit/Debit card
+      - Check
+      - Monthly invoice
+      required: true
+    - id: 29
+      name: billing_address
+      label: Billing Address
+      hint: For invoicing
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: consent_header
+      label: -- Parent Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: consent_agreement
+      label: I consent to my child participating in the canteen subscription program
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I consent
+      - 'No'
+      required: true
+    - id: 32
+      name: emergency_notification
+      label: I authorize the canteen to contact me in case of food allergic reactions
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I authorize
+      - 'No'
+      required: true

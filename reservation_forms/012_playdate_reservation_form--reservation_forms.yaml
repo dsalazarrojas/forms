@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Playdate Reservation Form
+    pages:
+    - id: 1
+      name: schedule_playdate
+      label: Schedule Playdate
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 2
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Parent Email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Parent Phone
+      hint: 123-456-7890
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: allergies
+      label: Allergies
+      hint: list of food, nut, or other allergies
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: playcenter_name
+      label: Play Center Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reservation_date
+      label: Reservation Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reservation_time
+      label: Reservation Time
+      hint: "HH:MM"
+      type: time
+      options: []
+      required: false

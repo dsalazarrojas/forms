@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Item Request Form
+    pages:
+    - id: 1
+      name: item_request
+      label: Item Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_number
+      label: Item Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: storekeeper_name
+      label: Storekeeper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: storekeeper_email
+      label: Storekeeper Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: storekeeper_phone
+      label: Storekeeper Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Item Available
+      - Item Unavailable
+      required: false
+    - id: 8
+      name: storekeeper_comments
+      label: Storekeeper Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: procurement_officer_comments
+      label: Procurement Officer Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false

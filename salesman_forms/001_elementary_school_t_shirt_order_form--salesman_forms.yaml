@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elementary School T Shirt Order Form
+    pages:
+    - id: 1
+      name: tshirt_size
+      label: T-Shirt Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 2
+      name: color
+      label: T-Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 3
+      name: quantity
+      label: T-Shirt Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: tshirt_name
+      label: T-Shirt Name
+      hint: null
+      type: select_multiple
+      options:
+      - T-Shirt A
+      - T-Shirt B
+      - T-Shirt C
+      required: false
+    - id: 6
+      name: card_type
+      label: Card Type
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      required: false
+    - id: 7
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: expiration_year
+      label: Expiration Year
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: card_cvv
+      label: Card CVV
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false

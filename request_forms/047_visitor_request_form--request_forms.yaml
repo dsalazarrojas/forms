@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visitor Request Form
+    pages:
+    - id: 1
+      name: request_form_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_visit
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: purpose_of_visit
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned
+      hint: null
+      type: select_one
+      options:
+      - Assigned
+      - Not Assigned
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: confirm_email
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - Sent
+      - Not Sent
+      required: false
+    - id: 12
+      name: confirm_phone
+      label: Phone
+      hint: null
+      type: select_multiple
+      options:
+      - Received
+      - Not Received
+      required: false

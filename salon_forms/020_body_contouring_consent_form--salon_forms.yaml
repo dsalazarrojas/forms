@@ -1,0 +1,248 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Contouring Consent Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: procedure_type
+      label: Type of Body Contouring Procedure
+      hint: null
+      type: select_one
+      options:
+      - Non-Invasive Contouring
+      - Surgical Contouring
+      - Laser Treatment
+      - Radiofrequency
+      - Ultrasound
+      - Cryotherapy
+      - Chemical Peels
+      - Other
+      required: true
+    - id: 6
+      name: specific_procedure_name
+      label: Specific Procedure Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: treatment_areas
+      label: Areas to be Treated
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Face
+      - Neck
+      - Chest
+      - Abdomen
+      - Flanks
+      - Back
+      - Arms
+      - Thighs
+      - Buttocks
+      - Legs
+      - Multiple Areas
+      required: true
+    - id: 8
+      name: procedure_explained
+      label: The procedure has been explained to me
+      hint: null
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, adequately
+      - Partially
+      - false
+      required: true
+    - id: 9
+      name: procedure_understanding
+      label: I understand the procedure and its steps
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 10
+      name: expected_results
+      label: Expected results have been discussed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 11
+      name: results_expectations
+      label: I have realistic expectations about results
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 12
+      name: recovery_time
+      label: Recovery time has been explained
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 13
+      name: recovery_understanding
+      label: I understand the recovery process
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 14
+      name: risks_discussed
+      label: Risks and complications have been discussed
+      hint: null
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, briefly
+      - false
+      required: true
+    - id: 15
+      name: risks_understanding
+      label: I understand the risks and complications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true
+    - id: 16
+      name: common_side_effects
+      label: Common side effects explained
+      hint: Swelling, bruising, redness, etc
+      type: select_one
+      options:
+      - true
+      - Partially
+      - false
+      required: true
+    - id: 17
+      name: downtime_requirements
+      label: Downtime requirements have been explained
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 18
+      name: medical_history_disclosure
+      label: I have disclosed my complete medical history
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Mostly
+      required: true
+    - id: 19
+      name: medications_disclosed
+      label: I have disclosed all current medications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 20
+      name: allergies_disclosed
+      label: I have disclosed all known allergies
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Have No Known Allergies
+      required: true
+    - id: 21
+      name: pregnancy_status
+      label: I am not pregnant or nursing
+      hint: null
+      type: select_one
+      options:
+      - Correct - Not Pregnant
+      - Incorrect - I am Pregnant
+      - Incorrect - I am Nursing
+      - Not Applicable
+      required: true
+    - id: 22
+      name: alternative_options_discussed
+      label: Alternative treatment options discussed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 23
+      name: questions_answered
+      label: All my questions have been answered
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Have No Further Questions
+      required: true
+    - id: 24
+      name: informed_consent
+      label: I give informed consent for this procedure
+      hint: null
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true

@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rescheduled Training Request Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: old_date
+      label: Old Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: new_date
+      label: New Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notification_method
+      label: Notification Method
+      hint: null
+      type: select_one
+      options:
+      - Automated
+      - Phone Call
+      - Email
+      - In App
+      required: true
+    - id: 13
+      name: notification_method_message
+      label: Notification Method Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stakeholder_email
+      label: Stakeholder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: stakeholder_phone
+      label: Stakeholder Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_ip
+      label: Submitter IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_useragent
+      label: Submitter User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: submitter_agree
+      label: Submitter Agree
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Decline
+      - No Response
+      required: true
+    - id: 28
+      name: submitter_disagree_comment
+      label: Submitter Disagree Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: submitter_disagree_reason
+      label: Submitter Disagree Reason
+      hint: null
+      type: text
+      options: []
+      required: false

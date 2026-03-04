@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Interest Profile
+    pages:
+    - id: 1
+      name: form_title
+      label: Customer Interest Profile
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''other'', ''label'': ''other''}'
+      - '{''id'': 3, ''name'': None, ''label'': ''None''}'
+      required: false
+    - id: 9
+      name: customer_experience
+      label: Customer Experience
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''better'', ''label'': ''better''}'
+      - '{''id'': 2, ''name'': ''worse'', ''label'': ''worse''}'
+      - '{''id'': 3, ''name'': None, ''label'': ''None''}'
+      required: false
+    - id: 10
+      name: more_info
+      label: More Info
+      hint: null
+      type: note
+      options: []
+      required: false

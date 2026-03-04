@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Art Order Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: Services
+      hint: null
+      type: select_multiple
+      options:
+      - Nail Acrylic
+      - Nail Gel
+      - Nail Shell
+      - Nail Tips
+      required: true
+    - id: 3
+      name: nail_design
+      label: Nail Design
+      hint: null
+      type: select_one
+      options:
+      - Abstract
+      - Color Block
+      - Floral
+      - Geometric
+      - Minimalist
+      - Ombre
+      - Rhinestones
+      - Watercolor
+      required: true
+    - id: 4
+      name: nail_art_type
+      label: Nail Art Type
+      hint: null
+      type: select_one
+      options:
+      - Artistic
+      - Color Blocking
+      - French Tips
+      - Nail Stamp
+      - Nail Sticker
+      required: true
+    - id: 5
+      name: nail_type
+      label: Nail Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fingernails
+      - Toenails
+      required: false
+    - id: 6
+      name: nail_service
+      label: Nail Service
+      hint: null
+      type: select_multiple
+      options:
+      - Manicure
+      - Pedicure
+      - Nail Art
+      - Nail Polish
+      required: true
+    - id: 7
+      name: nail_color
+      label: Nail Color
+      hint: null
+      type: select_multiple
+      options:
+      - Pink
+      - Purple
+      - Red
+      - Blue
+      - Yellow
+      - Green
+      - Black
+      - White
+      required: false
+    - id: 8
+      name: nail_size
+      label: Nail Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 9
+      name: nail_shape
+      label: Nail Shape
+      hint: null
+      type: select_multiple
+      options:
+      - Oval
+      - Round
+      - Square
+      - Heart-Shaped
+      - Almond
+      required: false
+    - id: 10
+      name: nail_length
+      label: Nail Length
+      hint: null
+      type: select_multiple
+      options:
+      - 1-10 cm
+      - 10-15 cm
+      - 15-20 cm
+      required: true
+    - id: 11
+      name: nail_width
+      label: Nail Width
+      hint: null
+      type: select_multiple
+      options:
+      - 1-5 cm
+      - 5-10 cm
+      - 10-15 cm
+      required: true
+    - id: 12
+      name: nail_height
+      label: Nail Height
+      hint: null
+      type: select_multiple
+      options:
+      - 1-20 cm
+      - 20-25 cm
+      - 25-30 cm
+      required: true
+    - id: 13
+      name: nail_pattern
+      label: Nail Pattern
+      hint: null
+      type: select_multiple
+      options:
+      - Striped
+      - Solid
+      - Ombre
+      - Gradient
+      required: false
+    - id: 14
+      name: nail_color_scheme
+      label: Nail Color Scheme
+      hint: null
+      type: select_multiple
+      options:
+      - Single
+      - Double
+      - Triple
+      - Multi
+      required: false
+    - id: 15
+      name: nail_special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: nail_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: client_address
+      label: Client Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: technician
+      label: Technician
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jack
+      required: true
+    - id: 22
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Cancelled
+      - Pending
+      required: true

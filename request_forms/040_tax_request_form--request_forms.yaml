@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Request Form
+    pages:
+    - id: 1
+      name: tax_request_form
+      label: Request Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_status
+      label: Tax Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 3
+      name: tax_return_status
+      label: Has Filing Requirement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: tax_return_filing_date
+      label: Filing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: tax_return_filing_frequency
+      label: Filing Frequency
+      hint: null
+      type: select_one
+      options:
+      - once
+      - quarterly
+      - annually
+      required: false
+    - id: 6
+      name: taxpayer_identification
+      label: Taxpayer Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: taxpayer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: taxpayer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tax_return_address
+      label: Tax Return Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tax_return_address_1
+      label: Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tax_return_address_2
+      label: Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tax_return_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tax_return_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tax_return_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: taxpayer_signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tax_return_signature
+      label: Taxpayer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: organization_ein
+      label: Organization EIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: organization_address_1
+      label: Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: organization_address_2
+      label: Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: organization_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: organization_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: organization_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false

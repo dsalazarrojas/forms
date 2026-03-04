@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parade Safety Assessment Form
+    pages:
+    - id: 1
+      name: risk_risks
+      label: Risk Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_controls
+      label: Risk Controls
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: event_planning
+      label: Event Planning
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_plan
+      label: Safety Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location_info
+      label: Location Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_plan
+      label: Emergency Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: select_one
+      options:
+      - Sunny
+      - Rainy
+      - Windy
+      required: false
+    - id: 10
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_responses
+      label: Review Responses
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      - Undecided
+      required: false
+    - id: 12
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

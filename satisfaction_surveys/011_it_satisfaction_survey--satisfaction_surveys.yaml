@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Satisfaction Survey
+    pages:
+    - id: 1
+      name: customer_info
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: overall_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: satisfaction_reason
+      label: why_were_you_satisfied
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

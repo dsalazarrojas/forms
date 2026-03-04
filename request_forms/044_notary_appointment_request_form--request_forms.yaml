@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: notary_appointment_request_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Notary Appointment Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Request Forms
+      - Other Forms
+      - Forms
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: Select a date for the appointment
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: Select a time for the appointment
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Email
+      hint: Enter customer email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Phone
+      hint: Enter customer phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notary_name
+      label: Notary Name
+      hint: Select a notary
+      type: select_one
+      options:
+      - Notary 1
+      - Notary 2
+      - Notary 3
+      required: false
+    - id: 10
+      name: notary_availability
+      label: Notary Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 10:00am
+      - 11:00am
+      - 12:00pm
+      - 1:00pm
+      - 2:00pm
+      - 3:00pm
+      required: false
+    - id: 11
+      name: confirm_date
+      label: Confirm Date
+      hint: Confirm the selected date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: confirm_time
+      label: Confirm Time
+      hint: Confirm the selected time
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: confirm_notary
+      label: Confirm Notary
+      hint: Confirm the selected notary
+      type: select_one
+      options:
+      - Notary 1
+      - Notary 2
+      - Notary 3
+      required: false
+    - id: 14
+      name: confirm_availability
+      label: Confirm Notary Availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: confirm_notary
+      label: Confirm Notary
+      hint: null
+      type: select_one
+      options:
+      - Notary 1
+      - Notary 2
+      - Notary 3
+      required: false
+    - id: 16
+      name: confirm_time
+      label: Confirm Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: form_submission
+      label: Confirm Form
+      hint: null
+      type: note
+      options: []
+      required: false

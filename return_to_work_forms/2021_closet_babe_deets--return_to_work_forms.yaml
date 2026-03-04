@@ -1,0 +1,220 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 2021 Closet Babe Deets - Return to Work Intake Form
+    pages:
+    - id: 1
+      name: section_header_welcome
+      label: '--- Welcome, Closet Babe! ---'
+      hint: This form helps us understand your needs for our Return to Work styling
+        program.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: As you'd like us to address you
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We'll use this for program updates and scheduling
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include country code if applicable
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: return_to_work_date
+      label: Estimated Return-to-Work Date
+      hint: When do you plan to re-enter the professional environment?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: employment_status
+      label: Current Employment Status
+      hint: Select the option that best describes your situation
+      type: select_one
+      options:
+      - Actively seeking employment
+      - Preparing to seek employment
+      - Recently started new role (less than 3 months)
+      - Returning to previous role
+      - Taking a career break
+      required: true
+    - id: 7
+      name: target_industry
+      label: Target Industry / Sector
+      hint: e.g., Tech, Healthcare, Finance, Arts, Education
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: target_role_level
+      label: Desired Role Level
+      hint: What level of position are you aiming for?
+      type: select_one
+      options:
+      - Entry-Level
+      - Mid-Career
+      - Senior/Leadership
+      - Entrepreneur/Founder
+      required: true
+    - id: 9
+      name: section_header_goals
+      label: '--- Your Style & Career Goals ---'
+      hint: Tell us what you hope to achieve with the Closet Babe Deets program.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: program_expectations
+      label: What do you hope to gain from this program? (select all that apply)
+      hint: Focus on professional and personal development
+      type: select_multiple
+      options:
+      - Boost confidence
+      - Refresh professional image
+      - Build a versatile work wardrobe
+      - Learn about current professional trends
+      - Develop personal branding
+      - Get interview-ready outfits
+      required: true
+    - id: 11
+      name: current_professional_style
+      label: How would you describe your current professional style?
+      hint: Consider your "pre-break" or desired look
+      type: select_one
+      options:
+      - Casual
+      - Business Casual
+      - Smart Casual
+      - Business Professional
+      - Formal
+      - Eclectic / Creative
+      required: true
+    - id: 12
+      name: desired_professional_image
+      label: How do you want to be perceived professionally?
+      hint: e.g., Authoritative, Approachable, Innovative, Trustworthy
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: wardrobe_focus_areas
+      label: Which wardrobe areas need the most attention? (select all)
+      hint: Where do you feel your closet is lacking?
+      type: select_multiple
+      options:
+      - Everyday work outfits
+      - Interview attire
+      - Special occasion/networking wear
+      - Accessories (shoes, bags, jewelry)
+      - Outerwear
+      - Updating existing pieces
+      required: false
+    - id: 14
+      name: preferred_color_palette
+      label: Are there any specific colors or styles you prefer/dislike?
+      hint: e.g., "Love neutrals, hate brights" or "Prefer classic over trendy"
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: clothing_size_preference
+      label: Do you have a preferred clothing size system or general size range?
+      hint: Helps us tailor recommendations (e.g., US 8, UK 12, S/M)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comfort_level_heels
+      label: How comfortable are you wearing heels for work?
+      hint: null
+      type: select_one
+      options:
+      - Always comfortable
+      - Occasionally, for special events
+      - Rarely
+      - Never / Prefer flats
+      required: true
+    - id: 17
+      name: budget_estimation
+      label: Estimated budget range for new wardrobe pieces
+      hint: This helps us provide realistic suggestions.
+      type: select_one
+      options:
+      - Less than $250
+      - $250 - $750
+      - $750 - $1500
+      - $1500 - $3000
+      - Over $3000
+      required: false
+    - id: 18
+      name: section_header_logistics
+      label: '--- Logistics & Preferences ---'
+      hint: Help us schedule and prepare for your personalized consultation.
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: consultation_format_preference
+      label: Preferred Consultation Format
+      hint: null
+      type: select_one
+      options:
+      - Virtual (Video Call)
+      - In-Person (at our studio)
+      - In-Person (at your location)
+      required: true
+    - id: 20
+      name: preferred_consultation_days
+      label: Which days of the week work best for a consultation? (select all)
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Any additional notes or specific requests?
+      hint: Feel free to share anything else you think is relevant.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_heard_about_us
+      label: How did you hear about Closet Babe Deets?
+      hint: null
+      type: text
+      options: []
+      required: false

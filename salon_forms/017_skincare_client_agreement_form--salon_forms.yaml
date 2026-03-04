@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Client Agreement Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_number
+      label: Emergency Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Friend
+      - Spouse
+      - Other
+      required: false
+    - id: 11
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - Blue Cross
+      - United Health
+      - Aetna
+      - Cigna
+      - Humana
+      - Other
+      required: false
+    - id: 12
+      name: medical_insurance_plan
+      label: Medical Insurance Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medications
+      label: Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions_history
+      label: Medical Conditions History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_test_results
+      label: Medical Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_treatments
+      label: Medical Treatments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_procedures
+      label: Medical Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_specialties
+      label: Medical Specialties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_license_info
+      label: Medical License Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_board_certifications
+      label: Medical Board Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_board_license
+      label: Medical Board License
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Expired
+      required: true
+    - id: 25
+      name: medical_license_number
+      label: Medical License Number
+      hint: null
+      type: text
+      options: []
+      required: true

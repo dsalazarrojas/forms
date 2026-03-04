@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: CAB Transfer Reservation Form
+    pages:
+    - id: 1
+      name: reservation_header
+      label: -- Cab Transfer Booking Details --
+      hint: please book at least 24 hours in advance.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_passenger
+      label: Primary Passenger Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: passenger_contact
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pickup_address
+      label: Pickup Address
+      hint: Including ZIP/Postal Code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dropoff_address
+      label: Destination Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: pickup_time
+      label: Requested Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: vehicle_class
+      label: Vehicle Class Preference
+      hint: null
+      type: select_one
+      options:
+      - Standard Sedan
+      - Executive Sedan
+      - SUV (up to 6 passengers)
+      - Minivan
+      - Luxury Limo
+      required: true
+    - id: 9
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: luggage_count
+      label: Number of Large Suitcases
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: flight_number
+      label: Flight Number
+      hint: For airport pickups only
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: child_seat_required
+      label: Do you require a child safety seat?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: additional_requests
+      label: Special Requests or Needs
+      hint: e.g., assistance with wheelchair
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: payment_method_intent
+      label: Intended Payment Method
+      hint: Payment will be collected in the vehicle or via app.
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Corporate Account
+      required: true
+    - id: 15
+      name: terms_acceptance
+      label: I agree to the cancellation policy
+      hint: 24-hour notice required for full refund
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

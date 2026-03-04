@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: document_verification_form
+    pages:
+    - id: 1
+      name: main
+      label: main
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: document_number
+      label: document_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: document_date
+      label: document_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: verification_status
+      label: verification_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 6
+      name: verified_by
+      label: verified_by
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: uploaded_by
+      label: uploaded_by
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: document_file
+      label: document_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: upload_status
+      label: upload_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: upload_user
+      label: upload_user
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: upload_date
+      label: upload_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: upload_time
+      label: upload_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: verified_date
+      label: verified_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: verified_time
+      label: verified_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: document_number1
+      label: document_number1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: document_date1
+      label: document_date1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: verification_status1
+      label: verification_status1
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 20
+      name: verified_by1
+      label: verified_by1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: uploaded_by1
+      label: uploaded_by1
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 22
+      name: document_file1
+      label: document_file1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: email1
+      label: email1
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: phone1
+      label: phone1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: upload_status1
+      label: upload_status1
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

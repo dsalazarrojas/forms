@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_operating_expense_claim_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: restaurant_name
+      label: restaurant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit_date
+      label: submit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: restaurant_address
+      label: restaurant_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expense_claimed_by
+      label: expense_claimed_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: auditor_signature
+      label: auditor_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_signature
+      label: reviewer_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: denied_by
+      label: denied_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attachments
+      label: attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: attachment
+      label: attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_footer
+      label: Footer
+      hint: null
+      type: text
+      options: []
+      required: false

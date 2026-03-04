@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: sweet_16_celebration_survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_info
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attending_status
+      label: Attending Status
+      hint: null
+      type: select_one
+      options:
+      - Attending
+      - Not Attending
+      - Maybe
+      required: false
+    - id: 4
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: special_dietary_restrictions
+      label: Special Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: guest_message
+      label: Guest Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: party_info
+      label: Party Info
+      hint: null
+      type: select_multiple
+      options:
+      - Main Course
+      - Appetizer
+      - Dessert
+      - Beverage
+      - Other
+      required: false
+    - id: 11
+      name: main_course_choice
+      label: Main Course
+      hint: null
+      type: select_one
+      options:
+      - Beef
+      - Fish
+      - Chicken
+      - Vegetarian
+      - Pork
+      - Lamb
+      - Turkey
+      - Veggie Burger
+      - Grilled Cheese
+      - Other
+      required: false
+    - id: 12
+      name: appetizer_choice
+      label: Appetizer
+      hint: null
+      type: select_one
+      options:
+      - Salad
+      - Fried
+      - Steamed
+      - Raw
+      - Other
+      required: false
+    - id: 13
+      name: dessert_choice
+      label: Dessert
+      hint: null
+      type: select_one
+      options:
+      - Ice Cream
+      - Cake
+      - Pie
+      - Fruit
+      - Custard
+      - Tart
+      - Pudding
+      - Other
+      required: false
+    - id: 14
+      name: drink_choice
+      label: Beverages
+      hint: null
+      type: select_one
+      options:
+      - Wine
+      - Beer
+      - Soda
+      - Juice
+      - Milk
+      - Coffee
+      - Tea
+      - Other
+      required: false
+    - id: 15
+      name: guest_attendance
+      label: Guests Attending
+      hint: null
+      type: select_multiple
+      options:
+      - Spouse
+      - Child
+      - Friend
+      - Family
+      - Other
+      required: false
+    - id: 16
+      name: rsvp_by
+      label: RSVP By
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - By Phone
+      - By Email
+      - By Mail
+      required: false

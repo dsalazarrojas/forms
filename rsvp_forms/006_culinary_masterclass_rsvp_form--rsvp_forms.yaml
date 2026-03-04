@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Culinary Masterclass RSVP Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_diet_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_one
+      options:
+      - I have a food allergy
+      - I have a food intolerance
+      required: false
+    - id: 6
+      name: participant_diet_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - I have a food allergy
+      - I have a food intolerance
+      required: false
+    - id: 7
+      name: participant_payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      required: false
+    - id: 8
+      name: participant_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: participant_time_of_arrival
+      label: Time of Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: participant_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: participant_agreement
+      label: Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I agree
+      - Other
+      required: false

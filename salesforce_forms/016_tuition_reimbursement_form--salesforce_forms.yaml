@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tuition Reimbursement Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: employee_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: education_info
+      label: education_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education_institution
+      label: education_institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tuition_type
+      label: tuition_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Undergraduate''}'
+      - '{''label'': ''Graduate''}'
+      - '{''label'': ''Certificate''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: education_level
+      label: education_level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High School''}'
+      - '{''label'': ''Some College''}'
+      - '{''label'': ''Bachelor''}'
+      - '{''label'': ''Master''}'
+      - '{''label'': ''Doctoral''}'
+      required: false
+    - id: 6
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: tuition_amount
+      label: tuition_amount
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Request Tracker
+    pages:
+    - id: 1
+      name: service_request_id
+      label: service_request_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: request_date_time
+      label: request_date_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: request_status
+      label: request_status
+      hint: null
+      type: select_one
+      options:
+      - Request Open
+      - Request Open - Waiting On
+      - Request Open - Waiting On - Assigned
+      - Request Open - Resolved
+      required: false
+    - id: 5
+      name: request_category
+      label: request_category
+      hint: null
+      type: select_multiple
+      options:
+      - IT Request
+      - Facilities Request
+      - HR Request
+      required: false
+    - id: 6
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_type
+      label: request_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: details
+      label: details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: service_request_description
+      label: service_request_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_request_status_update
+      label: service_request_status_update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: service_request_resolution_time
+      label: service_request_resolution_time
+      hint: null
+      type: select_multiple
+      options:
+      - Less Than 1 hour
+      - 1 hour or more
+      required: false
+    - id: 14
+      name: service_request_resolution_time_range
+      label: service_request_resolution_time_range
+      hint: null
+      type: select_multiple
+      options:
+      - Less Than 1 hour
+      - 1-2 hours
+      - 2-4 hours
+      - 4-8 hours
+      - 8+ hours
+      required: false
+    - id: 15
+      name: service_request_resolution_date
+      label: service_request_resolution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: service_request_resolution_time
+      label: service_request_resolution_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: service_request_resolution_status
+      label: service_request_resolution_status
+      hint: null
+      type: select_one
+      options:
+      - Request Open
+      - Request Open - Waiting On
+      - Request Open - Waiting On - Assigned
+      - Request Open - Resolved
+      required: false
+    - id: 18
+      name: request_close_status
+      label: request_close_status
+      hint: null
+      type: select_one
+      options:
+      - Request Open
+      - Request Open - Waiting On
+      - Request Open - Waiting On - Assigned
+      - Request Open - Resolved
+      required: false
+    - id: 19
+      name: service_request_close_time
+      label: service_request_close_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: service_request_close_date
+      label: service_request_close_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: service_request_close_comment
+      label: service_request_close_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: service_request_close_reason
+      label: service_request_close_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: service_request_close_status_reason
+      label: service_request_close_status_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: service_request_close_status_note
+      label: service_request_close_status_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to_user
+      label: assigned_to_user
+      hint: null
+      type: text
+      options: []
+      required: false

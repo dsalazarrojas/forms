@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guild Battle Reservation Form
+    pages:
+    - id: 1
+      name: reservation_form_battle_info
+      label: guild-battle-reservation-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guild_battle_reservation_date
+      label: guild-battle-reservation-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: guild_battle_start_time
+      label: guild-battle-start-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: guild_battle_end_time
+      label: guild-battle-end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: guild_battle_players_count
+      label: number-of-players
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: guild_battle_arena
+      label: arena
+      hint: null
+      type: select_one
+      options:
+      - Arena 1
+      - Arena 2
+      - Arena 3
+      required: true
+    - id: 7
+      name: guild_battle_date
+      label: reservation-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: guild_battle_start_time_2
+      label: start-time-2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: guild_battle_end_time_2
+      label: end-time-2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: guild_battle_players_count_2
+      label: players-count-2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: guild_battle_arena_2
+      label: arena-2
+      hint: null
+      type: select_one
+      options:
+      - Arena 1
+      - Arena 2
+      - Arena 3
+      required: false

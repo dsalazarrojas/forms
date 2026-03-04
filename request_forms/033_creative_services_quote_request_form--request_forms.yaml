@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: creative_services_quote_request_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: services_selected
+      label: Services Selected
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: expected_start_date
+      label: Expected Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expected_end_date
+      label: Expected End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: services_quote
+      label: Services Quote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - On-Hold
+      - Cancelled
+      required: false
+    - id: 9
+      name: services_requester
+      label: Services Requester
+      hint: null
+      type: text
+      options: []
+      required: false

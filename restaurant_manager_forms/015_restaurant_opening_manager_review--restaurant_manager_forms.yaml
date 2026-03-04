@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Opening Manager Review
+    pages:
+    - id: 1
+      name: restaurant_opening_manager_review
+      label: restaurant_opening_manager_review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: restaurant_name
+      label: restaurant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_opened
+      label: date_opened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: restaurant_location
+      label: restaurant_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: restaurant_hours
+      label: restaurant_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: manager_rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Excellent''}'
+      required: false
+    - id: 8
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: restaurant_opening_cost
+      label: restaurant_opening_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: restaurant_manager_rating
+      label: restaurant_manager_rating
+      hint: null
+      type: number
+      options: []
+      required: false

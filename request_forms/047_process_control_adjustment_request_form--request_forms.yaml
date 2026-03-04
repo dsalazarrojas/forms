@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Control Adjustment Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Process Control Adjustment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_id
+      label: Equipment Id
+      hint: Enter equipment id
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: process_id
+      label: Process Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: Enter description
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_request
+      label: Date Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_request
+      label: Time Request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: requested_by
+      label: Requested By
+      hint: Enter requested by
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: approved_by
+      label: Approved By
+      hint: Enter approved by
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_change
+      label: Reason for Change
+      hint: Enter reason for change
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Closed
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: Enter assigned to
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: Enter comments
+      type: text
+      options: []
+      required: false

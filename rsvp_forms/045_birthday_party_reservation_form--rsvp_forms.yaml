@@ -1,0 +1,328 @@
+inputSchema:
+  type: object
+  properties:
+    title: Birthday Party Reservation Form
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Birthday Party Venue Reservation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: Reserve your birthday party with us
+      hint: Complete this form to book your party
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: section_party_organizer
+      label: -- Party Organizer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: organizer_name
+      label: Your Name
+      hint: Full name of party organizer
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organizer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: organizer_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organizer_address
+      label: Home Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_birthday_child
+      label: -- Birthday Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: birthday_child_name
+      label: Birthday Child's Name
+      hint: Name of birthday celebrant
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: birthday_child_age
+      label: Age Turning
+      hint: How old
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: birthday_child_dob
+      label: Birth Date
+      hint: Full birth date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: section_party_date
+      label: -- Party Date and Time --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: desired_party_date
+      label: Desired Party Date
+      hint: What date do you want
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: preferred_start_time
+      label: Preferred Start Time
+      hint: What time should party begin
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: party_duration_hours
+      label: Party Duration in Hours
+      hint: How long will party last
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: section_guest_count
+      label: -- Guest Count --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: Including adults and children
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: children_count
+      label: Number of Children
+      hint: How many children attending
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: adults_count
+      label: Number of Adults
+      hint: How many adults attending
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: section_package_selection
+      label: -- Package Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: package_type
+      label: Party Package
+      hint: Which package would you like
+      type: select_one
+      options:
+      - Basic - Venue Only
+      - Standard - Venue with Basic Activities
+      - Deluxe - Venue with Activities and Catering
+      - Premium - Full Service Package
+      - Custom Package
+      required: true
+    - id: 22
+      name: party_theme
+      label: Party Theme
+      hint: What is the party theme
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: activities_requested
+      label: Activities Requested
+      hint: What activities do you want
+      type: select_multiple
+      options:
+      - Games and Competitions
+      - Bounce House
+      - Crafts
+      - Dance Party
+      - Face Painting
+      - Magic Show
+      - Treasure Hunt
+      - Sports Activities
+      required: false
+    - id: 24
+      name: food_service
+      label: Food Service Included
+      hint: Do you want catering
+      type: select_one
+      options:
+      - No Food Service
+      - Basic Snacks
+      - Full Meal
+      - Full Meal with Cake
+      - Bring Your Own Food
+      required: true
+    - id: 25
+      name: cake_included
+      label: Cake Service
+      hint: Will cake be provided
+      type: select_one
+      options:
+      - Venue Provides Cake
+      - I Will Bring Cake
+      - Need Cake Ordering Assistance
+      - Not Needed
+      required: true
+    - id: 26
+      name: section_special_needs
+      label: -- Special Requests and Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: dietary_accommodations
+      label: Dietary Accommodations Needed
+      hint: Any dietary restrictions
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut-Free
+      - Dairy-Free
+      - Other
+      - None
+      required: false
+    - id: 28
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Wheelchair access, allergies, etc.
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: decorations_provided
+      label: Decorations Provided
+      hint: Will venue provide decorations
+      type: select_one
+      options:
+      - Venue Provides Basic
+      - I Will Bring Decorations
+      - Need Decoration Service
+      - Premium Decoration Package
+      required: false
+    - id: 30
+      name: section_pricing
+      label: -- Pricing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: estimated_cost
+      label: Estimated Total Cost
+      hint: Approximate party cost
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: deposit_amount
+      label: Deposit Required
+      hint: Reservation deposit amount
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: deposit_due_date
+      label: Deposit Due Date
+      hint: When deposit is due
+      type: date
+      options: []
+      required: false
+    - id: 34
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - Cash
+      - PayPal
+      required: true
+    - id: 35
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: special_requests
+      label: Special Requests or Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Word of mouth, website, etc.
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: section_agreement
+      label: -- Reservation Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: policy_acknowledgment
+      label: I acknowledge and agree to venue policies
+      hint: Check to confirm
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 40
+      name: reservation_confirmation
+      label: I want to proceed with this reservation
+      hint: Final confirmation to book
+      type: select_one
+      options:
+      - Yes, Book Party
+      - No, Need More Information
+      required: true

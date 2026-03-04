@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Dining Experience Assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rating_scale
+      label: satisfaction rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: recommendation_intent
+      label: intent to recommend
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: restaurant_name
+      label: restaurant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: visited_date
+      label: visited date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: visit_duration
+      label: visit duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: visited_time
+      label: visited time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: satisfaction_level
+      label: satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 13
+      name: service_quality
+      label: service quality
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 14
+      name: food_quality
+      label: food quality
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 15
+      name: price_range
+      label: price range
+      hint: null
+      type: select_multiple
+      options:
+      - $0-$10
+      - $11-$20
+      - $21-$30
+      - $31-$40
+      required: true
+    - id: 16
+      name: visited_with
+      label: visited with
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: visited_frequency
+      label: visited frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: visit_purpose
+      label: visit purpose
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: recommended_to
+      label: recommended to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: recommend_reason
+      label: reason to recommend
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: visited_previous_visit
+      label: visited on a previous visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: visited_next_visit
+      label: visited on the next visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: visited_previous_visit
+      label: visited previous visit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: visited_before
+      label: visited before
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: visited_ever
+      label: visited ever
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

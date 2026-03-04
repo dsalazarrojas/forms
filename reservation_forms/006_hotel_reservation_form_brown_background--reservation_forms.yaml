@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Reservation Form Brown Background
+    pages:
+    - id: 1
+      name: hotels
+      label: Hotel
+      hint: Select the hotel
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: checkin
+      label: Check-in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: checkout
+      label: Check-out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: type_of_room
+      label: Type of room
+      hint: Select your preferred room type
+      type: select_one
+      options:
+      - Single
+      - Double
+      - Suite
+      required: false
+    - id: 5
+      name: background_color
+      label: Background color
+      hint: Select the background color
+      type: select_one
+      options:
+      - brown
+      - blue
+      - red
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

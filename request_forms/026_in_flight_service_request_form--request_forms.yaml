@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: in_flight_service_request_form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: passenger_details
+      label: Passenger Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_request
+      label: Service Request
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Urgent'', ''label'': ''Urgent''}'
+      - '{''value'': ''Non-Urgent'', ''label'': ''Non-Urgent''}'
+      required: false
+    - id: 4
+      name: service_requested
+      label: Service Requested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: flight_date
+      label: Flight Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: flight_time
+      label: Flight Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: seat_number
+      label: Seat Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: passenger_count
+      label: Passenger Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: flight_status
+      label: Flight Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Departing'', ''label'': ''Departing''}'
+      - '{''value'': ''Delayed'', ''label'': ''Delayed''}'
+      - '{''value'': ''Arrived'', ''label'': ''Arrived''}'
+      required: false
+    - id: 11
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Catering'', ''label'': ''Catering''}'
+      - '{''value'': ''Cabin Crew'', ''label'': ''Cabin Crew''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: Please provide more details about your request
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

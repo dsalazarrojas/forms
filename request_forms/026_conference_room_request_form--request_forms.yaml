@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Room Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: room_preference
+      label: Room Preference
+      hint: First choice
+      type: select_one
+      options:
+      - Conference Room A
+      - Conference Room B
+      - Board Room
+      - Training Room
+      - Meeting Room 1
+      - Meeting Room 2
+      - Any Available Room
+      required: true
+    - id: 7
+      name: alternate_room
+      label: Alternate Room Choice
+      hint: Second choice
+      type: select_one
+      options:
+      - Conference Room A
+      - Conference Room B
+      - Board Room
+      - Training Room
+      - Meeting Room 1
+      - Meeting Room 2
+      - No Preference
+      required: false
+    - id: 8
+      name: requested_date
+      label: Requested Date
+      hint: Date of meeting
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: Meeting start
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: Meeting end
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: recurring_meeting
+      label: Is This a Recurring Meeting
+      hint: Regular booking
+      type: select_one
+      options:
+      - No One-Time Only
+      - Yes Weekly
+      - Yes Bi-Weekly
+      - Yes Monthly
+      required: true
+    - id: 12
+      name: recurrence_pattern
+      label: Recurrence Pattern
+      hint: If recurring
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: meeting_title
+      label: Meeting Title
+      hint: Name of meeting
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: meeting_description
+      label: Meeting Description
+      hint: Purpose and agenda
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: expected_attendees
+      label: Expected Number of Attendees
+      hint: Headcount
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: attendee_types
+      label: Attendee Types
+      hint: Who will attend
+      type: select_multiple
+      options:
+      - Internal Staff
+      - External Clients
+      - Vendors
+      - Partners
+      - Interview Candidates
+      - Other
+      required: false
+    - id: 17
+      name: room_setup
+      label: Room Setup Preference
+      hint: Layout style
+      type: select_one
+      options:
+      - Boardroom
+      - Theater
+      - Classroom
+      - U-Shape
+      - Hollow Square
+      - Cocktail
+      - No Preference
+      required: true
+    - id: 18
+      name: equipment_requests
+      label: Equipment Requests
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Projector
+      - Screen
+      - Whiteboard
+      - Flip Chart
+      - Video Conferencing
+      - Conference Phone
+      - Microphone
+      - Laptop
+      - WiFi Access
+      - None
+      required: false
+    - id: 19
+      name: catering_request
+      label: Catering Request
+      hint: Food and beverage
+      type: select_one
+      options:
+      - No Catering Needed
+      - Coffee and Tea Only
+      - Light Refreshments
+      - Full Lunch
+      - Dinner
+      required: true
+    - id: 20
+      name: catering_details
+      label: Catering Details
+      hint: Specify requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requirements
+      label: Special Requirements
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: parking_required
+      label: Parking Required
+      hint: Number of spaces
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: visitor_badges
+      label: Visitor Badges Required
+      hint: Number of badges
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: priority_level
+      label: Priority Level
+      hint: Importance
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: request_confirmation
+      label: I Confirm This Request is Accurate
+      hint: Verify submission
+      type: select_one
+      options:
+      - I Confirm
+      - Need to Revise
+      required: true

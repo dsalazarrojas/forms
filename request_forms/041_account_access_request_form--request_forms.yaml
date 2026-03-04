@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Access Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_employee_id
+      label: Requester Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Requester Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Your work email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Requester Phone
+      hint: Your work phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: Your direct manager's name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_email
+      label: Manager Email
+      hint: Your direct manager's email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: access_type_requested
+      label: Access Type Requested
+      hint: What type of account access are you requesting?
+      type: select_one
+      options:
+      - New Account
+      - Access Modification
+      - Access Restoration
+      - Privilege Escalation
+      - Temporary Access
+      - Emergency Access
+      required: true
+    - id: 9
+      name: system_application_name
+      label: System Application Name
+      hint: Name of the system or application for which access is requested
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: access_level_requested
+      label: Access Level Requested
+      hint: What level of access do you need?
+      type: select_one
+      options:
+      - Read Only
+      - Standard User
+      - Power User
+      - Administrator
+      - Super User
+      - Custom
+      required: true
+    - id: 11
+      name: specific_permissions_needed
+      label: Specific Permissions Needed
+      hint: What specific permissions or modules do you need access to?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_justification
+      label: Business Justification
+      hint: Why do you need this access?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: duration_of_access
+      label: Duration of Access
+      hint: How long do you need this access?
+      type: select_one
+      options:
+      - Permanent
+      - Temporary - Less than 1 week
+      - Temporary - 1-4 weeks
+      - Temporary - 1-3 months
+      - Temporary - 3-12 months
+      - Temporary - More than 1 year
+      required: true
+    - id: 14
+      name: requested_start_date
+      label: Requested Start Date
+      hint: When do you need the access to begin?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: requested_end_date
+      label: Requested End Date
+      hint: When should the access end (if temporary)?
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: security_training_completed
+      label: Security Training Completed
+      hint: Have you completed the required security training?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In Progress
+      required: true
+    - id: 17
+      name: compliance_acknowledgment
+      label: Compliance Acknowledgment
+      hint: Do you acknowledge and agree to comply with all security policies?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: approval_required
+      label: Approval Required
+      hint: Does this request require additional approvals beyond your manager?
+      type: select_one
+      options:
+      - 'No'
+      - Yes - IT Security
+      - Yes - Data Owner
+      - Yes - Executive
+      - Yes - Other
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information about your request
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: requester_signature
+      label: Requester Signature
+      hint: Electronic signature confirming the accuracy of the request
+      type: text
+      options: []
+      required: true

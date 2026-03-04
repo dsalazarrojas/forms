@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Static Question Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: survey_time
+      label: Survey Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: survey_rating
+      label: Survey Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: survey_feedback
+      label: Survey Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: survey_suggestions
+      label: Survey Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: survey_recommendations
+      label: Survey Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: survey_features
+      label: Survey Features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: survey_liked
+      label: Liked
+      hint: Liked
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: survey_liked_features
+      label: Liked Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: survey_disliked
+      label: Disliked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: survey_disliked_features
+      label: Disliked Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

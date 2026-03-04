@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: healthcare_patient_safety_protocol_assessment
+    pages:
+    - id: 1
+      name: patient_safety_practices
+      label: Patient Safety Practices
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: incident_reporting
+      label: Incident Reporting
+      hint: Please answer yes or no
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 3
+      name: near_miss_happenings
+      label: Near Miss Happenings
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''equipment_failure''}'
+      - '{''value'': ''medication_error''}'
+      - '{''value'': ''patient_medication''}'
+      - '{''value'': ''patient_falls''}'
+      required: true
+    - id: 4
+      name: near_miss_happenings
+      label: Near Miss Happenings
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: root_cause_analysis
+      label: Root Cause Analysis
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''lack_ofาตรฐาน''}'
+      - '{''value'': ''inadequate_training''}'
+      - '{''value'': ''inadequate_resources''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 6
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''create_action_plan''}'
+      - '{''value'': ''update_action_plan''}'
+      - '{''value'': ''no_action_plan''}'
+      required: true
+    - id: 7
+      name: follow_up_actions
+      label: Follow Up Actions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''follow_up_actions''}'
+      - '{''value'': ''no_follow_up_actions''}'
+      required: true
+    - id: 8
+      name: follow_up_frequency
+      label: Follow Up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      required: true
+    - id: 9
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''in_progress''}'
+      - '{''value'': ''completed''}'
+      - '{''value'': ''not_started''}'
+      required: true
+    - id: 10
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: next_follow_up_date
+      label: Next Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: follow_up_next_date
+      label: Follow Up Next Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: follow_up_next_time
+      label: Follow Up Next Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: follow_up_last_date
+      label: Follow Up Last Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: follow_up_last_time
+      label: Follow Up Last Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: follow_up_previous_date
+      label: Follow Up Previous Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_previous_time
+      label: Follow Up Previous Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: follow_up_previous_frequency
+      label: Follow Up Previous Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      required: true
+    - id: 19
+      name: follow_up_previous_next_date
+      label: Follow Up Previous Next Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_previous_next_time
+      label: Follow Up Previous Next Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: follow_up_last_previous_date
+      label: Follow Up Last Previous Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_last_previous_time
+      label: Follow Up Last Previous Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: follow_up_last_previous_frequency
+      label: Follow Up Last Previous Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''daily''}'
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''monthly''}'
+      required: true
+    - id: 24
+      name: follow_up_last_previous_next_date
+      label: Follow Up Last Previous Next Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: follow_up_last_previous_time
+      label: Follow Up Last Previous Time
+      hint: null
+      type: time
+      options: []
+      required: true

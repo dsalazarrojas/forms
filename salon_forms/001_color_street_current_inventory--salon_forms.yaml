@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Current Inventory
+    pages:
+    - id: 1
+      name: inventory_date
+      label: Inventory Date
+      hint: Date when inventory is being counted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: stylist_name
+      label: Stylist Name
+      hint: Name of the person conducting inventory
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Storage Location
+      hint: Where the inventory is stored
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_header_current_stock
+      label: -- Current Stock Count --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: classic_collection_count
+      label: Classic Collection Count
+      hint: Number of Classic Collection strips in stock
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: glitter_collection_count
+      label: Glitter Collection Count
+      hint: Number of Glitter Collection strips in stock
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: matte_collection_count
+      label: Matte Collection Count
+      hint: Number of Matte Collection strips in stock
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: shimmer_collection_count
+      label: Shimmer Collection Count
+      hint: Number of Shimmer Collection strips in stock
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_header_popular_shades
+      label: -- Popular Shades Inventory --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: popular_shade_1
+      label: Popular Shade 1 Name
+      hint: Name of the most popular shade
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: popular_shade_1_quantity
+      label: Popular Shade 1 Quantity
+      hint: Current stock quantity
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: popular_shade_2
+      label: Popular Shade 2 Name
+      hint: Name of second most popular shade
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: popular_shade_2_quantity
+      label: Popular Shade 2 Quantity
+      hint: Current stock quantity
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_header_restock_needed
+      label: -- Restock Alert --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: low_stock_items
+      label: Items Needing Restock
+      hint: List shades that are running low
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: out_of_stock_items
+      label: Out of Stock Items
+      hint: List shades that are completely out of stock
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: total_inventory_value
+      label: Total Inventory Value
+      hint: Estimated retail value of current inventory
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Additional Notes
+      hint: Any other inventory observations
+      type: text
+      options: []
+      required: false

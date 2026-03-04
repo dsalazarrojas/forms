@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scaffolding Safety Training Form
+    pages:
+    - id: 1
+      name: scaffolding_safety_training_form_participant_information
+      label: participant_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: scaffolding_safety_training_form_safety_equipment
+      label: scaffolding_safety_training_form_safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: scaffolding_safety_training_form_safety_procedures
+      label: scaffolding_safety_training_form_safety_procedures
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: scaffolding_safety_training_form_training_requirements
+      label: scaffolding_safety_training_form_training_requirements
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: scaffolding_safety_training_form_training_programs
+      label: scaffolding_safety_training_form_training_programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: scaffolding_safety_training_form_training_certifications
+      label: scaffolding_safety_training_form_training_certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: scaffolding_safety_training_form_participant_comments
+      label: participant_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: scaffolding_safety_training_form_participant_signature
+      label: participant_signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

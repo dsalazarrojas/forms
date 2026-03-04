@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketplace Refund Efficiency Registration Form
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: refund_reason
+      label: Refund Reason
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_condition
+      label: Product Condition
+      hint: 'null'
+      type: select_multiple
+      options:
+      - like new
+      - like new - minor scratches
+      - gently used - minor scratches
+      - gently used - major scratches
+      - used - major scratches
+      - prophets - major damage'
+      required: false
+    - id: 6
+      name: photo_upload_1
+      label: Photo 1
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_upload_2
+      label: Photo 2
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_upload_3
+      label: Photo 3
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_upload_4
+      label: Photo 4
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_upload_5
+      label: Photo 5
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_phone
+      label: Customer Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_message
+      label: Customer Message
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_address
+      label: Customer Address
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: order_status
+      label: Order Status
+      hint: 'null'
+      type: select_one
+      options:
+      - new
+      - used
+      - refunded
+      - cancelled
+      - other
+      required: false
+    - id: 15
+      name: order_id
+      label: Order ID
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: refund_reason_description
+      label: Refund Reason Description
+      hint: 'null'
+      type: text
+      options: []
+      required: false

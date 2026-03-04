@@ -1,0 +1,241 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Salon Customer Retention Survey
+    pages:
+    - id: 1
+      name: first_visit
+      label: First Visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: visit_frequency
+      label: How often do you visit our salon?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 3
+      name: last_visit
+      label: Last Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How would you rate your satisfaction with our services?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: services
+      label: What services did you receive during your last visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Nail polish application
+      - Nail shaping
+      - Manicure
+      - Pedicure
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: satisfaction_services
+      label: How would you rate your satisfaction with the services provided?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: staff
+      label: How would you rate your satisfaction with our staff?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: overall_experience
+      label: Overall experience with our salon?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: staff_attention
+      label: How would you rate the level of attention you received from our staff?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: price
+      label: How would you rate the value for money?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: recommend
+      label: Would you recommend our salon to a friend or family member?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: comment
+      label: Any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: feedback
+      label: Any feedback about our salon?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: visit_frequency2
+      label: How often do you visit other beauty or nail salons?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 17
+      name: other_salons
+      label: Which other beauty or nail salons do you visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: visit_frequency3
+      label: How often do you visit other nail salons?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 19
+      name: other_salons2
+      label: Which other nail salons do you visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: visit_frequency4
+      label: How often do you visit other beauty salons?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 21
+      name: other_salons3
+      label: Which other beauty salons do you visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: visit_frequency5
+      label: How often do you visit nail schools or educational facilities?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 23
+      name: other_salons4
+      label: Which nail schools or educational facilities do you visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: visit_frequency6
+      label: How often do you visit spas or massage facilities?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 25
+      name: other_salons5
+      label: Which spas or massage facilities do you visit?
+      hint: null
+      type: text
+      options: []
+      required: false

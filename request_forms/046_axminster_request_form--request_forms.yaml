@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Axminster Request Form
+    pages:
+    - id: 1
+      name: section_project_basics
+      label: -- Project Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: project_name_ax
+      label: Project Name
+      hint: Unique name for the project
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: area_installation
+      label: Room or Area for Installation
+      hint: e.g. Master Bedroom, Hallway
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_measurements
+      label: -- Measurements and Specs --
+      hint: Provide the dimensions for the area
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: width_measurement
+      label: Width (in Meters)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: length_measurement
+      label: Length (in Meters)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: carpet_style_ax
+      label: Axminster Style/Pattern
+      hint: Select the primary pattern type
+      type: select_one
+      options:
+      - Classic Floral
+      - Modern Geometric
+      - Solid/Plain
+      - Bespoke Custom Design
+      required: true
+    - id: 10
+      name: color_palette_ax
+      label: Primary Color Palette
+      hint: e.g. Royal Blue, Forest Green
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: underlay_type_ax
+      label: Underlay Type
+      hint: Select based on expected foot traffic
+      type: select_one
+      options:
+      - Standard Residential
+      - Heavy Duty Commercial
+      - Acoustic/Sound Dampening
+      required: true
+    - id: 12
+      name: section_logistics
+      label: -- Logistics and Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_install_date
+      label: Preferred Installation Date
+      hint: Select a tentative date
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: site_access_notes
+      label: Site Access and Installation Notes
+      hint: Any obstacles or specific access times
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: budget_estimate_ax
+      label: Budget Estimate
+      hint: Total project budget in local currency
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: sample_request_ax
+      label: Samples Requested?
+      hint: Do you need physical samples sent?
+      type: select_one
+      options:
+      - Yes, Please send samples
+      - No, I have samples already
+      required: true
+    - id: 17
+      name: additional_comments_ax
+      label: Additional Comments
+      hint: Any other information for the team
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: suzanne_approval_status
+      label: Approval Status (Internal Use Only)
+      hint: To be completed by Suzanne
+      type: select_one
+      options:
+      - Approved
+      - More Information Required
+      - Rejected/Hold
+      required: false

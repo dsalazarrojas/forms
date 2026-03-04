@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: media-release-time-request-form
+    pages:
+    - id: 1
+      name: media_release_form
+      label: Media Release Time Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interview_coordinates
+      label: interview-coordinates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: media_release_type
+      label: media-release-type
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Photography''}'
+      - '{''text'': ''Filming''}'
+      - '{''text'': ''Interview''}'
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: request_start_time
+      label: Request Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: request_end_time
+      label: Request End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: request_duration
+      label: Request Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: media_release_locations
+      label: Media Release Locations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''chatjimmy''}'
+      - '{''text'': ''another-tool''}'
+      - '{''text'': ''default-tool''}'
+      required: false
+    - id: 14
+      name: submission_description
+      label: Submission Description
+      hint: null
+      type: text
+      options: []
+      required: false

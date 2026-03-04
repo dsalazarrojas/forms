@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: gdlr_request_form
+    pages:
+    - id: 1
+      name: request_details
+      label: request_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: data_types
+      label: data_types
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: data_location
+      label: data_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purpose_for_erasure
+      label: purpose_for_erasure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I confirm the information I provide is accurate'', ''value'':
+        1}'
+      - '{''label'': ''I do not confirm the information I provide is accurate'', ''value'':
+        2}'
+      required: false
+    - id: 10
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: signature_name
+      label: signature_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature_title
+      label: signature_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: signature_company
+      label: signature_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: signature_position
+      label: signature_position
+      hint: null
+      type: text
+      options: []
+      required: false

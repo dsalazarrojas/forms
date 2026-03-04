@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: End Of Day Sales Report Form
+    pages:
+    - id: 1
+      name: sales_date
+      label: sales_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: sales_time
+      label: sales_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: region
+      label: region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: district
+      label: district
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sales_person
+      label: sales_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: territory
+      label: territory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sales_amount
+      label: sales_amount
+      hint: Enter sales amount in dollars.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_id
+      label: product_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_category
+      label: product_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: product_price
+      label: product_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: product_quantity
+      label: product_quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: sales_status
+      label: sales_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 15
+      name: sales_status_reason
+      label: sales_status_reason
+      hint: null
+      type: text
+      options: []
+      required: false

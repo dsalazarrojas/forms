@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automated Order Routing Pilot Application Form
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: Enter full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Applicant Email
+      hint: Provide a business email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Organization participating in the pilot
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: Approximate number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-1000
+      - 1000+
+      required: false
+    - id: 5
+      name: primary_use_case
+      label: Primary Use Case
+      hint: Briefly describe how automatic order routing will be used
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: integration_capabilities
+      label: Integration Capabilities
+      hint: List major systems to integrate with, for example ERP or WMS
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: expected_monthly_order_volume
+      label: Expected Monthly Order Volume
+      hint: Give a numeric estimate
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: success_criteria
+      label: Pilot Success Criteria
+      hint: Describe measurable outcomes you expect from the pilot
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: technical_contact_name
+      label: Technical Contact Name
+      hint: Name of person for integration and troubleshooting
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: technical_contact_phone
+      label: Technical Contact Phone
+      hint: Direct phone number with country code
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pilot_start_date
+      label: Preferred Pilot Start Date
+      hint: Approximate date you would like to begin
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information or constraints
+      type: text
+      options: []
+      required: false

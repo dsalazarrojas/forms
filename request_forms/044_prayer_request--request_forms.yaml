@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prayer Request
+    pages:
+    - id: 1
+      name: prayer_request_form
+      label: Prayer Request Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: prayer_request_details
+      label: Prayer Request Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: prayer_answered
+      label: Prayer Answered
+      hint: null
+      type: select_one
+      options:
+      - Prayer Answered
+      - Not Prayer Answered
+      required: false
+    - id: 6
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false

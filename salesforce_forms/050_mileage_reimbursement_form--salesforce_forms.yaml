@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mileage Reimbursement Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: mileage_date
+      label: Mileage Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: mileage_miles
+      label: Mileage Miles
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reimbursement_request_date
+      label: Reimbursement Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reimbursement_currency
+      label: Reimbursement Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      required: false
+    - id: 7
+      name: reimbursement_rate
+      label: Reimbursement Rate
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '15'
+      - '20'
+      required: false
+    - id: 8
+      name: reimbursement_approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - John Smith
+      - Jane Doe
+      - Bob Brown
+      required: false
+    - id: 9
+      name: reimbursement_requester_comments
+      label: Requester Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: reimbursement_approver_comments
+      label: Approver Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: reimbursement_approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: reimbursement_requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reimbursement_requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: reimbursement_requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reimbursement_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: false
+    - id: 16
+      name: reimbursement_requester_department
+      label: Requester Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reimbursement_approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reimbursement_requester_title
+      label: Requester Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reimbursement_requester_company
+      label: Requester Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reimbursement_approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reimbursement_requester_job_title
+      label: Requester Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reimbursement_approver_job_title
+      label: Approver Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reimbursement_requester_country
+      label: Requester Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reimbursement_approver_country
+      label: Approver Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reimbursement_requester_city
+      label: Requester City
+      hint: null
+      type: text
+      options: []
+      required: false

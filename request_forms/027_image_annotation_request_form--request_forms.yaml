@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Image Annotation Request Form
+    pages:
+    - id: 1
+      name: uploads
+      label: Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: requirements
+      label: Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: deadlines
+      label: Deadlines
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: team_managers
+      label: Team Managers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vendors
+      label: Vendors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: submission_form
+      label: Submission form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submission_form_deadline
+      label: Submission deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

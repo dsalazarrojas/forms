@@ -1,0 +1,305 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capital Expenditure Request Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capital Expenditure Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Submit a capital expenditure request for the upcoming budget cycle. Provide
+        comprehensive details for budget planning.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: submitter_info_header
+      label: -- Submitter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: agency_name
+      label: Agency or Department Name
+      hint: Your agency name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submitter_name
+      label: Submitter Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: fiscal_year
+      label: Fiscal Year for Budget
+      hint: Select year
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_info_header
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: project_name
+      label: Project Name
+      hint: Official project name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_description
+      label: Project Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: project_type
+      label: Type of Project
+      hint: Select one
+      type: select_one
+      options:
+      - Infrastructure
+      - Technology
+      - Equipment
+      - Facility
+      - Fleet
+      - Building
+      - Environmental
+      - Other
+      required: true
+    - id: 14
+      name: project_category
+      label: Project Category
+      hint: Select one
+      type: select_one
+      options:
+      - New asset
+      - Replacement
+      - Upgrade
+      - Expansion
+      - Maintenance
+      - Repair
+      - Other
+      required: true
+    - id: 15
+      name: justification_header
+      label: -- Project Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: business_case
+      label: Business Case/Justification
+      hint: Why is this project needed
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: strategic_alignment
+      label: Strategic Alignment
+      hint: How does this support agency goals
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: public_benefit
+      label: Public Benefit
+      hint: How does this benefit the public
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: risk_if_not_funded
+      label: Risk if Not Funded
+      hint: What are the consequences
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cost_info_header
+      label: -- Cost Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: total_project_cost
+      label: Total Project Cost
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: cost_estimate_basis
+      label: Cost Estimate Basis
+      hint: How was cost calculated
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: cost_breakdown
+      label: Cost Breakdown by Component
+      hint: Itemized costs
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: inflation_adjustment
+      label: Inflation Adjustment Included?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 25
+      name: contingency
+      label: Contingency Amount
+      hint: Buffer for cost overruns
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: funding_source_header
+      label: -- Funding Sources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: funding_sources
+      label: Proposed Funding Sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General fund
+      - Grant funding
+      - Bonds
+      - Enterprise fund
+      - Donations
+      - Federal funding
+      - State funding
+      - Other
+      required: true
+    - id: 28
+      name: funding_match_required
+      label: Matching Funds Required?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 29
+      name: timeline_header
+      label: -- Timeline and Phasing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: project_start_date
+      label: Planned Start Date
+      hint: When will work begin
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: project_end_date
+      label: Planned Completion Date
+      hint: When will work be complete
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: project_duration
+      label: Project Duration (months)
+      hint: Estimated duration
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: phasing
+      label: Project Phasing
+      hint: Multiple phases or single phase
+      type: select_one
+      options:
+      - Single phase
+      - Multiple phases
+      - Pilot program
+      - Phased over years
+      required: false
+    - id: 34
+      name: alternatives_header
+      label: -- Alternatives Considered --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: alternatives_considered
+      label: Alternatives Considered
+      hint: What other options were evaluated
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: preferred_alternative
+      label: Why is Recommended Alternative Best?
+      hint: Comparison to alternatives
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: approval_header
+      label: -- Approval Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: department_head_approval
+      label: Department Head Name (for approval)
+      hint: Name of approving official
+      type: text
+      options: []
+      required: true

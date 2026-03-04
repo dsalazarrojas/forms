@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Forklift Safety Inspection Form
+    pages:
+    - id: 1
+      name: forklift_safety_inspection_form_1
+      label: safety_inspection_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: forklift_equipment_checklist
+      label: forklift_equipment_checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Forklift Controls
+      - Forklift Tires
+      - Forklift Wheels
+      required: true
+    - id: 3
+      name: forklift_operating_procedures
+      label: forklift_operating_procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: forklift_training_records
+      label: forklift_training_records
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: forklift_license
+      label: forklift_license
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      required: false
+    - id: 6
+      name: forklift_defects_found
+      label: forklift_defects_found
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: forklift_safety_inspection_report
+      label: forklift_safety_inspection_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: forklift_safety_inspection_recommendations
+      label: forklift_safety_inspection_recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

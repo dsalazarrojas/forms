@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: surety-bond-renewal-request-form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: surety_bond_number
+      label: surety-bond-number
+      hint: The surety bond number of the bond to be renewed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bond_expiration_date
+      label: bond-expiration-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: request-date
+      hint: The date the request is received
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit_request
+      label: submit-request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

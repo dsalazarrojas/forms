@@ -1,0 +1,297 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Entry Pass Request Form
+    pages:
+    - id: 1
+      name: visitor_header
+      label: -- Building Entry Pass Request --
+      hint: Request access to the building
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company or organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: title
+      label: Job title or position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: visit_details
+      label: -- Visit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: visit_date
+      label: Requested visit date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: start_time
+      label: Start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: end_time
+      label: End time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: purpose_of_visit
+      label: Purpose of visit
+      hint: null
+      type: select_one
+      options:
+      - Business meeting
+      - Delivery
+      - Maintenance/repairs
+      - Sales presentation
+      - Job interview
+      - Training
+      - Inspection
+      - Contractor work
+      - Other
+      required: true
+    - id: 12
+      name: purpose_description
+      label: Detailed description of visit purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: host_section
+      label: -- Host Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: host_name
+      label: Host or contact person name
+      hint: Person being visited
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: host_department
+      label: Host department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: host_email
+      label: Host email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: host_phone
+      label: Host phone extension or number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: access_details
+      label: -- Building Access Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: building_location
+      label: Building or campus location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: floor_room
+      label: Specific floor or room number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: parking_needed
+      label: Parking required
+      hint: null
+      type: select_one
+      options:
+      - Yes, standard parking
+      - Yes, accessible parking
+      - No parking needed
+      - Unsure
+      required: false
+    - id: 22
+      name: special_access
+      label: Special access areas needed
+      hint: null
+      type: select_multiple
+      options:
+      - Main entrance only
+      - Specific floor access
+      - Parking garage
+      - Secured areas
+      - Lab or facility
+      - Server room
+      - Other
+      required: false
+    - id: 23
+      name: visitor_type
+      label: -- Visitor Classification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: visitor_category
+      label: Visitor category
+      hint: null
+      type: select_one
+      options:
+      - Internal employee/department
+      - External business partner
+      - Contractor/vendor
+      - Client/customer
+      - Service provider
+      - Temporary access
+      - Other
+      required: true
+    - id: 25
+      name: frequency
+      label: Frequency of visits
+      hint: null
+      type: select_one
+      options:
+      - One-time visit
+      - Regular visits - weekly
+      - Regular visits - monthly
+      - Ongoing access needed
+      - Multiple visits planned
+      required: true
+    - id: 26
+      name: group_visit
+      label: -- Group Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: group_size
+      label: Number of visitors in your group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: additional_visitors
+      label: Names of additional visitors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: security_compliance
+      label: -- Security Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: nda_required
+      label: Confidentiality/NDA agreement
+      hint: null
+      type: select_one
+      options:
+      - Already signed
+      - Willing to sign
+      - Need details
+      - Not applicable
+      required: false
+    - id: 31
+      name: background_check
+      label: Background check status
+      hint: null
+      type: select_one
+      options:
+      - Already completed
+      - Willing to complete
+      - Not required
+      - Unsure
+      required: false
+    - id: 32
+      name: badge_preference
+      label: Badge preference
+      hint: null
+      type: select_one
+      options:
+      - Temporary badge
+      - Visitor badge
+      - Pass card preferred
+      - Electronic access
+      - No preference
+      required: false
+    - id: 33
+      name: acknowledgment
+      label: -- Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: rules_agreement
+      label: I acknowledge and agree to building rules and security procedures
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 35
+      name: additional_info
+      label: Additional information or special requests
+      hint: null
+      type: text
+      options: []
+      required: false

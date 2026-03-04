@@ -1,0 +1,138 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audio Engineer Assistance Request Form
+    pages:
+      - id: 1
+        name: section_requester
+        label: -- Requestor Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department_team
+        label: Department or Team
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: section_event
+        label: -- Service Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: service_needed_date
+        label: Date of Service Needed
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: service_time_start
+        label: Start Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 8
+        name: service_time_end
+        label: End Time
+        hint: null
+        type: time
+        options: []
+        required: false
+      - id: 9
+        name: venue_location
+        label: Venue or Room Location
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: project_name
+        label: Event or Project Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: section_technical
+        label: -- Technical Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: type_of_assistance
+        label: Type of Assistance Required
+        hint: Select the primary task
+        type: select_one
+        options:
+          - Recording Session
+          - Live Sound Mixing
+          - PA System Setup
+          - Troubleshooting/Repair
+          - Post-Production/Mixing
+          - Equipment Training
+        required: true
+      - id: 13
+        name: equipment_involved
+        label: Specific Equipment to be Used
+        hint: e.g., Mics, Consoles, Speakers
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: assistance_description
+        label: Detailed Description of Request
+        hint: Provide as much context as possible
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: priority_level
+        label: Priority Level
+        hint: null
+        type: select_one
+        options:
+          - Low - Routine
+          - Medium - Upcoming Event
+          - High - Critical Issue
+          - Emergency - Immediate Help Needed
+        required: true
+      - id: 16
+        name: file_attachments_note
+        label: Please ensure all relevant files are sent to audio-team@company.com
+        hint: null
+        type: note
+        options: []
+        required: false

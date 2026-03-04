@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Satisfaction Survey
+    pages:
+    - id: 1
+      name: newsletter_satisfaction_form
+      label: Newsletter Satisfaction Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: preferred_format
+      label: Preferred Format
+      hint: null
+      type: select_multiple
+      options:
+      - Newsletter
+      - Letter
+      - Email
+      required: false
+    - id: 6
+      name: frequency_of_reading
+      label: Frequency of Reading
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false

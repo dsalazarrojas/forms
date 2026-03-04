@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sandwich Order Form Template
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sandwich_type
+      label: sandwich_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Turkey''}'
+      - '{''id'': 2, ''name'': ''Veggie''}'
+      - '{''id'': 3, ''name'': ''Ham''}'
+      required: false
+    - id: 5
+      name: order_time
+      label: order_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: customer_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: total_order
+      label: total_order
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: form_submitted
+      label: form_submitted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''form_submitted''}'
+      - '{''id'': 2, ''name'': ''form_submitted''}'
+      required: false
+    - id: 10
+      name: form_submitted_2
+      label: form_submitted_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''form_submitted_2''}'
+      - '{''id'': 2, ''name'': ''form_submitted_2''}'
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: sandwich_menu
+      label: sandwich_menu
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''sandwich_menu_1''}'
+      - '{''id'': 2, ''name'': ''sandwich_menu_2''}'
+      - '{''id'': 3, ''name'': ''sandwich_menu_3''}'
+      required: false
+    - id: 14
+      name: menu
+      label: menu
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''menu_1''}'
+      - '{''id'': 2, ''name'': ''menu_2''}'
+      - '{''id'': 3, ''name'': ''menu_3''}'
+      required: false
+    - id: 15
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: customer_address
+      label: customer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_city
+      label: customer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_state
+      label: customer_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_zip
+      label: customer_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_country
+      label: customer_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: sandwich_menu_2
+      label: sandwich_menu_2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''sandwich_menu_2_1''}'
+      - '{''id'': 2, ''name'': ''sandwich_menu_2_2''}'
+      required: false
+    - id: 25
+      name: sandwich_menu_3
+      label: sandwich_menu_3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''sandwich_menu_3_1''}'
+      - '{''id'': 2, ''name'': ''sandwich_menu_3_2''}'
+      required: false

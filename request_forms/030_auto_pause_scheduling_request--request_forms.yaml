@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Pause Scheduling Request
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name on the account
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_id
+      label: Account or Subscription ID
+      hint: Your unique member number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: For confirmation of the pause
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pause_schedule_header
+      label: -- Pause Schedule --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: pause_start_date
+      label: Pause Start Date
+      hint: First day of the service hold
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: pause_end_date
+      label: Pause End Date
+      hint: Last day of the service hold
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_pause
+      label: Reason for Pause
+      hint: Help us understand why you are taking a break
+      type: select_one
+      options:
+      - Vacation
+      - Financial Reasons
+      - Temporary Relocation
+      - Medical Leave
+      - Seasonal Break
+      required: true
+    - id: 10
+      name: service_impact_header
+      label: -- Service Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: services_paused
+      label: Services to be Paused
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Full Membership
+      - Premium Add-ons
+      - Weekly Delivery
+      - Cloud Storage
+      required: true
+    - id: 12
+      name: terms_agreement
+      label: I understand billing will resume automatically after the end date
+      hint: Confirmation of scheduling terms
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: notify_preference
+      label: Notifications Preference
+      hint: When should we send you updates?
+      type: select_one
+      options:
+      - Email when pause starts
+      - Email when pause ends
+      - Both
+      required: true
+    - id: 14
+      name: scheduling_notes
+      label: Additional Scheduling Notes
+      hint: Any other specific requests
+      type: text
+      options: []
+      required: false

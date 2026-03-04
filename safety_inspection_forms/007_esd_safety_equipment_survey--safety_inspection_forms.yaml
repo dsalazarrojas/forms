@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: ESD Safety Equipment Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_a_safety_controls
+      label: Section A Safety Controls
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: section_b_equipment_status
+      label: Section B Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 4
+      name: section_c_equipment_inspection_frequency
+      label: Section C Equipment Inspection Frequency
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_d_equipment_inspection_comments
+      label: Section D Equipment Inspection Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_e_safety_equipment
+      label: Section E Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: section_f_safety_equipment_location
+      label: Section F Safety Equipment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_g_esd_equipment_certifications
+      label: Section G ESD Equipment Certifications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

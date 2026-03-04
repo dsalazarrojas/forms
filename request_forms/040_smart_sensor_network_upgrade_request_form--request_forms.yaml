@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Sensor Network Upgrade Request Form
+    pages:
+    - id: 1
+      name: sensor_network_id
+      label: sensor_network_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: network_upgrade_scope
+      label: network upgrade scope
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: justification
+      label: justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_upgrade_date
+      label: preferred upgrade date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: sensor_type_upgrade
+      label: sensor type upgrade
+      hint: null
+      type: select_multiple
+      options:
+      - sensor type A
+      - sensor type B
+      - sensor type C
+      required: false
+    - id: 6
+      name: sensor_network_location
+      label: sensor network location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: engineering_team_review_status
+      label: engineering team review status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - in progress
+      - approved
+      required: false
+    - id: 8
+      name: upgrade_priority
+      label: upgrade priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: upgrade_frequency
+      label: upgrade frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Liability Release WaiverThe Spearman Wedding 1.1.21
+    pages:
+    - id: 1
+      name: guest_header
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: party_size
+      label: Party Size (Number of Guests)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: plus_one_name
+      label: Plus One Name if Applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date - January 1, 2021
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: attendance
+      label: Will You Be Attending
+      hint: null
+      type: select_one
+      options:
+      - Yes, Attending
+      - No, Not Attending
+      - Maybe
+      required: true
+    - id: 11
+      name: meal_preference
+      label: Meal Preference
+      hint: null
+      type: select_one
+      options:
+      - Chicken
+      - Beef
+      - Vegetarian
+      - Vegan
+      - Fish
+      required: false
+    - id: 12
+      name: health_section
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: symptoms
+      label: COVID-19 symptoms in past 14 days
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: exposure
+      label: Known COVID-19 exposure
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 15
+      name: tested_positive
+      label: Tested positive for COVID-19
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: high_risk_contact
+      label: Close contact with high-risk individual
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Vaccinated
+      - Partially Vaccinated
+      - Not Vaccinated
+      required: true
+    - id: 18
+      name: waiver_section
+      label: -- Liability Waiver --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: understand_risks
+      label: I understand COVID-19 risks
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Understand
+      - false
+      required: true
+    - id: 20
+      name: accept_risks
+      label: I accept the risks associated with attendance
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Accept
+      - No, I Do Not Accept
+      required: true
+    - id: 21
+      name: waiver_agreement
+      label: I release the couple from COVID-19 related liability
+      hint: null
+      type: select_one
+      options:
+      - I Agree and Release
+      - I Do Not Agree
+      required: true
+    - id: 22
+      name: health_responsibility
+      label: I take responsibility for my own health
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 23
+      name: declaration_date
+      label: Date of Declaration
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calibration Certificate Retrieval Request Form
+    pages:
+    - id: 1
+      name: requester_header
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: certificate_header
+      label: -- Certificate Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: equipment_id
+      label: Equipment ID or Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - Scale
+      - Balance
+      - Thermometer
+      - Pressure gauge
+      - Flow meter
+      - Other
+      required: true
+    - id: 11
+      name: calibration_date_from
+      label: Calibration Date From
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: calibration_date_to
+      label: Calibration Date To
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: certificate_number
+      label: Known Certificate Number (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: request_type_header
+      label: -- Request Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: request_type
+      label: Type of Request
+      hint: null
+      type: select_one
+      options:
+      - Original certificate
+      - Duplicate copy
+      - Digital copy
+      - Historical records
+      - Compliance documentation
+      required: true
+    - id: 16
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Important
+      - Urgent
+      - Critical
+      required: true
+    - id: 17
+      name: delivery_header
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Pickup
+      - Digital download
+      required: true
+    - id: 19
+      name: delivery_address
+      label: Delivery Address (if mail)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: purpose_header
+      label: -- Purpose of Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: purpose
+      label: Purpose for Requesting Certificate
+      hint: null
+      type: select_one
+      options:
+      - Audit preparation
+      - Compliance verification
+      - Legal requirement
+      - Maintenance records
+      - Insurance claim
+      - Other
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

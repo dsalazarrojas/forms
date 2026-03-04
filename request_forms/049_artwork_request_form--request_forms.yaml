@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artwork Request Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Client Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Client Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_description
+      label: Detailed Project Description
+      hint: What artwork or design do you need
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_purpose
+      label: Purpose of Artwork
+      hint: Marketing, publication, website, etc.
+      type: select_one
+      options:
+      - Marketing Material
+      - Website
+      - Publication
+      - Print Media
+      - Social Media
+      - Branding
+      - Other
+      required: true
+    - id: 8
+      name: artwork_type
+      label: Type of Artwork Needed
+      hint: null
+      type: select_one
+      options:
+      - Illustration
+      - Logo
+      - Banner
+      - Poster
+      - Infographic
+      - Photography
+      - Package Design
+      - Custom Design
+      required: true
+    - id: 9
+      name: style_preference
+      label: Preferred Art Style or Aesthetic
+      hint: Modern, vintage, minimalist, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: color_palette
+      label: Color Palette or Preferences
+      hint: Colors, hex codes, mood
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: target_audience
+      label: Target Audience
+      hint: Who will see this artwork
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: dimensions_or_format
+      label: Dimensions or Format Required
+      hint: Specifications for the artwork
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reference_materials
+      label: Reference Materials or Inspiration
+      hint: Links, images, or descriptions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: copyright_ownership
+      label: Copyright Ownership After Completion
+      hint: null
+      type: select_one
+      options:
+      - Client Owns All Rights
+      - Artist Retains Some Rights
+      - To Be Negotiated
+      required: true
+    - id: 15
+      name: revision_rounds
+      label: Number of Revision Rounds Included
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: estimated_budget
+      label: Estimated Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: file_format_needed
+      label: Final File Format Needed
+      hint: PDF, PNG, PSD, vector, print-ready, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_notes
+      label: Additional Notes or Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_authority
+      label: Authority to Approve Final Artwork
+      hint: Name and title of person
+      type: text
+      options: []
+      required: false

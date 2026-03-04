@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Registration Form
+    pages:
+    - id: 1
+      name: customer_registration_form
+      label: customer_registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_reservation_date
+      label: customer reservation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: customer_reservation_time
+      label: customer reservation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: customer_note
+      label: customer note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_reservation_note
+      label: customer reservation note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: customer_reservation_comment
+      label: customer reservation comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_reservation_status
+      label: customer reservation status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''status 1'', ''value'': ''status 1''}'
+      - '{''label'': ''status 2'', ''value'': ''status 2''}'
+      - '{''label'': ''status 3'', ''value'': ''status 3''}'
+      required: false
+    - id: 12
+      name: customer_reservation_category
+      label: customer reservation category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_reservation_form_ids
+      label: customer reservation form id
+      hint: null
+      type: text
+      options: []
+      required: false

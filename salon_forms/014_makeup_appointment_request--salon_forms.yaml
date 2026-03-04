@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Appointment Request
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: makeup_services
+      label: Makeup Services
+      hint: null
+      type: select_multiple
+      options:
+      - Makeup Session
+      - Touch-up
+      - Makeup Lesson
+      required: true
+    - id: 9
+      name: makeup_artist
+      label: Makeup Artist
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: terms_and_conditions
+      label: Terms and Conditions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: client_name2
+      label: Client Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: client_email2
+      label: Client Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: client_phone2
+      label: Client Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date2
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: time2
+      label: Time 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: duration2
+      label: Duration 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: location2
+      label: Location 2
+      hint: null
+      type: text
+      options: []
+      required: false

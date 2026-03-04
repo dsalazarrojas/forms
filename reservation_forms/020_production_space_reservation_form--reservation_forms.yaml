@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Space Reservation Form
+    pages:
+    - id: 1
+      name: reservation_details
+      label: Reservation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: studio_details
+      label: Studio Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: scheduling
+      label: Scheduling
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reservation_duration
+      label: Reservation Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reservation_status
+      label: Reservation Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting
+      - Confirmed
+      - Cancelled
+      - Denied
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 14
+      name: studio
+      label: Studio
+      hint: null
+      type: select_one
+      options:
+      - Studio 1
+      - Studio 2
+      - Studio 3
+      required: false
+    - id: 15
+      name: user
+      label: User
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 16
+      name: room_number
+      label: Room Number
+      hint: null
+      type: select_one
+      options:
+      - Room 1
+      - Room 2
+      - Room 3
+      required: false
+    - id: 17
+      name: floor
+      label: Floor
+      hint: null
+      type: select_one
+      options:
+      - 1st Floor
+      - 2nd Floor
+      - 3rd Floor
+      required: false
+    - id: 18
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Private
+      - Shared
+      required: false
+    - id: 19
+      name: equipment
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Projector
+      - Whiteboard
+      - Sound System
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reserved_until
+      label: Reserved Until
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: reserved_by
+      label: Reserved By
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 23
+      name: reserved_date
+      label: Reserved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: reserved_time
+      label: Reserved Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: reserved_status
+      label: Reserved Status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting
+      - Confirmed
+      - Cancelled
+      - Denied
+      required: false

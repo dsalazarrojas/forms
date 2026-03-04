@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Support Request For Developers
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_media_type
+      label: Type of Social Media
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      required: true
+    - id: 3
+      name: issue_description
+      label: Describe The Issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: screenshot_url
+      label: Screenshot URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: developer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: developer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: issue_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: issue_description2
+      label: Detailed Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issue_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Resolved
+      required: false
+    - id: 11
+      name: issue_resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_developer
+      label: Developer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_lead_email
+      label: Team Lead
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: team_lead_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: issue_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: issue_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: issue_priority_label
+      label: Priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: issue_resolution_label
+      label: Resolution Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: issue_status_label
+      label: Status Label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: email_confirmation
+      label: Confirm E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: team_lead_confirmation
+      label: Team Lead Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: issue_date_label
+      label: Issue Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_lead_phone_label
+      label: Team Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

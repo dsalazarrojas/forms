@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hardware Request
+    pages:
+    - id: 1
+      name: new_hardware_request
+      label: New Hardware Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - damaged
+      - outdated
+      - new
+      required: false
+    - id: 3
+      name: reason_for_request
+      label: Reason for Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hardware_description
+      label: Hardware Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hardware_name
+      label: Hardware Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hardware_part_number
+      label: Hardware Part Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: quantity_requested
+      label: Quantity Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false

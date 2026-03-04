@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Robot Safety Inspection Survey
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_last_inspection
+      label: Date last inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: next_inspection_due_date
+      label: Next inspection due date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: robot_model
+      label: Robot model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: robot_number
+      label: Robot number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: serial_number
+      label: Serial number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_area
+      label: Facility area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: facility_location
+      label: Facility location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: robot_type
+      label: Robot type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: condition_of_inspection
+      label: Condition of inspection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: hazards_found
+      label: Hazards found
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: corrective_action_taken
+      label: Corrective action taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: next_action_date
+      label: Next action date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_title
+      label: Submitted by title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_department
+      label: Submitted by department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_phone
+      label: Submitted by phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_email
+      label: Submitted by email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to_title
+      label: Assigned to title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to_department
+      label: Assigned to department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_to_phone
+      label: Assigned to phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_to_email
+      label: Assigned to email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to_manager
+      label: Assigned to manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

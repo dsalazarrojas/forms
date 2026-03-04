@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: cruise_registration_form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: passenger_name
+      label: passenger_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: date_of_birth
+      hint: 'format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_document
+      label: travel_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: itinerary
+      label: itinerary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: cruise_line
+      label: cruise_line
+      hint: null
+      type: select_multiple
+      options:
+      - Cruise Line 1
+      - Cruise Line 2
+      - Cruise Line 3
+      required: false
+    - id: 9
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: special_requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: arrival_date
+      label: arrival_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: departure_date
+      label: departure_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: room_type
+      label: room_type
+      hint: null
+      type: select_one
+      options:
+      - Standard Room
+      - Suite
+      - Cabin
+      required: false
+    - id: 14
+      name: room_number
+      label: room_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: cabin_number
+      label: cabin_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: cabin_name
+      label: cabin_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: flight_date
+      label: flight_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: flight_time
+      label: flight_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: arrival_time
+      label: arrival_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: flight_carrier
+      label: flight_carrier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: flight_number2
+      label: flight_number2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: flight_number3
+      label: flight_number3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: flight_number4
+      label: flight_number4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - PayPal
+      required: false

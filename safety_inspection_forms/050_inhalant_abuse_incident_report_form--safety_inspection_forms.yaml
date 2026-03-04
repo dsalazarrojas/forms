@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inhalant Abuse Incident Report Form
+    pages:
+    - id: 1
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: suspect_involvement
+      label: Suspect Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Suspect
+      - Involuntary
+      required: false
+    - id: 5
+      name: witness_involvement
+      label: Witness Involvement
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Suspect
+      - Witness
+      - Involuntary
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Follow-up
+      - Escalate
+      required: false
+    - id: 9
+      name: incident_reporting_unit
+      label: Incident Reporting Unit
+      hint: null
+      type: select_one
+      options:
+      - School
+      - Workplace
+      - Community
+      required: false
+    - id: 10
+      name: incident_reporting_date
+      label: Incident Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: incident_reporting_time
+      label: Incident Reporting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_reporting_status
+      label: Incident Reporting Status
+      hint: null
+      type: select_multiple
+      options:
+      - Draft
+      - Completed
+      - Submitted
+      required: false
+    - id: 15
+      name: incident_reporting_comments
+      label: Incident Reporting Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_reporting_unit_name
+      label: Incident Reporting Unit Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Inquiry Form
+    pages:
+    - id: 1
+      name: property_inquiry_form_property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_inquiry_form_street
+      label: Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_inquiry_form_zip
+      label: ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_inquiry_form_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''CA''}'
+      - '{''value'': ''NY''}'
+      - '{''value'': ''TX''}'
+      required: false
+    - id: 5
+      name: property_inquiry_form_property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Single Family''}'
+      - '{''value'': ''Multi Family''}'
+      - '{''value'': ''Duplex''}'
+      required: false
+    - id: 6
+      name: property_inquiry_form_bedrooms
+      label: Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_inquiry_form_bathrooms
+      label: Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_inquiry_form_sqft
+      label: SQFT
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: property_inquiry_form_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_inquiry_form_contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_inquiry_form_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: property_inquiry_form_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_inquiry_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_inquiry_form_property_inquiry_date
+      label: Property Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: property_inquiry_form_property_inquiry_time
+      label: Property Inquiry Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: property_inquiry_form_lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Internet''}'
+      - '{''value'': ''Social Media''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 17
+      name: property_inquiry_form_property_inquiry_agent
+      label: Property Inquiry Agent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Jim''}'
+      - '{''value'': ''John''}'
+      required: false

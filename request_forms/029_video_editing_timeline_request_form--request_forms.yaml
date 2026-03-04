@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Editing Timeline Request Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_deadline
+      label: Project Deadline
+      hint: Please provide deadline for project
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: files
+      label: Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: editors
+      label: Editors
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: files_details
+      label: Files Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: deadline_notes
+      label: Deadline Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false

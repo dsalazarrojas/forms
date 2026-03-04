@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: uv_water_system_installation_and_maintenance_request
+    pages:
+    - id: 1
+      name: installation_details
+      label: Installation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_request
+      label: Service Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: schedule_visit
+      label: Schedule Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - monthly
+      - quarterly
+      - annually
+      required: false
+    - id: 5
+      name: facilities_team
+      label: Facilities Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false

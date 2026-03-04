@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: first_aid_kit_inspection_form
+    pages:
+    - id: 1
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_aid_kit_location
+      label: first aid kit location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: kit_contents
+      label: kit contents
+      hint: null
+      type: select_multiple
+      options:
+      - Kit A
+      - Kit B
+      - Kit C
+      required: false
+    - id: 4
+      name: kit_contents_checklist
+      label: first aid kit contents
+      hint: null
+      type: select_one
+      options:
+      - Bandages
+      - Antiseptic wipes
+      - Antihistamine
+      - Antiseptic ointment
+      - Cold packs
+      - Eye wash
+      - Thermometer
+      required: false
+    - id: 5
+      name: kit_contents_checklist
+      label: first aid kit contents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: first_aid_kit_contents
+      label: first aid kit contents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_checked
+      label: date-checked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: checked_by
+      label: checked_by
+      hint: null
+      type: text
+      options: []
+      required: false

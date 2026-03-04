@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: immigration_enquiry_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: surname
+      label: Surname
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: country_of_origin
+      label: Country of Origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_enquiry
+      label: Reason for Enquiry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: enquiry_type
+      label: Enquiry Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General Enquiry''}'
+      - '{''label'': ''Document Verification''}'
+      - '{''label'': ''Process Information''}'
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: Please format as XXX-XXX-XXXX or +X(XXX) XXX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Please include your email address
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: false

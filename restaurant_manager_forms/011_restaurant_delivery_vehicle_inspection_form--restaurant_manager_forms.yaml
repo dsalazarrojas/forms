@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Delivery Vehicle Inspection Form
+    pages:
+    - id: 1
+      name: restaurant_delivery_vehicle_inspection_form_page1
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: vehicle_registration
+      label: Vehicle Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_year
+      label: Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: photo_documentation
+      label: Photo Documentation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false

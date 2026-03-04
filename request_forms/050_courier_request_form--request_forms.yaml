@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Courier Request Form
+    pages:
+    - id: 1
+      name: business_user_name
+      label: Business User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_type
+      label: Delivery Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: courier_service
+      label: Courier Service
+      hint: null
+      type: text
+      options: []
+      required: false

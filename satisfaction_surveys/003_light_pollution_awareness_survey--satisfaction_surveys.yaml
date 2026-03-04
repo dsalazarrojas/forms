@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Light Pollution Awareness Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Nighttime Lighting
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''nighttime_lighting_1'', ''label'': ''Very bright''}'
+      - '{''id'': 11, ''name'': ''nighttime_lighting_2'', ''label'': ''Not very bright''}'
+      required: false
+    - id: 3
+      name: page_3
+      label: Skyglow
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 20, ''name'': ''skyglow_1'', ''label'': ''Very high''}'
+      - '{''id'': 21, ''name'': ''skyglow_2'', ''label'': ''Not very high''}'
+      required: false
+    - id: 4
+      name: page_4
+      label: Energy Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: page_5
+      label: Energy Use
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 30, ''name'': ''energy_use_1'', ''label'': ''Less''}'
+      - '{''id'': 31, ''name'': ''energy_use_2'', ''label'': ''More''}'
+      required: false
+    - id: 6
+      name: page_6
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: Page 8
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: Page 9
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: Page 10
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: page_11
+      label: Page 11
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Category And Taxonomy Term Order Request Form
+    pages:
+      - id: 1
+        name: requester_header
+        label: -- Requester Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: department_name
+        label: Department/Team
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: platform_name
+        label: Website or Application Name
+        hint: Where should this taxonomy change be applied
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_taxonomy
+        label: -- Taxonomy Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: taxonomy_type
+        label: Type of Taxonomy
+        hint: null
+        type: select_one
+        options:
+          - "Categories"
+          - "Tags"
+          - "Custom Taxonomy Terms"
+          - "Menu Items"
+        required: true
+      - id: 7
+        name: specific_taxonomy_id
+        label: Specific Taxonomy ID or Name
+        hint: e.g. product_categories or blog_tags
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: current_order_description
+        label: Description of Current Order
+        hint: Briefly describe how terms are currently sorted
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: requested_new_order
+        label: Requested New Order
+        hint: List terms in the exact order you want them displayed
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: section_rationale
+        label: -- Rationale and Impact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: reason_for_change
+        label: Reason for reordering
+        hint: e.g. Seasonal promotion, user testing results, new products
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: priority_level
+        label: Request Priority
+        hint: null
+        type: select_one
+        options:
+          - "Critical - Site Blocker"
+          - "High - Marketing Deadline"
+          - "Medium - Routine Update"
+          - "Low - Aesthetic Change"
+        required: true
+      - id: 13
+        name: impact_assessment
+        label: Does this affect SEO or internal linking
+        hint: null
+        type: select_one
+        options:
+          - "Yes, significant impact"
+          - "Minor impact"
+          - "No impact"
+          - "Unsure"
+        required: true
+      - id: 14
+        name: requested_completion_date
+        label: Requested Completion Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 15
+        name: further_comments
+        label: Additional Instructions for IT/Web Team
+        hint: null
+        type: text
+        options: []
+        required: false

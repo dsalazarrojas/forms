@@ -1,0 +1,119 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Merger Announcement RSVP
+    pages:
+    - id: 1
+      name: meeting_attendance
+      label: Meeting Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Please provide the guest's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_title
+      label: Guest Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: guest_company
+      label: Guest Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_job_title
+      label: Guest Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: guest_function
+      label: Guest Function
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question1
+      label: Do you have any questions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: question2
+      label: Do you have any further questions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: question3
+      label: Is there a specific reason for your non-attendance?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: question4
+      label: Would you like to receive more information about this announcement?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: question5
+      label: Is there anything else you would like to add?
+      hint: null
+      type: text
+      options: []
+      required: false

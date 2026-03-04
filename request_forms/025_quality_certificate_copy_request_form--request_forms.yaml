@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Quality Certificate Copy Request Form
+    pages:
+    - id: 1
+      name: quality_certificate_copy_request_form_details
+      label: Certificate Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_details
+      label: Applicant Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Compliance
+      required: false
+    - id: 4
+      name: preferred_delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Mail
+      required: false
+    - id: 5
+      name: delivery_by
+      label: Delivery By
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: signature_details
+      label: Signature Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: delivery_preferences
+      label: Delivery Preferences
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Request Forms
+      - Other
+      required: true
+    - id: 14
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 16
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: modified_on
+      label: Modified On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: created_on
+      label: Created On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Published
+      required: true
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: custom_field_1
+      label: Custom Field 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: custom_field_2
+      label: Custom Field 2
+      hint: null
+      type: text
+      options: []
+      required: false

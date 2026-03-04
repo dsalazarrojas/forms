@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Signal Light Tower Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tower_type
+      label: Tower Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Signal''}'
+      - Light
+      - Tower
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tower_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      required: false
+    - id: 8
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tower_height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: order_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false

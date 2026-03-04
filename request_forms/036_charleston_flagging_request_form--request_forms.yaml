@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charleston Flagging Request Form
+    pages:
+    - id: 1
+      name: section_request_info
+      label: -- Request Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: When are you making this request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: requestor_name
+      label: Requestor Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requestor_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: company_name
+      label: Company or Organization
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_project
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: project_name
+      label: Project Name
+      hint: Name of the construction or traffic project
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_location
+      label: Project Location
+      hint: Address or area where flaggers needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_type
+      label: Type of Project
+      hint: Construction, event, traffic control, etc
+      type: select_one
+      options:
+      - Construction
+      - Roadwork
+      - Traffic Control
+      - Event Setup
+      - Utility Work
+      - Other
+      required: true
+    - id: 11
+      name: section_requirements
+      label: -- Flagging Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: start_date
+      label: Start Date for Flagging Services
+      hint: When do you need flaggers
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: end_date
+      label: End Date for Flagging Services
+      hint: When will flagging services end
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: hours_needed
+      label: Daily Hours Needed
+      hint: Hours per day of flagging
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: flaggers_count
+      label: Number of Flaggers Needed
+      hint: How many flaggers required
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: flagging_type
+      label: Type of Flagging Needed
+      hint: Traffic control, parking, crowd control
+      type: select_one
+      options:
+      - Traffic Control
+      - Parking Management
+      - Crowd Control
+      - Directional
+      - Mixed Services
+      required: true
+    - id: 17
+      name: section_special
+      label: -- Special Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: special_requirements
+      label: Any Special Requirements
+      hint: Specific training, certifications, languages
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: equipment_provided
+      label: Will You Provide Equipment
+      hint: Flags, vests, signs, etc
+      type: select_one
+      options:
+      - Yes, All Equipment
+      - Yes, Some Equipment
+      - No Equipment Provided
+      required: true
+    - id: 20
+      name: section_contact
+      label: -- On-Site Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: onsite_supervisor
+      label: On-Site Project Supervisor Name
+      hint: Person directing the project
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: supervisor_phone
+      label: Supervisor Phone Number
+      hint: Direct contact at site
+      type: text
+      options: []
+      required: true

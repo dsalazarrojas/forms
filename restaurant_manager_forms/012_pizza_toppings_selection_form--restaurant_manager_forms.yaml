@@ -1,0 +1,141 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Pizza Toppings Selection Form
+    pages:
+    - id: 1
+      name: order_pizza
+      label: Order Pizza
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topping_sauce
+      label: Toppings Sauce
+      hint: null
+      type: select_multiple
+      options:
+      - BBQ sauce
+      - Olive oil
+      - Marinara sauce
+      required: true
+    - id: 3
+      name: topping_cheese
+      label: Toppings Cheese
+      hint: null
+      type: select_one
+      options:
+      - Mozzarella
+      - Cheddar
+      - Feta
+      required: true
+    - id: 4
+      name: topping_pepperoni
+      label: Pepperoni Toppings
+      hint: null
+      type: select_multiple
+      options:
+      - Pepperoni
+      - Sausage
+      - Ham
+      required: false
+    - id: 5
+      name: topping_mushroom
+      label: Mushroom Toppings
+      hint: null
+      type: select_multiple
+      options:
+      - Mushrooms
+      - Shiitake
+      - Crimini
+      required: false
+    - id: 6
+      name: topping_onions
+      label: Onions
+      hint: null
+      type: select_multiple
+      options:
+      - Onions
+      - Caramelized Onions
+      - Scallions
+      required: false
+    - id: 7
+      name: topping_extra_sauce
+      label: Extra Toppings Sauce
+      hint: null
+      type: select_multiple
+      options:
+      - Extra sauce
+      - Aioli
+      - Garlic Butter
+      required: false
+    - id: 8
+      name: topping_extra_cheese
+      label: Extra Toppings Cheese
+      hint: null
+      type: select_multiple
+      options:
+      - Extra cheese
+      - Feta
+      - Goat Cheese
+      required: false
+    - id: 9
+      name: topping_crust
+      label: Crust Type
+      hint: null
+      type: select_multiple
+      options:
+      - Thin crust
+      - Thick crust
+      - Gluten-free crust
+      required: true
+    - id: 10
+      name: topping_size
+      label: Pizza Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 11
+      name: topping_special_instruction
+      label: Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: topping_order_comments
+      label: Order Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: topping_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: topping_time
+      label: Order Time
+      hint: null
+      type: time
+      options: []
+      required: true

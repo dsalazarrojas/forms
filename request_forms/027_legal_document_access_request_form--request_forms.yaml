@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: legal_document_access_request_form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: legal_document_type
+      label: legal_document_type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Other''}'
+      - '{2: ''Court Document''}'
+      - '{3: ''Legal Opinion''}'
+      - '{4: ''Administrative Record''}'
+      - '{5: ''Other Document''}'
+      required: false
+    - id: 3
+      name: document_id
+      label: document_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''chatjimmy''}'
+      - '{2: ''Other Tool''}'
+      required: false
+    - id: 12
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: note
+      options: []
+      required: false

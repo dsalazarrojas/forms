@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: University Dormitory Health Inspection Form
+    pages:
+    - id: 1
+      name: residence_hall_id
+      label: Residence Hall ID
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: inspector_id
+      label: Inspector ID
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inspector_department
+      label: Inspector Department
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: residence_hall_name
+      label: Residence Hall Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: room_block
+      label: Room Block
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: room_number
+      label: Room Number
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: inspection_date
+      label: Inspection Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: inspection_time
+      label: Inspection Time
+      hint: 'null'
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: inspection_status
+      label: Inspection Status
+      hint: 'null'
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Deferred
+      required: false
+    - id: 11
+      name: findings
+      label: Findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_follow_up
+      label: Next Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submitted_department
+      label: Submitted Department
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_position
+      label: Submitted By Position
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_contact_no
+      label: Submitted By Contact No.
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by_contact_no_alt
+      label: Submitted By Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_comments
+      label: Submitted By Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false

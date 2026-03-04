@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Flow Diagram Improvement Request
+    pages:
+    - id: 1
+      name: form_title
+      label: Time Flow Diagram Improvement Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Request Forms
+      - Technical
+      - Quality
+      required: false
+    - id: 4
+      name: diagram_url
+      label: Diagram URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description_long
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: impact
+      label: Impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: improvement_area
+      label: Improvement Area
+      hint: null
+      type: select_one
+      options:
+      - Technical
+      - Process
+      - Other
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: created
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: closed
+      label: Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: updated
+      label: Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Draft
+      required: false
+    - id: 19
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: note_long
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: form_title_version
+      label: Form Title Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: description_version
+      label: Description Version
+      hint: null
+      type: text
+      options: []
+      required: false

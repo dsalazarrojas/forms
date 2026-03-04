@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: RSVP Communication Form
+    pages:
+    - id: 1
+      name: rsvp_communication_form
+      label: rsvp-communication-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: event-details
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: event_name
+      label: event-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendees
+      label: attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_email
+      label: RSVP Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_phone
+      label: RSVP Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: rsvp_status
+      label: rsvp-status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: rsvp_reason
+      label: rsvp-reason
+      hint: null
+      type: text
+      options: []
+      required: false

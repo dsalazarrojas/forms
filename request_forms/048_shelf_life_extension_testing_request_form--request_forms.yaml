@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shelf Life Extension Testing Request Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: expiry_date
+      label: Expiry Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: justification
+      label: Justification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shelf_life_extension_reason
+      label: Shelf Life Extension Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Please upload supporting documents
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: manufacturer_name
+      label: Manufacturer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manufacturer_address
+      label: Manufacturer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: test_methodology
+      label: Test Methodology
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool A
+      - Tool B
+      - Tool C
+      required: false
+    - id: 15
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: false

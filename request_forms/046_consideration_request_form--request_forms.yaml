@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consideration Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person making request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: Name of your supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: request_type
+      label: Type of Request
+      hint: Category of consideration
+      type: select_one
+      options:
+      - Policy Exception
+      - Deadline Extension
+      - Resource Allocation
+      - Special Accommodation
+      - Process Deviation
+      - Budget Exception
+      - Personnel Exception
+      - Other
+      required: true
+    - id: 9
+      name: request_type_other
+      label: Other Request Type
+      hint: Specify if other selected
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: subject
+      label: Subject of Request
+      hint: Brief title for your request
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: detailed_request
+      label: Detailed Description
+      hint: Full explanation of what you are requesting
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: justification
+      label: Justification
+      hint: Why is this request necessary
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_impact
+      label: Business Impact
+      hint: How will this affect operations
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: alternatives_considered
+      label: Alternatives Considered
+      hint: What other options did you explore
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Low - No rush
+      - Medium - Within 2 weeks
+      - High - Within 1 week
+      - Critical - Within 48 hours
+      required: true
+    - id: 16
+      name: requested_decision_date
+      label: Requested Decision Date
+      hint: When do you need a response
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: duration
+      label: Duration of Exception
+      hint: How long is this needed
+      type: select_one
+      options:
+      - One-time only
+      - Temporary - Less than 30 days
+      - Temporary - 30 to 90 days
+      - Temporary - More than 90 days
+      - Permanent
+      required: true
+    - id: 18
+      name: start_date
+      label: Start Date
+      hint: When should this take effect
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: end_date
+      label: End Date
+      hint: When should this expire
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: stakeholders
+      label: Stakeholders Affected
+      hint: Who else is impacted
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: stakeholder_consultation
+      label: Have Stakeholders Been Consulted
+      hint: Did you discuss with affected parties
+      type: select_one
+      options:
+      - Yes - All consulted
+      - Yes - Some consulted
+      - false
+      required: true
+    - id: 22
+      name: risks
+      label: Potential Risks
+      hint: What risks does this present
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: risk_mitigation
+      label: Risk Mitigation Plan
+      hint: How will risks be managed
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: compliance_impact
+      label: Compliance Impact
+      hint: Does this affect regulatory compliance
+      type: select_one
+      options:
+      - No impact
+      - Minor impact
+      - Significant impact
+      - Unknown
+      required: true
+    - id: 25
+      name: financial_impact
+      label: Financial Impact
+      hint: Cost implications
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List attached documents
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: previous_requests
+      label: Have You Made Similar Requests Before
+      hint: Prior request history
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: previous_requests_details
+      label: Previous Request Details
+      hint: Describe prior requests
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: manager_approval
+      label: Manager Approval
+      hint: Manager name for approval
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: request_status
+      label: Request Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Submitted
+      - Under review
+      - Additional information needed
+      - Approved
+      - Denied
+      - Withdrawn
+      required: true

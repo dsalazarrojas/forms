@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Request Form
+    pages:
+    - id: 1
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Vehicle 1''}'
+      - '{''name'': ''Vehicle 2''}'
+      - '{''name'': ''Vehicle 3''}'
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: Select the date of the event
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_count
+      label: Vehicle Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_size
+      label: Vehicle Size
+      hint: Select the size of the vehicle
+      type: select_one
+      options:
+      - '{''name'': ''Small''}'
+      - '{''name'': ''Medium''}'
+      - '{''name'': ''Large''}'
+      required: true
+    - id: 6
+      name: special_equipment
+      label: Special Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_description
+      label: Event Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,295 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Conditioner (HVAC) Installation Checklist
+    pages:
+    - id: 1
+      name: technician_name
+      label: Technician Name
+      hint: Full name of installing technician
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: technician_id
+      label: Technician ID
+      hint: Employee or license number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: installation_date
+      label: Installation Date
+      hint: Date of installation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: Customer full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Installation Address
+      hint: Full address of installation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: unit_type
+      label: Unit Type
+      hint: Type of HVAC unit
+      type: select_one
+      options:
+      - Central air conditioner
+      - Heat pump
+      - Ductless mini-split
+      - Window unit
+      - Package unit
+      - Commercial rooftop
+      required: true
+    - id: 7
+      name: unit_brand
+      label: Unit Brand
+      hint: Manufacturer brand
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: unit_model
+      label: Unit Model Number
+      hint: Model number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: unit_serial
+      label: Unit Serial Number
+      hint: Serial number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: unit_capacity
+      label: Unit Capacity (tons)
+      hint: Cooling capacity
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: seer_rating
+      label: SEER Rating
+      hint: Seasonal Energy Efficiency Ratio
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: pre_installation_inspection
+      label: Pre-Installation Inspection Completed
+      hint: Was site inspected before installation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: electrical_requirements
+      label: Electrical Requirements Verified
+      hint: Are electrical specs met
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 14
+      name: refrigerant_lines
+      label: Refrigerant Lines Check
+      hint: Are lines properly installed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 15
+      name: ductwork_inspection
+      label: Ductwork Inspection
+      hint: Condition of existing ductwork
+      type: select_one
+      options:
+      - Good condition
+      - Fair condition
+      - Poor condition
+      - New ductwork installed
+      - Not applicable
+      required: true
+    - id: 16
+      name: thermostat_installed
+      label: Thermostat Installed
+      hint: Was thermostat installed
+      type: select_one
+      options:
+      - Yes, new
+      - Yes, existing used
+      - false
+      required: true
+    - id: 17
+      name: thermostat_type
+      label: Thermostat Type
+      hint: Type of thermostat
+      type: select_one
+      options:
+      - Manual
+      - Programmable
+      - Smart/WiFi
+      - Not applicable
+      required: false
+    - id: 18
+      name: condensate_drain
+      label: Condensate Drain Check
+      hint: Is drain properly connected
+      type: select_one
+      options:
+      - Yes, properly installed
+      - Yes, needs adjustment
+      - false
+      - Not applicable
+      required: true
+    - id: 19
+      name: airflow_measurement
+      label: Airflow Measurement (CFM)
+      hint: Measured airflow
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: refrigerant_charge
+      label: Refrigerant Charge Verified
+      hint: Is charge correct
+      type: select_one
+      options:
+      - true
+      - false
+      - Adjusted
+      required: true
+    - id: 21
+      name: suction_pressure
+      label: Suction Pressure (PSI)
+      hint: Measured suction pressure
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: head_pressure
+      label: Head Pressure (PSI)
+      hint: Measured head pressure
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: temperature_differential
+      label: Temperature Differential (F)
+      hint: Return vs supply temp difference
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: safety_controls_tested
+      label: Safety Controls Tested
+      hint: Were all safety controls verified
+      type: select_one
+      options:
+      - Yes, all tested
+      - Some tested
+      - false
+      required: true
+    - id: 25
+      name: unit_level
+      label: Unit Level and Secure
+      hint: Is unit properly mounted
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 26
+      name: insulation_check
+      label: Insulation Check
+      hint: Is insulation properly installed
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 27
+      name: customer_instruction
+      label: Customer Instruction Provided
+      hint: Did you explain operation to customer
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: manual_provided
+      label: Manual and Documentation Provided
+      hint: Were manuals given to customer
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: work_area_cleaned
+      label: Work Area Cleaned
+      hint: Was area cleaned after installation
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: final_test_run
+      label: Final Test Run Completed
+      hint: Was system tested in all modes
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: issues_found
+      label: Issues Found
+      hint: Any issues during installation
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: technician_signature
+      label: Technician Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: customer_signature
+      label: Customer Signature
+      hint: Customer approval signature
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: checklist_status
+      label: Checklist Status
+      hint: Overall completion status
+      type: select_one
+      options:
+      - Complete, all items passed
+      - Complete, minor issues noted
+      - Incomplete, follow-up needed
+      required: true

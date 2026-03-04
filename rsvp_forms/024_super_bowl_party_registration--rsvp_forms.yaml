@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: super_bowl_party_registration
+    pages:
+    - id: 1
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attending_guests
+      label: Attending Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: name_of_guests_attending
+      label: Name of Guests Attending
+      hint: List of names separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: food_pantry_preferences
+      label: Food and Drink
+      hint: null
+      type: select_one
+      options:
+      - Burgers
+      - Hot Dogs
+      - Fries
+      - Chicken Wings
+      - Soda
+      required: false
+    - id: 5
+      name: food_preferences
+      label: Food Preferences
+      hint: List of foods separated by commas
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: drink_preferences
+      label: Drink Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Soda
+      - Beer
+      - Wine
+      required: false
+    - id: 7
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - Attending
+      - Not Attending
+      - Undecided
+      required: false
+    - id: 12
+      name: guest_count
+      label: Guest Count
+      hint: Enter guest count
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: food_count
+      label: Food Count
+      hint: Enter food count
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: drink_count
+      label: Drink Count
+      hint: Enter drink count
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: parking_info
+      label: Parking Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: transportation_info
+      label: Transportation Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_info
+      label: Other Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: time_of_arrival
+      label: Time of Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: rsvp_by
+      label: RSVP By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: food_options
+      label: Food Options
+      hint: null
+      type: select_one
+      options:
+      - Appetizers
+      - Main Course
+      - Dessert
+      required: false
+    - id: 25
+      name: drink_options
+      label: Drink Options
+      hint: null
+      type: select_multiple
+      options:
+      - Water
+      - Soda
+      - Beer
+      - Wine
+      required: false

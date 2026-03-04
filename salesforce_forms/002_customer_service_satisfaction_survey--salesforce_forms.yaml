@@ -1,0 +1,77 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Satisfaction Survey
+    pages:
+    - id: 1
+      name: customer_service_satisfaction_survey_page_1
+      label: Customer Service Satisfaction Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How would you rate your overall experience with our customer service?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''satisfied''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''dissatisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      required: false
+    - id: 3
+      name: question_2
+      label: How would you rate your overall experience with our customer service?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''satisfied''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''dissatisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      required: false
+    - id: 4
+      name: contact_method
+      label: How did you contact our customer service?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''phone_call''}'
+      - '{''value'': ''email''}'
+      - '{''value'': ''chat''}'
+      - '{''value'': ''in_person''}'
+      - '{''value'': ''in_store''}'
+      required: false
+    - id: 5
+      name: question_5
+      label: How did you find our service?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''helpful''}'
+      - '{''value'': ''somewhat_helpful''}'
+      - '{''value'': ''not_helpful''}'
+      - '{''value'': ''very_helpful''}'
+      required: false
+    - id: 6
+      name: question_6
+      label: What did you like or dislike about your experience?
+      hint: Please describe your thoughts.
+      type: note
+      options: []
+      required: false

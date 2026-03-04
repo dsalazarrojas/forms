@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Sample Request - JazzedandJoyous
+    pages:
+    - id: 1
+      name: section_jazz_intro
+      label: -- Get Jazzed with a Free Sample! --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: jazz_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: jazz_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: jazz_address
+      label: Mailing Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: jazz_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_jazz_survey
+      label: -- About Your Style --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: jazz_fav_colors
+      label: What are your favorite colors?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: jazz_nail_type
+      label: Do you prefer short or long nails?
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      required: false
+    - id: 9
+      name: jazz_tried_cs
+      label: Have you ever tried Color Street?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: section_jazz_vip
+      label: -- Join the Joy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: jazz_vip_group
+      label: Would you like to be added to my JazzedandJoyous VIP Group?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 12
+      name: jazz_host_party
+      label: Interested in hosting a 30-minute online party for free sets?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe later
+      required: true
+    - id: 13
+      name: jazz_stylist_info
+      label: Interested in learning how to earn extra income as a Stylist?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: jazz_referral
+      label: How did you find me?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: jazz_message
+      label: Message for me
+      hint: null
+      type: text
+      options: []
+      required: false

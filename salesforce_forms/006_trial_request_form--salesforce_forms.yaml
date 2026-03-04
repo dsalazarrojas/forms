@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Trial Request Form
+    pages:
+    - id: 1
+      name: trial_request_form
+      label: Trial Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_details
+      label: Lead Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: trial_start
+      label: Trial Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: trial_duration
+      label: Trial Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: trial_end
+      label: Trial End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: trial_request
+      label: Trial Request
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 14
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lead_owner
+      label: Lead Owner
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: trial_agreement
+      label: Trial Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: trial_request_status
+      label: Trial Request Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false

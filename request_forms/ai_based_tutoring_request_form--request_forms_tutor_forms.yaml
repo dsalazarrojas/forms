@@ -1,0 +1,216 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Based Tutoring Request Form
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Student Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this to contact you about your tutoring session
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional, for urgent communication
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: grade_level
+      label: Grade/Year level
+      hint: Current academic level
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: school_name
+      label: School or institution name
+      hint: Name of your current educational institution
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_academic
+      label: '--- Academic Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: subject_area
+      label: Subject area
+      hint: Select the primary subject for tutoring
+      type: select_one
+      options:
+      - Mathematics
+      - Science
+      - Language Arts
+      - Social Studies
+      - Arts
+      - Physical Education
+      - Technology
+      - Foreign Language
+      - Computer Science
+      - Other
+      required: true
+    - id: 9
+      name: specific_topic
+      label: Specific topic or area needing help
+      hint: e.g., algebra, organic chemistry, essay writing
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_grade
+      label: Current grade in this subject (%)
+      hint: Enter your approximate current grade percentage
+      type: decimal
+      options: []
+      required: false
+    - id: 11
+      name: learning_style
+      label: Preferred learning style
+      hint: How do you learn best?
+      type: select_one
+      options:
+      - Visual
+      - Auditory
+      - Reading/Writing
+      - Hands-on/Kinesthetic
+      - Interactive
+      - Group discussion
+      required: true
+    - id: 12
+      name: section_header_availability
+      label: '--- Availability & Preferences ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: preferred_session_length
+      label: Preferred session length (minutes)
+      hint: How long would you like each tutoring session?
+      type: integer
+      options: []
+      required: true
+    - id: 14
+      name: available_days
+      label: Days available for tutoring (select all)
+      hint: Which days work best for your schedule?
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 15
+      name: preferred_time
+      label: Preferred time of day
+      hint: When would you prefer to have sessions?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Flexible
+      required: true
+    - id: 16
+      name: hours_studied
+      label: Average study hours per week
+      hint: How many hours do you typically spend studying?
+      type: integer
+      options: []
+      required: false
+    - id: 17
+      name: section_header_challenges
+      label: '--- Learning Challenges ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: challenges
+      label: Main challenges faced (select all)
+      hint: What makes learning difficult for you?
+      type: select_multiple
+      options:
+      - Time management
+      - Difficult material
+      - Lack of resources
+      - Motivation
+      - Technology issues
+      - Large class sizes
+      - Test anxiety
+      - Attention problems
+      - Language barriers
+      required: false
+    - id: 19
+      name: previous_tutoring
+      label: Previous tutoring experience
+      hint: Have you received tutoring before?
+      type: select_one
+      options:
+      - None
+      - Online tutoring
+      - In-person tutoring
+      - Both online and in-person
+      required: false
+    - id: 20
+      name: goals
+      label: Goals for tutoring
+      hint: What do you hope to achieve through tutoring?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information about your tutoring needs
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: consent_to_contact
+      label: I consent to being contacted about my tutoring request
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

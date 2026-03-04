@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: phone_call_request_form
+    pages:
+    - id: 1
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: call_reason
+      label: Reason for Call
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_type
+      label: Call Type
+      hint: null
+      type: select_one
+      options:
+      - landline
+      - mobile
+      required: true
+    - id: 4
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: salesforce_form_id
+      label: Salesforce Form ID
+      hint: 71394
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 8
+      name: output_file
+      label: Output File
+      hint: 002_phone_call_request_form--salesforce_forms
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

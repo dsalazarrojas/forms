@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mpox Test Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: symptoms
+      label: Symptoms
+      hint: Please describe your symptoms.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: doctor_note
+      label: Doctor's Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: doctor_name
+      label: Doctor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: lab_location
+      label: Lab Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_phone
+      label: Doctor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: test_type
+      label: Test Type
+      hint: Please specify the type of test you wish to perform (e.g., PCR, antigen).
+      type: select_one
+      options:
+      - '{''option1'': ''PCR''}'
+      - '{''option2'': ''Antigen''}'
+      - '{''option3'': ''Other''}'
+      required: false
+    - id: 14
+      name: lab_name
+      label: Lab Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: test_result
+      label: Test Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_note_2
+      label: Doctor's Note 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: lab_tech
+      label: Lab Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Scheduled''}'
+      - '{''option2'': ''In progress''}'
+      - '{''option3'': ''Complete''}'
+      required: false
+    - id: 19
+      name: lab_note
+      label: Lab Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: test_result_2
+      label: Second Test Result
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Positive''}'
+      - '{''option2'': ''Negative''}'
+      - '{''option3'': ''Inconclusive''}'
+      required: false
+    - id: 21
+      name: test_requester
+      label: Test Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: test_requester_email
+      label: Test Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: lab_result_comment
+      label: Lab Result Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: Please specify any follow-up instructions.
+      type: text
+      options: []
+      required: false

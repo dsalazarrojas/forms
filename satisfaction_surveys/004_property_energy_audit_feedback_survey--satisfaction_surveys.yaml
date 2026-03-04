@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Energy Audit Feedback Survey
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_energy_rating
+      label: Property Energy Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_comments
+      label: Rating Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: energy_audits_conducted
+      label: Energy Audits Conducted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: energy_audits_completed
+      label: Energy Audits Completed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_submitted
+      label: Date Submited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_submitted
+      label: Time Submited
+      hint: null
+      type: time
+      options: []
+      required: false

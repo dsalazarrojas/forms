@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Rental Appointment Form
+    pages:
+    - id: 1
+      name: renter_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: renter_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: Name of organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization requesting rental
+      type: select_one
+      options:
+      - Individual
+      - Non-profit
+      - Business
+      - Government Agency
+      - School
+      - Religious Organization
+      - Other
+      required: true
+    - id: 5
+      name: street_address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city_state_zip
+      label: City, State, ZIP
+      hint: City, state, and postal code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: For booking confirmations
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: What type of event are you planning?
+      type: select_one
+      options:
+      - Birthday Party
+      - Wedding Reception
+      - Corporate Meeting
+      - Community Meeting
+      - Class or Workshop
+      - Performance
+      - Private Party
+      - Other
+      required: true
+    - id: 10
+      name: event_date
+      label: Preferred Event Date
+      hint: Primary date choice
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: alternate_date
+      label: Alternate Date
+      hint: Backup date option
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: start_time
+      label: Event Start Time
+      hint: When does your event begin?
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: end_time
+      label: Event End Time
+      hint: When does your event end?
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: expected_guests
+      label: Expected Number of Guests
+      hint: Approximate headcount
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: room_preference
+      label: Room Preference
+      hint: Which space would you like to rent?
+      type: select_one
+      options:
+      - Main Hall
+      - Conference Room
+      - Gymnasium
+      - Outdoor Pavilion
+      - Kitchen Facility
+      - Multiple Rooms
+      required: true
+    - id: 16
+      name: equipment_needed
+      label: Equipment Needed
+      hint: Select any equipment you will need
+      type: select_multiple
+      options:
+      - Tables
+      - Chairs
+      - Projector
+      - Microphone System
+      - Sound System
+      - Stage
+      - Kitchen Access
+      required: false
+    - id: 17
+      name: catering_required
+      label: Catering Required
+      hint: Will you need catering services?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: special_requests
+      label: Special Requests
+      hint: Any additional needs or accommodations
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: alcohol_service
+      label: Will Alcohol Be Served
+      hint: Please note additional permits may be required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: insurance_provided
+      label: Do You Have Event Insurance
+      hint: Proof of insurance may be required
+      type: select_one
+      options:
+      - true
+      - false
+      - Will Purchase
+      required: true

@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Quote Form
+    pages:
+    - id: 1
+      name: product_quote_form_1
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_description
+      label: product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''name'': ''Option 1''}'
+      - '{''id'': ''2'', ''name'': ''Option 2''}'
+      required: true
+    - id: 7
+      name: product_color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''name'': ''red''}'
+      - '{''id'': ''2'', ''name'': ''blue''}'
+      - '{''id'': ''3'', ''name'': ''green''}'
+      required: false
+    - id: 8
+      name: product_size
+      label: product_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: product_weight
+      label: product_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: product_length
+      label: length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: product_width
+      label: width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: product_height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: product_price
+      label: product_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: sales_agent
+      label: sales_agent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''name'': ''Salesman 1''}'
+      - '{''id'': ''2'', ''name'': ''Salesman 2''}'
+      required: false
+    - id: 15
+      name: quote_date
+      label: quote_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: quote_time
+      label: quote_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: quote_note
+      label: quote_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_title
+      label: contact_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_job_title
+      label: contact_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_department
+      label: contact_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_job_function
+      label: contact_job_function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: custom_comments
+      label: custom_comments
+      hint: null
+      type: text
+      options: []
+      required: false

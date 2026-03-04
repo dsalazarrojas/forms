@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Machine Diagnostics Request Form
+    pages:
+    - id: 1
+      name: machine_id
+      label: Machine Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: diagnostic_visit_date
+      label: Diagnostic Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: diagnostic_visit_time
+      label: Diagnostic Visit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: diagnostic_visit_duration
+      label: Diagnostic Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: supporting_details
+      label: Supporting Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: files
+      label: Files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_team
+      label: Maintenance Team
+      hint: null
+      type: select_one
+      options:
+      - Maintenance Team 1
+      - Maintenance Team 2
+      - Maintenance Team 3
+      required: true
+    - id: 11
+      name: equipment_provider
+      label: Equipment Provider
+      hint: null
+      type: select_one
+      options:
+      - Equipment Provider 1
+      - Equipment Provider 2
+      - Equipment Provider 3
+      required: true
+    - id: 12
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 13
+      name: diagnostic_visit_scheduled
+      label: Diagnostic Visit Scheduled
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: diagnostic_visit_comments
+      label: Diagnostic Visit Comments
+      hint: null
+      type: text
+      options: []
+      required: false

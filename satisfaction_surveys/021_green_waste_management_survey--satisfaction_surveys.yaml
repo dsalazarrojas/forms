@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Green Waste Management Survey
+    pages:
+    - id: 1
+      name: green_waste_management_survey
+      label: Recycling Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organic_waste_management
+      label: Organic Waste
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: green_waste_collected
+      label: Green Waste Collected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: green_waste_recycled
+      label: Green Waste Recycled
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: organic_waste_collected
+      label: Organic Waste Collected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: organic_waste_recycled
+      label: Organic Waste Recycled
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: recycling_practices_awareness
+      label: Awareness
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      required: false
+    - id: 8
+      name: recycling_practices_awareness_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

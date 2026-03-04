@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Compliance Feedback Survey
+    pages:
+    - id: 1
+      name: fire_safety_compliance_feedback_survey_form
+      label: Fire Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Extinguisher
+      - Fire Alarm
+      - Fire Sprinkler
+      - Fire Alarm Panel
+      - Fire Pump
+      required: false
+    - id: 2
+      name: fire_equipment_drill_frequency
+      label: Drill Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annually
+      required: true
+    - id: 3
+      name: overall_safety_practices
+      label: Overall Safety Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: emergency_contact_information
+      label: Emergency Contact Information
+      hint: Please enter your contact information for emergency situations.
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: fire_safety_equipment_inspection_frequency
+      label: Fire Safety Equipment Inspection Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: fire_extinguisher_inspection_date
+      label: Fire Extinguisher Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: fire_alarm_inspection_date
+      label: Fire Alarm Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: fire_sprinkler_inspection_date
+      label: Fire Sprinkler Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: fire_alarm_panel_inspection_date
+      label: Fire Alarm Panel Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: fire_pump_inspection_date
+      label: Fire Pump Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: fire_equipment_condition
+      label: Fire Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: safety_training_frequency
+      label: Safety Training Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annually
+      required: true
+    - id: 13
+      name: fire_safety_training_attendance
+      label: Fire Safety Training Attendance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: fire_safety_plan
+      label: Fire Safety Plan
+      hint: Please describe the fire safety plan for your facility.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: fire_safety_procedures
+      label: Fire Safety Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: fire_safety_equipment_testing
+      label: Fire Safety Equipment Testing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: fire_safety_equipment_testing_frequency
+      label: Fire Safety Equipment Testing Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annually
+      required: false
+    - id: 18
+      name: fire_safety_equipment_testing_results
+      label: Fire Safety Equipment Testing Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_situation
+      label: Emergency Situation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_response
+      label: Emergency Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_reporting
+      label: Incident Reporting
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: incident_reporting_frequency
+      label: Incident Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annually
+      required: false
+    - id: 23
+      name: fire_evacuation_route
+      label: Fire Evacuation Route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: fire_alarm_location
+      label: Fire Alarm Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: fire_alarm_location_alternate
+      label: Alternate Fire Alarm Location
+      hint: null
+      type: text
+      options: []
+      required: false

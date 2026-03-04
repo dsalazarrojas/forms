@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Order Form
+    pages:
+    - id: 1
+      name: restaurant_manager_forms_menu_form
+      label: menu_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: menu_items
+      label: menu_items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Breakfast'', ''label'': ''Breakfast''}'
+      - '{''value'': ''Lunch'', ''label'': ''Lunch''}'
+      - '{''value'': ''Dinner'', ''label'': ''Dinner''}'
+      required: false
+    - id: 3
+      name: order_form
+      label: order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: menu_item_selection
+      label: select_a_menu_item
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Breakfast'', ''label'': ''Breakfast''}'
+      - '{''value'': ''Lunch'', ''label'': ''Lunch''}'
+      - '{''value'': ''Dinner'', ''label'': ''Dinner''}'
+      required: false
+    - id: 5
+      name: order_details
+      label: order_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: payment_gateway
+      label: payment_gateway
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Stripe'', ''label'': ''Stripe''}'
+      - '{''value'': ''PayPal'', ''label'': ''PayPal''}'
+      - '{''value'': ''Authorize.net'', ''label'': ''Authorize.net''}'
+      required: false
+    - id: 7
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false

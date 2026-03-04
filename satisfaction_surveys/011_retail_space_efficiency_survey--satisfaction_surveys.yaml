@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Space Efficiency Survey
+    pages:
+    - id: 1
+      name: store_layout
+      label: How is your store layout organized?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_size
+      label: What is the size of your store in square feet?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: store_location
+      label: Where is your store located?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shelving_units
+      label: How many shelving units are in your store?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: stock_levels
+      label: What are your stock levels currently?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - High
+      required: false
+    - id: 6
+      name: store_opening_hours
+      label: How many hours do you open during the week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: store_hours_per_day
+      label: How many hours do you open during each day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: customer_flow
+      label: How would you rate the flow of customers into your store?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: store_clutter
+      label: Is the store clutter-free?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: store_layout_2
+      label: How would you rate the store's layout?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: store_shelving
+      label: What percentage of shelves are stocked?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: stock_counts
+      label: Are there counts for each item?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: employee_training
+      label: How often do you train your employees?
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      - Never
+      required: false
+    - id: 14
+      name: customer_service
+      label: How would you rate your customer service?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 15
+      name: employee_numbers
+      label: How many employees does your store have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: inventory_levels
+      label: What are your inventory levels currently?
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 17
+      name: employee_scheduling
+      label: What is your employee scheduling method?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sales_growth
+      label: What is your sales growth over the past 12 months?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: profit_margin
+      label: What is your profit margin?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: labor_costs
+      label: What are your labor costs as a percentage?
+      hint: null
+      type: number
+      options: []
+      required: false

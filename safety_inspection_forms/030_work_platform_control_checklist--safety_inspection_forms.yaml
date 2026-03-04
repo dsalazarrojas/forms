@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Platform Control Checklist
+    pages:
+    - id: 1
+      name: work_platform_control_checklist_pre_operating_check
+      label: Pre Operating Check
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_platform_control_checklist_safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_one
+      options:
+      - Safety Harness
+      - Safety Harness with Fall Arrest
+      - Safety Net
+      - Safety Net with Fall Arrest
+      required: false
+    - id: 3
+      name: work_platform_control_checklist_safety_procedure
+      label: safety_procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_platform_control_checklist_safety_training
+      label: safety_training
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Harness
+      - Safety Harness with Fall Arrest
+      - Safety Net
+      - Safety Net with Fall Arrest
+      required: false
+    - id: 5
+      name: work_platform_control_checklist_safety_equipment_inspected
+      label: safety_equipment_inspected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: work_platform_control_checklist_safety_procedure_completed
+      label: safety_procedure_completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_platform_control_checklist_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: work_platform_control_checklist_inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: work_platform_control_checklist_inspector_phone
+      label: inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_platform_control_checklist_inspector_email
+      label: inspector_email
+      hint: null
+      type: email
+      options: []
+      required: false

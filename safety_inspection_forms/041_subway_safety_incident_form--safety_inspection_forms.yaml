@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: subwaysafetyincidentform
+    pages:
+    - id: 1
+      name: incidentdetails
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incidentsummary
+      label: Incident Summary
+      hint: Enter a brief summary of the incident
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incidenttype
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Accident''}'
+      - '{''id'': 2, ''label'': ''Near Miss''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: incidentcause
+      label: Incident Cause
+      hint: Enter cause of the incident
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incidentimpact
+      label: Incident Impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Minor''}'
+      - '{''id'': 2, ''label'': ''Major''}'
+      required: false
+    - id: 6
+      name: incidentseverity
+      label: Incident Severity
+      hint: Enter severity level on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: incidentreporter
+      label: Incident Reporter
+      hint: Enter name of reporter
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incidentstatus
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      required: false

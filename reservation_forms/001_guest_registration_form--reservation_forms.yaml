@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_arrival
+      label: Date of Arrival
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_arrival
+      label: Time of Arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: room_type
+      label: Room Type
+      hint: null
+      type: select_one
+      options:
+      - Suite
+      - Deluxe
+      - Standard
+      required: false
+    - id: 8
+      name: reservation_duration
+      label: Reservation Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: check_in
+      label: Check in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: check_out
+      label: Check out
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

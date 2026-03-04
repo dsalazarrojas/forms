@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Staff Training Session Request Form
+    pages:
+    - id: 1
+      name: training_session_request_form_1
+      label: Request Training Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_session_request_form_2
+      label: Clinics Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_session_request_form_3
+      label: Staff Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: training_session_request_form_4
+      label: Training Session Type
+      hint: null
+      type: select_one
+      options:
+      - Training Session
+      - Training Session
+      - Training Session
+      required: false
+    - id: 5
+      name: training_session_request_form_5
+      label: Training Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_session_request_form_6
+      label: Training Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_session_request_form_7
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: training_session_request_form_8
+      label: Number of Participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: training_session_request_form_9
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_session_request_form_10
+      label: Session Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Pending
+      - Completed
+      required: false
+    - id: 11
+      name: training_session_request_form_11
+      label: Requester Comments
+      hint: null
+      type: text
+      options: []
+      required: false

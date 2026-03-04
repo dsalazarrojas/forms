@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Monitoring Form
+    pages:
+    - id: 1
+      name: safety_inspection_form
+      label: Safety Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_hazards_present
+      label: Fire Hazards Present
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: false
+    - id: 3
+      name: fire_hazards_risk_level
+      label: Fire Hazards Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 4
+      name: safety_equipment_in_good_working_condition
+      label: Safety Equipment in Good Working Condition
+      hint: null
+      type: select_multiple
+      options:
+      - All
+      - Most
+      - Some
+      - None
+      required: false
+    - id: 5
+      name: safety_equipment_testing
+      label: Safety Equipment Testing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: fire_extinguishers
+      label: Fire Extinguishers
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Partial
+      - None
+      required: false
+    - id: 7
+      name: fire_drills
+      label: Fire Drills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: fire_evacuation_plan
+      label: Fire Evacuation Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: fire_safety_manual
+      label: Fire Safety Manual
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fire_safety_training
+      label: Fire Safety Training
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: fire_safety_equipment
+      label: Fire Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Sprinkler System
+      - Fire Alarm
+      - Fire Extinguisher
+      - Fire Alarm System
+      required: false
+    - id: 12
+      name: fire_safety_risk
+      label: Fire Safety Risk
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 13
+      name: fire_safety_inspection_interval
+      label: Fire Safety Inspection Interval
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Every 6 Months
+      - Every 6 Months
+      - Yearly
+      required: false

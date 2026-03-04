@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorize.Net Hotel Reservation Form
+    pages:
+    - id: 1
+      name: booking_date
+      label: Booking Date
+      hint: When are you making this reservation
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state_province
+      label: State or Province
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: postal_code
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: Your country
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: check_in_date
+      label: Check-In Date
+      hint: When will you arrive
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: check_out_date
+      label: Check-Out Date
+      hint: When will you depart
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: number_of_nights
+      label: Number of Nights
+      hint: How many nights will you stay
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: room_type
+      label: Room Type
+      hint: What type of room do you need
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Twin Room
+      - Suite
+      - Deluxe Suite
+      - Presidential Suite
+      - Accessible Room
+      required: true
+    - id: 15
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many people will stay
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: guest_names
+      label: Names of Additional Guests
+      hint: Other guest names
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: bed_preference
+      label: Bed Preference
+      hint: What type of bed
+      type: select_one
+      options:
+      - Queen Bed
+      - King Bed
+      - Twin Beds
+      - Double Beds
+      - No Preference
+      required: true
+    - id: 18
+      name: smoking_preference
+      label: Smoking Preference
+      hint: Smoking or non-smoking
+      type: select_one
+      options:
+      - Non-Smoking
+      - Smoking
+      - No Preference
+      required: true
+    - id: 19
+      name: floor_preference
+      label: Floor Preference
+      hint: Any floor preference
+      type: select_one
+      options:
+      - Ground Floor
+      - Lower Floors
+      - Mid-Range Floors
+      - Upper Floors
+      - No Preference
+      required: false
+    - id: 20
+      name: special_requests
+      label: Special Requests
+      hint: Any special needs or requests
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: amenities_desired
+      label: Desired Amenities
+      hint: Select amenities you want
+      type: select_multiple
+      options:
+      - WiFi Internet
+      - Air Conditioning
+      - Mini Bar
+      - Coffee Maker
+      - Work Desk
+      - Balcony
+      - Kitchenette
+      - Accessible Features
+      required: false
+    - id: 22
+      name: rate_per_night
+      label: Rate Per Night
+      hint: Total cost per night
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: total_cost
+      label: Total Reservation Cost
+      hint: Total for entire stay
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card - Visa
+      - Credit Card - Mastercard
+      - Credit Card - Amex
+      - Debit Card
+      - Other
+      required: true
+    - id: 25
+      name: reservation_confirmed
+      label: I Confirm This Reservation
+      hint: Agree to reservation terms
+      type: select_one
+      options:
+      - Yes - Confirm Booking
+      - No - Cancel
+      required: true

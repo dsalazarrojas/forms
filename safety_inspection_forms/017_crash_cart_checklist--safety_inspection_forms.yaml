@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crash Cart Checklist
+    pages:
+    - id: 1
+      name: unit_number
+      label: unit_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: crash_cart_location
+      label: crashCartLocation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: crash_cart_contents
+      label: crashCartContents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: crash_cart_batteries
+      label: crashCartBatteries
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: crash_cart_o2
+      label: crashCartO2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: crash_cart_o2_level
+      label: crashCartO2Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 7
+      name: crash_cart_batteries_age
+      label: crashCartBatteriesAge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: crash_cart_o2_age
+      label: crashCartO2Age
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: crash_cart_belts
+      label: crashCartBelt
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: crash_cart_other_equipment
+      label: crashCartOtherEquipment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: crash_cart_belts_age
+      label: crashCartBelt
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: crash_cart_other_equipment_age
+      label: crashCartOtherEquipmentAge
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: crash_cart_location_adequate
+      label: crashCartLocationAdequate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: crash_cart_contents_adequate
+      label: crashCartContentsAdequate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: crash_cart_batteries_adequate
+      label: crashCartBatteriesAdequate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: crash_cart_o2_adequate
+      label: crashCartO2Adequate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: crash_cart_belts_adequate
+      label: crashCartBeltAdequate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: crash_cart_other_equipment_adequate
+      label: crashCartOtherEquipmentAdequate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: crash_cart_batteries_expiration
+      label: crashCartBatteriesExpiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: crash_cart_o2_expiration
+      label: crashCartO2Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: crash_cart_belt_expiration
+      label: crashCartBeltExpiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: crash_cart_other_equipment_expiration
+      label: crashCartOtherEquipmentExpiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: crash_cart_batteries_replaced
+      label: crashCartBatteriesReplaced
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: crash_cart_o2_replaced
+      label: crashCartO2Replaced
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: crash_cart_belts_replaced
+      label: crashCartBeltReplaced
+      hint: null
+      type: time
+      options: []
+      required: false

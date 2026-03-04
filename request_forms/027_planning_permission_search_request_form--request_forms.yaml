@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Planning Permission Search Request Form
+    pages:
+    - id: 1
+      name: search_address
+      label: Search Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: search_type
+      label: Search Type
+      hint: null
+      type: select_one
+      options:
+      - Landmark
+      - Property
+      - Address
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

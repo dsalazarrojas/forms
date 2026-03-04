@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tropical Event Registration
+    pages:
+    - id: 1
+      name: attendee_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: mobile_phone
+      label: Mobile Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 10
+      name: food_prefs
+      label: Food Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Vegetarian''}'
+      - '{''id'': 2, ''label'': ''Non-Vegetarian''}'
+      - '{''id'': 3, ''label'': ''Gluten-Free''}'
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rsvp_method
+      label: RSVP Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In-Person''}'
+      - '{''id'': 2, ''label'': ''Online''}'
+      required: false
+    - id: 14
+      name: rsvp_comment
+      label: RSVP Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Event Type 1''}'
+      - '{''id'': 2, ''label'': ''Event Type 2''}'
+      required: false
+    - id: 17
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attendee_info
+      label: Attendee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: event_date_format
+      label: Event Date Format
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''dd/mm/yyyy''}'
+      - '{''id'': 2, ''label'': ''dd-mm-yyyy''}'
+      required: false
+    - id: 21
+      name: attendee_attendance
+      label: Attendee Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Attendee 1''}'
+      - '{''id'': 2, ''label'': ''Attendee 2''}'
+      required: false

@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Plan Template
+    pages:
+    - id: 1
+      name: safety_plan_template
+      label: safety_plan_template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: safety_plan_template
+      label: safety_plan_template
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: safety_procedures
+      label: safety_procedures
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: safety_equipment_description
+      label: safety_equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_safety_equipment
+      label: assigned_safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: assigned_safety_equipment_description
+      label: assigned_safety_equipment_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: safety_equipment_status
+      label: safety_equipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: safety_equipment_status_description
+      label: safety_equipment_status_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: safety_plan_status
+      label: safety_plan_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: safety_plan_status_description
+      label: safety_plan_status_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: next_safety_check
+      label: next_safety_check
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: next_safety_check_time
+      label: next_safety_check_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: safety_inspection_date
+      label: safety_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: safety_inspection_time
+      label: safety_inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: assigned_safety_user
+      label: assigned_safety_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: next_safety_check_user
+      label: next_safety_check_user
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: safety_plan_review_date
+      label: safety_plan_review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: safety_plan_review_time
+      label: safety_plan_review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: safety_plan_reviewer
+      label: safety_plan_reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: assigned_safety_reviewer
+      label: assigned_safety_reviewer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: next_safety_check_date
+      label: next_safety_check_date
+      hint: null
+      type: date
+      options: []
+      required: false

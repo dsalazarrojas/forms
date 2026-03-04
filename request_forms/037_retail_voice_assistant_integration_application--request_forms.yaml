@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_voice_assistant_integration_application
+    pages:
+    - id: 1
+      name: store_id
+      label: store_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''integration''}'
+      - '{''id'': 20, ''name'': ''support''}'
+      required: true
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Berth Application Form
+    pages:
+    - id: 1
+      name: applicant_header
+      label: -- Applicant and Vessel Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name for contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For berth allocation notices
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: vessel_name
+      label: Vessel name
+      hint: Name of the boat
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: vessel_length_ft
+      label: Vessel length feet
+      hint: Enter whole number length
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: vessel_registration
+      label: Vessel registration number
+      hint: Registration or official number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: preferred_berth_type
+      label: Preferred berth type
+      hint: Slip or mooring preference
+      type: select_one
+      options:
+      - Fixed dock slip
+      - Floating dock slip
+      - Mooring buoy
+      required: true
+    - id: 8
+      name: desired_start_date
+      label: Desired start date
+      hint: When berth should begin
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: insurance_provider
+      label: Insurance provider
+      hint: Vessel insurance company
+      type: text
+      options: []
+      required: false

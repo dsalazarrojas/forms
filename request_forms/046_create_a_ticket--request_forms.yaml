@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Create A Ticket
+    pages:
+    - id: 1
+      name: ticket_request
+      label: Ticket Request
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: ticket_subject
+      label: Ticket Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ticket_description
+      label: Ticket Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assignee_id
+      label: Assignee ID
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 6
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: ticket_id
+      label: Ticket ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: created_by
+      label: Created By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By
+      hint: null
+      type: email
+      options: []
+      required: false

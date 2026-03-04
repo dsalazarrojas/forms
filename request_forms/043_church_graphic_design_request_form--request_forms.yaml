@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Graphic Design Request Form
+    pages:
+    - id: 1
+      name: header_requestor_graphic
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name_graphic
+      label: Name of Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ministry_department_graphic
+      label: Ministry/Department
+      hint: null
+      type: select_one
+      options:
+      - Worship Arts
+      - Children's Ministry
+      - Youth Ministry
+      - Outreach
+      - Missions
+      - Administration
+      - Special Event Committee
+      required: true
+    - id: 4
+      name: email_graphic
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: header_project_details
+      label: -- Project Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_name_graphic
+      label: Name of Project/Event
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_due_date
+      label: Desired Completion Date
+      hint: Allow at least 2 weeks for most requests
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_date_if_applicable
+      label: Date of Event (If applicable)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: design_type
+      label: Type of Design Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Social Media Graphic
+      - Flyer/Poster
+      - Website Banner
+      - Bulletin/Newsletter Graphic
+      - Logo Design
+      - T-Shirt Design
+      - Slide/Presentation Graphic
+      required: true
+    - id: 10
+      name: target_audience_graphic
+      label: Who is the target audience?
+      hint: e.g., Parents, Church members, Unchurched community
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: message_content_copy
+      label: Content/Copy to be Included
+      hint: Provide EXACT text, dates, times, and location
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: header_specifications
+      label: -- Specifications and Style --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: dimensions_size
+      label: Dimensions/Size Requirements
+      hint: e.g., 8.5x11, 1080x1080px, etc.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: design_style_notes
+      label: Style Preferences or Tone
+      hint: e.g., Modern, Traditional, Fun, Serious, Minimalist
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: imagery_requests
+      label: Specific Imagery or Photos to include
+      hint: Mention if you have photos to provide
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: budget_for_printing
+      label: Printing Budget (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: rush_request_flag
+      label: Is this a RUSH request (under 7 days)?
+      hint: Subject to team availability
+      type: select_one
+      options:
+      - false
+      - Yes - Reason provided below
+      required: true
+    - id: 18
+      name: additional_notes_graphic
+      label: Any other details for the designer?
+      hint: null
+      type: text
+      options: []
+      required: false

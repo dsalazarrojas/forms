@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Yurt Reservation Form
+    pages:
+    - id: 1
+      name: yurt_reservation_form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: guest_email
+      label: Guest Email
+      hint: Guest's email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guest_phone
+      label: Guest Phone
+      hint: Guest's phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: yurt_name
+      label: Yurt Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reservation_start_date
+      label: Reservation Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reservation_end_date
+      label: Reservation End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: guest_arrival_date
+      label: Guest Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: guest_departure_date
+      label: Guest Departure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: confirm_reservation
+      label: Confirm Reservation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: cancel_reservation
+      label: Cancel Reservation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

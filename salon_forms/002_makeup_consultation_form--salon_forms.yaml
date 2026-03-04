@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Makeup Consultation Form
+    pages:
+    - id: 1
+      name: customer_input
+      label: Customer Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_selection
+      label: Product Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: service_details
+      label: Service Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expected_service_start
+      label: Expected Service Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: expected_service_end
+      label: Expected Service End
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

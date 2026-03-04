@@ -1,0 +1,296 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Site Safety Assessment Form
+    pages:
+    - id: 1
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of safety assessment
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: assessor_name
+      label: Assessor Name
+      hint: Name of safety assessor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessor_credentials
+      label: Assessor Credentials
+      hint: Qualifications or certifications
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_address
+      label: Project Address
+      hint: Full site address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: general_contractor
+      label: General Contractor
+      hint: Primary contractor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_phase
+      label: Current Project Phase
+      hint: Stage of construction
+      type: select_one
+      options:
+      - Site Preparation
+      - Foundation
+      - Structural
+      - Exterior
+      - Interior
+      - Finishing
+      - Final
+      required: true
+    - id: 8
+      name: fall_protection_adequate
+      label: Fall Protection Adequate
+      hint: Are fall protection systems in place
+      type: select_one
+      options:
+      - Yes, Fully Adequate
+      - Mostly Adequate
+      - Somewhat Adequate
+      - Not Adequate
+      - Not Applicable
+      required: true
+    - id: 9
+      name: scaffolding_safe
+      label: Scaffolding Safe and Proper
+      hint: Is scaffolding properly erected
+      type: select_one
+      options:
+      - Yes, All Safe
+      - Mostly Safe
+      - Some Concerns
+      - Unsafe Conditions
+      - Not Applicable
+      required: true
+    - id: 10
+      name: ladder_safety
+      label: Ladder Safety
+      hint: Are ladders used safely
+      type: select_one
+      options:
+      - Yes, All Compliant
+      - Mostly Compliant
+      - Some Issues
+      - Major Issues
+      required: true
+    - id: 11
+      name: excavation_protection
+      label: Excavation Protection
+      hint: Are excavations properly protected
+      type: select_one
+      options:
+      - Yes, All Protected
+      - Mostly Protected
+      - Some Concerns
+      - Unsafe
+      - Not Applicable
+      required: true
+    - id: 12
+      name: electrical_safety_adequate
+      label: Electrical Safety
+      hint: Are electrical systems safe
+      type: select_one
+      options:
+      - Yes, Fully Safe
+      - Mostly Safe
+      - Some Concerns
+      - Unsafe
+      required: true
+    - id: 13
+      name: ppe_compliance
+      label: PPE Compliance
+      hint: Are workers wearing required PPE
+      type: select_one
+      options:
+      - Full Compliance
+      - High Compliance
+      - Moderate Compliance
+      - Low Compliance
+      - Non-Compliant
+      required: true
+    - id: 14
+      name: hazard_communication
+      label: Hazard Communication
+      hint: Is HazCom program implemented
+      type: select_one
+      options:
+      - Yes, Complete
+      - Yes, Basic
+      - Partial
+      - false
+      required: true
+    - id: 15
+      name: fire_prevention
+      label: Fire Prevention
+      hint: Are fire prevention measures in place
+      type: select_one
+      options:
+      - Yes, Excellent
+      - Yes, Adequate
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 16
+      name: housekeeping
+      label: Housekeeping
+      hint: Is site clean and organized
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: material_handling
+      label: Material Handling
+      hint: Are materials handled safely
+      type: select_one
+      options:
+      - Yes, All Safe
+      - Mostly Safe
+      - Some Concerns
+      - Unsafe
+      required: true
+    - id: 18
+      name: equipment_safety
+      label: Equipment Safety
+      hint: Is equipment operated safely
+      type: select_one
+      options:
+      - Yes, Fully Safe
+      - Mostly Safe
+      - Some Concerns
+      - Unsafe
+      required: true
+    - id: 19
+      name: signage_adequate
+      label: Safety Signage
+      hint: Are safety signs posted
+      type: select_one
+      options:
+      - Yes, All Areas
+      - Yes, Most Areas
+      - Some Missing
+      - Inadequate
+      required: true
+    - id: 20
+      name: emergency_preparedness
+      label: Emergency Preparedness
+      hint: Is site prepared for emergencies
+      type: select_one
+      options:
+      - Yes, Fully Prepared
+      - Yes, Mostly Prepared
+      - Somewhat Prepared
+      - Not Prepared
+      required: true
+    - id: 21
+      name: safety_meetings_held
+      label: Safety Meetings
+      hint: Are regular safety meetings conducted
+      type: select_one
+      options:
+      - Yes, Daily
+      - Yes, Weekly
+      - Yes, Monthly
+      - Irregularly
+      - false
+      required: true
+    - id: 22
+      name: safety_documentation
+      label: Safety Documentation
+      hint: Is safety documentation maintained
+      type: select_one
+      options:
+      - Yes, Complete
+      - Yes, Mostly Complete
+      - Incomplete
+      - Poor
+      required: true
+    - id: 23
+      name: hazards_identified
+      label: Hazards Identified
+      hint: Number of hazards found
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: hazard_description
+      label: Hazard Description
+      hint: Describe each hazard
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: corrective_actions
+      label: Corrective Actions Required
+      hint: What must be corrected
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: priority_level
+      label: Priority Level
+      hint: How urgent are corrections
+      type: select_one
+      options:
+      - Immediate Action Required
+      - High Priority
+      - Medium Priority
+      - Low Priority
+      required: true
+    - id: 27
+      name: overall_safety_rating
+      label: Overall Safety Rating
+      hint: Final assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 28
+      name: assessor_comments
+      label: Assessor Comments
+      hint: Additional notes
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: assessor_signature
+      label: Assessor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: site_manager_signature
+      label: Site Manager Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: false

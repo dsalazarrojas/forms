@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Waiting List Form
+    pages:
+    - id: 1
+      name: product_waiting_list_form
+      label: Product Waiting List Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_waiting_list_form_customer_id
+      label: Customer Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_waiting_list_form_product_id
+      label: Product Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_waiting_list_form_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: product_waiting_list_form_status_options
+      label: Status options
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Waiting to ship
+      - Available to ship
+      - Not available
+      - Cancelled
+      required: false

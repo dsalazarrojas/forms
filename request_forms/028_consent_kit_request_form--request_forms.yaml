@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consent Kit Request Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of kit request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting kit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Name of organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - Healthcare Facility
+      - Educational Institution
+      - Nonprofit Organization
+      - Government Agency
+      - Private Practice
+      - Corporate
+      - Individual
+      - Other
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position or role
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: kit_type
+      label: Type of Consent Kit Requested
+      hint: Which kit do you need
+      type: select_one
+      options:
+      - General Consent Kit
+      - Medical Consent Kit
+      - Research Consent Kit
+      - Pediatric Consent Kit
+      - Mental Health Consent Kit
+      - Data Sharing Consent Kit
+      - Media Release Kit
+      - Custom Kit
+      required: true
+    - id: 10
+      name: kit_language
+      label: Preferred Language
+      hint: Language for kit materials
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Other
+      required: true
+    - id: 11
+      name: other_language
+      label: Other Language
+      hint: Specify if other language selected
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quantity_needed
+      label: Quantity Needed
+      hint: How many kits do you need
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: intended_use
+      label: Intended Use
+      hint: How will you use these kits
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: target_population
+      label: Target Population
+      hint: Who will use these consent forms
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: timeline
+      label: When Do You Need the Kit
+      hint: Required delivery date
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: urgency
+      label: Urgency Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Routine - Within 2 weeks
+      - Standard - Within 1 week
+      - Urgent - Within 3 days
+      - Critical - Within 24 hours
+      required: true
+    - id: 17
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How should kit be delivered
+      type: select_one
+      options:
+      - Physical Mail
+      - Express Courier
+      - Digital Download
+      - Email Attachment
+      - Pick Up In Person
+      required: true
+    - id: 18
+      name: shipping_address
+      label: Shipping Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: shipping_city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: shipping_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: shipping_postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: shipping_country
+      label: Country
+      hint: Country for delivery
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any specific delivery requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: customization_needed
+      label: Is Customization Needed
+      hint: Do you need custom modifications
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: customization_details
+      label: Customization Details
+      hint: Describe required modifications
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: previous_requester
+      label: Have You Requested Before
+      hint: Have you requested a kit previously
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Website
+      - Colleague Referral
+      - Conference or Event
+      - Search Engine
+      - Social Media
+      - Publication
+      - Other
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: request_status
+      label: Request Status
+      hint: For administrative use
+      type: select_one
+      options:
+      - Submitted
+      - Processing
+      - Shipped
+      - Delivered
+      - On Hold
+      - Cancelled
+      required: true

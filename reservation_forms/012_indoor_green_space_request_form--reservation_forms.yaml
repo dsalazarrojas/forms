@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: indoor-green-space-request-form
+    pages:
+    - id: 1
+      name: reservation_purposes
+      label: reservation_purposes
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Meeting''}'
+      - '{''label'': ''Event''}'
+      - '{''label'': ''Training''}'
+      required: false
+    - id: 2
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event_start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: event_attendee_count
+      label: attendee_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_special_needs
+      label: special_needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wheelchair''}'
+      - '{''label'': ''Service Animal''}'
+      - '{''label'': ''Service Animal Assistant''}'
+      required: false
+    - id: 7
+      name: event_reservations
+      label: reservations
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: event_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: indoor_green_space_location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: indoor_green_space_internal_contact_name
+      label: internal_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: indoor_green_space_internal_contact_email
+      label: internal_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: indoor_green_space_internal_contact_phone
+      label: internal_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: indoor_green_space_external_contact_name
+      label: external_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: indoor_green_space_external_contact_email
+      label: external_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: indoor_green_space_external_contact_phone
+      label: external_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: indoor_green_space_requestor_name
+      label: requestor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: indoor_green_space_requestor_email
+      label: requestor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: indoor_green_space_requestor_phone
+      label: requestor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: indoor_green_space_external_request_organization
+      label: external_request_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: indoor_green_space_comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: indoor_green_space_internal_requester_title
+      label: internal_requester_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: indoor_green_space_internal_requester_email
+      label: internal_requester_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: indoor_green_space_internal_requester_phone
+      label: internal_requester_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: indoor_green_space_request_form_date_started
+      label: date_started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: indoor_green_space_request_form_date_ended
+      label: date_ended
+      hint: null
+      type: date
+      options: []
+      required: false

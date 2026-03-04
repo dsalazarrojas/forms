@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maskcara Color Match
+    pages:
+    - id: 1
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: color_name
+      label: color name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_color_type
+      label: customer color type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''natural''}'
+      - '{''id'': 2, ''name'': ''unnatural''}'
+      required: false
+    - id: 4
+      name: color_match_type
+      label: color match type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''exact''}'
+      - '{''id'': 2, ''name'': ''similar''}'
+      required: false
+    - id: 5
+      name: date_of_interest
+      label: date of interest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_interest
+      label: time of interest
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

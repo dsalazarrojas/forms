@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tip Payment Form
+    pages:
+    - id: 1
+      name: bill
+      label: Bill
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tip
+      label: Tip
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: service_charge
+      label: Service Charge
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tip_calculator
+      label: Tip Calculator
+      hint: null
+      type: select_one
+      options:
+      - '10'
+      - '15'
+      - '20'
+      - '25'
+      - '50'
+      - '75'
+      - '100'
+      required: false
+    - id: 6
+      name: calculate_tip
+      label: Calculate Tip
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: calculate_service_charge
+      label: Calculate Service Charge
+      hint: null
+      type: time
+      options: []
+      required: false

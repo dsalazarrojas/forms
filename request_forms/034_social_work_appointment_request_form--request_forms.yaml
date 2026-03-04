@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Social Work Appointment Request Form
+    pages:
+    - id: 1
+      name: request_form_page
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: availability_page
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 3
+      name: appointment_time_page
+      label: Appointment Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_date_page
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: appointment_location_page
+      label: Appointment Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: appointment_type_page
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - Initial Consultation
+      - Follow-up Meeting
+      - Review Session
+      required: true
+    - id: 7
+      name: additional_information_page
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

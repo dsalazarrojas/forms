@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reservation Wait Time Calculator
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: table_size
+      label: Table Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: wait_time
+      label: Wait Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wait_time_hours
+      label: Wait Time Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: service_performance
+      label: Service Performance
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Excellent
+      - Fair
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

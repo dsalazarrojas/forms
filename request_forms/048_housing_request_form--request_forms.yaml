@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housing Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: housing_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: form_2
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_4
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false

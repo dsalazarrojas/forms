@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Digital Experience Index Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Page 1
+      hint: null
+      type: select_one
+      options:
+      - 1 - Strongly Agree
+      - 2 - Agree
+      - 3 - Neutral
+      - 4 - Disagree
+      - 5 - Strongly Disagree
+      required: false
+    - id: 2
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Front desk
+      - Maintenance
+      - Sales and Marketing
+      - Management
+      required: false
+    - id: 4
+      name: rating_score
+      label: Rating Score
+      hint: null
+      type: select_multiple
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating_date
+      label: Rating Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: rating_time
+      label: Rating Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department_email
+      label: Department Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: department_phone
+      label: Department Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department_rating_score
+      label: Department Rating Score
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false

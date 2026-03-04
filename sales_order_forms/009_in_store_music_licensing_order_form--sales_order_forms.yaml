@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: In Store Music Licensing Order Form
+    pages:
+    - id: 1
+      name: store_details
+      label: store_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_type
+      label: store_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Retail''}'
+      - Wholesale
+      - Food and Beverage
+      - Grocery
+      required: false
+    - id: 3
+      name: store_address
+      label: store_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: usage_info
+      label: usage_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_employees
+      label: store_employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: store_license_agreement
+      label: store_license_agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: store_consent
+      label: store_consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''I agree to the Terms and Conditions''}'
+      - I agree to the Terms and Conditions
+      - I agree to the Terms and Conditions
+      required: false
+    - id: 8
+      name: store_payment_info
+      label: store_payment_info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair History Questionnaire
+    pages:
+    - id: 1
+      name: past_treatments
+      label: Past Treatments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_health
+      label: Hair Health
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: concerns
+      label: Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medical_tests
+      label: Medical Tests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: hair_dye
+      label: Hair Dye
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: hair_styling_products
+      label: Hair Styling Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: relaxers
+      label: Relaxers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: hair_extensions
+      label: Hair Extensions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

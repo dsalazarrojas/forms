@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pile Driving Compliance Affidavit
+    pages:
+    - id: 1
+      name: pile_driving_work_details
+      label: Pile Driving Work Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: signed_attestations
+      label: Signed Attestations
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: date_of_completion
+      label: Date of Completion
+      hint: Date of completion
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_completion
+      label: Time of Completion
+      hint: Time of completion
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: completed_by
+      label: Completed By
+      hint: Completed by
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: site_id
+      label: Site ID
+      hint: Site ID
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: inspector_comments
+      label: Inspector Comments
+      hint: Notes regarding compliance
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_signature
+      label: Client Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_signature
+      label: Date of Signature
+      hint: Date of Signature
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_signature
+      label: Time of Signature
+      hint: Time of Signature
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: text
+      options: []
+      required: false

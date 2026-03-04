@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Free Skin Analysis And Consult Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: skin_type
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: skin_problems
+      label: Skin Problems
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: solution
+      label: Solution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_input
+      label: Email Input
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_input
+      label: Phone Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_input
+      label: Date Input
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_input
+      label: Time Input
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note_input
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

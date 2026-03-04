@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coach Consultation
+    pages:
+      - id: 1
+        name: section_booking
+        label: -- Consultation Booking --
+        hint: Schedule your session with a coach
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: consultation_type
+        label: Consultation Type
+        hint: Select the focus of your session
+        type: select_one
+        options: [Fitness Assessment, Technique Review, Training Plan, Nutrition, Goal Setting]
+        required: true
+      - id: 5
+        name: preferred_date
+        label: Preferred Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: preferred_time
+        label: Preferred Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 7
+        name: section_health
+        label: -- Health Screening Questions --
+        hint: Safety first
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: covid_symptoms
+        label: Have you had COVID-19 symptoms in the last 14 days
+        hint: Fever, cough, loss of taste/smell, etc.
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 9
+        name: existing_injuries
+        label: Any existing injuries
+        hint: Please list any physical limitations or current injuries
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: goals
+        label: Goals for this consultation
+        hint: What do you hope to achieve today?
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: athlete_level
+        label: Current Athlete Level
+        hint: How would you describe your current fitness level?
+        type: select_one
+        options: [Beginner, Intermediate, Advanced, Elite]
+        required: true

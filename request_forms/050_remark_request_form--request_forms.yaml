@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remark Request Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: remark_type
+      label: Remark Type
+      hint: null
+      type: select_one
+      options:
+      - Error in Content
+      - Error in Format
+      - Error in Scanning
+      - Error in Scanning and Content
+      - Other
+      required: false
+    - id: 3
+      name: course_section
+      label: Course Section
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: select_multiple
+      options:
+      - Smith, John
+      - Johnson, Jane
+      - Doe, Jane
+      - Smith, John
+      required: false
+    - id: 5
+      name: assignment_name
+      label: Assignment Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: received_date
+      label: Received Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Resolved
+      - Reopened
+      required: false
+    - id: 9
+      name: remark_request_date
+      label: Remark Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: remarker_name
+      label: Remarker Name
+      hint: null
+      type: select_multiple
+      options:
+      - Doe, Jane
+      - Johnson, Jane
+      - Smith, John
+      - Smith, Jane
+      required: false
+    - id: 15
+      name: remarker_name2
+      label: Remarker Name 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: remarker_name3
+      label: Remarker Name 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: remarker_email
+      label: Remarker Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: remarker_phone
+      label: Remarker Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: remarker_status
+      label: Remarker Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - In Progress
+      - Resolved
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - Doe, Jane
+      - Johnson, Jane
+      - Smith, John
+      - Smith, Jane
+      required: false
+    - id: 21
+      name: modified_by
+      label: Modified By
+      hint: null
+      type: select_multiple
+      options:
+      - Doe, Jane
+      - Johnson, Jane
+      - Smith, John
+      - Smith, Jane
+      required: false
+    - id: 22
+      name: created_date
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: modified_date
+      label: Modified
+      hint: null
+      type: date
+      options: []
+      required: false

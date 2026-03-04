@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Products Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: shop_name
+      label: Shop Name
+      hint: Name of your barber shop
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: Name of person placing order
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone for order questions
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For order confirmation and tracking
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: shipping_address
+      label: Shipping Address
+      hint: Complete street address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: shipping_city
+      label: City
+      hint: City for delivery
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: shipping_state
+      label: State
+      hint: State for delivery
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: shipping_zip
+      label: ZIP Code
+      hint: Postal code for delivery
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: pomade_quantity
+      label: Premium Pomade - Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: hair_gel_quantity
+      label: Professional Hair Gel - Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: beard_oil_quantity
+      label: Beard Oil - Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: shaving_cream_quantity
+      label: Shaving Cream - Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: aftershave_quantity
+      label: Aftershave Lotion - Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: hair_spray_quantity
+      label: Hair Spray - Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: conditioner_quantity
+      label: Hair Conditioner - Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: shampoo_quantity
+      label: Professional Shampoo - Quantity
+      hint: Number of units to order
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: neck_strips_quantity
+      label: Neck Strips - Quantity
+      hint: Number of packs to order
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: cape_quantity
+      label: Barber Capes - Quantity
+      hint: Number of capes to order
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: clipper_blades_quantity
+      label: Clipper Blades - Quantity
+      hint: Number of sets to order
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: disinfectant_quantity
+      label: Disinfectant Solution - Quantity
+      hint: Number of bottles to order
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: shipping_method
+      label: Shipping Method
+      hint: Select your preferred shipping speed
+      type: select_one
+      options:
+      - Standard Shipping - 5 to 7 days
+      - Expedited Shipping - 3 to 4 days
+      - Express Shipping - 1 to 2 days
+      - Overnight Shipping
+      required: true
+    - id: 23
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for this order
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Business Account
+      - Purchase Order
+      required: true
+    - id: 24
+      name: special_instructions
+      label: Special Instructions
+      hint: Any notes for your order
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: promo_code
+      label: Promo Code
+      hint: Enter if you have a discount code
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account ID Lookup Request
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Requester Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_department
+      label: Requester Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Requester Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of the request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this request?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 7
+      name: lookup_reason
+      label: Lookup Reason
+      hint: Why do you need the account ID?
+      type: select_one
+      options:
+      - Customer service
+      - Technical issue
+      - Billing inquiry
+      - Account verification
+      - Security review
+      - Audit requirement
+      - Other
+      required: true
+    - id: 8
+      name: customer_identifier
+      label: Customer Identifier
+      hint: Information to identify the customer (choose one or more)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: customer_identifier_type
+      label: Customer Identifier Type
+      hint: What type of identifier are you providing?
+      type: select_one
+      options:
+      - Name
+      - Email
+      - Phone number
+      - Address
+      - Order number
+      - Transaction ID
+      - Previous account number
+      - Other
+      required: true
+    - id: 10
+      name: alternative_identifiers
+      label: Alternative Identifiers
+      hint: Any other information that might help identify the account
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_type_searched
+      label: Account Type Searched
+      hint: What type of account are you looking for?
+      type: select_one
+      options:
+      - Customer account
+      - Vendor account
+      - Employee account
+      - Partner account
+      - Other
+      required: true
+    - id: 12
+      name: system_searched
+      label: System Searched
+      hint: Which system have you already searched?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_search_results
+      label: Previous Search Results
+      hint: What were the results of your previous search attempts?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: business_impact
+      label: Business Impact
+      hint: What is the business impact of not finding this account ID?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: requested_resolution_date
+      label: Requested Resolution Date
+      hint: When do you need this information?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: additional_context
+      label: Additional Context
+      hint: Any additional context that might help with the lookup
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: data_classification
+      label: Data Classification
+      hint: What is the sensitivity level of the data involved?
+      type: select_one
+      options:
+      - Public
+      - Internal
+      - Confidential
+      - Highly Confidential
+      required: true
+    - id: 18
+      name: compliance_requirements
+      label: Compliance Requirements
+      hint: Are there any compliance requirements for this lookup?
+      type: select_multiple
+      options:
+      - GDPR
+      - HIPAA
+      - SOX
+      - PCI DSS
+      - None
+      - Other
+      required: true
+    - id: 19
+      name: approval_needed
+      label: Approval Needed
+      hint: Does this request require additional approval?
+      type: select_one
+      options:
+      - 'No'
+      - Manager approval
+      - Security approval
+      - Executive approval
+      required: true
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about your request
+      type: text
+      options: []
+      required: false

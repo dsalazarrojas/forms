@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainability Expo Opening RSVP
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_email
+      label: attendee email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: guest_count
+      label: Guest Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: special_request
+      label: Special Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''gluten_free'', ''label'': ''Gluten Free''}'
+      - '{''name'': ''vegan'', ''label'': ''Vegan''}'
+      - '{''name'': ''vegetarian'', ''label'': ''Vegetarian''}'
+      - '{''name'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Frames Requisition Form
+    pages:
+    - id: 1
+      name: requisition_date
+      label: Requisition Date
+      hint: Date of requisition
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of requester
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Curatorial
+      - Exhibition Design
+      - Collections
+      - Education
+      - Administration
+      - Other
+      required: true
+    - id: 5
+      name: exhibition_name
+      label: Exhibition Name
+      hint: Name of exhibition or project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: exhibition_dates
+      label: Exhibition Dates
+      hint: Start and end dates
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: installation_date
+      label: Installation Date
+      hint: When frames are needed
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: frame_type
+      label: Frame Type
+      hint: Type of frames needed
+      type: select_one
+      options:
+      - Standard Exhibition
+      - Custom
+      - Shadow Box
+      - Float Frame
+      - Tray Frame
+      - Other
+      required: true
+    - id: 9
+      name: frame_material
+      label: Frame Material
+      hint: Frame material
+      type: select_one
+      options:
+      - Wood
+      - Metal
+      - Composite
+      - Mixed
+      required: true
+    - id: 10
+      name: frame_finish
+      label: Frame Finish
+      hint: Frame finish or color
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: frame_dimensions
+      label: Frame Dimensions
+      hint: Width x Height x Depth
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: quantity_needed
+      label: Quantity Needed
+      hint: Number of frames
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: matting_required
+      label: Matting Required
+      hint: Is matting needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: matting_specifications
+      label: Matting Specifications
+      hint: Describe matting requirements
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: glazing_type
+      label: Glazing Type
+      hint: Type of glass or acrylic
+      type: select_one
+      options:
+      - Standard Glass
+      - UV Glass
+      - Museum Glass
+      - Acrylic
+      - Anti-Reflective
+      - None
+      required: true
+    - id: 16
+      name: backing_type
+      label: Backing Type
+      hint: Type of backing
+      type: select_one
+      options:
+      - Acid-Free Foam Core
+      - Mat Board
+      - Aluminum
+      - Standard
+      required: true
+    - id: 17
+      name: hanging_method
+      label: Hanging Method
+      hint: Preferred hanging method
+      type: select_one
+      options:
+      - Wire and Hooks
+      - D-Rings
+      - French Cleat
+      - Standoffs
+      - Other
+      required: true
+    - id: 18
+      name: artwork_details
+      label: Artwork Details
+      hint: Describe artwork to be framed
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: artwork_value
+      label: Artwork Value
+      hint: Approximate value of artwork
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000-$5,000
+      - $5,000-$10,000
+      - $10,000-$50,000
+      - Over $50,000
+      required: false
+    - id: 20
+      name: conservation_requirements
+      label: Conservation Requirements
+      hint: Any conservation needs
+      type: select_one
+      options:
+      - Standard
+      - Archival
+      - Museum Quality
+      - Special Handling
+      required: true
+    - id: 21
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Estimated cost per frame
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: total_budget
+      label: Total Budget
+      hint: Total budget for all frames
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: vendor_preference
+      label: Vendor Preference
+      hint: Preferred vendor if any
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rush_request
+      label: Rush Request
+      hint: Is this a rush order
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: rush_justification
+      label: Rush Justification
+      hint: Reason for rush if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: approval_needed
+      label: Approval Needed
+      hint: Does this require approval
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: approving_authority
+      label: Approving Authority
+      hint: Name of approver
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

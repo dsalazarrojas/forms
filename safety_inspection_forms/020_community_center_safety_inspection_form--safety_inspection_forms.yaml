@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Center Safety Inspection Form
+    pages:
+      - id: 1
+        name: inspector_name
+        label: Inspector name
+        hint: Person performing inspection
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: inspection_date
+        label: Inspection date
+        hint: Date of inspection
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: area_inspected
+        label: Area inspected
+        hint: e g kitchen main hall storage
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: hazards_observed
+        label: Hazards observed
+        hint: List any safety hazards found
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: compliance_status
+        label: Compliance status
+        hint: Overall compliance assessment
+        type: select_one
+        options:
+          - Compliant
+          - Non compliant
+          - Needs attention
+        required: true
+      - id: 6
+        name: corrective_actions
+        label: Corrective actions required
+        hint: Recommended repairs or fixes
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: priority_level
+        label: Priority level for corrective actions
+        hint: Select urgency
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Critical
+        required: true
+      - id: 8
+        name: follow_up_date
+        label: Follow up date
+        hint: Date to re inspect or confirm fixes
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: inspector_signature
+        label: Inspector signature name
+        hint: Type full name as signature
+        type: text
+        options: []
+        required: true

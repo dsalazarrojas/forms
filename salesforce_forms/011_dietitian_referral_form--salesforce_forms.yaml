@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dietitian Referral Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: referral_recommender
+      label: Referral Recommender
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact E-mail
+      hint: Please enter a valid email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: referral_reason
+      label: Referral Reason
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: referral_message
+      label: Referral Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: referral_date
+      label: Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false

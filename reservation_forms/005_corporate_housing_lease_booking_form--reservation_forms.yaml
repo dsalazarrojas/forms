@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Housing Lease Booking Form
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: Enter company details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_details
+      label: Guest Details
+      hint: Enter guest details
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dates_selection
+      label: Dates Selection
+      hint: Enter dates
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: room_preferences
+      label: Room Preferences
+      hint: Enter room preferences
+      type: select_one
+      options:
+      - Single Room
+      - Double Room
+      - Suite
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: Enter contact details
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_verify
+      label: Email (Verify)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_verify
+      label: Phone (Verify)
+      hint: null
+      type: text
+      options: []
+      required: false

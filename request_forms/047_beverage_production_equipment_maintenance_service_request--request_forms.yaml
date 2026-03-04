@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Production Equipment Maintenance Service Request
+    pages:
+    - id: 1
+      name: requester_name
+      label: Your Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: We will send service updates here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: For urgent communication about service
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Name of your production facility
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_address
+      label: Facility Address
+      hint: Full address of the facility
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City where service is needed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State where service is needed
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: postal_code
+      label: ZIP Code
+      hint: Postal code for service location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: equipment_type
+      label: Equipment Type
+      hint: What type of equipment needs service
+      type: select_one
+      options:
+      - Filling Machine
+      - Bottling Machine
+      - Canning Machine
+      - Labeling Machine
+      - Packaging Machine
+      - Mixing Tank
+      - Pasteurizer
+      - Conveyor System
+      - Refrigeration Unit
+      - Other
+      required: true
+    - id: 10
+      name: equipment_brand
+      label: Equipment Brand
+      hint: What brand is the equipment
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: equipment_model
+      label: Equipment Model
+      hint: Model number if available
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: serial_number
+      label: Serial Number
+      hint: Equipment serial number if available
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: issue_type
+      label: Type of Issue
+      hint: What problem is the equipment experiencing
+      type: select_one
+      options:
+      - Mechanical Failure
+      - Electrical Issue
+      - Leaking
+      - Unusual Noise
+      - Reduced Performance
+      - Complete Breakdown
+      - Preventive Maintenance
+      - Calibration Needed
+      - Other
+      required: true
+    - id: 14
+      name: issue_description
+      label: Detailed Issue Description
+      hint: Please describe the problem in detail
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: issue_started
+      label: When Did the Issue Start
+      hint: When did you first notice the problem
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: downtime_impact
+      label: Production Downtime Impact
+      hint: How is this affecting production
+      type: select_one
+      options:
+      - Production Stopped
+      - Production Reduced
+      - Minor Impact
+      - No Impact Yet
+      - Preventive Request
+      required: true
+    - id: 17
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this service request
+      type: select_one
+      options:
+      - Emergency - Immediate Attention Needed
+      - High Priority - Within 24 Hours
+      - Medium Priority - Within 2-3 Days
+      - Low Priority - Schedule at Convenience
+      required: true
+    - id: 18
+      name: preferred_service_date
+      label: Preferred Service Date
+      hint: When would you like service performed
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: access_instructions
+      label: Access Instructions
+      hint: Any special instructions for technician access
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: previous_maintenance
+      label: Previous Maintenance History
+      hint: Describe any recent maintenance or repairs
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: parts_needed
+      label: Known Parts Needed
+      hint: Are there specific parts that need replacement
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about the equipment issue
+      type: text
+      options: []
+      required: false

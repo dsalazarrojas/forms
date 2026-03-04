@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ski Resort Parking Reservation Form
+    pages:
+    - id: 1
+      name: guest_info
+      label: Guest Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: parking_duration
+      label: Parking Duration
+      hint: Select a time slot in advance
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parking_location
+      label: Parking Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parking_details
+      label: Parking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: advance_payment
+      label: Advance Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Late Withdrawal Form
+    pages:
+    - id: 1
+      name: late_withdrawal_form
+      label: Request Late Withdrawal
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reason_for_late_withdrawal
+      label: Reason for Late Withdrawal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: institutional_agreement
+      label: Institutional Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: email
+      label: Your E-mail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

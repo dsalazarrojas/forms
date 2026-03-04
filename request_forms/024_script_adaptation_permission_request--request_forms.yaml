@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Script Adaptation Permission Request
+    pages:
+    - id: 1
+      name: script_adaptation_permission_request
+      label: script_adaptation_permission_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: producer_name
+      label: producer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: production_company
+      label: production_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: script
+      label: script
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: script_id
+      label: script_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: adaptation_type
+      label: adaptation_type
+      hint: null
+      type: select_one
+      options:
+      - adaptation_for_screen
+      - adaptation_for_stage
+      - adaptation_for_stage_and_screen
+      - adaptation_for_other
+      required: false
+    - id: 8
+      name: adaptation_for
+      label: adaptation_for
+      hint: null
+      type: select_multiple
+      options:
+      - adaptation_for_screen
+      - adaptation_for_stage
+      - adaptation_for_stage_and_screen
+      required: false
+    - id: 9
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: script_status
+      label: script_status
+      hint: null
+      type: select_one
+      options:
+      - script_status_draft
+      - script_status_preferred
+      - script_status_registered
+      required: false
+    - id: 12
+      name: producer_email
+      label: producer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: producer_phone
+      label: producer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: adaptation_status
+      label: adaptation_status
+      hint: null
+      type: select_one
+      options:
+      - adaptation_status_approved
+      - adaptation_status_pending
+      - adaptation_status_denied
+      required: false
+    - id: 16
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: adaptation_notes
+      label: adaptation_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: adaptation_terms
+      label: adaptation_terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: adaptation_rights
+      label: adaptation_rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: script_adaptations
+      label: script_adaptations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: production_status
+      label: production_status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: production_notes
+      label: production_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: agreement_signed
+      label: agreement_signed
+      hint: null
+      type: select_one
+      options:
+      - agreement_signed_yes
+      - agreement_signed_no
+      required: false
+    - id: 25
+      name: agreement_signed_date
+      label: agreement_signed_date
+      hint: null
+      type: date
+      options: []
+      required: false

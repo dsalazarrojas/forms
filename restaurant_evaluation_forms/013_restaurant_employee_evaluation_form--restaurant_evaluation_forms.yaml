@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Employee Evaluation Form
+    pages:
+    - id: 1
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: restaurant_name
+      label: Restaurant Name
+      hint: Name of the restaurant where the employee works
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: employee_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_form_completion_status
+      label: Evaluation Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Pending
+      required: false
+    - id: 11
+      name: evaluation_form_completion_date
+      label: Evaluation Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: restaurant_evaluation_form_completion_status
+      label: Restaurant Evaluation Form Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Pending
+      required: false
+    - id: 13
+      name: restaurant_evaluation_form_completion_date
+      label: Restaurant Evaluation Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: restaurant_evaluation_form_completion_reason
+      label: Restaurant Evaluation Form Completion Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Completed on time
+      - Completed on time but with minor errors
+      - Completed with significant errors
+      - Not yet completed
+      required: false
+    - id: 15
+      name: restaurant_evaluation_form_completion_notes
+      label: Restaurant Evaluation Form Completion Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: restaurant_evaluation_form_completion_date_awaiting_feedback
+      label: Restaurant Evaluation Form Completion Date Awaiting Feedback
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: restaurant_evaluation_form_completion_date_awaiting_approval
+      label: Restaurant Evaluation Form Completion Date Awaiting Approval
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: restaurant_evaluation_form_completion_status_awaiting_approval
+      label: Restaurant Evaluation Form Completion Status Awaiting Approval
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Awaiting Approval
+      required: false
+    - id: 19
+      name: restaurant_evaluation_form_completion_date_awaiting_review
+      label: Restaurant Evaluation Form Completion Date Awaiting Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: restaurant_evaluation_form_completion_status_awaiting_review
+      label: Restaurant Evaluation Form Completion Status Awaiting Review
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Awaiting Review
+      required: false
+    - id: 21
+      name: restaurant_evaluation_form_completion_date_awaiting_approval_awaiting_review
+      label: Restaurant Evaluation Form Completion Date Awaiting Approval and Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: restaurant_evaluation_form_completion_status_awaiting_approval_awaiting_review
+      label: Restaurant Evaluation Form Completion Status Awaiting Approval and Review
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Awaiting Approval and Review
+      required: false
+    - id: 23
+      name: restaurant_evaluation_form_completion_date_awaiting_review_awaiting_approval
+      label: Restaurant Evaluation Form Completion Date Awaiting Review and Approval
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: restaurant_evaluation_form_completion_status_awaiting_review_awaiting_approval
+      label: Restaurant Evaluation Form Completion Status Awaiting Review and Approval
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Awaiting Review and Approval
+      required: false
+    - id: 25
+      name: evaluation_form_completion_date
+      label: Evaluation Form Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false

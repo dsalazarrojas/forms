@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Consultation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: skin_concern
+      label: Skin Concern
+      hint: What is your current skin concern?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skin_concern_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: skin_type
+      label: Skin Type
+      hint: What skin type do you have?
+      type: select_multiple
+      options:
+      - Normal
+      - Combination
+      - Oily
+      - Dry
+      - Sensitive
+      - Acne
+      - Other
+      required: false
+    - id: 6
+      name: skin_tone
+      label: Skin Tone
+      hint: null
+      type: select_one
+      options:
+      - Fair
+      - Medium
+      - Dark
+      - Combination
+      required: false
+    - id: 7
+      name: best_time_to_apply
+      label: Best Time to Apply
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: recommended_products
+      label: Recommended Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false

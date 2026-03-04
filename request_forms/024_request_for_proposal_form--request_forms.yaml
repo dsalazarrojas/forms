@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: request_for_proposal_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: project_name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_budget
+      label: project_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_terms
+      label: payment_terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: company_address
+      label: company_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_location
+      label: project_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: file_upload
+      label: file_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: terms_and_conditions
+      label: terms_and_conditions
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true
+    - id: 16
+      name: back
+      label: back
+      hint: null
+      type: select_one
+      options:
+      - Back
+      - Other
+      required: false
+    - id: 17
+      name: cancel
+      label: cancel
+      hint: null
+      type: select_one
+      options:
+      - Cancel
+      - Other
+      required: false
+    - id: 18
+      name: save
+      label: save
+      hint: null
+      type: select_one
+      options:
+      - Save
+      - Other
+      required: false
+    - id: 19
+      name: reset
+      label: reset
+      hint: null
+      type: select_one
+      options:
+      - Reset
+      - Other
+      required: false
+    - id: 20
+      name: delete
+      label: delete
+      hint: null
+      type: select_one
+      options:
+      - Delete
+      - Other
+      required: false
+    - id: 21
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_one
+      options:
+      - Confirm
+      - Other
+      required: false
+    - id: 22
+      name: submit_form
+      label: submit_form
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true
+    - id: 23
+      name: back_to_form
+      label: back_to_form
+      hint: null
+      type: select_one
+      options:
+      - Back
+      - Other
+      required: false
+    - id: 24
+      name: save_changes
+      label: save_changes
+      hint: null
+      type: select_one
+      options:
+      - Save Changes
+      - Other
+      required: false
+    - id: 25
+      name: cancel_submission
+      label: cancel_submission
+      hint: null
+      type: select_one
+      options:
+      - Cancel Submission
+      - Other
+      required: false
+    - id: 26
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: save_uploaded_file
+      label: save_uploaded_file
+      hint: null
+      type: select_one
+      options:
+      - Save
+      - Other
+      required: false
+    - id: 28
+      name: delete_uploaded_file
+      label: delete_uploaded_file
+      hint: null
+      type: select_one
+      options:
+      - Delete
+      - Other
+      required: false

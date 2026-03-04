@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reference Order Request Form
+    pages:
+    - id: 1
+      name: university_id
+      label: university
+      hint: Please enter the university ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: delivery_preference
+      label: Delivery Preference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: delivery_authorization
+      label: Delivery Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reference_type
+      label: Reference Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: delivery_street
+      label: Delivery Street
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_city
+      label: Delivery City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_state
+      label: Delivery State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: delivery_zip
+      label: Delivery ZIP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: delivery_country
+      label: Delivery Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: university_name
+      label: University Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: university_address
+      label: University Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: university_contact
+      label: University Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: university_email
+      label: University Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: university_phone
+      label: University Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

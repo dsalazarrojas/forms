@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dermal Filler Consent Form
+    pages:
+    - id: 1
+      name: dermal_filler_consent_form
+      label: dermal_filler_consent_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dermal_filler_product_info
+      label: dermal_filler_product_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dermal_filler_procedure_details
+      label: dermal_filler_procedure_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dermal_filler_risks_benefits
+      label: dermal_filler_risks_benefits
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: dermal_filler_contraindications
+      label: dermal_filler_contraindications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: dermal_filler_allergies
+      label: dermal_filler_allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: dermal_filler_medications
+      label: dermal_filler_medications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: dermal_filler_medical_conditions
+      label: dermal_filler_medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false

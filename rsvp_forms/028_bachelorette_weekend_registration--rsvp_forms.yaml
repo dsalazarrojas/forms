@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bachelorette Weekend Registration
+    pages:
+    - id: 1
+      name: guest_name
+      label: Your Full Name
+      hint: Name of attendee
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For event updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Contact number for coordination
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: relationship_to_bride
+      label: Relationship to Bride
+      hint: How do you know the bride
+      type: select_one
+      options:
+      - Maid of Honor
+      - Bridesmaid
+      - Sister
+      - Friend
+      - Co-worker
+      - Family Member
+      - Other
+      required: true
+    - id: 5
+      name: attendance_status
+      label: Will You Attend
+      hint: Select your response
+      type: select_one
+      options:
+      - Yes, attending full weekend
+      - Yes, attending select events
+      - No, cannot attend
+      required: true
+    - id: 6
+      name: arrival_date
+      label: Expected Arrival Date
+      hint: When will you arrive
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: departure_date
+      label: Expected Departure Date
+      hint: When will you leave
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: accommodation_needed
+      label: Need Accommodation
+      hint: Do you need help with lodging
+      type: select_one
+      options:
+      - Yes, need accommodation
+      - No, have own lodging
+      - Maybe, deciding later
+      required: true
+    - id: 9
+      name: accommodation_preference
+      label: Accommodation Preference
+      hint: Select preferred lodging type
+      type: select_one
+      options:
+      - Shared rental house
+      - Hotel room
+      - Sharing room with others
+      - No preference
+      required: false
+    - id: 10
+      name: transportation_needed
+      label: Need Transportation
+      hint: Do you need rides to events
+      type: select_one
+      options:
+      - Yes, from airport
+      - Yes, local transportation
+      - No, have own transport
+      required: true
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any food restrictions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: For party shirts if applicable
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - XXL
+      - Do not want shirt
+      required: false
+    - id: 13
+      name: event_activities
+      label: Activities You Want to Join
+      hint: Select all you are interested in
+      type: select_multiple
+      options:
+      - Welcome dinner
+      - Spa day
+      - Pool or beach day
+      - Night out
+      - Brunch
+      - Games and activities
+      - Farewell breakfast
+      required: true
+    - id: 14
+      name: budget_range
+      label: Budget Range for Weekend
+      hint: Select your comfort level
+      type: select_one
+      options:
+      - Budget friendly
+      - Moderate
+      - No budget concerns
+      required: true
+    - id: 15
+      name: contributing_to_gift
+      label: Contributing to Group Gift
+      hint: Will you contribute to bride gift
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 16
+      name: gift_contribution_amount
+      label: Gift Contribution Amount
+      hint: Approximate amount in dollars
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests or Needs
+      hint: Accessibility, preferences, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact Name and Phone
+      hint: In case of emergency during event
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: message_for_bride
+      label: Message for the Bride
+      hint: Share a note or wish
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: rsvp_deadline
+      label: Date of RSVP
+      hint: Today date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patch Test Consent Form
+    pages:
+    - id: 1
+      name: salutation
+      label: Client Salutation
+      hint: null
+      type: select_one
+      options:
+      - Mr
+      - Mrs
+      - Dr
+      - Ms
+      - other
+      required: true
+    - id: 2
+      name: name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: client_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      required: false
+    - id: 7
+      name: salutation_2
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 8
+      name: patch_test_consent
+      label: Patch Test Consent
+      hint: null
+      type: select_multiple
+      options:
+      - I give my consent for patch testing
+      - I do not give my consent for patch testing
+      required: true
+    - id: 9
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: test_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: tested_by
+      label: Tested By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tested_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Negative
+      - Positive
+      required: true
+    - id: 15
+      name: consent_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Negative
+      - Positive
+      required: true
+    - id: 17
+      name: consent_type
+      label: Type of Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Patch Test
+      - Allergic Test
+      - Other
+      required: false
+    - id: 18
+      name: consent_note
+      label: Consent Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: treatment_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: treatment_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: treatment_provider
+      label: Treatment Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: treatment_details
+      label: Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: patch_test_consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: patch_test_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: patch_test_type
+      label: Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: patch_test_result
+      label: Result
+      hint: null
+      type: text
+      options: []
+      required: false

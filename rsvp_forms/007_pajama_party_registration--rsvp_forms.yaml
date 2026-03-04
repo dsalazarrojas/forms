@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pajama Party Registration
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Parent''}'
+      - '{''id'': 2, ''value'': ''Teacher''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_diet
+      label: Participant Diet
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Vegetarian''}'
+      - '{''id'': 2, ''value'': ''Vegan''}'
+      - '{''id'': 3, ''value'': ''Omnivore''}'
+      required: false
+    - id: 8
+      name: participant_diet_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_quantity
+      label: Participant Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attendee_age
+      label: Attendee Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: attendee_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Parent''}'
+      - '{''id'': 2, ''value'': ''Teacher''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 13
+      name: attendee_diet
+      label: Attendee Diet
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Vegetarian''}'
+      - '{''id'': 2, ''value'': ''Vegan''}'
+      - '{''id'': 3, ''value'': ''Omnivore''}'
+      required: false
+    - id: 14
+      name: attendee_diet_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attendee_quantity
+      label: Attendee Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: participant_gender
+      label: Participant Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Male''}'
+      - '{''id'': 2, ''value'': ''Female''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 17
+      name: attendee_gender
+      label: Attendee Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Male''}'
+      - '{''id'': 2, ''value'': ''Female''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 18
+      name: participant_quantity_slash
+      label: Participant Quantity (Slash)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: attendee_quantity_slash
+      label: Attendee Quantity (Slash)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: event_start
+      label: Event Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: event_end
+      label: Event End
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: venue_1_1
+      label: Venue 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: venue_1_2
+      label: Venue 1 Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: venue_2_1
+      label: Venue 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: venue_2_2
+      label: Venue 2 Description
+      hint: null
+      type: text
+      options: []
+      required: false

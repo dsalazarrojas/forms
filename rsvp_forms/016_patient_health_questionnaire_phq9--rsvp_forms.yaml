@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Health Questionnaire PHQ9
+    pages:
+    - id: 1
+      name: patient_health_questionnaire_phq9
+      label: Patient Health Questionnaire PHQ9
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - item1
+      - item2
+      - item3
+      required: true
+    - id: 3
+      name: question1_answer
+      label: Question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question2_answer
+      label: Question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question3_answer
+      label: Question 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question4_answer
+      label: Question 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question5_answer
+      label: Question 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question6_answer
+      label: Question 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question7_answer
+      label: Question 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: question8_answer
+      label: Question 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question9_answer
+      label: Question 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: age
+      label: Age
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: date_of_last_visit
+      label: Date Of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time_of_last_visit
+      label: Time Of Last Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: next_appointment
+      label: Next Appointment
+      hint: null
+      type: date
+      options: []
+      required: false

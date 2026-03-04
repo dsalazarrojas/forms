@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Trip Feedback Form
+    pages:
+    - id: 1
+      name: client_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: trip_section
+      label: -- Trip Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: destination
+      label: Destination(s) visited
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: trip_start_date
+      label: Trip start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: trip_end_date
+      label: Trip end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: travel_agent
+      label: Your Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: satisfaction_section
+      label: -- Satisfaction Ratings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: planning_satisfaction
+      label: Satisfaction with trip planning process
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 12
+      name: booking_accuracy
+      label: Accuracy of bookings and reservations
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 13
+      name: price_fairness
+      label: Fairness of pricing and value
+      hint: null
+      type: select_one
+      options:
+      - Very Unfair
+      - Unfair
+      - Fair
+      - Very Fair
+      - Excellent Value
+      required: true
+    - id: 14
+      name: communication_quality
+      label: Communication from travel agent
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 15
+      name: experience_section
+      label: -- Trip Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: accommodations
+      label: Quality of accommodations
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 17
+      name: transportation
+      label: Transportation arrangements
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 18
+      name: activities
+      label: Quality of activities and tours
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 19
+      name: overall_experience
+      label: Overall trip experience
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 20
+      name: feedback_section
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: highlights
+      label: What were the highlights of your trip?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: improvements
+      label: What could be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: recommendation
+      label: Would you recommend this travel agent?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true

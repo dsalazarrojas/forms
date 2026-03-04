@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reflexology Intake Form
+    pages:
+    - id: 1
+      name: schedule_an_appointment
+      label: Schedule An Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: name
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Patient email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: appointment_date
+      label: Select Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time_slot
+      label: Select Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: health_insurance
+      label: Health Insurance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

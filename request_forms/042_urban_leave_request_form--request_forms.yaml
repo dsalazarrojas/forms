@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Leave Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: team_leader_id
+      label: Team Leader ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: submitter_phone
+      label: Submitter's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_note
+      label: Submitter's Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: approver_note
+      label: Approver's Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: true
+    - id: 14
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Leader
+      - HR
+      required: false
+    - id: 15
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - HR Manager
+      - Team Leader
+      - Manager
+      required: false
+    - id: 16
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Alice
+      - Bob
+      required: true
+    - id: 17
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: team_location
+      label: Team Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: team_leaders_email
+      label: Team Leaders Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: manager_job_title
+      label: Manager Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: team_leaders_job_title
+      label: Team Leaders Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

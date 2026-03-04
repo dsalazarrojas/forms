@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Reference Request Form
+    pages:
+    - id: 1
+      name: reference_request_intro
+      label: Academic Reference Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name of the student requesting the reference
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_email
+      label: Student Email
+      hint: Current email address for the student
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: Official student identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reference_provider_name
+      label: Reference Provider Name
+      hint: Full name of the faculty member or advisor being asked for a reference
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reference_provider_email
+      label: Reference Provider Email
+      hint: Professional email address of the reference provider
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: relationship_to_student
+      label: Relationship to Student
+      hint: How does the reference provider know the student?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reference_purpose
+      label: Purpose of Reference
+      hint: What is this reference for?
+      type: select_one
+      options: ["Graduate school application", "Undergraduate program", "Scholarship application", "Research position", "Job application", "Internship", "Other"]
+      required: true
+    - id: 9
+      name: target_institution_program
+      label: Target Institution or Program
+      hint: Name of the institution or program for which the reference is needed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: reference_deadline
+      label: Reference Deadline
+      hint: When is the reference due?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: specific_qualities_requested
+      label: Specific Qualities to Highlight
+      hint: What specific qualities or skills should the reference emphasize?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: relevant_courses_projects
+      label: Relevant Courses or Projects
+      hint: Which courses or projects should the reference provider focus on?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: resume_cv_provided
+      label: Resume/CV Provided
+      hint: Has the student provided their resume or CV to the reference provider?
+      type: select_one
+      options: ["Yes, already provided", "Yes, will provide", "No, but can upon request", "No"]
+      required: true
+    - id: 14
+      name: previous_work_samples
+      label: Samples of Previous Work Provided
+      hint: Has the student provided samples of their academic work?
+      type: select_one
+      options: ["Yes, already provided", "Yes, will provide", "No, but can upon request", "No"]
+      required: false
+    - id: 15
+      name: follow_up_permission
+      label: Follow-Up Permission
+      hint: May the reference provider contact the student if they need more information?
+      type: select_one
+      options: ["Yes, they may contact me", "Yes, but only before the deadline", "Only if absolutely necessary", "No"]
+      required: true
+    - id: 16
+      name: waiver_rights
+      label: Waiver of Rights
+      hint: Does the student waive their right to view the reference letter?
+      type: select_one
+      options: ["Yes, I waive my right to view", "No, I reserve the right to view", "No opinion"]
+      required: true
+    - id: 17
+      name: additional_information
+      label: Additional Information
+      hint: Any other information that would help the reference provider?
+      type: text
+      options: []
+      required: false

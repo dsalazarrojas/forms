@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: service_desk_satisfaction_survey
+    pages:
+    - id: 1
+      name: service_desk_satisfaction_survey_page1
+      label: What type of issue did you encounter
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Technical''}'
+      - '{''label'': ''Non-Technical''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: service_desk_satisfaction_survey_page1_question1
+      label: what_type_of_issue_did_you_encounter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_desk_satisfaction_survey_page1_question1_hint
+      label: description_of_issue
+      hint: Please describe the issue you encountered
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_desk_satisfaction_survey_page1_question2
+      label: when_were_you_first_connected
+      hint: When was you first connected to us?
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_desk_satisfaction_survey_page1_question3
+      label: when_were_you_last_connected
+      hint: When was you last connected to us?
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: service_desk_satisfaction_survey_page1_question4
+      label: how_did_you_prefer_communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Chat''}'
+      required: false
+    - id: 7
+      name: service_desk_satisfaction_survey_page1_question4_hint
+      label: how_did_you_prefer_communication__hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_desk_satisfaction_survey_page2
+      label: Service Desk Satisfaction Survey - Summary
+      hint: null
+      type: note
+      options: []
+      required: false

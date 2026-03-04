@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heavy Equipment Checklist
+    pages:
+    - id: 1
+      name: equipment_id
+      label: construction_equipment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date
+      label: equipment_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspection_completed
+      label: has_inspection_completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: condition
+      label: condition_of_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: description
+      label: equipment_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool_type
+      label: assigned_to
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Promotion Entry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: channels
+      label: Preferred Channel
+      hint: null
+      type: select_multiple
+      options:
+      - Channel A
+      - Channel B
+      - Channel C
+      required: false
+    - id: 5
+      name: service_value
+      label: Service Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agreement
+      label: Agreement
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 7
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_phone
+      label: Company Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_email
+      label: Company Email
+      hint: null
+      type: email
+      options: []
+      required: false

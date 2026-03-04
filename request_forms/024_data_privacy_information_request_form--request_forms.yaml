@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Privacy Information Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_description
+      label: request_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Document 1''}'
+      - '{''label'': ''Document 2''}'
+      - '{''label'': ''Document 3''}'
+      required: false
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: request_note
+      label: Request Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: request_email
+      label: Request Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: request_phone
+      label: Request Phone
+      hint: null
+      type: text
+      options: []
+      required: false

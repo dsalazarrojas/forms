@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earnest Money Release Request Form
+    pages:
+    - id: 1
+      name: earnest_money_release_request
+      label: earnest Money Release Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: earnest_money_request_date
+      label: earnest Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: buyer_signature
+      label: buyers Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: seller_signature
+      label: sellers Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: escrow_team_signature
+      label: escrow Teams Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: earnest_money_payment_method
+      label: earnest Money Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Wire Transfer
+      - Check
+      required: true
+    - id: 7
+      name: earnest_money_payment_details
+      label: earnest Money Payment Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: earnest_money_amount
+      label: earnest Money Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: earnest_money_payment_status
+      label: earnest Money Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: earnest_money_payment_instructions
+      label: earnest Money Payment Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: earnest_money_delivery_preferences
+      label: earnest Money Delivery Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: earnest_money_signature
+      label: earnest Money Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: earnest_money_signature_type
+      label: earnest Money Signature Type
+      hint: null
+      type: select_one
+      options:
+      - Electronic
+      - Ink
+      required: true
+    - id: 14
+      name: earnest_money_signature_date
+      label: earnest Money Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: earnest_money_signature
+      label: earnest Money Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

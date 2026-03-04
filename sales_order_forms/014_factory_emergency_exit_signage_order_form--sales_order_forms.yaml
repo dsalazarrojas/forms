@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Emergency Exit Signage Order Form
+    pages:
+    - id: 1
+      name: factory_id
+      label: Factory ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: order_date
+      label: order date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: order_time
+      label: order time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip
+      label: zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: shipping_cost
+      label: shipping cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: tax_percent
+      label: tax percent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: tax_cost
+      label: tax cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: grand_total
+      label: grand total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: payment_method
+      label: payment method
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Cash
+      - Credit
+      - Wire Transfer
+      required: true
+    - id: 19
+      name: order_status
+      label: order status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Cancelled
+      - Completed
+      - Pending
+      required: true
+    - id: 20
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

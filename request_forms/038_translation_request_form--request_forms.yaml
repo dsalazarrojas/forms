@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Translation Request Form
+    pages:
+    - id: 1
+      name: document_title
+      label: Document Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: document_language
+      label: Document Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: document_file
+      label: Document File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

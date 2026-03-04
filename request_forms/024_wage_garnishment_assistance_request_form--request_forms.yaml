@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wage Garnishment Assistance Request Form
+    pages:
+    - id: 1
+      name: legal_aid_clinic
+      label: legal Aid Clinic
+      hint: null
+      type: select_multiple
+      options:
+      - Legal Aid Clinic
+      - Other
+      required: false
+    - id: 2
+      name: hr_team
+      label: HR Team
+      hint: null
+      type: select_multiple
+      options:
+      - HR Team
+      - Other
+      required: false
+    - id: 3
+      name: financial_counselor
+      label: Financial Counselor
+      hint: null
+      type: select_multiple
+      options:
+      - Financial Counselor
+      - Other
+      required: false
+    - id: 4
+      name: date_of_last_garnishment
+      label: Date of Last Garnishment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount_owed
+      label: Amount Owe
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: wage_garnishment_type
+      label: Wage Garnishment Type
+      hint: null
+      type: select_one
+      options:
+      - Bank
+      - Court Ordered
+      - Other
+      required: false
+    - id: 7
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_city
+      label: Employee City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_state
+      label: Employee State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_zip
+      label: Employee Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false

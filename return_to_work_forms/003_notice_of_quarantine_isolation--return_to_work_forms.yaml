@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Notice Of Quarantine/Isolation
+    pages:
+    - id: 1
+      name: quarantine_exposure
+      label: Quarantine Exposure
+      hint: null
+      type: select_multiple
+      options:
+      - Exposed
+      - Positive
+      required: false
+    - id: 2
+      name: return_date
+      label: return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: pdf_sent
+      label: pdf_sent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

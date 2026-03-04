@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Scene Revision Request Form
+    pages:
+    - id: 1
+      name: requester_name_full
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_role_selection
+      label: Current Role
+      hint: null
+      type: select_one
+      options:
+      - Director
+      - Lead Animator
+      - Production Manager
+      - Client Representative
+      required: true
+    - id: 3
+      name: target_scene_id
+      label: Scene ID
+      hint: e.g. SC-05
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: target_shot_number
+      label: Shot Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: revision_category_type
+      label: Revision Category
+      hint: null
+      type: select_one
+      options:
+      - Character Animation - Movement
+      - Background and Environment
+      - Lighting and Visual Effects
+      - Timing and Pacing
+      - Lipsync and Facial Animation
+      required: true
+    - id: 6
+      name: revision_priority_level
+      label: Revision Priority
+      hint: null
+      type: select_one
+      options:
+      - Low - Minor tweak
+      - Medium - Standard revision
+      - High - Critical for scene
+      - Blocked - Cannot proceed without fix
+      required: true
+    - id: 7
+      name: detailed_revision_desc
+      label: Detailed Revision Description
+      hint: Be as specific as possible regarding changes
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reference_timestamp_value
+      label: Reference Timestamp in Edit
+      hint: e.g. 01 - 24 - 15
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: markup_attached_status
+      label: Is a markup or reference image provided?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Attached or linked
+      - No - Text description only
+      required: true
+    - id: 10
+      name: est_revision_hours
+      label: Estimated Revision Time - Hours
+      hint: To be filled by lead animator
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: revision_deadline_target
+      label: Deadline for Completed Revision
+      hint: null
+      type: date
+      options: []
+      required: true

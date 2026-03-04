@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partner Meet And Greet RSVP Form
+    pages:
+    - id: 1
+      name: section_rsvp_details
+      label: -- RSVP Details --
+      type: note
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: Title of the meet and greet event
+      type: text
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: When the event is scheduled
+      type: date
+      required: true
+    - id: 4
+      name: rsvp_response
+      label: Will You Be Attending
+      hint: Confirm your attendance
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe, I am unsure
+      required: true
+    - id: 5
+      name: section_partner_info
+      label: -- Partner Information --
+      type: note
+      required: false
+    - id: 6
+      name: partner_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      required: true
+    - id: 7
+      name: partner_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      required: true
+    - id: 8
+      name: partner_company
+      label: Company Name
+      hint: Your organization
+      type: text
+      required: true
+    - id: 9
+      name: partner_title
+      label: Job Title
+      hint: Your position
+      type: text
+      required: true
+    - id: 10
+      name: partner_email
+      label: Email Address
+      hint: Your email for confirmation
+      type: email
+      required: true
+    - id: 11
+      name: partner_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      required: false
+    - id: 12
+      name: section_event_preferences
+      label: -- Event Preferences --
+      type: note
+      required: false
+    - id: 13
+      name: number_of_guests
+      label: Number of Guests Attending
+      hint: Including yourself
+      type: number
+      required: true
+    - id: 14
+      name: additional_guest_names
+      label: Additional Guest Names
+      hint: Names of other attendees
+      type: text
+      required: false
+    - id: 15
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or preferences
+      type: text
+      required: false
+    - id: 16
+      name: seating_preference
+      label: Seating Preference
+      hint: If applicable
+      type: select_one
+      options:
+      - No Preference
+      - With Current Partners
+      - With New Contacts
+      - Industry Specific Table
+      required: false
+    - id: 17
+      name: networking_interests
+      label: Networking Interests
+      hint: What topics interest you
+      type: select_multiple
+      options:
+      - Product Demonstrations
+      - Partnership Opportunities
+      - Industry Insights
+      - Technology Trends
+      - Growth Strategies
+      required: false
+    - id: 18
+      name: special_accommodations
+      label: Special Accommodations Needed
+      hint: Accessibility or other needs
+      type: text
+      required: false

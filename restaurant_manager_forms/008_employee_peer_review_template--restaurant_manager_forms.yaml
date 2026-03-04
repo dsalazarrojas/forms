@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_peer_review_template
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_items
+      label: action items
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''review and give feedback'', ''value'': ''review
+        and give feedback''}'
+      - '{''id'': 2, ''label'': ''create an action plan'', ''value'': ''create an
+        action plan''}'
+      - '{''id'': 3, ''label'': ''recognize and reward'', ''value'': ''recognize and
+        reward''}'
+      - '{''id'': 4, ''label'': ''other'', ''value'': ''other''}'
+      required: false
+    - id: 8
+      name: reviewer_comments
+      label: reviewer comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_comments
+      label: manager comments
+      hint: null
+      type: text
+      options: []
+      required: true

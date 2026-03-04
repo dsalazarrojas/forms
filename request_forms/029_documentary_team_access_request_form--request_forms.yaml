@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Documentary Team Access Request Form
+    pages:
+    - id: 1
+      name: project_details
+      label: prophets details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: visit_details_prophets_visit_prophets_visit
+      label: visit details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: prophets_access_request
+      label: access request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: agreement_prophets_terms
+      label: agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: contact_information
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: true

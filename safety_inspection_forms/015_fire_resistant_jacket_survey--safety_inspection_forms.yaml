@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Resistant Jacket Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: jacket_performance
+      label: jacket performance
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 3
+      name: comfort
+      label: comfort
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: safety_features
+      label: safety features
+      hint: Please list all the safety features of your jacket
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manufacturer
+      label: manufacturer
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''3M''}'
+      - '{''value'': ''Alpha PPE''}'
+      - '{''value'': ''3M PPE''}'
+      - '{''value'': ''Others''}'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: false

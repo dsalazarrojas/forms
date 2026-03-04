@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bathtub Safety Equipment Installation Request
+    pages:
+    - id: 1
+      name: client_basic_info
+      label: -- Resident and Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resident_full_name
+      label: Resident Name
+      hint: Person who will use the equipment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_name
+      label: Requestor Name (if different)
+      hint: caregiver, family member, or social worker
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: installation_address
+      label: Installation Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: equipment_needs_header
+      label: -- Safety Equipment Requested --
+      hint: Select the items you need installed.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: safety_items_selection
+      label: Items for Installation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Safety Grab Bar (Straight)
+      - Angled Grab Bar
+      - Wall-mounted Shower Seat
+      - Non-slip Adhesive Flooring
+      - Hand-held Shower Head
+      - Bathtub Transfer Bench
+      - Walk-in Tub Conversion
+      required: true
+    - id: 8
+      name: wall_surface_type
+      label: Wall Surface Material (where bars will be mounted)
+      hint: null
+      type: select_one
+      options:
+      - Ceramic Tile
+      - Fiberglass Insert
+      - Natural Stone/Marble
+      - Drywall/Plaster
+      - Acrylic
+      required: true
+    - id: 9
+      name: mobility_level
+      label: Current Mobility Level of the User
+      hint: Helps us suggest optimal placement
+      type: select_one
+      options:
+      - Independent (needs minor support)
+      - Uses Walker or Cane
+      - Uses Wheelchair
+      - Requires Full Assistance
+      required: true
+    - id: 10
+      name: urgency_installation
+      label: Urgency of Installation
+      hint: null
+      type: select_one
+      options:
+      - High (Imminent safety risk)
+      - Medium (Within 2 weeks)
+      - Routine (Within 1 month)
+      required: true
+    - id: 11
+      name: billing_header
+      label: -- Billing and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: payment_source
+      label: How will the installation be paid for?
+      hint: null
+      type: select_one
+      options:
+      - Private Pay
+      - Medicare/Medicaid Grant
+      - Private Insurance
+      - VA Benefits
+      - Non-profit Organization
+      required: true
+    - id: 13
+      name: insurance_id_number
+      label: Insurance Policy/ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: permission_to_drill
+      label: I authorize the drilling into walls for safety equipment mounting
+      hint: Required for installation
+      type: select_one
+      options:
+      - I Authorize
+      - Other
+      required: true
+    - id: 15
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

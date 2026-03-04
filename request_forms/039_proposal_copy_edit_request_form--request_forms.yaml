@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Proposal Copy Edit Request Form
+    pages:
+    - id: 1
+      name: proposal_copy_edit_request_form
+      label: Form Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Copy Edit
+      - Minor Edit
+      - Major Edit
+      required: false
+    - id: 4
+      name: proposal_number
+      label: Proposal Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

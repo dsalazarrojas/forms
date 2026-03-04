@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Safety Protocol Assessment Form
+    pages:
+    - id: 1
+      name: project_safety_protocol_assessment_form
+      label: Project Safety Protocol Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_name
+      label: Supervisor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_number
+      label: Project Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: safety_practices_rating
+      label: Rating of Safety Practices
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: safety_equipment_rating
+      label: Rating of Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: safety_equipment_condition
+      label: Condition of Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: observation_of_worksite
+      label: Observation of Worksite
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_notes
+      label: Supervisor's Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: supervisor_signature
+      label: Supervisor's Signature
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: project_manager_signature
+      label: Project Manager's Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

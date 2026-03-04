@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Suggestion Form
+    pages:
+    - id: 1
+      name: safety_suggestion_form_page_1
+      label: New Suggestion
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Administration
+      - Engineering
+      - Finance
+      - HR
+      - Maintenance
+      - Operations
+      - Research and Development
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: suggestion_date
+      label: Suggestion Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Approved
+      - Disapproved
+      required: true
+    - id: 10
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: assignee_name
+      label: Assignee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: assignee_email
+      label: Assignee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 17
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Safety Inspection Forms
+      - Other
+      required: true
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitter_ext_phone
+      label: Submitter External Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_ext_email
+      label: Submitter External Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: assignee_ext_email
+      label: Assignee External Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: assignee_ext_phone
+      label: Assignee External Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_ext
+      label: Submitter External
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assignee_ext
+      label: Assignee External
+      hint: null
+      type: text
+      options: []
+      required: false

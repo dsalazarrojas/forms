@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lockout Tagout Safety Checklist
+    pages:
+    - id: 1
+      name: lockout_tagout_safety_checklist1
+      label: Lockout Tagout Safety Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Lockout/Tagout Safety Checklist
+      - Lockout/Tagout Safety Checklist for Maintenance and Facilities
+      - Safety Checklists for Lockout/Tagout
+      required: false
+    - id: 2
+      name: equipment_lockout
+      label: Equipment Lockout
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tagout
+      label: Tagout
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_checklist
+      label: Safety Checklist
+      hint: Check the lockout tagout safety checklist.
+      type: select_one
+      options:
+      - Lockout Tagout Safety Checklist for Maintenance and Facilities
+      - Safety Checklists for Lockout/Tagout
+      - Lockout/Tagout Safety Checklist
+      required: false
+    - id: 5
+      name: safety_checklist_issues
+      label: Safety Checklist Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lockout_tagout_status
+      label: Lockout Tagout Status
+      hint: null
+      type: select_one
+      options:
+      - Not Completed
+      - In Progress
+      - Completed
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wish List Template
+    pages:
+    - id: 1
+      name: wish_list_template
+      label: Wish List Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wish_description
+      label: Wish Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: wish_category
+      label: Wish Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: wish_tags
+      label: Wish Tags
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 5
+      name: wish_date
+      label: Wish Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: wish_time
+      label: Wish Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: wish_location
+      label: Wish Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: wish_status
+      label: Wish Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 9
+      name: wish_priority
+      label: Wish Priority
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: wish_notes
+      label: Wish Notes
+      hint: null
+      type: note
+      options: []
+      required: false

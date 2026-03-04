@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: shoes_order_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_choice
+      label: shoe_design
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Sneaker''}'
+      - '{''option_2'': ''Sneaker2''}'
+      - '{''option_3'': ''Sneaker3''}'
+      required: false
+    - id: 3
+      name: size_choice
+      label: size
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': 7}'
+      - '{''option_2'': 8}'
+      - '{''option_3'': 9}'
+      required: false
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: further_requests
+      label: further_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_details
+      label: delivery_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment
+      label: payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_details
+      label: order_details
+      hint: null
+      type: text
+      options: []
+      required: false

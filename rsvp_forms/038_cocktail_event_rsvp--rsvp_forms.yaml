@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cocktail Event RSVP
+    pages:
+    - id: 1
+      name: section_guest_info
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_rsvp
+      label: -- RSVP Response --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_response
+      label: Will You Attend?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe
+      required: true
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests Attending
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: guest_names
+      label: Names of Additional Guests
+      hint: If bringing guests with you
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_preferences
+      label: -- Dietary and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: alcohol_preferences
+      label: Alcohol Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Wine
+      - Beer
+      - Cocktails
+      - Non-alcoholic beverages
+      - No preference
+      required: false
+    - id: 13
+      name: special_requests
+      label: Special Requests or Accommodations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: arrival_time
+      label: Estimated Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: transportation
+      label: Transportation Assistance Needed
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Parking information
+      - Directions
+      - Ride arrangement
+      - Other
+      required: false
+    - id: 17
+      name: section_networking
+      label: -- Networking Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: professional_interests
+      label: Professional Interests or Industry
+      hint: Help us arrange networking
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: linkedin_profile
+      label: LinkedIn Profile (Optional)
+      hint: For networking purposes
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_communication
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: communication_permission
+      label: May we contact you with event updates?
+      hint: null
+      type: select_one
+      options:
+      - Yes, via email
+      - Yes, via phone
+      - Yes, both
+      - false
+      required: false
+    - id: 22
+      name: future_events
+      label: Interested in future cocktail events?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 23
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: true

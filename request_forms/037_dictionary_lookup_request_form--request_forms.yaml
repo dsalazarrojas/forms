@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: dictionary_lookup_request_form
+    pages:
+    - id: 1
+      name: form_data
+      label: Dictionary Lookup Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: Select a request type
+      type: select_one
+      options:
+      - Terminology
+      - Definition
+      - Translation
+      - Other
+      required: false
+    - id: 3
+      name: language
+      label: language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      required: false
+    - id: 4
+      name: request_term
+      label: Request Term
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_term_definition
+      label: Request Term Definition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: translation_language
+      label: Translation Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: request_translator
+      label: Request Translator
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: follow_up
+      hint: Will you have follow-up information for this request?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: follow_up_info
+      label: Follow-up Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: submitted
+      label: Submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

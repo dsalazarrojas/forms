@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Content Idea Submission Form
+    pages:
+      - id: 1
+        name: submitter_name
+        label: Submitter Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: submitter_email
+        label: Submitter Email
+        hint: Your email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: submitter_department
+        label: Submitter Department
+        hint: Your department or team
+        type: select_one
+        options:
+          - Marketing
+          - Sales
+          - Product
+          - Customer Support
+          - Engineering
+          - Design
+          - Content
+          - Executive
+          - Other
+        required: true
+      - id: 4
+        name: submission_date
+        label: Submission Date
+        hint: Date of idea submission
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: idea_title
+        label: Idea Title
+        hint: Brief title for your idea
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: idea_category
+        label: Idea Category
+        hint: What type of content is this?
+        type: select_one
+        options:
+          - Blog Post
+          - Video Content
+          - Social Media Campaign
+          - Podcast Episode
+          - Infographic
+          - E-book or Guide
+          - Case Study
+          - Webinar
+          - Email Campaign
+          - Other
+        required: true
+      - id: 7
+        name: idea_description
+        label: Idea Description
+        hint: Describe your content idea in detail
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: target_audience
+        label: Target Audience
+        hint: Who is this content for?
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: content_objective
+        label: Content Objective
+        hint: What goal will this content achieve?
+        type: select_one
+        options:
+          - Educate Audience
+          - Generate Leads
+          - Build Brand Awareness
+          - Drive Sales
+          - Improve SEO
+          - Engage Existing Customers
+          - Establish Thought Leadership
+          - Support Product Launch
+        required: true
+      - id: 10
+        name: key_topics
+        label: Key Topics
+        hint: What topics will be covered?
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: proposed_headline
+        label: Proposed Headline
+        hint: Suggested title or headline
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: content_format
+        label: Content Format
+        hint: What format should this take?
+        type: select_one
+        options:
+          - How-To Guide
+          - List Article
+          - Interview
+          - Tutorial
+          - Opinion Piece
+          - News Article
+          - Review
+          - Comparison
+        required: true
+      - id: 13
+        name: estimated_word_count
+        label: Estimated Word Count
+        hint: Approximate length
+        type: select_one
+        options:
+          - Under 500 words
+          - 500-1000 words
+          - 1000-1500 words
+          - 1500-2000 words
+          - 2000+ words
+          - Not Applicable
+        required: true
+      - id: 14
+        name: suggested_keywords
+        label: Suggested Keywords
+        hint: SEO keywords to include
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: competitor_references
+        label: Competitor References
+        hint: Similar content from competitors
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: internal_subject_matter_experts
+        label: Internal Subject Matter Experts
+        hint: Who should be interviewed or consulted?
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: urgency_level
+        label: Urgency Level
+        hint: How urgent is this idea?
+        type: select_one
+        options:
+          - Low Priority
+          - Medium Priority
+          - High Priority
+          - Urgent
+        required: true
+      - id: 18
+        name: proposed_timeline
+        label: Proposed Timeline
+        hint: When should this be published?
+        type: date
+        options: []
+        required: false
+      - id: 19
+        name: related_campaigns
+        label: Related Campaigns
+        hint: Is this part of a larger campaign?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: distribution_channels
+        label: Distribution Channels
+        hint: Where should this be published?
+        type: select_multiple
+        options:
+          - Company Blog
+          - Website
+          - Facebook
+          - Instagram
+          - LinkedIn
+          - Twitter
+          - YouTube
+          - Email Newsletter
+        required: true
+      - id: 21
+        name: visual_assets_needed
+        label: Visual Assets Needed
+        hint: What visuals are required?
+        type: select_multiple
+        options:
+          - Featured Image
+          - Infographic
+          - Screenshots
+          - Charts or Graphs
+          - Video Thumbnail
+          - Custom Illustrations
+          - Stock Photos
+          - None
+        required: true
+      - id: 22
+        name: success_metrics
+        label: Success Metrics
+        hint: How should success be measured?
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_notes
+        label: Additional Notes
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false

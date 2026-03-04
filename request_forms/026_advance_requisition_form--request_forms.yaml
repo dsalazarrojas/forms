@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advance Requisition Form
+    pages:
+    - id: 1
+      name: requisition_header
+      label: -- Requisition Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Department and contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Unit or team requesting
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: item_description
+      label: Item or service description
+      hint: Detailed description and specifications
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: quantity_needed
+      label: Quantity needed
+      hint: Enter whole number
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: justification
+      label: Justification for requisition
+      hint: Business reason for request
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: required_by_date
+      label: Required by date
+      hint: When the item is needed
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: budget_code
+      label: Budget code or account
+      hint: Cost center to charge
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_status
+      label: Approval status
+      hint: For approver use
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of request
+      type: date
+      options: []
+      required: true

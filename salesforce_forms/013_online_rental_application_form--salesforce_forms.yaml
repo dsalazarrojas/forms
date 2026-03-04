@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Rental Application Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_info
+      label: Property Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Tenant Contact
+      - Landlord Contact
+      - Both
+      required: false
+    - id: 4
+      name: property_images
+      label: Property Images
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false

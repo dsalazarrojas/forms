@@ -1,0 +1,171 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Emergency Response Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: When are you completing this
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: building_location
+      label: Building or Floor
+      hint: Which area of the facility
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Your Department
+      hint: Where do you work
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evacuation_awareness
+      label: Are You Aware of Emergency Evacuation Routes
+      hint: Do you know the exit paths
+      type: select_one
+      options:
+        - Very Aware
+        - Somewhat Aware
+        - Not Very Aware
+        - Unaware
+      required: true
+    - id: 5
+      name: emergency_procedures
+      label: Familiar With Emergency Procedures
+      hint: Do you know what to do
+      type: select_one
+      options:
+        - Very Familiar
+        - Somewhat Familiar
+        - Not Very Familiar
+        - Unfamiliar
+      required: true
+    - id: 6
+      name: assembly_point_aware
+      label: Know Your Assembly Point
+      hint: Where to gather after evacuation
+      type: select_one
+      options:
+        - Yes, Clearly
+        - Somewhat
+        - No
+        - Unsure
+      required: true
+    - id: 7
+      name: participated_drill
+      label: Participated in Evacuation Drill
+      hint: Have you done this before
+      type: select_one
+      options:
+        - Yes, Recently
+        - Yes, Long Ago
+        - No
+      required: true
+    - id: 8
+      name: drill_effectiveness
+      label: Drill Effectiveness
+      hint: How well organized was it
+      type: select_one
+      options:
+        - Very Effective
+        - Effective
+        - Needs Improvement
+        - Not Effective
+      required: false
+    - id: 9
+      name: emergency_equipment_aware
+      label: Know Location of Emergency Equipment
+      hint: Fire extinguishers, first aid, AED
+      type: select_one
+      options:
+        - Yes, All
+        - Yes, Most
+        - Some
+        - None
+      required: true
+    - id: 10
+      name: mobility_assistance
+      label: Need Mobility Assistance in Emergency
+      hint: Do you require special accommodations
+      type: select_one
+      options:
+        - Yes
+        - No
+        - Unsure
+      required: true
+    - id: 11
+      name: hearing_impaired
+      label: Hearing or Visually Impaired
+      hint: Special needs consideration
+      type: select_one
+      options:
+        - Hearing Impaired
+        - Visually Impaired
+        - Both
+        - Neither
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions Staff Should Know
+      hint: Relevant to emergency response
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 13
+      name: confidence_level
+      label: Confidence in Building Safety
+      hint: Overall confidence level
+      type: select_one
+      options:
+        - Very Confident
+        - Confident
+        - Somewhat Confident
+        - Not Confident
+      required: true
+    - id: 14
+      name: improvement_suggestions
+      label: Suggestions for Emergency Preparedness
+      hint: How can we improve
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: concerns
+      label: Safety Concerns or Issues
+      hint: Any problems you have noticed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: respondent_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: false

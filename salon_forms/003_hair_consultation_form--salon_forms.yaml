@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Consultation Form
+    pages:
+    - id: 1
+      name: hair_consultation_form
+      label: hair consultation form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_details
+      label: client details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hair_type
+      label: hair type
+      hint: null
+      type: select_one
+      options:
+      - type1
+      - type2
+      - type3
+      required: false
+    - id: 4
+      name: services
+      label: services
+      hint: null
+      type: select_multiple
+      options:
+      - service1
+      - service2
+      - service3
+      required: false
+    - id: 5
+      name: hair_color
+      label: hair color
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hair_length
+      label: hair length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: hair_style
+      label: hair style
+      hint: null
+      type: select_multiple
+      options:
+      - style1
+      - style2
+      - style3
+      required: false
+    - id: 8
+      name: appointment_date
+      label: appointment date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: appointment_time
+      label: appointment time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_notes
+      label: additional notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_contact_method
+      label: preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - method1
+      - method2
+      - method3
+      required: false
+    - id: 15
+      name: preferred_contact_time
+      label: preferred contact time
+      hint: null
+      type: select_multiple
+      options:
+      - time1
+      - time2
+      - time3
+      required: false

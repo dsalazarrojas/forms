@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physician Satisfaction Survey
+    pages:
+    - id: 1
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: work_life
+      label: Work Life
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: physician_survey
+      label: Physician Survey
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: hospital_rating
+      label: Hospital Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: physician_comments
+      label: Physician Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: physician_feedback
+      label: Physician Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

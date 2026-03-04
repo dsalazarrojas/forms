@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Language Exchange Meetup RSVP
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_preferences
+      label: Participant preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: participant_level
+      label: Language level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Beginner''}'
+      - '{''value'': ''Intermediate''}'
+      - '{''value'': ''Advanced''}'
+      required: false
+    - id: 6
+      name: schedule_preferences
+      label: Schedule preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: attendance_confirmation
+      label: Attendance confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Will Attend''}'
+      - '{''value'': ''Will Not Attend''}'
+      - '{''value'': ''Maybe''}'
+      required: false
+    - id: 8
+      name: language_exchange_meetup_rsvp_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''English''}'
+      - '{''value'': ''French''}'
+      - '{''value'': ''Spanish''}'
+      - '{''value'': ''Chinese''}'
+      - '{''value'': ''Arabic''}'
+      - '{''value'': ''Russian''}'
+      - '{''value'': ''Japanese''}'
+      - '{''value'': ''Korean''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: meetup_date
+      label: Meetup date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: meetup_time
+      label: Meetup time
+      hint: null
+      type: time
+      options: []
+      required: false

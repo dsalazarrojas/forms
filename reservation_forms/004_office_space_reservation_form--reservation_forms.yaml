@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_space_reservation_form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: space_id
+      label: Space
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Room 1''}'
+      - '{''value'': 2, ''label'': ''Room 2''}'
+      - '{''value'': 3, ''label'': ''Room 3''}'
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: space_type
+      label: Space Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''meeting_room'', ''label'': ''Meeting Room''}'
+      - '{''value'': ''office'', ''label'': ''Office''}'
+      - '{''value'': ''storage_room'', ''label'': ''Storage Room''}'
+      required: false
+    - id: 10
+      name: capacity
+      label: Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: space_description
+      label: Space Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: space_status
+      label: Space Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''available'', ''label'': ''Available''}'
+      - '{''value'': ''reserved'', ''label'': ''Reserved''}'
+      - '{''value'': ''unavailable'', ''label'': ''Unavailable''}'
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 16
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_id
+      label: Submitter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submitter_form_id
+      label: Submitter Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 25
+      name: submitter_submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false

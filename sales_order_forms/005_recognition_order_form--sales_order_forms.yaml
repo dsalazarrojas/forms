@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recognition Order Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: award_type
+      label: Award Type
+      hint: null
+      type: select_one
+      options:
+      - Award Type
+      - Another Option
+      required: false
+    - id: 4
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: award_type
+      label: Award Type
+      hint: null
+      type: select_one
+      options:
+      - Award Type 1
+      - Award Type 2
+      - Award Type 3
+      required: false
+    - id: 8
+      name: award_details
+      label: Award Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: award_price
+      label: Award Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Canceled
+      required: false
+    - id: 12
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: note
+      options: []
+      required: false

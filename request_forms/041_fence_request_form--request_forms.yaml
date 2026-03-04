@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fence Request Form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fence_type
+      label: fence_type
+      hint: null
+      type: select_one
+      options:
+      - chainlink
+      - picket
+      - vinyl
+      - wood
+      - wrought
+      required: false
+    - id: 6
+      name: fence_height
+      label: fence_height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: width
+      label: width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: post_type
+      label: post_type
+      hint: null
+      type: select_one
+      options:
+      - chain
+      - steel
+      - vinyl
+      - wood
+      required: false
+    - id: 9
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

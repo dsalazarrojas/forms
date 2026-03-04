@@ -1,0 +1,141 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Call Reviews Milestones
+    pages:
+      - id: 1
+        name: review_summary_header
+        label: -- Call Review Summary --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client Name
+        hint: Name of the account or company
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: project_name
+        label: Project Name - ID
+        hint: Reference the specific project being reviewed
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: account_manager
+        label: Account Manager
+        hint: Internal lead for this project
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: review_date
+        label: Date of Call Review
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: milestone_header
+        label: -- Milestone Tracking --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: milestone_reached
+        label: Current Milestone Reached
+        hint: Select the primary milestone discussed during the call
+        type: select_one
+        options:
+          - Discovery Completed
+          - Proposal Accepted
+          - Contract Signed
+          - Implementation Phase 1
+          - Implementation Phase 2
+          - Final Delivery
+          - Post-Launch Review
+        required: true
+      - id: 8
+        name: milestone_status
+        label: Milestone Status
+        hint: Is the project currently on track?
+        type: select_one
+        options:
+          - On Track
+          - Ahead of Schedule
+          - Minor Delay
+          - Significant Delay
+          - Blocked
+        required: true
+      - id: 9
+        name: key_decisions_made
+        label: Key Decisions and Agreements
+        hint: List the main outcomes of the call
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: client_feedback
+        label: Client Feedback Received
+        hint: Summary of the client's comments or concerns
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: action_items_internal
+        label: Internal Action Items
+        hint: Tasks assigned to our team
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: action_items_client
+        label: Client Action Items
+        hint: Tasks assigned to the client team
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: next_scheduled_call
+        label: Next Scheduled Call Date
+        hint: null
+        type: date
+        options: []
+        required: false
+      - id: 14
+        name: risk_assessment
+        label: Potential Project Risks
+        hint: Identify any new or ongoing risks to the timeline
+        type: select_multiple
+        options:
+          - Budget overruns
+          - Scope creep
+          - Resource availability
+          - Technical challenges
+          - Communication gaps
+        required: false
+      - id: 15
+        name: manager_approval
+        label: Manager Approval of Review
+        hint: Sign-off on the call summary
+        type: select_one
+        options:
+          - Approved
+          - Needs Revision
+          - Pending further info
+        required: true

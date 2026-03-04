@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Abstract Request Form
+    pages:
+    - id: 1
+      name: section_header_requester_info
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department or unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: requester_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_request_details
+      label: -- Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: document_title
+      label: Title of the document or material
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: document_type
+      label: Type of document
+      hint: null
+      type: select_one
+      options:
+      - Research paper
+      - Presentation
+      - Report
+      - Thesis or dissertation
+      - Policy document
+      - Other
+      required: true
+    - id: 10
+      name: author_or_source
+      label: Author or source of the document
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: publication_date
+      label: Publication or creation date (if known)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: abstract_purpose
+      label: Purpose of the abstract request
+      hint: null
+      type: select_one
+      options:
+      - Academic research
+      - Internal review
+      - Conference preparation
+      - Grant application
+      - General reference
+      - Other
+      required: true
+    - id: 13
+      name: preferred_length
+      label: Preferred abstract length
+      hint: null
+      type: select_one
+      options:
+      - Brief (100-150 words)
+      - Standard (200-300 words)
+      - Extended (400-500 words)
+      - No preference
+      required: false
+    - id: 14
+      name: key_focus_areas
+      label: Key areas or topics the abstract should focus on
+      hint: Describe what aspects are most important
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: deadline
+      label: Date the abstract is needed by
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: special_instructions
+      label: Any special instructions or formatting requirements
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Letter Explanation Request Form
+    pages:
+    - id: 1
+      name: school_id
+      label: School Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Request
+      - Letter Explanation
+      - Other
+      required: true
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: request_description
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_city
+      label: School City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: school_state
+      label: School State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: school_zip
+      label: School Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_message
+      label: Follow-up Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

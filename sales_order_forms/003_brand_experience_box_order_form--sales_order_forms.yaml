@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Experience Box Order Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: We will send order confirmation here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for delivery issues
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Optional company name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: box_type
+      label: Box Type Selection
+      hint: Choose your brand experience box
+      type: select_one
+      options:
+      - Starter Box
+      - Premium Box
+      - Deluxe Box
+      - Corporate Box
+      - Custom Box
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Number of boxes to order
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: box_contents
+      label: Preferred Box Contents
+      hint: Select items you want included
+      type: select_multiple
+      options:
+      - Branded Notebooks
+      - Pens and Stationery
+      - Stickers and Decals
+      - Tote Bag
+      - Water Bottle
+      - Tech Accessories
+      - Snacks and Treats
+      - Welcome Card
+      required: true
+    - id: 8
+      name: color_preference
+      label: Color Theme Preference
+      hint: Choose your preferred color scheme
+      type: select_one
+      options:
+      - Corporate Blue
+      - Modern Black
+      - Vibrant Multi
+      - Eco Green
+      - Minimalist White
+      - No Preference
+      required: false
+    - id: 9
+      name: shipping_address_line1
+      label: Shipping Address Line 1
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: shipping_address_line2
+      label: Shipping Address Line 2
+      hint: Apartment, suite, unit, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: shipping_city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: shipping_state
+      label: State or Province
+      hint: State or Province
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: shipping_zip
+      label: ZIP or Postal Code
+      hint: ZIP or Postal Code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: shipping_country
+      label: Country
+      hint: Country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: true
+    - id: 15
+      name: delivery_date
+      label: Preferred Delivery Date
+      hint: When would you like delivery
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: special_instructions
+      label: Special Delivery Instructions
+      hint: Any special instructions for delivery
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      - Purchase Order
+      - Invoice
+      required: true
+    - id: 18
+      name: gift_message
+      label: Gift Message
+      hint: Optional message to include
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: Do you accept our terms
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true

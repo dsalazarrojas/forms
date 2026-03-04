@@ -1,0 +1,408 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appliance Delivery And Installation Request
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Unique request number
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: customer_name
+      label: Customer Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: alternate_phone
+      label: Alternate Phone
+      hint: Backup contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_type
+      label: Service Type
+      hint: What service do you need
+      type: select_one
+      options:
+      - Delivery only
+      - Installation only
+      - Delivery and installation
+      - Haul away old appliance
+      - Other
+      required: true
+    - id: 8
+      name: appliance_type
+      label: Appliance Type
+      hint: What appliance
+      type: select_one
+      options:
+      - Refrigerator
+      - Range or oven
+      - Dishwasher
+      - Washing machine
+      - Dryer
+      - Microwave
+      - Freezer
+      - Wine cooler
+      - Other
+      required: true
+    - id: 9
+      name: appliance_details
+      label: Appliance Details
+      hint: Brand and model
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: purchase_location
+      label: Where was appliance purchased
+      hint: Store or online
+      type: select_one
+      options:
+      - Our store
+      - Another retailer
+      - Online
+      - Other
+      required: true
+    - id: 11
+      name: order_number
+      label: Order Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_address_section
+      label: -- Delivery Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: delivery_address
+      label: Street Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: delivery_city
+      label: City
+      hint: City or town
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: delivery_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: delivery_zip
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: property_type
+      label: Property Type
+      hint: Type of residence
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Condominium
+      - Townhouse
+      - Mobile home
+      - Other
+      required: true
+    - id: 18
+      name: floor_level
+      label: Floor Level
+      hint: Which floor
+      type: select_one
+      options:
+      - Ground floor
+      - 2nd floor
+      - 3rd floor
+      - 4th floor or higher
+      - Basement
+      - Garage
+      required: true
+    - id: 19
+      name: elevator_available
+      label: Is elevator available
+      hint: For apartments
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 20
+      name: stairs_count
+      label: Number of Flights of Stairs
+      hint: If no elevator
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: access_challenges
+      label: Any access challenges
+      hint: Narrow doors, tight corners
+      type: select_one
+      options:
+      - No challenges
+      - Narrow doorways
+      - Tight corners
+      - Long walkway
+      - Steep stairs
+      - Other
+      required: true
+    - id: 22
+      name: access_details
+      label: Access Details
+      hint: Describe challenges
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: First choice date
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: alternate_delivery_date
+      label: Alternate Delivery Date
+      hint: Second choice
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: preferred_time_window
+      label: Preferred Time Window
+      hint: When works best
+      type: select_one
+      options:
+      - Morning (8 AM to 12 PM)
+      - Afternoon (12 PM to 5 PM)
+      - Evening (5 PM to 8 PM)
+      - Anytime
+      required: true
+    - id: 26
+      name: installation_requirements
+      label: -- Installation Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: water_connection
+      label: Water Connection Needed
+      hint: For ice makers, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 28
+      name: gas_connection
+      label: Gas Connection Needed
+      hint: For gas appliances
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 29
+      name: electrical_requirements
+      label: Electrical Requirements
+      hint: Voltage needs
+      type: select_one
+      options:
+      - Standard 110V
+      - 220V required
+      - Not sure
+      - Not applicable
+      required: true
+    - id: 30
+      name: existing_hookups
+      label: Are hookups in place
+      hint: Current connections
+      type: select_one
+      options:
+      - Yes, all ready
+      - Partially ready
+      - No, need installation
+      - Not sure
+      required: true
+    - id: 31
+      name: haul_away_request
+      label: -- Haul Away Service --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: haul_away_needed
+      label: Do you need old appliance removed
+      hint: Haul away service
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 33
+      name: old_appliance_type
+      label: Old Appliance Type
+      hint: What needs removal
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: old_appliance_condition
+      label: Old Appliance Condition
+      hint: Working or not
+      type: select_one
+      options:
+      - Working
+      - Not working
+      - Unknown
+      required: false
+    - id: 35
+      name: special_instructions
+      label: Special Instructions
+      hint: Any specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: gate_code
+      label: Gate or Entry Code
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: parking_instructions
+      label: Parking Instructions
+      hint: Where to park
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: someone_home
+      label: Will someone be home
+      hint: During delivery
+      type: select_one
+      options:
+      - Yes, adult present
+      - No, leave at door
+      - Building staff will accept
+      - Other arrangements
+      required: true
+    - id: 39
+      name: contact_on_arrival
+      label: Call on arrival
+      hint: Contact preference
+      type: select_one
+      options:
+      - Yes, call me
+      - Yes, text me
+      - No need
+      required: true
+    - id: 40
+      name: scheduling_section
+      label: -- For Office Use --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: scheduled_date
+      label: Scheduled Delivery Date
+      hint: Confirmed date
+      type: date
+      options: []
+      required: false
+    - id: 42
+      name: scheduled_time
+      label: Scheduled Time Window
+      hint: Confirmed time
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: assigned_team
+      label: Assigned Delivery Team
+      hint: Team assignment
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: estimated_cost
+      label: Estimated Cost
+      hint: Service cost
+      type: number
+      options: []
+      required: false
+    - id: 45
+      name: request_status
+      label: Request Status
+      hint: Current status
+      type: select_one
+      options:
+      - Received
+      - Scheduled
+      - In progress
+      - Completed
+      - Cancelled
+      required: false
+    - id: 46
+      name: customer_signature
+      label: Customer Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 47
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

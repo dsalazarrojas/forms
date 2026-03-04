@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_pallet_rental_order_form
+    pages:
+    - id: 1
+      name: rental_order
+      label: Rental Order
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: shipping_provider
+      label: Shipping Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: payment_information
+      label: Payment Information
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: dates
+      label: Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: shipping_provider_name
+      label: Shipping Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: order_id
+      label: Order ID
+      hint: null
+      type: text
+      options: []
+      required: false

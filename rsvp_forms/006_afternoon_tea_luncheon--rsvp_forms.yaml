@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Afternoon Tea Luncheon
+    pages:
+    - id: 1
+      name: header
+      label: -- Afternoon Tea Luncheon RSVP --
+      hint: A vintage themed gathering for tea and conversation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: guest_count
+      label: Number of Guests
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: attendance_status
+      label: Attending?
+      hint: null
+      type: select_one
+      options:
+      - Joyfully Accept
+      - Regretfully Decline
+      required: true
+    - id: 5
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      required: false
+    - id: 6
+      name: dietary_notes
+      label: Other Dietary Notes
+      hint: Please specify any other allergies or needs
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tea_preference
+      label: Preferred Tea Blend
+      hint: select your favorite type of tea
+      type: select_one
+      options:
+      - Earl Grey
+      - English Breakfast
+      - Chamomile
+      - Green Tea
+      - Darjeeling
+      required: false
+    - id: 8
+      name: food_selection
+      label: Afternoon Tea Selection - Scones, Sandwiches, etc.
+      hint: Select your top preferences for the buffet
+      type: select_multiple
+      options:
+      - Cucumber Sandwiches
+      - Smoked Salmon Blinis
+      - Plain Scones with Clotted Cream
+      - Fruit Tartlets
+      - Macarons
+      required: false
+    - id: 9
+      name: vintage_header
+      label: -- Vintage Experience --
+      hint: Help us set the mood
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: song_request
+      label: Song Request for the Event
+      hint: Any classic or vintage tune you would like to hear
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: host_message
+      label: Message to the Host
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Addition Support Request
+    pages:
+    - id: 1
+      name: form_submission
+      label: Menu Addition Support Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_name
+      label: Menu Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_details
+      label: Menu Item Details
+      hint: Please provide a detailed description of the menu item.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_type
+      label: Menu Item Type
+      hint: null
+      type: select_one
+      options:
+      - New Menu Item
+      - Menu Update
+      - Menu Removal
+      required: false
+    - id: 5
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: false
+    - id: 6
+      name: category_id
+      label: Category ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: urgency
+      label: Urgency
+      hint: How urgently do you need this menu item?
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: attachment
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: menu_item_image_url
+      label: Menu Item Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: menu_item_price
+      label: Menu Item Price
+      hint: Price must be numeric only.
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_submission_id
+      label: Form Submission ID
+      hint: null
+      type: number
+      options: []
+      required: false

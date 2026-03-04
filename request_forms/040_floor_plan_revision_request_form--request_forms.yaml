@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floor Plan Revision Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: floor_plan_id
+      label: floor_plan_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: revision_reason
+      label: revision_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: floor_plan_revision_date
+      label: floor_plan_revision_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: floor_plan_revision_time
+      label: floor_plan_revision_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: floor_plan_revision_details
+      label: floor_plan_revision_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - Architect
+      - Engineer
+      - Construction Team
+      required: true
+    - id: 12
+      name: assigned_by
+      label: assigned_by
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: true
+    - id: 13
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Started
+      - Ongoing
+      - Completed
+      required: false
+    - id: 14
+      name: project_location
+      label: project_location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 15
+      name: floor_plan_revision_image
+      label: floor_plan_revision_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_manager_contact
+      label: project_manager_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_manager_email
+      label: project_manager_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_manager_phone
+      label: project_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_email
+      label: submitted_by_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by_phone
+      label: submitted_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false

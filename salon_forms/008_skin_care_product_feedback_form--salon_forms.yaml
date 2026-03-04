@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: skin_care_product_feedback_form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skin_care_product
+      label: skin_care_product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_5
+      label: rating_5
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: rating_6
+      label: rating_6
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Enter your email for response.
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Skincare
+      - Haircare
+      - Nailcare
+      - Makeup
+      - Fragrance
+      - Haircolor
+      required: false
+    - id: 10
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Skincare
+      - Haircare
+      - Nailcare
+      - Haircut
+      - Color
+      - Haircolor
+      required: false
+    - id: 11
+      name: product
+      label: Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: response_email
+      label: Response Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: response_phone
+      label: Response Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: response_phone_number
+      label: Response Phone
+      hint: null
+      type: text
+      options: []
+      required: false

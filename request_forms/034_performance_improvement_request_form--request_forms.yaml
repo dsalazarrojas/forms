@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Performance Improvement Request Form
+    pages:
+    - id: 1
+      name: performance_improvement_request
+      label: Performance Improvement Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: subordinate_name
+      label: subordinate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_performance_improvement
+      label: expected_performance_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggested_improvement_plan
+      label: suggested_improvement_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_request
+      label: date_of_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_request
+      label: time_of_request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Supervisor
+      - HR
+      - Other
+      required: true
+    - id: 10
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Complete
+      - Rejected
+      - Approved
+      - Pending
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - HR
+      required: false

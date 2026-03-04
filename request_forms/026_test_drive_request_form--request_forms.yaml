@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Test Drive Request Form
+    pages:
+    - id: 1
+      name: test_drive_request_form
+      label: Test Drive Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: make
+      label: Make
+      hint: null
+      type: select_one
+      options:
+      - Chevrolet
+      - Ford
+      - Toyota
+      required: false
+    - id: 6
+      name: model
+      label: Model
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Orange
+      - Purple
+      - Pink
+      - Brown
+      - Gray
+      - Black
+      - White
+      - Silver
+      required: false
+    - id: 8
+      name: vin
+      label: VIN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: year
+      label: Year
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: mileage
+      label: Mileage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: test_location
+      label: Test Location
+      hint: null
+      type: select_one
+      options:
+      - Dealership
+      - Airport
+      required: false
+    - id: 12
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy1
+      - chatjimmy2
+      required: false
+    - id: 16
+      name: form_completed_on
+      label: Form Completed On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Bob
+      required: false
+    - id: 18
+      name: form_submitted_on
+      label: Form Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Bob
+      - John
+      required: false
+    - id: 20
+      name: form_submitted_by_email
+      label: Form Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: test_drive_status
+      label: Test Drive Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Complete
+      - Cancelled
+      required: false
+    - id: 22
+      name: test_drive_comment
+      label: Test Drive Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: test_drive_notes
+      label: Test Drive Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: test_drive_request_id
+      label: Test Drive Request ID
+      hint: null
+      type: text
+      options: []
+      required: false

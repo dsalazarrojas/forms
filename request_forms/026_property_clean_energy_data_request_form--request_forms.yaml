@@ -1,0 +1,347 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_clean_energy_data_request_form
+    pages:
+    - id: 1
+      name: property_owner
+      label: property_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: energy_consumption_type
+      label: energy_consumption_type
+      hint: null
+      type: select_one
+      options:
+      - electricity
+      - gas
+      - water
+      - other
+      required: false
+    - id: 6
+      name: energy_consumption_period
+      label: energy_consumption_period
+      hint: null
+      type: select_multiple
+      options:
+      - daily
+      - monthly
+      - year
+      required: false
+    - id: 7
+      name: energy_consumption_level
+      label: energy_consumption_level
+      hint: null
+      type: select_one
+      options:
+      - low
+      - high
+      required: false
+    - id: 8
+      name: energy_source
+      label: energy_source
+      hint: null
+      type: select_multiple
+      options:
+      - solar
+      - wind
+      - geothermal
+      - other
+      required: false
+    - id: 9
+      name: energy_storage
+      label: energy_storage
+      hint: null
+      type: select_multiple
+      options:
+      - battery
+      - tank
+      - other
+      required: false
+    - id: 10
+      name: building_sqft
+      label: building_sqft
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_appliances
+      label: total_appliances
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: appliances_with_energy_efficiency_features
+      label: appliances_with_energy_efficiency_features
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: energy_efficiency_features
+      label: energy_efficiency_features
+      hint: null
+      type: select_multiple
+      options:
+      - solar
+      - wind
+      - geothermal
+      - other
+      required: false
+    - id: 14
+      name: building_age
+      label: building_age
+      hint: null
+      type: select_one
+      options:
+      - new
+      - 1-5
+      - 6-10
+      - 11-15
+      - 16-20
+      - 21-25
+      - 26-30
+      - 31-35
+      - 36-40
+      - 41-45
+      - 46-50
+      - 51-60
+      - 61-70
+      - 71-80
+      required: false
+    - id: 15
+      name: roof_type
+      label: roof_type
+      hint: null
+      type: select_multiple
+      options:
+      - asphalt
+      - metal
+      - tile
+      - other
+      required: false
+    - id: 16
+      name: wall_type
+      label: wall_type
+      hint: null
+      type: select_multiple
+      options:
+      - brick
+      - wood
+      - steel
+      - other
+      required: false
+    - id: 17
+      name: window_type
+      label: window_type
+      hint: null
+      type: select_multiple
+      options:
+      - double
+      - triple
+      - single
+      - other
+      required: false
+    - id: 18
+      name: door_type
+      label: door_type
+      hint: null
+      type: select_multiple
+      options:
+      - automatic
+      - manual
+      - other
+      required: false
+    - id: 19
+      name: foundation_type
+      label: foundation_type
+      hint: null
+      type: select_multiple
+      options:
+      - basement
+      - crawlspace
+      - slab
+      - other
+      required: false
+    - id: 20
+      name: floor_type
+      label: floor_type
+      hint: null
+      type: select_multiple
+      options:
+      - slab
+      - crawl
+      - other
+      required: false
+    - id: 21
+      name: wall_insulation
+      label: wall_insulation
+      hint: null
+      type: select_multiple
+      options:
+      - insulated
+      - uninsulated
+      - other
+      required: false
+    - id: 22
+      name: attic_insulation
+      label: attic_insulation
+      hint: null
+      type: select_multiple
+      options:
+      - insulated
+      - uninsulated
+      - other
+      required: false
+    - id: 23
+      name: roof_insulation
+      label: roof_insulation
+      hint: null
+      type: select_multiple
+      options:
+      - insulated
+      - uninsulated
+      - other
+      required: false
+    - id: 24
+      name: foundation_insulation
+      label: foundation_insulation
+      hint: null
+      type: select_multiple
+      options:
+      - insulated
+      - uninsulated
+      - other
+      required: false
+    - id: 25
+      name: foundation_drains
+      label: foundation_drains
+      hint: null
+      type: select_multiple
+      options:
+      - insulated
+      - uninsulated
+      - other
+      required: false
+    - id: 26
+      name: electrical_systems
+      label: electrical_systems
+      hint: null
+      type: select_multiple
+      options:
+      - panel
+      - breaker
+      - other
+      required: false
+    - id: 27
+      name: plumbing_systems
+      label: plumbing_systems
+      hint: null
+      type: select_multiple
+      options:
+      - panel
+      - breaker
+      - other
+      required: false
+    - id: 28
+      name: hvac_systems
+      label: hvac_systems
+      hint: null
+      type: select_multiple
+      options:
+      - central
+      - window
+      - other
+      required: false
+    - id: 29
+      name: fire_alarm_systems
+      label: fire_alarm_systems
+      hint: null
+      type: select_multiple
+      options:
+      - installed
+      - not_installed
+      required: false
+    - id: 30
+      name: sprinkler_systems
+      label: sprinkler_systems
+      hint: null
+      type: select_multiple
+      options:
+      - installed
+      - not_installed
+      required: false
+    - id: 31
+      name: security_systems
+      label: security_systems
+      hint: null
+      type: select_multiple
+      options:
+      - monitored
+      - unmonitored
+      required: false
+    - id: 32
+      name: smart_home_devices
+      label: smart_home_devices
+      hint: null
+      type: select_multiple
+      options:
+      - hub
+      - switch
+      - other
+      required: false
+    - id: 33
+      name: smart_home_features
+      label: smart_home_features
+      hint: null
+      type: select_multiple
+      options:
+      - enabled
+      - disabled
+      required: false
+    - id: 34
+      name: smart_home_systems
+      label: smart_home_systems
+      hint: null
+      type: select_multiple
+      options:
+      - hub
+      - switch
+      - other
+      required: false
+    - id: 35
+      name: electrical_metering
+      label: electrical_metering
+      hint: null
+      type: select_multiple
+      options:
+      - smart_meter
+      - analog_meter
+      - other
+      required: false

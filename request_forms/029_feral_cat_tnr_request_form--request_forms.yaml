@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feral Cat TNR Request Form
+    pages:
+    - id: 1
+      name: feral_cat_name
+      label: Feral Cat Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: location_address
+      label: Location Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location_city
+      label: Location City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location_state
+      label: Location State
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Alabama''}'
+      - '{''label'': ''Alaska''}'
+      - '{''label'': ''American Samoa''}'
+      - '{''label'': ''Arizona''}'
+      - '{''label'': ''Arkansas''}'
+      - '{''label'': ''California''}'
+      - '{''label'': ''Colorado''}'
+      - '{''label'': ''Connecticut''}'
+      - '{''label'': ''Delaware''}'
+      - '{''label'': ''District of Columbia''}'
+      - '{''label'': ''Florida''}'
+      - '{''label'': ''Georgia''}'
+      - '{''label'': ''Guam''}'
+      - '{''label'': ''Hawaii''}'
+      - '{''label'': ''Idaho''}'
+      - '{''label'': ''Illinois''}'
+      - '{''label'': ''Indiana''}'
+      - '{''label'': ''Iowa''}'
+      - '{''label'': ''Kansas''}'
+      - '{''label'': ''Kentucky''}'
+      - '{''label'': ''Louisiana''}'
+      - '{''label'': ''Maine''}'
+      - '{''label'': ''Maryland''}'
+      - '{''label'': ''Massachusetts''}'
+      - '{''label'': ''Michigan''}'
+      - '{''label'': ''Minnesota''}'
+      - '{''label'': ''Mississippi''}'
+      - '{''label'': ''Missouri''}'
+      - '{''label'': ''Montana''}'
+      - '{''label'': ''Nebraska''}'
+      - '{''label'': ''Nevada''}'
+      - '{''label'': ''New Hampshire''}'
+      - '{''label'': ''New Jersey''}'
+      - '{''label'': ''New Mexico''}'
+      - '{''label'': ''New York''}'
+      - '{''label'': ''North Carolina''}'
+      - '{''label'': ''North Dakota''}'
+      - '{''label'': ''Northern Mariana Islands''}'
+      - '{''label'': ''Ohio''}'
+      - '{''label'': ''Oklahoma''}'
+      - '{''label'': ''Oregon''}'
+      - '{''label'': ''Pennsylvania''}'
+      - '{''label'': ''Puerto Rico''}'
+      - '{''label'': ''Rhode Island''}'
+      - '{''label'': ''South Carolina''}'
+      - '{''label'': ''South Dakota''}'
+      - '{''label'': ''Tennessee''}'
+      - '{''label'': ''Texas''}'
+      - '{''label'': ''Utah''}'
+      - '{''label'': ''Vermont''}'
+      - '{''label'': ''Virgin Islands''}'
+      - '{''label'': ''Virginia''}'
+      - '{''label'': ''Washington''}'
+      - '{''label'': ''Washington''}'
+      - '{''label'': ''West Virginia''}'
+      - '{''label'': ''Wisconsin''}'
+      - '{''label'': ''Wyoming''}'
+      required: true
+    - id: 5
+      name: location_zip
+      label: Location Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location_country
+      label: Location Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location_latitude
+      label: Location Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: location_longitude
+      label: Location Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Open''}'
+      - '{''label'': ''Closed''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Scheduled''}'
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''Pending''}'
+      required: true
+    - id: 10
+      name: request_category
+      label: Request Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''General''}'
+      - '{''label'': ''Feral Cat Spay/Neuter''}'
+      - '{''label'': ''Feral Cat Trap-Neuter-Release (TNR)''}'
+      - '{''label'': ''Feral Cat Adoption''}'
+      - '{''label'': ''Feral Cat Rescue''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 11
+      name: requested_by
+      label: Requested By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: date_trapped
+      label: Date Trapped
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: date_last_seen
+      label: Last Seen
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: volunteer_email
+      label: Volunteer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: volunteer_phone
+      label: Volunteer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: volunteer_organization
+      label: Volunteer Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: volunteer_license
+      label: Volunteer License
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''License 1''}'
+      - '{''label'': ''License 2''}'
+      required: false
+    - id: 20
+      name: volunteer_experience
+      label: Volunteer Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: volunteer_vehicle_type
+      label: Volunteer Vehicle Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: volunteer_vehicle_license
+      label: Volunteer Vehicle License
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''License 1''}'
+      - '{''label'': ''License 2''}'
+      required: false
+    - id: 23
+      name: volunteer_vehicle_insurance
+      label: Volunteer Vehicle Insurance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Insured''}'
+      - '{''label'': ''Uninsured''}'
+      required: false
+    - id: 24
+      name: volunteer_vehicle_year
+      label: Volunteer Vehicle Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: confirm_form_submission
+      label: Confirm Form Submission
+      hint: Confirm submission of this form, as the data provided will only be used
+        for community outreach and support purposes.
+      type: text
+      options: []
+      required: true

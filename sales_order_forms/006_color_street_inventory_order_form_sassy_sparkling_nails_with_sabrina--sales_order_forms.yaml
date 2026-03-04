@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Color Street Inventory Order Form - Sassy Sparkling Nails With Sabrina
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For order tracking and receipts
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: shipping_address
+      label: Full Shipping Address
+      hint: Street, City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_set_selection
+      label: -- Select Your Sassy Styles --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: glitter_sets
+      label: Glitter Sets Selection
+      hint: Choose all that you want
+      type: select_multiple
+      options:
+      - Moon River
+      - Tokyo Lights
+      - Midnight in Manhattan
+      - Champagne Wish
+      - Glitterally Can't
+      required: false
+    - id: 8
+      name: solid_sets
+      label: Solid Color Sets Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Beijing Beauty
+      - Swiss and Tell
+      - Upper East Side
+      - Manchester Mauve
+      - No Way San Jose
+      required: false
+    - id: 9
+      name: design_sets
+      label: Art and Design Sets Selection
+      hint: null
+      type: select_multiple
+      options:
+      - Plaid About You
+      - Coming Up Rose Gold
+      - Havana Honey
+      - Mermaid You Look
+      required: false
+    - id: 10
+      name: special_promotions
+      label: Are you using a B3G1 (Buy 3 Get 1 Free) Promotion?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: section_payment_shipping
+      label: -- Checkout and Delivery --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: invoice_method
+      label: How would you like to be invoiced?
+      hint: null
+      type: select_one
+      options:
+      - PayPal
+      - Venmo
+      - Cash App
+      required: true
+    - id: 13
+      name: payment_handle
+      label: Payment Handle or Username
+      hint: e.g., @YourUsername
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: host_credit
+      label: Are you applying host credit from a party?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: message_for_sabrina
+      label: Personal Note for Sabrina
+      hint: null
+      type: text
+      options: []
+      required: false

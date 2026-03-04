@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Interview Form
+    pages:
+    - id: 1
+      name: buyer_name
+      label: Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: buyer_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: interview_date
+      label: Interview Date
+      hint: When is this interview
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: agent_name
+      label: Agent Name
+      hint: Real estate agent conducting interview
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_home_type
+      label: Current Living Situation
+      hint: What type of home do you live in now
+      type: select_one
+      options:
+      - Single Family Home
+      - Apartment
+      - Condo
+      - Townhouse
+      - Other
+      required: true
+    - id: 7
+      name: selling_current_home
+      label: Will You Be Selling Current Home
+      hint: Are you selling your current property
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 8
+      name: first_time_buyer
+      label: First Time Home Buyer
+      hint: Is this your first home purchase
+      type: select_one
+      options:
+      - true
+      - false
+      - Somewhat experienced
+      required: true
+    - id: 9
+      name: purchase_timeline
+      label: Purchase Timeline
+      hint: When do you want to purchase
+      type: select_one
+      options:
+      - Within 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 10
+      name: budget_range
+      label: Budget Range
+      hint: Your price range
+      type: select_one
+      options:
+      - Less than 200000
+      - 200000 - 400000
+      - 400000 - 600000
+      - 600000 - 800000
+      - Over 800000
+      required: true
+    - id: 11
+      name: preapproved
+      label: Are You Pre-approved for Financing
+      hint: Mortgage pre-approval status
+      type: select_one
+      options:
+      - true
+      - false
+      - In process
+      required: true
+    - id: 12
+      name: property_type_wanted
+      label: Desired Property Type
+      hint: Type of home you want
+      type: select_multiple
+      options:
+      - Single Family
+      - Condo
+      - Townhouse
+      - Multi-family
+      - Land
+      required: true
+    - id: 13
+      name: location_preferences
+      label: Location Preferences
+      hint: Preferred neighborhoods or areas
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: necessary_features
+      label: Necessary Features
+      hint: Must have characteristics
+      type: select_multiple
+      options:
+      - Garage
+      - Yard
+      - Pool
+      - Updated Kitchen
+      - Fireplace
+      - Basement
+      - View
+      - Other
+      required: false
+    - id: 15
+      name: bedrooms_needed
+      label: Bedrooms Needed
+      hint: Minimum bedroom count
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: bathrooms_needed
+      label: Bathrooms Needed
+      hint: Minimum bathroom count
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: special_needs
+      label: Special Needs or Considerations
+      hint: Accessibility or other requirements
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: concerns_questions
+      label: Concerns or Questions
+      hint: What should we discuss
+      type: text
+      options: []
+      required: false

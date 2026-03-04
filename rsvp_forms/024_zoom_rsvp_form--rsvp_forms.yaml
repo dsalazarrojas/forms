@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Zoom RSVP Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form-data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: attendee-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_email
+      label: attendee-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendees
+      label: attendees
+      hint: List separated by commas
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': ''Maybe'', ''value'': ''Maybe''}'
+      - '{''id'': 3, ''label'': False, ''value'': False}'
+      required: false
+    - id: 5
+      name: event_time
+      label: event-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: event-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_location
+      label: event-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_submitted_by
+      label: form-submitted-by
+      hint: null
+      type: text
+      options: []
+      required: false

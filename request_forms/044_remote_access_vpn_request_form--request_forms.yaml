@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_access_vpn_request_form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vpn_type
+      label: Vpn Type
+      hint: null
+      type: select_one
+      options:
+      - VPN
+      - Remote
+      - Local
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: Please provide the reason for requesting VPN access.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approver
+      label: Approver
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Lead
+      - IT Department
+      required: false
+    - id: 10
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false

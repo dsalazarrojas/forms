@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hose Inspection Checklist
+    pages:
+    - id: 1
+      name: hose_condition
+      label: Hose Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: valve_condition
+      label: Valve Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hose_location
+      label: Hose Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: leak_test_result
+      label: Leak Test Result
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: photo
+      label: Photo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: employee_signed
+      label: Employee Signed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_signed
+      label: Manager Signed
+      hint: null
+      type: text
+      options: []
+      required: false

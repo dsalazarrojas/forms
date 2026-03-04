@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: hazard_identification_checklist
+    pages:
+    - id: 1
+      name: potential_hazards
+      label: Potential Hazards
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: hazard_category
+      label: Hazard Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''category_a'', ''value'': ''category_a''}'
+      - '{''id'': 2, ''name'': ''category_b'', ''value'': ''category_b''}'
+      - '{''id'': 3, ''name'': ''category_c'', ''value'': ''category_c''}'
+      required: true
+    - id: 3
+      name: hazard_frequency
+      label: Hazard Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''frequent'', ''value'': ''frequent''}'
+      - '{''id'': 2, ''name'': ''occasional'', ''value'': ''occasional''}'
+      - '{''id'': 3, ''name'': ''rare'', ''value'': ''rare''}'
+      required: true
+    - id: 4
+      name: severity_level
+      label: Severity Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: hazard_description
+      label: Hazard Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: mitigation_measures
+      label: Mitigation Measures
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''low'', ''value'': ''low''}'
+      - '{''id'': 2, ''name'': ''medium'', ''value'': ''medium''}'
+      - '{''id'': 3, ''name'': ''high'', ''value'': ''high''}'
+      required: true
+    - id: 8
+      name: prevention_methods
+      label: Prevention Methods
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Safety Check Form
+    pages:
+    - id: 1
+      name: workspace_location
+      label: Workspace Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workspace_address
+      label: Workspace Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_risk_assessment
+      label: Safety Risk Assessment
+      hint: null
+      type: select_one
+      options:
+      - Risk 1
+      - Risk 2
+      - Risk 3
+      - Risk 4
+      required: false
+    - id: 5
+      name: safety_risk_assessment_why
+      label: Safety Risk Assessment - Why
+      hint: null
+      type: select_multiple
+      options:
+      - Risk 1
+      - Risk 2
+      - Risk 3
+      - Risk 4
+      required: false
+    - id: 6
+      name: hazards
+      label: Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - Hazard 1
+      - Hazard 2
+      - Hazard 3
+      required: false
+    - id: 7
+      name: safety_control_measures
+      label: Safety Control Measures
+      hint: null
+      type: select_multiple
+      options:
+      - Control 1
+      - Control 2
+      - Control 3
+      required: false
+    - id: 8
+      name: workplace
+      label: Workplace
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_training
+      label: Safety Training
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 10
+      name: remote_work_environment
+      label: Remote Work Environment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 11
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 12
+      name: equipment
+      label: Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 13
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 14
+      name: emergency_exit_paths
+      label: Emergency Exit Paths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: safety_equipment_maintenance
+      label: Safety Equipment Maintenance
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 16
+      name: safety_equipment_inspection
+      label: Safety Equipment Inspection
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 17
+      name: emergency_response_plan
+      label: Emergency Response Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: fire_drill_frequency
+      label: Fire Drill Frequency
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 21
+      name: employee_acknowledgement
+      label: Employee Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 22
+      name: supervisor_acknowledgement
+      label: Supervisor Acknowledgement
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 23
+      name: safety_check_frequency
+      label: Safety Check Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: safety_check_date
+      label: Safety Check Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

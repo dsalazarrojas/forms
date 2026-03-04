@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Makeup Color Match Form
+    pages:
+    - id: 1
+      name: skin_tone
+      label: Skin Tone
+      hint: null
+      type: select_one
+      options:
+      - Porcelain
+      - Olive
+      - Fair
+      - Medium
+      - Tanned
+      required: false
+    - id: 2
+      name: style
+      label: Style
+      hint: null
+      type: select_one
+      options:
+      - Natural
+      - Dramatic
+      - Soft
+      - Bold
+      - Neutral
+      required: false
+    - id: 3
+      name: preferences
+      label: Color Preferences
+      hint: What colors do you prefer?
+      type: select_multiple
+      options:
+      - Red
+      - Pink
+      - Peach
+      - Beige
+      - Neutral
+      required: false
+    - id: 4
+      name: skin_tone
+      label: Skin Tone
+      hint: Please select your skin tone number
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: match_color
+      label: Match Color
+      hint: null
+      type: select_one
+      options:
+      - Peach
+      - Pink
+      - Beige
+      - Red
+      - Neutral
+      required: false
+    - id: 6
+      name: match_style
+      label: Match Style
+      hint: null
+      type: select_one
+      options:
+      - Natural
+      - Dramatic
+      - Soft
+      - Bold
+      - Neutral
+      required: false
+    - id: 7
+      name: match_tone
+      label: Match Tone
+      hint: null
+      type: select_one
+      options:
+      - Porcelain
+      - Olive
+      - Fair
+      - Medium
+      - Tanned
+      required: false
+    - id: 8
+      name: match_preferreds
+      label: Matched Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Pink
+      - Peach
+      - Beige
+      - Neutral
+      required: false
+    - id: 9
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

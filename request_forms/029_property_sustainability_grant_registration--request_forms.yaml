@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_sustainability_grant_registration
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: region
+      label: Region
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: grant_program
+      label: Grant Program
+      hint: null
+      type: select_one
+      options:
+      - Green Property Grants
+      - Other
+      required: true
+    - id: 12
+      name: grant_issued_by
+      label: Grant Issued By
+      hint: null
+      type: select_multiple
+      options:
+      - Municipalities
+      - Nonprofits
+      required: true
+    - id: 13
+      name: grant_amount
+      label: Grant Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: grant_date
+      label: Grant Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: upgrade_type
+      label: Upgrade Type
+      hint: null
+      type: select_one
+      options:
+      - Solar Panels
+      - Green Roofs
+      required: true
+    - id: 16
+      name: upgrade_status
+      label: Upgrade Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Pending
+      required: true
+    - id: 17
+      name: cost
+      label: Cost
+      hint: null
+      type: number
+      options: []
+      required: true

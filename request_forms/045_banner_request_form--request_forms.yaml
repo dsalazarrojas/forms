@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Banner Request Form
+    pages:
+    - id: 1
+      name: requester_full_name
+      label: Requester Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Marketing
+      - Events
+      - Human Resources
+      - Operations
+      - Sales
+      - Administration
+      - Other
+      required: true
+    - id: 5
+      name: organization
+      label: Organization
+      hint: Company or group
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: needed_by_date
+      label: Needed By Date
+      hint: When do you need it
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: banner_type
+      label: Banner Type
+      hint: What type of banner
+      type: select_one
+      options:
+      - Vinyl Banner
+      - Fabric Banner
+      - Mesh Banner
+      - Retractable Banner
+      - Window Banner
+      - Custom Shape
+      required: true
+    - id: 9
+      name: banner_size
+      label: Banner Size
+      hint: Dimensions
+      type: select_one
+      options:
+      - Small (2x4 feet)
+      - Medium (3x6 feet)
+      - Large (4x8 feet)
+      - Extra Large (5x10 feet)
+      - Custom Size
+      required: true
+    - id: 10
+      name: custom_dimensions
+      label: Custom Dimensions
+      hint: If custom size
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: banner_text
+      label: Banner Text
+      hint: What should it say
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: font_preference
+      label: Font Preference
+      hint: Text style
+      type: select_one
+      options:
+      - Bold Sans-Serif
+      - Classic Serif
+      - Script
+      - Modern
+      - No Preference
+      required: false
+    - id: 13
+      name: color_scheme
+      label: Color Scheme
+      hint: Colors to use
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: logo_required
+      label: Logo Required
+      hint: Include logo
+      type: select_one
+      options:
+      - Yes, will provide
+      - Yes, use company logo
+      - No logo needed
+      required: true
+    - id: 15
+      name: logo_file
+      label: Logo File
+      hint: Upload or describe
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: images_graphics
+      label: Images or Graphics
+      hint: Additional visuals
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: banner_purpose
+      label: Banner Purpose
+      hint: What is it for
+      type: select_one
+      options:
+      - Event Promotion
+      - Grand Opening
+      - Sale Announcement
+      - Directional Signage
+      - Trade Show
+      - Indoor Decoration
+      - Outdoor Display
+      - Other
+      required: true
+    - id: 18
+      name: event_name
+      label: Event Name
+      hint: If for an event
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: installation_location
+      label: Installation Location
+      hint: Where will it hang
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: indoor_or_outdoor
+      label: Indoor or Outdoor
+      hint: Usage location
+      type: select_one
+      options:
+      - Indoor Only
+      - Outdoor Only
+      - Both
+      required: true
+    - id: 22
+      name: mounting_hardware
+      label: Mounting Hardware
+      hint: Do you need hardware
+      type: select_one
+      options:
+      - Yes, include grommets
+      - Yes, include poles
+      - Yes, full kit
+      - No, have hardware
+      required: true
+    - id: 23
+      name: installation_service
+      label: Installation Service
+      hint: Do you need installation
+      type: select_one
+      options:
+      - Yes, install for me
+      - No, will install myself
+      required: true
+    - id: 24
+      name: quantity
+      label: Quantity
+      hint: How many banners
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: budget
+      label: Budget
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $100
+      - $100-$250
+      - $250-$500
+      - $500-$1000
+      - Over $1000
+      required: false
+    - id: 26
+      name: rush_order
+      label: Rush Order
+      hint: Is this urgent
+      type: select_one
+      options:
+      - Yes, rush delivery
+      - No, standard timeline
+      required: true
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other details
+      type: text
+      options: []
+      required: false

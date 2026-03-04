@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert VIP Seating Reservation Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Full name for reservation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For reservation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: vip_package
+      label: VIP package selected
+      hint: Choose VIP option
+      type: select_one
+      options:
+      - Front row seating
+      - Backstage access
+      - Meet and greet
+      - Hospitality suite
+      required: true
+    - id: 4
+      name: number_of_seats
+      label: Number of seats
+      hint: Seats requested for VIP area
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: special_requests
+      label: Special requests
+      hint: Dietary or accessibility needs
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_status
+      label: Payment status
+      hint: Confirmed or pending payment
+      type: select_one
+      options:
+      - Paid
+      - Pending
+      - Invoice
+      required: true
+    - id: 7
+      name: arrival_time
+      label: Expected arrival time
+      hint: Time of arrival for VIP entry
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: guest_names
+      label: Guest names
+      hint: Names of all guests included
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone number
+      hint: For reservation follow up
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirmation_instructions
+      label: Reservation confirmation instructions
+      hint: Read only information on pickup and entry
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bartender Closing Checklist
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Shift Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: closing_date
+      label: Closing date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: bartender_name
+      label: Bartender name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shift_start_time
+      label: Shift start time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: shift_end_time
+      label: Shift end time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Equipment and Supplies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: bar_cleaned
+      label: Bar counter cleaned and sanitized
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 8
+      name: ice_machine_cleaned
+      label: Ice machine cleaned and restocked
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: glasses_stored
+      label: All glasses washed, dried, and properly stored
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 10
+      name: bottles_accounted
+      label: All bottles accounted for and secured
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Discrepancy Found
+      required: true
+    - id: 11
+      name: section_header_3
+      label: -- Inventory Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: liquor_inventory
+      label: Liquor inventory status
+      hint: null
+      type: select_one
+      options:
+      - Adequate
+      - Low
+      - Critical
+      - Discrepancy
+      required: true
+    - id: 13
+      name: missing_bottles
+      label: Any missing or damaged bottles?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: mixers_restocked
+      label: Mixers and supplies restocked
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Partial
+      required: true
+    - id: 15
+      name: section_header_4
+      label: -- Cash and Till --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: till_balanced
+      label: Cash till balanced
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Variance Over $5
+      - Variance Under $5
+      required: true
+    - id: 17
+      name: cash_discrepancy
+      label: If discrepancy exists, document amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_header_5
+      label: -- Final Items --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: trash_removed
+      label: Trash removed and bins emptied
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: lights_locked
+      label: Lights turned off and bar secured
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: manager_notes
+      label: Notes for manager or next shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: checklist_complete
+      label: I confirm this checklist is complete and accurate
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Needs Review
+      required: true

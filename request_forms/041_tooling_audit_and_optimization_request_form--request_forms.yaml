@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tooling Audit And Optimization Request Form
+    pages:
+    - id: 1
+      name: tooling_audit_request
+      label: Tooling Audit Request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: tooling_category
+      label: Tooling Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Electrical'', ''label'': ''Electrical''}'
+      - '{''value'': ''Mechanical'', ''label'': ''Mechanical''}'
+      - '{''value'': ''Software'', ''label'': ''Software''}'
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High'', ''label'': ''High''}'
+      - '{''value'': ''Medium'', ''label'': ''Medium''}'
+      - '{''value'': ''Low'', ''label'': ''Low''}'
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

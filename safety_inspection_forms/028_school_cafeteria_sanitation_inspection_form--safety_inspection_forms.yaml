@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Cafeteria Sanitation Inspection Form
+    pages:
+    - id: 1
+      name: first_page
+      label: School Cafeteria Sanitation Inspection Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_time
+      label: Date Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: school_id
+      label: School ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: cafeteria_name
+      label: Cafeteria Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_1
+      label: Section 1 - Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: section_2
+      label: Section 2 - Utensils
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: section_3
+      label: Section 3 - Dish Room
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: section_4
+      label: Section 4 - Handwashing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: section_5
+      label: Section 5 - Food
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: section_6
+      label: Section 6 - Beverages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: section_7
+      label: Section 7 - Cleaning
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: section_8
+      label: Section 8 - Food Temperature
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: section_9
+      label: Section 9 - Floor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: section_10
+      label: Section 10 - Overall
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

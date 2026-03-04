@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lash Service Appointment Request Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: appointment_date
+      label: Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: lash_technician
+      label: Lash Technician
+      hint: Select all technicians involved in the appointment
+      type: select_multiple
+      options:
+      - Lash Tech 1
+      - Lash Tech 2
+      - Lash Tech 3
+      required: false
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: Select a service type
+      type: select_one
+      options:
+      - Classic Lash Application
+      - Micro Lash Fill Ins
+      - Lash Lift
+      required: false
+    - id: 7
+      name: num_appointments
+      label: Number of Appointments
+      hint: Number of appointments required
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: num_sessions
+      label: Number of Sessions
+      hint: Number of sessions
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: appointment_length
+      label: Length of Appointment
+      hint: Length of appointment in minutes
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: lawn_mower_safety_assessment
+    pages:
+    - id: 1
+      name: operator_precedence
+      label: Is Operator Preceded
+      hint: null
+      type: select_multiple
+      options:
+      - Operator is preceded by the manufacturer
+      - Operator is not preceded by the manufacturer
+      - Operator is not preceded by manufacturer or a coworker
+      - Other, please specify
+      required: false
+    - id: 2
+      name: personal_protection_equipment
+      label: Personal Protection Equipment
+      hint: null
+      type: select_one
+      options:
+      - Helmet
+      - Safety glasses
+      - Ear protection
+      - Gloves
+      - Steel-toed shoes
+      - None of the above
+      required: false
+    - id: 3
+      name: mower_condition
+      label: Lawn Mower Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Well-maintained
+      - Not well-maintained
+      - Not applicable
+      required: false
+    - id: 4
+      name: fuel_type
+      label: Type of Fuel
+      hint: null
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Electric
+      - Other, please specify
+      required: false
+    - id: 5
+      name: fuel_capacity
+      label: Fuel Capacity
+      hint: gallons
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hours_worked
+      label: Hours Worked
+      hint: hours
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: date_of_last_maintenance
+      label: Date of Last Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: date_of_last_training
+      label: Date of Last Training
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: mower_type
+      label: Type of Mower
+      hint: null
+      type: select_one
+      options:
+      - Walk-behind
+      - Walk-behind with attachment
+      - Ride-on
+      - Other, please specify
+      required: false
+    - id: 10
+      name: operator_experience
+      label: Operator Experience
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - More than 5 years
+      required: false
+    - id: 11
+      name: hazard_control_precautions
+      label: Hazard Control Precautions
+      hint: null
+      type: select_one
+      options:
+      - Precautions taken
+      - No precautions taken
+      - Not applicable
+      required: false
+    - id: 12
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Hardhat
+      - Safety glasses
+      - Ear protection
+      - Gloves
+      - Steel-toed shoes
+      - None of the above
+      required: false
+    - id: 13
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of Supervisor
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: (optional)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_email
+      label: Supervisor Email
+      hint: (optional)
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_department
+      label: Supervisor Department
+      hint: Name of Department
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: operator_comments
+      label: Operator Comments
+      hint: Operator Comments
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: Supervisor Comments
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: is_equipment_maintenance_needed
+      label: Is Equipment Maintenance Needed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: equipment_maintenance_description
+      label: Equipment Maintenance Description
+      hint: Describe the equipment maintenance needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: approved_by
+      label: Approved by
+      hint: Name of person approving
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Supervisor
+      - Other, Please Specify
+      required: false
+    - id: 25
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: (optional)
+      type: text
+      options: []
+      required: false

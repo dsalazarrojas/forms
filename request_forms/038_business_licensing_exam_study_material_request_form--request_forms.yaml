@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Licensing Exam Study Material Request Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Study Material Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of the applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For sending study materials
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: license_exam_type
+      label: License exam type
+      hint: Which licensing exam are you preparing for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: delivery_method
+      label: Delivery method
+      hint: Preferred delivery of materials
+      type: select_one
+      options:
+      - Email
+      - Postal mail
+      - Download link
+      required: true
+    - id: 6
+      name: postal_address
+      label: Postal address
+      hint: Required if postal mail selected
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_copies
+      label: Number of copies
+      hint: Copies of printed material if applicable
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_notes
+      label: Additional notes
+      hint: Any other requests for the study pack
+      type: text
+      options: []
+      required: false

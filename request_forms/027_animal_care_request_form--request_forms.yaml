@@ -1,0 +1,270 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Care Request Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Pet Owner Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_intro
+      label: Animal Care Request Form
+      hint: Request an appointment for your pet. We will contact you to confirm.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: pet_information
+      label: Pet Information
+      hint: Details about your pet
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: pet_name
+      label: Pet's Name
+      hint: What do you call your pet
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pet_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Rabbit
+      - Horse
+      - Reptile
+      - Small animal
+      - Exotic
+      - Other
+      required: true
+    - id: 10
+      name: pet_breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pet_age
+      label: Age
+      hint: Years old
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pet_weight
+      label: Weight
+      hint: In pounds
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pet_sex
+      label: Sex
+      hint: Male or female
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 14
+      name: service_type
+      label: Type of Service Requested
+      hint: What do you need
+      type: select_one
+      options:
+      - Wellness exam
+      - Sick visit
+      - Vaccination
+      - Grooming
+      - Boarding
+      - Training consultation
+      - Behavioral consultation
+      - Emergency
+      - Other
+      required: true
+    - id: 15
+      name: preferred_date
+      label: Preferred Appointment Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: preferred_time
+      label: Preferred Time of Day
+      hint: When works best
+      type: select_one
+      options:
+      - Morning - 8 AM to 12 PM
+      - Afternoon - 12 PM to 4 PM
+      - Evening - 4 PM to 6 PM
+      - Any time
+      required: true
+    - id: 17
+      name: alternative_dates
+      label: Alternative Dates
+      hint: Other available dates
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Why is your pet coming in
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: symptoms
+      label: Current Symptoms
+      hint: Describe any symptoms
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: symptom_duration
+      label: How Long Have Symptoms Been Present
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 24 hours
+      - 1-3 days
+      - 4-7 days
+      - 1-2 weeks
+      - More than 2 weeks
+      - Not applicable
+      required: false
+    - id: 21
+      name: current_medications
+      label: Is Your Pet on Any Medications
+      hint: Current meds
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: known_allergies
+      label: Does Your Pet Have Any Known Allergies
+      hint: Allergies
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: veterinarian_name
+      label: Current Veterinarian
+      hint: Primary vet if applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_visits
+      label: Has Your Pet Been Here Before
+      hint: Previous patient
+      type: select_one
+      options:
+      - Yes - regular patient
+      - Yes - once or twice
+      - No - new patient
+      required: true
+    - id: 25
+      name: special_needs
+      label: Does Your Pet Have Any Special Needs
+      hint: Behavioral or medical needs
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Friend or family
+      - Veterinarian referral
+      - Search engine
+      - Other
+      required: false
+    - id: 27
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: If owner unavailable
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Emergency number
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: consent_treatment
+      label: I consent to necessary treatment for my pet
+      hint: Consent
+      type: select_one
+      options:
+      - Yes - I consent
+      - false
+      required: true
+    - id: 31
+      name: owner_signature
+      label: Owner Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Tenancy Reference Request Form
+    pages:
+    - id: 1
+      name: tenant_info
+      label: Tenant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: select_one
+      options:
+      - 1. Apartment
+      - 2. House
+      - 3. Condo
+      - 4. Townhouse
+      required: false
+    - id: 3
+      name: tenant_referee_name
+      label: Tenant Referee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: referee_phone
+      label: Tenant Referee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referee_email
+      label: Tenant Referee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: past_violations
+      label: Past Violations
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Non-payment of Rent
+      - 2. Damage to Property
+      - 3. Non-renewal of Lease
+      - 4. Other
+      required: false
+    - id: 7
+      name: other_past_violations_details
+      label: Other Past Violations Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: move_in_date
+      label: Move in Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: move_out_date
+      label: Move out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reason_for_move_out
+      label: Reason for Move out
+      hint: null
+      type: text
+      options: []
+      required: false

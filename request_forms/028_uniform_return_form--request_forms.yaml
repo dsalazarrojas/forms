@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Return Form
+    pages:
+    - id: 1
+      name: uniform_return_form_1
+      label: Reason for Return
+      hint: Please select a reason for return
+      type: select_one
+      options:
+      - Defective
+      - Not needed
+      - Not in stock
+      - Other reason
+      required: false
+    - id: 2
+      name: uniform_return_form_2
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: uniform_return_form_3
+      label: Item Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: uniform_return_form_4
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false

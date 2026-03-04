@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Agent Accreditation Application
+    pages:
+    - id: 1
+      name: sales_agent_info
+      label: Sales Agent Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sales_agent_documents
+      label: Sales Agent Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_agent_agency_name
+      label: Sales Agent Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: sales_agent_agency_address
+      label: Sales Agent Agency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sales_agent_agency_phone
+      label: Sales Agent Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sales_agent_agency_email
+      label: Sales Agent Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: sales_agent_manager_name
+      label: Sales Agent Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sales_agent_manager_phone
+      label: Sales Agent Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_agent_manager_email
+      label: Sales Agent Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: sales_agent_manager_relationship
+      label: Sales Agent Manager Relationship
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Manager
+      - Owner
+      required: false
+    - id: 11
+      name: sales_agent_manager_title
+      label: Sales Agent Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sales_agent_accreditation_status
+      label: Sales Agent Accreditation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Accredited
+      - Denied
+      required: false
+    - id: 13
+      name: sales_agent_reason_denied
+      label: Sales Agent Reason Denied
+      hint: null
+      type: text
+      options: []
+      required: false

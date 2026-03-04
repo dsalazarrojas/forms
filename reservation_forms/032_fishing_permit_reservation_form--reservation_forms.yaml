@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fishing Permit Reservation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: permit_type
+      label: Permit Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: number_of_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: permit_start_date
+      label: Permit Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: permit_end_date
+      label: Permit End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reservation_status
+      label: Reservation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 12
+      name: fishing_location
+      label: Fishing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

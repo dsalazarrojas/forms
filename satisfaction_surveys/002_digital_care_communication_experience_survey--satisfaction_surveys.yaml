@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Care Communication Experience Survey
+    pages:
+    - id: 1
+      name: digital_care_communication_experience_survey_page_1
+      label: What do you think about our digital care communication?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: how_do_you_prefer_to_receive_care_messages
+      label: how_do_you_prefer_to_receive_care_messages
+      hint: null
+      type: select_multiple
+      options:
+      - Care Coordinator
+      - Doctor
+      - Nurse
+      required: true
+    - id: 3
+      name: preferred_message_channels
+      label: preferred_message_channels
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - SMS
+      - In-app
+      required: false
+    - id: 4
+      name: what_time_do_you_prefer_to_receive_messages
+      label: what_time_do_you_prefer_to_receive_messages
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 5
+      name: how_would_you_rate_your_experience
+      label: how_would_you_rate_your_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: digital_care_communication_satisfactory
+      label: digital_care_communication_satisfactory
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: how_would_you_rate_digital_care
+      label: how_would_you_rate_digital_care
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: how_would_you_rate_digital_communication
+      label: how_would_you_rate_digital_communication
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: how_would_you_rate_digital_care_team
+      label: how_would_you_rate_digital_care_team
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: how_would_you_rate_digital_care_services
+      label: how_would_you_rate_digital_care_services
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: would_you_recommend_digital_care
+      label: would_you_recommend_digital_care
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: why_didnt_you_recommend_digital_care
+      label: why_didnt_you_recommend_digital_care
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: why_didnt_you_recommend_digital_care_other
+      label: why_didnt_you_recommend_digital_care__other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: would_you_recommend_digital_care_to_family_member
+      label: would_you_recommend_digital_care_to_family_member
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: why_didnt_you_recommend_digital_care_to_family_member
+      label: why_didnt_you_recommend_digital_care_to_family_member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: why_didnt_you_recommend_digital_care_to_family_member_other
+      label: why_didnt_you_recommend_digital_care_to_family_member__other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: would_you_use_digital_care_services
+      label: would_you_use_digital_care_services
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: would_you_use_digital_care_services_other
+      label: would_you_use_digital_care_services__other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: how_would_you_rate_digital_care_services
+      label: how_would_you_rate_digital_care_services
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: would_you_prefer_to_receive_reminders
+      label: would_you_prefer_to_receive_reminders
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - No preference
+      required: true
+    - id: 21
+      name: how_would_you_rate_digital_care_services_reminders
+      label: how_would_you_rate_digital_care_services_reminders
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: how_would_you_rate_digital_care_services_reminder_frequency
+      label: how_would_you_rate_digital_care_services_reminder_frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: would_you_prefer_reminder_channels
+      label: would_you_prefer_reminder_channels
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - SMS
+      - In-app
+      required: true
+    - id: 24
+      name: how_would_you_rate_digital_care_services_reminders
+      label: how_would_you_rate_digital_care_services_reminders
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: how_would_you_rate_digital_care_services_reminder_content
+      label: how_would_you_rate_digital_care_services_reminder_content
+      hint: null
+      type: number
+      options: []
+      required: true

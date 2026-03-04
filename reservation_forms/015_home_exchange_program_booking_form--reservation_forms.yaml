@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Exchange Program Booking Form
+    pages:
+    - id: 1
+      name: home_exchange_program_booking_form
+      label: booking_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_title
+      label: reservation_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Reservation Forms''}'
+      - '{''id'': 2, ''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_description_2
+      label: details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_description_3
+      label: review
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: form_description_4
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Faster''}'
+      - '{''id'': 2, ''value'': ''Smoother''}'
+      required: false
+    - id: 9
+      name: form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

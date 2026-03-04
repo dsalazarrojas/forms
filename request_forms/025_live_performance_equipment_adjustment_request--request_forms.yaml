@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Performance Equipment Adjustment Request
+    pages:
+    - id: 1
+      name: form_title
+      label: Live Performance Equipment Adjustment Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Request Forms
+      - Adjustment Request Forms
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_venue
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - Venue 1
+      - Venue 2
+      - Venue 3
+      required: false
+    - id: 5
+      name: form_equipment_request_date
+      label: Adjustment Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: form_requester
+      label: Requester
+      hint: null
+      type: select_one
+      options:
+      - Artist 1
+      - Artist 2
+      - Artist 3
+      required: false
+    - id: 7
+      name: form_equipment_request_note
+      label: Equipment Request Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_av_contact
+      label: AV Contact
+      hint: null
+      type: select_one
+      options:
+      - AV Team 1
+      - AV Team 2
+      - AV Team 3
+      required: false
+    - id: 9
+      name: form_av_contact_phone
+      label: AV Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_av_contact_email
+      label: AV Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: form_av_note
+      label: AV Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_av_request_status
+      label: AV Request Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 13
+      name: form_av_request_priority
+      label: AV Request Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 14
+      name: form_av_request_note
+      label: AV Request Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_av_comment
+      label: AV Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_av_request_date
+      label: AV Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: form_equipment_requester
+      label: Equipment Requester
+      hint: null
+      type: select_one
+      options:
+      - Artist 1
+      - Artist 2
+      - Artist 3
+      required: false
+    - id: 18
+      name: form_equipment_request_note
+      label: Equipment Request Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_equipment_status
+      label: Equipment Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 20
+      name: form_equipment_priority
+      label: Equipment Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 21
+      name: form_equipment_note
+      label: Equipment Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_equipment_request_date
+      label: Equipment Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: form_equipment_request_time
+      label: Equipment Request Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: form_equipment_av_status
+      label: Equipment AV Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 25
+      name: form_equipment_av_note
+      label: Equipment AV Note
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Service Reservation Form
+    pages:
+    - id: 1
+      name: header_service_details
+      label: -- Reservation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name of person making reservation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: Service type
+      hint: Select the type of trip
+      type: select_one
+      options:
+      - Departure
+      - Arrival
+      - Round trip
+      - Special request
+      required: true
+    - id: 6
+      name: preferred_date
+      label: Preferred date
+      hint: Date of service
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: preferred_time
+      label: Preferred time
+      hint: Estimated pickup time
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: pickup_address
+      label: Pickup address
+      hint: Exact pickup location
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dropoff_address
+      label: Drop off address
+      hint: Destination address
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_instructions
+      label: Special instructions or accessibility needs
+      hint: e g passenger mobility assistance
+      type: text
+      options: []
+      required: false

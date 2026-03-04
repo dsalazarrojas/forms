@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Integrity Validation Request Form
+    pages:
+    - id: 1
+      name: page_one
+      label: Validation Request
+      hint: Please provide the details of your validation request
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestee_name
+      label: Requestee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: requester_name
+      label: Requester Name
+      hint: The person requesting the validation
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: requester_phone
+      label: Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: validation_type
+      label: Validation Type
+      hint: The type of validation you need
+      type: select_one
+      options:
+      - Validation 1
+      - Validation 2
+      - Validation 3
+      required: false
+    - id: 7
+      name: validation_date
+      label: Validation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: validation_time
+      label: Validation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: validation_timezone
+      label: Validation Time Zone
+      hint: Select your timezone
+      type: select_one
+      options:
+      - UTC
+      - EST
+      - CST
+      required: false

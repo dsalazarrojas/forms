@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pedicure Consultation Form
+    pages:
+    - id: 1
+      name: client_information
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nail_condition
+      label: nail_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Nails are healthy and well-maintained
+      - Nails have ridges
+      - Nails have chips or cracks
+      - Nails have fungal infection
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: nail_shape
+      label: nail_shape
+      hint: null
+      type: select_one
+      options:
+      - Oval
+      - Square
+      - Round
+      - Other (please specify)
+      required: false
+    - id: 4
+      name: nail_color
+      label: nail_color
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Pink
+      - Purple
+      - Blue
+      - Green
+      - Yellow
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: service_request
+      label: Service Request
+      hint: What service do you need?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nail_length
+      label: nail_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: appointment_time
+      label: Appointment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_appointment_date
+      label: Follow-up Appointment Date
+      hint: null
+      type: date
+      options: []
+      required: false

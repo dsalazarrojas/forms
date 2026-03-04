@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Re Entry Assistance Application
+    pages:
+    - id: 1
+      name: return_to_work_request
+      label: Return To Work Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_returning
+      label: Date Returning
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Remote
+      - Field
+      required: false
+    - id: 13
+      name: shift
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      - Weekend
+      required: false
+    - id: 14
+      name: break_times
+      label: Break Times
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: break_duration
+      label: Break Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: break_frequency
+      label: Break Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: break_type
+      label: Break Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: lunch_break
+      label: Lunch Break
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: lunch_duration
+      label: Lunch Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: break_status
+      label: Break Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shift_leader
+      label: Shift Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: shift_leader_title
+      label: Shift Leader Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Leave of Absence
+      - Other
+      required: false
+    - id: 24
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

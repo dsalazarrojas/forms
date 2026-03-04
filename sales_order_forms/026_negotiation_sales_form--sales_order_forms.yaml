@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Negotiation Sales Form
+    pages:
+    - id: 1
+      name: negotiation_sales_form_product
+      label: Choose A Product
+      hint: null
+      type: select_one
+      options:
+      - Product 1
+      - Product 2
+      - Product 3
+      required: false
+    - id: 2
+      name: negotiation_sales_form_final_terms
+      label: Finalize Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: negotiation_sales_form_transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: negotiation_sales_form_transaction_time
+      label: Transaction Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: negotiation_sales_form_transaction_time_period
+      label: Transaction Time Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: negotiation_sales_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: negotiation_sales_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: negotiation_sales_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: negotiation_sales_form_terms
+      label: Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: negotiation_sales_form_sale
+      label: Sale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: negotiation_sales_form_customer
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: negotiation_sales_form_deal
+      label: Deal
+      hint: null
+      type: select_multiple
+      options:
+      - Deal 1
+      - Deal 2
+      - Deal 3
+      required: false

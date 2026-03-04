@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Planning Template Request Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Production Planning Template
+      hint: null
+      type: select_multiple
+      options:
+      - industry
+      - volume
+      - features
+      required: true
+    - id: 2
+      name: industry
+      label: Industry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volume
+      label: Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: features
+      label: Features
+      hint: null
+      type: select_one
+      options:
+      - color
+      - shape
+      - size
+      required: false
+    - id: 5
+      name: delivery_timeframe
+      label: Delivery Timeframe
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

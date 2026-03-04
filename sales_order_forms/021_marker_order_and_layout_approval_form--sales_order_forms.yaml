@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marker Order And Layout Approval Form
+    pages:
+    - id: 1
+      name: marker_order_details
+      label: Marker Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_contact
+      label: Customer Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John Doe''}'
+      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      required: true
+    - id: 4
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''New''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Completed''}'
+      required: false
+    - id: 5
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Credit Card''}'
+      - '{''id'': 3, ''label'': ''PayPal''}'
+      required: true
+    - id: 9
+      name: marker_layout
+      label: Marker Layout
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Landscape''}'
+      - '{''id'': 2, ''label'': ''Portrait''}'
+      - '{''id'': 3, ''label'': ''Square''}'
+      required: true
+    - id: 10
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Rejected''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: true
+    - id: 11
+      name: approval_notes
+      label: Approval Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: marker_notes
+      label: Marker Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_notes
+      label: Customer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: custom_fields
+      label: Custom Fields
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waitstaff Assistance Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: waitstaff_survey_form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: waitstaff_friendly
+      label: friendly
+      hint: How would you rate the waitstaff friendliness?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: responsive
+      label: responsive
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: issue_resolution
+      label: issue_resolution
+      hint: Were any issues resolved?
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: issue_desc
+      label: issue_desc
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: issue_time
+      label: issue_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 9
+      name: follow_up_details
+      label: follow_up_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 11
+      name: contact_method_details
+      label: contact_method_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: waitstaff_assistance_survey
+      label: waitstaff_assistance_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: survey_end
+      label: survey_end
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true

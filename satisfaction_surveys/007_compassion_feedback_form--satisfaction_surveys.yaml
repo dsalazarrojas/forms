@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compassion Feedback Form
+    pages:
+    - id: 1
+      name: feedback_intro
+      label: Compassion Feedback Form
+      hint: Share your experience with compassionate behavior
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional - you may remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Your Email
+      hint: Optional - for follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization_type
+      label: Type of Organization
+      hint: Where did this experience take place
+      type: select_one
+      options:
+      - School or University
+      - Healthcare Facility
+      - Workplace
+      - Community Organization
+      - Religious Organization
+      - Other
+      required: true
+    - id: 5
+      name: experience_date
+      label: Date of Experience
+      hint: When did this occur
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: compassion_received
+      label: Did you receive compassionate behavior
+      hint: Or did you witness it toward others
+      type: select_one
+      options:
+      - I received compassion
+      - I witnessed compassion to others
+      - Both
+      - I showed compassion to others
+      required: true
+    - id: 7
+      name: compassion_source
+      label: Source of Compassion
+      hint: Who showed compassion
+      type: select_one
+      options:
+      - Teacher or Professor
+      - Healthcare Provider
+      - Supervisor or Manager
+      - Colleague or Classmate
+      - Friend or Family
+      - Stranger
+      - Other
+      required: true
+    - id: 8
+      name: situation_type
+      label: Type of Situation
+      hint: What was the context
+      type: select_one
+      options:
+      - Personal crisis or emergency
+      - Work or academic stress
+      - Health issue
+      - Loss or grief
+      - Daily challenge
+      - Conflict resolution
+      - Other
+      required: true
+    - id: 9
+      name: compassion_rating
+      label: How would you rate the compassion shown
+      hint: 1 being poor 10 being exceptional
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: compassion_actions
+      label: What compassionate actions were shown
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Active listening
+      - Emotional support
+      - Practical help or assistance
+      - Words of encouragement
+      - Physical presence
+      - Follow-up care
+      - Respect for feelings
+      - Non-judgmental attitude
+      - Other
+      required: true
+    - id: 11
+      name: impact_on_you
+      label: What was the impact on you
+      hint: How did it affect you
+      type: select_one
+      options:
+      - Very positive - life changing
+      - Positive - very helpful
+      - Somewhat positive
+      - Neutral - no significant impact
+      - Negative - made things worse
+      required: true
+    - id: 12
+      name: emotional_response
+      label: How did it make you feel
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Valued and respected
+      - Understood
+      - Less alone
+      - Hopeful
+      - Calmed
+      - Empowered
+      - Grateful
+      - Other
+      required: true
+    - id: 13
+      name: long_term_effect
+      label: Are there lasting effects from this experience
+      hint: Has it had ongoing impact
+      type: select_one
+      options:
+      - Yes - still affects me daily
+      - Yes - occasional reminders
+      - Some lasting effect
+      - No - was temporary
+      - Too soon to tell
+      required: true
+    - id: 14
+      name: would_share_story
+      label: Would you be willing to share your story
+      hint: For promoting compassion initiatives
+      type: select_one
+      options:
+      - Yes - anonymously
+      - Yes - with my name
+      - Maybe - need more info
+      - No - prefer privacy
+      required: true
+    - id: 15
+      name: compassion_importance
+      label: How important is compassion in this setting
+      hint: Rate the importance
+      type: select_one
+      options:
+      - Extremely important
+      - Very important
+      - Somewhat important
+      - Not very important
+      - Not important at all
+      required: true
+    - id: 16
+      name: compassion_frequency
+      label: How often do you experience compassion here
+      hint: In this organization or setting
+      type: select_one
+      options:
+      - Very often
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 17
+      name: suggestions_for_culture
+      label: Do you have suggestions for fostering compassion
+      hint: Ideas for creating a kinder culture
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_interest
+      label: Would you be interested in compassion training
+      hint: Workshops or programs on compassion
+      type: select_one
+      options:
+      - Yes - very interested
+      - Maybe - depends on content
+      - No - not interested
+      required: true
+    - id: 19
+      name: recommend_to_others
+      label: Would you recommend this organization
+      hint: Based on compassionate culture
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 20
+      name: story_description
+      label: Please describe your experience
+      hint: Share the details of what happened
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: person_to_acknowledge
+      label: Is there someone you would like to acknowledge
+      hint: Name the person who showed compassion
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Technician Client Consultation Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nail_type
+      label: Nail Type
+      hint: null
+      type: select_one
+      options:
+      - Nail Polish
+      - Gel
+      - Acrylic
+      - Nail Extensions
+      - Nail Art
+      required: false
+    - id: 3
+      name: preferred_service
+      label: Preferred Service
+      hint: null
+      type: select_multiple
+      options:
+      - Filing
+      - Buffing
+      - Shaping
+      - Polishing
+      required: false
+    - id: 4
+      name: client_comments
+      label: Client Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

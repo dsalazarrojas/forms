@@ -1,0 +1,264 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aviation Navigation Feedback Form
+    pages:
+      - id: 1
+        name: respondent_type
+        label: Respondent Type
+        hint: What best describes your role
+        type: select_one
+        options:
+          - Pilot in command
+          - Co-pilot/first officer
+          - Flight instructor
+          - Air traffic controller
+          - Dispatch personnel
+          - Safety inspector
+          - Other
+        required: true
+      - id: 2
+        name: flight_date
+        label: Flight Date
+        hint: Date of the flight
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: flight_number
+        label: Flight Number
+        hint: Flight number or identifier
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: departure_airport
+        label: Departure Airport
+        hint: Airport code of origin
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: arrival_airport
+        label: Arrival Airport
+        hint: Destination airport code
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: aircraft_type
+        label: Aircraft Type
+        hint: Type of aircraft flown
+        type: select_one
+        options:
+          - Single-engine piston
+          - Multi-engine piston
+          - Turboprop
+          - Light jet
+          - Mid-size jet
+          - Heavy jet
+          - Regional jet
+          - Other
+        required: true
+      - id: 7
+        name: navigation_system_used
+        label: Navigation System Used
+        hint: Primary navigation system
+        type: select_multiple
+        options:
+          - GPS/FMS
+          - VOR
+          - NDB
+          - ILS
+          - RNAV/RNP
+          - DME
+          - ADF
+          - Traditional pilotage
+        required: true
+      - id: 8
+        name: gps_accuracy_rating
+        label: GPS Accuracy Rating
+        hint: How accurate was the GPS navigation
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Acceptable
+          - Poor
+          - Not used
+        required: true
+      - id: 9
+        name: database_currency
+        label: Navigation Database Currency
+        hint: Was the navigation database current
+        type: select_one
+        options:
+          - Current cycle
+          - Previous cycle
+          - Outdated
+          - Unsure
+        required: true
+      - id: 10
+        name: waypoint_accuracy
+        label: Waypoint Accuracy
+        hint: How accurate were published waypoints
+        type: select_one
+        options:
+          - Very accurate
+          - Mostly accurate
+          - Some discrepancies
+          - Significant errors
+          - Not applicable
+        required: true
+      - id: 11
+        name: approach_procedure_clarity
+        label: Approach Procedure Clarity
+        hint: How clear were the approach procedures
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat unclear
+          - Confusing
+          - Did not fly approach
+        required: true
+      - id: 12
+        name: chart_quality
+        label: Navigation Chart Quality
+        hint: Quality of enroute and approach charts
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Acceptable
+          - Poor
+          - Outdated
+        required: true
+      - id: 13
+        name: atc_vector_accuracy
+        label: ATC Vector Accuracy
+        hint: Accuracy of ATC radar vectors
+        type: select_one
+        options:
+          - Very accurate
+          - Accurate
+          - Acceptable
+          - Inaccurate
+          - Not applicable
+        required: false
+      - id: 14
+        name: navigation_issues_encountered
+        label: Navigation Issues Encountered
+        hint: Select any issues experienced
+        type: select_multiple
+        options:
+          - None
+          - GPS signal loss
+          - Waypoint discrepancy
+          - Database error
+          - Chart inconsistency
+          - Equipment malfunction
+          - ATC routing issue
+          - Weather deviation
+        required: true
+      - id: 15
+        name: issue_description
+        label: Issue Description
+        hint: Describe any navigation issues in detail
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: airspace_complexity
+        label: Airspace Complexity Rating
+        hint: How complex was the airspace
+        type: select_one
+        options:
+          - Very simple
+          - Simple
+          - Moderate
+          - Complex
+          - Very complex
+        required: true
+      - id: 17
+        name: communication_clarity
+        label: ATC Communication Clarity
+        hint: How clear were ATC instructions
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Acceptable
+          - Unclear
+          - Poor
+        required: true
+      - id: 18
+        name: safety_concerns
+        label: Safety Concerns Identified
+        hint: Any navigation-related safety concerns
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: How can navigation be improved
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: training_needs
+        label: Training Needs Identified
+        hint: Any additional training needed
+        type: select_multiple
+        options:
+          - None
+          - GPS/FMS operations
+          - RNAV/RNP procedures
+          - Approach procedures
+          - Emergency navigation
+          - Chart interpretation
+          - Other
+        required: false
+      - id: 21
+        name: overall_satisfaction
+        label: Overall Navigation Satisfaction
+        hint: How satisfied with navigation performance
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 22
+        name: would_recommend_route
+        label: Would You Recommend This Route
+        hint: Based on navigation experience
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about navigation
+        type: text
+        options: []
+        required: false

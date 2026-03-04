@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: LisasColorStreetOnHandStock
+    pages:
+    - id: 1
+      name: form_data
+      label: form data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stock_info
+      label: stock info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: color_request
+      label: color request
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      required: false
+    - id: 8
+      name: host_party
+      label: host party
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - maybe
+      required: false
+    - id: 9
+      name: more_info
+      label: more info
+      hint: null
+      type: text
+      options: []
+      required: false

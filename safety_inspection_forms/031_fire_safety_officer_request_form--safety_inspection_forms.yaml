@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Officer Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_form
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: fire_safety_equipment
+      label: Fire Safety Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: fire_safety_equipment_list
+      label: Fire Safety Equipment List
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: fire_safety_equipment_condition
+      label: Fire Safety Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: fire_safety_equipment_replaced
+      label: Fire Safety Equipment Replaced
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: fire_safety_equipment_replaced_date
+      label: Fire Safety Equipment Replaced Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: fire_safety_equipment_replaced_by
+      label: Fire Safety Equipment Replaced By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fire_safety_equipment_last_inspection_date
+      label: Fire Safety Equipment Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: fire_safety_equipment_next_inspection_due
+      label: Fire Safety Equipment Next Inspection Due
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: fire_safety_equipment_notes
+      label: Fire Safety Equipment Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submitter_name
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: submitter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: submitter_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitter_jobtitle
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitter_supervisor
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitter_supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: submitter_supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: submitter_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: submitter_jobtitle
+      label: Job Title
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submitter_supervisor_department
+      label: Supervisor Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

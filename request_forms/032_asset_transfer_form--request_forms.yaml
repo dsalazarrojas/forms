@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset Transfer Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Who is requesting
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_id
+      label: Requester ID
+      hint: Employee or account number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Requesting department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: asset_id
+      label: Asset ID
+      hint: Asset tag number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: asset_name
+      label: Asset Name
+      hint: Description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: asset_category
+      label: Asset Category
+      hint: Type of asset
+      type: select_one
+      options:
+      - Computer Equipment
+      - Office Furniture
+      - Vehicle
+      - Machinery
+      - Tools
+      - Mobile Device
+      - Other
+      required: true
+    - id: 10
+      name: current_location
+      label: Current Location
+      hint: Where is it now
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_custodian
+      label: Current Custodian
+      hint: Who has it now
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: new_location
+      label: New Location
+      hint: Where going
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_custodian
+      label: New Custodian
+      hint: Who will have it
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: new_custodian_department
+      label: New Custodian Department
+      hint: Their department
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: transfer_reason
+      label: Reason for Transfer
+      hint: Why transfer
+      type: select_one
+      options:
+      - Employee Transfer
+      - New Assignment
+      - Equipment Sharing
+      - Department Reorganization
+      - Replacement
+      - Project Need
+      - Other
+      required: true
+    - id: 16
+      name: transfer_type
+      label: Transfer Type
+      hint: Permanent or temporary
+      type: select_one
+      options:
+      - Permanent Transfer
+      - Temporary Loan
+      - Interdepartmental Share
+      required: true
+    - id: 17
+      name: transfer_duration
+      label: Transfer Duration
+      hint: If temporary
+      type: select_one
+      options:
+      - Permanent
+      - Less than 1 month
+      - 1 to 3 months
+      - 3 to 6 months
+      - 6 to 12 months
+      - Over 1 year
+      required: true
+    - id: 18
+      name: expected_return_date
+      label: Expected Return Date
+      hint: If temporary
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: asset_condition
+      label: Current Asset Condition
+      hint: State of asset
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Damaged
+      required: true
+    - id: 20
+      name: accessories_included
+      label: Accessories Included
+      hint: What comes with it
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: transport_method
+      label: Transport Method
+      hint: How will it move
+      type: select_one
+      options:
+      - Hand Carry
+      - Company Vehicle
+      - Courier Service
+      - Professional Movers
+      - Pick Up by Recipient
+      required: true
+    - id: 22
+      name: transport_cost
+      label: Transport Cost
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: insurance_required
+      label: Is Insurance Required
+      hint: During transport
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: it_approval_required
+      label: Is IT Approval Required
+      hint: For electronics
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 25
+      name: supervisor_approval
+      label: Supervisor Approval
+      hint: Manager approval
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 26
+      name: asset_manager_approval
+      label: Asset Manager Approval
+      hint: Final approval
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 27
+      name: transfer_completed_date
+      label: Transfer Completed Date
+      hint: When done
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: requester_signature
+      label: Requester Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: new_custodian_signature
+      label: New Custodian Signature
+      hint: Acknowledge receipt
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_walk_rsvp
+    pages:
+    - id: 1
+      name: participant_details
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photography_event
+      label: photography_event
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: photo_walk_date
+      label: photo_walk_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: photo_walk_time
+      label: photo_walk_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: photo_walk_location
+      label: photo_walk_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photography_walk_notes
+      label: photography_walk_notes
+      hint: null
+      type: note
+      options: []
+      required: false

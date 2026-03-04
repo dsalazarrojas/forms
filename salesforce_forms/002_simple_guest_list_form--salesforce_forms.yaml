@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simple Guest List Form
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_names
+      label: Guest Names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: guest_emails
+      label: Guest E-mails
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: guest_phones
+      label: Guest Phones
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_dates
+      label: Guest Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: guest_notes
+      label: Guest Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false

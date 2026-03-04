@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Pre Networking Session RSVP
+    pages:
+      - id: 1
+        name: header_details
+        label: -- Event Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: attendee_name
+        label: Full name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: attendee_email
+        label: Contact email
+        hint: We will send session details to this address
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: organization
+        label: Organization or affiliation
+        hint: Company or institution
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: job_title
+        label: Job title
+        hint: Role or position
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: attending_pre_networking
+        label: Will attend pre networking session
+        hint: Select yes to reserve a spot
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 7
+        name: networking_goals
+        label: Networking goals
+        hint: Briefly state what you hope to achieve
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: dietary_requirements
+        label: Dietary requirements
+        hint: Specify any food restrictions
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: accessibility_needs
+        label: Accessibility needs
+        hint: Describe any accommodations required
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: consent_contact
+        label: Consent to share contact with attendees
+        hint: Other attendees may receive your name and email
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

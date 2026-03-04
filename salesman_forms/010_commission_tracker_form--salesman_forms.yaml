@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Commission Tracker Form
+    pages:
+    - id: 1
+      name: tracker_information
+      label: Tracker Information
+      hint: Details about the commission tracking entry
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: entry_date
+      label: Entry Date
+      hint: Date of this tracker entry
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: tracking_period
+      label: Tracking Period
+      hint: Period this commission covers
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sales_rep_info
+      label: Sales Representative Information
+      hint: Details about the sales representative
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sales_rep_name
+      label: Sales Representative Name
+      hint: Full name of the sales representative
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: sales_rep_id
+      label: Sales Representative ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: sales_rep_email
+      label: Sales Representative Email
+      hint: Contact email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: territory
+      label: Territory
+      hint: Assigned sales territory
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: transaction_details
+      label: Transaction Details
+      hint: Information about the sale or transaction
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: transaction_id
+      label: Transaction ID
+      hint: Unique transaction reference number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: transaction_date
+      label: Transaction Date
+      hint: Date the sale was completed
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: client_name
+      label: Client Name
+      hint: Name of the client or customer
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: product_service
+      label: Product Service
+      hint: Product or service sold
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: sale_amount
+      label: Sale Amount
+      hint: Total sale amount in USD
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: commission_details
+      label: Commission Details
+      hint: Commission calculation information
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: commission_rate
+      label: Commission Rate
+      hint: Commission percentage applied
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: commission_amount
+      label: Commission Amount
+      hint: Calculated commission in USD
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: commission_type
+      label: Commission Type
+      hint: Type of commission earned
+      type: select_one
+      options:
+      - Base Commission
+      - Bonus Commission
+      - Override Commission
+      - Residual Commission
+      - SPIFF
+      - Other
+      required: true
+    - id: 19
+      name: payment_status
+      label: Payment Status
+      hint: Current status of commission payment
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Processing
+      - Paid
+      - On Hold
+      - Denied
+      required: true
+    - id: 20
+      name: expected_payment_date
+      label: Expected Payment Date
+      hint: When payment is expected
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: actual_payment_date
+      label: Actual Payment Date
+      hint: When payment was actually made
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: payment_method
+      label: Payment Method
+      hint: How commission was paid
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check
+      - Payroll
+      - Wire Transfer
+      - Not Yet Paid
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: Any additional notes or comments
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_approval
+      label: Manager Approval
+      hint: Has manager approved this commission
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 25
+      name: manager_name
+      label: Manager Name
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: false

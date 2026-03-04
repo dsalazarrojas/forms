@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fundraising License Request Form
+    pages:
+    - id: 1
+      name: user_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: organization
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Example Organization'', ''value'': ''example-organization''}'
+      - Other
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: extra_info
+      label: extra_info
+      hint: null
+      type: text
+      options: []
+      required: false

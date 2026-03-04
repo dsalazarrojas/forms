@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_support_assistance_request_form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mental_health_crisis
+      label: mental health crisis
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: mental_health_issue
+      label: Mental Health Issue
+      hint: null
+      type: select_one
+      options:
+      - Depression
+      - Anxiety
+      - PTSD
+      required: false
+    - id: 6
+      name: requested_service
+      label: Requested Service
+      hint: null
+      type: select_multiple
+      options:
+      - Counselor Chat
+      - Crisis Hotline
+      - Mental Health Resources
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: user_agreement
+      label: User Agreement
+      hint: This form collects requests with Jotform!
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

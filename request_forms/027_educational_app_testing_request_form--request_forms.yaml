@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: educational_app_testing_request_form
+    pages:
+    - id: 1
+      name: testing_request_form
+      label: Testing Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: testing_goals
+      label: Testing Goals
+      hint: null
+      type: select_one
+      options:
+      - Testing
+      - Quality Assurance
+      - User Experience
+      required: false
+    - id: 3
+      name: testing_participants
+      label: Testing Participants
+      hint: List all participants that will be testing the app
+      type: select_multiple
+      options:
+      - edtech teams
+      - schools
+      - training organizations
+      required: false
+    - id: 4
+      name: testing_location
+      label: Testing Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: testing_duration
+      label: Testing Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: testing_frequency
+      label: Testing Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: testing_start_date
+      label: Testing Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: testing_start_time
+      label: Testing Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: testing_end_date
+      label: Testing End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: testing_end_time
+      label: Testing End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: tester_info
+      label: Tester Information
+      hint: Provide detailed information about the tester
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: tester_email
+      label: Tester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: tester_phone
+      label: Tester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: testing_notes
+      label: Testing Notes
+      hint: null
+      type: text
+      options: []
+      required: false

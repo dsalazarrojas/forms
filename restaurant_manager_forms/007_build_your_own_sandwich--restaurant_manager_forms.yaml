@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Build Your Own Sandwich
+    pages:
+    - id: 1
+      name: order_header
+      label: -- Create Your Custom Sandwich --
+      hint: Select your ingredients and build your perfect sandwich
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email address
+      hint: For order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone number
+      hint: For pickup or delivery contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bread_selection
+      label: -- Bread Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: bread_type
+      label: Select your bread
+      hint: null
+      type: select_one
+      options:
+      - Wheat
+      - White
+      - Italian
+      - Ciabatta
+      - Sourdough
+      - Rye
+      - Gluten-free
+      required: true
+    - id: 7
+      name: bread_size
+      label: Bread size
+      hint: null
+      type: select_one
+      options:
+      - Regular (6 inch)
+      - Large (12 inch)
+      - Wrap
+      - Flatbread
+      required: true
+    - id: 8
+      name: toasting
+      label: Toast the bread?
+      hint: null
+      type: select_one
+      options:
+      - Yes, lightly toasted
+      - Yes, well toasted
+      - No, keep it fresh
+      required: false
+    - id: 9
+      name: protein_section
+      label: -- Protein Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: protein_selection
+      label: Select protein (choose one or more)
+      hint: null
+      type: select_multiple
+      options:
+      - Turkey
+      - Ham
+      - Roast beef
+      - Chicken breast
+      - Tuna
+      - Egg salad
+      - Vegetarian
+      - Double protein
+      required: true
+    - id: 11
+      name: cheese_selection
+      label: -- Cheese Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cheese_type
+      label: Select cheese
+      hint: null
+      type: select_multiple
+      options:
+      - Cheddar
+      - Swiss
+      - Provolone
+      - Mozzarella
+      - Pepper jack
+      - Feta
+      - No cheese
+      required: false
+    - id: 13
+      name: vegetables_section
+      label: -- Vegetables --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: vegetables
+      label: Select vegetables
+      hint: null
+      type: select_multiple
+      options:
+      - Lettuce
+      - Tomato
+      - Cucumber
+      - Onion
+      - Bell peppers
+      - Olives
+      - Spinach
+      - Carrots
+      - Sprouts
+      required: true
+    - id: 15
+      name: condiments_section
+      label: -- Condiments and Spreads --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: condiments
+      label: Select condiments
+      hint: null
+      type: select_multiple
+      options:
+      - Mayonnaise
+      - Mustard
+      - Oil and vinegar
+      - Hummus
+      - Pesto
+      - Ranch dressing
+      - Chipotle aioli
+      - No condiments
+      required: false
+    - id: 17
+      name: extras_section
+      label: -- Special Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: extra_toppings
+      label: Extra toppings
+      hint: Bacon, avocado, etc. - additional charge may apply
+      type: select_multiple
+      options:
+      - Bacon
+      - Avocado
+      - Cheese extra
+      - Nuts
+      - Seeds
+      - Hot sauce
+      required: false
+    - id: 19
+      name: special_instructions
+      label: Special instructions or requests
+      hint: Allergies, preferences, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: order_type
+      label: -- Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: order_method
+      label: Order type
+      hint: null
+      type: select_one
+      options:
+      - Dine-in
+      - Takeout
+      - Delivery
+      required: true
+    - id: 22
+      name: quantity
+      label: Number of sandwiches
+      hint: null
+      type: number
+      options: []
+      required: true

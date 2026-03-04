@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dependents Addition Request Form
+    pages:
+    - id: 1
+      name: dependent_name
+      label: dependent_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dependent_relationship
+      label: dependent_relationship
+      hint: null
+      type: select_one
+      options:
+      - '[''Mother'', ''Father'', ''Child'', ''Spouse'', ''Partner'']'
+      - Other
+      required: true
+    - id: 3
+      name: dependent_dob
+      label: dependent_dob
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: dependent_age
+      label: dependent_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: dependent_gender
+      label: dependent_gender
+      hint: null
+      type: select_multiple
+      options:
+      - '[''Male'', ''Female'']'
+      - Other
+      required: true
+    - id: 6
+      name: dependent_contact_number
+      label: dependent_contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: dependent_email
+      label: dependent_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: dependent_address
+      label: dependent_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: dependents_adding_dependents
+      label: dependents_adding_dependents
+      hint: null
+      type: select_multiple
+      options:
+      - '[True, False]'
+      - Other
+      required: true

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Housekeeping Service Request Form Template
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: client_phone
+      label: client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_address
+      label: client_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: total_sq_footage
+      label: total_sq_footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: type_of_residence
+      label: type_of_residence
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: number_of_storey
+      label: number_of_storey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: type_of_flooring
+      label: type_of_flooring
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: number_of_bedroom
+      label: number_of_bedroom
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: number_of_bedrooms
+      label: number_of_bedrooms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: number_of_bathroom
+      label: number_of_bathroom
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: additional_service
+      label: additional_service
+      hint: null
+      type: text
+      options: []
+      required: false

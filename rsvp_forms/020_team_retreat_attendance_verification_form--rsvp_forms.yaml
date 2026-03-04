@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Retreat Attendance Verification Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_dietary_preference
+      label: Dietary Preference
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: will_attend
+      label: Will Attend
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: arrival_time
+      label: Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: departure_time
+      label: Departure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: accommodation
+      label: Accommodation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: accommodation_notes
+      label: Accommodation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_status_notes
+      label: Participant Status Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

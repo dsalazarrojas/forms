@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Pre Order Form
+    pages:
+    - id: 1
+      name: food_pre_order_form
+      label: Food Pre Order Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer info
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: order_type
+      label: order type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: customer_name
+      label: customer name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_contact
+      label: customer contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_email
+      label: customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: order_details
+      label: order details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: order_instructions
+      label: order instructions
+      hint: null
+      type: text
+      options: []
+      required: false

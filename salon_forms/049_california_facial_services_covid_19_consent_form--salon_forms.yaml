@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: California Facial Services COVID 19 Consent Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: appointment_date
+      label: Appointment Date
+      hint: Date of scheduled service
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: What facial service are you receiving
+      type: select_one
+      options:
+      - Basic facial
+      - Deep cleansing facial
+      - Anti-aging facial
+      - Acne treatment facial
+      - Chemical peel
+      - Microdermabrasion
+      - LED therapy
+      - Other
+      required: true
+    - id: 7
+      name: consent_date
+      label: Consent Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: covid_symptoms_check
+      label: COVID-19 Symptoms Check
+      hint: Are you currently experiencing any symptoms
+      type: select_one
+      options:
+      - No, I have no symptoms
+      - Yes, I have symptoms
+      - Not sure
+      required: true
+    - id: 9
+      name: symptoms_list
+      label: Symptoms List
+      hint: If yes, which symptoms
+      type: select_multiple
+      options:
+      - Fever or chills
+      - Cough
+      - Shortness of breath
+      - Fatigue
+      - Muscle aches
+      - Headache
+      - Loss of taste or smell
+      - Sore throat
+      - Congestion
+      - None
+      required: false
+    - id: 10
+      name: exposure_check
+      label: COVID-19 Exposure Check
+      hint: Have you been exposed to anyone with COVID-19
+      type: select_one
+      options:
+      - No, not that I know of
+      - Yes, in the last 14 days
+      - Yes, more than 14 days ago
+      - Not sure
+      required: true
+    - id: 11
+      name: positive_test_check
+      label: Positive Test Check
+      hint: Have you tested positive for COVID-19
+      type: select_one
+      options:
+      - No, never
+      - Yes, currently positive
+      - Yes, but recovered
+      required: true
+    - id: 12
+      name: positive_test_date
+      label: Positive Test Date
+      hint: If yes, when did you test positive
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: vaccination_status
+      label: Vaccination Status
+      hint: Are you vaccinated against COVID-19
+      type: select_one
+      options:
+      - Yes, fully vaccinated
+      - Yes, partially vaccinated
+      - No, not vaccinated
+      - Prefer not to say
+      required: false
+    - id: 14
+      name: travel_history
+      label: Recent Travel History
+      hint: Have you traveled outside California in last 14 days
+      type: select_one
+      options:
+      - false
+      - Yes, domestic travel
+      - Yes, international travel
+      required: false
+    - id: 15
+      name: mask_policy_acknowledgment
+      label: Mask Policy Acknowledgment
+      hint: Do you agree to wear a mask when not receiving service
+      type: select_one
+      options:
+      - Yes, I understand and agree
+      - No, I cannot comply
+      required: true
+    - id: 16
+      name: temperature_screening
+      label: Temperature Screening Consent
+      hint: Do you consent to temperature screening
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 17
+      name: hand_sanitizing
+      label: Hand Sanitizing Agreement
+      hint: Do you agree to sanitize hands upon arrival
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 18
+      name: social_distancing
+      label: Social Distancing Agreement
+      hint: Do you agree to follow social distancing guidelines
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: guest_policy
+      label: Guest Policy Acknowledgment
+      hint: Do you understand no guests are allowed
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 20
+      name: cancellation_policy
+      label: Cancellation Policy Acknowledgment
+      hint: Do you understand COVID-related cancellation policy
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I need clarification
+      required: true
+    - id: 21
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: Do you understand there is risk of exposure
+      type: select_one
+      options:
+      - Yes, I understand and accept the risk
+      - No, I do not accept the risk
+      required: true
+    - id: 22
+      name: liability_waiver
+      label: Liability Waiver
+      hint: Do you agree to hold the establishment harmless
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 23
+      name: health_insurance
+      label: Health Insurance Provider
+      hint: Your insurance provider
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Name and phone of emergency contact
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: client_signature
+      label: Client Signature
+      hint: Digital signature or typed name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: esthetician_name
+      label: Esthetician Name
+      hint: Name of service provider
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other health information to share
+      type: text
+      options: []
+      required: false

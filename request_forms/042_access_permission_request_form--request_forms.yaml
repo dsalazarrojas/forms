@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Permission Request Form
+    pages:
+    - id: 1
+      name: section_user
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Work or institutional email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your primary work area
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_role
+      label: Current Job Role
+      hint: Official position title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_reqs
+      label: -- Access Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: resource_type
+      label: Type of Resource Requested
+      hint: Choose the category
+      type: select_multiple
+      options:
+      - Software License
+      - Shared Folder Access
+      - Database Permission
+      - Building Access
+      - VPN Access
+      required: true
+    - id: 8
+      name: specific_resource_name
+      label: Name of Specific Resource or Folder or System
+      hint: Provide the exact name or path
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: permission_level
+      label: Requested Permission Level
+      hint: Level of control needed
+      type: select_one
+      options:
+      - Read-Only
+      - Contributor or Write
+      - Admin or Full Control
+      required: true
+    - id: 10
+      name: section_timeframe
+      label: -- Timeframe and Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: request_duration
+      label: Duration of Access
+      hint: select how long access is required
+      type: select_one
+      options:
+      - Permanent
+      - Temporary Project
+      - One-time Access
+      required: true
+    - id: 12
+      name: start_date
+      label: Start Date
+      hint: access start date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: end_date
+      label: End Date - if temporary
+      hint: for temporary access requests
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: business_justification
+      label: Describe the business need for this access
+      hint: Briefly explain why this is necessary for your role
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_agreement
+      label: -- Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: security_policy_acknowledgement
+      label: I have read and agree to the Information Security Policy
+      hint: Compliance requirement
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 17
+      name: digital_signature
+      label: Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true

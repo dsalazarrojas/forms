@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fencing Material Request Form
+    pages:
+    - id: 1
+      name: fencing_material_request_form_1
+      label: Request Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: What type of fencing material do you need
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Vinyl''}'
+      - '{''value'': ''Aluminum''}'
+      - '{''value'': ''Wood''}'
+      required: false
+    - id: 3
+      name: material_quantity
+      label: How many materials do you need
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: material_width
+      label: Material width
+      hint: null
+      type: number
+      options: []
+      required: false

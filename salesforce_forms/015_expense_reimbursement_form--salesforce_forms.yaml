@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Reimbursement Form
+    pages:
+    - id: 1
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_expense
+      label: Date of Expense
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employee_salary
+      label: Employee Salary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''name'': ''category1''}, {''name'': ''category2''}, {''name'':
+        ''category3''}]}'
+      - '{''name'': ''category4''}'
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_on
+      label: Submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: approved_by
+      label: Approved by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approved_on
+      label: Approved on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: denied_by
+      label: Denied by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: denied_on
+      label: Denied on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: expense_status
+      label: Expense Status
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''name'': ''approved''}, {''name'': ''denied''}, {''name'':
+        ''pending''}]}'
+      - '{''name'': ''pending''}'
+      required: false
+    - id: 15
+      name: expense_id
+      label: Expense ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_email
+      label: Submitted by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitted_on_date
+      label: Submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: approved_by_email
+      label: Approved by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: approved_on_date
+      label: Approved on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: denied_by_email
+      label: Denied by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: denied_on_date
+      label: Denied on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''name'': ''car_expense''}, {''name'': ''meal_expense''},
+        {''name'': ''travel_expense''}]}'
+      - '{''name'': ''other_expense''}'
+      required: false
+    - id: 24
+      name: expense_reimbursment_amount
+      label: Expense Reimbursment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: employee_salary_2
+      label: Employee Salary 2
+      hint: null
+      type: number
+      options: []
+      required: false

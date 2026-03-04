@@ -1,0 +1,449 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Request Form
+    pages:
+    - id: 1
+      name: requester_information
+      label: Requester Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For request communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: Your company
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: request_details
+      label: Request Details
+      hint: Vehicle request information
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: request_type
+      label: Request Type
+      hint: What type of request?
+      type: select_one
+      options:
+      - Fleet assignment
+      - Rental reservation
+      - Test drive
+      - Service loaner
+      - Replacement vehicle
+      - Special event
+      - Other
+      required: true
+    - id: 11
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: needed_by_date
+      label: Needed By Date
+      hint: When do you need the vehicle?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: return_date
+      label: Return Date
+      hint: When will you return it?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: rental_duration
+      label: Duration
+      hint: How long?
+      type: select_one
+      options:
+      - 1 day
+      - 2-3 days
+      - 4-7 days
+      - 1-2 weeks
+      - Over 2 weeks
+      - Indefinite
+      required: true
+    - id: 15
+      name: vehicle_preferences
+      label: Vehicle Preferences
+      hint: What type of vehicle?
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_category
+      label: Vehicle Category
+      hint: Type of vehicle
+      type: select_one
+      options:
+      - Economy
+      - Compact
+      - Mid-size
+      - Full-size
+      - SUV
+      - Minivan
+      - Luxury
+      - Sports car
+      - Truck
+      - Van
+      - No preference
+      required: true
+    - id: 17
+      name: specific_vehicle
+      label: Specific Vehicle
+      hint: If you have a preference
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: transmission_type
+      label: Transmission Type
+      hint: Preference
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - No preference
+      required: true
+    - id: 19
+      name: fuel_type
+      label: Fuel Type
+      hint: Preference
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
+      - No preference
+      required: true
+    - id: 20
+      name: passenger_capacity
+      label: Passenger Capacity
+      hint: How many passengers?
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      - 9+
+      required: true
+    - id: 21
+      name: luggage_capacity
+      label: Luggage Capacity
+      hint: How many bags?
+      type: select_one
+      options:
+      - 1-2 bags
+      - 3-4 bags
+      - 5-6 bags
+      - 7+ bags
+      required: true
+    - id: 22
+      name: required_features
+      label: Required Features
+      hint: Must-have features
+      type: select_multiple
+      options:
+      - GPS Navigation
+      - Bluetooth
+      - Backup camera
+      - All-wheel drive
+      - Heated seats
+      - Sunroof
+      - Leather interior
+      - Child seat anchors
+      - None
+      required: false
+    - id: 23
+      name: additional_services
+      label: Additional Services
+      hint: Any add-ons?
+      type: select_multiple
+      options:
+      - None
+      - GPS Navigation rental
+      - Child Safety Seat
+      - Booster Seat
+      - Additional Driver
+      - Ski Rack
+      - Bike Rack
+      - Toll Pass
+      - Mobile WiFi
+      required: false
+    - id: 24
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: Why do you need the vehicle?
+      type: select_one
+      options:
+      - Business travel
+      - Client meetings
+      - Site visits
+      - Airport transportation
+      - Personal use
+      - Special event
+      - Vehicle repair replacement
+      - Test drive
+      - Other
+      required: true
+    - id: 25
+      name: purpose_details
+      label: Purpose Details
+      hint: Elaborate if needed
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: travel_destinations
+      label: Travel Destinations
+      hint: Where will you be going?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: estimated_mileage
+      label: Estimated Mileage
+      hint: How many miles expected?
+      type: select_one
+      options:
+      - Under 100 miles
+      - 100-300 miles
+      - 300-500 miles
+      - Over 500 miles
+      required: false
+    - id: 28
+      name: driver_information
+      label: Driver Information
+      hint: License details
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: license_number
+      label: Driver's License Number
+      hint: Your license number
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: license_state
+      label: License State
+      hint: State that issued license
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: license_expiry
+      label: License Expiration
+      hint: Expiration date
+      type: date
+      options: []
+      required: true
+    - id: 32
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 21 or older
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: driving_record
+      label: Driving Record
+      hint: Any violations?
+      type: select_one
+      options:
+      - Clean record
+      - Minor violations
+      - Major violations
+      - Prefer not to say
+      required: true
+    - id: 34
+      name: additional_drivers
+      label: Additional Drivers
+      hint: Will there be other drivers?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 35
+      name: additional_driver_names
+      label: Additional Driver Names
+      hint: List names
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: pickup_preferences
+      label: Pickup Preferences
+      hint: Delivery information
+      type: note
+      options: []
+      required: false
+    - id: 37
+      name: pickup_location
+      label: Pickup Location
+      hint: Where to pick up?
+      type: select_one
+      options:
+      - Main office
+      - Airport location
+      - Downtown branch
+      - Home delivery
+      - Office delivery
+      - Other
+      required: true
+    - id: 38
+      name: pickup_address
+      label: Pickup Address
+      hint: Specific address
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: pickup_time_preference
+      label: Pickup Time Preference
+      hint: Preferred time
+      type: time
+      options: []
+      required: false
+    - id: 40
+      name: payment_information
+      label: Payment Information
+      hint: Payment details
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Corporate Account
+      - Invoice/Billing
+      - Cash Deposit
+      required: true
+    - id: 42
+      name: billing_department
+      label: Billing Department
+      hint: If corporate
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: cost_center
+      label: Cost Center
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: authorization
+      label: Authorization
+      hint: Approval information
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: manager_approval
+      label: Manager Approval
+      hint: Is manager approval obtained?
+      type: select_one
+      options:
+      - Yes - approved
+      - Pending
+      - Not required
+      required: true
+    - id: 46
+      name: manager_name
+      label: Manager Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements?
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to terms?
+      type: select_one
+      options:
+      - I agree to the terms and conditions
+      - I do not agree
+      required: true
+    - id: 50
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

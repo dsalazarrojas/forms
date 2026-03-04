@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily_TransportationFeeSurvey
+    pages:
+    - id: 1
+      name: commute_costs
+      label: How many days do you commute to work?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: travel_frequency
+      label: How often do you travel to work?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 3
+      name: mode_of_transportation
+      label: What mode of transportation do you typically use for work?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: How would you rate your satisfaction with your commute?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: total_cost_per_week
+      label: What are your total weekly transportation costs?
+      hint: $0
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: transportation_cost_impact
+      label: Does transportation cost affect your daily activities?
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: transportation_cost_impact_other
+      label: How does transportation cost impact your activities?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: commute_time
+      label: How many minutes do you spend traveling to and from work?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: transportation_mode_preferences
+      label: What mode of transportation do you prefer?
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

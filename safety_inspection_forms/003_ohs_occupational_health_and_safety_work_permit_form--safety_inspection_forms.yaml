@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: OHS (Occupational Health And Safety) Work Permit Form
+    pages:
+    - id: 1
+      name: safety_inspection
+      label: Safety Inspection Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: hazard_assessment
+      label: Hazard Assessment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: job_details
+      label: Job Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: safety_inspection_date
+      label: Safety Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: safety_inspection_time
+      label: Safety Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

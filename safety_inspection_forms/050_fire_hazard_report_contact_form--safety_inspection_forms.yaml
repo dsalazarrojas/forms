@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Hazard Report Contact Form
+    pages:
+    - id: 1
+      name: fire_hazard_report
+      label: Fire Hazard Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_hazard_location
+      label: Fire Hazard Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - Phone
+      - Email
+      required: true
+    - id: 9
+      name: fire_hazard_type
+      label: Fire Hazard Type
+      hint: null
+      type: select_multiple
+      options:
+      - Electrical
+      - Gas
+      - Water
+      - Other
+      required: true
+    - id: 10
+      name: fire_hazard_description
+      label: Fire Hazard Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: fire_hazard_photo
+      label: Fire Hazard Photo
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Work Method Statement
+    pages:
+    - id: 1
+      name: form_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_id
+      label: Organization ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

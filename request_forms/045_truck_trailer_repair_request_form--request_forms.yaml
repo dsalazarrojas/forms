@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: truck_trailer_repair_request_form
+    pages:
+    - id: 1
+      name: trailer_repair_request_form
+      label: Trailer Repair Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trailer_type
+      label: trailer_type
+      hint: null
+      type: select_one
+      options:
+      - '{''1'': ''Single''}'
+      - '{''2'': ''Dual''}'
+      - '{''3'': ''Tandem''}'
+      required: true
+    - id: 3
+      name: repair_request
+      label: repair_request
+      hint: Please describe the repair request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: maintenance_date
+      label: maintenance_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: repair_cost
+      label: repair_cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: trailer_number
+      label: trailer_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: repair_status
+      label: repair_status
+      hint: null
+      type: select_one
+      options:
+      - '{''0'': ''Open''}'
+      - '{''1'': ''In Progress''}'
+      - '{''2'': ''Completed''}'
+      required: false
+    - id: 8
+      name: repair_notes
+      label: repair_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - '{''0'': ''chatjimmy''}'
+      - '{''1'': ''jason''}'
+      - '{''2'': ''other''}'
+      required: true
+    - id: 10
+      name: completed_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Customer Preferences Information Form
+    pages:
+    - id: 1
+      name: form_01_preferences
+      label: Guest Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_02_dietary_needs
+      label: Dietary Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 3
+      name: form_03_dining_experience
+      label: Dining Experience
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: form_04_dining_time
+      label: Dining Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: form_05_dining_date
+      label: Dining Date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: form_06_feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: form_07_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: form_08_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_09_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

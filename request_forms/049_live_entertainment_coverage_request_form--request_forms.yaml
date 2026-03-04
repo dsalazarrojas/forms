@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Entertainment Coverage Request Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - concert
+      - festival
+      - live event
+      required: true
+    - id: 7
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: media_type
+      label: Media Type
+      hint: null
+      type: select_multiple
+      options:
+      - print
+      - digital
+      - broadcast
+      - social media
+      - press
+      required: true
+    - id: 9
+      name: coverage_area
+      label: Coverage Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false

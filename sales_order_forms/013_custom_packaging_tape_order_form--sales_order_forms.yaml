@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Packaging Tape Order Form
+    pages:
+    - id: 1
+      name: custom_packaging_tape_order_form
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_info
+      label: Customer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artwork
+      label: Artwork
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: shipping_info
+      label: Shipping
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: payment
+      label: Payment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

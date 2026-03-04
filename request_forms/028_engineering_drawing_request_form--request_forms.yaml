@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Drawing Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: drawing_type
+      label: drawing_type
+      hint: null
+      type: select_one
+      options:
+      - 2D Drawing
+      - 3D Modeling
+      - Other
+      required: false
+    - id: 7
+      name: required_documents
+      label: required_documents
+      hint: null
+      type: select_multiple
+      options:
+      - Project Proposal
+      - Specifications
+      - Other
+      - Attachments
+      required: false
+    - id: 8
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

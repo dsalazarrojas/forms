@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: prayer_card_design_request_form
+    pages:
+    - id: 1
+      name: prayer_card_design_request
+      label: Prayer Card Design Request
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: church_name
+      label: Church Name
+      hint: Name of the church making the request
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Name of person receiving the card
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address_line_1
+      label: Address Line 1
+      hint: Home Address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address_line_2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip
+      label: Zip/Postal Code
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: Cell/Phone number to reach them
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: Email to contact
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: special_requests
+      label: Special Requests
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date
+      label: Date of Need
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_of_death
+      label: Time of Death
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: prayer_cards_wanted
+      label: Number of Prayer Cards Wanted
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: message_for_the_family
+      label: Message to be Included
+      hint: null
+      type: select_one
+      options:
+      - Funeral Information
+      - Service Information
+      - Biographical Information
+      - Photo
+      - Other
+      required: false
+    - id: 17
+      name: other_message
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: upload_file
+      label: File Upload
+      hint: null
+      type: select_multiple
+      options:
+      - Photo
+      - Video
+      - Other
+      required: false
+    - id: 19
+      name: upload_other
+      label: Upload File (Other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: upload_other_type
+      label: Type of File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: upload_other_description
+      label: Description of File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: upload_other_size
+      label: Size of File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: upload_other_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: back
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false

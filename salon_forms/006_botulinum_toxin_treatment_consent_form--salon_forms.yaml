@@ -1,0 +1,190 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Botulinum Toxin Treatment Consent Form
+    pages:
+      - id: 1
+        name: section_header_acknowledgment
+        label: -- Acknowledgment of Procedure --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client Name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: date_of_birth
+        label: Date of Birth
+        hint: MM/DD/YYYY
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: treatment_date
+        label: Date of Treatment
+        hint: Scheduled procedure date
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: provider_name
+        label: Treating Provider
+        hint: Name of medical professional
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: section_header_understanding
+        label: -- Understanding of Treatment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: procedure_explained
+        label: I understand the procedure has been explained to me
+        hint: Check to confirm
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+          - I need clarification
+        required: true
+      - id: 8
+        name: risks_benefits
+        label: I understand the risks and benefits
+        hint: Approved risks listed in consent document
+        type: select_one
+        options:
+          - I agree
+          - I do not agree
+          - I have questions
+        required: true
+      - id: 9
+        name: alternatives_discussed
+        label: Alternative treatment options were discussed
+        hint: Including no treatment option
+        type: select_one
+        options:
+          - Yes, discussed
+          - Not discussed
+          - I have questions
+        required: true
+      - id: 10
+        name: section_header_risks
+        label: -- Known Risks Acknowledged --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: risk_bruising
+        label: I acknowledge risk of bruising and swelling
+        hint: Common temporary side effect
+        type: select_one
+        options:
+          - Acknowledged
+          - Acknowledge with questions
+        required: true
+      - id: 12
+        name: risk_asymmetry
+        label: I acknowledge risk of asymmetry or unevenness
+        hint: May require touch-up treatment
+        type: select_one
+        options:
+          - Acknowledged
+          - Acknowledge with questions
+        required: true
+      - id: 13
+        name: risk_drooping
+        label: I acknowledge risk of temporary drooping
+        hint: Rare but possible side effect
+        type: select_one
+        options:
+          - Acknowledged
+          - Acknowledge with questions
+        required: true
+      - id: 14
+        name: risk_allergic
+        label: I acknowledge risk of allergic reaction
+        hint: Rare but serious
+        type: select_one
+        options:
+          - Acknowledged
+          - Acknowledge with questions
+        required: true
+      - id: 15
+        name: section_header_expectations
+        label: -- Realistic Expectations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: temporary_results
+        label: Results are temporary and require maintenance
+        hint: Typically lasts 3-4 months
+        type: select_one
+        options:
+          - I understand
+          - I need more information
+        Required: true
+      - id: 17
+        name: results_timeline
+        label: Full results appear within 7-14 days
+        hint: Gradual improvement over time
+        type: select_one
+        options:
+          - I understand
+          - I have questions
+        required: true
+      - id: 18
+        name: section_header_liability
+        label: -- Release and Consent --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: release_liability
+        label: I release the provider from liability for expected risks
+        hint: Standard consent clause
+        type: select_one
+        options:
+          - I agree and release
+          - I do not agree
+        required: true
+      - id: 20
+        name: photograph_consent
+        label: I consent to before-and-after photographs for records
+        hint: For treatment documentation
+        type: select_one
+        options:
+          - I consent
+          - I do not consent
+        required: false
+      - id: 21
+        name: signature_consent
+        label: I voluntarily consent to this treatment
+        hint: Check to finalize consent
+        type: select_one
+        options:
+          - I fully consent
+          - I do not consent
+        required: true

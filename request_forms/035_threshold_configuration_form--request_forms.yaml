@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Threshold Configuration Form
+    pages:
+    - id: 1
+      name: threshold_conditions
+      label: Threshold Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: notification_method
+      label: Notification Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Chat''}'
+      - '{''label'': ''SMS''}'
+      required: false
+    - id: 3
+      name: threshold_action
+      label: Threshold Action
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Send Notification''}'
+      - '{''label'': ''Send Alert''}'
+      - '{''label'': ''Send Warning''}'
+      required: false
+    - id: 4
+      name: notification_method_details
+      label: Notification Method Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: chat_id
+      label: Chat ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: threshold_value
+      label: Threshold Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: notification_delay
+      label: Notification Delay
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: threshold_unit
+      label: Threshold Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''seconds''}'
+      - '{''label'': ''minutes''}'
+      - '{''label'': ''hours''}'
+      required: false
+    - id: 10
+      name: threshold_type
+      label: Threshold Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Absolute''}'
+      - '{''label'': ''Relative''}'
+      required: false
+    - id: 11
+      name: threshold_condition
+      label: Threshold Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Above''}'
+      - '{''label'': ''Below''}'
+      - '{''label'': ''Between''}'
+      - '{''label'': ''Not Above''}'
+      required: false
+    - id: 12
+      name: alert_level
+      label: Alert Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 13
+      name: notification_method_2
+      label: Notification Method 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Chat''}'
+      required: false
+    - id: 14
+      name: notification_method_3
+      label: Notification Method 3
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''SMS''}'
+      - Other
+      required: false
+    - id: 15
+      name: threshold_time
+      label: Threshold Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: threshold_period
+      label: Threshold Period
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 17
+      name: threshold_interval
+      label: Threshold Interval
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      required: false
+    - id: 18
+      name: threshold_description
+      label: Threshold Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: threshold_note
+      label: Threshold Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: email_note
+      label: Email Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: threshold_note_2
+      label: Threshold Note 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: threshold_note_3
+      label: Threshold Note 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: threshold_note_4
+      label: Threshold Note 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: threshold_note_5
+      label: Threshold Note 5
+      hint: null
+      type: note
+      options: []
+      required: false

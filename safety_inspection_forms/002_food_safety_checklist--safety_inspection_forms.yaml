@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Safety Checklist
+    pages:
+    - id: 1
+      name: food_safety_standards
+      label: Food Safety Standards
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: storage_and_labeling
+      label: Storage And Labeling
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_last_reviewed
+      label: Date Last Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: date_next_review
+      label: Date Next Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: safety_standards_reviewed
+      label: Safety Standards Reviewed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: preventive_actions
+      label: Preventive Actions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: food_hazard_control
+      label: Food Hazard Control
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: corrective_action_taken
+      label: Corrective Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: corrective_action_effective
+      label: Corrective Action Effective
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: corrective_action_documented
+      label: Corrective Action Documented
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: corrective_action_repeated
+      label: Corrective Action Repeated
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: food_hazard_control_effective
+      label: Food Hazard Control Effective
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: food_hazard_control_documented
+      label: Food Hazard Control Documented
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: corrective_action_followup
+      label: Corrective Action Followup
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: corrective_action_closed
+      label: Corrective Action Closed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: preventive_action_status
+      label: Preventive Action Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 18
+      name: corrective_action_status
+      label: Corrective Action Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 19
+      name: food_hazard_control_status
+      label: Food Hazard Control Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: corrective_action_document_status
+      label: Corrective Action Document Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: corrective_action_frequency
+      label: Corrective Action Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Every 30 days
+      - Every 60 days
+      - Every 90 days
+      - Every 120 days
+      required: true
+    - id: 22
+      name: corrective_action_frequency_2
+      label: Corrective Action Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - Once
+      - Every 30 days
+      - Every 60 days
+      - Every 90 days
+      - Every 120 days
+      required: true
+    - id: 23
+      name: food_hazard_control_frequency_1
+      label: Food Hazard Control Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: food_hazard_control_frequency_2
+      label: Food Hazard Control Frequency 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: followup_frequency
+      label: Followup Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

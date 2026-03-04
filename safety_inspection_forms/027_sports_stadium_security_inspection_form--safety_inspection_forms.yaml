@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Stadium Security Inspection Form
+    pages:
+    - id: 1
+      name: security_check
+      label: security_check
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 2
+      name: security_team_responsibility_area
+      label: security_team_responsibility_area
+      hint: null
+      type: select_multiple
+      options:
+      - north
+      - east
+      - west
+      - south
+      - stadium
+      - main entrance
+      required: false
+    - id: 3
+      name: fire_suppression
+      label: fire_suppression
+      hint: null
+      type: select_one
+      options:
+      - fire alarm system
+      - reporter alarm system
+      - other
+      required: false
+    - id: 4
+      name: access_control
+      label: access_control
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: emergency_exit_signs
+      label: emergency_exit_signs
+      hint: null
+      type: select_one
+      options:
+      - green light
+      - green arrow
+      - other
+      required: false
+    - id: 6
+      name: emergency_exit_path
+      label: emergency_exit_path
+      hint: null
+      type: select_one
+      options:
+      - straight path
+      - staircase
+      - ramp
+      - other
+      required: false
+    - id: 7
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_one
+      options:
+      - fire extinguisher
+      - fire alarm
+      - first aid kit
+      - other
+      required: false
+    - id: 8
+      name: safety_equipment_type
+      label: safety_equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - fire suppression
+      - safety alarm
+      - first aid equipment
+      - other
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - security office
+      - stadium manager
+      - first aid team
+      - other
+      required: false
+    - id: 10
+      name: emergency_contact_type
+      label: emergency_contact_type
+      hint: null
+      type: select_multiple
+      options:
+      - office staff
+      - security team
+      - first aid staff
+      - event staff
+      required: false

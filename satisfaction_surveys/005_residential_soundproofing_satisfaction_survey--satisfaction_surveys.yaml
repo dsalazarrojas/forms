@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Soundproofing Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_name
+      label: Residential Soundproofing Satisfaction Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: soundproofing_contractor
+      label: contractor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Contractor 1''}'
+      - '{''id'': 2, ''label'': ''Contractor 2''}'
+      - '{''id'': 3, ''label'': ''Contractor 3''}'
+      required: false
+    - id: 3
+      name: soundproofing_contractor_phone_number
+      label: contractor_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: soundproofing_contractor_email
+      label: contractor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: project_location
+      label: project_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: soundproofing_project_duration
+      label: project_duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''less_than_1_week''}'
+      - '{''id'': 2, ''label'': ''1_to_4_weeks''}'
+      - '{''id'': 3, ''label'': ''more_than_4_weeks''}'
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: specific_issues
+      label: specific_issues
+      hint: If you have any issues with the project, please describe
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommendations
+      label: recommendations
+      hint: Is there anything else we can improve on?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: soundproofing_contractor_comments
+      label: contractor_comments
+      hint: Additional comments
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: soundproofing_contractor_rating
+      label: contractor_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 5}'
+      - '{''id'': 2, ''label'': 4}'
+      - '{''id'': 3, ''label'': 3}'
+      - '{''id'': 4, ''label'': 2}'
+      - '{''id'': 5, ''label'': 1}'
+      required: false

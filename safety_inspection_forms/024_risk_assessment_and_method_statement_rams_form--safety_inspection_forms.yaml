@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: Risk Assessment And Method Statement Rams Form
+    pages:
+    - id: 1
+      name: job_number
+      label: Job Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: hazard
+      label: hazard
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: control_measures
+      label: control_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: risk_level
+      label: risk_level
+      hint: None
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: control_effectiveness
+      label: control_effectiveness
+      hint: None
+      type: select_one
+      options:
+      - '100'
+      - '80'
+      - '70'
+      - '60'
+      - '50'
+      required: false
+    - id: 6
+      name: review_date
+      label: review_date
+      hint: None
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reviewer_name
+      label: reviewer_name
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: risk_assessment
+      label: risk_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: method_statement
+      label: method_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: safety_critical_control
+      label: safety_critical_control
+      hint: None
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: risk_level_frequency
+      label: risk_level_frequency
+      hint: None
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 12
+      name: risk_level_severity
+      label: risk_level_severity
+      hint: None
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 13
+      name: control_measures_frequency
+      label: control_measures_frequency
+      hint: None
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 14
+      name: control_measures_severity
+      label: control_measures_severity
+      hint: None
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 15
+      name: reviewer_signature
+      label: reviewer_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contractor_signature
+      label: contractor_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contractor_name
+      label: contractor_name
+      hint: None
+      type: text
+      options: []
+      required: false

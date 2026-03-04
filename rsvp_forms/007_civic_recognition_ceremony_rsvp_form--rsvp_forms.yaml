@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Recognition Ceremony RSVP Form
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization or Affiliation
+      hint: Company, nonprofit, or group you represent
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For event confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rsvp_status
+      label: Will You Attend the Ceremony
+      hint: Please respond by the RSVP deadline
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Maybe, will confirm later
+      required: true
+    - id: 6
+      name: guest_count
+      label: Number of Guests
+      hint: Including yourself
+      type: select_one
+      options:
+      - 1 (just me)
+      - 2
+      - 3
+      - 4
+      - 5 or more
+      required: true
+    - id: 7
+      name: guest_names
+      label: Names of Additional Guests
+      hint: List full names of all attendees
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dietary_requirements
+      label: Dietary Restrictions or Allergies
+      hint: For catering purposes
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Kosher
+      - Halal
+      - Other
+      required: true
+    - id: 9
+      name: dietary_details
+      label: Please Specify Dietary Requirements
+      hint: Provide details about your dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: accessibility_needs
+      label: Do You Require Accessibility Accommodations
+      hint: Wheelchair access, sign language, etc.
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: accessibility_details
+      label: Please Specify Accommodation Needs
+      hint: Describe what accommodations you need
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: transportation_method
+      label: How Will You Arrive at the Event
+      hint: For parking planning
+      type: select_one
+      options:
+      - Personal vehicle
+      - Carpool
+      - Public transportation
+      - Ride share or taxi
+      - Walking
+      required: false
+    - id: 13
+      name: parking_needed
+      label: Will You Need Parking
+      hint: At the event venue
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: award_recognition
+      label: Are You Being Honored at the Ceremony
+      hint: As an award recipient
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 15
+      name: presentation_participation
+      label: Will You Participate in the Program
+      hint: Giving a speech or presentation
+      type: select_one
+      options:
+      - Yes, giving a speech
+      - Yes, presenting an award
+      - Yes, other participation
+      - No, attending only
+      required: true
+    - id: 16
+      name: media_consent
+      label: Photo and Video Consent
+      hint: Event photos may be used for publicity
+      type: select_one
+      options:
+      - Yes, I consent to photos and videos
+      - No, please do not photograph me
+      required: true
+    - id: 17
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else we should know
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: makeup_appointment_form
+    pages:
+    - id: 1
+      name: appointment_type
+      label: Makeup Type
+      hint: null
+      type: select_multiple
+      options:
+      - eyeshadow
+      - eyeshadow_eyeliner
+      - eyeshadow_highlight
+      required: false
+    - id: 2
+      name: service_time
+      label: Time
+      hint: null
+      type: select_one
+      options:
+      - 10:00-12:00
+      - 13:00-15:00
+      - 16:00-18:00
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

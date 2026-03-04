@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Dialogue Sync Request Form
+    pages:
+    - id: 1
+      name: sync_project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sync_studio_name
+      label: Client or Studio Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dialogue_language_selection
+      label: Dialogue Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Japanese
+      - French
+      - German
+      - Other
+      required: true
+    - id: 4
+      name: audio_duration_seconds
+      label: Total Audio File Duration - Seconds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: character_speaker_count
+      label: Number of Characters Speaking
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: sync_requirement_level_type
+      label: Sync Requirement Level
+      hint: null
+      type: select_one
+      options:
+      - Phonetic Lip-Sync - High detail
+      - Body Performance Sync Only
+      - Full Performance and Facial Capture
+      required: true
+    - id: 7
+      name: script_provided_status
+      label: Is a Script Provided?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Uploaded
+      - No - Not provided
+      - Pending - Not yet finalized
+      required: true
+    - id: 8
+      name: animation_fps_preference
+      label: Desired Animation Frame Rate
+      hint: Frames per second
+      type: select_one
+      options:
+      - 24 fps - Standard Film
+      - 30 fps - TV/Video
+      - 60 fps - High Smoothness
+      required: true
+    - id: 9
+      name: file_delivery_format_choice
+      label: File Delivery Format
+      hint: null
+      type: select_one
+      options:
+      - FBX - Filmbox
+      - ABC - Alembic
+      - MP4 Preview Only
+      - Maya Project File
+      required: true
+    - id: 10
+      name: sync_target_deadline
+      label: Target Delivery Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: special_sync_instructions
+      label: Special Animation or Sync Instructions
+      hint: Specific character emotional cues or pacing
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: testing_appointment_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: disease_selection
+      label: Disease
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2.1, ''name'': ''coronavirus'', ''label'': ''coronavirus''}'
+      - '{''id'': 2.2, ''name'': ''others'', ''label'': ''others''}'
+      required: true
+    - id: 5
+      name: schedule
+      label: Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: doctor_contact
+      label: Doctor Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: patient_info_note
+      label: Patient Info Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: doctor_contact_note
+      label: Doctor Contact Note
+      hint: null
+      type: note
+      options: []
+      required: false

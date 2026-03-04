@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Booth Display Fixture Request Form
+    pages:
+    - id: 1
+      name: exhibitor_name
+      label: Exhibitor Name
+      hint: Your company or name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: When is the event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: booth_number
+      label: Booth Number
+      hint: Your assigned booth
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: booth_size
+      label: Booth Size
+      hint: Dimensions
+      type: select_one
+      options:
+      - 10x10
+      - 10x20
+      - 20x20
+      - 20x30
+      - Custom size
+      required: true
+    - id: 9
+      name: fixture_type
+      label: Fixture Type Needed
+      hint: What kind of display
+      type: select_multiple
+      options:
+      - Display tables
+      - Shelving units
+      - Hanging systems
+      - Wall mounted displays
+      - Product stands
+      - Signage holders
+      - Lighting fixtures
+      - Specialty fixtures
+      required: true
+    - id: 10
+      name: fixture_quantity
+      label: Quantity Needed
+      hint: Number of fixtures
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: display_content
+      label: Type of Display Content
+      hint: What will you display
+      type: select_one
+      options:
+      - Products
+      - Brochures
+      - Posters
+      - Digital displays
+      - Mixed media
+      - Other
+      required: true
+    - id: 12
+      name: weight_capacity
+      label: Weight Capacity Needed
+      hint: Approximate weight of items
+      type: select_one
+      options:
+      - Light (under 10 lbs)
+      - Medium (10-50 lbs)
+      - Heavy (50-100 lbs)
+      - Very heavy (100+ lbs)
+      required: true
+    - id: 13
+      name: setup_date
+      label: Setup Date
+      hint: When will you set up
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: special_requirements
+      label: Special Requirements
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rental_fee_acceptance
+      label: Accept Fixture Rental Fees
+      hint: Agree to rental costs
+      type: select_one
+      options:
+      - Yes, I accept
+      - Need pricing information
+      - No, decline
+      required: true

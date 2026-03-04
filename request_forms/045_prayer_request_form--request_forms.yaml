@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Prayer Request Form
+    pages:
+    - id: 1
+      name: prayer_request_form
+      label: Prayer Request Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Your Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: prayer_request
+      label: Prayer Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: prayer_request_type
+      label: Prayer Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - Healing
+      - Miraculous Intervention
+      required: false
+    - id: 6
+      name: prayer_request_details
+      label: Prayer Request Details
+      hint: Please provide as much detail as possible
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prayer_request_date
+      label: Prayer Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: prayer_request_time
+      label: Prayer Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: prayer_request_duration
+      label: Prayer Request Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Tool or Department this request is assigned to
+      type: text
+      options: []
+      required: false

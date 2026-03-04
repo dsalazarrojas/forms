@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Waxing Consultation Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - waxing
+      - sugaring
+      - shaving
+      required: false
+    - id: 5
+      name: hair_length
+      label: Hair Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - coarse
+      - fine
+      - medium
+      - coarse_and_medium
+      required: false
+    - id: 7
+      name: area_to_be_treated
+      label: Area to be treated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: previous_treatment
+      label: Previous Treatment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergy
+      label: Allergy
+      hint: null
+      type: select_multiple
+      options:
+      - allergy1
+      - allergy2
+      - allergy3
+      required: false
+    - id: 11
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: note
+      options: []
+      required: false

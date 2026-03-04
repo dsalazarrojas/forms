@@ -1,0 +1,119 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: glock-inspection-form
+    pages:
+    - id: 1
+      name: g_prophets
+      label: glock inspection form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: weapon_condition
+      label: weapon condition
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: safety_checklist
+      label: safety checklist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Trigger is safe to use''}'
+      - '{''label'': ''Safety is engaged properly''}'
+      - '{''label'': ''Trigger is locked and safe''}'
+      - '{''label'': ''Trigger is not locked and safe''}'
+      - '{''label'': ''Magazine release is functional''}'
+      - '{''label'': ''Ejector is functional''}'
+      - '{''label'': ''Magazine is properly seated''}'
+      - '{''label'': ''Chamber is clear''}'
+      - '{''label'': ''Barrel is free from obstructions''}'
+      required: false
+    - id: 4
+      name: maintenance_record
+      label: maintenance record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: glock_model
+      label: glock model
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Glock 19''}'
+      - '{''label'': ''Glock 20''}'
+      - '{''label'': ''Glock 21''}'
+      - "label:\u0E1B\u0E23\u0E30\u0E01 Glock 22"
+      - '{''label'': ''Glock 23''}'
+      - '{''label'': ''Glock 24''}'
+      - '{''label'': ''Glock 25''}'
+      - '{''label'': ''Glock 26''}'
+      - '{''label'': ''Glock 27''}'
+      - '{''label'': ''Glock 28''}'
+      - '{''label'': ''Glock 29''}'
+      - '{''label'': ''Glock 30''}'
+      - '{''label'': ''Glock 31''}'
+      required: false
+    - id: 6
+      name: inspection_date
+      label: inspection date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: glock_condition
+      label: glock condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Operational''}'
+      - '{''label'': ''Damaged''}'
+      - '{''label'': ''Functional''}'
+      - '{''label'': ''Non-Operational''}'
+      - '{''label'': ''Requires Maintenance''}'
+      required: false
+    - id: 8
+      name: inspection_status
+      label: inspection status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Incomplete''}'
+      - '{''label'': ''Complete''}'
+      - '{''label'': ''Not Inspected''}'
+      required: false
+    - id: 9
+      name: glock_maintenance_record
+      label: glock maintenance record
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: glock_inspection_signature
+      label: glock inspection signature
+      hint: null
+      type: text
+      options: []
+      required: false

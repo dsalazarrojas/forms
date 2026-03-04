@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security PIN Registration Request
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_reason
+      label: Access Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_ack
+      label: Policy Acknowledgments
+      hint: null
+      type: select_multiple
+      options:
+      - Policy 1
+      - Policy 2
+      - Policy 3
+      required: false
+    - id: 4
+      name: access_reason_details
+      label: Access Reason Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: pin_requester_name
+      label: Requester's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - HR
+      - Security
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

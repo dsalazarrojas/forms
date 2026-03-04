@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Facility Comfort Evaluation Survey
+    pages:
+    - id: 1
+      name: spa_facility_comfort_evaluation_survey_page_1
+      label: Spa Facilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: How would you rate your overall comfort?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comfort_score_1
+      label: Air Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comfort_score_2
+      label: Temperature Control
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comfort_score_3
+      label: Ambiance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comfort_score_4
+      label: Facilities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comfort_score_5
+      label: Service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: comfort_score_6
+      label: Overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: spa_facilities
+      label: Spa Facilities
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 13
+      name: spa_staff
+      label: Spa Staff
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 14
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 15
+      name: ambiance
+      label: Ambiance
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 16
+      name: service
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 17
+      name: spa_staff_friendly
+      label: Spa Staff Friendly
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 18
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email_sent_to
+      label: Email Sent To
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: phone_sent_to
+      label: Phone Sent To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: spa_sent_to
+      label: Spa Sent To
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false
+    - id: 25
+      name: comments_sent_to
+      label: Comments Sent To
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Excellent''}'
+      - '{2: ''Good''}'
+      - '{3: ''Fair''}'
+      - '{4: ''Poor''}'
+      required: false

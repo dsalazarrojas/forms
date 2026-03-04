@@ -1,0 +1,424 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Rental Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For reservation communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Your ZIP code
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rental_details
+      label: Rental Details
+      hint: Your rental preferences
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: pickup_location
+      label: Pickup Location
+      hint: Where to pick up?
+      type: select_one
+      options:
+      - Airport Location
+      - Downtown Location
+      - Suburban Location
+      - Hotel Delivery
+      - Other
+      required: true
+    - id: 12
+      name: pickup_location_address
+      label: Pickup Address
+      hint: Specific address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pickup_date
+      label: Pickup Date
+      hint: When to pick up?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: pickup_time
+      label: Pickup Time
+      hint: What time?
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: return_location
+      label: Return Location
+      hint: Where to return?
+      type: select_one
+      options:
+      - Same as pickup
+      - Different location
+      required: true
+    - id: 16
+      name: return_location_address
+      label: Return Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: return_date
+      label: Return Date
+      hint: When to return?
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: return_time
+      label: Return Time
+      hint: What time?
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: car_type
+      label: Car Type
+      hint: What type of vehicle?
+      type: select_one
+      options:
+      - Economy
+      - Compact
+      - Mid-size
+      - Full-size
+      - SUV
+      - Minivan
+      - Luxury
+      - Sports car
+      - Truck
+      - No preference
+      required: true
+    - id: 20
+      name: specific_vehicle_request
+      label: Specific Vehicle Request
+      hint: If you have a preference
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: transmission_type
+      label: Transmission Type
+      hint: Preference
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - No preference
+      required: true
+    - id: 22
+      name: fuel_type
+      label: Fuel Type
+      hint: Preference
+      type: select_one
+      options:
+      - Gasoline
+      - Diesel
+      - Hybrid
+      - Electric
+      - No preference
+      required: true
+    - id: 23
+      name: passenger_capacity
+      label: Passenger Capacity
+      hint: How many passengers?
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      - 9+
+      required: true
+    - id: 24
+      name: luggage_capacity
+      label: Luggage Capacity
+      hint: How many bags?
+      type: select_one
+      options:
+      - 1-2 bags
+      - 3-4 bags
+      - 5-6 bags
+      - 7+ bags
+      required: true
+    - id: 25
+      name: rental_purpose
+      label: Rental Purpose
+      hint: Why are you renting?
+      type: select_one
+      options:
+      - Business
+      - Leisure/Vacation
+      - Personal vehicle repair
+      - Special event
+      - Test drive
+      - Other
+      required: true
+    - id: 26
+      name: additional_requests
+      label: Additional Requests
+      hint: Any special requests?
+      type: select_multiple
+      options:
+      - GPS Navigation
+      - Child Safety Seat
+      - Booster Seat
+      - Additional Driver
+      - Ski Rack
+      - Bike Rack
+      - Toll Pass
+      - Mobile WiFi
+      - Wheelchair accessible
+      - None
+      required: false
+    - id: 27
+      name: additional_requests_details
+      label: Additional Requests Details
+      hint: Describe your requests
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: insurance_preference
+      label: Insurance Preference
+      hint: Coverage options
+      type: select_multiple
+      options:
+      - Collision Damage Waiver
+      - Liability Insurance
+      - Personal Accident Insurance
+      - Personal Effects Coverage
+      - Roadside Assistance
+      - Decline all coverage
+      - Undecided
+      required: false
+    - id: 29
+      name: estimated_mileage
+      label: Estimated Mileage
+      hint: How many miles expected?
+      type: select_one
+      options:
+      - Under 100 miles
+      - 100-300 miles
+      - 300-500 miles
+      - Over 500 miles
+      required: false
+    - id: 30
+      name: special_needs
+      label: Special Needs
+      hint: Any accessibility needs?
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: driver_information
+      label: Driver Information
+      hint: License details
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: license_number
+      label: Driver's License Number
+      hint: Your license number
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: license_state
+      label: License State
+      hint: State that issued license
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: license_expiry
+      label: License Expiration
+      hint: Expiration date
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: date_of_birth
+      label: Date of Birth
+      hint: Must be 21 or older
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: additional_drivers
+      label: Additional Drivers
+      hint: Will there be other drivers?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: additional_driver_names
+      label: Additional Driver Names
+      hint: List names
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: payment_preference
+      label: Payment Preference
+      hint: How will you pay?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Corporate Account
+      - Cash Deposit
+      - Undecided
+      required: true
+    - id: 39
+      name: loyalty_program
+      label: Loyalty Program
+      hint: Are you a member?
+      type: select_one
+      options:
+      - Yes - member
+      - No - want to join
+      - false
+      required: false
+    - id: 40
+      name: loyalty_number
+      label: Loyalty Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: corporate_account
+      label: Corporate Account
+      hint: Do you have one?
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 42
+      name: corporate_account_name
+      label: Corporate Account Name
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Your referral source
+      type: select_one
+      options:
+      - Website
+      - Mobile app
+      - Search engine
+      - Social media
+      - Friend/Family
+      - Travel agent
+      - Advertisement
+      - Previous customer
+      - Other
+      required: false
+    - id: 44
+      name: special_occasion
+      label: Special Occasion
+      hint: Is this for a special event?
+      type: select_one
+      options:
+      - false
+      - Wedding
+      - Business trip
+      - Vacation
+      - Anniversary
+      - Other
+      required: false
+    - id: 45
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: terms_agreement
+      label: Terms Agreement
+      hint: Do you agree to terms?
+      type: select_one
+      options:
+      - I agree to the rental terms and conditions
+      - I do not agree
+      required: true
+    - id: 47
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

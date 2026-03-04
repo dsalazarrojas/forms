@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: visualization_request_form
+    pages:
+    - id: 1
+      name: business
+      label: Business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Visualization
+      - Design
+      - Development
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_multiple
+      options:
+      - Visualization
+      - Design
+      - Development
+      required: true
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: designer_requirements
+      label: Designer Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: business_description
+      label: Business Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expected_delivery_date
+      label: Expected Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: expected_delivery_time
+      label: Expected Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: deadline
+      label: Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 16
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

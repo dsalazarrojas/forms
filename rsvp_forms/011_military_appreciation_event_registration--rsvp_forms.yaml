@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Appreciation Event Registration
+    pages:
+    - id: 1
+      name: registration_form
+      label: Military Appreciation Event Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Guest Name
+      hint: Enter the full name of the guest
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: military_id
+      label: Military ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: branch
+      label: Branch
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Army'', ''value'': ''Army''}'
+      - '{''id'': 2, ''label'': ''Navy'', ''value'': ''Navy''}'
+      - '{''id'': 3, ''label'': ''Air Force'', ''value'': ''Air Force''}'
+      - '{''id'': 4, ''label'': ''Marine Corps'', ''value'': ''Marine Corps''}'
+      - '{''id'': 5, ''label'': ''Coast Guard'', ''value'': ''Coast Guard''}'
+      - '{''id'': 6, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 7
+      name: attending
+      label: Will you be attending?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - '{''id'': 3, ''label'': ''Not Sure'', ''value'': ''Not Sure''}'
+      required: false
+    - id: 8
+      name: planning_preferences
+      label: Planning Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: rsvp_deadline
+      label: RSVP Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: venue
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online'', ''value'': ''Online''}'
+      - '{''id'': 2, ''label'': ''Location 1'', ''value'': ''Location 1''}'
+      - '{''id'': 3, ''label'': ''Location 2'', ''value'': ''Location 2''}'
+      - '{''id'': 4, ''label'': ''Location 3'', ''value'': ''Location 3''}'
+      - '{''id'': 5, ''label'': ''Location 4'', ''value'': ''Location 4''}'
+      - '{''id'': 6, ''label'': ''Location 5'', ''value'': ''Location 5''}'
+      required: false
+    - id: 14
+      name: guest_details
+      label: Guest Details
+      hint: null
+      type: text
+      options: []
+      required: false

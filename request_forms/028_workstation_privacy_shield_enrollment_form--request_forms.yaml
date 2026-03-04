@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workstation Privacy Shield Enrollment Form
+    pages:
+    - id: 1
+      name: workstation_privacy_shield_enrollment_form_page_1
+      label: workstation_privacy_shield_enrollment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workstation_location
+      label: Workstation location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Front Desk'', ''value'': ''Front Desk''}'
+      - '{''id'': 2, ''label'': ''Back Office'', ''value'': ''Back Office''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: workstation_ownership
+      label: Workstation ownership
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employee prophets company'', ''value'': ''Employee''}'
+      - '{''id'': 2, ''label'': ''IT Department'', ''value'': ''IT''}'
+      - '{''id'': 3, ''label'': ''Facility'', ''value'': ''Facility''}'
+      required: false
+    - id: 4
+      name: request_date
+      label: Request date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: request_time
+      label: Request time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: workstation_id
+      label: Workstation ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: building_location
+      label: Building location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: room_number
+      label: Room number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: reason_for_request
+      label: Reason for request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_required
+      label: Approval required
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 14
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: workstation_privacy_shield_enrolled
+      label: Workstation privacy shield enrolled
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 18
+      name: workstation_privacy_shield_activated
+      label: Workstation privacy shield activated
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 19
+      name: workstation_privacy_shield_expires_at
+      label: Workstation privacy shield expires at
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never'', ''value'': ''Never''}'
+      - '{''id'': 2, ''label'': ''After 1 month'', ''value'': ''After 1 month''}'
+      - '{''id'': 3, ''label'': ''After 2 month'', ''value'': ''After 2 month''}'
+      required: false
+    - id: 20
+      name: workstation_privacy_shield_renewal_date
+      label: Workstation privacy shield renewal date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: workstation_privacy_shield_renewal_time
+      label: Workstation privacy shield renewal time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: workstation_privacy_shield_renewal_status
+      label: Workstation privacy shield renewal status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved'', ''value'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Pending'', ''value'': ''Pending''}'
+      - '{''id'': 3, ''label'': ''Rejected'', ''value'': ''Rejected''}'
+      required: false
+    - id: 23
+      name: workstation_privacy_shield_renewal_notes
+      label: Workstation privacy shield renewal notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: workstation_privacy_shield_replacement_status
+      label: Workstation privacy shield replacement status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false

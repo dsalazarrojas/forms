@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dropbox File Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_details
+      label: File Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: file_request
+      label: File Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: time
+      options: []
+      required: false

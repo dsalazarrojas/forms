@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Call Report Form
+    pages:
+    - id: 1
+      name: sales_call_date
+      label: sales call date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: sales_call_time
+      label: sales call time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: sales_manager
+      label: sales manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_company
+      label: customer company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sales_call_notes
+      label: sales call notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_action
+      label: follow up action
+      hint: null
+      type: select_one
+      options:
+      - Follow Up
+      - Follow Up
+      - No Follow Up
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: follow up date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_time
+      label: follow up time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: sales_call_outcome
+      label: sales call outcome
+      hint: null
+      type: select_one
+      options:
+      - Successful
+      - Unsuccesful
+      - No Sale
+      required: false
+    - id: 13
+      name: sales_call_outcome_notes
+      label: sales call outcome notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: next_step
+      label: next step
+      hint: null
+      type: text
+      options: []
+      required: false

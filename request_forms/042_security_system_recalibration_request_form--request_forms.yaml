@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security System Recalibration Request Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_location
+      label: Contact Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: access_info
+      label: Access Info
+      hint: null
+      type: select_one
+      options:
+      - Value 1
+      - Value 2
+      - Value 3
+      required: false
+    - id: 7
+      name: schedule
+      label: Schedule
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_schedule
+      label: Preferred Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: security_level
+      label: Security Level
+      hint: null
+      type: number
+      options: []
+      required: false

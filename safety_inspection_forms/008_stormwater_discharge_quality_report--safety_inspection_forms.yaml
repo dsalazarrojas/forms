@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stormwater Discharge Quality Report
+    pages:
+    - id: 1
+      name: stormwater_discharge_event
+      label: Stormwater Discharge Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stormwater_discharge_event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Waterway Discharge
+      - Other
+      required: false
+    - id: 3
+      name: event_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: stormwater_discharge_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stormwater_discharge_quality
+      label: Stormwater Discharge Quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: stormwater_discharge_image
+      label: Stormwater Discharge Image
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: stormwater_discharge_video
+      label: Stormwater Discharge Video
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

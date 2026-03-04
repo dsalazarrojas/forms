@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Escalation Request Form
+    pages:
+    - id: 1
+      name: section_requestor
+      label: -- Requestor Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Legal employee name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_job_title
+      label: Current Job Title
+      hint: As per official role
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: staff_id
+      label: Employee or Staff ID
+      hint: unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_current
+      label: -- Current Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: existing_access_levels
+      label: Describe your current access permissions
+      hint: What can you currently access?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_escalation
+      label: -- Escalation Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: requested_access_level
+      label: What elevated permissions are you requesting?
+      hint: Specify new roles or levels
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: areas_requiring_access
+      label: Specific areas or data systems
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Financial Systems
+      - HR PII
+      - Research Data (Confidential)
+      - Executive Boardroom
+      - Server Infrastructure
+      required: true
+    - id: 10
+      name: duration_of_escalation
+      label: Duration
+      hint: How long is the access needed?
+      type: select_one
+      options:
+      - Temporary (Specific Project)
+      - Permanent (Role Change)
+      required: true
+    - id: 11
+      name: expiry_date
+      label: If temporary, when should access expire?
+      hint: For project-based access
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: section_justification
+      label: -- Business Justification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: justification
+      label: Provide a detailed business reason for this escalation
+      hint: Essential for approval
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: urgent_request
+      label: Is this request time-critical?
+      hint: priority handling
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: section_manager
+      label: -- Managerial Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_email
+      label: Supervisor or Manager Email for Approval
+      hint: Request will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: policy_compliance
+      label: I acknowledge that I have read the Elevated Access Policy
+      hint: Policy compliance
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true

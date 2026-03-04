@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Request Form Milk and Honey
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Graduation
+      - Private Party
+      - Holiday Party
+      - Fundraiser
+      - Other
+      required: true
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: Date of your event
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: Start time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: Where will the event be
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: venue_address
+      label: Venue Address
+      hint: Complete address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guest_count
+      label: Estimated Guest Count
+      hint: Number of guests expected
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: service_style
+      label: Service Style
+      hint: Preferred serving style
+      type: select_one
+      options:
+      - Buffet
+      - Plated Dinner
+      - Family Style
+      - Cocktail Reception
+      - Food Stations
+      - Food Truck
+      - Not Sure
+      required: true
+    - id: 12
+      name: bar_staff_needed
+      label: Bar Staff Needed
+      hint: Do you need bartenders
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: bartender_count
+      label: Number of Bartenders
+      hint: How many bartenders needed
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: beverage_service
+      label: Beverage Service
+      hint: What beverage service
+      type: select_one
+      options:
+      - Full Bar
+      - Beer and Wine Only
+      - Non-Alcoholic Only
+      - Coffee and Tea Service
+      - No Beverage Service
+      required: true
+    - id: 15
+      name: signature_cocktails
+      label: Signature Cocktails Requested
+      hint: Number of custom cocktails
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: menu_preferences
+      label: Menu Preferences
+      hint: What type of food do you prefer
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: appetizers_needed
+      label: Appetizers Needed
+      hint: Do you need appetizers
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: dessert_needed
+      label: Dessert Service
+      hint: Do you need dessert service
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: rental_items
+      label: Rental Items Needed
+      hint: Tables - chairs - linens - etc
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: budget_range
+      label: Budget Range
+      hint: Your estimated budget
+      type: select_one
+      options:
+      - Under $2000
+      - $2000 to $5000
+      - $5000 to $10000
+      - $10000 to $20000
+      - Over $20000
+      required: false
+    - id: 22
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Advertisement
+      - Wedding Show
+      - Other
+      required: false
+    - id: 23
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

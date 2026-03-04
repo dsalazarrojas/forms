@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: watersports_equipment_hire_form
+    pages:
+    - id: 1
+      name: watersports_equipment_hire_form
+      label: choose_watersports
+      hint: null
+      type: select_one
+      options:
+      - skim
+      - kayak
+      - jet_ski
+      - water_skate
+      - paddleboard
+      - sail
+      - wakeboard
+      - parasail
+      - windsurf
+      - water_bike
+      - water_skate
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_multiple
+      options:
+      - kayak
+      - jet_ski
+      - paddleboard
+      - water_skate
+      - sail
+      - wakeboard
+      - parasail
+      - windsurf
+      - water_bike
+      required: false
+    - id: 3
+      name: number_people
+      label: number_of_people
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_start
+      label: date_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_end
+      label: date_end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_start
+      label: time_start
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: time_end
+      label: time_end
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: extra_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

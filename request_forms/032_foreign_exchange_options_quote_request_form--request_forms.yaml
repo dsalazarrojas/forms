@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Exchange Options Quote Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: foreign_exchange_options_quote_request_form
+      label: foreign_exchange_options_quote_request_form
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      - None
+      required: false
+    - id: 3
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: currency
+      label: currency
+      hint: null
+      type: select_one
+      options:
+      - EUR
+      - JPY
+      - USD
+      - CNY
+      - HKD
+      required: false
+    - id: 5
+      name: notional_amount
+      label: notional_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: expiration_time
+      label: expiration_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: trade_date
+      label: trade_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: trade_time
+      label: trade_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: trade_currency
+      label: trade_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - JPY
+      - EUR
+      - CNY
+      - HKD
+      required: false
+    - id: 11
+      name: counter_currency
+      label: counter_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - JPY
+      - EUR
+      - CNY
+      - HKD
+      required: false
+    - id: 12
+      name: trade_currency2
+      label: trade_currency2
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - JPY
+      - EUR
+      - CNY
+      - HKD
+      required: false
+    - id: 13
+      name: counter_currency2
+      label: counter_currency2
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - JPY
+      - EUR
+      - CNY
+      - HKD
+      required: false
+    - id: 14
+      name: strike_price
+      label: strike_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: strike_price2
+      label: strike_price2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: expiration_strike_price
+      label: expiration_strike_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: expiration_strike_price2
+      label: expiration_strike_price2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: spread
+      label: spread
+      hint: null
+      type: select_one
+      options:
+      - bid
+      - offer
+      - best_deal
+      - best_price
+      - no_spread
+      - spread_available
+      required: false
+    - id: 19
+      name: spread2
+      label: spread2
+      hint: null
+      type: select_one
+      options:
+      - bid
+      - offer
+      - best_deal
+      - best_price
+      - no_spread
+      - spread_available
+      required: false
+    - id: 20
+      name: price_type
+      label: price_type
+      hint: null
+      type: select_one
+      options:
+      - market
+      - market_mtm
+      - price
+      - price_mtm
+      required: false
+    - id: 21
+      name: strike_type
+      label: strike_type
+      hint: null
+      type: select_one
+      options:
+      - at_strike
+      - forward
+      required: false
+    - id: 22
+      name: notional_size
+      label: notional_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: notional_size2
+      label: notional_size2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: expiration_date2
+      label: expiration_date2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: expiration_time2
+      label: expiration_time2
+      hint: null
+      type: time
+      options: []
+      required: false

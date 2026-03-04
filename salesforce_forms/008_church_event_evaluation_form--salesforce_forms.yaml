@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Church Event Evaluation Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Your Name
+        hint: Optional - you may remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: event_name
+        label: Which Event Did You Attend
+        hint: null
+        type: select_one
+        options:
+          - Spring Festival
+          - Summer Picnic
+          - Fall Harvest
+          - Christmas Celebration
+          - Easter Service
+          - Youth Retreat
+          - Bible Study
+          - Other
+        required: true
+      - id: 4
+        name: event_date
+        label: Event Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: overall_rating
+        label: Overall Event Rating
+        hint: How would you rate the event overall
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: registration_experience
+        label: Registration Experience Rating
+        hint: How was the registration process
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did not register
+        required: true
+      - id: 7
+        name: venue_rating
+        label: Venue Rating
+        hint: Rate the event location
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: content_quality
+        label: Content Quality Rating
+        hint: Rate the program content
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not applicable
+        required: true
+      - id: 9
+        name: speaker_rating
+        label: Speaker Performance Rating
+        hint: Rate the speakers or leaders
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not applicable
+        required: false
+      - id: 10
+        name: food_beverage
+        label: Food and Beverage Rating
+        hint: If applicable
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Not provided
+        required: false
+      - id: 11
+        name: value_rating
+        label: Value for Time Rating
+        hint: Was your time well spent
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Waste of time
+        required: true
+      - id: 12
+        name: best_part
+        label: What Did You Like Best
+        hint: Share the highlights
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: improvement_areas
+        label: What Could Be Improved
+        hint: Your suggestions matter
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: future_events
+        label: Would You Attend Future Events
+        hint: null
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 15
+        name: recommend_event
+        label: Would You Recommend This Event
+        hint: To friends or family
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 16
+        name: volunteer_interest
+        label: Would You Like to Volunteer at Future Events
+        hint: null
+        type: select_one
+        options:
+          - Yes, definitely
+          - Maybe
+          - No, thank you
+        required: false
+      - id: 17
+        name: additional_comments
+        label: Any Additional Comments
+        hint: Share anything else
+        type: text
+        options: []
+        required: false

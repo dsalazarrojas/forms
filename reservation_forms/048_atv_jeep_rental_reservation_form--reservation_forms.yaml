@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: ATV Jeep Rental Reservation Form
+    pages:
+    - id: 1
+      name: customer_information_section
+      label: Customer Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date in MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: driver_license_number
+      label: Driver License Number
+      hint: Valid driver license number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Current email for reservation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of your emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rental_dates
+      label: Rental Dates
+      hint: Select the dates for your rental period
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: rental_duration
+      label: Rental Duration
+      hint: How many days will you need the vehicle?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: vehicle_type
+      label: Vehicle Type Requested
+      hint: Select the type of vehicle you wish to rent
+      type: select_one
+      options:
+      - ATV Single
+      - ATV Tandem
+      - Jeep Wrangler
+      - Jeep Cherokee
+      - Side-by-Side
+      - UTV
+      required: true
+    - id: 12
+      name: number_of_vehicles
+      label: Number of Vehicles
+      hint: How many vehicles do you need?
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: experience_level
+      label: Experience Level
+      hint: How experienced are you with off-road vehicles?
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 14
+      name: additional_equipment
+      label: Additional Equipment Needed
+      hint: Select any additional equipment you require
+      type: select_multiple
+      options:
+      - Helmet
+      - Goggles
+      - Gloves
+      - Protective Pads
+      - GPS Device
+      - Cooler
+      - Snacks/Water
+      required: false
+    - id: 15
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any special requirements or notes for your rental
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Do you require additional insurance coverage?
+      type: select_one
+      options:
+      - Basic Coverage
+      - Premium Coverage
+      - I have my own insurance
+      - No additional coverage
+      required: true
+    - id: 17
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the rental?
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      required: true
+    - id: 18
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: Do you agree to the rental terms and safety guidelines?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

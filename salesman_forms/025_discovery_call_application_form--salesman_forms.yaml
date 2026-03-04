@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discovery Call Application Form
+    pages:
+    - id: 1
+      name: form_data
+      label: form_data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: discovery_time
+      label: Discovery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: schedule_discovery
+      label: Schedule Discovery
+      hint: null
+      type: select_one
+      options:
+      - 10am
+      - 11am
+      - 12pm
+      - 1pm
+      - 2pm
+      - 3pm
+      - 4pm
+      - 5pm
+      required: true
+    - id: 8
+      name: schedule_discovery_recurring
+      label: Schedule Discovery Recurring
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Lead
+      - Lead (Lead Qualified)
+      - Lead (Conversion)
+      required: true
+    - id: 11
+      name: form_data_note
+      label: Form Data Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Google
+      - Facebook
+      - Instagram
+      - Twitter
+      - LinkedIn
+      - Other
+      required: true
+    - id: 14
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-500
+      - 501-1000
+      - 1001+
+      required: true
+    - id: 16
+      name: company_industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - Healthcare
+      - IT
+      - Marketing
+      - Manufacturing
+      - Construction
+      required: true
+    - id: 17
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: linkedin_link
+      label: LinkedIn Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: twitter_link
+      label: Twitter Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: company_facebook
+      label: Facebook Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

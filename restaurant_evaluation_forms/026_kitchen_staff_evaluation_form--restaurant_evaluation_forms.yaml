@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Staff Evaluation Form
+    pages:
+    - id: 1
+      name: supervisor_feedback
+      label: Supervisor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_score_1
+      label: Rating Score 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_scale_1
+      label: Rating Scale 1
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      - Label 3
+      required: true
+    - id: 4
+      name: rating_scale_1_label_1
+      label: Label 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_scale_1_label_2
+      label: Label 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating_scale_1_label_3
+      label: Label 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating_score_2
+      label: Rating Score 2
+      hint: null
+      type: number
+      options: []
+      required: false

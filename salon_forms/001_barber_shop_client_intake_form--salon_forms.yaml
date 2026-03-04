@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Client Intake Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Full Name
+      hint: Please enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: Contact number for appointment confirmations
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: We'll use this for appointment reminders
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: section_header_2
+      label: -- Hair and Grooming Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: hair_type
+      label: Hair Type
+      hint: Select your hair texture
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily
+      - Combination
+      required: true
+    - id: 7
+      name: hair_length_preference
+      label: Preferred Hair Length
+      hint: null
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
+      - Very Short
+      required: true
+    - id: 8
+      name: fade_style
+      label: Fade Style Preference
+      hint: null
+      type: select_one
+      options:
+      - High Fade
+      - Mid Fade
+      - Low Fade
+      - No Fade
+      - Skin Fade
+      required: false
+    - id: 9
+      name: beard_style
+      label: Beard Styling Preference
+      hint: null
+      type: select_one
+      options:
+      - Clean Shaven
+      - Trimmed Beard
+      - Full Beard
+      - Stubble
+      - Shaped
+      required: false
+    - id: 10
+      name: previous_haircuts
+      label: Have you had a haircut in the last 3 months?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Hair Care and Allergies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: hair_care_products
+      label: Hair care products you use at home
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: product_allergies
+      label: Any product allergies or sensitivities?
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Fragrance Sensitivity
+      - Chemical Sensitivity
+      - Sulfate Sensitivity
+      - Other
+      required: false
+    - id: 14
+      name: scalp_condition
+      label: Any scalp conditions we should know about?
+      hint: Dandruff, psoriasis, eczema, etc
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_header_4
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: first_time_customer
+      label: Is this your first visit?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Regular Customer
+      required: true
+    - id: 17
+      name: preferred_barber
+      label: Do you prefer a specific barber?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: preferred_appointment_time
+      label: Preferred appointment time
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Flexible
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special requests or notes
+      hint: Any additional information we should know
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent
+      label: I consent to this intake form and agree to the terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: retirement_party_rsvp_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: will_attend
+      label: Will Attend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: rsvp_type
+      label: RSVP Type
+      hint: null
+      type: select_multiple
+      options:
+      - In Person
+      - Online
+      required: false
+    - id: 5
+      name: rsvp_date
+      label: RSVP Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_time
+      label: RSVP Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_date_time
+      label: RSVP Date and Time
+      hint: null
+      type: select_one
+      options:
+      - Date
+      - Time
+      - Both
+      required: false
+    - id: 8
+      name: guests_attending
+      label: Guests Attending
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: guests_name
+      label: Guest Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: guests_attending_comment
+      label: Guest Comments
+      hint: null
+      type: text
+      options: []
+      required: false

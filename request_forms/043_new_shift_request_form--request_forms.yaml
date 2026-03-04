@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Shift Request Form
+    pages:
+    - id: 1
+      name: new_shift_request_form
+      label: New Shift Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: request_message
+      label: Request Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shift_status
+      label: Shift Status
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Rejected
+      - Approved
+      required: false
+    - id: 11
+      name: shift_type
+      label: Shift Type
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Half
+      - Quarter
+      required: false
+    - id: 12
+      name: shift_type_description
+      label: Shift Type Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy1
+      - chatjimmy2
+      required: false
+    - id: 14
+      name: assigned_tool_description
+      label: Assigned Tool Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: requester
+      label: Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Rejected
+      - Approved
+      required: false
+    - id: 17
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false

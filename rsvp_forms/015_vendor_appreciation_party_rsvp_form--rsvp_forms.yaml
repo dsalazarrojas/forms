@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Appreciation Party RSVP Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Attending''}'
+      - '{''id'': 2, ''label'': ''Not Attending''}'
+      - '{''id'': 3, ''label'': ''Maybe''}'
+      required: true
+    - id: 5
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_arrived
+      label: Date Arrived
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_arrived
+      label: Time Arrived
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: number_guests_attending
+      label: Number of Guests Attending
+      hint: null
+      type: number
+      options: []
+      required: false

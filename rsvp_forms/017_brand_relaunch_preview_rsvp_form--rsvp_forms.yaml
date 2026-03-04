@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Relaunch Preview RSVP Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Full Name
+      hint: Your full name as it should appear on invitation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: guest_email
+      label: Email Address
+      hint: We will send event details here
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: guest_phone
+      label: Phone Number
+      hint: Contact number for event updates
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_affiliation
+      label: Company or Organization
+      hint: Your company or organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your professional title
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rsvp_status
+      label: RSVP Status
+      hint: Will you be attending
+      type: select_one
+      options:
+      - Yes, I Will Attend
+      - No, Unable to Attend
+      - Maybe, Will Confirm Soon
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: Date of the relaunch preview
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Event Time
+      hint: Time of the event
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: number_of_guests
+      label: Number of Guests
+      hint: Including yourself
+      type: select_one
+      options:
+      - 1 - Just Myself
+      - 2
+      - 3
+      - 4
+      required: true
+    - id: 10
+      name: guest_names
+      label: Names of Additional Guests
+      hint: Full names of other attendees
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any dietary requirements or allergies
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Dairy-Free
+      - Nut Allergy
+      - Shellfish Allergy
+      - Kosher
+      - Halal
+      required: true
+    - id: 12
+      name: beverage_preference
+      label: Beverage Preference
+      hint: What would you prefer to drink
+      type: select_one
+      options:
+      - Alcoholic Beverages
+      - Non-Alcoholic Only
+      - Wine Only
+      - Beer Only
+      - Cocktails
+      required: true
+    - id: 13
+      name: accessibility_needs
+      label: Accessibility Requirements
+      hint: Do you need any accommodations
+      type: select_one
+      options:
+      - None
+      - Wheelchair Access
+      - Hearing Assistance
+      - Visual Assistance
+      - Other
+      required: false
+    - id: 14
+      name: transportation_method
+      label: Transportation Method
+      hint: How will you get to the event
+      type: select_one
+      options:
+      - Driving
+      - Ride Share
+      - Public Transit
+      - Walking
+      - Need Assistance
+      required: false
+    - id: 15
+      name: parking_required
+      label: Parking Required
+      hint: Do you need parking information
+      type: select_one
+      options:
+      - Yes, Need Parking Info
+      - No, Not Driving
+      required: true
+    - id: 16
+      name: media_consent
+      label: Photography Consent
+      hint: Can we take and use photos of you
+      type: select_one
+      options:
+      - Yes, I Consent
+      - No, Please Do Not Photograph Me
+      required: true
+    - id: 17
+      name: brand_relationship
+      label: Your Relationship to Brand
+      hint: How are you connected to the brand
+      type: select_one
+      options:
+      - Current Customer
+      - Former Customer
+      - Media or Press
+      - Industry Partner
+      - Investor
+      - Friend of Brand
+      - Other
+      required: true
+    - id: 18
+      name: questions_for_brand
+      label: Questions for the Brand
+      hint: Any questions you would like answered
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Any other special requests
+      type: text
+      options: []
+      required: false

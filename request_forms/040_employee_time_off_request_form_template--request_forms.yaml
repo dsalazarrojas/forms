@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Time Off Request Form Template
+    pages:
+    - id: 1
+      name: time_off_request
+      label: Time Off Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_off_type
+      label: Time Off Type
+      hint: null
+      type: select_one
+      options:
+      - Vacation
+      - Sick Leave
+      - Holiday
+      required: false
+    - id: 5
+      name: time_off_reason
+      label: Time Off Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_off_duration
+      label: Time Off Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: approver
+      label: Approver
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Supervisor
+      required: false
+    - id: 8
+      name: requester
+      label: Requester
+      hint: Employee requesting time off
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approved
+      label: Approved
+      hint: Select to approve or reject the request
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Add comments on the approval
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false

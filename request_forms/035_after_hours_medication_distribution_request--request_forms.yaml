@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: After Hours Medication Distribution Request
+    pages:
+    - id: 1
+      name: requester_information_section
+      label: Requester Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting medication distribution
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_role
+      label: Requester Role
+      hint: Your role or position in the healthcare facility
+      type: select_one
+      options:
+      - Physician
+      - Nurse
+      - Resident
+      - Pharmacist
+      - Medical Assistant
+      - Other Healthcare Professional
+      required: true
+    - id: 4
+      name: requester_license_number
+      label: License or ID Number
+      hint: Your professional license or employee ID number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_contact
+      label: Contact Information
+      hint: Phone extension or pager number for the requester
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patient_information_section
+      label: Patient Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: patient_name
+      label: Patient Full Name
+      hint: Full name of the patient requiring medication
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: patient_id
+      label: Patient ID
+      hint: Hospital or medical record number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: patient_room_number
+      label: Patient Room Number
+      hint: Room or ward where the patient is located
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: patient_nurse_station
+      label: Patient Nurse Station
+      hint: Which nurse station is responsible for the patient
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: medication_request_details_section
+      label: Medication Request Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: medication_name
+      label: Medication Name
+      hint: Name of the medication being requested
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: medication_strength
+      label: Medication Strength
+      hint: Strength or concentration of the medication
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: medication_dosage
+      label: Dosage Required
+      hint: Amount of medication to be dispensed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: medication_route
+      label: Route of Administration
+      hint: How the medication should be administered
+      type: select_one
+      options:
+      - Oral
+      - Intravenous
+      - Intramuscular
+      - Subcutaneous
+      - Topical
+      - Inhalation
+      - Other
+      required: true
+    - id: 16
+      name: quantity_requested
+      label: Quantity Requested
+      hint: Number of doses or units required
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: administration_schedule
+      label: Administration Schedule
+      hint: When and how often the medication should be given
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: request_urgency_section
+      label: Request Urgency
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this medication request?
+      type: select_one
+      options:
+      - STAT (Immediate)
+      - ASAP (As Soon As Possible)
+      - Routine
+      required: true
+    - id: 20
+      name: reason_for_urgency
+      label: Reason for Urgency
+      hint: Why is this medication needed urgently?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: prescribing_physician
+      label: Prescribing Physician
+      hint: Name of the physician who prescribed the medication
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: order_date_time
+      label: Order Date and Time
+      hint: When was the medication order written?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: safety_verification_section
+      label: Safety Verification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: drug_interactions_checked
+      label: Drug Interactions Checked
+      hint: Have potential drug interactions been checked?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unable to verify
+      required: true
+    - id: 25
+      name: patient_allergies_known
+      label: Patient Allergies Known
+      hint: Are the patient's allergies documented and known?
+      type: select_one
+      options:
+      - true
+      - false
+      - Unable to verify
+      required: true
+    - id: 26
+      name: allergies_details
+      label: Allergy Details
+      hint: If known, list patient allergies
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: special_handling_requirements
+      label: Special Handling Requirements
+      hint: Does this medication require special handling (refrigeration, light sensitivity,
+        etc.)?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: special_handling_details
+      label: Special Handling Details
+      hint: If yes, describe special handling requirements
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: request_verification_section
+      label: Request Verification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: requester_signature
+      label: Requester Signature
+      hint: Electronic signature of the person requesting medication
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: request_timestamp
+      label: Request Timestamp
+      hint: Date and time of request submission
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: pharmacist_verification
+      label: Pharmacist Verification
+      hint: To be filled by pharmacist upon dispensing
+      type: text
+      options: []
+      required: false

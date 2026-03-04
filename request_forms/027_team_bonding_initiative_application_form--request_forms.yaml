@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Bonding Initiative Application Form
+    pages:
+    - id: 1
+      name: team_bonding_initiative_application_form_page_1
+      label: Team Bonding Initiative Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_bonding_initiative_activity_name
+      label: team_bonding_initiative_activity_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_bonding_initiative_activity_date
+      label: team_bonding_initiative_activity_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: team_bonding_initiative_location
+      label: team_bonding_initiative_location
+      hint: null
+      type: select_one
+      options:
+      - Activity 1
+      - Activity 2
+      required: false
+    - id: 5
+      name: team_bonding_initiative_number_of_participants
+      label: team_bonding_initiative_number_of_participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: team_bonding_initiative_budget
+      label: team_bonding_initiative_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: team_bonding_initiative_comments
+      label: team_bonding_initiative_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: team_bonding_initiative_manager_comments
+      label: team_bonding_initiative_manager_comments
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: team_bonding_initiative_hr_approvals
+      label: team_bonding_initiative_hr_approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 10
+      name: team_bonding_initiative_email
+      label: team_bonding_initiative_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: team_bonding_initiative_phone
+      label: team_bonding_initiative_phone
+      hint: null
+      type: text
+      options: []
+      required: false

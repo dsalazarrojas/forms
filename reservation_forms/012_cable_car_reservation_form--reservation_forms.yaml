@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cable Car Reservation Form
+    pages:
+    - id: 1
+      name: primary_guest_name
+      label: Primary Guest Name
+      hint: Full name of person making reservation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For confirmation and updates
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number for day of visit
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reservation_date
+      label: Reservation Date
+      hint: Desired date for cable car ride
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: preferred_time
+      label: Preferred Time Slot
+      hint: Select your preferred departure time
+      type: select_one
+      options:
+      - 9:00 AM - 10:00 AM
+      - 10:00 AM - 11:00 AM
+      - 11:00 AM - 12:00 PM
+      - 12:00 PM - 1:00 PM
+      - 1:00 PM - 2:00 PM
+      - 2:00 PM - 3:00 PM
+      - 3:00 PM - 4:00 PM
+      - 4:00 PM - 5:00 PM
+      required: true
+    - id: 6
+      name: number_of_adults
+      label: Number of Adults
+      hint: Ages 13 and above
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: number_of_children
+      label: Number of Children
+      hint: Ages 3-12
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: number_of_seniors
+      label: Number of Seniors
+      hint: Ages 65 and above
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: total_party_size
+      label: Total Party Size
+      hint: Total number in your group
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: ticket_type
+      label: Ticket Type
+      hint: Type of experience selected
+      type: select_one
+      options:
+      - Round trip
+      - One way uphill
+      - One way downhill
+      - Sunset special
+      - VIP experience
+      required: true
+    - id: 11
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Does anyone in your party require assistance
+      type: select_one
+      options:
+      - No assistance needed
+      - Wheelchair accessible car
+      - Mobility assistance
+      - Service animal
+      - Other accommodations
+      required: true
+    - id: 12
+      name: accessibility_details
+      label: Accessibility Details
+      hint: Please describe specific needs
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_occasion
+      label: Special Occasion
+      hint: Are you celebrating something special
+      type: select_one
+      options:
+      - None
+      - Birthday
+      - Anniversary
+      - Honeymoon
+      - Family reunion
+      - Other
+      required: false
+    - id: 14
+      name: weather_acknowledgment
+      label: Weather Acknowledgment
+      hint: Cable car operates weather permitting
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Free cancellation up to 24 hours before
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: photo_package_interest
+      label: Photo Package Interest
+      hint: Would you like to add a photo package
+      type: select_one
+      options:
+      - Yes, add to reservation
+      - Maybe at location
+      - No thanks
+      required: false
+    - id: 17
+      name: dining_reservation
+      label: Dining Reservation Interest
+      hint: Would you like restaurant reservation at summit
+      type: select_one
+      options:
+      - Yes, please book
+      - Interested in information
+      - No thanks
+      required: false
+    - id: 18
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: How did you learn about cable car
+      type: select_one
+      options:
+      - Hotel concierge
+      - Tourism website
+      - Social media
+      - Friend or family
+      - Travel agent
+      - Other
+      required: false
+    - id: 19
+      name: additional_requests
+      label: Additional Requests
+      hint: Any special requests or questions
+      type: text
+      options: []
+      required: false

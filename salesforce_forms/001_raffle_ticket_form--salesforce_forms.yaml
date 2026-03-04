@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Raffle Ticket Form
+    pages:
+    - id: 1
+      name: entry_1
+      label: Enter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: entry_2
+      label: Enter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: entry_3
+      label: Select a Ticket
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Ticket 1'', ''value'': ''Ticket 1''}'
+      - '{''id'': 2, ''name'': ''Ticket 2'', ''value'': ''Ticket 2''}'
+      - '{''id'': 3, ''name'': ''Ticket 3'', ''value'': ''Ticket 3''}'
+      required: false
+    - id: 4
+      name: entry_4
+      label: Select a Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: entry_5
+      label: Select a Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: entry_6
+      label: Ticket Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: entry_7
+      label: Payment Options
+      hint: Select a payment option from the list below
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''PayPal'', ''value'': ''PayPal''}'
+      - '{''id'': 2, ''name'': ''Stripe'', ''value'': ''Stripe''}'
+      - '{''id'': 3, ''name'': ''Authorize Net'', ''value'': ''Authorize Net''}'
+      required: false
+    - id: 8
+      name: entry_8
+      label: Total Amount
+      hint: Enter total amount
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: entry_9
+      label: Ticket Quantity
+      hint: Enter ticket quantity
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: entry_10
+      label: Order Description
+      hint: Enter ticket description
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: entry_11
+      label: Order Date
+      hint: Enter order date
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: entry_12
+      label: Total Price
+      hint: Enter total price
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: entry_13
+      label: Payment Status
+      hint: Payment status
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Paid'', ''value'': ''Paid''}'
+      - '{''id'': 2, ''name'': ''Not Paid'', ''value'': ''Not Paid''}'
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Online Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: Please enter your first name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: Please enter a valid email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: restaurant_name
+      label: restaurant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: type_of_food
+      label: type_of_food
+      hint: null
+      type: select_one
+      options:
+      - American
+      - Chinese
+      - Japanese
+      - Indian
+      - Italian
+      required: false
+    - id: 7
+      name: cuisine
+      label: cuisine
+      hint: Select one or more
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Non-Vegetarian
+      - Seafood
+      - Mexican
+      - BBQ
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: Any additional information
+      type: note
+      options: []
+      required: false

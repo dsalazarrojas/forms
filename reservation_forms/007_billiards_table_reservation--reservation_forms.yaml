@@ -1,0 +1,224 @@
+inputSchema:
+  type: object
+  properties:
+    title: Billiards Table Reservation
+    pages:
+    - id: 1
+      name: player_information
+      label: Player Information
+      hint: Enter your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Email for reservation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number for updates
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: group_size
+      label: Number of Players
+      hint: How many people in your group
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reservation_details
+      label: Reservation Details
+      hint: Select your preferred time slot
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reservation_date
+      label: Reservation Date
+      hint: When would you like to play
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reservation_time
+      label: Reservation Time
+      hint: Preferred start time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: duration
+      label: Duration
+      hint: How long do you want to play
+      type: select_one
+      options:
+      - 1 Hour
+      - 2 Hours
+      - 3 Hours
+      - 4 Hours
+      - Full Day (8 Hours)
+      required: true
+    - id: 11
+      name: table_type
+      label: Table Type
+      hint: Select your preferred table
+      type: select_one
+      options:
+      - Standard Pool Table
+      - Tournament Table
+      - Snooker Table
+      - Carom Table
+      - Any Available Table
+      required: true
+    - id: 12
+      name: table_preference
+      label: Table Number Preference
+      hint: Specific table if you have a preference
+      type: select_one
+      options:
+      - No Preference
+      - Table 1
+      - Table 2
+      - Table 3
+      - Table 4
+      - Table 5
+      - Table 6
+      required: true
+    - id: 13
+      name: skill_level
+      label: Skill Level
+      hint: Describe your playing ability
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Professional
+      - Mixed Group
+      required: true
+    - id: 14
+      name: additional_services
+      label: Additional Services
+      hint: Would you like to add any extras
+      type: select_multiple
+      options:
+      - Cue Rental
+      - Ball Set Upgrade
+      - Lesson with Instructor
+      - Food and Beverage Package
+      - Private Room
+      - Tournament Scoring
+      required: false
+    - id: 15
+      name: food_beverage
+      label: Food and Beverage
+      hint: Do you want to order refreshments
+      type: select_one
+      options:
+      - No Thanks
+      - View Menu at Venue
+      - Pre-Order Snacks
+      - Pre-Order Full Meal
+      - Beverage Package Only
+      required: true
+    - id: 16
+      name: special_occasion
+      label: Special Occasion
+      hint: Are you celebrating something
+      type: select_one
+      options:
+      - None - Just Playing
+      - Birthday Party
+      - Bachelor Party
+      - Team Building Event
+      - Tournament Practice
+      - Date Night
+      required: false
+    - id: 17
+      name: special_requests
+      label: Special Requests
+      hint: Any special accommodations needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay for the reservation
+      type: select_one
+      options:
+      - Pay at Venue
+      - Credit Card Hold
+      - Pre-Pay Online
+      - Gift Card
+      - Membership Account
+      required: true
+    - id: 19
+      name: deposit_amount
+      label: Deposit Amount
+      hint: Required deposit to hold reservation
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: cancellation_policy
+      label: Cancellation Policy
+      hint: Understand our cancellation terms
+      type: select_one
+      options:
+      - I understand 24-hour cancellation notice is required
+      - I agree to the cancellation policy terms
+      required: true
+    - id: 21
+      name: house_rules
+      label: House Rules Agreement
+      hint: Agree to venue rules
+      type: select_one
+      options:
+      - I agree to follow all house rules and etiquette
+      - I understand proper attire and behavior is required
+      required: true
+    - id: 22
+      name: membership_status
+      label: Membership Status
+      hint: Are you a member of our club
+      type: select_one
+      options:
+      - Not a Member
+      - Current Member
+      - Former Member
+      - Interested in Membership
+      required: false
+    - id: 23
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Help us improve our marketing
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Friend or Family
+      - Walk By
+      - Advertisement
+      - Previous Visit
+      required: false

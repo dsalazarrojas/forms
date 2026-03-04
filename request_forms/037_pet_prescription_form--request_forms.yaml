@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Prescription Form
+    pages:
+    - id: 1
+      name: pet_prescription_form
+      label: pet_prescription_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pet_species
+      label: pet_species
+      hint: null
+      type: select_one
+      options:
+      - cat
+      - dog
+      - bird
+      - fish
+      required: false
+    - id: 4
+      name: pet_weight
+      label: pet_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_condition
+      label: medical_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: treatment_plan
+      label: treatment_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: veterinarian
+      label: veterinarian
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Thompson
+      required: false
+    - id: 10
+      name: prescription_dosage
+      label: prescription_dosage
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: prescription_type
+      label: prescription_type
+      hint: null
+      type: select_one
+      options:
+      - medication
+      - food
+      - supplement
+      required: false
+    - id: 13
+      name: expiration_date
+      label: expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: prescription_status
+      label: prescription_status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - rejected
+      required: false

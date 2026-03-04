@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Voice Commerce Integration Application Form
+    pages:
+    - id: 1
+      name: voice_commerce_integration_form
+      label: Integration Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: voice_commerce_features
+      label: Voice Features
+      hint: null
+      type: select_one
+      options:
+      - Voice Assistant
+      - Voice Assistant with Display
+      - Voice Assistant with Display and Text-to-Speech
+      - Text-to-Speech Only
+      - No Voice Assistant
+      required: true
+    - id: 4
+      name: voice_commerce_channels
+      label: Voice Channels
+      hint: null
+      type: select_multiple
+      options:
+      - Amazon Alexa
+      - Google Assistant
+      - Google Assistant with Display
+      - Other
+      required: true
+    - id: 5
+      name: ecom_platforms
+      label: Ecom Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Shopify
+      - WooCommerce
+      - BigCommerce
+      - Other
+      required: true
+    - id: 6
+      name: ecom_storefronts
+      label: Ecom Storefronts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ecom_storefront_ids
+      label: Ecom Storefront IDs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: payment_gateways
+      label: Payment Gateways
+      hint: null
+      type: select_multiple
+      options:
+      - PayPal
+      - Stripe
+      - Authorize.net
+      - Other
+      required: true
+    - id: 9
+      name: voice_commerce_regions
+      label: Voice Commerce Regions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

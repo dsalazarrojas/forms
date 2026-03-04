@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Helipad Helicopter Reservation Form
+    pages:
+    - id: 1
+      name: user
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility
+      label: Facility Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: venue
+      label: Venue Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: flight_details
+      label: Flight Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: arrival
+      label: Arrival
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: departure
+      label: Departure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true

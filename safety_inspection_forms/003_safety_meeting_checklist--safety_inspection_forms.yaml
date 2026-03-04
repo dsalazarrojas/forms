@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Meeting Checklist
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: meeting_location
+      label: meeting_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: meeting_attendees
+      label: meeting_attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: meeting_leaders
+      label: meeting_leaders
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: hazards_found
+      label: hazards_found
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: action_plans
+      label: action_plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_meeting_date
+      label: next_meeting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: next_meeting_location
+      label: next_meeting_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_meeting_leaders
+      label: next_meeting_leaders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_meeting_notes
+      label: next_meeting_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: safety_meeting_notes
+      label: safety_meeting_notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,117 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Layover Exit Permission Request Form
+    pages:
+    - id: 1
+      name: layover_exit_permission_request
+      label: layover_exit_permission_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: travel_agency
+      label: travel_agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: layover_exit_time
+      label: layover_exit_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: airline
+      label: airline
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: passenger_id
+      label: passenger_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: travel_documents
+      label: travel_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_layover
+      label: reason_for_layover
+      hint: null
+      type: select_one
+      options:
+      - No Reason Specified
+      - Weather
+      - Mechanical Issues
+      - Flight Schedule Change
+      - Connection Delay
+      - Medical Issue
+      - Passport Issues
+      - Other
+      required: true
+    - id: 9
+      name: flight_departure_time
+      label: flight_departure_time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: flight_arrival_time
+      label: flight_arrival_time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: travel_agency_contact
+      label: travel_agency_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: layover_exit_permission
+      label: layover_exit_permission
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      required: true
+    - id: 13
+      name: reason_for_denial
+      label: reason_for_denial
+      hint: null
+      type: text
+      options: []
+      required: false

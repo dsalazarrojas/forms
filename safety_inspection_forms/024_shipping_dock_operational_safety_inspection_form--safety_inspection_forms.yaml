@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: shipping_dock_operational_safety_inspection_form
+    pages:
+    - id: 1
+      name: general
+      label: General
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''North Dock''}'
+      - '{''value'': ''South Dock''}'
+      - '{''value'': ''East Dock''}'
+      - '{''value'': ''West Dock''}'
+      required: true
+    - id: 3
+      name: hazards
+      label: Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Spill''}'
+      - '{''value'': ''Fall''}'
+      - '{''value'': ''Fire''}'
+      required: true
+    - id: 4
+      name: findings
+      label: Findings
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inspector_email
+      label: Inspector Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: inspector_phone
+      label: Inspector Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: location_latitude
+      label: Location Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: location_longitude
+      label: Location Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: location_altitude
+      label: Location Altitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: location_address
+      label: Location Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: location_city
+      label: Location City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: location_state
+      label: Location State
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''CA''}'
+      - '{''value'': ''NY''}'
+      - '{''value'': ''TX''}'
+      required: false
+    - id: 21
+      name: location_country
+      label: Location Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location_zip
+      label: Location Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: location_notes
+      label: Location Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: assigned_to_name
+      label: Assigned To Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to_email
+      label: Assigned To Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 26
+      name: assigned_to_phone
+      label: Assigned To Phone
+      hint: null
+      type: text
+      options: []
+      required: false

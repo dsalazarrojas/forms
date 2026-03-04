@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fine Dining Reservation Form
+    pages:
+    - id: 1
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reservation_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: reservation_time_end
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: reservation_party_size
+      label: Party size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reservation_dietary_restrictions
+      label: Dietary restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: reservation_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: reservation_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: reservation_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 10
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reservation_message
+      label: Reservation Message
+      hint: null
+      type: text
+      options: []
+      required: false

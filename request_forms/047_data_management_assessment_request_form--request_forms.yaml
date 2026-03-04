@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Management Assessment Request Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_challengers
+      label: Data Challengers
+      hint: List the names of all data challengers
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: data_goal
+      label: Data Goal
+      hint: Describe the data goal or objective
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_challenge_description
+      label: Data Challenge Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: Priority
+      hint: High, Medium, Low
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: deadline
+      label: Deadline
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

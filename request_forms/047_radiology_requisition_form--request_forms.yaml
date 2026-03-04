@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: radiology_requisition_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_dob
+      label: Date of Birth
+      hint: Use MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_name
+      label: Facility Name
+      hint: Enter facility name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: radiology_order
+      label: Radiology Order
+      hint: null
+      type: select_one
+      options:
+      - X-ray
+      - MRI
+      - CT Scan
+      - Ultrasound
+      - Mammogram
+      required: false
+    - id: 7
+      name: patient_id_number
+      label: Patient ID Number
+      hint: Enter patient ID number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: order_description
+      label: Order Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: patient_notes
+      label: Patient Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: false

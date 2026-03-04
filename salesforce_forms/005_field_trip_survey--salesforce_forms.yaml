@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Trip Survey
+    pages:
+    - id: 1
+      name: field_trip_survey
+      label: Field Trip Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: field_trip_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: field_trip_start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: field_trip_end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_organizer
+      label: event_organizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: teacher
+      label: teacher
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_feedback
+      label: student_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: field_trip_cost
+      label: field_trip_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: student_participated
+      label: student_participated
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: student_participated_other
+      label: student_participated_other
+      hint: null
+      type: text
+      options: []
+      required: false

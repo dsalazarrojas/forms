@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Design Request Form
+    pages:
+    - id: 1
+      name: website_design_request_form_1
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: website_design_request_form_2
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: website_design_request_form_3
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: website_design_request_form_4
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: website_design_request_form_5
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: website_design_request_form_6
+      label: Perceive the Design in Detail
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: website_design_request_form_7
+      label: Offer Additional Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: website_design_request_form_8
+      label: Ask for Comments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

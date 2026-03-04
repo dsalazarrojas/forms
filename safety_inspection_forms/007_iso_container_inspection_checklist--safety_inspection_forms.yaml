@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: ISO Container Inspection Checklist
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: condition_of_iso_container
+      label: Condition of ISO Container
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      - Critical
+      required: false
+    - id: 3
+      name: container_labeling
+      label: Container Labeling
+      hint: null
+      type: select_multiple
+      options:
+      - Proper Labeling
+      - Proper Labeling but not readable
+      - Missing Label
+      - Incorrect Labeling
+      required: false
+    - id: 4
+      name: container_condition
+      label: Container Condition
+      hint: Check if the container is in good condition.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: seal_type
+      label: Seal Type
+      hint: Check if all seals are properly applied.
+      type: select_multiple
+      options:
+      - Proper Seal Application
+      - Missing Seal
+      - Improper Seal Application
+      - Seal is broken
+      required: false
+    - id: 6
+      name: seal_condition
+      label: Seal Condition
+      hint: Check the condition of the seal.
+      type: select_multiple
+      options:
+      - Good
+      - Damaged
+      - Broken
+      required: false
+    - id: 7
+      name: container_size_and_weight
+      label: Container Size and Weight
+      hint: Check if the container is the correct size and weight.
+      type: note
+      options: []
+      required: false

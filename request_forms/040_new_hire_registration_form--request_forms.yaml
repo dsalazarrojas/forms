@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire Registration Form
+    pages:
+    - id: 1
+      name: new_hire_registration_form_page_1
+      label: New Hire Registration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: new_hire_next_area_of_work
+      label: Next Area Of Work
+      hint: null
+      type: select_one
+      options:
+      - New IT Department
+      - New Sales Department
+      - New Marketing Department
+      required: false
+    - id: 3
+      name: title_of_work
+      label: Title Of Work
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: new_hire_related_office
+      label: Related Office
+      hint: null
+      type: select_one
+      options:
+      - New IT Office
+      - New Marketing Office
+      - New Sales Office
+      required: false
+    - id: 5
+      name: job_order
+      label: Job Order
+      hint: null
+      type: select_multiple
+      options:
+      - New IT Department
+      - New Marketing Department
+      - New Sales Department
+      required: false
+    - id: 6
+      name: tools_involved
+      label: Tools Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: new_hire_progress_monitoring
+      label: New Hire Progress Monitoring
+      hint: null
+      type: select_multiple
+      options:
+      - New IT Department
+      - New Marketing Department
+      - New Sales Department
+      required: false
+    - id: 8
+      name: office_requesting_job_order
+      label: Office Requesting Job Order
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: job_order_description
+      label: Job Order Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Joe Doe
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: new_hire_notes
+      label: New Hire Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: select_one
+      options:
+      - Jane Doe
+      - John Doe
+      - Joe Doe
+      required: false
+    - id: 16
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: select_one
+      options:
+      - jane@example.com
+      - john@example.com
+      - joe@example.com
+      required: false
+    - id: 17
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: select_one
+      options:
+      - '1234567890'
+      - '9876543210'
+      - 0123456789
+      required: false
+    - id: 18
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: admin_notes
+      label: Admin Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: admin_approvals
+      label: Admin Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: admin_name
+      label: Admin Name
+      hint: null
+      type: select_one
+      options:
+      - Jane Doe
+      - John Doe
+      - Joe Doe
+      required: false
+    - id: 22
+      name: admin_email
+      label: Admin Email
+      hint: null
+      type: select_one
+      options:
+      - jane@example.com
+      - john@example.com
+      - joe@example.com
+      required: false
+    - id: 23
+      name: admin_phone
+      label: Admin Phone
+      hint: null
+      type: select_one
+      options:
+      - '1234567890'
+      - '9876543210'
+      - 0123456789
+      required: false
+    - id: 24
+      name: admin_comment
+      label: Admin Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: new_hire_status
+      label: New Hire Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Pending
+      - Active
+      required: false
+    - id: 26
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

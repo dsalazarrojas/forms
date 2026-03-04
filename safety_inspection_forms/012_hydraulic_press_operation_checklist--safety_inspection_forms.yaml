@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydraulic Press Operation Checklist
+    pages:
+    - id: 1
+      name: safety_protocol
+      label: Safety Protocol
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: operational_procedure
+      label: Operational Procedure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pre_use_checklist
+      label: Pre-Use Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: post_use_checklist
+      label: Post-Use Checklist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: operator_name
+      label: Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: operator_email
+      label: Operator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date_last_used
+      label: Date Last Used
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: hours_run
+      label: Hours Run
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: cycles_completed
+      label: Cycles Completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: oil_used
+      label: Oil Used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: last_oil_change
+      label: Last Oil Change
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: last_oil_change_date
+      label: Last Oil Change Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: hydraulic_system
+      label: Hydraulic System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: hydraulic_system_condition
+      label: Hydraulic System Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pressure_test
+      label: Pressure Test
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_status
+      label: Maintenance Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: maintenance_frequency
+      label: Maintenance Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: next_maintenance_due_date
+      label: Next Maintenance Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: maintenance_completed
+      label: Maintenance Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: last_maintenance
+      label: Last Maintenance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: maintenance_last_maintained_by
+      label: Last Maintained By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: maintenance_last_maintained_date
+      label: Last Maintained Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: maintenance_last_maintained_reason
+      label: Last Maintained Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

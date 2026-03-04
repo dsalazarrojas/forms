@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Partners Appreciation Day RSVP
+    pages:
+    - id: 1
+      name: section_event_info
+      label: -- Event Information --
+      type: note
+      required: false
+    - id: 2
+      name: event_title
+      label: Event Title
+      hint: Business Partners Appreciation Day
+      type: text
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: Date of the appreciation event
+      type: date
+      required: true
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: What time does the event start
+      type: time
+      required: false
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: Where the event will be held
+      type: text
+      required: false
+    - id: 6
+      name: section_rsvp
+      label: -- RSVP Confirmation --
+      type: note
+      required: false
+    - id: 7
+      name: attending_status
+      label: Will You Be Attending
+      hint: Confirm your attendance
+      type: select_one
+      options:
+      - Yes, I will attend
+      - No, I cannot attend
+      - Undecided
+      required: true
+    - id: 8
+      name: section_attendee_details
+      label: -- Attendee Details --
+      type: note
+      required: false
+    - id: 9
+      name: full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      required: true
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      required: true
+    - id: 11
+      name: contact_email
+      label: Email Address
+      hint: Your email for confirmation
+      type: email
+      required: true
+    - id: 12
+      name: contact_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      required: false
+    - id: 13
+      name: section_guest_info
+      label: -- Guest Information --
+      type: note
+      required: false
+    - id: 14
+      name: number_of_guests
+      label: Number of Guests
+      hint: How many people total will attend
+      type: number
+      required: true
+    - id: 15
+      name: guest_names_list
+      label: Guest Names
+      hint: Names of other attendees if applicable
+      type: text
+      required: false
+    - id: 16
+      name: section_preferences
+      label: -- Event Preferences --
+      type: note
+      required: false
+    - id: 17
+      name: meal_selection
+      label: Meal Preference
+      hint: What would you like to eat
+      type: select_one
+      options:
+      - Meat Entree
+      - Vegetarian Entree
+      - Vegan Entree
+      - Gluten-Free Option
+      - No Meal Required
+      required: true
+    - id: 18
+      name: dietary_restrictions
+      label: Dietary Restrictions or Allergies
+      hint: Any special dietary needs
+      type: text
+      required: false
+    - id: 19
+      name: seating_preferences
+      label: Seating Preferences
+      hint: Any seating preferences
+      type: text
+      required: false
+    - id: 20
+      name: section_engagement
+      label: -- Engagement Interest --
+      type: note
+      required: false
+    - id: 21
+      name: interested_activities
+      label: Activities of Interest
+      hint: Select activities you would like
+      type: select_multiple
+      options:
+      - Networking Session
+      - Product Showcase
+      - Awards Ceremony
+      - Entertainment
+      - Photo Booth
+      - Raffle
+      required: false
+    - id: 22
+      name: partner_feedback
+      label: What We Could Do Better
+      hint: Suggestions for future events
+      type: text
+      required: false
+    - id: 23
+      name: parking_required
+      label: Parking Required
+      hint: Do you need parking assistance
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

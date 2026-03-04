@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Satisfaction Survey
+    pages:
+    - id: 1
+      name: parent_satisfaction_survey_title
+      label: Parent Satisfaction Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parent_program_rating
+      label: parent_program_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: parent_satisfaction_score
+      label: parent_satisfaction_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: parent_satisfaction_comments
+      label: parent_satisfaction_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: parent_program_rating_important
+      label: parent_program_rating_important
+      hint: null
+      type: select_one
+      options:
+      - 1 - Excellent
+      - 2 - Good
+      - 3 - Fair
+      - 4 - Poor
+      - 5 - Very Poor
+      required: false
+    - id: 6
+      name: parent_recommendation
+      label: parent_recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Not Likely
+      - Not at All Likely
+      required: false
+    - id: 7
+      name: parent_satisfaction_comments
+      label: parent_satisfaction_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_program_rating_important
+      label: parent_program_rating_important
+      hint: null
+      type: select_one
+      options:
+      - 1 - Excellent
+      - 2 - Good
+      - 3 - Fair
+      - 4 - Poor
+      - 5 - Very Poor
+      required: false
+    - id: 9
+      name: parent_satisfaction_survey_date
+      label: parent_satisfaction_survey_date
+      hint: null
+      type: date
+      options: []
+      required: false

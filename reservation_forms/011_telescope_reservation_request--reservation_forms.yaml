@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Telescope Reservation Request
+    pages:
+    - id: 1
+      name: telescope_reservation_request
+      label: Reservation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: observer_name
+      label: Observer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: observer_email
+      label: Observer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: telescope_type
+      label: Telescope Type
+      hint: null
+      type: select_one
+      options:
+      - SCT
+      - MCT
+      - Cassegrain
+      required: false
+    - id: 6
+      name: reservation_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: reservation_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reservation_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reservation_status
+      label: Reservation Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Reserved
+      - Closed
+      required: false
+    - id: 10
+      name: equipment_preferences
+      label: Equipment Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: reservation_comments
+      label: Reservation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: equipment_availability
+      label: Equipment Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: observation_target
+      label: Observation Target
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: telescope_location
+      label: Telescope Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: observer_note
+      label: Observer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reservation_requester
+      label: Reservation Requester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: telescope_reservation_requester_email
+      label: Telescope Reservation Requester Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: equipment_reservation_requester_phone
+      label: Equipment Reservation Requester Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: telescope_reservation_requester_organization
+      label: Telescope Reservation Requester Organization
+      hint: null
+      type: text
+      options: []
+      required: false

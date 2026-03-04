@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Release Order Form
+    pages:
+    - id: 1
+      name: release_order_form
+      label: release_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_details
+      label: recipient_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: release_time
+      label: release_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: release_note
+      label: release_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: recipient_email
+      label: recipient_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: recipient_phone
+      label: recipient_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: release_authorizer
+      label: release_authorizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Audit Feedback Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: risk_assessment
+      label: Risk Assessment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: risk_description
+      label: Risk Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: audit_areas
+      label: Audit Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Audit of financial statements
+      - Audit of internal controls
+      - Audit of internal processes
+      required: false
+    - id: 6
+      name: finance_survey
+      label: Finance Survey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: audit_team_satisfaction
+      label: Audit Team Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 8
+      name: process_satisfaction
+      label: Process Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 9
+      name: improvement_recommendations
+      label: Improvement Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false

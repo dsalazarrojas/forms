@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Culture Suggestion Request Form
+    pages:
+    - id: 1
+      name: employee_ideas
+      label: Employee Ideas
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: improvement_priority
+      label: Improvement Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_email
+      label: Employee E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Director
+      - Other
+      required: false
+    - id: 10
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Specified
+      required: true
+    - id: 11
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false

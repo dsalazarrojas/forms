@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: (Slick Client's) L'Oréal's Professional Consultation Form
+    pages:
+    - id: 1
+      name: section_header_client_info
+      label: '--- Client Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client's Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: Optional, for age-specific recommendations
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you for follow-up?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - SMS Text
+      - No Preference
+      required: true
+    - id: 7
+      name: section_header_hair_scalp
+      label: '--- Hair & Scalp Consultation ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: hair_type
+      label: Hair Type
+      hint: null
+      type: select_one
+      options:
+      - Fine
+      - Medium
+      - Thick
+      required: true
+    - id: 9
+      name: hair_texture
+      label: Hair Texture
+      hint: null
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily
+      required: true
+    - id: 10
+      name: scalp_condition
+      label: Scalp Condition
+      hint: null
+      type: select_one
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Sensitive
+      - Dandruff
+      - Other (describe in concerns)
+      required: true
+    - id: 11
+      name: current_hair_concerns
+      label: Current Hair Concerns (select all that apply)
+      hint: What issues are you experiencing with your hair?
+      type: select_multiple
+      options:
+      - Dryness
+      - Oiliness
+      - Breakage
+      - Frizz
+      - Hair loss/Thinning
+      - Dandruff/Flakiness
+      - Sensitivity
+      - Dullness/Lack of Shine
+      - Color Fade
+      required: false
+    - id: 12
+      name: previous_chemical_treatments
+      label: Previous Chemical Treatments (select all that apply)
+      hint: What chemical treatments have you had?
+      type: select_multiple
+      options:
+      - Coloring
+      - Highlights/Balayage
+      - Perm
+      - Relaxer
+      - Keratin/Smoothing Treatment
+      - Bleaching
+      - None
+      required: false
+    - id: 13
+      name: last_professional_service_date
+      label: Date of last professional hair service
+      hint: When was your last salon visit?
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: desired_hair_goals
+      label: Your Desired Hair Goals for this Visit
+      hint: Describe your ideal hair look, feel, or health goals.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: client_allergies_sensitivities
+      label: Allergies or Sensitivities
+      hint: Please list any known allergies or sensitivities to products/ingredients.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_stylist_recs
+      label: '--- Stylist Recommendations ---'
+      hint: For consultant/stylist use.
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: consultation_date
+      label: Consultation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: consultant_stylist_name
+      label: Consultant/Stylist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: recommended_service_plan
+      label: Recommended Service Plan
+      hint: Detailed description of services to be performed today.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: recommended_loreal_products
+      label: Recommended L'Oréal Professionnel Products
+      hint: List products for home care regimen, including quantities.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: estimated_total_cost
+      label: Estimated Total Cost (USD)
+      hint: Approximate cost for services and recommended products.
+      type: decimal
+      options: []
+      required: false
+    - id: 22
+      name: stylist_internal_notes
+      label: Stylist's Internal Notes
+      hint: Any further observations or instructions for future reference.
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_client_consent
+      label: '--- Client Acknowledgment & Consent ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: client_agreement
+      label: I agree to proceed with the recommended services and understand the estimated
+        cost.
+      hint: Your agreement helps us provide the best service.
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I have further questions
+      required: true
+    - id: 25
+      name: client_electronic_signature
+      label: Electronic Signature
+      hint: Type your full name to acknowledge your consent to this consultation.
+      type: text
+      options: []
+      required: true

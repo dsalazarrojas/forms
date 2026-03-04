@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Strata Records Search Request
+    pages:
+    - id: 1
+      name: strata_records_search_request
+      label: strata_records_search_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: strata_type
+      label: strata_type
+      hint: null
+      type: select_one
+      options:
+      - strata_plan
+      - freehold
+      required: true
+    - id: 3
+      name: strata_manager_id
+      label: strata_manager_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: strata_document_type
+      label: strata_document_type
+      hint: null
+      type: select_one
+      options:
+      - building plans
+      - financial reports
+      required: true
+    - id: 5
+      name: strata_plan_id
+      label: strata_plan_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - building plans
+      - financial reports
+      - other
+      required: true
+    - id: 8
+      name: document_id
+      label: document_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: search_date
+      label: search_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: search_time
+      label: search_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: strata_name
+      label: strata_name
+      hint: null
+      type: text
+      options: []
+      required: false

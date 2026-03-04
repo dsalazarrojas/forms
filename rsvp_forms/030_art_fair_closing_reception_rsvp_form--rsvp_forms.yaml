@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Fair Closing Reception RSVP Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest name
+      hint: Full name for RSVP
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: number_attending
+      label: Number attending
+      hint: Total guests in your party
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: ticket_preference
+      label: Ticket preference
+      hint: Seating or standing preference
+      type: select_one
+      options:
+      - General admission
+      - VIP
+      - Press
+      required: true
+    - id: 5
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: For catered reception
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: accessibility_needs
+      label: Accessibility needs
+      hint: Any mobility or sensory needs
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: plus_one_name
+      label: Plus one name
+      hint: Name of additional guest if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_consent
+      label: Photo consent
+      hint: Permission for event photography
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: Any other information for organizers
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,305 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Patient Information Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: Patient First Name
+      hint: Given name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Family name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 5
+      name: ssn
+      label: Social Security Number
+      hint: XXX-XX-XXXX
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Street Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: home_phone
+      label: Home Phone
+      hint: Home number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: mobile_phone
+      label: Mobile Phone
+      hint: Cell number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How to reach you
+      type: select_one
+      options:
+      - Phone Call
+      - Text Message
+      - Email
+      - Mail
+      required: true
+    - id: 14
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relation to patient
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Friend
+      - Other
+      required: true
+    - id: 17
+      name: primary_language
+      label: Primary Language
+      hint: Best language
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Chinese
+      - French
+      - Arabic
+      - Other
+      required: true
+    - id: 18
+      name: interpreter_needed
+      label: Interpreter Needed
+      hint: Do you need translation
+      type: select_one
+      options:
+      - Yes Required
+      - No Not Needed
+      required: true
+    - id: 19
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Member ID
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: insurance_group
+      label: Insurance Group Number
+      hint: Group ID
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: policy_holder
+      label: Policy Holder Name
+      hint: If different from patient
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: primary_care_physician
+      label: Primary Care Physician
+      hint: Doctor name
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: pcp_phone
+      label: PCP Phone
+      hint: Doctor contact
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reason_for_visit
+      label: Reason for Visit
+      hint: Chief complaint
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: current_medications
+      label: Current Medications
+      hint: List all medications
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: medication_allergies
+      label: Medication Allergies
+      hint: Drug allergies
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: medical_conditions
+      label: Current Medical Conditions
+      hint: Chronic conditions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: previous_surgeries
+      label: Previous Surgeries
+      hint: Past surgical history
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: family_medical_history
+      label: Family Medical History
+      hint: Relevant family conditions
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: hipaa_acknowledgment
+      label: HIPAA Privacy Practices Acknowledgment
+      hint: You have received notice
+      type: select_one
+      options:
+      - I Acknowledge Receipt
+      - I Decline to Sign
+      required: true
+    - id: 32
+      name: consent_to_treat
+      label: Consent to Treatment
+      hint: Do you consent
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true
+    - id: 33
+      name: information_release
+      label: Information Release Authorization
+      hint: Who can receive your info
+      type: select_one
+      options:
+      - No Release Authorized
+      - Emergency Contact Only
+      - Primary Care Physician
+      - Insurance Company
+      - Family Member - Will Specify
+      required: true
+    - id: 34
+      name: release_details
+      label: Release Details
+      hint: Specify authorized persons
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: patient_signature
+      label: Patient Signature
+      hint: I certify this information
+      type: select_one
+      options:
+      - I Certify
+      - Guardian Signs
+      required: true
+    - id: 36
+      name: guardian_name
+      label: Guardian Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: guardian_relationship
+      label: Guardian Relationship
+      hint: Relation to patient
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: signature_date
+      label: Date of Signature
+      hint: Today date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: thanksgiving_request_form
+    pages:
+    - id: 1
+      name: request_type
+      label: request_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''food_request'', ''label'': ''Food Request''}'
+      - '{''id'': 2, ''name'': ''other_request'', ''label'': ''Other Request''}'
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false

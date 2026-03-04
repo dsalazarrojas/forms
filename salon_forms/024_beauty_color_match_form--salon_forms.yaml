@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Color Match Form
+    pages:
+      - id: 1
+        name: client_header
+        label: -- Client Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: client_name
+        label: Client Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: visit_date
+        label: Visit Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: service_type_header
+        label: -- Service Type --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: service_type
+        label: Service Type
+        hint: null
+        type: select_one
+        options: [Makeup Color Match, Hair Color Match, Both]
+        required: true
+      - id: 6
+        name: makeup_header
+        label: -- Makeup Color Match --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: skin_tone
+        label: Skin Tone
+        hint: null
+        type: select_one
+        options: [Fair, Light, Medium, Olive, Tan, Deep]
+        required: true
+      - id: 8
+        name: skin_undertone
+        label: Skin Undertone
+        hint: null
+        type: select_one
+        options: [Warm, Cool, Neutral, Mixed]
+        required: true
+      - id: 9
+        name: eye_color
+        label: Eye Color
+        hint: null
+        type: select_one
+        options: [Blue, Green, Brown, Hazel, Amber, Gray]
+        required: true
+      - id: 10
+        name: hair_color
+        label: Hair Color
+        hint: null
+        type: select_one
+        options: [Black, Dark Brown, Brown, Light Brown, Blonde, Red, Gray, Ash Blonde]
+        required: true
+      - id: 11
+        name: makeup_preferences
+        label: Makeup Style Preference
+        hint: Natural, bold, smoky, etc.
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: makeup_concerns
+        label: Makeup Concerns
+        hint: Sensitivity, allergies, etc.
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: hair_header
+        label: -- Hair Color Match --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: current_hair_color
+        label: Current Hair Color
+        hint: null
+        type: select_one
+        options: [Black, Dark Brown, Brown, Light Brown, Blonde, Red, Gray, Multi-colored]
+        required: true
+      - id: 15
+        name: desired_hair_color
+        label: Desired Hair Color
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: color_change_intensity
+        label: How Drastic is the Color Change
+        hint: null
+        type: select_one
+        options: [Same Family - Slight Shift, Same Family - Noticeable Change, Major Shift, Complete Transformation]
+        required: true
+      - id: 17
+        name: hair_condition
+        label: Hair Condition
+        hint: null
+        type: select_one
+        options: [Damaged, Weak, Fair, Healthy, Excellent]
+        required: true
+      - id: 18
+        name: previous_color_treatments
+        label: Previous Color or Chemical Treatments
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: hair_texture
+        label: Hair Texture
+        hint: null
+        type: select_one
+        options: [Straight, Wavy, Curly, Coily]
+        required: true
+      - id: 20
+        name: maintenance_header
+        label: -- Maintenance and Lifestyle --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: maintenance_commitment
+        label: Color Maintenance Commitment
+        hint: How often willing to return for touch-ups
+        type: select_one
+        options: [Monthly, Every 6 Weeks, Every 2 Months, Every 3 Months, Minimal]
+        required: true
+      - id: 22
+        name: sun_exposure
+        label: Sun Exposure Level
+        hint: null
+        type: select_one
+        options: [Minimal, Moderate, High]
+        required: true
+      - id: 23
+        name: product_allergies
+        label: Product Allergies
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: colorist_notes
+        label: Colorist Notes and Recommendations
+        hint: Professional assessment
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: approval
+        label: Client Approves Recommended Color
+        hint: null
+        type: select_one
+        options: ["Yes", "No", "Want to Consult Further"]
+        required: true

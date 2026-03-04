@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmental_inspection_checklist
+    pages:
+    - id: 1
+      name: building_address
+      label: Building Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_last_inspection
+      label: Date of last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_last_inspection
+      label: Time of last Inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: building_age
+      label: Building Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: building_use
+      label: Building Use
+      hint: null
+      type: select_one
+      options:
+      - Building
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 7
+      name: building_location
+      label: Building Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: building_area
+      label: Building Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: number_of_floors
+      label: Number of Floors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: building_height
+      label: Building Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: fire_extinguishing_system
+      label: Fire Extinguishing System
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Non-Working
+      - N/A
+      required: false
+    - id: 14
+      name: fire_extinguishing_system
+      label: Fire Extinguishing System
+      hint: null
+      type: select_multiple
+      options:
+      - Working
+      - Non-Working
+      - N/A
+      required: false
+    - id: 15
+      name: fire_extinguishing_system_notes
+      label: Fire Extinguishing System Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: fire_extinguishing_system_description
+      label: Fire Extinguishing System Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: fire_extinguishing_system_location
+      label: Fire Extinguishing System Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sprinkler_system_status
+      label: Sprinkler System Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: electrical_systems
+      label: Electrical Systems
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: fire_extinguishing_system_type
+      label: Fire Extinguishing System Type
+      hint: null
+      type: select_multiple
+      options:
+      - Wet Pipe System
+      - Dry Pipe System
+      required: false
+    - id: 21
+      name: fire_extinguishing_system_description
+      label: Fire Extinguishing System Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: electrical_systems_notes
+      label: Electrical Systems Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: fire_extinguishing_system_testing
+      label: Fire Extinguishing System Testing
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: fire_extinguishing_system_testing_frequency
+      label: Fire Extinguishing System Testing Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Annually
+      - Bi-Annually
+      required: false
+    - id: 25
+      name: fire_extinguishing_system_testing_frequency
+      label: Fire Extinguishing System Testing Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Annually
+      - Bi-Annually
+      required: false

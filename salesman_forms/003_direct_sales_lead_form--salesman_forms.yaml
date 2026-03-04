@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: direct_sales_lead_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_opt_out
+      label: Email Opt-out
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - Google
+      - Facebook
+      - Twitter
+      required: true
+    - id: 7
+      name: lead_source_others
+      label: Other Lead Sources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sales_stage
+      label: Sales Stage
+      hint: null
+      type: select_one
+      options:
+      - New Lead
+      - Qualified
+      - Closed Won
+      - Closed Lost
+      required: true
+    - id: 9
+      name: sales_stage_others
+      label: Other Sales Stages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: crm_id
+      label: CRM ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: crm_type
+      label: CRM Type
+      hint: null
+      type: select_multiple
+      options:
+      - Salesforce
+      - HubSpot
+      required: true
+    - id: 12
+      name: crm_user_id
+      label: CRM User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: crm_token
+      label: CRM Token
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: custom_data_1
+      label: Custom Data 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: custom_data_2
+      label: Custom Data 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: custom_data_3
+      label: Custom Data 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: custom_data_4
+      label: Custom Data 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: custom_data_5
+      label: Custom Data 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: custom_data_6
+      label: Custom Data 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: custom_data_7
+      label: Custom Data 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: custom_data_8
+      label: Custom Data 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: custom_data_9
+      label: Custom Data 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: custom_data_10
+      label: Custom Data 10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

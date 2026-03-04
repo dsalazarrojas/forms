@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Window Deal Submission Form
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: deal_type
+      label: Deal Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: window_specs
+      label: Window Specs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: deal_type
+      label: What type of deal is this?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_type
+      label: What type of property?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 9
+      name: window_specs
+      label: Window Specs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sales_contact
+      label: Sales Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sales_agent
+      label: Sales Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sales_manager
+      label: Sales Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: sales_manager_email
+      label: Sales Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false

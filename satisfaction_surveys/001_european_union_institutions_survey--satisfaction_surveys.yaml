@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: european_union_institutions_survey
+    pages:
+    - id: 1
+      name: general_feedback
+      label: General feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: eubodies
+      label: EU Bodies
+      hint: Please select all the European Union bodies you work with
+      type: select_one
+      options:
+      - Agricultural Committee
+      - European Council
+      - European Commission
+      - European Parliament
+      - Council of the European Union
+      - European Economic and Social Committee
+      - European Investment Bank
+      required: true
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction level
+      hint: null
+      type: select_multiple
+      options:
+      - Very dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very satisfied
+      required: true
+    - id: 4
+      name: frequency_of_contact
+      label: Frequency of contact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: institution
+      label: Institution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: institution_address
+      label: Institution Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department_address
+      label: Department Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: institution_type
+      label: Institution type
+      hint: null
+      type: select_multiple
+      options:
+      - European Institution
+      - International Organisation
+      required: true
+    - id: 22
+      name: institution_size
+      label: Institution size
+      hint: What type of institution are you representing?
+      type: select_one
+      options:
+      - Small (less than 50 employees
+      - Medium (50-200 employees
+      - Large (more than 200 employees
+      - Other
+      required: true
+    - id: 23
+      name: region
+      label: Region
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      - West
+      - Other
+      required: true
+    - id: 24
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - French
+      - German
+      - Italian
+      - Other
+      required: true
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

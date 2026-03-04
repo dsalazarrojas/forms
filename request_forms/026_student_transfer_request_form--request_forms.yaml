@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Transfer Request Form
+    pages:
+    - id: 1
+      name: student_number
+      label: student_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_transfer
+      label: reason_for_transfer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: new_class
+      label: new_class
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      required: false
+    - id: 6
+      name: current_class
+      label: current_class
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      - D
+      - E
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false

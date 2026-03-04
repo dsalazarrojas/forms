@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: seint_color_match_southern_glam
+    pages:
+    - id: 1
+      name: match_color
+      label: match color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: seint_color_match_southern_glam_page_2
+      label: select color
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: date_of_service
+      label: date of service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_service
+      label: time of service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Discovery Questionnaire
+    pages:
+    - id: 1
+      name: lead_details
+      label: Lead Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_priorities
+      label: Lead Priorities
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: buying_context
+      label: Buying Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: lead_status
+      label: Lead Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: lead_source
+      label: Lead Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: lead_category
+      label: Lead Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: first_call_details
+      label: First Call Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: lead_value
+      label: Lead Value
+      hint: null
+      type: number
+      options: []
+      required: false

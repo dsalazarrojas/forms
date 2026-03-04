@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: looking_for_a_lawyer
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: crime_charges
+      label: Crime Charges
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: attorney_details
+      label: Attorney Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: case_court
+      label: Court
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: attorney_notes
+      label: Attorney Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: case_details
+      label: Case Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: crime_type
+      label: Crime Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 14
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 15
+      name: attorney_fees
+      label: Attorney Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: crime_count
+      label: Crime Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: case_location
+      label: Case Location
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 18
+      name: crime_date
+      label: Crime Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: case_number_2
+      label: Case Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: crime_location
+      label: Crime Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: attorney_fee
+      label: Attorney Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: crime_location_2
+      label: Crime Location 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: crime_type_2
+      label: Crime Type 2
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 24
+      name: crime_date_2
+      label: Crime Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: case_court_2
+      label: Court 2
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

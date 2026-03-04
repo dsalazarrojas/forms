@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Transfer Request Form
+    pages:
+      - id: 1
+        name: request_date
+        label: Request Date
+        hint: Date of this request
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: request_id
+        label: Request ID
+        hint: Unique request identifier
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: current_assignee_name
+        label: Current Assignee Name
+        hint: Person currently responsible
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: current_assignee_id
+        label: Current Assignee Employee ID
+        hint: Employee identification number
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: current_assignee_department
+        label: Current Assignee Department
+        hint: Current department
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: current_assignee_email
+        label: Current Assignee Email
+        hint: Work email address
+        type: email
+        options: []
+        required: true
+      - id: 7
+        name: new_assignee_name
+        label: New Assignee Name
+        hint: Person taking over
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: new_assignee_id
+        label: New Assignee Employee ID
+        hint: Employee identification number
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: new_assignee_department
+        label: New Assignee Department
+        hint: New department
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: new_assignee_email
+        label: New Assignee Email
+        hint: Work email address
+        type: email
+        options: []
+        required: true
+      - id: 11
+        name: assignment_title
+        label: Assignment Title
+        hint: Name of the assignment
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: assignment_description
+        label: Assignment Description
+        hint: Detailed description of work
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: assignment_type
+        label: Assignment Type
+        hint: Category of assignment
+        type: select_one
+        options:
+          - Project
+          - Task
+          - Responsibility
+          - Account Management
+          - Team Lead Role
+          - Administrative Duty
+          - Other
+        required: true
+      - id: 14
+        name: project_or_case_id
+        label: Project or Case ID
+        hint: Related project identifier
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: current_status
+        label: Current Assignment Status
+        hint: Where is it in progress?
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: handover_date
+        label: Planned Handover Date
+        hint: When will transfer occur?
+        type: date
+        options: []
+        required: true
+      - id: 17
+        name: reason_for_transfer
+        label: Reason for Transfer
+        hint: Why is assignment being transferred?
+        type: select_one
+        options:
+          - Promotion
+          - Department Change
+          - Workload Balance
+          - Employee Leave
+          - Skill Development
+          - Performance Issue
+          - Reorganization
+          - Other
+        required: true
+      - id: 18
+        name: reason_details
+        label: Additional Details on Reason
+        hint: Provide more context
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: transition_plan
+        label: Transition and Handover Plan
+        hint: How will knowledge be transferred?
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: training_required
+        label: Training or Orientation Needed
+        hint: What training should new person get?
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: documentation_available
+        label: Documentation Available
+        hint: Do you have process docs?
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+          - Partial
+        required: true
+      - id: 22
+        name: key_contacts
+        label: Key Contacts and Stakeholders
+        hint: Who should new person know?
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: urgent_items
+        label: Urgent Items or Deadlines
+        hint: Any immediate priorities?
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: approver_name
+        label: Manager or Approver Name
+        hint: Who approves this transfer?
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: approver_signature_date
+        label: Approval Date
+        hint: Date approved
+        type: date
+        options: []
+        required: true

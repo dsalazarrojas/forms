@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: laboratory_safety_compliance_declaration_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: personal_safety_equipment
+      label: Personal Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - fire_exinguishable_chemical_bib
+      - fire_extinguisher
+      - fire_alarm
+      required: true
+    - id: 9
+      name: personal_protective_equipment
+      label: Personal Protective Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - lab_cohort
+      - lab_gloves
+      - lab_goggles
+      required: true
+    - id: 10
+      name: fire_safety_equipment
+      label: Fire Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - fire_extinguisher
+      - fire_alarm
+      required: true
+    - id: 11
+      name: electrical_equipment
+      label: Electrical Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - fume_hood
+      - safety_shutter
+      - safety_glass
+      required: true
+    - id: 12
+      name: chemical_equipment
+      label: Chemical Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - fume_hood
+      - safety_shutter
+      - safety_glass
+      required: true
+    - id: 13
+      name: gas_cylinder
+      label: Gas Cylinder
+      hint: null
+      type: select_multiple
+      options:
+      - gas_cylinder
+      - gas_valve
+      required: true
+    - id: 14
+      name: chemical_hydrant
+      label: Chemical Hydrant
+      hint: null
+      type: select_multiple
+      options:
+      - gas_valve
+      - gas_tank
+      required: true
+    - id: 15
+      name: electrical_outlet
+      label: Electrical Outlet
+      hint: null
+      type: select_multiple
+      options:
+      - grounded_outlet
+      - grouding
+      required: true
+    - id: 16
+      name: electrical_system
+      label: Electrical System
+      hint: null
+      type: select_multiple
+      options:
+      - grounded_system
+      - ground_system
+      required: true
+    - id: 17
+      name: electrical_box
+      label: Electrical Box
+      hint: null
+      type: select_multiple
+      options:
+      - grounded_box
+      - ground_box
+      required: true
+    - id: 18
+      name: electrical_wire
+      label: Electrical Wire
+      hint: null
+      type: select_multiple
+      options:
+      - grounded_wire
+      - ground_wire
+      required: true
+    - id: 19
+      name: electrical_device
+      label: Electrical Device
+      hint: null
+      type: select_multiple
+      options:
+      - grounded_device
+      - ground_device
+      required: true
+    - id: 20
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: true

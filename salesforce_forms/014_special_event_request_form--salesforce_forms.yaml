@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Event Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: Provide a brief description of your event
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Film Set''}'
+      - '{''id'': 2, ''label'': ''Location Scout''}'
+      - '{''id'': 3, ''label'': ''Photo Shoot''}'
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: venue
+      label: Venue
+      hint: The location of the event
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_space
+      label: Event Space
+      hint: How many spaces do you need
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: fee
+      label: Fee
+      hint: The amount of fee you are willing to pay
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agreement_terms
+      label: Agreement Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Cash''}'
+      - '{''id'': 2, ''label'': ''Card''}'
+      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      required: false
+    - id: 16
+      name: terms
+      label: Terms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

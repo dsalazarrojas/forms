@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Reimbursement Form
+    pages:
+    - id: 1
+      name: travel_request_form
+      label: Travel Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trip_start_date
+      label: Trip Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: trip_end_date
+      label: Trip End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_destination
+      label: Travel Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_reason
+      label: Travel Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: travel_amount
+      label: Travel Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: travel_currency
+      label: Travel Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - JPY
+      required: false
+    - id: 8
+      name: travel_currency_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_docs
+      label: Travel Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_department
+      label: Your Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_job_title
+      label: Your Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_location
+      label: Your Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_organization
+      label: Your Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approver_department
+      label: Approver Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approver_job_title
+      label: Approver Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approver_location
+      label: Approver Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 24
+      name: date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

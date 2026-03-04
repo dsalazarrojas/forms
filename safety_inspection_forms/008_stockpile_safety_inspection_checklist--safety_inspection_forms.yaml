@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stockpile Safety Inspection Checklist
+    pages:
+    - id: 1
+      name: stockpile_id
+      label: Stockpile ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: location_id
+      label: location_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_inspection
+      label: date_of_inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_inspection
+      label: time_of_inspection
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: hazards_found
+      label: hazards_found
+      hint: null
+      type: select_multiple
+      options:
+      - Hazard 1
+      - Hazard 2
+      - Hazard 3
+      required: false
+    - id: 6
+      name: corrective_action_status
+      label: corrective_action_status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: safety_manager_name
+      label: safety_manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_manager_email
+      label: safety_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: safety_manager_phone
+      label: safety_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false

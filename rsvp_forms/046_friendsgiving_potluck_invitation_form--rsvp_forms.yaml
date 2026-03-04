@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Friendsgiving Potluck Invitation Form
+    pages:
+    - id: 1
+      name: main_info
+      label: Main Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: guests
+      label: Guests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: host_info
+      label: Host Info
+      hint: Please select the host of the event
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jim''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Bob''}'
+      required: false
+    - id: 4
+      name: event_info
+      label: Event Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: potluck_info
+      label: Potluck Info
+      hint: Please select the types of dishes you will bring
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Main Course''}'
+      - '{''id'': 2, ''label'': ''Side Dish''}'
+      - '{''id'': 3, ''label'': ''Dessert''}'
+      required: false
+    - id: 8
+      name: rsvp
+      label: RSVP
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,392 @@
+inputSchema:
+  type: object
+  properties:
+    title: Auto Lift Inspection Form
+    pages:
+    - id: 1
+      name: inspection_info
+      label: Inspection Information
+      hint: Provide lift and inspection details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of person performing inspection
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_certification
+      label: Inspector Certification Number
+      hint: ALI-Certified inspector ID
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_name
+      label: Facility Name
+      hint: Shop or garage name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: facility_address
+      label: Facility Address
+      hint: Location of the lift
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: lift_info
+      label: Lift Information
+      hint: Details about the lift being inspected
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: lift_id
+      label: Lift ID Number
+      hint: Unique identifier for this lift
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: lift_type
+      label: Lift Type
+      hint: Type of vehicle lift
+      type: select_one
+      options:
+      - Two-Post Surface Mounted
+      - Two-Post Inground
+      - Four-Post
+      - Scissor Lift
+      - Portable
+      - Parking Lift
+      - Other
+      required: true
+    - id: 10
+      name: lift_manufacturer
+      label: Lift Manufacturer
+      hint: Company that made the lift
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: lift_model
+      label: Lift Model
+      hint: Model number or name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: lift_serial
+      label: Lift Serial Number
+      hint: Serial number from manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lift_capacity
+      label: Lift Capacity
+      hint: Maximum weight capacity in lbs
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: installation_date
+      label: Installation Date
+      hint: When was the lift installed
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: last_inspection_date
+      label: Last Inspection Date
+      hint: Previous inspection date
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: structural_inspection
+      label: Structural Inspection
+      hint: Inspect physical condition
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: anchor_inspection
+      label: Anchor Bolts Inspection
+      hint: Check anchor bolt condition
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Applicable
+      required: true
+    - id: 18
+      name: anchor_notes
+      label: Anchor Notes
+      hint: Any issues found
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: column_inspection
+      label: Column Inspection
+      hint: Check columns for damage
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Applicable
+      required: true
+    - id: 20
+      name: column_notes
+      label: Column Notes
+      hint: Any issues found
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: arm_inspection
+      label: Lift Arms Inspection
+      hint: Check arms and adapters
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Applicable
+      required: true
+    - id: 22
+      name: arm_notes
+      label: Arm Notes
+      hint: Any issues found
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cable_inspection
+      label: Cables and Chains Inspection
+      hint: Check for wear or damage
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Applicable
+      required: true
+    - id: 24
+      name: cable_notes
+      label: Cable Notes
+      hint: Any issues found
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: hydraulic_inspection
+      label: Hydraulic System Inspection
+      hint: Check hydraulic components
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: hydraulic_leaks
+      label: Hydraulic Leaks Check
+      hint: Any visible leaks
+      type: select_one
+      options:
+      - No Leaks
+      - Minor Leaks
+      - Major Leaks
+      required: true
+    - id: 27
+      name: hydraulic_hoses
+      label: Hydraulic Hoses Condition
+      hint: Check hose condition
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
+      required: true
+    - id: 28
+      name: pump_operation
+      label: Pump Operation
+      hint: Does pump operate correctly
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 29
+      name: relief_valve
+      label: Relief Valve Check
+      hint: Proper operation
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Applicable
+      required: true
+    - id: 30
+      name: electrical_inspection
+      label: Electrical System Inspection
+      hint: Check electrical components
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: wiring_condition
+      label: Wiring Condition
+      hint: Check for damage or wear
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
+      required: true
+    - id: 32
+      name: controls_operation
+      label: Controls Operation
+      hint: Do controls work properly
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 33
+      name: emergency_stop
+      label: Emergency Stop Function
+      hint: Test emergency stop
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Applicable
+      required: true
+    - id: 34
+      name: safety_devices
+      label: Safety Devices Inspection
+      hint: Check all safety features
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: safety_locks
+      label: Safety Locks
+      hint: Do locks engage properly
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 36
+      name: warning_labels
+      label: Warning Labels
+      hint: Are labels present and legible
+      type: select_one
+      options:
+      - All Present
+      - Some Missing
+      - Most Missing
+      required: true
+    - id: 37
+      name: operational_test
+      label: Operational Test
+      hint: Test lift operation
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: raise_operation
+      label: Raise Operation
+      hint: Does lift raise smoothly
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 39
+      name: lower_operation
+      label: Lower Operation
+      hint: Does lift lower smoothly
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 40
+      name: automatic_locks
+      label: Automatic Locks Engagement
+      hint: Do locks engage automatically
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Applicable
+      required: true
+    - id: 41
+      name: overload_test
+      label: Overload Test
+      hint: Test overload protection
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not Performed
+      required: false
+    - id: 42
+      name: overall_result
+      label: Overall Inspection Result
+      hint: Final determination
+      type: select_one
+      options:
+      - Pass
+      - Pass with Recommendations
+      - Fail
+      required: true
+    - id: 43
+      name: deficiencies
+      label: Deficiencies Found
+      hint: List all issues
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: recommendations
+      label: Recommendations
+      hint: Suggested actions
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: next_inspection
+      label: Recommended Next Inspection
+      hint: When should next inspection occur
+      type: date
+      options: []
+      required: true
+    - id: 46
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 47
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

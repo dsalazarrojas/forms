@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pizza Order Form
+    pages:
+    - id: 1
+      name: delivery_info
+      label: delivery_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pay with card'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Pay with cash'', ''value'': ''2''}'
+      - '{''id'': 3, ''label'': ''Pay with PayPal'', ''value'': ''3''}'
+      required: true
+    - id: 4
+      name: order_info
+      label: order_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: pizza_size
+      label: pizza_size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''2''}'
+      - '{''id'': 3, ''label'': ''Large'', ''value'': ''3''}'
+      required: true
+    - id: 6
+      name: toppings
+      label: toppings
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Mozzarella'', ''value'': ''1''}'
+      - '{''id'': 2, ''label'': ''Tomato sauce'', ''value'': ''2''}'
+      - '{''id'': 3, ''label'': ''Mushrooms'', ''value'': ''3''}'
+      required: false
+    - id: 7
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,275 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Sports Event RSVP Form
+    pages:
+    - id: 1
+      name: section_event_details
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Sports Event Name
+      hint: Select the event you will attend
+      type: select_one
+      options:
+      - Alumni Basketball Game
+      - Alumni Football Game
+      - Alumni Soccer Match
+      - Alumni Baseball Game
+      - Alumni Tennis Tournament
+      - Homecoming Game
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_rsvp_info
+      label: -- RSVP Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: attendance_status
+      label: Will You Attend
+      hint: Please confirm your attendance
+      type: select_one
+      options:
+      - Yes - I will attend
+      - No - Unable to attend
+      - Maybe - Will confirm later
+      required: true
+    - id: 6
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: For event confirmation
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: For event day contact
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_participation
+      label: -- Participation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: playing_status
+      label: Will You Play in the Game
+      hint: For alumni athletes only
+      type: select_one
+      options:
+      - Yes - I will play
+      - No - Just spectating
+      - Maybe - Depends on team needs
+      - Not applicable
+      required: false
+    - id: 14
+      name: jersey_size
+      label: Jersey Size
+      hint: If playing in the game
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - X-Large
+      - XX-Large
+      - Not applicable
+      required: false
+    - id: 15
+      name: position_preference
+      label: Position Preference
+      hint: If playing - preferred position
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_guests
+      label: -- Guest Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: bringing_guests
+      label: Bringing Guests
+      hint: null
+      type: select_one
+      options:
+      - No - Attending alone
+      - Yes - 1 guest
+      - Yes - 2 guests
+      - Yes - 3 or more guests
+      required: true
+    - id: 18
+      name: guest_names
+      label: Guest Names
+      hint: List names of all guests
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: guest_relationship
+      label: Relationship to Guests
+      hint: e.g. spouse, children, friends
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_food_beverage
+      label: -- Food and Beverage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: tailgate_attendance
+      label: Attending Pre-Game Tailgate
+      hint: null
+      type: select_one
+      options:
+      - Yes - Attending
+      - No - Not attending
+      required: false
+    - id: 22
+      name: food_preference
+      label: Food Preference
+      hint: For catering purposes
+      type: select_one
+      options:
+      - No restrictions
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Other
+      required: false
+    - id: 23
+      name: dietary_notes
+      label: Dietary Restrictions or Allergies
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: section_merchandise
+      label: -- Merchandise --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: merchandise_interest
+      label: Interested in Event Merchandise
+      hint: T-shirts, hats, memorabilia
+      type: select_one
+      options:
+      - Yes - Very interested
+      - Maybe - Will see at event
+      - No - Not interested
+      required: false
+    - id: 26
+      name: section_volunteering
+      label: -- Volunteer Opportunities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: volunteer_interest
+      label: Interested in Volunteering
+      hint: Help with event setup or activities
+      type: select_one
+      options:
+      - Yes - Event Setup
+      - Yes - During Event
+      - Yes - Event Cleanup
+      - Yes - All of the above
+      - No - Not available
+      required: false
+    - id: 28
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: parking_needed
+      label: Parking Pass Needed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 30
+      name: accessibility_needs
+      label: Accessibility Accommodations
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: how_heard_about
+      label: How Did You Hear About This Event
+      hint: null
+      type: select_one
+      options:
+      - Email Invitation
+      - Social Media
+      - Alumni Website
+      - Friend/Classmate
+      - Other
+      required: false
+    - id: 32
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: null
+      type: text
+      options: []
+      required: false

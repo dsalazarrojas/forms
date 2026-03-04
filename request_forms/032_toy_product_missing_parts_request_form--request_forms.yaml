@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: toy_product_missing_parts_request_form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: part_type
+      label: part_type
+      hint: null
+      type: select_one
+      options:
+      - part_type_option_0
+      - part_type_option_1
+      required: true
+    - id: 3
+      name: part_description
+      label: part_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: replacement_request
+      label: replacement_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: seller_id
+      label: seller_id
+      hint: null
+      type: select_multiple
+      options:
+      - seller_id_option_0
+      - seller_id_option_1
+      required: true
+    - id: 6
+      name: customer_service_id
+      label: customer_service_id
+      hint: null
+      type: select_one
+      options:
+      - customer_service_id_option_0
+      - customer_service_id_option_1
+      required: true
+    - id: 7
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

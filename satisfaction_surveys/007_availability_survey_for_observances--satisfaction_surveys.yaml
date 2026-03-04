@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Availability Survey For Observances
+    pages:
+    - id: 1
+      name: section_employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_team
+      label: Department or Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: For emergency shift changes
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_holiday_details
+      label: -- Holiday Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: holiday_name
+      label: Holiday or Observance Name
+      hint: Which event is this survey for?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: holiday_date
+      label: Date of Holiday
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: availability_status
+      label: Are you available to work on this day?
+      hint: Select the most accurate option
+      type: select_one
+      options:
+      - Yes, I am available
+      - No, I am unavailable
+      - Partial availability only
+      required: true
+    - id: 10
+      name: shift_preference
+      label: Preferred Shift
+      hint: Select all that you could work
+      type: select_multiple
+      options:
+      - Early Morning (4am - 8am)
+      - Standard Day (8am - 4pm)
+      - Afternoon/Evening (4pm - 12am)
+      - Overnight (12am - 8am)
+      required: false
+    - id: 11
+      name: compensation_preference
+      label: Preferred Compensation for Holiday Work
+      hint: Choose one
+      type: select_one
+      options:
+      - Double Time Pay
+      - Time-Off-In-Lieu (Comp Time)
+      - Regular Overtime Rate
+      - No preference
+      required: true
+    - id: 12
+      name: emergency_backup
+      label: Would you be willing to be on-call?
+      hint: In case of staff shortages
+      type: select_one
+      options:
+      - Yes, I can be on-call
+      - No, I cannot be on-call
+      required: true
+    - id: 13
+      name: supervisor_name
+      label: Direct Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: special_constraints
+      label: Special Requests or Constraints
+      hint: Briefly describe any other details
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: acknowledgment
+      label: I understand that final scheduling is at management's discretion
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - Other
+      required: true

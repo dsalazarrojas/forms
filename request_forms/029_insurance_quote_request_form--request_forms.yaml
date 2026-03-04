@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Quote Request Form
+    pages:
+    - id: 1
+      name: insurance_quote_request_form
+      label: Insurance Quote Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance_type
+      label: Insurance Type
+      hint: null
+      type: select_one
+      options:
+      - Life
+      - Auto
+      - Home
+      required: false
+    - id: 7
+      name: request_info
+      label: Request Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policy_effective_date
+      label: Policy Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: policy_end_date
+      label: Policy End Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wax Room Check In Form Template
+    pages:
+    - id: 1
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Clean
+      - Dirty
+      - In need of repair
+      - Missing
+      - Unknown
+      required: true
+    - id: 5
+      name: chemicals_condition
+      label: Chemicals Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      - Unknown
+      required: true
+    - id: 6
+      name: wax_condition
+      label: Wax Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      - Unknown
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: equipment_condition_3
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: chemicals_condition_3
+      label: Chemicals Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      - Unknown
+      required: true
+    - id: 11
+      name: technician_name
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes_2
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: equipment_condition_5
+      label: Equipment Condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

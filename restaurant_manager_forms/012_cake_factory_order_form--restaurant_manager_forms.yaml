@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cake Factory Order Form
+    pages:
+    - id: 1
+      name: customer_info_header
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: cake_order_header
+      label: -- Cake Order Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: cake_type
+      label: Cake Type
+      hint: null
+      type: select_one
+      options:
+      - Chocolate
+      - Vanilla
+      - Red Velvet
+      - Strawberry
+      - Carrot Cake
+      - Cheesecake
+      - Custom
+      required: true
+    - id: 7
+      name: cake_size
+      label: Cake Size
+      hint: null
+      type: select_one
+      options:
+      - 6 inch (4-6 servings)
+      - 8 inch (8-12 servings)
+      - 10 inch (12-18 servings)
+      - 12 inch (18-24 servings)
+      - Custom size
+      required: true
+    - id: 8
+      name: servings_needed
+      label: Number of Servings Needed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: frosting_type
+      label: Frosting Type
+      hint: null
+      type: select_one
+      options:
+      - Buttercream
+      - Cream Cheese
+      - Ganache
+      - Fondant
+      - No frosting
+      required: true
+    - id: 10
+      name: flavor_description
+      label: Describe Your Flavor Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: special_message
+      label: Custom Message or Inscription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dietary_requirements
+      label: Dietary Requirements or Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: delivery_header
+      label: -- Delivery/Pickup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: delivery_option
+      label: Delivery or Pickup?
+      hint: null
+      type: select_one
+      options:
+      - Delivery
+      - Pickup
+      required: true
+    - id: 15
+      name: delivery_address
+      label: Delivery Address
+      hint: If delivery selected
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: delivery_date
+      label: Delivery/Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: delivery_time
+      label: Preferred Delivery/Pickup Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: occasion
+      label: Occasion
+      hint: null
+      type: select_one
+      options:
+      - Birthday
+      - Wedding
+      - Anniversary
+      - Corporate Event
+      - Graduation
+      - Other
+      required: false
+    - id: 19
+      name: pricing_header
+      label: -- Pricing and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Preferred Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      required: true
+    - id: 22
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: false

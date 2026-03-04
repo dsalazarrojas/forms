@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Suspected Child Sexual Abuse Material (CSAM) Report Form
+    pages:
+    - id: 1
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - option 1
+      - option 2
+      - option 3
+      required: false
+    - id: 2
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: report_location
+      label: report_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_details
+      label: report_details
+      hint: Provide a brief description of the incident
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: report_officer_name
+      label: report_officer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: report_officer_contact
+      label: report_officer_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: report_officer_email
+      label: report_officer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: report_officer_agency
+      label: report_officer_agency
+      hint: null
+      type: text
+      options: []
+      required: false

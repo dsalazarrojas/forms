@@ -1,0 +1,54 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: fax_request_form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fax_number
+      label: Fax Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fax_type
+      label: Fax Type
+      hint: null
+      type: select_one
+      options:
+      - Fax
+      - Voice
+      - Call
+      required: false
+    - id: 4
+      name: fax_date
+      label: Fax Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: fax_time
+      label: Fax Time
+      hint: null
+      type: time
+      options: []
+      required: false

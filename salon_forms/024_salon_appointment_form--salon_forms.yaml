@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salon Appointment Form
+    pages:
+    - id: 1
+      name: salon_appointment_form_1
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salon_appointment_form_2
+      label: Select Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: salon_appointment_form_3
+      label: Select Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: salon_appointment_form_4
+      label: Select Service
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Haircut''}'
+      - '{''value'': ''Coloring''}'
+      - '{''value'': ''Massage''}'
+      required: false
+    - id: 5
+      name: salon_appointment_form_5
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: salon_appointment_form_6
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: salon_appointment_form_7
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: salon_appointment_form_8
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: salon_appointment_form_9
+      label: Client Message
+      hint: null
+      type: text
+      options: []
+      required: false

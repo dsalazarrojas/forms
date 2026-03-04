@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ruby Ribbon Sizing Form (Newberry)
+    pages:
+    - id: 1
+      name: body_measurements
+      label: Body Measurements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_style
+      label: preferred_style
+      hint: null
+      type: select_one
+      options:
+      - Ruby Ribbon
+      - Classic
+      - Elegant
+      - Casual
+      required: true
+    - id: 3
+      name: height_in
+      label: height_in
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: chest_in
+      label: chest_in
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: waist_in
+      label: waist_in
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: hip_in
+      label: hip_in
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: measurements_confirmation
+      label: confirm_body_measurements
+      hint: Please ensure these measurements are accurate.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit_button
+      hint: null
+      type: note
+      options: []
+      required: false

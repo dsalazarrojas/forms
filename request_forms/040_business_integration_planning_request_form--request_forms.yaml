@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Integration Planning Request Form
+    pages:
+      - id: 1
+        name: section_planning_request_origin
+        label: -- Planning Request Origin --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requesting_department_unit_name
+        label: Requesting Department or Unit
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: integration_project_title_plan
+        label: Project Title
+        hint: A unique identifier for the planning request
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: integration_priority_level_selection
+        label: Planning Priority Level
+        hint: null
+        type: select_one
+        options:
+          - Critical / High Urgency
+          - Standard Planning Cycle
+          - Long-term Initiative
+          - Exploratory Phase
+        required: true
+      - id: 5
+        name: target_planning_completion_date
+        label: Target Completion Date for Plan
+        hint: When is the final plan required by
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_scope_requirements
+        label: -- Scope and Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: key_stakeholders_selection_multiple
+        label: Key Stakeholders Involved
+        hint: Select all departments affected
+        type: select_multiple
+        options:
+          - IT / Infrastructure
+          - Finance / Accounting
+          - Sales / Marketing
+          - Operations / Supply Chain
+          - Human Resources
+          - Legal / Compliance
+        required: true
+      - id: 8
+        name: current_software_infrastructure_summary
+        label: Current Software Infrastructure
+        hint: Briefly describe current tech stack
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: api_connectivity_requirements_choice
+        label: Required API Connectivity Type
+        hint: null
+        type: select_one
+        options:
+          - RESTful API
+          - SOAP / XML
+          - GraphQL
+          - Custom / Legacy Connector
+        required: true
+      - id: 10
+        name: data_migration_volume_estimate
+        label: Estimated Data Migration Volume
+        hint: Number of records to be synced or moved
+        type: select_one
+        options:
+          - Small (Under 10k records)
+          - Medium (10k - 100k records)
+          - Large (100k - 1M records)
+          - Enterprise (1M+ records)
+        required: true
+      - id: 11
+        name: security_compliance_requirements_selection
+        label: Security and Compliance Requirements
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - GDPR Compliance
+          - HIPAA Compliance
+          - SOC2 Type II
+          - ISO 27001
+          - PCI-DSS
+          - Local Privacy Laws
+        required: true
+      - id: 12
+        name: planning_budget_approval_status_choice
+        label: Budget Approval Status
+        hint: Is the planning phase funded
+        type: select_one
+        options:
+          - Fully Approved
+          - Pending Final Approval
+          - Under Review
+          - Budget Not Yet Allocated
+        required: true
+      - id: 13
+        name: project_scope_brief_description
+        label: Brief Project Scope
+        hint: High-level summary of integration objectives
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: request_submission_date_plan
+        label: Date of Submission
+        hint: null
+        type: date
+        options: []
+        required: true

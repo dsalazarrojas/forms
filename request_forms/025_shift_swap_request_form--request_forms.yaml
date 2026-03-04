@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: shift_swap_request_form
+    pages:
+    - id: 1
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: shift_id
+      label: shift_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: team_member
+      label: team_member
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: shift_swap_request_reason
+      label: shift_swap_request_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: swap_start_time
+      label: swap_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: swap_end_time
+      label: swap_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: swap_shift_id
+      label: swap_shift_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

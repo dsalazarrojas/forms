@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calendar Update Request Form
+    pages:
+    - id: 1
+      name: requester_header
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_type_header
+      label: -- Request Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: request_type
+      label: Type of Calendar Update
+      hint: null
+      type: select_one
+      options:
+      - Add Event
+      - Modify Event
+      - Cancel Event
+      - Reschedule Event
+      - Add Multiple Events
+      - Other
+      required: true
+    - id: 7
+      name: event_details_header
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: event_id
+      label: Event ID (if modifying)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: current_date
+      label: Current Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: current_time
+      label: Current Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: new_date
+      label: New Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: new_time
+      label: New Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: location_change_header
+      label: -- Location Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: location_change
+      label: Is the Location Changing?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attendees_header
+      label: -- Attendees --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: attendee_count
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: notify_attendees
+      label: Notify All Attendees of Change?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: reason_header
+      label: -- Reason for Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: reason_for_change
+      label: Reason for Update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Routine
+      - Important
+      - Urgent
+      - Critical
+      required: true

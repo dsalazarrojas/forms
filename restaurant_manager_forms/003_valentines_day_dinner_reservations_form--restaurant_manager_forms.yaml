@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: valentines_day_dinner_reservations_form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reservation_date
+      label: Reservation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reservation_time
+      label: Reservation Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: number_guests
+      label: Number of Guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: table_size
+      label: Table Size
+      hint: null
+      type: select_one
+      options:
+      - '2'
+      - '4'
+      - '6'
+      - '8'
+      - '10'
+      required: true
+    - id: 6
+      name: meal_options
+      label: Meal Options
+      hint: null
+      type: select_multiple
+      options:
+      - Beef
+      - Poultry
+      - Fish
+      - Veggie
+      required: false
+    - id: 7
+      name: special_instructions
+      label: Special Instructions
+      hint: null
+      type: note
+      options: []
+      required: false

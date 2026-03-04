@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: startup_networking_happy_hour_rsvp_form
+    pages:
+    - id: 1
+      name: details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rsvp_status
+      label: RSVP Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      required: false
+    - id: 6
+      name: rsvp_date
+      label: Date of RSVP
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: rsvp_time
+      label: Time of RSVP
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: preferences
+      label: Preferred Networking Style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferences_2
+      label: Preferred Networking Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: interests
+      label: Interests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: interests_2
+      label: Interests 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: food_preferences
+      label: Food Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: drink_preferences
+      label: Drink Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: parking
+      label: Parking
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 18
+      name: carpooling
+      label: Carpooling
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 19
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Vegetarian''}'
+      - '{''label'': ''Non-Vegetarian''}'
+      - '{''label'': ''Vegan''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 20
+      name: t_shirt_size
+      label: T-Shirt Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shirt_type
+      label: Shirt Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Polo''}'
+      - '{''label'': ''Dress''}'
+      - '{''label'': ''Casual''}'
+      required: false
+    - id: 22
+      name: shirt_color
+      label: Shirt Color
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''White''}'
+      - '{''label'': ''Black''}'
+      - '{''label'': ''Blue''}'
+      - '{''label'': ''Red''}'
+      - '{''label'': ''Green''}'
+      - '{''label'': ''Yellow''}'
+      - '{''label'': ''Purple''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shirt_design
+      label: Shirt Design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shirt_color_2
+      label: Shirt Color 2
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''White''}'
+      - '{''label'': ''Black''}'
+      - '{''label'': ''Blue''}'
+      - '{''label'': ''Red''}'
+      - '{''label'': ''Green''}'
+      - '{''label'': ''Yellow''}'
+      - '{''label'': ''Purple''}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false

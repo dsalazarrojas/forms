@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_hire_restaurant_training_checklist
+    pages:
+    - id: 1
+      name: restaurant_training_program
+      label: Restaurant Training Program
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: emergency_procedures
+      label: emergency_procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: food_safety_handling
+      label: food_safety_handling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: food_safety_certification
+      label: food_safety_certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: fire_suppression
+      label: fire_suppression
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: first_aid
+      label: first_aid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: restaurant_security
+      label: restaurant_security
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employee_policies
+      label: employee_policies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: food_borne_illnesses
+      label: food_borne_illnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

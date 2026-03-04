@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Card Request Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: gift_card_value
+      label: Gift Card Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_type
+      label: Business Type
+      hint: null
+      type: select_one
+      options:
+      - Small Business
+      - Medium Business
+      - Large Business
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: gift_card_message
+      label: Gift Card Message
+      hint: null
+      type: text
+      options: []
+      required: false

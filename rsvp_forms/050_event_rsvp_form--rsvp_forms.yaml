@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event RSVP Form
+    pages:
+    - id: 1
+      name: event_rsvp_form
+      label: Event RSVP Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: attending
+      label: attending
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rsvp_message
+      label: rsvp_message
+      hint: null
+      type: text
+      options: []
+      required: false

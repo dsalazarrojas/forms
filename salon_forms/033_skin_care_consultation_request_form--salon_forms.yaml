@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Care Consultation Request Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: skin_conditions
+      label: Skin Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Acne
+      - Psoriasis
+      - Rosacea
+      - Warts
+      - Cold Sore
+      - Eczema
+      - Ingrown Hairs
+      - Keloid
+      - Keratosis
+      - Pityriasis
+      - Skin Tags
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medication_allergies
+      label: Medication Allergies
+      hint: null
+      type: select_one
+      options:
+      - Penicillin
+      - Aspirin
+      - Ibuprofen
+      - Acetaminophen
+      required: false
+    - id: 5
+      name: treatment_preferences
+      label: Treatment Preferences
+      hint: null
+      type: select_one
+      options:
+      - Chemical Peel
+      - Microderm
+      - Micro-needling
+      - Chemical Exfoliation
+      - Laser Treatments
+      - Botox
+      - Fillers
+      - Microneedling
+      required: false
+    - id: 6
+      name: appointment_scheduling
+      label: Appointment Scheduling
+      hint: null
+      type: select_one
+      options:
+      - Same Day
+      - Next 3 Days
+      - Next Week
+      - 2 Weeks
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

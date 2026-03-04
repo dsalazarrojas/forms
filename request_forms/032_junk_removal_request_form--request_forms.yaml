@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Junk Removal Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: junk_type
+      label: What type of junk is being removed?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: junk_description
+      label: Briefly describe the junk
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_date
+      label: Preferred date and time for removal
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Series Interest Survey
+    pages:
+    - id: 1
+      name: workshop_interest
+      label: What type of workshop would you be interested in?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: financial_topics
+      label: Which of the following financial topics would you be interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: format_interest
+      label: What format would you prefer?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
+      name: educator_background
+      label: How many years of educator experience do you have?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: org_interest
+      label: What organization are you from?
+      hint: Please enter the name of the organization you are from.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_topics
+      label: Additional financial topics of interest.
+      hint: null
+      type: text
+      options: []
+      required: false

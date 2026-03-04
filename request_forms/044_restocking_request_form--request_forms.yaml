@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restocking Request Form
+    pages:
+    - id: 1
+      name: campus_business
+      label: This is a campus business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_id
+      label: What product do you need to restock
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''product 1''}'
+      - '{''id'': 2, ''name'': ''product 2''}'
+      - '{''id'': 3, ''name'': ''product 3''}'
+      required: false
+    - id: 3
+      name: quantity
+      label: How much would you like to restock
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Business Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: restock_location
+      label: Location on Campus
+      hint: null
+      type: text
+      options: []
+      required: false

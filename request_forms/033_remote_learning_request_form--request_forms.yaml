@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Learning Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: school_id
+      label: School ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_request
+      label: Reason For Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: learning_plan
+      label: Learning Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: preferred_communication_method
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Phone
+      - Email
+      - In Person
+      - Other
+      required: false
+    - id: 10
+      name: parent_email
+      label: Parent E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: teacher_email
+      label: Teacher E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: teacher_phone
+      label: Teacher Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_email
+      label: School E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: remote_learning_request_form_comments
+      label: Remote Learning Request Form Comments
+      hint: null
+      type: note
+      options: []
+      required: false

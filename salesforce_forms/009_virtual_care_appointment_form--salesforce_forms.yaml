@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Care Appointment Form
+    pages:
+    - id: 1
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - Patient
+      - Virtual
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Enter patient name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: location
+      label: Location
+      hint: Enter location
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reason
+      label: Reason
+      hint: Enter reason
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: hipaa_compliance
+      label: HIPAA Compliance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: integration
+      label: Integration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: embedded
+      label: Embedded
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: embedded_app
+      label: Embedded App
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: embedded_integration
+      label: Embedded Integration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: integration_1
+      label: Integration 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: integration_2
+      label: Integration 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: integration_3
+      label: Integration 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: integration_4
+      label: Integration 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: integration_5
+      label: Integration 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: integration_6
+      label: Integration 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: integration_7
+      label: Integration 7
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: integration_8
+      label: Integration 8
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: integration_9
+      label: Integration 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: integration_10
+      label: Integration 10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: embedded_integration_1
+      label: Embedded Integration 1
+      hint: null
+      type: text
+      options: []
+      required: false

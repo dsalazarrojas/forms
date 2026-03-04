@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lead Qualification Form
+    pages:
+    - id: 1
+      name: lead_name
+      label: lead name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_name
+      label: company name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: company_website
+      label: company website
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_type
+      label: company type
+      hint: null
+      type: select_one
+      options:
+      - small_business
+      - medium_business
+      - large_business
+      required: true
+    - id: 7
+      name: lead_source
+      label: lead source
+      hint: null
+      type: select_multiple
+      options:
+      - trade_show
+      - online_search
+      - referral
+      required: true
+    - id: 8
+      name: company_size
+      label: company size
+      hint: null
+      type: select_one
+      options:
+      - 10_employees
+      - 20_employees
+      - 50_employees
+      - 100_employees
+      required: true
+    - id: 9
+      name: product_interest
+      label: product interest
+      hint: null
+      type: select_multiple
+      options:
+      - software
+      - hardware
+      - service
+      required: false
+    - id: 10
+      name: company_stage
+      label: company stage
+      hint: null
+      type: select_one
+      options:
+      - start_up
+      - growth_stage
+      - mature_stage
+      required: true
+    - id: 11
+      name: company_location
+      label: company location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: decision_making
+      label: decision making
+      hint: null
+      type: select_multiple
+      options:
+      - decision_maker
+      - department
+      required: true
+    - id: 13
+      name: company_industry
+      label: company industry
+      hint: null
+      type: select_multiple
+      options:
+      - finance
+      - marketing
+      required: true
+    - id: 14
+      name: sales_channel
+      label: sales channel
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - mail
+      required: false
+    - id: 15
+      name: lead_qualify
+      label: lead qualify
+      hint: null
+      type: select_one
+      options:
+      - qualify
+      - do_not_qualify
+      required: true
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: lead_qualified
+      label: lead qualified
+      hint: null
+      type: select_one
+      options:
+      - qualified
+      - not_qualified
+      required: true
+    - id: 18
+      name: lead_rejected
+      label: lead rejected
+      hint: null
+      type: select_one
+      options:
+      - rejected
+      - not_rejected
+      required: true
+    - id: 19
+      name: lead_assigned_to
+      label: lead assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lead_owner
+      label: lead owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lead_status
+      label: lead status
+      hint: null
+      type: select_one
+      options:
+      - new
+      - qualified
+      - rejected
+      required: true
+    - id: 22
+      name: lead_stage
+      label: lead stage
+      hint: null
+      type: select_one
+      options:
+      - new
+      - qualified
+      - rejected
+      required: true
+    - id: 23
+      name: sales_stage
+      label: sales stage
+      hint: null
+      type: select_one
+      options:
+      - new
+      - qualified
+      - rejected
+      required: true
+    - id: 24
+      name: sales_reach
+      label: sales reach
+      hint: null
+      type: select_multiple
+      options:
+      - qualified
+      - not_reached
+      required: false
+    - id: 25
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: text
+      options: []
+      required: false

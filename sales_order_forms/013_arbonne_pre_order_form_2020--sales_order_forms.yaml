@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arbonne - Pre Order Form 2020
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Shipping Address
+      hint: Full address for delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_zip
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_product_selection
+      label: -- Product Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - Skincare
+      - Wellness
+      - Hair Care
+      - Makeup
+      - Bundles
+      required: true
+    - id: 11
+      name: specific_products
+      label: Specific Products Ordered
+      hint: List product names or SKUs
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: product_quantity
+      label: Total Quantity
+      hint: Number of units
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_pricing
+      label: -- Pricing Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: subtotal_amount
+      label: Subtotal Amount
+      hint: Before tax and shipping
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: shipping_cost
+      label: Shipping Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_amount
+      label: Total Amount Due
+      hint: Final total including all charges
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_delivery
+      label: -- Delivery Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_delivery_date
+      label: Preferred Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: delivery_instructions
+      label: Special Delivery Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Bank transfer
+      - Check
+      - Other
+      required: true

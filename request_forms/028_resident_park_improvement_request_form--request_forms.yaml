@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: resident_park_improvement_request_form
+    pages:
+    - id: 1
+      name: resident_park_improvement_request
+      label: resident_park_improvement_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_one_category
+      label: select_one_category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Park Maintenance'', ''label'': ''Park Maintenance''}'
+      - '{''value'': ''Park Upgrade'', ''label'': ''Park Upgrade''}'
+      - '{''value'': ''Park Removal'', ''label'': ''Park Removal''}'
+      required: true
+    - id: 3
+      name: select_multiple_equipment
+      label: select_multiple_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bench'', ''label'': ''Bench''}'
+      - '{''value'': ''Picnic Table'', ''label'': ''Picnic Table''}'
+      - '{''value'': ''Play Equipment'', ''label'': ''Play Equipment''}'
+      required: true
+    - id: 4
+      name: select_one_frequency
+      label: select_one_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
+      - '{''value'': ''Occasionally'', ''label'': ''Occasionally''}'
+      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
+      required: false
+    - id: 5
+      name: park_name
+      label: park_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: true

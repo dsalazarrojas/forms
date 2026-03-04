@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_restoration_request_form
+    pages:
+    - id: 1
+      name: form_submission
+      label: form_submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: image_upload
+      label: image_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: restoration_services
+      label: restoration_services
+      hint: null
+      type: select_one
+      options:
+      - Restorative Retouching
+      - Color Correction
+      - Advanced Retouching
+      - Other
+      required: false
+    - id: 4
+      name: image_details
+      label: image_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_request
+      label: client_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: upload_image
+      label: upload_image
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Customer Satisfaction Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_page_section1
+      label: Have you visited this restaurant before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: first_page_section1_has_visited
+      label: 'Yes'
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: first_page_section1_hasnt_visited
+      label: 'No'
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: first_page_section2
+      label: Food Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 6
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: first_page_section3
+      label: How would you rate the service?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 8
+      name: service
+      label: Service
+      hint: null
+      type: text
+      options: []
+      required: false

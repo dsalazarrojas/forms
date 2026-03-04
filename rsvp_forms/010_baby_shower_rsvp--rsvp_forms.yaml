@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baby Shower RSVP
+    pages:
+    - id: 1
+      name: rsvp_header
+      label: -- Baby Shower RSVP --
+      hint: We look forward to seeing you!
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_full_name
+      label: Guest Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rsvp_attendance
+      label: Will you be attending?
+      hint: null
+      type: select_one
+      options:
+      - Joyfully Accept
+      - Regretfully Decline
+      required: true
+    - id: 4
+      name: number_of_guests
+      label: How many guests are attending?
+      hint: Including children
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: meal_preference
+      label: Meal Selection
+      hint: Select your preferred lunch option
+      type: select_one
+      options:
+      - Roasted Chicken and Vegetables
+      - Salmon with Quinoa
+      - Garden Pasta (Vegetarian)
+      - Kids' Meal (Nuggets and Fries)
+      required: true
+    - id: 6
+      name: food_allergies
+      label: Any food allergies we should know about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_baby_memory
+      label: Share your favorite memory with the parents-to-be
+      hint: This will be shared at the shower
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: song_request
+      label: Baby-themed song request for the playlist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: guest_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: message_to_mom
+      label: A special message for the Mom-to-be
+      hint: null
+      type: text
+      options: []
+      required: false

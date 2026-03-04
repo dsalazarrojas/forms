@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surah Audio Download Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: mosque
+      label: mosque
+      hint: null
+      type: select_multiple
+      options:
+      - Mosque1
+      - Mosque2
+      - Mosque3
+      required: false
+    - id: 6
+      name: audio_type
+      label: audio_type
+      hint: null
+      type: select_one
+      options:
+      - Quran
+      - Naat
+      - Wazifa
+      - Other
+      required: false
+    - id: 7
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: additional_notes
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Vision Camera Order Form
+    pages:
+    - id: 1
+      name: camera_type
+      label: Camera Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: product_type
+      label: Product Type
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: application_details
+      label: Application Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shipping_details
+      label: Shipping Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: sales_details
+      label: Sales Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: order_comments
+      label: Order Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: application_note
+      label: Application Note
+      hint: Note for application details
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: shipping_email
+      label: Shipping Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: sales_person
+      label: Sales Person
+      hint: Select sales person
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: sales_team
+      label: Sales Team
+      hint: Select sales team members
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: order_notes
+      label: Order Notes
+      hint: Select notes for order
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: delivery_date
+      label: Delivery Date
+      hint: Delivery date of order
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: delivery_time
+      label: Delivery Time
+      hint: Delivery time of order
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: product_id
+      label: Product ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_name
+      label: Product Name
+      hint: Product name
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: customer_name
+      label: Customer Name
+      hint: Customer name
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_company
+      label: Customer Company
+      hint: Customer company
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_quantity
+      label: Product Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: product_price
+      label: Product Price
+      hint: Price of product
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: customer_address
+      label: Customer Address
+      hint: Customer address
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sales_notes
+      label: Sales Notes
+      hint: Sales notes
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airport Transfers Turkey Air Ports
+    pages:
+    - id: 1
+      name: passenger_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: passenger_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For reservation confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: airport_name
+      label: Airport
+      hint: Which Turkish airport
+      type: select_one
+      options:
+      - Istanbul Ataturk
+      - Istanbul Sabiha Gokcen
+      - Ankara Esenboga
+      - Izmir Adnan Menderes
+      - Antalya
+      - Other
+      required: true
+    - id: 6
+      name: arrival_or_departure
+      label: Arrival or Departure
+      hint: Is this for arriving or departing
+      type: select_one
+      options:
+      - Arrival
+      - Departure
+      - Round Trip
+      required: true
+    - id: 7
+      name: arrival_date
+      label: Arrival Date
+      hint: Date you are arriving
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: arrival_time
+      label: Arrival Time
+      hint: Expected arrival time
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: flight_number
+      label: Flight Number
+      hint: Your flight number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: pickup_location
+      label: Pickup Location
+      hint: Where to pick you up
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: dropoff_location
+      label: Dropoff Location
+      hint: Where you want to go
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: number_of_passengers
+      label: Number of Passengers
+      hint: How many people in your group
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: number_of_luggage
+      label: Number of Pieces of Luggage
+      hint: Estimate luggage pieces
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicle_preference
+      label: Vehicle Type Preference
+      hint: Type of vehicle you prefer
+      type: select_one
+      options:
+      - Standard Sedan
+      - SUV
+      - Van
+      - Minibus
+      - Any
+      required: true
+    - id: 15
+      name: return_transfer
+      label: Return Transfer Required
+      hint: Do you need return transfer
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: return_date
+      label: Return Transfer Date
+      hint: Date for return transfer
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: return_time
+      label: Return Transfer Time
+      hint: Preferred return time
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: hotel_name
+      label: Hotel Name
+      hint: Where you are staying
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_requests
+      label: Special Requests
+      hint: Any special requirements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: payment_method
+      label: Payment Method
+      hint: How you will pay
+      type: select_one
+      options:
+      - Credit Card
+      - Cash
+      - Bank Transfer
+      - PayPal
+      required: true
+    - id: 21
+      name: agree_terms
+      label: I Agree to Terms and Conditions
+      hint: Accept booking conditions
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

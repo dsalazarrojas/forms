@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Renewal Query Contact Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: query_description
+      label: Query Description
+      hint: Briefly describe the issue or question you have regarding your subscription
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: query_priority
+      label: Query Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: contact_method
+      label: Best Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Call
+      - Email
+      - Chat
+      required: true
+    - id: 6
+      name: customer_message
+      label: Customer Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: sales_team
+      label: Sales Team
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 11
+      name: query_status
+      label: Query Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Closed
+      required: false
+    - id: 12
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Scheduled
+      - In Progress
+      - Completed
+      required: false
+    - id: 13
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: select_multiple
+      options:
+      - Send Email
+      - Call
+      - Chat
+      required: true
+    - id: 14
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: closed_note
+      label: Closed Note
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ladder Inspection Form
+    pages:
+    - id: 1
+      name: ladder_name
+      label: Ladder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: ladder_location
+      label: Ladder Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_checklist
+      label: inspection_checklist
+      hint: null
+      type: select_one
+      options:
+      - -ประก -ประก -ประก
+      - Other
+      required: true
+    - id: 4
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: email_contact
+      label: Email Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: telephone_contact
+      label: Telephone Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false

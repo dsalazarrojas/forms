@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salon Eco Product Interest Survey
+    pages:
+    - id: 1
+      name: saloneco_product_interest_page
+      label: What is your relationship with our salon?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: saloneco_product_interest
+      label: What product category are you interested in?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: saloneco_product_interest_survey_date
+      label: When are you interested in learning more about these products?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: saloneco_phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: saloneco_email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: saloneco_note
+      label: Do you have any notes about our products?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: saloneco_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: saloneco_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: saloneco_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: saloneco_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: saloneco_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: saloneco_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: saloneco_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: saloneco_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: saloneco_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: saloneco_agree
+      label: I agree with these terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: saloneco_disagree
+      label: I do not agree with these terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: saloneco_undecided
+      label: Undecided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: saloneco_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: saloneco_other_comments
+      label: Please specify other terms that you do not agree with.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: saloneco_other_agree
+      label: Other (please specify)
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: saloneco_disagree_comments
+      label: Please explain why you do not agree with these terms.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: saloneco_undecided_comments
+      label: Please explain why you are undecided about these terms.
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: saloneco_other_undecided
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: saloneco_form_submitted
+      label: Form submitted by
+      hint: null
+      type: text
+      options: []
+      required: false

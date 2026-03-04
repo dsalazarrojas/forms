@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Form Template
+    pages:
+    - id: 1
+      name: payment_form_template_page_1
+      label: Payment Form Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: card_name
+      label: Card Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: card_number
+      label: Card Number
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: card_expire
+      label: Card Expire
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: select_payment_method
+      label: Select Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - PayPal
+      required: true
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: card_security_ccv
+      label: Card Security CCV
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: card_expire_month
+      label: Card Expire Month
+      hint: null
+      type: select_one
+      options:
+      - '01'
+      - '02'
+      - '03'
+      - '04'
+      - '05'
+      - '06'
+      - '07'
+      - 08
+      - 09
+      - '10'
+      - '11'
+      - '12'
+      required: false

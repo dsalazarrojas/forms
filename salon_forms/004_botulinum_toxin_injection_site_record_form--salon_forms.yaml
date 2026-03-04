@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Botulinum Toxin Injection Site Record Form
+    pages:
+    - id: 1
+      name: section_header_treatment
+      label: -- Treatment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: treatment_date
+      label: Treatment Date
+      hint: Date of injection procedure
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: treatment_time
+      label: Treatment Time
+      hint: Time procedure was performed
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: provider_name
+      label: Provider Name
+      hint: Name of administering professional
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_product
+      label: -- Product Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: product_brand
+      label: Product Brand
+      hint: Botox, Dysport, Xeomin, etc.
+      type: select_one
+      options:
+      - Botox
+      - Dysport
+      - Xeomin
+      - Jeuveau
+      - Other
+      required: true
+    - id: 9
+      name: batch_number
+      label: Product Batch Number
+      hint: For traceability
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: expiration_date
+      label: Product Expiration Date
+      hint: Product shelf life verification
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_header_injection_sites
+      label: -- Injection Sites --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: forehead_units
+      label: Forehead Units Injected
+      hint: Total units for forehead area
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: glabella_units
+      label: Glabella (Between Brows) Units
+      hint: Total units between eyebrows
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: crow_feet_units
+      label: Crow Feet Units
+      hint: Total units per side or combined
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: other_sites
+      label: Other Treatment Areas
+      hint: Additional areas treated and units
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: total_units
+      label: Total Units Administered
+      hint: Sum of all injected units
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: section_header_reactions
+      label: -- Patient Reactions and Notes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: immediate_reactions
+      label: Any immediate reactions
+      hint: Redness, swelling, discomfort, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: patient_comfort
+      label: Patient Comfort Level
+      hint: Overall comfort during procedure
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Slightly uncomfortable
+      - Uncomfortable
+      - Very uncomfortable
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Provider Notes
+      hint: Any observations or recommendations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_date
+      label: Recommended Follow-up Date
+      hint: For results assessment
+      type: date
+      options: []
+      required: false

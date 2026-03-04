@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pay Grade Evaluation Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: pay_grade
+      label: Pay Grade
+      hint: null
+      type: select_one
+      options:
+      - A
+      - B
+      - C
+      required: true
+    - id: 5
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: pay_band
+      label: Pay Band
+      hint: null
+      type: select_one
+      options:
+      - B
+      - D
+      - E
+      required: true
+    - id: 14
+      name: pay_band_grade
+      label: Pay Band Grade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: employee_title
+      label: Employee Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_approval_reason
+      label: Manager Approval Reason
+      hint: null
+      type: text
+      options: []
+      required: false

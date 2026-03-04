@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineering Drawing Extension Line Reference Form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_info
+      label: Requestor Information
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Requestor''}'
+      - '{''value'': ''Engineer''}'
+      - '{''value'': ''Drafter''}'
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Not Specified''}'
+      required: false
+    - id: 3
+      name: drawing_info
+      label: Drawing-Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: drawing_number
+      label: Drawing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: change_info
+      label: Change-Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Accept''}'
+      - '{''value'': ''Reject''}'
+      - '{''value'': ''Conditional''}'
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy''}'
+      - '{''value'': ''engineering''}'
+      - '{''value'': ''drafting''}'
+      - '{''value'': ''other''}'
+      - '{''value'': ''not-assigned''}'
+      required: false
+    - id: 9
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      required: false
+    - id: 10
+      name: due_date
+      label: Due-Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: created_by
+      label: Created-By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_at
+      label: Created-At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: updated_by
+      label: Updated-By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated-At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted-By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_at
+      label: Submitted-At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submitted_date
+      label: Submitted-Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: request_id
+      label: Request ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_created_date
+      label: Form-Created-Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: form_updated_date
+      label: Form-Updated-Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitted_date_utc
+      label: Submitted-Date-Utc
+      hint: null
+      type: date
+      options: []
+      required: false

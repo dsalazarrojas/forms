@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapel Support Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: affiliation
+      label: Your Affiliation
+      hint: Your role at institution
+      type: select_one
+      options:
+      - Faculty
+      - Staff
+      - Student
+      - Community Member
+      - Alumnus
+      - Other
+      required: false
+    - id: 6
+      name: support_type
+      label: Type of Support Requested
+      hint: What kind of support needed
+      type: select_one
+      options:
+      - Spiritual Counseling
+      - Faith Community
+      - Prayer Request
+      - Grief Support
+      - Life Coaching
+      - Conflict Resolution
+      - Sacraments
+      - Other
+      required: true
+    - id: 7
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is request
+      type: select_one
+      options:
+      - Immediate - Crisis
+      - Urgent
+      - Non-urgent
+      required: true
+    - id: 8
+      name: situation_description
+      label: Situation or Concern Description
+      hint: Describe what is happening
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: spiritual_background
+      label: Spiritual or Religious Background
+      hint: Your faith tradition
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: previous_support
+      label: Previous Support From Chapel
+      hint: Have you received help before
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - First Time
+      required: false
+    - id: 11
+      name: preferred_chaplain
+      label: Preferred Chaplain or Counselor
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: meeting_format
+      label: Preferred Meeting Format
+      hint: How would you like to meet
+      type: select_one
+      options:
+      - In-Person
+      - Phone
+      - Video Call
+      - Email
+      - No Preference
+      required: false
+    - id: 13
+      name: availability
+      label: Preferred Meeting Time
+      hint: Best time for you
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confidentiality_concern
+      label: Confidentiality Concerns
+      hint: Any privacy preferences
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: confidentiality_details
+      label: Confidentiality Details
+      hint: What privacy measures needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: support_goals
+      label: Support or Counseling Goals
+      hint: What you hope to achieve
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: referred_by
+      label: How Did You Hear About This Service
+      hint: Source of referral
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: consent_to_contact
+      label: Consent to Contact You
+      hint: May chaplain contact you
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: Person to contact if needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: tax_document_submission_experience_survey
+    pages:
+    - id: 1
+      name: tax_submission_page
+      label: Tax Submission Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tax_document_type
+      label: Tax Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Income Tax Return''}'
+      - '{''label'': ''W-2 Form''}'
+      - '{''label'': ''1099 Form''}'
+      required: false
+    - id: 3
+      name: upload_process
+      label: Upload Process
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Easy''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Difficult''}'
+      required: false
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: tax_firm_name
+      label: Tax Firm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: false

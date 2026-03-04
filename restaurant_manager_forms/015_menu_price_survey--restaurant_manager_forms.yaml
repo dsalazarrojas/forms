@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: menu_price_survey
+    pages:
+    - id: 1
+      name: competition
+      label: Competition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer
+      label: Customer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: survey
+      label: Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: menu_items
+      label: Menu Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

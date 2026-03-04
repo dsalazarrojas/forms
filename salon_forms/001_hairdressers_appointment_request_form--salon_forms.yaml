@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hairdressers Appointment Request Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: services_form
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 3
+      name: stylist_form
+      label: Stylist
+      hint: null
+      type: select_one
+      options:
+      - Stylist 1
+      - Stylist 2
+      - Stylist 3
+      required: false
+    - id: 4
+      name: date_form
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_form
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: service_form
+      label: Service
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 7
+      name: appointment_form
+      label: Appointment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message_form
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_form
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_form
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

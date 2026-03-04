@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Viewing Registration Form
+    pages:
+    - id: 1
+      name: event_viewing_registration_form_page_1
+      label: in_person_rsvp
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_viewing_registration_form_page_2
+      label: session_selection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_viewing_registration_form_page_3
+      label: attendee_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: event_viewing_registration_form_page_4
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

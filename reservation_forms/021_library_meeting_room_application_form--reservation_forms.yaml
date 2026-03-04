@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: library_meeting_room_application_form
+    pages:
+    - id: 1
+      name: room_request
+      label: Room Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: room_name
+      label: room_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: room_capacity
+      label: room_capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reservation_duration
+      label: reservation_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: meeting_type
+      label: meeting_type
+      hint: null
+      type: select_one
+      options:
+      - Meeting
+      - Event
+      - Study
+      - Other
+      required: false
+    - id: 10
+      name: room_request_details
+      label: room_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: name
+      hint: Name of the person making the reservation
+      type: text
+      options: []
+      required: false

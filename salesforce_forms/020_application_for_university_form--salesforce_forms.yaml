@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For University Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: citizenship
+      label: Citizenship
+      hint: null
+      type: select_one
+      options:
+      - Domestic student
+      - International student
+      - Permanent resident
+      required: true
+    - id: 8
+      name: academic_information
+      label: -- Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: high_school_name
+      label: High School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: graduation_year
+      label: High School Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: gpa
+      label: High School GPA
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: standardized_test_score
+      label: Standardized Test Score (SAT/ACT)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: program_selection
+      label: -- Program Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: degree_level
+      label: Degree Level
+      hint: null
+      type: select_one
+      options:
+      - Undergraduate
+      - Graduate
+      - Doctoral
+      - Certificate
+      required: true
+    - id: 15
+      name: intended_major
+      label: Intended Major/Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: secondary_interests
+      label: Secondary interests or minors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: extracurricular_activities
+      label: -- Extracurricular Activities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: activities_description
+      label: Describe your extracurricular activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: leadership_experience
+      label: Leadership experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: community_service
+      label: Community service or volunteer work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: essay_section
+      label: -- Essay Section --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: essay_prompt_1
+      label: Why do you want to attend our university?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: essay_prompt_2
+      label: Describe a challenge you have overcome
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AI Tools Subscription Request
+    pages:
+    - id: 1
+      name: --requester_information--
+      label: -- Requester Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or team
+      hint: Team requesting access
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester email
+      hint: For notifications and approvals
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: tool_name
+      label: Tool or service name
+      hint: Exact product name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: intended_use_case
+      label: Intended use case
+      hint: Describe how the tool will be used
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: access_level_required
+      label: Access level required
+      hint: Select one
+      type: select_one
+      options:
+      - Read only
+      - Contributor
+      - Admin
+      required: true
+    - id: 8
+      name: duration_needed
+      label: Duration of access needed
+      hint: Select one
+      type: select_one
+      options:
+      - 1 month
+      - 3 months
+      - 6 months
+      - Indefinite
+      required: true
+    - id: 9
+      name: approval_required_from
+      label: Approval required from
+      hint: Manager or approver name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments or justification
+      hint: Optional
+      type: text
+      options: []
+      required: false

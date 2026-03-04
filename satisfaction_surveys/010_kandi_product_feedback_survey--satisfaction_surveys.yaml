@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: kandi_product_feedback_survey
+    pages:
+    - id: 1
+      name: intro_question
+      label: How did you hear about kandi?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 2
+      name: product_usage
+      label: How often do you use Kandi?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 3
+      name: satisfaction_score
+      label: How satisfied are you with Kandi?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: improvement_ideas
+      label: Do you have any improvement ideas for Kandi?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_report
+      label: Have you encountered any issues with Kandi?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: select_one
+      options:
+      - company_1
+      - company_2
+      - company_3
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - department_1
+      - department_2
+      - department_3
+      required: true
+    - id: 10
+      name: job_title
+      label: Job title
+      hint: null
+      type: select_one
+      options:
+      - job_title_1
+      - job_title_2
+      - job_title_3
+      required: true
+    - id: 11
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - role_1
+      - role_2
+      - role_3
+      required: true
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - location_1
+      - location_2
+      - location_3
+      required: true
+    - id: 13
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - language_1
+      - language_2
+      - language_3
+      required: true
+    - id: 14
+      name: time_zone
+      label: Time zone
+      hint: null
+      type: select_one
+      options:
+      - time_zone_1
+      - time_zone_2
+      - time_zone_3
+      required: true
+    - id: 15
+      name: product_used
+      label: Which Kandi product(s) do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 16
+      name: product_used_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: product_used_other_input
+      label: Please specify which Kandi product you use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: feedback
+      label: Any additional feedback about Kandi?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: how_did_you_hear
+      label: How did you hear about Kandi?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 20
+      name: social_media
+      label: Social media
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 21
+      name: event
+      label: Event
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 22
+      name: email_marketing
+      label: Email marketing
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 23
+      name: online_search
+      label: Online search
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true
+    - id: 24
+      name: word_of_mouth
+      label: Word of mouth
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 25
+      name: how_did_you_find
+      label: How did you find Kandi?
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: true

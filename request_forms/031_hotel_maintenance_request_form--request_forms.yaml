@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hotel Maintenance Request Form
+    pages:
+    - id: 1
+      name: hotel_maintenance_form
+      label: Hotel Maintenance Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save for Later
+      - Cancel
+      required: false
+    - id: 3
+      name: maintenance_request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Plumbing
+      - Electrical
+      - General Maintenance
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

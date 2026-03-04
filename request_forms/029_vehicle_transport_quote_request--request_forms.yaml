@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Transport Quote Request
+    pages:
+    - id: 1
+      name: vehicle_transport_quote_request_form
+      label: Vehicle Transport Quote Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Auto
+      - Truck
+      - Motorcycle
+      - Tractor
+      - Bus
+      - Van
+      - Boat
+      - Train
+      - Camping Trailer
+      required: false
+    - id: 3
+      name: origin_location
+      label: Origin Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: destination_location
+      label: Destination Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: transport_type
+      label: Type of Transport
+      hint: null
+      type: select_one
+      options:
+      - Air
+      - Ground
+      required: false
+    - id: 6
+      name: vehicle_size
+      label: Vehicle Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 7
+      name: estimated_weight
+      label: Estimated Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_length
+      label: Vehicle Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_width
+      label: Vehicle Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_height
+      label: Vehicle Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_weight
+      label: Vehicle Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: cargo_description
+      label: Additional Cargo Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: estimated_cost
+      label: Estimated Cost
+      hint: null
+      type: number
+      options: []
+      required: false

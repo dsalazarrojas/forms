@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Policy Communication Survey
+    pages:
+    - id: 1
+      name: payperiod_label
+      label: Pay Period
+      hint: null
+      type: select_one
+      options:
+      - Pay Period
+      - Another Period
+      - Yet Another Period
+      required: false
+    - id: 2
+      name: paymethod_label
+      label: Pay Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Check
+      required: false
+    - id: 3
+      name: salaryscale_label
+      label: Salary Scale
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: department_label
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location_label
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employeecount_label
+      label: Employee Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: payrollmethod_label
+      label: Payroll Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Check
+      - Direct Deposit
+      required: false
+    - id: 8
+      name: payrollperiod_label
+      label: Payroll Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: frequency_label
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

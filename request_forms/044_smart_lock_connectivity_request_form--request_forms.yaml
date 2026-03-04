@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Lock Connectivity Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: smart_lock_name
+      label: Smart Lock Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: smart_lock_model
+      label: Smart Lock Model
+      hint: null
+      type: select_one
+      options:
+      - Apple Lock 1
+      - Apple Lock 2
+      - Apple Lock 3
+      required: true
+    - id: 7
+      name: firmware_version
+      label: Firmware Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: note
+      options: []
+      required: true

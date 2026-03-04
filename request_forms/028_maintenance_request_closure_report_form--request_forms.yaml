@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Request Closure Report Form
+    pages:
+    - id: 1
+      name: maintenance_request_closure_report_form_1
+      label: Maintenance Request Closure Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: maintenance_request_closure_report_form_2
+      label: Maintenance Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: maintenance_request_closure_report_form_3
+      label: Maintenance Type (Other)
+      hint: Specify other types not listed
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_request_closure_report_form_4
+      label: Description of Work Done
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: maintenance_request_closure_report_form_5
+      label: Date Work Done
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: maintenance_request_closure_report_form_6
+      label: Time Work Done
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_request_closure_report_form_7
+      label: Work Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: maintenance_request_closure_report_form_8
+      label: Technician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: maintenance_request_closure_report_form_9
+      label: Supervisor Review
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: maintenance_request_closure_report_form_10
+      label: Supervisor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false

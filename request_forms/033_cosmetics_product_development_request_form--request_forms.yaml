@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cosmetics Product Development Request Form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 11, ''name'': ''Skin Care'', ''value'': ''skin_care''}'
+      - '{''id'': 12, ''name'': ''Hair Care'', ''value'': ''hair_care''}'
+      - '{''id'': 13, ''name'': ''Make Up'', ''value'': ''make_up''}'
+      - '{''id'': 14, ''name'': ''Fragrance'', ''value'': ''fragrance''}'
+      - '{''id'': 15, ''name'': ''Personal Care'', ''value'': ''personal_care''}'
+      - '{''id'': 16, ''name'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: Brief description of the product
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_image_alt
+      label: Product Image Alt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_color
+      label: Product Color
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 21, ''name'': ''Red'', ''value'': ''red''}'
+      - '{''id'': 22, ''name'': ''Blue'', ''value'': ''blue''}'
+      - '{''id'': 23, ''name'': ''Black'', ''value'': ''black''}'
+      - '{''id'': 24, ''name'': ''Green'', ''value'': ''green''}'
+      required: false
+    - id: 8
+      name: product_size
+      label: Product Size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 25, ''name'': ''Small'', ''value'': ''small''}'
+      - '{''id'': 26, ''name'': ''Medium'', ''value'': ''medium''}'
+      - '{''id'': 27, ''name'': ''Large'', ''value'': ''large''}'
+      - '{''id'': 28, ''name'': ''Extra Large'', ''value'': ''extra_large''}'
+      required: false
+    - id: 9
+      name: product_weight
+      label: Product Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: product_packaging
+      label: Product Packaging
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 29, ''name'': ''Tube'', ''value'': ''tube''}'
+      - '{''id'': 30, ''name'': ''Bottle'', ''value'': ''bottle''}'
+      - '{''id'': 31, ''name'': ''Jar'', ''value'': ''jar''}'
+      - '{''id'': 32, ''name'': ''Bag'', ''value'': ''bag''}'
+      - '{''id'': 33, ''name'': ''Box'', ''value'': ''box''}'
+      - '{''id'': 34, ''name'': ''Other'', ''value'': ''other''}'
+      required: true
+    - id: 11
+      name: product_launch_date
+      label: Product Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_address
+      label: Company Address
+      hint: null
+      type: text
+      options: []
+      required: false
