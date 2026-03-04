@@ -357,6 +357,10 @@
           <span class="material-symbols-outlined icon-sm">visibility</span>
           <span>Live Preview</span>
         </button>
+        <button class="tab-btn tab-inactive-pill flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium transition-all rounded-md" data-tab="editor">
+          <span class="material-symbols-outlined icon-sm">edit_note</span>
+          <span>Editor</span>
+        </button>
         <button class="tab-btn tab-inactive-pill flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium transition-all rounded-md" data-tab="yaml">
           <span class="material-symbols-outlined icon-sm">code</span>
           <span>YAML Source</span>
@@ -435,6 +439,50 @@
             </p>
             <div id="seo-related" class="grid grid-cols-1 sm:grid-cols-2 gap-2"></div>
           </article>
+        </div>
+      </div>
+
+      <!-- TAB: Editor -->
+      <div id="tab-editor" class="tab-content hidden h-full p-6 sm:p-8">
+        <div class="max-w-4xl mx-auto">
+          <div class="bg-white dark:bg-slate-900 rounded-xl shadow-sm border border-slate-200 dark:border-slate-800 p-5 sm:p-6">
+            <h2 class="text-lg font-bold text-slate-900 dark:text-slate-100 mb-2">Visual + YAML Editor</h2>
+            <p class="text-sm text-slate-600 dark:text-slate-400 mb-4">
+              Edit this form as a starting point, apply changes to the live preview, and keep a local draft between sessions.
+            </p>
+
+            <div class="flex flex-wrap gap-2 mb-3">
+              <button id="editor-apply" class="btn-outline" style="width:auto;padding:6px 12px;">
+                <span class="material-symbols-outlined icon-sm">check_circle</span>
+                Apply Changes
+              </button>
+              <button id="editor-save-draft" class="btn-outline" style="width:auto;padding:6px 12px;">
+                <span class="material-symbols-outlined icon-sm">save</span>
+                Save Draft (Local)
+              </button>
+              <button id="editor-load-draft" class="btn-outline" style="width:auto;padding:6px 12px;">
+                <span class="material-symbols-outlined icon-sm">history</span>
+                Load Draft
+              </button>
+              <button id="editor-clear-draft" class="btn-outline" style="width:auto;padding:6px 12px;">
+                <span class="material-symbols-outlined icon-sm">delete</span>
+                Clear Draft
+              </button>
+              <button id="editor-copy" class="btn-outline" style="width:auto;padding:6px 12px;">
+                <span class="material-symbols-outlined icon-sm">content_copy</span>
+                Copy Edited YAML
+              </button>
+              <button id="editor-download" class="btn-outline" style="width:auto;padding:6px 12px;">
+                <span class="material-symbols-outlined icon-sm">download</span>
+                Download Edited YAML
+              </button>
+            </div>
+
+            <p id="editor-status" class="text-xs text-slate-500 dark:text-slate-400 mb-3">No local draft loaded.</p>
+
+            <label for="editor-yaml" class="block text-xs uppercase tracking-wide text-slate-500 dark:text-slate-400 mb-2">Editable YAML</label>
+            <textarea id="editor-yaml" class="preview-input font-mono text-xs leading-relaxed min-h-[420px]"></textarea>
+          </div>
         </div>
       </div>
 
@@ -609,6 +657,7 @@
   let currentForm = null;
   let currentYaml = null;
   let currentFormPath = null;
+  let originalYaml = null;
   let hasXlsForm = false;
   let viewMode = 'desktop'; // 'desktop' | 'mobile'
 
@@ -913,6 +962,164 @@
     }
   }
 
+  function editorDraftKey() {
+    return `gic-form-draft:${currentFormPath || 'unknown'}`;
+  }
+
+  function setEditorStatus(message, isError = false) {
+    const el = document.getElementById('editor-status');
+    if (!el) return;
+    el.textContent = message;
+    el.className = isError
+      ? 'text-xs text-red-500 mb-3'
+      : 'text-xs text-slate-500 dark:text-slate-400 mb-3';
+  }
+
+  function syncEditorFromCurrentForm(force = false) {
+    const ta = document.getElementById('editor-yaml');
+    if (!ta) return;
+    if (force || ta.value.trim() === '' || ta.dataset.dirty !== 'true') {
+      ta.value = currentYaml || '';
+      ta.dataset.dirty = 'false';
+    }
+  }
+
+  function initEditorHandlers() {
+    if (window.__gicEditorInitialized) return;
+    window.__gicEditorInitialized = true;
+
+    const ta = document.getElementById('editor-yaml');
+    if (!ta) return;
+    ta.addEventListener('input', () => { ta.dataset.dirty = 'true'; });
+
+    document.getElementById('editor-save-draft').addEventListener('click', () => {
+      localStorage.setItem(editorDraftKey(), ta.value || '');
+      setEditorStatus('Draft saved locally for this form.');
+    });
+
+    document.getElementById('editor-load-draft').addEventListener('click', () => {
+      const draft = localStorage.getItem(editorDraftKey());
+      if (!draft) {
+        setEditorStatus('No local draft found for this form.', true);
+        return;
+      }
+      ta.value = draft;
+      ta.dataset.dirty = 'true';
+      setEditorStatus('Draft loaded. Click "Apply Changes" to render it.');
+    });
+
+    document.getElementById('editor-clear-draft').addEventListener('click', () => {
+      localStorage.removeItem(editorDraftKey());
+      setEditorStatus('Draft cleared for this form.');
+    });
+
+    document.getElementById('editor-copy').addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(ta.value || '');
+        setEditorStatus('Edited YAML copied to clipboard.');
+      } catch (_) {
+        setEditorStatus('Unable to copy YAML on this browser session.', true);
+      }
+    });
+
+    document.getElementById('editor-download').addEventListener('click', () => {
+      const fallback = 'edited-form.yaml';
+      const fileName = (currentFormPath || fallback).split('/').pop() || fallback;
+      downloadFile(fileName, ta.value || '', 'text/yaml');
+      setEditorStatus('Edited YAML downloaded.');
+    });
+
+    document.getElementById('editor-apply').addEventListener('click', async () => {
+      try {
+        const edited = ta.value || '';
+        const parsed = jsyaml.load(edited);
+        if (!parsed || typeof parsed !== 'object') {
+          throw new Error('YAML must parse to an object.');
+        }
+        const pages = parsed.inputSchema?.properties?.pages;
+        if (!Array.isArray(pages)) {
+          throw new Error('Missing inputSchema.properties.pages array.');
+        }
+        currentYaml = edited;
+        currentForm = parsed;
+        await hydrateUiFromCurrentForm();
+        ta.dataset.dirty = 'false';
+        setEditorStatus('Changes applied to preview and source tabs.');
+      } catch (err) {
+        setEditorStatus(`Editor apply failed: ${err.message}`, true);
+      }
+    });
+  }
+
+  async function hydrateUiFromCurrentForm() {
+    const props = currentForm?.inputSchema?.properties || {};
+    const title = (props.title || 'Untitled Form').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+    const pages = Array.isArray(props.pages) ? props.pages : [];
+    const language = currentForm?.language || 'English';
+    const categoryRaw = (currentFormPath || '').split('/')[0] || 'other';
+    const category = categoryRaw.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+
+    hasXlsForm = true;
+
+    // Left panel
+    document.getElementById('form-title-sidebar').textContent = title;
+    document.getElementById('form-category-sidebar').textContent = category;
+    document.getElementById('form-meta-sidebar').innerHTML = `
+      <span class="inline-flex items-center gap-1 text-xs bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 rounded-full px-2 py-0.5">
+        <span class="material-symbols-outlined" style="font-size:12px;">quiz</span>
+        ${pages.length} questions
+      </span>
+      <span class="inline-flex items-center gap-1 text-xs bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 rounded-full px-2 py-0.5">
+        <span class="material-symbols-outlined" style="font-size:12px;">language</span>
+        ${language}
+      </span>`;
+
+    // Download buttons
+    document.getElementById('btn-download-yaml').onclick = () => downloadFile(currentFormPath, currentYaml, 'text/yaml');
+    if (hasXlsForm) {
+      const xlsBtn = document.getElementById('btn-download-xlsx');
+      xlsBtn.classList.remove('hidden');
+      xlsBtn.onclick = () => downloadXlsx();
+    }
+
+    // Deep links
+    const rawUrl = `https://raw.githubusercontent.com/dsalazarrojas/forms/main/${currentFormPath}`;
+    const encodedPath = encodeURIComponent(rawUrl);
+    const appStoreUrl = 'https://apps.apple.com/us/app/gic-collect/id1485932698';
+    const creatorStoreUrl = 'https://apps.apple.com/app/gic-xlsform-creation/id6737851526';
+
+    const gcLink = document.getElementById('btn-giccollect');
+    gcLink.href = `giccollect://import-form?url=${encodedPath}`;
+    gcLink.onclick = () => {
+      setTimeout(() => {
+        if (!document.hidden) window.open(appStoreUrl, '_blank');
+      }, 800);
+    };
+
+    const gccLink = document.getElementById('btn-giccollectcreator');
+    gccLink.href = `giccollectcreator://open-form?id=${encodedPath}`;
+    gccLink.onclick = () => {
+      setTimeout(() => {
+        if (!document.hidden) window.open(creatorStoreUrl, '_blank');
+      }, 800);
+    };
+
+    document.getElementById('btn-cloudflare').href = `onetimeweb://deploy-form?id=${encodedPath}`;
+
+    // Deploy tab links
+    document.getElementById('deploy-giccollectcreator').href = `giccollectcreator://open-form?id=${encodedPath}`;
+    document.getElementById('deploy-cloudflare').href = `onetimeweb://deploy-form?id=${encodedPath}`;
+    document.getElementById('deploy-giccollect').href = `giccollect://import-form?url=${encodedPath}`;
+
+    renderForm(pages);
+    document.getElementById('yaml-code').textContent = currentYaml;
+    Prism.highlightAll();
+    updateStats(currentForm, pages);
+    updateSeoContent(title, categoryRaw, pages, language, currentFormPath);
+    await updateRelatedForms(categoryRaw, currentFormPath);
+    syncEditorFromCurrentForm(true);
+  }
+
   function updateStats(form, pages) {
     const qCount = pages.length;
     const mins = Math.max(1, Math.ceil(qCount * 0.5));
@@ -970,82 +1177,15 @@
 
       currentYaml = await response.text();
       currentForm = jsyaml.load(currentYaml);
-
-      const props = currentForm.inputSchema?.properties || {};
-      const title = (props.title || 'Untitled Form').replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-      const pages = props.pages || [];
-      const language = currentForm.language || 'English';
-      const categoryRaw = formPath.split('/')[0];
-      const category = categoryRaw.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
-
-      // Check for xlsx
-      const xlsxPath = formPath.replace('.yaml', '.xlsx').replace('.yml', '.xlsx');
-      hasXlsForm = true; // assume it exists; show the button
-
-      // ── Left panel ──────────────────────────────────────────────────────────
-      document.getElementById('form-title-sidebar').textContent = title;
-      document.getElementById('form-category-sidebar').textContent = category;
-      document.getElementById('form-meta-sidebar').innerHTML = `
-        <span class="inline-flex items-center gap-1 text-xs bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 rounded-full px-2 py-0.5">
-          <span class="material-symbols-outlined" style="font-size:12px;">quiz</span>
-          ${pages.length} questions
-        </span>
-        <span class="inline-flex items-center gap-1 text-xs bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 rounded-full px-2 py-0.5">
-          <span class="material-symbols-outlined" style="font-size:12px;">language</span>
-          ${language}
-        </span>`;
-
-      // ── Download buttons ─────────────────────────────────────────────────────
-      document.getElementById('btn-download-yaml').onclick = () => downloadFile(formPath, currentYaml, 'text/yaml');
-
-      if (hasXlsForm) {
-        const xlsBtn = document.getElementById('btn-download-xlsx');
-        xlsBtn.classList.remove('hidden');
-        xlsBtn.onclick = () => downloadXlsx();
+      originalYaml = currentYaml;
+      await hydrateUiFromCurrentForm();
+      initEditorHandlers();
+      const existingDraft = localStorage.getItem(editorDraftKey());
+      if (existingDraft) {
+        setEditorStatus('Local draft found for this form. Click "Load Draft" to continue editing.');
+      } else {
+        setEditorStatus('No local draft loaded.');
       }
-
-      // ── Deep links ───────────────────────────────────────────────────────────
-      const encodedPath = encodeURIComponent(rawUrl);
-      const appStoreUrl = 'https://apps.apple.com/us/app/gic-collect/id1485932698';
-      const creatorStoreUrl = 'https://apps.apple.com/app/gic-xlsform-creation/id6737851526';
-
-      const gcLink = document.getElementById('btn-giccollect');
-      gcLink.href = `giccollect://import-form?url=${encodedPath}`;
-      gcLink.addEventListener('click', (e) => {
-        // Fallback: open App Store after a short delay if the deep link fails
-        setTimeout(() => {
-          if (!document.hidden) window.open(appStoreUrl, '_blank');
-        }, 800);
-      });
-
-      const gccLink = document.getElementById('btn-giccollectcreator');
-      gccLink.href = `giccollectcreator://open-form?id=${encodedPath}`;
-      gccLink.addEventListener('click', () => {
-        setTimeout(() => {
-          if (!document.hidden) window.open(creatorStoreUrl, '_blank');
-        }, 800);
-      });
-
-      document.getElementById('btn-cloudflare').href = `onetimeweb://deploy-form?id=${encodedPath}`;
-
-      // ── Deploy tab links ─────────────────────────────────────────────────────
-      document.getElementById('deploy-giccollectcreator').href = `giccollectcreator://open-form?id=${encodedPath}`;
-      document.getElementById('deploy-cloudflare').href = `onetimeweb://deploy-form?id=${encodedPath}`;
-      document.getElementById('deploy-giccollect').href = `giccollect://import-form?url=${encodedPath}`;
-
-      // ── Render form preview ──────────────────────────────────────────────────
-      renderForm(pages);
-
-      // ── YAML tab ─────────────────────────────────────────────────────────────
-      document.getElementById('yaml-code').textContent = currentYaml;
-      Prism.highlightAll();
-
-      // ── Stats panel ──────────────────────────────────────────────────────────
-      updateStats(currentForm, pages);
-
-      // ── Article-style content block for search/discovery ───────────────────────
-      updateSeoContent(title, categoryRaw, pages, language, formPath);
-      await updateRelatedForms(categoryRaw, formPath);
 
     } catch (error) {
       console.error('Error loading form:', error);
